@@ -1,13 +1,11 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.535597,40.536851],"type":"Point"},"properties":{"a":"40.536851","cty":"LEHIGH","id":8795896,"mun":"LOWER MACUNGIE TWP","nc":7,"o":"-75.535597"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.287453,41.07283],"type":"Point"},"properties":{"a":"41.07283","cty":"MONROE","id":8795932,"mun":"POCONO TWP","nc":1,"o":"-75.287453"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.436501,40.5693],"type":"Point"},"properties":{"a":"40.5693","cty":"LEHIGH","id":8795966,"mun":"SALISBURY TWP","nc":3,"o":"-75.436501"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.532933,40.976787],"type":"Point"},"properties":{"a":"40.976787","cty":"CARBON","id":8796000,"mun":"PENN FOREST TWP","nc":2,"o":"-75.532933"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.465096,41.257019],"type":"Point"},"properties":{"a":"41.257019","cty":"LACKAWANNA","id":8796002,"mun":"CLIFTON TWP","nc":1,"o":"-75.465096"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.424687,40.799173],"type":"Point"},"properties":{"a":"40.799173","cty":"NORTHUMBERLAND","id":8796012,"mun":"MOUNT CARMEL TWP","nc":9,"o":"-76.424687"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.325091,40.994151],"type":"Point"},"properties":{"a":"40.994151","cty":"CLINTON","id":8796020,"mun":"GREENE TWP","nc":2,"o":"-77.325091"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.459051,41.369252],"type":"Point"},"properties":{"a":"41.369252","cty":"LACKAWANNA","id":8796021,"mun":"MADISON TWP","nc":1,"o":"-75.459051"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.428097,40.798578],"type":"Point"},"properties":{"a":"40.798578","cty":"NORTHUMBERLAND","id":8796028,"mun":"MOUNT CARMEL TWP","nc":18,"o":"-76.428097"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.869675,41.17557],"type":"Point"},"properties":{"a":"41.17557","cty":"LYCOMING","id":8796030,"mun":"CLINTON TWP","nc":2,"o":"-76.869675"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.529238,41.008316],"type":"Point"},"properties":{"a":"41.008316","cty":"CARBON","id":8796040,"mun":"PENN FOREST TWP","nc":3,"o":"-75.529238"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.529238,41.008316],"type":"Point"},"properties":{"a":"41.008316","cty":"CARBON","id":8796040,"mun":"PENN FOREST TWP","nc":3,"o":"-75.529238"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.134765,40.812863],"type":"Point"},"properties":{"a":"40.812863","cty":"SCHUYLKILL","id":8796047,"mun":"MAHANOY TWP","nc":1,"o":"-76.134765"},"type":"Feature"}
 ]}
