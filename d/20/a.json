@@ -1,0 +1,6 @@
+{"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-77.226739,42.959195],"type":"Point"},"properties":{"EstRest":"","Outages":2,"cause":"","county":"ONTARIO","crewstatus":"DISP ","customers":25,"hamlet":"SHORTSVILLE","incidentnumber":"00ZCG2","incidents":1,"level":"street","opco":"RGE","street":"WATER ST","town":"MANCHSTR V SHORTSVILLE"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.226739,42.959195],"type":"Point"},"properties":{"EstRest":"","Outages":2,"county":"ONTARIO","customers":35916,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.211266,43.147986],"type":"Point"},"properties":{"EstRest":"10/9/2026 12:30:00 PM","Outages":1,"cause":"System Upgrade","county":"WAYNE","crewstatus":"ONST ","customers":91,"hamlet":"MARION","incidentnumber":"00ZFCV","incidents":1,"level":"street","opco":"RGE","street":"RIDGE CHAPEL RD","town":"MARION"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.211266,43.147986],"type":"Point"},"properties":{"EstRest":"10/9/2026 12:30:00 PM","Outages":1,"county":"WAYNE","customers":27029,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
+]}

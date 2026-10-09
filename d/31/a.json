@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"geometry":{"geometries":[{"coordinates":[[[-72.363842,44.354861],[-72.359709,44.355292],[-72.357643,44.357861],[-72.357428,44.359505],[-72.363887,44.374339],[-72.376202,44.385793],[-72.376589,44.385793],[-72.376741,44.385781],[-72.403305,44.378628],[-72.406062,44.374763],[-72.407069,44.363525],[-72.363842,44.354861]]],"type":"Polygon"},{"coordinates":[-72.381979,44.369639],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"TREES                         ","crewAssigned":true,"estimateTime":1791567900000,"id":"263593","nbrOut":62,"planned":false,"timeOff":1791560879825},"type":"Feature"}
+]}
