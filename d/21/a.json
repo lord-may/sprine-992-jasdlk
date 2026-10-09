@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.533582,44.699433],"type":"Point"},"properties":{"EstRest":"10/9/2026 6:15:00 PM","Outages":8,"county":"KENNEBEC","customers":75925,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.211508,43.966452],"type":"Point"},"properties":{"EstRest":"10/9/2026 7:00:00 PM","Outages":2,"county":"KNOX","customers":27251,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.944222,44.074287],"type":"Point"},"properties":{"EstRest":"10/9/2026 5:45:00 PM","Outages":1,"cause":"","county":"OXFORD","crewstatus":"ONST ","customers":80,"hamlet":"FRYEBURG","incidentnumber":"0042UK","incidents":1,"level":"street","opco":"CMP","street":"LOVEWELL POND RD","town":"FRYEBURG"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.944222,44.074287],"type":"Point"},"properties":{"EstRest":"10/9/2026 5:45:00 PM","Outages":1,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.533582,44.699433],"type":"Point"},"properties":{"EstRest":"10/9/2026 6:15:00 PM","Outages":4,"cause":"","county":"KENNEBEC","crewstatus":"ENRT ","customers":4,"hamlet":"CLINTON","incidentnumber":"0042UR","incidents":1,"level":"street","opco":"CMP","street":"DEAN RD","town":"CLINTON"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.533582,44.699433],"type":"Point"},"properties":{"EstRest":"10/9/2026 6:15:00 PM","Outages":4,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.286371,44.180195],"type":"Point"},"properties":{"EstRest":"10/9/2026 7:00:00 PM","Outages":7,"county":"KNOX","customers":27251,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
