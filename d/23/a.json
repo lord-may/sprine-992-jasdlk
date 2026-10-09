@@ -6,5 +6,6 @@
 {"geometry":{"coordinates":[-76.428097,40.798578],"type":"Point"},"properties":{"a":"40.798578","cty":"NORTHUMBERLAND","id":8796028,"mun":"MOUNT CARMEL TWP","nc":18,"o":"-76.428097"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.529238,41.008316],"type":"Point"},"properties":{"a":"41.008316","cty":"CARBON","id":8796040,"mun":"PENN FOREST TWP","nc":3,"o":"-75.529238"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.134765,40.812863],"type":"Point"},"properties":{"a":"40.812863","cty":"SCHUYLKILL","id":8796047,"mun":"MAHANOY TWP","nc":1,"o":"-76.134765"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.649456,40.640227],"type":"Point"},"properties":{"a":"40.640227","cty":"LEHIGH","id":8796051,"mun":"LOWHILL TWP","nc":2,"o":"-75.649456"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.649456,40.640227],"type":"Point"},"properties":{"a":"40.640227","cty":"LEHIGH","id":8796051,"mun":"LOWHILL TWP","nc":2,"o":"-75.649456"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.352096,41.292541],"type":"Point"},"properties":{"a":"41.292541","cty":"WAYNE","id":8796061,"mun":"DREHER TWP","nc":3,"o":"-75.352096"},"type":"Feature"}
 ]}
