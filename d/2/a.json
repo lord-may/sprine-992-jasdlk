@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-74.37123,41.4942],"type":"Point"},"properties":{"cause":"Under Investigation","cluster":false,"cust_a":{"val":2},"etr":"2026-10-09T15:53:03-0400","inc_id":"558252","title":"Outage Information"},"type":"Feature"}
 ]}
