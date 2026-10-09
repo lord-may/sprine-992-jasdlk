@@ -1,10 +1,9 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-77.325091,40.994151],"type":"Point"},"properties":{"a":"40.994151","cty":"CLINTON","id":8796020,"mun":"GREENE TWP","nc":2,"o":"-77.325091"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.428097,40.798578],"type":"Point"},"properties":{"a":"40.798578","cty":"NORTHUMBERLAND","id":8796028,"mun":"MOUNT CARMEL TWP","nc":18,"o":"-76.428097"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.529238,41.008316],"type":"Point"},"properties":{"a":"41.008316","cty":"CARBON","id":8796040,"mun":"PENN FOREST TWP","nc":3,"o":"-75.529238"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.98423,40.96392],"type":"Point"},"properties":{"a":"40.96392","cty":"LUZERNE","hp":true,"id":8796072,"mun":"HAZLETON","nc":80,"ne":{"a":"40.9654","o":"-75.98376"},"o":"-75.98423","sw":{"a":"40.96244","o":"-75.9847"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.983637,40.961642],"type":"Point"},"properties":{"a":"40.961642","cty":"LUZERNE","id":8796081,"mun":"HAZLETON","nc":24,"o":"-75.983637"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.983438,40.962513],"type":"Point"},"properties":{"a":"40.962513","cty":"LUZERNE","id":8796082,"mun":"HAZLETON","nc":5,"o":"-75.983438"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.357236,40.646526],"type":"Point"},"properties":{"a":"40.646526","cty":"NORTHAMPTON","id":8796095,"mun":"BETHLEHEM","nc":19,"o":"-75.357236"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.134765,40.812863],"type":"Point"},"properties":{"a":"40.812863","cty":"SCHUYLKILL","id":8796096,"mun":"MAHANOY TWP","nc":1,"o":"-76.134765"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.54336,40.77],"type":"Point"},"properties":{"a":"40.77","cty":"NORTHAMPTON","hp":true,"id":8796105,"mun":"LEHIGH TWP","nc":36,"ne":{"a":"40.77293","o":"-75.53904"},"o":"-75.54336","sw":{"a":"40.76708","o":"-75.54768"}},"type":"Feature"},
+{"geometry":{"coordinates":[-77.022948,41.341651],"type":"Point"},"properties":{"a":"41.341651","cty":"LYCOMING","id":8796107,"mun":"HEPBURN TWP","nc":1,"o":"-77.022948"},"type":"Feature"}
 ]}
