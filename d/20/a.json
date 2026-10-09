@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-77.556806,43.105864],"type":"Point"},"properties":{"EstRest":"10/9/2026 4:20:00 PM","Outages":25,"county":"MONROE","customers":303507,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.557851,43.105727],"type":"Point"},"properties":{"EstRest":"10/9/2026 4:20:00 PM","Outages":12,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":34,"hamlet":"ROCHESTER","incidentnumber":"00ZFHC","incidents":1,"level":"street","opco":"RGE","street":"CRANDON WAY","town":"BRIGHTON"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.557851,43.105727],"type":"Point"},"properties":{"EstRest":"10/9/2026 4:20:00 PM","Outages":11,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":22,"hamlet":"ROCHESTER","incidentnumber":"00ZFHC","incidents":1,"level":"street","opco":"RGE","street":"CORAL WAY","town":"BRIGHTON"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.226739,42.959195],"type":"Point"},"properties":{"EstRest":"","Outages":2,"cause":"","county":"ONTARIO","crewstatus":"DISP ","customers":25,"hamlet":"SHORTSVILLE","incidentnumber":"00ZCG2","incidents":1,"level":"street","opco":"RGE","street":"WATER ST","town":"MANCHSTR V SHORTSVILLE"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.226739,42.959195],"type":"Point"},"properties":{"EstRest":"","Outages":2,"county":"ONTARIO","customers":35916,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
