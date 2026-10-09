@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.357236,40.646526],"type":"Point"},"properties":{"a":"40.646526","cty":"NORTHAMPTON","id":8796095,"mun":"BETHLEHEM","nc":19,"o":"-75.357236"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.903897,40.095951],"type":"Point"},"properties":{"a":"40.095951","cty":"CHESTER","id":8796151,"mun":"HONEYBROOK TWP","nc":1,"o":"-75.903897"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.267768,40.476176],"type":"Point"},"properties":{"a":"40.476176","cty":"PERRY","id":8796157,"mun":"TUSCARORA TWP","nc":1,"o":"-77.267768"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.903897,40.095951],"type":"Point"},"properties":{"a":"40.095951","cty":"CHESTER","id":8796151,"mun":"HONEYBROOK TWP","nc":1,"o":"-75.903897"},"type":"Feature"}
 ]}
