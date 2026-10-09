@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.357236,40.646526],"type":"Point"},"properties":{"a":"40.646526","cty":"NORTHAMPTON","id":8796095,"mun":"BETHLEHEM","nc":19,"o":"-75.357236"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.178475,41.476704],"type":"Point"},"properties":{"a":"41.476704","cty":"WAYNE","id":8796144,"mun":"HAWLEY BORO","nc":12,"o":"-75.178475"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.504063,40.62163],"type":"Point"},"properties":{"a":"40.62163","cty":"LEHIGH","id":8796145,"mun":"SOUTH WHITEHALL TWP","nc":2,"o":"-75.504063"},"type":"Feature"}
 ]}
