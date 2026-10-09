@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-69.533582,44.699433],"type":"Point"},"properties":{"EstRest":"10/9/2026 6:15:00 PM","Outages":4,"cause":"","county":"KENNEBEC","crewstatus":"ENRT ","customers":4,"hamlet":"CLINTON","incidentnumber":"0042UR","incidents":1,"level":"street","opco":"CMP","street":"DEAN RD","town":"CLINTON"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.533582,44.699433],"type":"Point"},"properties":{"EstRest":"10/9/2026 6:15:00 PM","Outages":4,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.286371,44.180195],"type":"Point"},"properties":{"EstRest":"10/9/2026 7:00:00 PM","Outages":7,"county":"KNOX","customers":27251,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.211533,43.966343],"type":"Point"},"properties":{"EstRest":"10/9/2026 7:00:00 PM","Outages":2,"cause":"","county":"KNOX","crewstatus":"ONST ","customers":6,"hamlet":"ST GEORGE","incidentnumber":"0042UW","incidents":1,"level":"street","opco":"CMP","street":"JUNIPER ST","town":"ST GEORGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.211533,43.966343],"type":"Point"},"properties":{"EstRest":"10/9/2026 7:00:00 PM","Outages":6,"county":"KNOX","customers":27251,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
