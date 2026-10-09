@@ -1,9 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.308648,41.501256],"type":"Point"},"properties":{"a":"41.501256","cty":"NEWPORT","id":20261065447,"mun":"NEWPORT","nc":7,"o":"-71.308648"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.308611,41.501439],"type":"Point"},"properties":{"a":"41.501439","cty":"NEWPORT","id":20261065449,"mun":"NEWPORT","nc":9,"o":"-71.308611"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.467404,41.615462],"type":"Point"},"properties":{"a":"41.615462","cty":"WASHINGTON","id":20261065451,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.467404"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.622824,41.712439],"type":"Point"},"properties":{"a":"41.712439","cty":"KENT","id":20261065453,"mun":"COVENTRY","nc":4,"o":"-71.622824"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.620765,41.550554],"type":"Point"},"properties":{"a":"41.550554","cty":"WASHINGTON","id":20261065455,"mun":"RICHMOND","nc":1,"o":"-71.620765"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.417981,41.835117],"type":"Point"},"properties":{"a":"41.835117","cty":"PROVIDENCE","id":20261065458,"mun":"PROVIDENCE","nc":1,"o":"-71.417981"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.444465,41.7805],"type":"Point"},"properties":{"a":"41.7805","cty":"PROVIDENCE","id":20261065459,"mun":"CRANSTON","nc":1,"o":"-71.444465"},"type":"Feature"}
 ]}
