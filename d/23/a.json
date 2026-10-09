@@ -1,7 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.357236,40.646526],"type":"Point"},"properties":{"a":"40.646526","cty":"NORTHAMPTON","id":8796095,"mun":"BETHLEHEM","nc":19,"o":"-75.357236"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.309257,40.035817],"type":"Point"},"properties":{"a":"40.035817","cty":"LANCASTER","id":8796117,"mun":"LANCASTER","nc":1,"o":"-76.309257"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.610223,41.699173],"type":"Point"},"properties":{"a":"41.699173","cty":"SUSQUEHANNA","id":8796128,"mun":"CLIFFORD TWP","nc":1,"o":"-75.610223"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.612298,41.702668],"type":"Point"},"properties":{"a":"41.702668","cty":"SUSQUEHANNA","id":8796129,"mun":"CLIFFORD TWP","nc":1,"o":"-75.612298"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.983438,40.962513],"type":"Point"},"properties":{"a":"40.962513","cty":"LUZERNE","id":8796130,"mun":"HAZLETON","nc":5,"o":"-75.983438"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.983438,40.962513],"type":"Point"},"properties":{"a":"40.962513","cty":"LUZERNE","id":8796130,"mun":"HAZLETON","nc":5,"o":"-75.983438"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.416422,40.588865],"type":"Point"},"properties":{"a":"40.588865","cty":"LEHIGH","id":8796135,"mun":"SALISBURY TWP","nc":3,"o":"-75.416422"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.360315,41.43204],"type":"Point"},"properties":{"a":"41.43204","cty":"WAYNE","id":8796136,"mun":"LAKE TWP","nc":2,"o":"-75.360315"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.309257,40.035817],"type":"Point"},"properties":{"a":"40.035817","cty":"LANCASTER","id":8796138,"mun":"LANCASTER","nc":1,"o":"-76.309257"},"type":"Feature"}
 ]}
