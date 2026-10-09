@@ -2,6 +2,5 @@
 {"geometry":{"coordinates":[-71.622824,41.712439],"type":"Point"},"properties":{"a":"41.712439","cty":"KENT","id":20261065453,"mun":"COVENTRY","nc":4,"o":"-71.622824"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.75115,41.446588],"type":"Point"},"properties":{"a":"41.446588","cty":"WASHINGTON","id":20261065474,"mun":"HOPKINTON","nc":2,"o":"-71.75115"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.259025,41.665195],"type":"Point"},"properties":{"a":"41.665195","cty":"BRISTOL","id":20261065476,"mun":"BRISTOL","nc":1,"o":"-71.259025"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.830107,41.378559],"type":"Point"},"properties":{"a":"41.378559","cty":"WASHINGTON","id":20261065484,"mun":"WESTERLY","nc":1,"o":"-71.830107"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.366742,41.859201],"type":"Point"},"properties":{"a":"41.859201","cty":"PROVIDENCE","id":20261065487,"mun":"PAWTUCKET","nc":1,"o":"-71.366742"},"type":"Feature"}
 ]}
