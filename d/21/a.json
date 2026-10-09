@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-70.262572,43.658611],"type":"Point"},"properties":{"EstRest":"10/9/2026 2:30:00 PM","Outages":3,"cause":"","county":"CUMBERLAND","crewstatus":"ONST ","customers":63,"hamlet":"PORTLAND","incidentnumber":"0042TN","incidents":1,"level":"street","opco":"CMP","street":"PORTLAND ST","town":"PORTLAND"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.263176,43.659685],"type":"Point"},"properties":{"EstRest":"10/9/2026 2:30:00 PM","Outages":46,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.263176,43.659685],"type":"Point"},"properties":{"EstRest":"10/9/2026 2:30:00 PM","Outages":46,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.286371,44.180195],"type":"Point"},"properties":{"EstRest":"10/9/2026 4:15:00 PM","Outages":1,"cause":"","county":"KNOX","crewstatus":"DISP ","customers":61,"hamlet":"UNION","incidentnumber":"0042U6","incidents":1,"level":"street","opco":"CMP","street":"DEPOT ST","town":"UNION"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.286371,44.180195],"type":"Point"},"properties":{"EstRest":"10/9/2026 4:15:00 PM","Outages":1,"county":"KNOX","customers":27251,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}

@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.622824,41.712439],"type":"Point"},"properties":{"a":"41.712439","cty":"KENT","id":20261065453,"mun":"COVENTRY","nc":4,"o":"-71.622824"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.620765,41.550554],"type":"Point"},"properties":{"a":"41.550554","cty":"WASHINGTON","id":20261065455,"mun":"RICHMOND","nc":1,"o":"-71.620765"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.620765,41.550554],"type":"Point"},"properties":{"a":"41.550554","cty":"WASHINGTON","id":20261065455,"mun":"RICHMOND","nc":6,"o":"-71.620765"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.533876,41.519262],"type":"Point"},"properties":{"a":"41.519262","cty":"WASHINGTON","id":20261065463,"mun":"EXETER","nc":4,"o":"-71.533876"},"type":"Feature"}
 ]}
