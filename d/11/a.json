@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-72.35261,40.97116],"type":"Point"},"properties":{"cause":{"EN-US":"Pending Investigation","es-US":"Investigación pendiente"},"cluster":false,"comments":null,"crew_icon":true,"crew_status":{"EN-US":"Currently assessing damage","es-US":"Evaluando daños","orig":"Dispatched"},"cust_a":{"mask":5,"val":4},"etr":"ETR-NULL","etrRange":"Today by 10:30AM","etr_confidence":null,"id":"ES-GREEN-2005890608","inc_id":null,"n_out":1,"start_time":null,"title":"Area Outage"},"type":"Feature"},
+{"geometry":{"geometries":[{"coordinates":[[[-72.44496,40.9212],[-72.44451,40.9223],[-72.44496,40.92238],[-72.44511,40.92131],[-72.44496,40.9212]]],"type":"Polygon"},{"coordinates":[-72.44486,40.92188],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"Pending Investigation","es-US":"Investigación pendiente"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{},"cust_a":{"val":5},"etr":"ETR-NULL","etrRange":"Today by 11:00AM","etr_confidence":null,"id":"ES-GREEN-2005890656","inc_id":null,"n_out":1,"start_time":null,"title":"Area Outage"},"type":"Feature"}
 ]}

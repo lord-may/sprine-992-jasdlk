@@ -3,5 +3,8 @@
 {"geometry":{"coordinates":[-75.35082,40.66107],"type":"Point"},"properties":{"a":"40.66107","cty":"NORTHAMPTON","hp":true,"id":8796191,"mun":"BETHLEHEM","nc":26,"ne":{"a":"40.66217","o":"-75.35046"},"o":"-75.35082","sw":{"a":"40.65997","o":"-75.35118"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.34321,40.094408],"type":"Point"},"properties":{"a":"40.094408","cty":"CUMBERLAND","id":8796192,"mun":"PENN TWP","nc":2,"o":"-77.34321"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.59409,40.92029],"type":"Point"},"properties":{"a":"40.92029","cty":"MONTOUR","hp":true,"id":8796205,"mun":"DANVILLE BORO","nc":1302,"ne":{"a":"40.9593","o":"-76.531"},"o":"-76.59409","sw":{"a":"40.88128","o":"-76.65719"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.675213,41.483638],"type":"Point"},"properties":{"a":"41.483638","cty":"LACKAWANNA","id":8796208,"mun":"SOUTH ABINGTON TWP","nc":6,"o":"-75.675213"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.675213,41.483638],"type":"Point"},"properties":{"a":"41.483638","cty":"LACKAWANNA","id":8796208,"mun":"SOUTH ABINGTON TWP","nc":6,"o":"-75.675213"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.61497,40.969248],"type":"Point"},"properties":{"a":"40.969248","cty":"MONTOUR","id":8796209,"mun":"DANVILLE BORO","nc":1,"o":"-76.61497"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.211906,40.74605],"type":"Point"},"properties":{"a":"40.74605","cty":"SNYDER","id":8796213,"mun":"SPRING TWP","nc":1,"o":"-77.211906"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.26722,40.31489],"type":"Point"},"properties":{"a":"40.31489","cty":"BUCKS","hp":true,"id":8796214,"mun":"HILLTOWN TWP","nc":6,"ne":{"a":"40.31603","o":"-75.26421"},"o":"-75.26722","sw":{"a":"40.31374","o":"-75.27024"}},"type":"Feature"}
 ]}
