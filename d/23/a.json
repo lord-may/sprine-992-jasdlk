@@ -1,9 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.03693,40.98535],"type":"Point"},"properties":{"a":"40.98535","cty":"LUZERNE","hp":true,"id":8796184,"mun":"SUGARLOAF TWP","nc":18,"ne":{"a":"40.98681","o":"-76.0343"},"o":"-76.03693","sw":{"a":"40.98388","o":"-76.03956"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.49308,40.59117],"type":"Point"},"properties":{"a":"40.59117","cty":"LEHIGH","hp":true,"id":8796188,"mun":"ALLENTOWN","nc":127,"ne":{"a":"40.593","o":"-75.49189"},"o":"-75.49308","sw":{"a":"40.58935","o":"-75.49427"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.49308,40.59136],"type":"Point"},"properties":{"a":"40.59136","cty":"LEHIGH","hp":true,"id":8796188,"mun":"ALLENTOWN","nc":180,"ne":{"a":"40.59336","o":"-75.49189"},"o":"-75.49308","sw":{"a":"40.58935","o":"-75.49427"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.35082,40.66107],"type":"Point"},"properties":{"a":"40.66107","cty":"NORTHAMPTON","hp":true,"id":8796191,"mun":"BETHLEHEM","nc":26,"ne":{"a":"40.66217","o":"-75.35046"},"o":"-75.35082","sw":{"a":"40.65997","o":"-75.35118"}},"type":"Feature"},
-{"geometry":{"coordinates":[-77.34321,40.094408],"type":"Point"},"properties":{"a":"40.094408","cty":"CUMBERLAND","id":8796192,"mun":"PENN TWP","nc":2,"o":"-77.34321"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.317938,40.03256],"type":"Point"},"properties":{"a":"40.03256","cty":"LANCASTER","id":8796193,"mun":"LANCASTER","nc":43,"o":"-76.317938"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.492216,40.59285],"type":"Point"},"properties":{"a":"40.59285","cty":"LEHIGH","id":8796194,"mun":"ALLENTOWN","nc":1,"o":"-75.492216"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.492351,40.593097],"type":"Point"},"properties":{"a":"40.593097","cty":"LEHIGH","id":8796195,"mun":"ALLENTOWN","nc":1,"o":"-75.492351"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.34321,40.094408],"type":"Point"},"properties":{"a":"40.094408","cty":"CUMBERLAND","id":8796192,"mun":"PENN TWP","nc":2,"o":"-77.34321"},"type":"Feature"}
 ]}
