@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.110481,43.932157],"type":"Point"},"properties":{"EstRest":"10/10/2026 12:45:00 AM","Outages":8,"cause":"","county":"ANDROSCOGGIN","crewstatus":"     ","customers":14,"hamlet":"DURHAM","incidentnumber":"0042W3","incidents":1,"level":"street","opco":"CMP","street":"COUNTY RD","town":"DURHAM"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.151146,43.928807],"type":"Point"},"properties":{"EstRest":"10/10/2026 12:45:00 AM","Outages":303,"county":"ANDROSCOGGIN","customers":59602,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.352657,43.924733],"type":"Point"},"properties":{"EstRest":"10/10/2026 1:15:00 AM","Outages":14745,"county":"CUMBERLAND","customers":182407,"incidents":8,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.107223,43.933191],"type":"Point"},"properties":{"EstRest":"10/10/2026 2:15:00 AM","Outages":185,"county":"ANDROSCOGGIN","customers":59602,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.119454,43.909404],"type":"Point"},"properties":{"EstRest":"10/10/2026 2:15:00 AM","Outages":1,"cause":"","county":"ANDROSCOGGIN","crewstatus":"     ","customers":1,"hamlet":"DURHAM","incidentnumber":"0042WB","incidents":1,"level":"street","opco":"CMP","street":"BROWN RD","town":"DURHAM"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.114301,43.829514],"type":"Point"},"properties":{"EstRest":"10/10/2026 2:15:00 AM","Outages":3129,"county":"CUMBERLAND","customers":182407,"incidents":8,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.21051,45.076324],"type":"Point"},"properties":{"EstRest":"10/10/2026 2:30:00 AM","Outages":983,"county":"FRANKLIN","customers":24700,"incidents":4,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
