@@ -1,8 +1,8 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.642399,41.662217],"type":"Point"},"properties":{"a":"41.662217","cty":"KENT","id":20261065545,"mun":"COVENTRY","nc":1,"o":"-71.642399"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.467404,41.615462],"type":"Point"},"properties":{"a":"41.615462","cty":"WASHINGTON","id":20261065546,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.467404"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.830492,41.325081],"type":"Point"},"properties":{"a":"41.325081","cty":"WASHINGTON","id":20261065548,"mun":"WESTERLY","nc":1,"o":"-71.830492"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.440017,41.831866],"type":"Point"},"properties":{"a":"41.831866","cty":"PROVIDENCE","id":20261065553,"mun":"PROVIDENCE","nc":1,"o":"-71.440017"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.470417,41.803227],"type":"Point"},"properties":{"a":"41.803227","cty":"PROVIDENCE","id":20261065556,"mun":"JOHNSTON","nc":1,"o":"-71.470417"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.427933,41.818632],"type":"Point"},"properties":{"a":"41.818632","cty":"PROVIDENCE","id":20261065558,"mun":"PROVIDENCE","nc":1,"o":"-71.427933"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.427933,41.818632],"type":"Point"},"properties":{"a":"41.818632","cty":"PROVIDENCE","id":20261065558,"mun":"PROVIDENCE","nc":1,"o":"-71.427933"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.481238,41.82229],"type":"Point"},"properties":{"a":"41.82229","cty":"PROVIDENCE","id":20261065562,"mun":"JOHNSTON","nc":1,"o":"-71.481238"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.495461,41.37522],"type":"Point"},"properties":{"a":"41.37522","cty":"WASHINGTON","id":20261065563,"mun":"NARRAGANSETT","nc":1,"o":"-71.495461"},"type":"Feature"}
 ]}

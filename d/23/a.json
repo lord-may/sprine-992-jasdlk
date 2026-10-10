@@ -22,8 +22,8 @@
 {"geometry":{"coordinates":[-75.507463,40.694037],"type":"Point"},"properties":{"a":"40.694037","cty":"NORTHAMPTON","id":8796260,"mun":"NORTHAMPTON BORO","nc":1,"o":"-75.507463"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.135505,40.480352],"type":"Point"},"properties":{"a":"40.480352","cty":"PERRY","id":8796261,"mun":"NEWPORT BORO","nc":11,"o":"-77.135505"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.548321,41.48561],"type":"Point"},"properties":{"a":"41.48561","cty":"LACKAWANNA","id":8796262,"mun":"JESSUP BORO","nc":5,"o":"-75.548321"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.602844,40.546119],"type":"Point"},"properties":{"a":"40.546119","cty":"LEHIGH","id":8796268,"mun":"UPPER MACUNGIE TWP","nc":6,"o":"-75.602844"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.016275,41.011129],"type":"Point"},"properties":{"a":"41.011129","cty":"LUZERNE","id":8796269,"mun":"BUTLER TWP","nc":2,"o":"-76.016275"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.516775,40.708035],"type":"Point"},"properties":{"a":"40.708035","cty":"NORTHAMPTON","id":8796270,"mun":"ALLEN TWP","nc":11,"o":"-75.516775"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.505519,40.703402],"type":"Point"},"properties":{"a":"40.703402","cty":"NORTHAMPTON","id":8796271,"mun":"NORTHAMPTON BORO","nc":6,"o":"-75.505519"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.505519,40.703402],"type":"Point"},"properties":{"a":"40.703402","cty":"NORTHAMPTON","id":8796271,"mun":"NORTHAMPTON BORO","nc":6,"o":"-75.505519"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.613499,40.683536],"type":"Point"},"properties":{"a":"40.683536","cty":"LEHIGH","id":8796276,"mun":"NORTH WHITEHALL TWP","nc":5,"o":"-75.613499"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.305395,40.047723],"type":"Point"},"properties":{"a":"40.047723","cty":"LANCASTER","id":8796277,"mun":"LANCASTER","nc":11,"o":"-76.305395"},"type":"Feature"}
 ]}
