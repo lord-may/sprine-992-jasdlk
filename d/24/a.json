@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-71.436546,41.831288],"type":"Point"},"properties":{"a":"41.831288","cty":"PROVIDENCE","id":20261065518,"mun":"PROVIDENCE","nc":1,"o":"-71.436546"},"type":"Feature"}
 ]}

@@ -1,5 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.095711,43.886881],"type":"Point"},"properties":{"EstRest":"10/10/2026 1:30:00 AM","Outages":37,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.096182,43.88734],"type":"Point"},"properties":{"EstRest":"10/10/2026 1:30:00 AM","Outages":5,"cause":"","county":"CUMBERLAND","crewstatus":"DISP ","customers":6,"hamlet":"FREEPORT","incidentnumber":"0042W9","incidents":1,"level":"street","opco":"CMP","street":"KATIE LN","town":"FREEPORT"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.21051,45.076324],"type":"Point"},"properties":{"EstRest":"10/10/2026 2:30:00 AM","Outages":983,"county":"FRANKLIN","customers":24700,"incidents":4,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.249747,45.089465],"type":"Point"},"properties":{"EstRest":"10/10/2026 2:30:00 AM","Outages":983,"county":"FRANKLIN","customers":24700,"incidents":4,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
