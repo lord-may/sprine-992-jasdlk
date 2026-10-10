@@ -1,15 +1,11 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.03693,40.98535],"type":"Point"},"properties":{"a":"40.98535","cty":"LUZERNE","hp":true,"id":8796184,"mun":"SUGARLOAF TWP","nc":18,"ne":{"a":"40.98681","o":"-76.0343"},"o":"-76.03693","sw":{"a":"40.98388","o":"-76.03956"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.35082,40.66067],"type":"Point"},"properties":{"a":"40.66067","cty":"NORTHAMPTON","hp":true,"id":8796191,"mun":"BETHLEHEM","nc":21,"ne":{"a":"40.66137","o":"-75.35046"},"o":"-75.35082","sw":{"a":"40.65997","o":"-75.35118"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.57609,40.91752],"type":"Point"},"properties":{"a":"40.91752","cty":"NORTHUMBERLAND","hp":true,"id":8796205,"mun":"RIVERSIDE BORO","nc":338,"ne":{"a":"40.95375","o":"-76.531"},"o":"-76.57609","sw":{"a":"40.88128","o":"-76.62118"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.375981,40.521556],"type":"Point"},"properties":{"a":"40.521556","cty":"LEHIGH","id":8796219,"mun":"UPPER SAUCON TWP","nc":1,"o":"-75.375981"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.429525,40.798341],"type":"Point"},"properties":{"a":"40.798341","cty":"NORTHUMBERLAND","id":8796221,"mun":"MOUNT CARMEL TWP","nc":15,"o":"-76.429525"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.38929,41.16573],"type":"Point"},"properties":{"a":"41.16573","cty":"MONROE","hp":true,"id":8796226,"mun":"COOLBAUGH TWP","nc":27,"ne":{"a":"41.16753","o":"-75.38832"},"o":"-75.38929","sw":{"a":"41.16392","o":"-75.39026"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.978044,40.937613],"type":"Point"},"properties":{"a":"40.937613","cty":"LUZERNE","id":8796231,"mun":"HAZLETON","nc":1,"o":"-75.978044"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.136211,40.480162],"type":"Point"},"properties":{"a":"40.480162","cty":"PERRY","id":8796239,"mun":"NEWPORT BORO","nc":8,"o":"-77.136211"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.206583,41.138421],"type":"Point"},"properties":{"a":"41.138421","cty":"LUZERNE","id":8796242,"mun":"SALEM TWP","nc":2,"o":"-76.206583"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.428544,40.798503],"type":"Point"},"properties":{"a":"40.798503","cty":"NORTHUMBERLAND","id":8796244,"mun":"MOUNT CARMEL TWP","nc":15,"o":"-76.428544"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.452437,41.006285],"type":"Point"},"properties":{"a":"41.006285","cty":"COLUMBIA","id":8796246,"mun":"BLOOMSBURG","nc":9,"o":"-76.452437"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.135505,40.480352],"type":"Point"},"properties":{"a":"40.480352","cty":"PERRY","id":8796261,"mun":"NEWPORT BORO","nc":11,"o":"-77.135505"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.548321,41.48561],"type":"Point"},"properties":{"a":"41.48561","cty":"LACKAWANNA","id":8796262,"mun":"JESSUP BORO","nc":5,"o":"-75.548321"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.016275,41.011129],"type":"Point"},"properties":{"a":"41.011129","cty":"LUZERNE","id":8796269,"mun":"BUTLER TWP","nc":2,"o":"-76.016275"},"type":"Feature"},
@@ -21,5 +17,5 @@
 {"geometry":{"coordinates":[-75.390972,41.158146],"type":"Point"},"properties":{"a":"41.158146","cty":"MONROE","id":8796301,"mun":"COOLBAUGH TWP","nc":3,"o":"-75.390972"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.77062,40.30177],"type":"Point"},"properties":{"a":"40.30177","cty":"DAUPHIN","hp":true,"id":8796304,"mun":"LOWER PAXTON TWP","nc":296,"ne":{"a":"40.30419","o":"-76.76647"},"o":"-76.77062","sw":{"a":"40.29935","o":"-76.77478"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.38271,41.12491],"type":"Point"},"properties":{"a":"41.12491","cty":"MONROE","hp":true,"id":8796306,"mun":"COOLBAUGH TWP","nc":12,"ne":{"a":"41.12628","o":"-75.3805"},"o":"-75.38271","sw":{"a":"41.12353","o":"-75.38491"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.972125,40.372163],"type":"Point"},"properties":{"a":"40.372163","cty":"DAUPHIN","id":8796308,"mun":"MIDDLE PAXTON TWP","nc":3,"o":"-76.972125"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.80617,40.54662],"type":"Point"},"properties":{"a":"40.54662","cty":"DAUPHIN","hp":true,"id":8796316,"mun":"WASHINGTON TWP","nc":14,"ne":{"a":"40.54803","o":"-76.8027"},"o":"-76.80617","sw":{"a":"40.5452","o":"-76.80963"}},"type":"Feature"}
 ]}
