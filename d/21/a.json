@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.249747,45.089465],"type":"Point"},"properties":{"EstRest":"10/10/2026 2:30:00 AM","Outages":983,"county":"FRANKLIN","customers":24700,"incidents":4,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.21051,45.076324],"type":"Point"},"properties":{"EstRest":"10/10/2026 2:30:00 AM","Outages":983,"county":"FRANKLIN","customers":24700,"incidents":4,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
