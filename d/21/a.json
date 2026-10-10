@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.169889,45.027539],"type":"Point"},"properties":{"EstRest":"10/9/2026 10:30:00 PM","Outages":5,"cause":"","county":"FRANKLIN","crewstatus":"     ","customers":5,"hamlet":"KINGFIELD","incidentnumber":"0042V7","incidents":1,"level":"street","opco":"CMP","street":"HILLSIDE DR","town":"KINGFIELD"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.203552,45.070224],"type":"Point"},"properties":{"EstRest":"10/9/2026 10:30:00 PM","Outages":250,"county":"FRANKLIN","customers":24700,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.203552,45.070224],"type":"Point"},"properties":{"EstRest":"10/9/2026 11:00:00 PM","Outages":275,"county":"FRANKLIN","customers":24700,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.379808,44.443301],"type":"Point"},"properties":{"EstRest":"10/9/2026 11:00:00 PM","Outages":1,"cause":"","county":"WALDO","crewstatus":"ENRT ","customers":22,"hamlet":"PALERMO","incidentnumber":"0042V9","incidents":1,"level":"street","opco":"CMP","street":"CHISHOLM POND RD","town":"PALERMO"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.379808,44.443301],"type":"Point"},"properties":{"EstRest":"10/9/2026 11:00:00 PM","Outages":1,"county":"WALDO","customers":26703,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
