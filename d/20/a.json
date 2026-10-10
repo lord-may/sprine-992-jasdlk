@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-78.137575,42.500832],"type":"Point"},"properties":{"EstRest":"10/10/2026 3:00:00 PM","Outages":1,"cause":"","county":"ALLEGANY","crewstatus":"     ","customers":3,"hamlet":"FILLMORE","incidentnumber":"00ZFLO","incidents":1,"level":"street","opco":"RGE","street":"RICE RD","town":"HUME"},"type":"Feature"},
+{"geometry":{"coordinates":[-78.137575,42.500832],"type":"Point"},"properties":{"EstRest":"10/10/2026 3:00:00 PM","Outages":1,"county":"ALLEGANY","customers":11171,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.226739,42.959195],"type":"Point"},"properties":{"EstRest":"","Outages":2,"cause":"","county":"ONTARIO","crewstatus":"DISP ","customers":25,"hamlet":"SHORTSVILLE","incidentnumber":"00ZCG2","incidents":1,"level":"street","opco":"RGE","street":"WATER ST","town":"MANCHSTR V SHORTSVILLE"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.226739,42.959195],"type":"Point"},"properties":{"EstRest":"","Outages":2,"county":"ONTARIO","customers":35916,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
