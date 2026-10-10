@@ -7,5 +7,8 @@
 {"geometry":{"coordinates":[-76.305395,40.047723],"type":"Point"},"properties":{"a":"40.047723","cty":"LANCASTER","id":8796277,"mun":"LANCASTER","nc":11,"o":"-76.305395"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.415848,41.0035],"type":"Point"},"properties":{"a":"41.0035","cty":"COLUMBIA","id":8796336,"mun":"SCOTT TWP","nc":1,"o":"-76.415848"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.280172,40.051004],"type":"Point"},"properties":{"a":"40.051004","cty":"LANCASTER","id":8796340,"mun":"LANCASTER","nc":3,"o":"-76.280172"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.415105,41.003787],"type":"Point"},"properties":{"a":"41.003787","cty":"COLUMBIA","id":8796341,"mun":"SCOTT TWP","nc":5,"o":"-76.415105"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.415105,41.003787],"type":"Point"},"properties":{"a":"41.003787","cty":"COLUMBIA","id":8796341,"mun":"SCOTT TWP","nc":5,"o":"-76.415105"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.9035,40.291532],"type":"Point"},"properties":{"a":"40.291532","cty":"DAUPHIN","id":8796366,"mun":"HARRISBURG","nc":5,"o":"-76.9035"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.569075,40.901187],"type":"Point"},"properties":{"a":"40.901187","cty":"NORTHUMBERLAND","id":8796367,"mun":"RUSH TWP","nc":1,"o":"-76.569075"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.361006,40.642313],"type":"Point"},"properties":{"a":"40.642313","cty":"NORTHAMPTON","id":8796368,"mun":"BETHLEHEM","nc":12,"o":"-75.361006"},"type":"Feature"}
 ]}
