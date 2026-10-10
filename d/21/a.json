@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.862818,44.438622],"type":"Point"},"properties":{"EstRest":"10/10/2026 2:15:00 PM","Outages":1,"cause":"","county":"KENNEBEC","crewstatus":"ENRT ","customers":11,"hamlet":"BELGRADE","incidentnumber":"0042Y1","incidents":1,"level":"street","opco":"CMP","street":"BARNETT WAY","town":"BELGRADE"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.862818,44.438622],"type":"Point"},"properties":{"EstRest":"10/10/2026 2:15:00 PM","Outages":1,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.653706,44.5236],"type":"Point"},"properties":{"EstRest":"10/10/2026 2:30:00 PM","Outages":39,"county":"OXFORD","customers":44086,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.53825,44.189614],"type":"Point"},"properties":{"EstRest":"10/10/2026 2:30:00 PM","Outages":37,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.55078,44.196765],"type":"Point"},"properties":{"EstRest":"10/10/2026 2:30:00 PM","Outages":30,"cause":"","county":"OXFORD","crewstatus":"ONST ","customers":45,"hamlet":"NORWAY","incidentnumber":"0042Y9","incidents":1,"level":"street","opco":"CMP","street":"EDDIE KAHKONEN RD","town":"NORWAY"},"type":"Feature"}
 ]}
