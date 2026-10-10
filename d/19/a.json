@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.770424,42.084742],"type":"Point"},"properties":{"EstRest":"10/9/2026 10:15:00 PM","Outages":1,"cause":"","county":"CHEMUNG","crewstatus":"DISP ","customers":5,"hamlet":"ELMIRA","incidentnumber":"00ZFJ2","incidents":1,"level":"street","opco":"NYSEG","street":"N HOFFMAN RD","town":"ELMIRA T"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.770424,42.084742],"type":"Point"},"properties":{"EstRest":"10/9/2026 10:15:00 PM","Outages":1,"county":"CHEMUNG","customers":39910,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.678409,42.890874],"type":"Point"},"properties":{"EstRest":"10/9/2026 8:30:00 PM","Outages":1,"cause":"","county":"RENSSELAER","crewstatus":"DISP ","customers":15,"hamlet":"MECHANICVILLE","incidentnumber":"00ZFI6","incidents":1,"level":"street","opco":"NYSEG","street":"RIVER RD","town":"SCHAGHTICOK T"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.678409,42.890874],"type":"Point"},"properties":{"EstRest":"10/9/2026 8:30:00 PM","Outages":1,"county":"RENSSELAER","customers":11138,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.770424,42.084742],"type":"Point"},"properties":{"EstRest":"10/9/2026 10:15:00 PM","Outages":1,"county":"CHEMUNG","customers":39910,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
