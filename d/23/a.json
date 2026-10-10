@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.357236,40.646526],"type":"Point"},"properties":{"a":"40.646526","cty":"NORTHAMPTON","id":8796095,"mun":"BETHLEHEM","nc":19,"o":"-75.357236"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.903897,40.095951],"type":"Point"},"properties":{"a":"40.095951","cty":"CHESTER","id":8796151,"mun":"HONEYBROOK TWP","nc":1,"o":"-75.903897"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.174299,41.474456],"type":"Point"},"properties":{"a":"41.474456","cty":"WAYNE","id":8796159,"mun":"HAWLEY BORO","nc":4,"o":"-75.174299"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.322335,41.37782],"type":"Point"},"properties":{"a":"41.37782","cty":"WAYNE","id":8796161,"mun":"SALEM TWP","nc":2,"o":"-75.322335"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.322335,41.37782],"type":"Point"},"properties":{"a":"41.37782","cty":"WAYNE","id":8796161,"mun":"SALEM TWP","nc":2,"o":"-75.322335"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.76503,40.83456],"type":"Point"},"properties":{"a":"40.83456","cty":"CARBON","hp":true,"id":8796169,"mun":"MAHONING TWP","nc":210,"ne":{"a":"40.84658","o":"-75.7389"},"o":"-75.76503","sw":{"a":"40.82253","o":"-75.79116"}},"type":"Feature"}
 ]}
