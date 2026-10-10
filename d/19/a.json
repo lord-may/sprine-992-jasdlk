@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-74.538877,42.081916],"type":"Point"},"properties":{"EstRest":"10/10/2026 3:30:00 AM","Outages":1,"cause":"","county":"ULSTER","crewstatus":"     ","customers":8,"hamlet":"ARKVILLE","incidentnumber":"00ZFJR","incidents":1,"level":"street","opco":"NYSEG","street":"HAYNES HOLLOW RD","town":"HARDENBURGH T"},"type":"Feature"},
+{"geometry":{"coordinates":[-74.538877,42.081916],"type":"Point"},"properties":{"EstRest":"10/10/2026 3:30:00 AM","Outages":1,"cause":"","county":"ULSTER","crewstatus":"DISP ","customers":8,"hamlet":"ARKVILLE","incidentnumber":"00ZFJR","incidents":1,"level":"street","opco":"NYSEG","street":"HAYNES HOLLOW RD","town":"HARDENBURGH T"},"type":"Feature"},
 {"geometry":{"coordinates":[-74.538877,42.081916],"type":"Point"},"properties":{"EstRest":"10/10/2026 3:30:00 AM","Outages":1,"county":"ULSTER","customers":5407,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
