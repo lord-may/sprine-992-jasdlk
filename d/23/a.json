@@ -27,5 +27,6 @@
 {"geometry":{"coordinates":[-76.417019,41.003038],"type":"Point"},"properties":{"a":"41.003038","cty":"COLUMBIA","id":8796285,"mun":"SCOTT TWP","nc":9,"o":"-76.417019"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.069143,41.40862],"type":"Point"},"properties":{"a":"41.40862","cty":"PIKE","id":8796286,"mun":"BLOOMING GROVE TWP","nc":2,"o":"-75.069143"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.917059,40.275167],"type":"Point"},"properties":{"a":"40.275167","cty":"CUMBERLAND","id":8796287,"mun":"EAST PENNSBORO TWP","nc":9,"o":"-76.917059"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.417467,41.002865],"type":"Point"},"properties":{"a":"41.002865","cty":"COLUMBIA","id":8796288,"mun":"SCOTT TWP","nc":4,"o":"-76.417467"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.417467,41.002865],"type":"Point"},"properties":{"a":"41.002865","cty":"COLUMBIA","id":8796288,"mun":"SCOTT TWP","nc":4,"o":"-76.417467"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.449538,41.004978],"type":"Point"},"properties":{"a":"41.004978","cty":"COLUMBIA","id":8796290,"mun":"BLOOMSBURG","nc":5,"o":"-76.449538"},"type":"Feature"}
 ]}
