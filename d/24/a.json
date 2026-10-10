@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.510988,41.999485],"type":"Point"},"properties":{"a":"41.999485","cty":"PROVIDENCE","id":20261065605,"mun":"WOONSOCKET","nc":1,"o":"-71.510988"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.405345,41.893642],"type":"Point"},"properties":{"a":"41.893642","cty":"PROVIDENCE","id":20261065606,"mun":"CENTRAL FALLS","nc":1,"o":"-71.405345"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.199655,41.655279],"type":"Point"},"properties":{"a":"41.655279","cty":"NEWPORT","id":20261065607,"mun":"TIVERTON","nc":6,"o":"-71.199655"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.199655,41.655279],"type":"Point"},"properties":{"a":"41.655279","cty":"NEWPORT","id":20261065607,"mun":"TIVERTON","nc":6,"o":"-71.199655"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.4563,41.65871],"type":"Point"},"properties":{"a":"41.65871","cty":"KENT","hp":true,"id":20261065609,"mun":"EAST GREENWICH","nc":38,"ne":{"a":"41.6596","o":"-71.45517"},"o":"-71.4563","sw":{"a":"41.65782","o":"-71.45743"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.456978,41.659177],"type":"Point"},"properties":{"a":"41.659177","cty":"KENT","id":20261065610,"mun":"EAST GREENWICH","nc":9,"o":"-71.456978"},"type":"Feature"}
 ]}
