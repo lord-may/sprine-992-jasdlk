@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.279465,40.408647],"type":"Point"},"properties":{"a":"40.408647","cty":"BUCKS","id":8796382,"mun":"EAST ROCKHILL TWP","nc":2,"o":"-75.279465"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.56609,40.786737],"type":"Point"},"properties":{"a":"40.786737","cty":"NORTHUMBERLAND","id":8796383,"mun":"COAL TWP","nc":19,"o":"-76.56609"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.80553,40.70524],"type":"Point"},"properties":{"a":"40.70524","cty":"NORTHUMBERLAND","hp":true,"id":8796413,"mun":"JACKSON TWP","nc":15,"ne":{"a":"40.70734","o":"-76.80359"},"o":"-76.80553","sw":{"a":"40.70314","o":"-76.80746"}},"type":"Feature"}
+{"geometry":{"coordinates":[-76.80553,40.70524],"type":"Point"},"properties":{"a":"40.70524","cty":"NORTHUMBERLAND","hp":true,"id":8796413,"mun":"JACKSON TWP","nc":15,"ne":{"a":"40.70734","o":"-76.80359"},"o":"-76.80553","sw":{"a":"40.70314","o":"-76.80746"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.460828,40.613224],"type":"Point"},"properties":{"a":"40.613224","cty":"LEHIGH","id":8796414,"mun":"ALLENTOWN","nc":14,"o":"-75.460828"},"type":"Feature"}
 ]}
