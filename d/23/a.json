@@ -1,8 +1,8 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.351163,40.659582],"type":"Point"},"properties":{"a":"40.659582","cty":"NORTHAMPTON","id":8796191,"mun":"BETHLEHEM","nc":11,"o":"-75.351163"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.388523,41.163244],"type":"Point"},"properties":{"a":"41.163244","cty":"MONROE","id":8796226,"mun":"COOLBAUGH TWP","nc":5,"o":"-75.388523"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.305395,40.047723],"type":"Point"},"properties":{"a":"40.047723","cty":"LANCASTER","id":8796277,"mun":"LANCASTER","nc":11,"o":"-76.305395"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.928414,40.307808],"type":"Point"},"properties":{"a":"40.307808","cty":"CUMBERLAND","id":8796372,"mun":"EAST PENNSBORO TWP","nc":5,"o":"-76.928414"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.271286,41.056385],"type":"Point"},"properties":{"a":"41.056385","cty":"MONROE","id":8796375,"mun":"POCONO TWP","nc":3,"o":"-75.271286"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.484329,40.601234],"type":"Point"},"properties":{"a":"40.601234","cty":"LEHIGH","id":8796381,"mun":"ALLENTOWN","nc":1,"o":"-75.484329"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.279465,40.408647],"type":"Point"},"properties":{"a":"40.408647","cty":"BUCKS","id":8796382,"mun":"EAST ROCKHILL TWP","nc":2,"o":"-75.279465"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.56609,40.786737],"type":"Point"},"properties":{"a":"40.786737","cty":"NORTHUMBERLAND","id":8796383,"mun":"COAL TWP","nc":19,"o":"-76.56609"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.481414,40.678197],"type":"Point"},"properties":{"a":"40.678197","cty":"NORTHAMPTON","id":8796384,"mun":"NORTHAMPTON BORO","nc":12,"o":"-75.481414"},"type":"Feature"}
 ]}
