@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.573558,44.003098],"type":"Point"},"properties":{"EstRest":"10/9/2026 11:45:00 PM","Outages":24,"cause":"Equipment Interruption","county":"CUMBERLAND","crewstatus":"ENRT ","customers":24,"hamlet":"NAPLES","incidentnumber":"0042VE","incidents":1,"level":"street","opco":"CMP","street":"RIVER RD","town":"NAPLES"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.576873,44.005674],"type":"Point"},"properties":{"EstRest":"10/9/2026 11:45:00 PM","Outages":59,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.203552,45.070224],"type":"Point"},"properties":{"EstRest":"10/10/2026 2:30:00 AM","Outages":277,"county":"FRANKLIN","customers":24700,"incidents":3,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.11286,43.936697],"type":"Point"},"properties":{"EstRest":"10/10/2026 12:45:00 AM","Outages":303,"county":"ANDROSCOGGIN","customers":59602,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.117924,43.924277],"type":"Point"},"properties":{"EstRest":"10/10/2026 12:45:00 AM","Outages":5,"cause":"","county":"ANDROSCOGGIN","crewstatus":"     ","customers":5,"hamlet":"DURHAM","incidentnumber":"0042W3","incidents":1,"level":"street","opco":"CMP","street":"PENNEY LN","town":"DURHAM"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.101616,43.857429],"type":"Point"},"properties":{"EstRest":"10/10/2026 12:45:00 AM","Outages":14693,"county":"CUMBERLAND","customers":182407,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.201192,45.060732],"type":"Point"},"properties":{"EstRest":"10/10/2026 2:30:00 AM","Outages":277,"county":"FRANKLIN","customers":24700,"incidents":3,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}

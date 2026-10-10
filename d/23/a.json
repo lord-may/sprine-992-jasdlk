@@ -1,7 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.322335,41.37782],"type":"Point"},"properties":{"a":"41.37782","cty":"WAYNE","id":8796161,"mun":"SALEM TWP","nc":2,"o":"-75.322335"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.76503,40.83456],"type":"Point"},"properties":{"a":"40.83456","cty":"CARBON","hp":true,"id":8796169,"mun":"MAHONING TWP","nc":210,"ne":{"a":"40.84658","o":"-75.7389"},"o":"-75.76503","sw":{"a":"40.82253","o":"-75.79116"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.529694,40.76835],"type":"Point"},"properties":{"a":"40.76835","cty":"NORTHAMPTON","id":8796176,"mun":"LEHIGH TWP","nc":2,"o":"-75.529694"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.538204,41.130339],"type":"Point"},"properties":{"a":"41.130339","cty":"MONROE","id":8796182,"mun":"TOBYHANNA TWP","nc":2,"o":"-75.538204"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.03693,40.98535],"type":"Point"},"properties":{"a":"40.98535","cty":"LUZERNE","hp":true,"id":8796184,"mun":"SUGARLOAF TWP","nc":18,"ne":{"a":"40.98681","o":"-76.0343"},"o":"-76.03693","sw":{"a":"40.98388","o":"-76.03956"}},"type":"Feature"}
 ]}
