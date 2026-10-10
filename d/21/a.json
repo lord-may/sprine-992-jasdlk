@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.198927,44.111137],"type":"Point"},"properties":{"EstRest":"10/10/2026 1:45:00 PM","Outages":1,"cause":"","county":"ANDROSCOGGIN","crewstatus":"ENRT ","customers":5,"hamlet":"LEWISTON","incidentnumber":"0042Y2","incidents":1,"level":"street","opco":"CMP","street":"LITTLE ST","town":"LEWISTON"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.198927,44.111137],"type":"Point"},"properties":{"EstRest":"10/10/2026 1:45:00 PM","Outages":1,"county":"ANDROSCOGGIN","customers":59602,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.862818,44.438622],"type":"Point"},"properties":{"EstRest":"10/10/2026 2:15:00 PM","Outages":1,"cause":"","county":"KENNEBEC","crewstatus":"ENRT ","customers":11,"hamlet":"BELGRADE","incidentnumber":"0042Y1","incidents":1,"level":"street","opco":"CMP","street":"BARNETT WAY","town":"BELGRADE"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.862818,44.438622],"type":"Point"},"properties":{"EstRest":"10/10/2026 2:15:00 PM","Outages":1,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.653706,44.5236],"type":"Point"},"properties":{"EstRest":"10/10/2026 2:00:00 PM","Outages":1,"cause":"","county":"OXFORD","crewstatus":"DISP ","customers":18,"hamlet":"RUMFORD","incidentnumber":"0042Y6","incidents":1,"level":"street","opco":"CMP","street":"MARTIN RD","town":"RUMFORD"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.653706,44.5236],"type":"Point"},"properties":{"EstRest":"10/10/2026 2:00:00 PM","Outages":2,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
