@@ -9,11 +9,10 @@
 {"geometry":{"coordinates":[-75.810512,41.253377],"type":"Point"},"properties":{"a":"41.253377","cty":"LUZERNE","id":8796217,"mun":"PLAINS TWP","nc":1,"o":"-75.810512"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.375981,40.521556],"type":"Point"},"properties":{"a":"40.521556","cty":"LEHIGH","id":8796219,"mun":"UPPER SAUCON TWP","nc":1,"o":"-75.375981"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.429525,40.798341],"type":"Point"},"properties":{"a":"40.798341","cty":"NORTHUMBERLAND","id":8796221,"mun":"MOUNT CARMEL TWP","nc":15,"o":"-76.429525"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.61497,40.969248],"type":"Point"},"properties":{"a":"40.969248","cty":"MONTOUR","id":8796224,"mun":"DANVILLE BORO","nc":1,"o":"-76.61497"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.428544,40.798503],"type":"Point"},"properties":{"a":"40.798503","cty":"NORTHUMBERLAND","id":8796225,"mun":"MOUNT CARMEL TWP","nc":15,"o":"-76.428544"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.38929,41.16573],"type":"Point"},"properties":{"a":"41.16573","cty":"MONROE","hp":true,"id":8796226,"mun":"COOLBAUGH TWP","nc":27,"ne":{"a":"41.16753","o":"-75.38832"},"o":"-75.38929","sw":{"a":"41.16392","o":"-75.39026"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.977017,40.935862],"type":"Point"},"properties":{"a":"40.935862","cty":"LUZERNE","id":8796227,"mun":"HAZLETON","nc":1,"o":"-75.977017"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.245054,39.895175],"type":"Point"},"properties":{"a":"39.895175","cty":"LANCASTER","id":8796230,"mun":"PROVIDENCE TWP","nc":2,"o":"-76.245054"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.978044,40.937613],"type":"Point"},"properties":{"a":"40.937613","cty":"LUZERNE","id":8796231,"mun":"HAZLETON","nc":1,"o":"-75.978044"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.280015,40.171522],"type":"Point"},"properties":{"a":"40.171522","cty":"LANCASTER","id":8796232,"mun":"WARWICK TWP","nc":2,"o":"-76.280015"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.280015,40.171522],"type":"Point"},"properties":{"a":"40.171522","cty":"LANCASTER","id":8796232,"mun":"WARWICK TWP","nc":2,"o":"-76.280015"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.181126,41.419258],"type":"Point"},"properties":{"a":"41.419258","cty":"PIKE","id":8796235,"mun":"PALMYRA TWP","nc":4,"o":"-75.181126"},"type":"Feature"}
 ]}
