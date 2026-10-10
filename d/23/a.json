@@ -14,5 +14,7 @@
 {"geometry":{"coordinates":[-76.415848,41.0035],"type":"Point"},"properties":{"a":"41.0035","cty":"COLUMBIA","id":8796336,"mun":"SCOTT TWP","nc":1,"o":"-76.415848"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.74518,40.72649],"type":"Point"},"properties":{"a":"40.72649","cty":"LEHIGH","hp":true,"id":8796337,"mun":"HEIDELBERG TWP","nc":4,"ne":{"a":"40.72745","o":"-75.74393"},"o":"-75.74518","sw":{"a":"40.72552","o":"-75.74643"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.280172,40.051004],"type":"Point"},"properties":{"a":"40.051004","cty":"LANCASTER","id":8796340,"mun":"LANCASTER","nc":3,"o":"-76.280172"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.415105,41.003787],"type":"Point"},"properties":{"a":"41.003787","cty":"COLUMBIA","id":8796341,"mun":"SCOTT TWP","nc":5,"o":"-76.415105"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.415105,41.003787],"type":"Point"},"properties":{"a":"41.003787","cty":"COLUMBIA","id":8796341,"mun":"SCOTT TWP","nc":5,"o":"-76.415105"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.771877,40.301343],"type":"Point"},"properties":{"a":"40.301343","cty":"DAUPHIN","id":8796347,"mun":"LOWER PAXTON TWP","nc":19,"o":"-76.771877"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.554845,41.159794],"type":"Point"},"properties":{"a":"41.159794","cty":"MONROE","id":8796348,"mun":"COOLBAUGH TWP","nc":1,"o":"-75.554845"},"type":"Feature"}
 ]}
