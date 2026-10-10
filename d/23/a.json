@@ -2,5 +2,6 @@
 {"geometry":{"coordinates":[-76.03693,40.98535],"type":"Point"},"properties":{"a":"40.98535","cty":"LUZERNE","hp":true,"id":8796184,"mun":"SUGARLOAF TWP","nc":18,"ne":{"a":"40.98681","o":"-76.0343"},"o":"-76.03693","sw":{"a":"40.98388","o":"-76.03956"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.35082,40.66107],"type":"Point"},"properties":{"a":"40.66107","cty":"NORTHAMPTON","hp":true,"id":8796191,"mun":"BETHLEHEM","nc":26,"ne":{"a":"40.66217","o":"-75.35046"},"o":"-75.35082","sw":{"a":"40.65997","o":"-75.35118"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.34321,40.094408],"type":"Point"},"properties":{"a":"40.094408","cty":"CUMBERLAND","id":8796192,"mun":"PENN TWP","nc":2,"o":"-77.34321"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.59409,40.92029],"type":"Point"},"properties":{"a":"40.92029","cty":"MONTOUR","hp":true,"id":8796205,"mun":"DANVILLE BORO","nc":1302,"ne":{"a":"40.9593","o":"-76.531"},"o":"-76.59409","sw":{"a":"40.88128","o":"-76.65719"}},"type":"Feature"}
+{"geometry":{"coordinates":[-76.59409,40.92029],"type":"Point"},"properties":{"a":"40.92029","cty":"MONTOUR","hp":true,"id":8796205,"mun":"DANVILLE BORO","nc":1302,"ne":{"a":"40.9593","o":"-76.531"},"o":"-76.59409","sw":{"a":"40.88128","o":"-76.65719"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.675213,41.483638],"type":"Point"},"properties":{"a":"41.483638","cty":"LACKAWANNA","id":8796208,"mun":"SOUTH ABINGTON TWP","nc":6,"o":"-75.675213"},"type":"Feature"}
 ]}
