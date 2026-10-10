@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-69.963049,43.83769],"type":"Point"},"properties":{"EstRest":"10/10/2026 8:00:00 AM","Outages":1,"cause":"","county":"CUMBERLAND","crewstatus":"ENRT ","customers":1,"hamlet":"HARPSWELL","incidentnumber":"0042WF","incidents":1,"level":"street","opco":"CMP","street":"SALT WATER REACH","town":"HARPSWELL"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.963049,43.83769],"type":"Point"},"properties":{"EstRest":"10/10/2026 8:00:00 AM","Outages":2,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
