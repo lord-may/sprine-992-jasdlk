@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-70.578566,44.234757],"type":"Point"},"properties":{"EstRest":"10/10/2026 4:30:00 PM","Outages":5,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.578721,44.237653],"type":"Point"},"properties":{"EstRest":"10/10/2026 4:30:00 PM","Outages":3,"cause":"","county":"OXFORD","crewstatus":"ACKN ","customers":4,"hamlet":"NORWAY","incidentnumber":"0042YK","incidents":1,"level":"street","opco":"CMP","street":"DOVE WAY","town":"NORWAY"},"type":"Feature"}
 ]}
