@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.205933,45.06231],"type":"Point"},"properties":{"EstRest":"10/9/2026 11:00:00 PM","Outages":275,"county":"FRANKLIN","customers":24700,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.203552,45.070224],"type":"Point"},"properties":{"EstRest":"10/9/2026 11:00:00 PM","Outages":277,"county":"FRANKLIN","customers":24700,"incidents":3,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.379808,44.443301],"type":"Point"},"properties":{"EstRest":"10/9/2026 11:00:00 PM","Outages":1,"cause":"","county":"WALDO","crewstatus":"ENRT ","customers":22,"hamlet":"PALERMO","incidentnumber":"0042V9","incidents":1,"level":"street","opco":"CMP","street":"CHISHOLM POND RD","town":"PALERMO"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.379808,44.443301],"type":"Point"},"properties":{"EstRest":"10/9/2026 11:00:00 PM","Outages":1,"county":"WALDO","customers":26703,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}

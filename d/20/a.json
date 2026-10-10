@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.711722,43.312932],"type":"Point"},"properties":{"EstRest":"10/9/2026 10:30:00 PM","Outages":1,"cause":"","county":"CAYUGA","crewstatus":"ONST ","customers":11,"hamlet":"STERLING","incidentnumber":"00ZFJ1","incidents":1,"level":"street","opco":"RGE","street":"MAIN ST","town":"STERLING V FAIR HAVEN"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.711722,43.312932],"type":"Point"},"properties":{"EstRest":"10/9/2026 10:30:00 PM","Outages":1,"county":"CAYUGA","customers":6136,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.226739,42.959195],"type":"Point"},"properties":{"EstRest":"","Outages":2,"cause":"","county":"ONTARIO","crewstatus":"DISP ","customers":25,"hamlet":"SHORTSVILLE","incidentnumber":"00ZCG2","incidents":1,"level":"street","opco":"RGE","street":"WATER ST","town":"MANCHSTR V SHORTSVILLE"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.226739,42.959195],"type":"Point"},"properties":{"EstRest":"","Outages":2,"county":"ONTARIO","customers":35916,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
