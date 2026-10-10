@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-77.134936,42.955143],"type":"Point"},"properties":{"EstRest":"10/10/2026 9:15:00 AM","Outages":1,"cause":"","county":"ONTARIO","crewstatus":"DISP ","customers":10,"hamlet":"CLIFTON SPRINGS","incidentnumber":"00ZFK1","incidents":1,"level":"street","opco":"NYSEG","street":"SOUTH ST","town":"CLIFTON SPR V"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.134936,42.955143],"type":"Point"},"properties":{"EstRest":"10/10/2026 9:15:00 AM","Outages":1,"county":"ONTARIO","customers":18381,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.134936,42.955143],"type":"Point"},"properties":{"EstRest":"10/10/2026 9:15:00 AM","Outages":1,"county":"ONTARIO","customers":18381,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-73.522304,41.233052],"type":"Point"},"properties":{"EstRest":"10/10/2026 10:25:00 AM","Outages":11,"cause":"","county":"WESTCHESTER","crewstatus":"DISP ","customers":11,"hamlet":"SOUTH SALEM","incidentnumber":"00ZFK4","incidents":1,"level":"street","opco":"NYSEG","street":"BEAVER POND RD","town":"LEWISBORO T"},"type":"Feature"},
+{"geometry":{"coordinates":[-73.525386,41.23005],"type":"Point"},"properties":{"EstRest":"10/10/2026 10:25:00 AM","Outages":42,"county":"WESTCHESTER","customers":33722,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
