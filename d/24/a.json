@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-71.453926,41.654149],"type":"Point"},"properties":{"a":"41.654149","cty":"KENT","id":20261065600,"mun":"EAST GREENWICH","nc":1,"o":"-71.453926"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.510988,41.999485],"type":"Point"},"properties":{"a":"41.999485","cty":"PROVIDENCE","id":20261065601,"mun":"WOONSOCKET","nc":1,"o":"-71.510988"},"type":"Feature"}
 ]}
