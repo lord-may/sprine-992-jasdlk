@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-70.320883,43.972266],"type":"Point"},"properties":{"EstRest":"10/10/2026 6:15:00 PM","Outages":1,"cause":"","county":"CUMBERLAND","crewstatus":"ENRT ","customers":18,"hamlet":"NEW GLOUCESTER","incidentnumber":"0042YU","incidents":1,"level":"street","opco":"CMP","street":"COBBLE HILL RD","town":"NEW GLOUCESTER"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.320883,43.972266],"type":"Point"},"properties":{"EstRest":"10/10/2026 6:15:00 PM","Outages":1,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.578502,44.236309],"type":"Point"},"properties":{"EstRest":"10/10/2026 4:30:00 PM","Outages":1,"cause":"Tree","county":"OXFORD","crewstatus":"ONST ","customers":4,"hamlet":"NORWAY","incidentnumber":"0042YK","incidents":1,"level":"street","opco":"CMP","street":"DOVE WAY","town":"NORWAY"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.578502,44.236309],"type":"Point"},"properties":{"EstRest":"10/10/2026 4:30:00 PM","Outages":1,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.86393,43.420331],"type":"Point"},"properties":{"EstRest":"10/10/2026 6:30:00 PM","Outages":32,"cause":"","county":"YORK","crewstatus":"ENRT ","customers":37,"hamlet":"LEBANON","incidentnumber":"0042YW","incidents":1,"level":"street","opco":"CMP","street":"BRIARWOOD RD","town":"LEBANON"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.86393,43.420331],"type":"Point"},"properties":{"EstRest":"10/10/2026 6:30:00 PM","Outages":38,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
