@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.53825,44.189614],"type":"Point"},"properties":{"EstRest":"10/10/2026 2:30:00 PM","Outages":37,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.55078,44.196765],"type":"Point"},"properties":{"EstRest":"10/10/2026 2:30:00 PM","Outages":30,"cause":"","county":"OXFORD","crewstatus":"ONST ","customers":45,"hamlet":"NORWAY","incidentnumber":"0042Y9","incidents":1,"level":"street","opco":"CMP","street":"EDDIE KAHKONEN RD","town":"NORWAY"},"type":"Feature"}
+
 ]}
