@@ -2,7 +2,5 @@
 {"geometry":{"coordinates":[-71.565464,41.729986],"type":"Point"},"properties":{"a":"41.729986","cty":"PROVIDENCE","id":20261065570,"mun":"SCITUATE","nc":1,"o":"-71.565464"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.495461,41.37522],"type":"Point"},"properties":{"a":"41.37522","cty":"WASHINGTON","id":20261065571,"mun":"NARRAGANSETT","nc":1,"o":"-71.495461"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.497036,42.009319],"type":"Point"},"properties":{"a":"42.009319","cty":"PROVIDENCE","id":20261065573,"mun":"WOONSOCKET","nc":1,"o":"-71.497036"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.588568,41.700793],"type":"Point"},"properties":{"a":"41.700793","cty":"KENT","id":20261065578,"mun":"COVENTRY","nc":1,"o":"-71.588568"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.40053,41.786649],"type":"Point"},"properties":{"a":"41.786649","cty":"PROVIDENCE","id":20261065580,"mun":"PROVIDENCE","nc":1,"o":"-71.40053"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.359896,41.772706],"type":"Point"},"properties":{"a":"41.772706","cty":"PROVIDENCE","id":20261065582,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.359896"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.40053,41.786649],"type":"Point"},"properties":{"a":"41.786649","cty":"PROVIDENCE","id":20261065580,"mun":"PROVIDENCE","nc":1,"o":"-71.40053"},"type":"Feature"}
 ]}

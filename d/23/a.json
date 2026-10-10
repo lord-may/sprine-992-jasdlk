@@ -17,5 +17,7 @@
 {"geometry":{"coordinates":[-75.390972,41.158146],"type":"Point"},"properties":{"a":"41.158146","cty":"MONROE","id":8796301,"mun":"COOLBAUGH TWP","nc":3,"o":"-75.390972"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.77062,40.30177],"type":"Point"},"properties":{"a":"40.30177","cty":"DAUPHIN","hp":true,"id":8796304,"mun":"LOWER PAXTON TWP","nc":296,"ne":{"a":"40.30419","o":"-76.76647"},"o":"-76.77062","sw":{"a":"40.29935","o":"-76.77478"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.38271,41.12491],"type":"Point"},"properties":{"a":"41.12491","cty":"MONROE","hp":true,"id":8796306,"mun":"COOLBAUGH TWP","nc":12,"ne":{"a":"41.12628","o":"-75.3805"},"o":"-75.38271","sw":{"a":"41.12353","o":"-75.38491"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.80617,40.54662],"type":"Point"},"properties":{"a":"40.54662","cty":"DAUPHIN","hp":true,"id":8796316,"mun":"WASHINGTON TWP","nc":14,"ne":{"a":"40.54803","o":"-76.8027"},"o":"-76.80617","sw":{"a":"40.5452","o":"-76.80963"}},"type":"Feature"}
+{"geometry":{"coordinates":[-76.80617,40.54662],"type":"Point"},"properties":{"a":"40.54662","cty":"DAUPHIN","hp":true,"id":8796316,"mun":"WASHINGTON TWP","nc":14,"ne":{"a":"40.54803","o":"-76.8027"},"o":"-76.80617","sw":{"a":"40.5452","o":"-76.80963"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.426685,40.798812],"type":"Point"},"properties":{"a":"40.798812","cty":"NORTHUMBERLAND","id":8796320,"mun":"MOUNT CARMEL TWP","nc":39,"o":"-76.426685"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.59008,40.647789],"type":"Point"},"properties":{"a":"40.647789","cty":"LEHIGH","id":8796322,"mun":"NORTH WHITEHALL TWP","nc":1,"o":"-75.59008"},"type":"Feature"}
 ]}
