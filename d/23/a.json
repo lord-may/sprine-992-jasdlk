@@ -14,5 +14,7 @@
 {"geometry":{"coordinates":[-76.245054,39.895175],"type":"Point"},"properties":{"a":"39.895175","cty":"LANCASTER","id":8796230,"mun":"PROVIDENCE TWP","nc":2,"o":"-76.245054"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.978044,40.937613],"type":"Point"},"properties":{"a":"40.937613","cty":"LUZERNE","id":8796231,"mun":"HAZLETON","nc":1,"o":"-75.978044"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.280015,40.171522],"type":"Point"},"properties":{"a":"40.171522","cty":"LANCASTER","id":8796232,"mun":"WARWICK TWP","nc":2,"o":"-76.280015"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.181126,41.419258],"type":"Point"},"properties":{"a":"41.419258","cty":"PIKE","id":8796235,"mun":"PALMYRA TWP","nc":4,"o":"-75.181126"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.181126,41.419258],"type":"Point"},"properties":{"a":"41.419258","cty":"PIKE","id":8796235,"mun":"PALMYRA TWP","nc":4,"o":"-75.181126"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.343869,40.750727],"type":"Point"},"properties":{"a":"40.750727","cty":"SCHUYLKILL","id":8796238,"mun":"BUTLER TWP","nc":1,"o":"-76.343869"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.136211,40.480162],"type":"Point"},"properties":{"a":"40.480162","cty":"PERRY","id":8796239,"mun":"NEWPORT BORO","nc":8,"o":"-77.136211"},"type":"Feature"}
 ]}

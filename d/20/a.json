@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.678851,43.239883],"type":"Point"},"properties":{"EstRest":"10/10/2026 9:00:00 AM","Outages":93,"cause":"","county":"MONROE","crewstatus":"ONST ","customers":608,"hamlet":"ROCHESTER","incidentnumber":"00ZFK0","incidents":1,"level":"street","opco":"RGE","street":"AFFINITY LA","town":"GREECE"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.678851,43.239883],"type":"Point"},"properties":{"EstRest":"10/10/2026 9:00:00 AM","Outages":93,"county":"MONROE","customers":303507,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.226739,42.959195],"type":"Point"},"properties":{"EstRest":"","Outages":2,"cause":"","county":"ONTARIO","crewstatus":"DISP ","customers":25,"hamlet":"SHORTSVILLE","incidentnumber":"00ZCG2","incidents":1,"level":"street","opco":"RGE","street":"WATER ST","town":"MANCHSTR V SHORTSVILLE"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.226739,42.959195],"type":"Point"},"properties":{"EstRest":"","Outages":2,"county":"ONTARIO","customers":35916,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
