@@ -1,6 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.134936,42.955143],"type":"Point"},"properties":{"EstRest":"","Outages":1,"cause":"","county":"ONTARIO","crewstatus":"DISP ","customers":10,"hamlet":"CLIFTON SPRINGS","incidentnumber":"00ZFK1","incidents":1,"level":"street","opco":"NYSEG","street":"SOUTH ST","town":"CLIFTON SPR V"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.134936,42.955143],"type":"Point"},"properties":{"EstRest":"","Outages":1,"county":"ONTARIO","customers":18381,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-74.188732,41.558873],"type":"Point"},"properties":{"EstRest":"10/10/2026 7:00:00 PM","Outages":15,"cause":"Weather","county":"ORANGE","crewstatus":"CMPL ","customers":55,"hamlet":"WALDEN","incidentnumber":"00ZFNF","incidents":1,"level":"street","opco":"NYSEG","street":"MAPLE ST","town":"WALDEN V"},"type":"Feature"},
-{"geometry":{"coordinates":[-74.188732,41.558873],"type":"Point"},"properties":{"EstRest":"10/10/2026 7:00:00 PM","Outages":30,"county":"ORANGE","customers":6152,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+
 ]}
