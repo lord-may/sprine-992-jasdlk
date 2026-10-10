@@ -298,9 +298,5 @@
 {"geometry":{"coordinates":[-70.903568,42.195156],"type":"Point"},"properties":{},"type":"Feature"},
 {"geometry":{"coordinates":[-70.9037,42.196946],"type":"Point"},"properties":{},"type":"Feature"},
 {"geometry":{"coordinates":[-70.903902,42.197447],"type":"Point"},"properties":{},"type":"Feature"},
-{"geometry":{"coordinates":[-70.904499,42.196197],"type":"Point"},"properties":{},"type":"Feature"},
-{"geometry":{"coordinates":[-70.909928,42.21683],"type":"Point"},"properties":{},"type":"Feature"},
-{"geometry":{"coordinates":[-70.910906,42.220082],"type":"Point"},"properties":{},"type":"Feature"},
-{"geometry":{"coordinates":[-70.912722,42.217553],"type":"Point"},"properties":{},"type":"Feature"},
-{"geometry":{"coordinates":[-70.915421,42.215377],"type":"Point"},"properties":{},"type":"Feature"}
+{"geometry":{"coordinates":[-70.904499,42.196197],"type":"Point"},"properties":{},"type":"Feature"}
 ]}
