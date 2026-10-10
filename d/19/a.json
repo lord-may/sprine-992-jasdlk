@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-77.134936,42.955143],"type":"Point"},"properties":{"EstRest":"10/10/2026 9:15:00 AM","Outages":1,"cause":"","county":"ONTARIO","crewstatus":"DISP ","customers":10,"hamlet":"CLIFTON SPRINGS","incidentnumber":"00ZFK1","incidents":1,"level":"street","opco":"NYSEG","street":"SOUTH ST","town":"CLIFTON SPR V"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.134936,42.955143],"type":"Point"},"properties":{"EstRest":"10/10/2026 9:15:00 AM","Outages":1,"county":"ONTARIO","customers":18381,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
