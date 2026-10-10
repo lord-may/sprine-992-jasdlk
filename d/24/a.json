@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.510988,41.999485],"type":"Point"},"properties":{"a":"41.999485","cty":"PROVIDENCE","id":20261065605,"mun":"WOONSOCKET","nc":1,"o":"-71.510988"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.199655,41.655279],"type":"Point"},"properties":{"a":"41.655279","cty":"NEWPORT","id":20261065607,"mun":"TIVERTON","nc":6,"o":"-71.199655"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.4563,41.65871],"type":"Point"},"properties":{"a":"41.65871","cty":"KENT","hp":true,"id":20261065609,"mun":"EAST GREENWICH","nc":38,"ne":{"a":"41.6596","o":"-71.45517"},"o":"-71.4563","sw":{"a":"41.65782","o":"-71.45743"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.496167,41.789681],"type":"Point"},"properties":{"a":"41.789681","cty":"PROVIDENCE","id":20261065613,"mun":"CRANSTON","nc":1,"o":"-71.496167"},"type":"Feature"}
 ]}
