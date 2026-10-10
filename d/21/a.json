@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.113659,43.930732],"type":"Point"},"properties":{"EstRest":"10/10/2026 12:45:00 AM","Outages":303,"county":"ANDROSCOGGIN","customers":59602,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.177351,43.947374],"type":"Point"},"properties":{"EstRest":"10/10/2026 12:45:00 AM","Outages":3,"cause":"","county":"ANDROSCOGGIN","crewstatus":"     ","customers":3,"hamlet":"DURHAM","incidentnumber":"0042W3","incidents":1,"level":"street","opco":"CMP","street":"OAK RIDGE RD","town":"DURHAM"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.282717,43.882685],"type":"Point"},"properties":{"EstRest":"10/10/2026 1:15:00 AM","Outages":14745,"county":"CUMBERLAND","customers":182407,"incidents":8,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.203552,45.070224],"type":"Point"},"properties":{"EstRest":"10/10/2026 2:30:00 AM","Outages":277,"county":"FRANKLIN","customers":24700,"incidents":3,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.119926,43.92166],"type":"Point"},"properties":{"EstRest":"10/10/2026 12:45:00 AM","Outages":4,"cause":"","county":"ANDROSCOGGIN","crewstatus":"     ","customers":4,"hamlet":"DURHAM","incidentnumber":"0042W3","incidents":1,"level":"street","opco":"CMP","street":"RANGE RD","town":"DURHAM"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.177351,43.947374],"type":"Point"},"properties":{"EstRest":"10/10/2026 12:45:00 AM","Outages":303,"county":"ANDROSCOGGIN","customers":59602,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.110461,43.834487],"type":"Point"},"properties":{"EstRest":"10/10/2026 1:30:00 AM","Outages":14745,"county":"CUMBERLAND","customers":182407,"incidents":8,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.21051,45.076324],"type":"Point"},"properties":{"EstRest":"10/10/2026 2:30:00 AM","Outages":983,"county":"FRANKLIN","customers":24700,"incidents":4,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
