@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.30186,41.522409],"type":"Point"},"properties":{"a":"41.522409","cty":"NEWPORT","id":20261065604,"mun":"MIDDLETOWN","nc":1,"o":"-71.30186"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.510988,41.999485],"type":"Point"},"properties":{"a":"41.999485","cty":"PROVIDENCE","id":20261065605,"mun":"WOONSOCKET","nc":1,"o":"-71.510988"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.510988,41.999485],"type":"Point"},"properties":{"a":"41.999485","cty":"PROVIDENCE","id":20261065605,"mun":"WOONSOCKET","nc":1,"o":"-71.510988"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.405345,41.893642],"type":"Point"},"properties":{"a":"41.893642","cty":"PROVIDENCE","id":20261065606,"mun":"CENTRAL FALLS","nc":1,"o":"-71.405345"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.199655,41.655279],"type":"Point"},"properties":{"a":"41.655279","cty":"NEWPORT","id":20261065607,"mun":"TIVERTON","nc":6,"o":"-71.199655"},"type":"Feature"}
 ]}
