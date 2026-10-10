@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-70.442909,44.272399],"type":"Point"},"properties":{"EstRest":"10/10/2026 9:15:00 PM","Outages":20,"cause":"","county":"OXFORD","crewstatus":"     ","customers":22,"hamlet":"PARIS","incidentnumber":"0042Z9","incidents":1,"level":"street","opco":"CMP","street":"MOUNT MICA RD","town":"PARIS"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.459753,44.267726],"type":"Point"},"properties":{"EstRest":"10/10/2026 9:15:00 PM","Outages":56,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
