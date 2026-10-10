@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-74.60305,41.36423],[-74.6078,41.36773],[-74.60626,41.36601],[-74.60305,41.36423]]],"type":"Polygon"},{"coordinates":[-74.6057,41.36599],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cluster":false,"cust_a":{"val":6},"etr":"2026-10-10T06:07:09-0400","inc_id":"558280","title":"Outage Information"},"type":"Feature"}
+{"geometry":{"geometries":[{"coordinates":[[[-74.60305,41.36423],[-74.6078,41.36773],[-74.60626,41.36601],[-74.60305,41.36423]]],"type":"Polygon"},{"coordinates":[-74.6057,41.36599],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cluster":false,"cust_a":{"val":6},"etr":"ETR-EXP","inc_id":"558280","title":"Outage Information"},"type":"Feature"}
 ]}
