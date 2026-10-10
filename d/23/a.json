@@ -2,7 +2,7 @@
 {"geometry":{"coordinates":[-75.279465,40.408647],"type":"Point"},"properties":{"a":"40.408647","cty":"BUCKS","id":8796382,"mun":"EAST ROCKHILL TWP","nc":2,"o":"-75.279465"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.56609,40.786737],"type":"Point"},"properties":{"a":"40.786737","cty":"NORTHUMBERLAND","id":8796383,"mun":"COAL TWP","nc":19,"o":"-76.56609"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.496372,41.575359],"type":"Point"},"properties":{"a":"41.575359","cty":"LACKAWANNA","id":8796392,"mun":"CARBONDALE","nc":19,"o":"-75.496372"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.506719,40.051215],"type":"Point"},"properties":{"a":"40.051215","cty":"LANCASTER","id":8796401,"mun":"WEST HEMPFIELD TWP","nc":1,"o":"-76.506719"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.860887,41.238857],"type":"Point"},"properties":{"a":"41.238857","cty":"LYCOMING","id":8796406,"mun":"FAIRFIELD TWP","nc":7,"o":"-76.860887"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.862926,40.258826],"type":"Point"},"properties":{"a":"40.258826","cty":"DAUPHIN","id":8796407,"mun":"HARRISBURG","nc":1,"o":"-76.862926"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.862926,40.258826],"type":"Point"},"properties":{"a":"40.258826","cty":"DAUPHIN","id":8796407,"mun":"HARRISBURG","nc":1,"o":"-76.862926"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.785888,40.339841],"type":"Point"},"properties":{"a":"40.339841","cty":"DAUPHIN","id":8796410,"mun":"LOWER PAXTON TWP","nc":13,"o":"-76.785888"},"type":"Feature"}
 ]}
