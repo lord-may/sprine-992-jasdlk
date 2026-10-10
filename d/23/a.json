@@ -1,6 +1,7 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.77151,40.83282],"type":"Point"},"properties":{"a":"40.83282","cty":"CARBON","hp":true,"id":8796169,"mun":"MAHONING TWP","nc":159,"ne":{"a":"40.84311","o":"-75.75186"},"o":"-75.77151","sw":{"a":"40.82253","o":"-75.79116"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.76503,40.83456],"type":"Point"},"properties":{"a":"40.83456","cty":"CARBON","hp":true,"id":8796169,"mun":"MAHONING TWP","nc":210,"ne":{"a":"40.84658","o":"-75.7389"},"o":"-75.76503","sw":{"a":"40.82253","o":"-75.79116"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.03693,40.98535],"type":"Point"},"properties":{"a":"40.98535","cty":"LUZERNE","hp":true,"id":8796184,"mun":"SUGARLOAF TWP","nc":18,"ne":{"a":"40.98681","o":"-76.0343"},"o":"-76.03693","sw":{"a":"40.98388","o":"-76.03956"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.492125,40.592578],"type":"Point"},"properties":{"a":"40.592578","cty":"LEHIGH","id":8796187,"mun":"ALLENTOWN","nc":53,"o":"-75.492125"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.49308,40.59117],"type":"Point"},"properties":{"a":"40.59117","cty":"LEHIGH","hp":true,"id":8796188,"mun":"ALLENTOWN","nc":127,"ne":{"a":"40.593","o":"-75.49189"},"o":"-75.49308","sw":{"a":"40.58935","o":"-75.49427"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.49308,40.59117],"type":"Point"},"properties":{"a":"40.59117","cty":"LEHIGH","hp":true,"id":8796188,"mun":"ALLENTOWN","nc":127,"ne":{"a":"40.593","o":"-75.49189"},"o":"-75.49308","sw":{"a":"40.58935","o":"-75.49427"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.35082,40.66107],"type":"Point"},"properties":{"a":"40.66107","cty":"NORTHAMPTON","hp":true,"id":8796191,"mun":"BETHLEHEM","nc":26,"ne":{"a":"40.66217","o":"-75.35046"},"o":"-75.35082","sw":{"a":"40.65997","o":"-75.35118"}},"type":"Feature"}
 ]}
