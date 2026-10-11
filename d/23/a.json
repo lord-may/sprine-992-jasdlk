@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.80553,40.70524],"type":"Point"},"properties":{"a":"40.70524","cty":"NORTHUMBERLAND","hp":true,"id":8796413,"mun":"JACKSON TWP","nc":15,"ne":{"a":"40.70734","o":"-76.80359"},"o":"-76.80553","sw":{"a":"40.70314","o":"-76.80746"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.911789,40.751254],"type":"Point"},"properties":{"a":"40.751254","cty":"SCHUYLKILL","id":8796424,"mun":"WEST PENN TWP","nc":1,"o":"-75.911789"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.94107,40.54833],"type":"Point"},"properties":{"a":"40.54833","cty":"DAUPHIN","hp":true,"id":8796428,"mun":"UPPER PAXTON TWP","nc":379,"ne":{"a":"40.55748","o":"-76.92829"},"o":"-76.94107","sw":{"a":"40.53917","o":"-76.95384"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.911789,40.751254],"type":"Point"},"properties":{"a":"40.751254","cty":"SCHUYLKILL","id":8796424,"mun":"WEST PENN TWP","nc":1,"o":"-75.911789"},"type":"Feature"}
 ]}
