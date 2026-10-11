@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-77.25754,40.586643],"type":"Point"},"properties":{"a":"40.586643","cty":"JUNIATA","id":8796485,"mun":"DELAWARE TWP","nc":1,"o":"-77.25754"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.71727,40.61652],"type":"Point"},"properties":{"a":"40.61652","cty":"DAUPHIN","id":8796489,"mun":"GRATZ BORO","nc":2,"o":"-76.71727"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.45856,40.14604],"type":"Point"},"properties":{"a":"40.14604","cty":"LANCASTER","hp":true,"id":8796497,"mun":"RAPHO TWP","nc":72,"ne":{"a":"40.16193","o":"-76.44103"},"o":"-76.45856","sw":{"a":"40.13016","o":"-76.47608"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.496372,41.575359],"type":"Point"},"properties":{"a":"41.575359","cty":"LACKAWANNA","id":8796498,"mun":"CARBONDALE","nc":19,"o":"-75.496372"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.291582,40.460101],"type":"Point"},"properties":{"a":"40.460101","cty":"BUCKS","id":8796501,"mun":"HAYCOCK TWP","nc":2,"o":"-75.291582"},"type":"Feature"},
@@ -9,5 +8,7 @@
 {"geometry":{"coordinates":[-76.361631,40.212931],"type":"Point"},"properties":{"a":"40.212931","cty":"LANCASTER","id":8796515,"mun":"PENN TWP","nc":2,"o":"-76.361631"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.436412,40.190514],"type":"Point"},"properties":{"a":"40.190514","cty":"LANCASTER","id":8796517,"mun":"RAPHO TWP","nc":1,"o":"-76.436412"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.40927,41.034848],"type":"Point"},"properties":{"a":"41.034848","cty":"COLUMBIA","id":8796518,"mun":"SCOTT TWP","nc":1,"o":"-76.40927"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.068371,40.873118],"type":"Point"},"properties":{"a":"40.873118","cty":"UNION","id":8796520,"mun":"LIMESTONE TWP","nc":3,"o":"-77.068371"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.068371,40.873118],"type":"Point"},"properties":{"a":"40.873118","cty":"UNION","id":8796520,"mun":"LIMESTONE TWP","nc":3,"o":"-77.068371"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.982922,40.330572],"type":"Point"},"properties":{"a":"40.330572","cty":"BERKS","id":8796522,"mun":"WYOMISSING BORO","nc":12,"o":"-75.982922"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.873777,40.117535],"type":"Point"},"properties":{"a":"40.117535","cty":"YORK","id":8796524,"mun":"FAIRVIEW TWP","nc":1,"o":"-76.873777"},"type":"Feature"}
 ]}
