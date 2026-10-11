@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.474616,41.77757],"type":"Point"},"properties":{"a":"41.77757","cty":"PROVIDENCE","id":20261065638,"mun":"CRANSTON","nc":1,"o":"-71.474616"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.474108,41.778617],"type":"Point"},"properties":{"a":"41.778617","cty":"PROVIDENCE","id":20261065639,"mun":"CRANSTON","nc":14,"o":"-71.474108"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.471963,41.687943],"type":"Point"},"properties":{"a":"41.687943","cty":"KENT","id":20261065641,"mun":"WARWICK","nc":1,"o":"-71.471963"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.448379,41.659109],"type":"Point"},"properties":{"a":"41.659109","cty":"KENT","id":20261065643,"mun":"EAST GREENWICH","nc":1,"o":"-71.448379"},"type":"Feature"}
 ]}
