@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.911789,40.751254],"type":"Point"},"properties":{"a":"40.751254","cty":"SCHUYLKILL","id":8796424,"mun":"WEST PENN TWP","nc":1,"o":"-75.911789"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.475468,40.5948],"type":"Point"},"properties":{"a":"40.5948","cty":"LEHIGH","id":8796479,"mun":"ALLENTOWN","nc":6,"o":"-75.475468"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.911789,40.751254],"type":"Point"},"properties":{"a":"40.751254","cty":"SCHUYLKILL","id":8796424,"mun":"WEST PENN TWP","nc":1,"o":"-75.911789"},"type":"Feature"}
 ]}
