@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.186474,41.660841],"type":"Point"},"properties":{"a":"41.660841","cty":"NEWPORT","id":20261065646,"mun":"TIVERTON","nc":1,"o":"-71.186474"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.186474,41.660841],"type":"Point"},"properties":{"a":"41.660841","cty":"NEWPORT","id":20261065646,"mun":"TIVERTON","nc":1,"o":"-71.186474"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.654173,41.432914],"type":"Point"},"properties":{"a":"41.432914","cty":"WASHINGTON","id":20261065658,"mun":"CHARLESTOWN","nc":6,"o":"-71.654173"},"type":"Feature"}
 ]}
