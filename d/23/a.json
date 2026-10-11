@@ -1,14 +1,13 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.45856,40.14604],"type":"Point"},"properties":{"a":"40.14604","cty":"LANCASTER","hp":true,"id":8796497,"mun":"RAPHO TWP","nc":72,"ne":{"a":"40.16193","o":"-76.44103"},"o":"-76.45856","sw":{"a":"40.13016","o":"-76.47608"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.496372,41.575359],"type":"Point"},"properties":{"a":"41.575359","cty":"LACKAWANNA","id":8796498,"mun":"CARBONDALE","nc":19,"o":"-75.496372"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.4108,40.59592],"type":"Point"},"properties":{"a":"40.59592","cty":"JUNIATA","hp":true,"id":8796502,"mun":"FERMANAGH TWP","nc":56,"ne":{"a":"40.5975","o":"-77.40865"},"o":"-77.4108","sw":{"a":"40.59435","o":"-77.41295"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.361631,40.212931],"type":"Point"},"properties":{"a":"40.212931","cty":"LANCASTER","id":8796515,"mun":"PENN TWP","nc":2,"o":"-76.361631"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.436412,40.190514],"type":"Point"},"properties":{"a":"40.190514","cty":"LANCASTER","id":8796517,"mun":"RAPHO TWP","nc":1,"o":"-76.436412"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.40927,41.034848],"type":"Point"},"properties":{"a":"41.034848","cty":"COLUMBIA","id":8796518,"mun":"SCOTT TWP","nc":1,"o":"-76.40927"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.068371,40.873118],"type":"Point"},"properties":{"a":"40.873118","cty":"UNION","id":8796520,"mun":"LIMESTONE TWP","nc":3,"o":"-77.068371"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.436624,41.458661],"type":"Point"},"properties":{"a":"41.458661","cty":"WAYNE","id":8796525,"mun":"LAKE TWP","nc":1,"o":"-75.436624"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.575694,40.77016],"type":"Point"},"properties":{"a":"40.77016","cty":"NORTHAMPTON","id":8796533,"mun":"LEHIGH TWP","nc":13,"o":"-75.575694"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.247171,40.965606],"type":"Point"},"properties":{"a":"40.965606","cty":"COLUMBIA","id":8796537,"mun":"BEAVER TWP","nc":2,"o":"-76.247171"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.250486,40.963531],"type":"Point"},"properties":{"a":"40.963531","cty":"COLUMBIA","id":8796539,"mun":"BEAVER TWP","nc":2,"o":"-76.250486"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.771877,40.301343],"type":"Point"},"properties":{"a":"40.301343","cty":"DAUPHIN","id":8796541,"mun":"LOWER PAXTON TWP","nc":19,"o":"-76.771877"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.25386,40.95952],"type":"Point"},"properties":{"a":"40.95952","cty":"COLUMBIA","hp":true,"id":8796542,"mun":"BEAVER TWP","nc":26,"ne":{"a":"40.96618","o":"-76.24242"},"o":"-76.25386","sw":{"a":"40.95287","o":"-76.2653"}},"type":"Feature"},
+{"geometry":{"coordinates":[-77.119623,40.311296],"type":"Point"},"properties":{"a":"40.311296","cty":"PERRY","id":8796544,"mun":"CARROLL TWP","nc":1,"o":"-77.119623"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.8052,40.76582],"type":"Point"},"properties":{"a":"40.76582","cty":"NORTHUMBERLAND","hp":true,"id":8796546,"mun":"LOWER AUGUSTA TWP","nc":7,"ne":{"a":"40.76774","o":"-76.79922"},"o":"-76.8052","sw":{"a":"40.76389","o":"-76.81118"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.771877,40.301343],"type":"Point"},"properties":{"a":"40.301343","cty":"DAUPHIN","id":8796547,"mun":"LOWER PAXTON TWP","nc":19,"o":"-76.771877"},"type":"Feature"}
 ]}
