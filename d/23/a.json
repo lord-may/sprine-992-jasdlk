@@ -36,5 +36,12 @@
 {"geometry":{"coordinates":[-76.387099,40.183961],"type":"Point"},"properties":{"a":"40.183961","cty":"LANCASTER","id":8796832,"mun":"PENN TWP","nc":2,"o":"-76.387099"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.123743,40.211224],"type":"Point"},"properties":{"a":"40.211224","cty":"LANCASTER","id":8796833,"mun":"EAST COCALICO TWP","nc":7,"o":"-76.123743"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.871827,40.276267],"type":"Point"},"properties":{"a":"40.276267","cty":"DAUPHIN","id":8796834,"mun":"HARRISBURG","nc":38,"o":"-76.871827"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.870097,40.2763],"type":"Point"},"properties":{"a":"40.2763","cty":"DAUPHIN","id":8796835,"mun":"HARRISBURG","nc":8,"o":"-76.870097"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.870097,40.2763],"type":"Point"},"properties":{"a":"40.2763","cty":"DAUPHIN","id":8796835,"mun":"HARRISBURG","nc":8,"o":"-76.870097"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.206134,40.17991],"type":"Point"},"properties":{"a":"40.17991","cty":"CUMBERLAND","id":8796836,"mun":"SOUTH MIDDLETON TWP","nc":5,"o":"-77.206134"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.317938,40.03256],"type":"Point"},"properties":{"a":"40.03256","cty":"LANCASTER","id":8796838,"mun":"LANCASTER","nc":43,"o":"-76.317938"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.82262,40.76438],"type":"Point"},"properties":{"a":"40.76438","cty":"NORTHUMBERLAND","hp":true,"id":8796839,"mun":"LOWER AUGUSTA TWP","nc":21,"ne":{"a":"40.7706","o":"-76.8113"},"o":"-76.82262","sw":{"a":"40.75815","o":"-76.83395"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.193278,41.480584],"type":"Point"},"properties":{"a":"41.480584","cty":"WAYNE","id":8796840,"mun":"PALMYRA TWP","nc":1,"o":"-75.193278"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.361685,41.264903],"type":"Point"},"properties":{"a":"41.264903","cty":"COLUMBIA","id":8796841,"mun":"SUGARLOAF TWP","nc":1,"o":"-76.361685"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.606354,40.744783],"type":"Point"},"properties":{"a":"40.744783","cty":"LEHIGH","id":8796843,"mun":"WASHINGTON TWP","nc":11,"o":"-75.606354"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.394708,40.1627],"type":"Point"},"properties":{"a":"40.1627","cty":"LANCASTER","id":8796845,"mun":"MANHEIM BORO","nc":4,"o":"-76.394708"},"type":"Feature"}
 ]}
