@@ -4,5 +4,6 @@
 {"geometry":{"coordinates":[-76.28427,39.97731],"type":"Point"},"properties":{"a":"39.97731","cty":"LANCASTER","hp":true,"id":8796491,"mun":"PEQUEA TWP","nc":14,"ne":{"a":"39.97826","o":"-76.28379"},"o":"-76.28427","sw":{"a":"39.97636","o":"-76.28475"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.39552,40.66699],"type":"Point"},"properties":{"a":"40.66699","cty":"SCHUYLKILL","hp":true,"id":8796492,"mun":"HEGINS TWP","nc":10,"ne":{"a":"40.66907","o":"-76.39436"},"o":"-76.39552","sw":{"a":"40.6649","o":"-76.39668"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.45856,40.14604],"type":"Point"},"properties":{"a":"40.14604","cty":"LANCASTER","hp":true,"id":8796497,"mun":"RAPHO TWP","nc":72,"ne":{"a":"40.16193","o":"-76.44103"},"o":"-76.45856","sw":{"a":"40.13016","o":"-76.47608"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.496372,41.575359],"type":"Point"},"properties":{"a":"41.575359","cty":"LACKAWANNA","id":8796498,"mun":"CARBONDALE","nc":19,"o":"-75.496372"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.496372,41.575359],"type":"Point"},"properties":{"a":"41.575359","cty":"LACKAWANNA","id":8796498,"mun":"CARBONDALE","nc":19,"o":"-75.496372"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.317938,40.03256],"type":"Point"},"properties":{"a":"40.03256","cty":"LANCASTER","id":8796500,"mun":"LANCASTER","nc":43,"o":"-76.317938"},"type":"Feature"}
 ]}
