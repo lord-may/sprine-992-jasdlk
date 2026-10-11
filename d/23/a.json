@@ -8,5 +8,6 @@
 {"geometry":{"coordinates":[-75.58524,40.77747],"type":"Point"},"properties":{"a":"40.77747","cty":"NORTHAMPTON","hp":true,"id":8796510,"mun":"LEHIGH TWP","nc":445,"ne":{"a":"40.78831","o":"-75.56506"},"o":"-75.58524","sw":{"a":"40.76663","o":"-75.60542"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.361631,40.212931],"type":"Point"},"properties":{"a":"40.212931","cty":"LANCASTER","id":8796515,"mun":"PENN TWP","nc":2,"o":"-76.361631"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.436412,40.190514],"type":"Point"},"properties":{"a":"40.190514","cty":"LANCASTER","id":8796517,"mun":"RAPHO TWP","nc":1,"o":"-76.436412"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.40927,41.034848],"type":"Point"},"properties":{"a":"41.034848","cty":"COLUMBIA","id":8796518,"mun":"SCOTT TWP","nc":1,"o":"-76.40927"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.40927,41.034848],"type":"Point"},"properties":{"a":"41.034848","cty":"COLUMBIA","id":8796518,"mun":"SCOTT TWP","nc":1,"o":"-76.40927"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.068371,40.873118],"type":"Point"},"properties":{"a":"40.873118","cty":"UNION","id":8796520,"mun":"LIMESTONE TWP","nc":3,"o":"-77.068371"},"type":"Feature"}
 ]}
