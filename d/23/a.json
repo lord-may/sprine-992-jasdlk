@@ -1,7 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.911789,40.751254],"type":"Point"},"properties":{"a":"40.751254","cty":"SCHUYLKILL","id":8796424,"mun":"WEST PENN TWP","nc":1,"o":"-75.911789"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.94107,40.54833],"type":"Point"},"properties":{"a":"40.54833","cty":"DAUPHIN","hp":true,"id":8796466,"mun":"UPPER PAXTON TWP","nc":379,"ne":{"a":"40.55748","o":"-76.92829"},"o":"-76.94107","sw":{"a":"40.53917","o":"-76.95384"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.720747,40.855454],"type":"Point"},"properties":{"a":"40.855454","cty":"CARBON","id":8796474,"mun":"MAHONING TWP","nc":1,"o":"-75.720747"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.475468,40.5948],"type":"Point"},"properties":{"a":"40.5948","cty":"LEHIGH","id":8796479,"mun":"ALLENTOWN","nc":6,"o":"-75.475468"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.418477,40.030064],"type":"Point"},"properties":{"a":"40.030064","cty":"LANCASTER","id":8796481,"mun":"MANOR TWP","nc":14,"o":"-76.418477"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.475468,40.5948],"type":"Point"},"properties":{"a":"40.5948","cty":"LEHIGH","id":8796479,"mun":"ALLENTOWN","nc":6,"o":"-75.475468"},"type":"Feature"}
 ]}
