@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.25386,40.95952],"type":"Point"},"properties":{"a":"40.95952","cty":"COLUMBIA","hp":true,"id":8796542,"mun":"BEAVER TWP","nc":29,"ne":{"a":"40.96618","o":"-76.24242"},"o":"-76.25386","sw":{"a":"40.95287","o":"-76.2653"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.247623,40.965091],"type":"Point"},"properties":{"a":"40.965091","cty":"COLUMBIA","id":8796542,"mun":"BEAVER TWP","nc":3,"o":"-76.247623"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.20761,40.18274],"type":"Point"},"properties":{"a":"40.18274","cty":"CUMBERLAND","hp":true,"id":8796564,"mun":"SOUTH MIDDLETON TWP","nc":487,"ne":{"a":"40.18901","o":"-77.2024"},"o":"-77.20761","sw":{"a":"40.17647","o":"-77.21282"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.31774,41.18002],"type":"Point"},"properties":{"a":"41.18002","cty":"COLUMBIA","hp":true,"id":8796566,"mun":"BENTON TWP","nc":18,"ne":{"a":"41.18425","o":"-76.3086"},"o":"-76.31774","sw":{"a":"41.17579","o":"-76.32687"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.25478,39.99205],"type":"Point"},"properties":{"a":"39.99205","cty":"LANCASTER","hp":true,"id":8796569,"mun":"WEST LAMPETER TWP","nc":138,"ne":{"a":"40.00336","o":"-76.24206"},"o":"-76.25478","sw":{"a":"39.98074","o":"-76.26751"}},"type":"Feature"},
@@ -16,9 +16,11 @@
 {"geometry":{"coordinates":[-76.317938,40.03256],"type":"Point"},"properties":{"a":"40.03256","cty":"LANCASTER","id":8796647,"mun":"LANCASTER","nc":43,"o":"-76.317938"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.278434,40.604409],"type":"Point"},"properties":{"a":"40.604409","cty":"NORTHAMPTON","id":8796656,"mun":"LOWER SAUCON TWP","nc":1,"o":"-75.278434"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.31183,41.34899],"type":"Point"},"properties":{"a":"41.34899","cty":"PIKE","hp":true,"id":8796660,"mun":"GREENE TWP","nc":6,"ne":{"a":"41.35069","o":"-75.31161"},"o":"-75.31183","sw":{"a":"41.34729","o":"-75.31204"}},"type":"Feature"},
-{"geometry":{"coordinates":[-77.203113,40.191753],"type":"Point"},"properties":{"a":"40.191753","cty":"CUMBERLAND","id":8796661,"mun":"CARLISLE BORO","nc":9,"o":"-77.203113"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.03923,40.45472],"type":"Point"},"properties":{"a":"40.45472","cty":"PERRY","hp":true,"id":8796667,"mun":"WHEATFIELD TWP","nc":140,"ne":{"a":"40.47284","o":"-77.02485"},"o":"-77.03923","sw":{"a":"40.4366","o":"-77.05362"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.21552,41.36632],"type":"Point"},"properties":{"a":"41.36632","cty":"PIKE","hp":true,"id":8796670,"mun":"PALMYRA TWP","nc":10,"ne":{"a":"41.36821","o":"-75.21137"},"o":"-75.21552","sw":{"a":"41.36443","o":"-75.21967"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.812761,40.851104],"type":"Point"},"properties":{"a":"40.851104","cty":"SNYDER","id":8796671,"mun":"SHAMOKIN DAM BORO","nc":2,"o":"-76.812761"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.182908,40.247671],"type":"Point"},"properties":{"a":"40.247671","cty":"LANCASTER","id":8796673,"mun":"WEST COCALICO TWP","nc":3,"o":"-76.182908"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.182908,40.247671],"type":"Point"},"properties":{"a":"40.247671","cty":"LANCASTER","id":8796673,"mun":"WEST COCALICO TWP","nc":3,"o":"-76.182908"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.33168,40.3969],"type":"Point"},"properties":{"a":"40.3969","cty":"BUCKS","hp":true,"id":8796678,"mun":"WEST ROCKHILL TWP","nc":136,"ne":{"a":"40.40095","o":"-75.32605"},"o":"-75.33168","sw":{"a":"40.39286","o":"-75.33731"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.08299,39.92668],"type":"Point"},"properties":{"a":"39.92668","cty":"LANCASTER","hp":true,"id":8796680,"mun":"BART TWP","nc":10,"ne":{"a":"39.93052","o":"-76.08032"},"o":"-76.08299","sw":{"a":"39.92285","o":"-76.08566"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.59617,40.84166],"type":"Point"},"properties":{"a":"40.84166","cty":"CARBON","hp":true,"id":8796683,"mun":"TOWAMENSING TWP","nc":37,"ne":{"a":"40.85175","o":"-75.59106"},"o":"-75.59617","sw":{"a":"40.83156","o":"-75.60129"}},"type":"Feature"}
 ]}
