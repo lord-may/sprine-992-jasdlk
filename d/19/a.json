@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-73.586365,42.62146],"type":"Point"},"properties":{"EstRest":"10/11/2026 1:45:00 AM","Outages":1,"cause":"","county":"RENSSELAER","crewstatus":"DISP ","customers":75,"hamlet":"AVERILL PARK","incidentnumber":"00ZFP5","incidents":1,"level":"street","opco":"NYSEG","street":"SHEER RD","town":"SAND LAKE T"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.586365,42.62146],"type":"Point"},"properties":{"EstRest":"10/11/2026 1:45:00 AM","Outages":1,"county":"RENSSELAER","customers":11138,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+
 ]}
