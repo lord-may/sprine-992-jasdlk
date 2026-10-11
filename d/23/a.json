@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.80553,40.70524],"type":"Point"},"properties":{"a":"40.70524","cty":"NORTHUMBERLAND","hp":true,"id":8796413,"mun":"JACKSON TWP","nc":15,"ne":{"a":"40.70734","o":"-76.80359"},"o":"-76.80553","sw":{"a":"40.70314","o":"-76.80746"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.893231,40.22776],"type":"Point"},"properties":{"a":"40.22776","cty":"CUMBERLAND","id":8796419,"mun":"LOWER ALLEN TWP","nc":4,"o":"-76.893231"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.80553,40.70524],"type":"Point"},"properties":{"a":"40.70524","cty":"NORTHUMBERLAND","hp":true,"id":8796413,"mun":"JACKSON TWP","nc":15,"ne":{"a":"40.70734","o":"-76.80359"},"o":"-76.80553","sw":{"a":"40.70314","o":"-76.80746"}},"type":"Feature"}
 ]}
