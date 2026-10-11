@@ -1,10 +1,8 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.18333,40.27121],"type":"Point"},"properties":{"a":"40.27121","cty":"LANCASTER","hp":true,"id":8796604,"mun":"WEST COCALICO TWP","nc":722,"ne":{"a":"40.29889","o":"-76.1525"},"o":"-76.18333","sw":{"a":"40.24354","o":"-76.21416"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.81154,41.10041],"type":"Point"},"properties":{"a":"41.10041","cty":"LUZERNE","hp":true,"id":8796616,"mun":"DENNISON TWP","nc":152,"ne":{"a":"41.11507","o":"-75.76905"},"o":"-75.81154","sw":{"a":"41.08575","o":"-75.85403"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.89084,40.47631],"type":"Point"},"properties":{"a":"40.47631","cty":"DAUPHIN","hp":true,"id":8796623,"mun":"HALIFAX TWP","nc":4,"ne":{"a":"40.47854","o":"-76.89005"},"o":"-76.89084","sw":{"a":"40.47408","o":"-76.89163"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.168337,41.162123],"type":"Point"},"properties":{"a":"41.162123","cty":"MONROE","id":8796627,"mun":"PRICE TWP","nc":2,"o":"-75.168337"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.82193,40.86552],"type":"Point"},"properties":{"a":"40.86552","cty":"SNYDER","hp":true,"id":8796639,"mun":"SHAMOKIN DAM BORO","nc":55,"ne":{"a":"40.87192","o":"-76.80826"},"o":"-76.82193","sw":{"a":"40.85912","o":"-76.8356"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.291582,40.460101],"type":"Point"},"properties":{"a":"40.460101","cty":"BUCKS","id":8796644,"mun":"HAYCOCK TWP","nc":2,"o":"-75.291582"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.389696,40.564057],"type":"Point"},"properties":{"a":"40.564057","cty":"JUNIATA","id":8796646,"mun":"WALKER TWP","nc":2,"o":"-77.389696"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.03923,40.45472],"type":"Point"},"properties":{"a":"40.45472","cty":"PERRY","hp":true,"id":8796667,"mun":"WHEATFIELD TWP","nc":140,"ne":{"a":"40.47284","o":"-77.02485"},"o":"-77.03923","sw":{"a":"40.4366","o":"-77.05362"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.21552,41.36632],"type":"Point"},"properties":{"a":"41.36632","cty":"PIKE","hp":true,"id":8796670,"mun":"PALMYRA TWP","nc":10,"ne":{"a":"41.36821","o":"-75.21137"},"o":"-75.21552","sw":{"a":"41.36443","o":"-75.21967"}},"type":"Feature"},
@@ -33,5 +31,10 @@
 {"geometry":{"coordinates":[-76.89726,40.298598],"type":"Point"},"properties":{"a":"40.298598","cty":"DAUPHIN","id":8796813,"mun":"HARRISBURG","nc":14,"o":"-76.89726"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.17152,40.38826],"type":"Point"},"properties":{"a":"40.38826","cty":"BERKS","hp":true,"id":8796814,"mun":"HEIDELBERG TWP","nc":17,"ne":{"a":"40.39249","o":"-76.16906"},"o":"-76.17152","sw":{"a":"40.38403","o":"-76.17398"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.47317,40.17019],"type":"Point"},"properties":{"a":"40.17019","cty":"LANCASTER","hp":true,"id":8796819,"mun":"MOUNT JOY TWP","nc":506,"ne":{"a":"40.19075","o":"-76.3995"},"o":"-76.47317","sw":{"a":"40.14963","o":"-76.54684"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.264586,40.052321],"type":"Point"},"properties":{"a":"40.052321","cty":"LANCASTER","id":8796820,"mun":"LANCASTER","nc":6,"o":"-76.264586"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.264586,40.052321],"type":"Point"},"properties":{"a":"40.052321","cty":"LANCASTER","id":8796820,"mun":"LANCASTER","nc":1,"o":"-76.264586"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.35342,39.95767],"type":"Point"},"properties":{"a":"39.95767","cty":"LANCASTER","hp":true,"id":8796830,"mun":"CONESTOGA TWP","nc":152,"ne":{"a":"39.96346","o":"-76.34593"},"o":"-76.35342","sw":{"a":"39.95187","o":"-76.36091"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.387099,40.183961],"type":"Point"},"properties":{"a":"40.183961","cty":"LANCASTER","id":8796832,"mun":"PENN TWP","nc":2,"o":"-76.387099"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.123743,40.211224],"type":"Point"},"properties":{"a":"40.211224","cty":"LANCASTER","id":8796833,"mun":"EAST COCALICO TWP","nc":7,"o":"-76.123743"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.871827,40.276267],"type":"Point"},"properties":{"a":"40.276267","cty":"DAUPHIN","id":8796834,"mun":"HARRISBURG","nc":38,"o":"-76.871827"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.870097,40.2763],"type":"Point"},"properties":{"a":"40.2763","cty":"DAUPHIN","id":8796835,"mun":"HARRISBURG","nc":8,"o":"-76.870097"},"type":"Feature"}
 ]}
