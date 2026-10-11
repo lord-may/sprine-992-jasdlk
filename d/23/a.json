@@ -27,7 +27,6 @@
 {"geometry":{"coordinates":[-76.264586,40.052321],"type":"Point"},"properties":{"a":"40.052321","cty":"LANCASTER","id":8796820,"mun":"LANCASTER","nc":1,"o":"-76.264586"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.35342,39.95767],"type":"Point"},"properties":{"a":"39.95767","cty":"LANCASTER","hp":true,"id":8796830,"mun":"CONESTOGA TWP","nc":152,"ne":{"a":"39.96346","o":"-76.34593"},"o":"-76.35342","sw":{"a":"39.95187","o":"-76.36091"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.871827,40.276267],"type":"Point"},"properties":{"a":"40.276267","cty":"DAUPHIN","id":8796834,"mun":"HARRISBURG","nc":38,"o":"-76.871827"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.82262,40.76438],"type":"Point"},"properties":{"a":"40.76438","cty":"NORTHUMBERLAND","hp":true,"id":8796839,"mun":"LOWER AUGUSTA TWP","nc":21,"ne":{"a":"40.7706","o":"-76.8113"},"o":"-76.82262","sw":{"a":"40.75815","o":"-76.83395"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.193278,41.480584],"type":"Point"},"properties":{"a":"41.480584","cty":"WAYNE","id":8796840,"mun":"PALMYRA TWP","nc":1,"o":"-75.193278"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.394708,40.1627],"type":"Point"},"properties":{"a":"40.1627","cty":"LANCASTER","id":8796845,"mun":"MANHEIM BORO","nc":4,"o":"-76.394708"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.54765,40.82795],"type":"Point"},"properties":{"a":"40.82795","cty":"NORTHUMBERLAND","hp":true,"id":8796853,"mun":"RALPHO TWP","nc":19,"ne":{"a":"40.83112","o":"-76.5418"},"o":"-76.54765","sw":{"a":"40.82478","o":"-76.55349"}},"type":"Feature"},
@@ -47,10 +46,12 @@
 {"geometry":{"coordinates":[-77.2856,40.41987],"type":"Point"},"properties":{"a":"40.41987","cty":"PERRY","hp":true,"id":8796903,"mun":"SAVILLE TWP","nc":206,"ne":{"a":"40.43364","o":"-77.23395"},"o":"-77.2856","sw":{"a":"40.40611","o":"-77.33725"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.354441,40.957364],"type":"Point"},"properties":{"a":"40.957364","cty":"COLUMBIA","id":8796927,"mun":"BEAVER TWP","nc":1,"o":"-76.354441"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.79604,40.79437],"type":"Point"},"properties":{"a":"40.79437","cty":"CARBON","hp":true,"id":8796930,"mun":"MAHONING TWP","nc":1800,"ne":{"a":"40.83513","o":"-75.72088"},"o":"-75.79604","sw":{"a":"40.7536","o":"-75.8712"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.825957,40.300716],"type":"Point"},"properties":{"a":"40.300716","cty":"DAUPHIN","id":8796932,"mun":"LOWER PAXTON TWP","nc":1,"o":"-76.825957"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.166384,40.86932],"type":"Point"},"properties":{"a":"40.86932","cty":"SCHUYLKILL","id":8796939,"mun":"EAST UNION TWP","nc":2,"o":"-76.166384"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.27896,40.48006],"type":"Point"},"properties":{"a":"40.48006","cty":"BUCKS","hp":true,"id":8796940,"mun":"HAYCOCK TWP","nc":26,"ne":{"a":"40.4834","o":"-75.27475"},"o":"-75.27896","sw":{"a":"40.47673","o":"-75.28317"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.317938,40.03256],"type":"Point"},"properties":{"a":"40.03256","cty":"LANCASTER","id":8796942,"mun":"LANCASTER","nc":43,"o":"-76.317938"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.483073,41.707214],"type":"Point"},"properties":{"a":"41.707214","cty":"SUSQUEHANNA","id":8796943,"mun":"UNIONDALE BORO","nc":1,"o":"-75.483073"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.360561,41.31823],"type":"Point"},"properties":{"a":"41.31823","cty":"WAYNE","id":8796946,"mun":"STERLING TWP","nc":2,"o":"-75.360561"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.360561,41.31823],"type":"Point"},"properties":{"a":"41.31823","cty":"WAYNE","id":8796946,"mun":"STERLING TWP","nc":2,"o":"-75.360561"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.292433,41.001162],"type":"Point"},"properties":{"a":"41.001162","cty":"MONROE","id":8796948,"mun":"JACKSON TWP","nc":2,"o":"-75.292433"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.166384,40.86932],"type":"Point"},"properties":{"a":"40.86932","cty":"SCHUYLKILL","id":8796949,"mun":"EAST UNION TWP","nc":2,"o":"-76.166384"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.703206,40.666179],"type":"Point"},"properties":{"a":"40.666179","cty":"NORTHUMBERLAND","id":8796950,"mun":"JORDAN TWP","nc":2,"o":"-76.703206"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.825957,40.300716],"type":"Point"},"properties":{"a":"40.300716","cty":"DAUPHIN","id":8796951,"mun":"LOWER PAXTON TWP","nc":1,"o":"-76.825957"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.317938,40.03256],"type":"Point"},"properties":{"a":"40.03256","cty":"LANCASTER","id":8796953,"mun":"LANCASTER","nc":43,"o":"-76.317938"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.11386,40.22157],"type":"Point"},"properties":{"a":"40.22157","cty":"LANCASTER","hp":true,"id":8796956,"mun":"EAST COCALICO TWP","nc":459,"ne":{"a":"40.23018","o":"-76.10118"},"o":"-76.11386","sw":{"a":"40.21297","o":"-76.12654"}},"type":"Feature"}
 ]}
