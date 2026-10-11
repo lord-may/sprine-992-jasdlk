@@ -1,7 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-73.580338,42.108956],"type":"Point"},"properties":{"EstRest":"10/11/2026 12:00:00 PM","Outages":75,"county":"COLUMBIA","customers":15380,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-73.594101,42.108459],"type":"Point"},"properties":{"EstRest":"10/11/2026 12:00:00 PM","Outages":32,"cause":"","county":"COLUMBIA","crewstatus":"DISP ","customers":121,"hamlet":"COPAKE","incidentnumber":"00ZFPZ","incidents":1,"level":"street","opco":"NYSEG","street":"COUNTY ROUTE 7","town":"COPAKE T"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.723413,44.424007],"type":"Point"},"properties":{"EstRest":"10/11/2026 11:45:00 AM","Outages":10,"cause":"","county":"ESSEX","crewstatus":"     ","customers":11,"hamlet":"JAY","incidentnumber":"00ZFPX","incidents":1,"level":"street","opco":"NYSEG","street":"DOGWOOD ST","town":"JAY T"},"type":"Feature"},
+{"geometry":{"coordinates":[-73.723413,44.424007],"type":"Point"},"properties":{"EstRest":"10/11/2026 11:45:00 AM","Outages":10,"cause":"","county":"ESSEX","crewstatus":"DISP ","customers":11,"hamlet":"JAY","incidentnumber":"00ZFPX","incidents":1,"level":"street","opco":"NYSEG","street":"DOGWOOD ST","town":"JAY T"},"type":"Feature"},
 {"geometry":{"coordinates":[-73.725438,44.422332],"type":"Point"},"properties":{"EstRest":"10/11/2026 11:45:00 AM","Outages":11,"county":"ESSEX","customers":10354,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.999812,42.823157],"type":"Point"},"properties":{"EstRest":"10/11/2026 10:15:00 AM","Outages":19,"county":"ONTARIO","customers":18381,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}

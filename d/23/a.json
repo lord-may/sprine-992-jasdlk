@@ -5,9 +5,10 @@
 {"geometry":{"coordinates":[-76.40927,41.034848],"type":"Point"},"properties":{"a":"41.034848","cty":"COLUMBIA","id":8796518,"mun":"SCOTT TWP","nc":1,"o":"-76.40927"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.068371,40.873118],"type":"Point"},"properties":{"a":"40.873118","cty":"UNION","id":8796520,"mun":"LIMESTONE TWP","nc":3,"o":"-77.068371"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.436624,41.458661],"type":"Point"},"properties":{"a":"41.458661","cty":"WAYNE","id":8796525,"mun":"LAKE TWP","nc":1,"o":"-75.436624"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.575694,40.77016],"type":"Point"},"properties":{"a":"40.77016","cty":"NORTHAMPTON","id":8796533,"mun":"LEHIGH TWP","nc":13,"o":"-75.575694"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.25386,40.95952],"type":"Point"},"properties":{"a":"40.95952","cty":"COLUMBIA","hp":true,"id":8796542,"mun":"BEAVER TWP","nc":26,"ne":{"a":"40.96618","o":"-76.24242"},"o":"-76.25386","sw":{"a":"40.95287","o":"-76.2653"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.119623,40.311296],"type":"Point"},"properties":{"a":"40.311296","cty":"PERRY","id":8796544,"mun":"CARROLL TWP","nc":1,"o":"-77.119623"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.8052,40.76582],"type":"Point"},"properties":{"a":"40.76582","cty":"NORTHUMBERLAND","hp":true,"id":8796546,"mun":"LOWER AUGUSTA TWP","nc":7,"ne":{"a":"40.76774","o":"-76.79922"},"o":"-76.8052","sw":{"a":"40.76389","o":"-76.81118"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.771877,40.301343],"type":"Point"},"properties":{"a":"40.301343","cty":"DAUPHIN","id":8796547,"mun":"LOWER PAXTON TWP","nc":19,"o":"-76.771877"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.771877,40.301343],"type":"Point"},"properties":{"a":"40.301343","cty":"DAUPHIN","id":8796547,"mun":"LOWER PAXTON TWP","nc":19,"o":"-76.771877"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.69218,40.83492],"type":"Point"},"properties":{"a":"40.83492","cty":"NORTHUMBERLAND","hp":true,"id":8796552,"mun":"ROCKEFELLER TWP","nc":36,"ne":{"a":"40.84248","o":"-76.68572"},"o":"-76.69218","sw":{"a":"40.82736","o":"-76.69863"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.69881,40.82325],"type":"Point"},"properties":{"a":"40.82325","cty":"NORTHUMBERLAND","hp":true,"id":8796553,"mun":"ROCKEFELLER TWP","nc":18,"ne":{"a":"40.82688","o":"-76.69085"},"o":"-76.69881","sw":{"a":"40.81962","o":"-76.70677"}},"type":"Feature"}
 ]}
