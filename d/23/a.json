@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.99266,41.296],"type":"Point"},"properties":{"a":"41.296","cty":"LYCOMING","hp":true,"id":8796585,"mun":"LOYALSOCK TWP","nc":147,"ne":{"a":"41.30717","o":"-76.98803"},"o":"-76.99266","sw":{"a":"41.28482","o":"-76.99728"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.18333,40.27121],"type":"Point"},"properties":{"a":"40.27121","cty":"LANCASTER","hp":true,"id":8796604,"mun":"WEST COCALICO TWP","nc":722,"ne":{"a":"40.29889","o":"-76.1525"},"o":"-76.18333","sw":{"a":"40.24354","o":"-76.21416"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.81154,41.10041],"type":"Point"},"properties":{"a":"41.10041","cty":"LUZERNE","hp":true,"id":8796616,"mun":"DENNISON TWP","nc":152,"ne":{"a":"41.11507","o":"-75.76905"},"o":"-75.81154","sw":{"a":"41.08575","o":"-75.85403"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.89084,40.47631],"type":"Point"},"properties":{"a":"40.47631","cty":"DAUPHIN","hp":true,"id":8796623,"mun":"HALIFAX TWP","nc":4,"ne":{"a":"40.47854","o":"-76.89005"},"o":"-76.89084","sw":{"a":"40.47408","o":"-76.89163"}},"type":"Feature"},
@@ -31,5 +30,8 @@
 {"geometry":{"coordinates":[-77.0388,40.624],"type":"Point"},"properties":{"a":"40.624","cty":"NORTHUMBERLAND","hp":true,"id":8796789,"mun":"WASHINGTON TWP","nc":23,"ne":{"a":"40.70142","o":"-76.71041"},"o":"-77.0388","sw":{"a":"40.54657","o":"-77.36718"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.14136,41.0071],"type":"Point"},"properties":{"a":"41.0071","cty":"LUZERNE","hp":true,"id":8796791,"mun":"BLACK CREEK TWP","nc":12,"ne":{"a":"41.00803","o":"-76.13858"},"o":"-76.14136","sw":{"a":"41.00618","o":"-76.14414"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.42217,40.83847],"type":"Point"},"properties":{"a":"40.83847","cty":"COLUMBIA","hp":true,"id":8796806,"mun":"CLEVELAND TWP","nc":58,"ne":{"a":"40.8447","o":"-76.41008"},"o":"-76.42217","sw":{"a":"40.83223","o":"-76.43426"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.814639,40.85053],"type":"Point"},"properties":{"a":"40.85053","cty":"SNYDER","id":8796807,"mun":"SHAMOKIN DAM BORO","nc":15,"o":"-76.814639"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.89726,40.298598],"type":"Point"},"properties":{"a":"40.298598","cty":"DAUPHIN","id":8796813,"mun":"HARRISBURG","nc":14,"o":"-76.89726"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.17152,40.38826],"type":"Point"},"properties":{"a":"40.38826","cty":"BERKS","hp":true,"id":8796814,"mun":"HEIDELBERG TWP","nc":17,"ne":{"a":"40.39249","o":"-76.16906"},"o":"-76.17152","sw":{"a":"40.38403","o":"-76.17398"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.47317,40.17019],"type":"Point"},"properties":{"a":"40.17019","cty":"LANCASTER","hp":true,"id":8796819,"mun":"MOUNT JOY TWP","nc":506,"ne":{"a":"40.19075","o":"-76.3995"},"o":"-76.47317","sw":{"a":"40.14963","o":"-76.54684"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.264586,40.052321],"type":"Point"},"properties":{"a":"40.052321","cty":"LANCASTER","id":8796820,"mun":"LANCASTER","nc":6,"o":"-76.264586"},"type":"Feature"}
 ]}
