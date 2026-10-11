@@ -1,3 +1,6 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-70.107845,43.833052],"type":"Point"},"properties":{"EstRest":"10/11/2026 4:15:00 PM","Outages":3,"cause":"","county":"CUMBERLAND","crewstatus":"DISP ","customers":7,"hamlet":"FREEPORT","incidentnumber":"00431G","incidents":1,"level":"street","opco":"CMP","street":"FOX HILL RD","town":"FREEPORT"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.107845,43.833052],"type":"Point"},"properties":{"EstRest":"10/11/2026 4:15:00 PM","Outages":3,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.073412,44.192402],"type":"Point"},"properties":{"EstRest":"10/11/2026 4:15:00 PM","Outages":2,"cause":"","county":"KNOX","crewstatus":"DISP ","customers":2,"hamlet":"ROCKPORT","incidentnumber":"00431C","incidents":1,"level":"street","opco":"CMP","street":"COTTAGE LN","town":"ROCKPORT"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.073419,44.193116],"type":"Point"},"properties":{"EstRest":"10/11/2026 4:15:00 PM","Outages":13,"county":"KNOX","customers":27251,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
