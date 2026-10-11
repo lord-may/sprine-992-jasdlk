@@ -14,9 +14,5 @@
 {"geometry":{"coordinates":[-75.29887,41.33088],"type":"Point"},"properties":{"a":"41.33088","cty":"PIKE","hp":true,"id":8796606,"mun":"GREENE TWP","nc":20,"ne":{"a":"41.33333","o":"-75.29676"},"o":"-75.29887","sw":{"a":"41.32843","o":"-75.30098"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.81154,41.09661],"type":"Point"},"properties":{"a":"41.09661","cty":"LUZERNE","hp":true,"id":8796616,"mun":"DENNISON TWP","nc":181,"ne":{"a":"41.11507","o":"-75.76905"},"o":"-75.81154","sw":{"a":"41.07816","o":"-75.85403"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.89084,40.47631],"type":"Point"},"properties":{"a":"40.47631","cty":"DAUPHIN","hp":true,"id":8796623,"mun":"HALIFAX TWP","nc":4,"ne":{"a":"40.47854","o":"-76.89005"},"o":"-76.89084","sw":{"a":"40.47408","o":"-76.89163"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.317938,40.03256],"type":"Point"},"properties":{"a":"40.03256","cty":"LANCASTER","id":8796626,"mun":"LANCASTER","nc":43,"o":"-76.317938"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.161685,41.176233],"type":"Point"},"properties":{"a":"41.176233","cty":"MONROE","id":8796627,"mun":"PRICE TWP","nc":1,"o":"-75.161685"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.453042,40.612697],"type":"Point"},"properties":{"a":"40.612697","cty":"SCHUYLKILL","id":8796628,"mun":"PORTER TWP","nc":12,"o":"-76.453042"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.982922,40.330572],"type":"Point"},"properties":{"a":"40.330572","cty":"BERKS","id":8796629,"mun":"WYOMISSING BORO","nc":12,"o":"-75.982922"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.167721,40.024048],"type":"Point"},"properties":{"a":"40.024048","cty":"LANCASTER","id":8796630,"mun":"EAST LAMPETER TWP","nc":9,"o":"-76.167721"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.161685,41.176233],"type":"Point"},"properties":{"a":"41.176233","cty":"MONROE","id":8796627,"mun":"PRICE TWP","nc":1,"o":"-75.161685"},"type":"Feature"}
 ]}
