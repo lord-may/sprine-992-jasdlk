@@ -1,7 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.448379,41.659109],"type":"Point"},"properties":{"a":"41.659109","cty":"KENT","id":20261065643,"mun":"EAST GREENWICH","nc":1,"o":"-71.448379"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.539442,41.677415],"type":"Point"},"properties":{"a":"41.677415","cty":"KENT","id":20261065644,"mun":"COVENTRY","nc":1,"o":"-71.539442"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.588568,41.700793],"type":"Point"},"properties":{"a":"41.700793","cty":"KENT","id":20261065645,"mun":"COVENTRY","nc":1,"o":"-71.588568"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.186474,41.660841],"type":"Point"},"properties":{"a":"41.660841","cty":"NEWPORT","id":20261065646,"mun":"TIVERTON","nc":1,"o":"-71.186474"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.4611,41.569813],"type":"Point"},"properties":{"a":"41.569813","cty":"WASHINGTON","id":20261065647,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.4611"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.186474,41.660841],"type":"Point"},"properties":{"a":"41.660841","cty":"NEWPORT","id":20261065646,"mun":"TIVERTON","nc":1,"o":"-71.186474"},"type":"Feature"}
 ]}
