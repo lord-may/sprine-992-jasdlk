@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.122431,44.321989],"type":"Point"},"properties":{"EstRest":"10/11/2026 12:15:00 AM","Outages":13,"cause":"","county":"WALDO","crewstatus":"DISP ","customers":14,"hamlet":"LINCOLNVILLE","incidentnumber":"0042ZC","incidents":1,"level":"street","opco":"CMP","street":"HEATHER HILL RD","town":"LINCOLNVILLE"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.122431,44.321989],"type":"Point"},"properties":{"EstRest":"10/11/2026 12:15:00 AM","Outages":13,"county":"WALDO","customers":26703,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.116902,44.318479],"type":"Point"},"properties":{"EstRest":"10/11/2026 1:00:00 AM","Outages":19,"county":"WALDO","customers":26703,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
