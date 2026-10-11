@@ -11,7 +11,7 @@
 {"geometry":{"coordinates":[-76.44419,40.60608],"type":"Point"},"properties":{"a":"40.60608","cty":"SCHUYLKILL","hp":true,"id":8796557,"mun":"TREMONT TWP","nc":184,"ne":{"a":"40.6218","o":"-76.4149"},"o":"-76.44419","sw":{"a":"40.59036","o":"-76.47347"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.20552,40.18513],"type":"Point"},"properties":{"a":"40.18513","cty":"CUMBERLAND","hp":true,"id":8796564,"mun":"CARLISLE BORO","nc":620,"ne":{"a":"40.19378","o":"-77.19718"},"o":"-77.20552","sw":{"a":"40.17647","o":"-77.21386"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.31774,41.18002],"type":"Point"},"properties":{"a":"41.18002","cty":"COLUMBIA","hp":true,"id":8796566,"mun":"BENTON TWP","nc":18,"ne":{"a":"41.18425","o":"-76.3086"},"o":"-76.31774","sw":{"a":"41.17579","o":"-76.32687"}},"type":"Feature"},
-{"geometry":{"coordinates":[-77.28725,40.169045],"type":"Point"},"properties":{"a":"40.169045","cty":"CUMBERLAND","id":8796568,"mun":"DICKINSON TWP","nc":1,"o":"-77.28725"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.25478,39.99205],"type":"Point"},"properties":{"a":"39.99205","cty":"LANCASTER","hp":true,"id":8796569,"mun":"WEST LAMPETER TWP","nc":138,"ne":{"a":"40.00336","o":"-76.24206"},"o":"-76.25478","sw":{"a":"39.98074","o":"-76.26751"}},"type":"Feature"},
-{"geometry":{"coordinates":[-77.190459,40.232118],"type":"Point"},"properties":{"a":"40.232118","cty":"CUMBERLAND","id":8796578,"mun":"NORTH MIDDLETON TWP","nc":4,"o":"-77.190459"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.99266,41.296],"type":"Point"},"properties":{"a":"41.296","cty":"LYCOMING","hp":true,"id":8796585,"mun":"LOYALSOCK TWP","nc":147,"ne":{"a":"41.30717","o":"-76.98803"},"o":"-76.99266","sw":{"a":"41.28482","o":"-76.99728"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.320678,41.179756],"type":"Point"},"properties":{"a":"41.179756","cty":"COLUMBIA","id":8796586,"mun":"BENTON TWP","nc":3,"o":"-76.320678"},"type":"Feature"}
 ]}
