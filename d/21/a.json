@@ -1,5 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-70.448136,44.011153],"type":"Point"},"properties":{"EstRest":"10/11/2026 8:00:00 AM","Outages":21,"county":"ANDROSCOGGIN","customers":59602,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.462338,44.000505],"type":"Point"},"properties":{"EstRest":"10/11/2026 7:00:00 AM","Outages":44,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.462614,44.000773],"type":"Point"},"properties":{"EstRest":"10/11/2026 7:00:00 AM","Outages":3,"cause":"","county":"CUMBERLAND","crewstatus":"ONST ","customers":3,"hamlet":"CASCO","incidentnumber":"0042ZO","incidents":1,"level":"street","opco":"CMP","street":"INDIAN ACRES RD","town":"CASCO"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.459754,44.003641],"type":"Point"},"properties":{"EstRest":"10/11/2026 7:00:00 AM","Outages":2,"cause":"","county":"CUMBERLAND","crewstatus":"ONST ","customers":2,"hamlet":"CASCO","incidentnumber":"0042ZO","incidents":1,"level":"street","opco":"CMP","street":"UPTHA RD","town":"CASCO"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.471601,44.001652],"type":"Point"},"properties":{"EstRest":"10/11/2026 7:00:00 AM","Outages":44,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.268527,44.119182],"type":"Point"},"properties":{"EstRest":"10/11/2026 8:15:00 AM","Outages":4,"cause":"","county":"KNOX","crewstatus":"     ","customers":4,"hamlet":"WARREN","incidentnumber":"0042ZS","incidents":1,"level":"street","opco":"CMP","street":"CAITY LN","town":"WARREN"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.268801,44.118745],"type":"Point"},"properties":{"EstRest":"10/11/2026 8:15:00 AM","Outages":5,"county":"KNOX","customers":27251,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
