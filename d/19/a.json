@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.981773,42.232788],"type":"Point"},"properties":{"EstRest":"10/10/2026 10:00:00 PM","Outages":11,"cause":"","county":"BROOME","crewstatus":"ONST ","customers":11,"hamlet":"BINGHAMTON","incidentnumber":"00ZFOP","incidents":1,"level":"street","opco":"NYSEG","street":"KNAPP RD","town":"MAINE T"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.0029,42.234341],"type":"Point"},"properties":{"EstRest":"10/10/2026 10:00:00 PM","Outages":94,"county":"BROOME","customers":91444,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.9749,42.246121],"type":"Point"},"properties":{"EstRest":"10/10/2026 10:00:00 PM","Outages":3,"cause":"Tree","county":"BROOME","crewstatus":"CMPL ","customers":3,"hamlet":"BINGHAMTON","incidentnumber":"00ZFOP","incidents":1,"level":"street","opco":"NYSEG","street":"KNAPP RD","town":"BARKER T"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.977064,42.225812],"type":"Point"},"properties":{"EstRest":"10/10/2026 10:00:00 PM","Outages":94,"county":"BROOME","customers":91444,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
