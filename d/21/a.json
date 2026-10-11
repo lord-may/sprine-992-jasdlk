@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.073412,44.192402],"type":"Point"},"properties":{"EstRest":"10/11/2026 6:00:00 PM","Outages":2,"cause":"","county":"KNOX","crewstatus":"DISP ","customers":2,"hamlet":"ROCKPORT","incidentnumber":"00431C","incidents":1,"level":"street","opco":"CMP","street":"COTTAGE LN","town":"ROCKPORT"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.073412,44.192402],"type":"Point"},"properties":{"EstRest":"10/11/2026 6:00:00 PM","Outages":2,"cause":"","county":"KNOX","crewstatus":"ONST ","customers":2,"hamlet":"ROCKPORT","incidentnumber":"00431C","incidents":1,"level":"street","opco":"CMP","street":"COTTAGE LN","town":"ROCKPORT"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.073419,44.193116],"type":"Point"},"properties":{"EstRest":"10/11/2026 6:00:00 PM","Outages":13,"county":"KNOX","customers":27251,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}

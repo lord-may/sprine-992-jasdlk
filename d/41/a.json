@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.32488,41.98766],"type":"Point"},"properties":{"additionalProperties":[{"property":"event_server_id","value":"5372"}],"cause":"","id":2232067,"identifier":"2200001211","lastUpdatedTime":1791750313000,"latitude":41.98766,"longitude":-71.32488,"numPeople":1,"startTime":1791750022000,"status":"","title":"Outage"},"type":"Feature"}
+
 ]}
