@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-69.729544,44.243158],"type":"Point"},"properties":{"EstRest":"10/11/2026 3:15:00 AM","Outages":1,"cause":"","county":"KENNEBEC","crewstatus":"ENRT ","customers":138,"hamlet":"CHELSEA","incidentnumber":"0042ZF","incidents":1,"level":"street","opco":"CMP","street":"TOGUS RD","town":"CHELSEA"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.729544,44.243158],"type":"Point"},"properties":{"EstRest":"10/11/2026 3:15:00 AM","Outages":1,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.122431,44.321989],"type":"Point"},"properties":{"EstRest":"10/11/2026 2:15:00 AM","Outages":13,"cause":"","county":"WALDO","crewstatus":"DISP ","customers":14,"hamlet":"LINCOLNVILLE","incidentnumber":"0042ZC","incidents":1,"level":"street","opco":"CMP","street":"HEATHER HILL RD","town":"LINCOLNVILLE"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.122431,44.321989],"type":"Point"},"properties":{"EstRest":"10/11/2026 2:15:00 AM","Outages":13,"county":"WALDO","customers":26703,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
