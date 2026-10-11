@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.39314,41.69616],"type":"Point"},"properties":{"a":"41.69616","cty":"KENT","hp":true,"id":20261065689,"mun":"WARWICK","nc":12,"ne":{"a":"41.69838","o":"-71.39013"},"o":"-71.39314","sw":{"a":"41.69393","o":"-71.39614"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.391806,41.699136],"type":"Point"},"properties":{"a":"41.699136","cty":"KENT","id":20261065690,"mun":"WARWICK","nc":1,"o":"-71.391806"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.391806,41.699136],"type":"Point"},"properties":{"a":"41.699136","cty":"KENT","id":20261065690,"mun":"WARWICK","nc":1,"o":"-71.391806"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.605607,41.943897],"type":"Point"},"properties":{"a":"41.943897","cty":"PROVIDENCE","id":20261065704,"mun":"BURRILLVILLE","nc":1,"o":"-71.605607"},"type":"Feature"}
 ]}
