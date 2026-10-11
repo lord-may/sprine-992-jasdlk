@@ -6,5 +6,8 @@
 {"geometry":{"coordinates":[-76.45856,40.14604],"type":"Point"},"properties":{"a":"40.14604","cty":"LANCASTER","hp":true,"id":8796497,"mun":"RAPHO TWP","nc":72,"ne":{"a":"40.16193","o":"-76.44103"},"o":"-76.45856","sw":{"a":"40.13016","o":"-76.47608"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.496372,41.575359],"type":"Point"},"properties":{"a":"41.575359","cty":"LACKAWANNA","id":8796498,"mun":"CARBONDALE","nc":19,"o":"-75.496372"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.291582,40.460101],"type":"Point"},"properties":{"a":"40.460101","cty":"BUCKS","id":8796501,"mun":"HAYCOCK TWP","nc":2,"o":"-75.291582"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.4108,40.59592],"type":"Point"},"properties":{"a":"40.59592","cty":"JUNIATA","hp":true,"id":8796502,"mun":"FERMANAGH TWP","nc":56,"ne":{"a":"40.5975","o":"-77.40865"},"o":"-77.4108","sw":{"a":"40.59435","o":"-77.41295"}},"type":"Feature"}
+{"geometry":{"coordinates":[-77.4108,40.59592],"type":"Point"},"properties":{"a":"40.59592","cty":"JUNIATA","hp":true,"id":8796502,"mun":"FERMANAGH TWP","nc":56,"ne":{"a":"40.5975","o":"-77.40865"},"o":"-77.4108","sw":{"a":"40.59435","o":"-77.41295"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.58524,40.77747],"type":"Point"},"properties":{"a":"40.77747","cty":"NORTHAMPTON","hp":true,"id":8796510,"mun":"LEHIGH TWP","nc":445,"ne":{"a":"40.78831","o":"-75.56506"},"o":"-75.58524","sw":{"a":"40.76663","o":"-75.60542"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.558931,40.783638],"type":"Point"},"properties":{"a":"40.783638","cty":"NORTHAMPTON","id":8796511,"mun":"LEHIGH TWP","nc":8,"o":"-75.558931"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.446272,40.590666],"type":"Point"},"properties":{"a":"40.590666","cty":"LEHIGH","id":8796512,"mun":"ALLENTOWN","nc":7,"o":"-75.446272"},"type":"Feature"}
 ]}
