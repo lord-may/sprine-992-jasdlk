@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.371435,43.521496],"type":"Point"},"properties":{"EstRest":"10/11/2026 8:15:00 PM","Outages":77,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.373962,43.524159],"type":"Point"},"properties":{"EstRest":"10/11/2026 8:15:00 PM","Outages":75,"cause":"Equipment Interruption","county":"YORK","crewstatus":"ONST ","customers":93,"hamlet":"OLD ORCHARD BEACH","incidentnumber":"00431S","incidents":1,"level":"street","opco":"CMP","street":"WALNUT ST","town":"OLD ORCHARD BEACH"},"type":"Feature"}
+
 ]}
