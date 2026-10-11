@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.991493,42.822141],"type":"Point"},"properties":{"EstRest":"10/11/2026 9:00:00 AM","Outages":13,"cause":"","county":"ONTARIO","crewstatus":"ONST ","customers":20,"hamlet":"GENEVA","incidentnumber":"00ZFPM","incidents":1,"level":"street","opco":"NYSEG","street":"TURK RD","town":"GENEVA T"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.002006,42.820472],"type":"Point"},"properties":{"EstRest":"10/11/2026 9:00:00 AM","Outages":18,"county":"ONTARIO","customers":18381,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.999812,42.823157],"type":"Point"},"properties":{"EstRest":"10/11/2026 10:15:00 AM","Outages":19,"county":"ONTARIO","customers":18381,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}

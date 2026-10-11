@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.444512,41.69441],"type":"Point"},"properties":{"a":"41.69441","cty":"KENT","id":20261065636,"mun":"WARWICK","nc":12,"o":"-71.444512"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.444512,41.69441],"type":"Point"},"properties":{"a":"41.69441","cty":"KENT","id":20261065636,"mun":"WARWICK","nc":12,"o":"-71.444512"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.474616,41.77757],"type":"Point"},"properties":{"a":"41.77757","cty":"PROVIDENCE","id":20261065638,"mun":"CRANSTON","nc":1,"o":"-71.474616"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.474108,41.778617],"type":"Point"},"properties":{"a":"41.778617","cty":"PROVIDENCE","id":20261065639,"mun":"CRANSTON","nc":14,"o":"-71.474108"},"type":"Feature"}
 ]}

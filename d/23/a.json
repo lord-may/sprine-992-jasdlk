@@ -1,13 +1,12 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-77.25754,40.586643],"type":"Point"},"properties":{"a":"40.586643","cty":"JUNIATA","id":8796485,"mun":"DELAWARE TWP","nc":1,"o":"-77.25754"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.71727,40.61652],"type":"Point"},"properties":{"a":"40.61652","cty":"DAUPHIN","id":8796489,"mun":"GRATZ BORO","nc":2,"o":"-76.71727"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.28427,39.97731],"type":"Point"},"properties":{"a":"39.97731","cty":"LANCASTER","hp":true,"id":8796491,"mun":"PEQUEA TWP","nc":14,"ne":{"a":"39.97826","o":"-76.28379"},"o":"-76.28427","sw":{"a":"39.97636","o":"-76.28475"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.39552,40.66699],"type":"Point"},"properties":{"a":"40.66699","cty":"SCHUYLKILL","hp":true,"id":8796492,"mun":"HEGINS TWP","nc":10,"ne":{"a":"40.66907","o":"-76.39436"},"o":"-76.39552","sw":{"a":"40.6649","o":"-76.39668"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.45856,40.14604],"type":"Point"},"properties":{"a":"40.14604","cty":"LANCASTER","hp":true,"id":8796497,"mun":"RAPHO TWP","nc":72,"ne":{"a":"40.16193","o":"-76.44103"},"o":"-76.45856","sw":{"a":"40.13016","o":"-76.47608"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.496372,41.575359],"type":"Point"},"properties":{"a":"41.575359","cty":"LACKAWANNA","id":8796498,"mun":"CARBONDALE","nc":19,"o":"-75.496372"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.291582,40.460101],"type":"Point"},"properties":{"a":"40.460101","cty":"BUCKS","id":8796501,"mun":"HAYCOCK TWP","nc":2,"o":"-75.291582"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.4108,40.59592],"type":"Point"},"properties":{"a":"40.59592","cty":"JUNIATA","hp":true,"id":8796502,"mun":"FERMANAGH TWP","nc":56,"ne":{"a":"40.5975","o":"-77.40865"},"o":"-77.4108","sw":{"a":"40.59435","o":"-77.41295"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.58524,40.77747],"type":"Point"},"properties":{"a":"40.77747","cty":"NORTHAMPTON","hp":true,"id":8796510,"mun":"LEHIGH TWP","nc":445,"ne":{"a":"40.78831","o":"-75.56506"},"o":"-75.58524","sw":{"a":"40.76663","o":"-75.60542"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.361631,40.212931],"type":"Point"},"properties":{"a":"40.212931","cty":"LANCASTER","id":8796515,"mun":"PENN TWP","nc":2,"o":"-76.361631"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.436412,40.190514],"type":"Point"},"properties":{"a":"40.190514","cty":"LANCASTER","id":8796517,"mun":"RAPHO TWP","nc":1,"o":"-76.436412"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.436412,40.190514],"type":"Point"},"properties":{"a":"40.190514","cty":"LANCASTER","id":8796517,"mun":"RAPHO TWP","nc":1,"o":"-76.436412"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.40927,41.034848],"type":"Point"},"properties":{"a":"41.034848","cty":"COLUMBIA","id":8796518,"mun":"SCOTT TWP","nc":1,"o":"-76.40927"},"type":"Feature"}
 ]}
