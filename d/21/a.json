@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.674527,43.124117],"type":"Point"},"properties":{"EstRest":"10/11/2026 12:30:00 PM","Outages":3,"cause":"","county":"YORK","crewstatus":"ENRT ","customers":8,"hamlet":"YORK","incidentnumber":"00430Y","incidents":1,"level":"street","opco":"CMP","street":"BARTLETT RD","town":"YORK"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.674527,43.124117],"type":"Point"},"properties":{"EstRest":"10/11/2026 12:30:00 PM","Outages":3,"cause":"","county":"YORK","crewstatus":"ONST ","customers":8,"hamlet":"YORK","incidentnumber":"00430Y","incidents":1,"level":"street","opco":"CMP","street":"BARTLETT RD","town":"YORK"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.674527,43.124117],"type":"Point"},"properties":{"EstRest":"10/11/2026 12:30:00 PM","Outages":3,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
