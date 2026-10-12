@@ -2,8 +2,10 @@
 {"geometry":{"coordinates":[-71.471837,41.862185],"type":"Point"},"properties":{"a":"41.862185","cty":"PROVIDENCE","id":20261065806,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.471837"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.57677,41.67578],"type":"Point"},"properties":{"a":"41.67578","cty":"KENT","hp":true,"id":20261065859,"mun":"COVENTRY","nc":27,"ne":{"a":"41.67691","o":"-71.57658"},"o":"-71.57677","sw":{"a":"41.67466","o":"-71.57695"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.271559,41.538092],"type":"Point"},"properties":{"a":"41.538092","cty":"NEWPORT","id":20261065864,"mun":"MIDDLETOWN","nc":1,"o":"-71.271559"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.336309,41.763626],"type":"Point"},"properties":{"a":"41.763626","cty":"PROVIDENCE","id":20261065866,"mun":"EAST PROVIDENCE","nc":20,"o":"-71.336309"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.363862,41.521477],"type":"Point"},"properties":{"a":"41.521477","cty":"NEWPORT","id":20261065868,"mun":"JAMESTOWN","nc":1,"o":"-71.363862"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.666098,41.526237],"type":"Point"},"properties":{"a":"41.526237","cty":"WASHINGTON","id":20261065871,"mun":"RICHMOND","nc":1,"o":"-71.666098"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.245184,41.596189],"type":"Point"},"properties":{"a":"41.596189","cty":"NEWPORT","id":20261065877,"mun":"PORTSMOUTH","nc":1,"o":"-71.245184"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.245184,41.596189],"type":"Point"},"properties":{"a":"41.596189","cty":"NEWPORT","id":20261065877,"mun":"PORTSMOUTH","nc":1,"o":"-71.245184"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.612844,42.008504],"type":"Point"},"properties":{"a":"42.008504","cty":"PROVIDENCE","id":20261065878,"mun":"BURRILLVILLE","nc":8,"o":"-71.612844"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.57841,41.67649],"type":"Point"},"properties":{"a":"41.67649","cty":"KENT","hp":true,"id":20261065881,"mun":"COVENTRY","nc":199,"ne":{"a":"41.67958","o":"-71.57586"},"o":"-71.57841","sw":{"a":"41.67339","o":"-71.58097"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.561998,41.681786],"type":"Point"},"properties":{"a":"41.681786","cty":"KENT","id":20261065884,"mun":"COVENTRY","nc":1,"o":"-71.561998"},"type":"Feature"}
 ]}

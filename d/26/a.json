@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.524061,43.647818],"type":"Point"},"properties":{"comment":"There is a crew enroute to the outage affecting your area. Estimated time of restoration is not yet available.","id":"594336","nbrOut":1,"timeOff":1791806965374},"type":"Feature"},
-{"geometry":{"coordinates":[-71.429432,43.727237],"type":"Point"},"properties":{"comment":"A crew has been assigned to the outage affecting your area. Estimated time of restoration is not yet available.","id":"594341","nbrOut":2,"timeOff":1791809197465},"type":"Feature"}
+{"geometry":{"coordinates":[-71.524061,43.647818],"type":"Point"},"properties":{"comment":"There is a crew enroute to the outage affecting your area. Estimated time of restoration is not yet available.","estimateTime":1791811800000,"id":"594336","nbrOut":1,"timeOff":1791806965374},"type":"Feature"},
+{"geometry":{"coordinates":[-71.429432,43.727237],"type":"Point"},"properties":{"comment":"The outage affecting your area is caused by trees with wires down. Crews are on scene making repairs. Estimated time of restoration is 10:45am","estimateTime":1791816300000,"id":"594341","nbrOut":2,"timeOff":1791809197465},"type":"Feature"}
 ]}
