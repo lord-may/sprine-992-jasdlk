@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.471837,41.862185],"type":"Point"},"properties":{"a":"41.862185","cty":"PROVIDENCE","id":20261065806,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.471837"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.63061,41.73496],"type":"Point"},"properties":{"a":"41.73496","cty":"PROVIDENCE","hp":true,"id":20261065831,"mun":"SCITUATE","nc":31,"ne":{"a":"41.74226","o":"-71.62101"},"o":"-71.63061","sw":{"a":"41.72765","o":"-71.6402"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.747437,41.867807],"type":"Point"},"properties":{"a":"41.867807","cty":"PROVIDENCE","id":20261065836,"mun":"GLOCESTER","nc":1,"o":"-71.747437"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.747437,41.867807],"type":"Point"},"properties":{"a":"41.867807","cty":"PROVIDENCE","id":20261065836,"mun":"GLOCESTER","nc":1,"o":"-71.747437"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.839431,41.4007],"type":"Point"},"properties":{"a":"41.4007","cty":"WASHINGTON","id":20261065841,"mun":"WESTERLY","nc":1,"o":"-71.839431"},"type":"Feature"}
 ]}
