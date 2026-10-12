@@ -10,7 +10,6 @@
 {"geometry":{"coordinates":[-76.92395,40.32157],"type":"Point"},"properties":{"a":"40.32157","cty":"CUMBERLAND","hp":true,"id":8797256,"mun":"EAST PENNSBORO TWP","nc":17,"ne":{"a":"40.32598","o":"-76.91886"},"o":"-76.92395","sw":{"a":"40.31717","o":"-76.92903"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.18204,41.0121],"type":"Point"},"properties":{"a":"41.0121","cty":"LUZERNE","hp":true,"id":8797259,"mun":"BLACK CREEK TWP","nc":13,"ne":{"a":"41.01279","o":"-76.17718"},"o":"-76.18204","sw":{"a":"41.01141","o":"-76.1869"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.6793,40.87896],"type":"Point"},"properties":{"a":"40.87896","cty":"NORTHUMBERLAND","hp":true,"id":8797268,"mun":"SNYDERTOWN BORO","nc":34,"ne":{"a":"40.88057","o":"-76.66863"},"o":"-76.6793","sw":{"a":"40.87736","o":"-76.68998"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.08812,40.24124],"type":"Point"},"properties":{"a":"40.24124","cty":"LANCASTER","hp":true,"id":8797273,"mun":"EAST COCALICO TWP","nc":20,"ne":{"a":"40.24395","o":"-76.08173"},"o":"-76.08812","sw":{"a":"40.23853","o":"-76.09451"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.529854,40.964043],"type":"Point"},"properties":{"a":"40.964043","cty":"MONROE","id":8797274,"mun":"POLK TWP","nc":1,"o":"-75.529854"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.5555,40.48445],"type":"Point"},"properties":{"a":"40.48445","cty":"LEHIGH","hp":true,"id":8797280,"mun":"UPPER MILFORD TWP","nc":71,"ne":{"a":"40.49098","o":"-75.54807"},"o":"-75.5555","sw":{"a":"40.47792","o":"-75.56294"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.62569,40.82561],"type":"Point"},"properties":{"a":"40.82561","cty":"NORTHUMBERLAND","hp":true,"id":8797290,"mun":"SHAMOKIN TWP","nc":126,"ne":{"a":"40.83608","o":"-76.58917"},"o":"-76.62569","sw":{"a":"40.81514","o":"-76.6622"}},"type":"Feature"},
@@ -43,11 +42,11 @@
 {"geometry":{"coordinates":[-76.473251,40.024691],"type":"Point"},"properties":{"a":"40.024691","cty":"LANCASTER","id":8797394,"mun":"WEST HEMPFIELD TWP","nc":3,"o":"-76.473251"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.60429,40.632716],"type":"Point"},"properties":{"a":"40.632716","cty":"LEHIGH","id":8797398,"mun":"NORTH WHITEHALL TWP","nc":2,"o":"-75.60429"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.328138,40.448408],"type":"Point"},"properties":{"a":"40.448408","cty":"BUCKS","id":8797401,"mun":"RICHLAND TWP","nc":3,"o":"-75.328138"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.311182,40.232376],"type":"Point"},"properties":{"a":"40.232376","cty":"LANCASTER","id":8797402,"mun":"ELIZABETH TWP","nc":2,"o":"-76.311182"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.06416,40.28113],"type":"Point"},"properties":{"a":"40.28113","cty":"BERKS","hp":true,"id":8797406,"mun":"SPRING TWP","nc":13,"ne":{"a":"40.2834","o":"-76.05949"},"o":"-76.06416","sw":{"a":"40.27885","o":"-76.06882"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.584744,40.08229],"type":"Point"},"properties":{"a":"40.08229","cty":"LANCASTER","id":8797408,"mun":"EAST DONEGAL TWP","nc":6,"o":"-76.584744"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.279261,41.049263],"type":"Point"},"properties":{"a":"41.049263","cty":"COLUMBIA","id":8797410,"mun":"BRIAR CREEK BORO","nc":20,"o":"-76.279261"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.889875,40.835011],"type":"Point"},"properties":{"a":"40.835011","cty":"CARBON","id":8797413,"mun":"LANSFORD BORO","nc":4,"o":"-75.889875"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.279346,41.048822],"type":"Point"},"properties":{"a":"41.048822","cty":"COLUMBIA","id":8797414,"mun":"BRIAR CREEK BORO","nc":12,"o":"-76.279346"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.998604,40.34356],"type":"Point"},"properties":{"a":"40.34356","cty":"BERKS","id":8797416,"mun":"SPRING TWP","nc":9,"o":"-75.998604"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.998604,40.34356],"type":"Point"},"properties":{"a":"40.34356","cty":"BERKS","id":8797416,"mun":"SPRING TWP","nc":9,"o":"-75.998604"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.887182,40.83473],"type":"Point"},"properties":{"a":"40.83473","cty":"CARBON","id":8797418,"mun":"LANSFORD BORO","nc":9,"o":"-75.887182"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.481698,40.62522],"type":"Point"},"properties":{"a":"40.62522","cty":"LEHIGH","id":8797423,"mun":"WHITEHALL TWP","nc":20,"o":"-75.481698"},"type":"Feature"}
 ]}
