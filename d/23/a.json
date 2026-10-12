@@ -2,7 +2,6 @@
 {"geometry":{"coordinates":[-75.25418,40.58536],"type":"Point"},"properties":{"a":"40.58536","cty":"NORTHAMPTON","hp":true,"id":8797167,"mun":"LOWER SAUCON TWP","nc":7,"ne":{"a":"40.58697","o":"-75.25178"},"o":"-75.25418","sw":{"a":"40.58376","o":"-75.25657"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.328144,40.320164],"type":"Point"},"properties":{"a":"40.320164","cty":"MONTGOMERY","id":8797209,"mun":"TELFORD BORO","nc":10,"o":"-75.328144"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.18513,40.83609],"type":"Point"},"properties":{"a":"40.83609","cty":"NA","hp":true,"id":8797236,"mun":"NA","nc":4,"ne":{"a":"40.84248","o":"-76.17531"},"o":"-76.18513","sw":{"a":"40.8297","o":"-76.19495"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.92395,40.32157],"type":"Point"},"properties":{"a":"40.32157","cty":"CUMBERLAND","hp":true,"id":8797256,"mun":"EAST PENNSBORO TWP","nc":17,"ne":{"a":"40.32598","o":"-76.91886"},"o":"-76.92395","sw":{"a":"40.31717","o":"-76.92903"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.62569,40.82561],"type":"Point"},"properties":{"a":"40.82561","cty":"NORTHUMBERLAND","hp":true,"id":8797290,"mun":"SHAMOKIN TWP","nc":126,"ne":{"a":"40.83608","o":"-76.58917"},"o":"-76.62569","sw":{"a":"40.81514","o":"-76.6622"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.473251,40.024691],"type":"Point"},"properties":{"a":"40.024691","cty":"LANCASTER","id":8797394,"mun":"WEST HEMPFIELD TWP","nc":3,"o":"-76.473251"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.821963,40.314659],"type":"Point"},"properties":{"a":"40.314659","cty":"DAUPHIN","id":8797440,"mun":"LOWER PAXTON TWP","nc":0,"o":"-76.821963"},"type":"Feature"},
@@ -15,6 +14,8 @@
 {"geometry":{"coordinates":[-76.889504,40.230348],"type":"Point"},"properties":{"a":"40.230348","cty":"CUMBERLAND","id":8797673,"mun":"NEW CUMBERLAND BORO","nc":2,"o":"-76.889504"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.552653,41.490272],"type":"Point"},"properties":{"a":"41.490272","cty":"LACKAWANNA","id":8797691,"mun":"ARCHBALD BORO","nc":3,"o":"-75.552653"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.2637,41.13246],"type":"Point"},"properties":{"a":"41.13246","cty":"CLINTON","hp":true,"id":8797697,"mun":"CRAWFORD TWP","nc":102,"ne":{"a":"41.14444","o":"-77.24286"},"o":"-77.2637","sw":{"a":"41.12047","o":"-77.28454"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.55253,41.493912],"type":"Point"},"properties":{"a":"41.493912","cty":"LACKAWANNA","id":8797703,"mun":"ARCHBALD BORO","nc":1,"o":"-75.55253"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.55597,41.125114],"type":"Point"},"properties":{"a":"41.125114","cty":"MONROE","id":8797756,"mun":"TOBYHANNA TWP","nc":2,"o":"-75.55597"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.551973,41.124679],"type":"Point"},"properties":{"a":"41.124679","cty":"MONROE","id":8797756,"mun":"TOBYHANNA TWP","nc":3,"o":"-75.551973"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.016939,41.242049],"type":"Point"},"properties":{"a":"41.242049","cty":"LYCOMING","id":8797763,"mun":"WILLIAMSPORT","nc":1,"o":"-77.016939"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.689496,41.416534],"type":"Point"},"properties":{"a":"41.416534","cty":"LACKAWANNA","id":8797767,"mun":"SCRANTON","nc":1,"o":"-75.689496"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.226022,40.357768],"type":"Point"},"properties":{"a":"40.357768","cty":"BUCKS","id":8797768,"mun":"HILLTOWN TWP","nc":6,"o":"-75.226022"},"type":"Feature"}
 ]}
