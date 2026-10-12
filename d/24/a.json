@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.363862,41.521477],"type":"Point"},"properties":{"a":"41.521477","cty":"NEWPORT","id":20261065868,"mun":"JAMESTOWN","nc":1,"o":"-71.363862"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.461609,41.738747],"type":"Point"},"properties":{"a":"41.738747","cty":"PROVIDENCE","id":20261065935,"mun":"CRANSTON","nc":1,"o":"-71.461609"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.395537,41.854874],"type":"Point"},"properties":{"a":"41.854874","cty":"PROVIDENCE","id":20261065939,"mun":"PROVIDENCE","nc":1,"o":"-71.395537"},"type":"Feature"}
 ]}

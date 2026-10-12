@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.665167,43.255844],"type":"Point"},"properties":{"EstRest":"","Outages":2,"cause":"System Upgrade","county":"MONROE","crewstatus":"DISP ","customers":114,"hamlet":"ROCHESTER","incidentnumber":"00ZFZ3","incidents":1,"level":"street","opco":"RGE","street":"ISLAND COTTAGE RD","town":"GREECE"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.665167,43.255844],"type":"Point"},"properties":{"EstRest":"","Outages":2,"county":"MONROE","customers":303507,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.226739,42.959195],"type":"Point"},"properties":{"EstRest":"","Outages":2,"cause":"","county":"ONTARIO","crewstatus":"DISP ","customers":25,"hamlet":"SHORTSVILLE","incidentnumber":"00ZCG2","incidents":1,"level":"street","opco":"RGE","street":"WATER ST","town":"MANCHSTR V SHORTSVILLE"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.226739,42.959195],"type":"Point"},"properties":{"EstRest":"","Outages":2,"county":"ONTARIO","customers":35916,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.226739,42.959195],"type":"Point"},"properties":{"EstRest":"","Outages":2,"county":"ONTARIO","customers":35916,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.363292,43.256909],"type":"Point"},"properties":{"EstRest":"10/12/2026 3:15:00 PM","Outages":1,"cause":"Equipment Interruption","county":"WAYNE","crewstatus":"DISP ","customers":102,"hamlet":"ONTARIO","incidentnumber":"00ZG2L","incidents":1,"level":"street","opco":"RGE","street":"BOSTON RD","town":"ONTARIO"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.363292,43.256909],"type":"Point"},"properties":{"EstRest":"10/12/2026 3:15:00 PM","Outages":1,"county":"WAYNE","customers":27029,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
