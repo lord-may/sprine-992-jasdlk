@@ -24,7 +24,6 @@
 {"geometry":{"coordinates":[-75.36292,40.623013],"type":"Point"},"properties":{"a":"40.623013","cty":"NORTHAMPTON","id":8797331,"mun":"BETHLEHEM","nc":133,"o":"-75.36292"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.94456,41.09474],"type":"Point"},"properties":{"a":"41.09474","cty":"LUZERNE","hp":true,"id":8797336,"mun":"BUTLER TWP","nc":97,"ne":{"a":"41.10996","o":"-75.93385"},"o":"-75.94456","sw":{"a":"41.07951","o":"-75.95526"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.230125,40.906992],"type":"Point"},"properties":{"a":"40.906992","cty":"SCHUYLKILL","id":8797340,"mun":"NORTH UNION TWP","nc":3,"o":"-76.230125"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.825957,40.300716],"type":"Point"},"properties":{"a":"40.300716","cty":"DAUPHIN","id":8797342,"mun":"LOWER PAXTON TWP","nc":1,"o":"-76.825957"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.349912,40.354105],"type":"Point"},"properties":{"a":"40.354105","cty":"BUCKS","id":8797343,"mun":"WEST ROCKHILL TWP","nc":1,"o":"-75.349912"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.356139,40.541489],"type":"Point"},"properties":{"a":"40.541489","cty":"SCHUYLKILL","id":8797344,"mun":"PINE GROVE TWP","nc":1,"o":"-76.356139"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.330823,40.509259],"type":"Point"},"properties":{"a":"40.509259","cty":"BUCKS","id":8797346,"mun":"SPRINGFIELD TWP","nc":2,"o":"-75.330823"},"type":"Feature"},
