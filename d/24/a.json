@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.391554,41.700632],"type":"Point"},"properties":{"a":"41.700632","cty":"KENT","id":20261065778,"mun":"WARWICK","nc":14,"o":"-71.391554"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.363862,41.521477],"type":"Point"},"properties":{"a":"41.521477","cty":"NEWPORT","id":20261065785,"mun":"JAMESTOWN","nc":1,"o":"-71.363862"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.363862,41.521477],"type":"Point"},"properties":{"a":"41.521477","cty":"NEWPORT","id":20261065785,"mun":"JAMESTOWN","nc":1,"o":"-71.363862"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.626544,41.524468],"type":"Point"},"properties":{"a":"41.524468","cty":"WASHINGTON","id":20261065786,"mun":"RICHMOND","nc":1,"o":"-71.626544"},"type":"Feature"}
 ]}
