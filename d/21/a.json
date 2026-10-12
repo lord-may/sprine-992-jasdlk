@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.466886,44.129052],"type":"Point"},"properties":{"EstRest":"10/12/2026 6:15:00 AM","Outages":3,"cause":"","county":"LINCOLN","crewstatus":"ONST ","customers":3,"hamlet":"NOBLEBORO","incidentnumber":"00432K","incidents":1,"level":"street","opco":"CMP","street":"LILY DR","town":"NOBLEBORO"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.472843,44.139631],"type":"Point"},"properties":{"EstRest":"10/12/2026 6:15:00 AM","Outages":198,"county":"LINCOLN","customers":29091,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.523121,44.48543],"type":"Point"},"properties":{"EstRest":"10/12/2026 8:00:00 AM","Outages":3,"cause":"","county":"KENNEBEC","crewstatus":"     ","customers":40,"hamlet":"CHINA","incidentnumber":"00432L","incidents":1,"level":"street","opco":"CMP","street":"WATERVILLE RD","town":"CHINA"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.523121,44.48543],"type":"Point"},"properties":{"EstRest":"10/12/2026 8:00:00 AM","Outages":3,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
