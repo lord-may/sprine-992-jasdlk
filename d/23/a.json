@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.83596,41.38824],"type":"Point"},"properties":{"a":"41.38824","cty":"LUZERNE","hp":true,"id":8797066,"mun":"EXETER TWP","nc":14,"ne":{"a":"41.39061","o":"-75.83157"},"o":"-75.83596","sw":{"a":"41.38588","o":"-75.84036"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.5591,41.71835],"type":"Point"},"properties":{"a":"41.71835","cty":"SUSQUEHANNA","hp":true,"id":8797105,"mun":"HERRICK TWP","nc":11,"ne":{"a":"41.72166","o":"-75.55671"},"o":"-75.5591","sw":{"a":"41.71504","o":"-75.56149"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.59412,40.72511],"type":"Point"},"properties":{"a":"40.72511","cty":"NORTHUMBERLAND","hp":true,"id":8797120,"mun":"UPPER MAHANOY TWP","nc":17,"ne":{"a":"40.72733","o":"-76.58144"},"o":"-76.59412","sw":{"a":"40.72288","o":"-76.60681"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.25962,40.58315],"type":"Point"},"properties":{"a":"40.58315","cty":"NORTHAMPTON","hp":true,"id":8797167,"mun":"LOWER SAUCON TWP","nc":34,"ne":{"a":"40.58697","o":"-75.25178"},"o":"-75.25962","sw":{"a":"40.57933","o":"-75.26746"}},"type":"Feature"},
@@ -23,5 +22,6 @@
 {"geometry":{"coordinates":[-75.88509,40.78761],"type":"Point"},"properties":{"a":"40.78761","cty":"SCHUYLKILL","hp":true,"id":8797322,"mun":"WEST PENN TWP","nc":23,"ne":{"a":"40.7941","o":"-75.87209"},"o":"-75.88509","sw":{"a":"40.78111","o":"-75.89809"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.058336,39.786663],"type":"Point"},"properties":{"a":"39.786663","cty":"LANCASTER","id":8797330,"mun":"LITTLE BRITAIN TWP","nc":2,"o":"-76.058336"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.36292,40.623013],"type":"Point"},"properties":{"a":"40.623013","cty":"NORTHAMPTON","id":8797331,"mun":"BETHLEHEM","nc":133,"o":"-75.36292"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.94456,41.09474],"type":"Point"},"properties":{"a":"41.09474","cty":"LUZERNE","hp":true,"id":8797336,"mun":"BUTLER TWP","nc":97,"ne":{"a":"41.10996","o":"-75.93385"},"o":"-75.94456","sw":{"a":"41.07951","o":"-75.95526"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.94456,41.09474],"type":"Point"},"properties":{"a":"41.09474","cty":"LUZERNE","hp":true,"id":8797336,"mun":"BUTLER TWP","nc":97,"ne":{"a":"41.10996","o":"-75.93385"},"o":"-75.94456","sw":{"a":"41.07951","o":"-75.95526"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.059331,39.78834],"type":"Point"},"properties":{"a":"39.78834","cty":"LANCASTER","id":8797337,"mun":"LITTLE BRITAIN TWP","nc":1,"o":"-76.059331"},"type":"Feature"}
 ]}
