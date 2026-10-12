@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-73.784682,44.407208],"type":"Point"},"properties":{"EstRest":"10/12/2026 4:30:00 AM","Outages":12,"county":"ESSEX","customers":10354,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.787479,44.408285],"type":"Point"},"properties":{"EstRest":"10/12/2026 4:30:00 AM","Outages":3,"cause":"","county":"ESSEX","crewstatus":"DISP ","customers":3,"hamlet":"WILMINGTON","incidentnumber":"00ZFVM","incidents":1,"level":"street","opco":"NYSEG","street":"WINDING PINE WAY","town":"WILMINGTON T"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.76585,42.141813],"type":"Point"},"properties":{"EstRest":"10/12/2026 7:45:00 AM","Outages":3,"cause":"","county":"CHEMUNG","crewstatus":"DISP ","customers":20,"hamlet":"ELMIRA","incidentnumber":"00ZFW5","incidents":1,"level":"street","opco":"NYSEG","street":"LATTABROOK RD","town":"HORSEHEADS T"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.771726,42.142677],"type":"Point"},"properties":{"EstRest":"10/12/2026 7:45:00 AM","Outages":5,"county":"CHEMUNG","customers":39910,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
