@@ -42,6 +42,8 @@
 {"geometry":{"coordinates":[-76.20016,40.83294],"type":"Point"},"properties":{"a":"40.83294","cty":"SCHUYLKILL","hp":true,"id":8797236,"mun":"WEST MAHANOY TWP","nc":765,"ne":{"a":"40.84248","o":"-76.17531"},"o":"-76.20016","sw":{"a":"40.8234","o":"-76.22501"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.903079,41.291611],"type":"Point"},"properties":{"a":"41.291611","cty":"LYCOMING","id":8797239,"mun":"UPPER FAIRFIELD TWP","nc":1,"o":"-76.903079"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.97949,41.06265],"type":"Point"},"properties":{"a":"41.06265","cty":"LUZERNE","id":8797243,"mun":"BUTLER TWP","nc":5,"o":"-75.97949"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.742227,40.389451],"type":"Point"},"properties":{"a":"40.389451","cty":"DAUPHIN","id":8797247,"mun":"WEST HANOVER TWP","nc":5,"o":"-76.742227"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.47362,40.86305],"type":"Point"},"properties":{"a":"40.86305","cty":"MONROE","hp":true,"id":8797248,"mun":"ELDRED TWP","nc":77,"ne":{"a":"40.86564","o":"-75.4707"},"o":"-75.47362","sw":{"a":"40.86047","o":"-75.47654"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.47362,40.86305],"type":"Point"},"properties":{"a":"40.86305","cty":"MONROE","hp":true,"id":8797248,"mun":"ELDRED TWP","nc":77,"ne":{"a":"40.86564","o":"-75.4707"},"o":"-75.47362","sw":{"a":"40.86047","o":"-75.47654"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.176803,40.998381],"type":"Point"},"properties":{"a":"40.998381","cty":"MONROE","id":8797249,"mun":"EAST STROUDSBURG BORO","nc":5,"o":"-75.176803"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.253925,41.570633],"type":"Point"},"properties":{"a":"41.570633","cty":"WAYNE","id":8797250,"mun":"HONESDALE BORO","nc":9,"o":"-75.253925"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.970048,39.99432],"type":"Point"},"properties":{"a":"39.99432","cty":"LANCASTER","id":8797251,"mun":"SALISBURY TWP","nc":2,"o":"-75.970048"},"type":"Feature"}
 ]}
