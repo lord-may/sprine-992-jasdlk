@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.523121,44.48543],"type":"Point"},"properties":{"EstRest":"10/12/2026 8:00:00 AM","Outages":3,"cause":"","county":"KENNEBEC","crewstatus":"ENRT ","customers":40,"hamlet":"CHINA","incidentnumber":"00432L","incidents":1,"level":"street","opco":"CMP","street":"WATERVILLE RD","town":"CHINA"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.523121,44.48543],"type":"Point"},"properties":{"EstRest":"10/12/2026 8:00:00 AM","Outages":3,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.959998,44.27729],"type":"Point"},"properties":{"EstRest":"10/12/2026 9:15:00 AM","Outages":4,"county":"KENNEBEC","customers":75925,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
