@@ -15,9 +15,7 @@
 {"geometry":{"coordinates":[-76.009623,41.034344],"type":"Point"},"properties":{"a":"41.034344","cty":"LUZERNE","id":8797648,"mun":"BUTLER TWP","nc":2,"o":"-76.009623"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.889504,40.230348],"type":"Point"},"properties":{"a":"40.230348","cty":"CUMBERLAND","id":8797673,"mun":"NEW CUMBERLAND BORO","nc":2,"o":"-76.889504"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.552653,41.490272],"type":"Point"},"properties":{"a":"41.490272","cty":"LACKAWANNA","id":8797691,"mun":"ARCHBALD BORO","nc":3,"o":"-75.552653"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.25718,41.13412],"type":"Point"},"properties":{"a":"41.13412","cty":"LYCOMING","hp":true,"id":8797697,"mun":"LIMESTONE TWP","nc":156,"ne":{"a":"41.14778","o":"-77.22983"},"o":"-77.25718","sw":{"a":"41.12047","o":"-77.28454"}},"type":"Feature"},
+{"geometry":{"coordinates":[-77.2637,41.13246],"type":"Point"},"properties":{"a":"41.13246","cty":"CLINTON","hp":true,"id":8797697,"mun":"CRAWFORD TWP","nc":102,"ne":{"a":"41.14444","o":"-77.24286"},"o":"-77.2637","sw":{"a":"41.12047","o":"-77.28454"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.55253,41.493912],"type":"Point"},"properties":{"a":"41.493912","cty":"LACKAWANNA","id":8797703,"mun":"ARCHBALD BORO","nc":1,"o":"-75.55253"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.4444,40.442132],"type":"Point"},"properties":{"a":"40.442132","cty":"BUCKS","id":8797723,"mun":"MILFORD TWP","nc":8,"o":"-75.4444"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.38328,41.19869],"type":"Point"},"properties":{"a":"41.19869","cty":"COLUMBIA","hp":true,"id":8797736,"mun":"BENTON TWP","nc":37,"ne":{"a":"41.20019","o":"-76.38243"},"o":"-76.38328","sw":{"a":"41.19719","o":"-76.38413"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.386196,41.195854],"type":"Point"},"properties":{"a":"41.195854","cty":"COLUMBIA","id":8797738,"mun":"BENTON TWP","nc":13,"o":"-76.386196"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.189974,40.198655],"type":"Point"},"properties":{"a":"40.198655","cty":"CUMBERLAND","id":8797744,"mun":"CARLISLE BORO","nc":1,"o":"-77.189974"},"type":"Feature"}
 ]}
