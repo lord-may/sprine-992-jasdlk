@@ -1,7 +1,7 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.443448,44.142889],"type":"Point"},"properties":{"EstRest":"10/12/2026 4:15:00 AM","Outages":425,"county":"LINCOLN","customers":29091,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.476703,44.151083],"type":"Point"},"properties":{"EstRest":"10/12/2026 4:15:00 AM","Outages":425,"county":"LINCOLN","customers":29091,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.793041,45.74687],"type":"Point"},"properties":{"EstRest":"10/12/2026 4:45:00 AM","Outages":1,"cause":"","county":"SOMERSET","crewstatus":"DISP ","customers":67,"hamlet":"TOMHEGAN","incidentnumber":"00432I","incidents":1,"level":"street","opco":"CMP","street":"THE BIRCHES EXT","town":"TOMHEGAN"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.793041,45.74687],"type":"Point"},"properties":{"EstRest":"10/12/2026 4:45:00 AM","Outages":1,"county":"SOMERSET","customers":31730,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.625453,43.176041],"type":"Point"},"properties":{"EstRest":"10/12/2026 4:30:00 AM","Outages":18,"cause":"","county":"YORK","crewstatus":"ENRT ","customers":19,"hamlet":"YORK","incidentnumber":"00432H","incidents":1,"level":"street","opco":"CMP","street":"HORN RD","town":"YORK"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.625453,43.176041],"type":"Point"},"properties":{"EstRest":"10/12/2026 4:30:00 AM","Outages":18,"cause":"","county":"YORK","crewstatus":"ONST ","customers":19,"hamlet":"YORK","incidentnumber":"00432H","incidents":1,"level":"street","opco":"CMP","street":"HORN RD","town":"YORK"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.626663,43.176196],"type":"Point"},"properties":{"EstRest":"10/12/2026 4:30:00 AM","Outages":21,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
