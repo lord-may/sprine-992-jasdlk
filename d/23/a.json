@@ -32,7 +32,6 @@
 {"geometry":{"coordinates":[-76.743855,40.390009],"type":"Point"},"properties":{"a":"40.390009","cty":"NA","id":8797227,"mun":"NA","nc":2,"o":"-76.743855"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.108455,41.069136],"type":"Point"},"properties":{"a":"41.069136","cty":"LUZERNE","id":8797230,"mun":"HOLLENBACK TWP","nc":1,"o":"-76.108455"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.20016,40.83294],"type":"Point"},"properties":{"a":"40.83294","cty":"SCHUYLKILL","hp":true,"id":8797236,"mun":"WEST MAHANOY TWP","nc":765,"ne":{"a":"40.84248","o":"-76.17531"},"o":"-76.20016","sw":{"a":"40.8234","o":"-76.22501"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.903079,41.291611],"type":"Point"},"properties":{"a":"41.291611","cty":"LYCOMING","id":8797239,"mun":"UPPER FAIRFIELD TWP","nc":1,"o":"-76.903079"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.47362,40.86305],"type":"Point"},"properties":{"a":"40.86305","cty":"MONROE","hp":true,"id":8797248,"mun":"ELDRED TWP","nc":77,"ne":{"a":"40.86564","o":"-75.4707"},"o":"-75.47362","sw":{"a":"40.86047","o":"-75.47654"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.970048,39.99432],"type":"Point"},"properties":{"a":"39.99432","cty":"LANCASTER","id":8797251,"mun":"SALISBURY TWP","nc":2,"o":"-75.970048"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.993977,40.332231],"type":"Point"},"properties":{"a":"40.332231","cty":"BERKS","id":8797252,"mun":"WYOMISSING BORO","nc":14,"o":"-75.993977"},"type":"Feature"},
@@ -41,5 +40,8 @@
 {"geometry":{"coordinates":[-76.93241,40.314874],"type":"Point"},"properties":{"a":"40.314874","cty":"CUMBERLAND","id":8797256,"mun":"EAST PENNSBORO TWP","nc":21,"o":"-76.93241"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.364502,40.023663],"type":"Point"},"properties":{"a":"40.023663","cty":"LANCASTER","id":8797257,"mun":"MANOR TWP","nc":8,"o":"-76.364502"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.18204,41.0121],"type":"Point"},"properties":{"a":"41.0121","cty":"LUZERNE","hp":true,"id":8797259,"mun":"BLACK CREEK TWP","nc":13,"ne":{"a":"41.01279","o":"-76.17718"},"o":"-76.18204","sw":{"a":"41.01141","o":"-76.1869"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.6793,40.87896],"type":"Point"},"properties":{"a":"40.87896","cty":"NORTHUMBERLAND","hp":true,"id":8797268,"mun":"SNYDERTOWN BORO","nc":34,"ne":{"a":"40.88057","o":"-76.66863"},"o":"-76.6793","sw":{"a":"40.87736","o":"-76.68998"}},"type":"Feature"}
+{"geometry":{"coordinates":[-76.6793,40.87896],"type":"Point"},"properties":{"a":"40.87896","cty":"NORTHUMBERLAND","hp":true,"id":8797268,"mun":"SNYDERTOWN BORO","nc":34,"ne":{"a":"40.88057","o":"-76.66863"},"o":"-76.6793","sw":{"a":"40.87736","o":"-76.68998"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.529854,40.964043],"type":"Point"},"properties":{"a":"40.964043","cty":"MONROE","id":8797269,"mun":"POLK TWP","nc":1,"o":"-75.529854"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.424432,41.077998],"type":"Point"},"properties":{"a":"41.077998","cty":"MONROE","id":8797270,"mun":"TUNKHANNOCK TWP","nc":6,"o":"-75.424432"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.97442,40.01012],"type":"Point"},"properties":{"a":"40.01012","cty":"LANCASTER","hp":true,"id":8797271,"mun":"SALISBURY TWP","nc":382,"ne":{"a":"40.03138","o":"-75.9532"},"o":"-75.97442","sw":{"a":"39.98887","o":"-75.99564"}},"type":"Feature"}
 ]}
