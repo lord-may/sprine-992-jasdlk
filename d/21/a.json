@@ -1,3 +1,6 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-69.51551,44.484744],"type":"Point"},"properties":{"EstRest":"10/12/2026 4:30:00 PM","Outages":2,"cause":"","county":"KENNEBEC","crewstatus":"ENRT ","customers":2,"hamlet":"CHINA","incidentnumber":"00434G","incidents":1,"level":"street","opco":"CMP","street":"KIESOW LN","town":"CHINA"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.51551,44.484744],"type":"Point"},"properties":{"EstRest":"10/12/2026 4:30:00 PM","Outages":3,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.669885,44.528673],"type":"Point"},"properties":{"EstRest":"10/12/2026 4:30:00 PM","Outages":1,"cause":"","county":"OXFORD","crewstatus":"     ","customers":22,"hamlet":"RUMFORD","incidentnumber":"00434D","incidents":1,"level":"street","opco":"CMP","street":"WHIPPOORWILL RD","town":"RUMFORD"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.669885,44.528673],"type":"Point"},"properties":{"EstRest":"10/12/2026 4:30:00 PM","Outages":1,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
