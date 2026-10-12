@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.911811,43.795464],"type":"Point"},"properties":{"EstRest":"10/12/2026 6:00:00 PM","Outages":1,"cause":"","county":"CUMBERLAND","crewstatus":"ENRT ","customers":34,"hamlet":"HARPSWELL","incidentnumber":"00434Q","incidents":1,"level":"street","opco":"CMP","street":"BETHEL POINT RD","town":"HARPSWELL"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.911811,43.795464],"type":"Point"},"properties":{"EstRest":"10/12/2026 6:00:00 PM","Outages":1,"cause":"","county":"CUMBERLAND","crewstatus":"ONST ","customers":34,"hamlet":"HARPSWELL","incidentnumber":"00434Q","incidents":1,"level":"street","opco":"CMP","street":"BETHEL POINT RD","town":"HARPSWELL"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.911811,43.795464],"type":"Point"},"properties":{"EstRest":"10/12/2026 6:00:00 PM","Outages":1,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}

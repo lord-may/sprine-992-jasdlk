@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.363862,41.521477],"type":"Point"},"properties":{"a":"41.521477","cty":"NEWPORT","id":20261065868,"mun":"JAMESTOWN","nc":1,"o":"-71.363862"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.623489,41.740877],"type":"Point"},"properties":{"a":"41.740877","cty":"PROVIDENCE","id":20261065946,"mun":"SCITUATE","nc":1,"o":"-71.623489"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.383328,41.819351],"type":"Point"},"properties":{"a":"41.819351","cty":"PROVIDENCE","id":20261065948,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.383328"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.623489,41.740877],"type":"Point"},"properties":{"a":"41.740877","cty":"PROVIDENCE","id":20261065946,"mun":"SCITUATE","nc":1,"o":"-71.623489"},"type":"Feature"}
 ]}
