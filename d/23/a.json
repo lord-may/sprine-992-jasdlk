@@ -34,5 +34,6 @@
 {"geometry":{"coordinates":[-75.47609,40.598031],"type":"Point"},"properties":{"a":"40.598031","cty":"LEHIGH","id":8797352,"mun":"ALLENTOWN","nc":1,"o":"-75.47609"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.222041,40.560306],"type":"Point"},"properties":{"a":"40.560306","cty":"SCHUYLKILL","id":8797353,"mun":"WAYNE TWP","nc":1,"o":"-76.222041"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.388446,41.346322],"type":"Point"},"properties":{"a":"41.346322","cty":"WAYNE","id":8797354,"mun":"STERLING TWP","nc":1,"o":"-75.388446"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.44951,40.90317],"type":"Point"},"properties":{"a":"40.90317","cty":"COLUMBIA","hp":true,"id":8797355,"mun":"CLEVELAND TWP","nc":4,"ne":{"a":"40.90541","o":"-76.44794"},"o":"-76.44951","sw":{"a":"40.90092","o":"-76.45108"}},"type":"Feature"}
+{"geometry":{"coordinates":[-76.44951,40.90317],"type":"Point"},"properties":{"a":"40.90317","cty":"COLUMBIA","hp":true,"id":8797355,"mun":"CLEVELAND TWP","nc":4,"ne":{"a":"40.90541","o":"-76.44794"},"o":"-76.44951","sw":{"a":"40.90092","o":"-76.45108"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.069369,40.283593],"type":"Point"},"properties":{"a":"40.283593","cty":"BERKS","id":8797364,"mun":"SPRING TWP","nc":1,"o":"-76.069369"},"type":"Feature"}
 ]}
