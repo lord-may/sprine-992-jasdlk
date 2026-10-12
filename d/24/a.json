@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.363862,41.521477],"type":"Point"},"properties":{"a":"41.521477","cty":"NEWPORT","id":20261065868,"mun":"JAMESTOWN","nc":1,"o":"-71.363862"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.623489,41.740877],"type":"Point"},"properties":{"a":"41.740877","cty":"PROVIDENCE","id":20261065946,"mun":"SCITUATE","nc":1,"o":"-71.623489"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.623489,41.740877],"type":"Point"},"properties":{"a":"41.740877","cty":"PROVIDENCE","id":20261065946,"mun":"SCITUATE","nc":1,"o":"-71.623489"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.35364,41.894509],"type":"Point"},"properties":{"a":"41.894509","cty":"PROVIDENCE","id":20261065955,"mun":"PAWTUCKET","nc":1,"o":"-71.35364"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.758186,41.615833],"type":"Point"},"properties":{"a":"41.615833","cty":"KENT","id":20261065956,"mun":"WEST GREENWICH","nc":1,"o":"-71.758186"},"type":"Feature"}
 ]}
