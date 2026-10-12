@@ -1,14 +1,9 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.25418,40.58536],"type":"Point"},"properties":{"a":"40.58536","cty":"NORTHAMPTON","hp":true,"id":8797167,"mun":"LOWER SAUCON TWP","nc":7,"ne":{"a":"40.58697","o":"-75.25178"},"o":"-75.25418","sw":{"a":"40.58376","o":"-75.25657"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.18513,40.83609],"type":"Point"},"properties":{"a":"40.83609","cty":"NA","hp":true,"id":8797236,"mun":"NA","nc":4,"ne":{"a":"40.84248","o":"-76.17531"},"o":"-76.18513","sw":{"a":"40.8297","o":"-76.19495"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.66085,40.24924],"type":"Point"},"properties":{"a":"40.24924","cty":"NA","hp":true,"id":8797465,"mun":"NA","nc":14,"ne":{"a":"40.25122","o":"-76.65781"},"o":"-76.66085","sw":{"a":"40.24725","o":"-76.6639"}},"type":"Feature"},
-{"geometry":{"coordinates":[-77.12429,40.29119],"type":"Point"},"properties":{"a":"40.29119","cty":"CUMBERLAND","hp":true,"id":8797551,"mun":"MIDDLESEX TWP","nc":15,"ne":{"a":"40.29412","o":"-77.11646"},"o":"-77.12429","sw":{"a":"40.28827","o":"-77.13213"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.142293,40.299693],"type":"Point"},"properties":{"a":"40.299693","cty":"PERRY","id":8797784,"mun":"CARROLL TWP","nc":2,"o":"-77.142293"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.800699,41.019319],"type":"Point"},"properties":{"a":"41.019319","cty":"NORTHUMBERLAND","id":8797789,"mun":"TURBOT TWP","nc":1,"o":"-76.800699"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.700597,40.833068],"type":"Point"},"properties":{"a":"40.833068","cty":"CARBON","id":8797796,"mun":"WEISSPORT BORO","nc":9,"o":"-75.700597"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.555316,40.586701],"type":"Point"},"properties":{"a":"40.586701","cty":"SCHUYLKILL","id":8797805,"mun":"PORTER TWP","nc":3,"o":"-76.555316"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.447929,40.222466],"type":"Point"},"properties":{"a":"40.222466","cty":"LANCASTER","id":8797816,"mun":"RAPHO TWP","nc":1,"o":"-76.447929"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.19668,40.31115],"type":"Point"},"properties":{"a":"40.31115","cty":"LEBANON","hp":true,"id":8797851,"mun":"MILLCREEK TWP","nc":26,"ne":{"a":"40.32077","o":"-76.19055"},"o":"-76.19668","sw":{"a":"40.30154","o":"-76.2028"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.25935,41.075],"type":"Point"},"properties":{"a":"41.075","cty":"COLUMBIA","hp":true,"id":8797854,"mun":"BRIAR CREEK TWP","nc":98,"ne":{"a":"41.07824","o":"-76.25147"},"o":"-76.25935","sw":{"a":"41.07176","o":"-76.26724"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.896166,40.27674],"type":"Point"},"properties":{"a":"40.27674","cty":"DAUPHIN","id":8797857,"mun":"HARRISBURG","nc":10,"o":"-76.896166"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.19668,40.31115],"type":"Point"},"properties":{"a":"40.31115","cty":"LEBANON","hp":true,"id":8797851,"mun":"MILLCREEK TWP","nc":26,"ne":{"a":"40.32077","o":"-76.19055"},"o":"-76.19668","sw":{"a":"40.30154","o":"-76.2028"}},"type":"Feature"}
 ]}
