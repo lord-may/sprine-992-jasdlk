@@ -8,13 +8,13 @@
 {"geometry":{"coordinates":[-76.821963,40.314659],"type":"Point"},"properties":{"a":"40.314659","cty":"DAUPHIN","id":8797440,"mun":"LOWER PAXTON TWP","nc":0,"o":"-76.821963"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.66085,40.24924],"type":"Point"},"properties":{"a":"40.24924","cty":"NA","hp":true,"id":8797465,"mun":"NA","nc":14,"ne":{"a":"40.25122","o":"-76.65781"},"o":"-76.66085","sw":{"a":"40.24725","o":"-76.6639"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.315535,40.035157],"type":"Point"},"properties":{"a":"40.035157","cty":"LANCASTER","id":8797533,"mun":"LANCASTER","nc":45,"o":"-76.315535"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.419256,41.002164],"type":"Point"},"properties":{"a":"41.002164","cty":"COLUMBIA","id":8797538,"mun":"SCOTT TWP","nc":5,"o":"-76.419256"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.419256,41.002164],"type":"Point"},"properties":{"a":"41.002164","cty":"COLUMBIA","id":8797538,"mun":"SCOTT TWP","nc":4,"o":"-76.419256"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.12429,40.29119],"type":"Point"},"properties":{"a":"40.29119","cty":"CUMBERLAND","hp":true,"id":8797551,"mun":"MIDDLESEX TWP","nc":15,"ne":{"a":"40.29412","o":"-77.11646"},"o":"-77.12429","sw":{"a":"40.28827","o":"-77.13213"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.75586,40.272116],"type":"Point"},"properties":{"a":"40.272116","cty":"DAUPHIN","id":8797554,"mun":"SWATARA TWP","nc":6,"o":"-76.75586"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.968761,41.249486],"type":"Point"},"properties":{"a":"41.249486","cty":"LYCOMING","id":8797588,"mun":"LOYALSOCK TWP","nc":4,"o":"-76.968761"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.009623,41.034344],"type":"Point"},"properties":{"a":"41.034344","cty":"LUZERNE","id":8797648,"mun":"BUTLER TWP","nc":2,"o":"-76.009623"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.889504,40.230348],"type":"Point"},"properties":{"a":"40.230348","cty":"CUMBERLAND","id":8797673,"mun":"NEW CUMBERLAND BORO","nc":2,"o":"-76.889504"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.552653,41.490272],"type":"Point"},"properties":{"a":"41.490272","cty":"LACKAWANNA","id":8797691,"mun":"ARCHBALD BORO","nc":3,"o":"-75.552653"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.2637,41.13246],"type":"Point"},"properties":{"a":"41.13246","cty":"CLINTON","hp":true,"id":8797697,"mun":"CRAWFORD TWP","nc":102,"ne":{"a":"41.14444","o":"-77.24286"},"o":"-77.2637","sw":{"a":"41.12047","o":"-77.28454"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.55253,41.493912],"type":"Point"},"properties":{"a":"41.493912","cty":"LACKAWANNA","id":8797703,"mun":"ARCHBALD BORO","nc":1,"o":"-75.55253"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.55253,41.493912],"type":"Point"},"properties":{"a":"41.493912","cty":"LACKAWANNA","id":8797703,"mun":"ARCHBALD BORO","nc":1,"o":"-75.55253"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.55597,41.125114],"type":"Point"},"properties":{"a":"41.125114","cty":"MONROE","id":8797756,"mun":"TOBYHANNA TWP","nc":2,"o":"-75.55597"},"type":"Feature"}
 ]}
