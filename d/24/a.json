@@ -4,5 +4,5 @@
 {"geometry":{"coordinates":[-71.438665,41.833233],"type":"Point"},"properties":{"a":"41.833233","cty":"PROVIDENCE","id":20261065919,"mun":"PROVIDENCE","nc":1,"o":"-71.438665"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.43465,41.820694],"type":"Point"},"properties":{"a":"41.820694","cty":"PROVIDENCE","id":20261065923,"mun":"PROVIDENCE","nc":1,"o":"-71.43465"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.251947,41.577763],"type":"Point"},"properties":{"a":"41.577763","cty":"NEWPORT","id":20261065926,"mun":"PORTSMOUTH","nc":1,"o":"-71.251947"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.589541,41.88791],"type":"Point"},"properties":{"a":"41.88791","cty":"PROVIDENCE","id":20261065930,"mun":"GLOCESTER","nc":1,"o":"-71.589541"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.787726,41.74908],"type":"Point"},"properties":{"a":"41.74908","cty":"PROVIDENCE","id":20261065933,"mun":"FOSTER","nc":1,"o":"-71.787726"},"type":"Feature"}
 ]}
