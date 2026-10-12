@@ -18,7 +18,7 @@
 {"geometry":{"coordinates":[-76.35439,40.95628],"type":"Point"},"properties":{"a":"40.95628","cty":"COLUMBIA","hp":true,"id":8796871,"mun":"MAIN TWP","nc":10,"ne":{"a":"40.96169","o":"-76.35003"},"o":"-76.35439","sw":{"a":"40.95087","o":"-76.35875"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.41126,40.72926],"type":"Point"},"properties":{"a":"40.72926","cty":"SCHUYLKILL","hp":true,"id":8796875,"mun":"BARRY TWP","nc":17,"ne":{"a":"40.73469","o":"-76.40495"},"o":"-76.41126","sw":{"a":"40.72382","o":"-76.41758"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.10779,40.87188],"type":"Point"},"properties":{"a":"40.87188","cty":"UNION","hp":true,"id":8796888,"mun":"LEWIS TWP","nc":12,"ne":{"a":"40.87299","o":"-77.10404"},"o":"-77.10779","sw":{"a":"40.87077","o":"-77.11153"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.77052,40.77692],"type":"Point"},"properties":{"a":"40.77692","cty":"CARBON","hp":true,"id":8796930,"mun":"MAHONING TWP","nc":320,"ne":{"a":"40.80025","o":"-75.73775"},"o":"-75.77052","sw":{"a":"40.7536","o":"-75.8033"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.75039,40.799382],"type":"Point"},"properties":{"a":"40.799382","cty":"NA","id":8796930,"mun":"NA","nc":4,"o":"-75.75039"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.27896,40.48006],"type":"Point"},"properties":{"a":"40.48006","cty":"BUCKS","hp":true,"id":8796940,"mun":"HAYCOCK TWP","nc":26,"ne":{"a":"40.4834","o":"-75.27475"},"o":"-75.27896","sw":{"a":"40.47673","o":"-75.28317"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.360561,41.31823],"type":"Point"},"properties":{"a":"41.31823","cty":"WAYNE","id":8796946,"mun":"STERLING TWP","nc":2,"o":"-75.360561"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.292433,41.001162],"type":"Point"},"properties":{"a":"41.001162","cty":"MONROE","id":8796948,"mun":"JACKSON TWP","nc":2,"o":"-75.292433"},"type":"Feature"},
@@ -71,9 +71,11 @@
 {"geometry":{"coordinates":[-75.247433,41.361049],"type":"Point"},"properties":{"a":"41.361049","cty":"PIKE","id":8797134,"mun":"PALMYRA TWP","nc":2,"o":"-75.247433"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.317938,40.03256],"type":"Point"},"properties":{"a":"40.03256","cty":"LANCASTER","id":8797136,"mun":"LANCASTER","nc":43,"o":"-76.317938"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.614623,40.750775],"type":"Point"},"properties":{"a":"40.750775","cty":"LEHIGH","id":8797138,"mun":"SLATINGTON BORO","nc":9,"o":"-75.614623"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.345697,39.943515],"type":"Point"},"properties":{"a":"39.943515","cty":"LANCASTER","id":8797139,"mun":"CONESTOGA TWP","nc":6,"o":"-76.345697"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.64614,41.30152],"type":"Point"},"properties":{"a":"41.30152","cty":"LACKAWANNA","hp":true,"id":8797142,"mun":"SPRING BROOK TWP","nc":26,"ne":{"a":"41.30669","o":"-75.63973"},"o":"-75.64614","sw":{"a":"41.29636","o":"-75.65256"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.352099,40.519102],"type":"Point"},"properties":{"a":"40.519102","cty":"BUCKS","id":8797143,"mun":"SPRINGFIELD TWP","nc":2,"o":"-75.352099"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.61088,41.69975],"type":"Point"},"properties":{"a":"41.69975","cty":"SUSQUEHANNA","hp":true,"id":8797146,"mun":"CLIFFORD TWP","nc":15,"ne":{"a":"41.7009","o":"-75.60746"},"o":"-75.61088","sw":{"a":"41.6986","o":"-75.6143"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.825957,40.300716],"type":"Point"},"properties":{"a":"40.300716","cty":"DAUPHIN","id":8797147,"mun":"LOWER PAXTON TWP","nc":1,"o":"-76.825957"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.638854,40.741543],"type":"Point"},"properties":{"a":"40.741543","cty":"LEHIGH","id":8797149,"mun":"WASHINGTON TWP","nc":1,"o":"-75.638854"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.080491,40.271166],"type":"Point"},"properties":{"a":"40.271166","cty":"BERKS","id":8797152,"mun":"SPRING TWP","nc":2,"o":"-76.080491"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.340871,39.944423],"type":"Point"},"properties":{"a":"39.944423","cty":"LANCASTER","id":8797153,"mun":"CONESTOGA TWP","nc":14,"o":"-76.340871"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.627099,41.30277],"type":"Point"},"properties":{"a":"41.30277","cty":"LACKAWANNA","id":8797156,"mun":"SPRING BROOK TWP","nc":1,"o":"-75.627099"},"type":"Feature"}
 ]}
