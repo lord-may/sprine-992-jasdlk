@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-70.5735,43.285862],"type":"Point"},"properties":{"EstRest":"10/11/2026 10:15:00 PM","Outages":2664,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.586452,43.302294],"type":"Point"},"properties":{"EstRest":"10/11/2026 10:15:00 PM","Outages":204,"cause":"","county":"YORK","crewstatus":"     ","customers":1212,"hamlet":"WELLS","incidentnumber":"00431Y","incidents":1,"level":"street","opco":"CMP","street":"POST RD","town":"WELLS"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.586638,43.300748],"type":"Point"},"properties":{"EstRest":"10/11/2026 10:15:00 PM","Outages":2,"cause":"","county":"YORK","crewstatus":"ENRT ","customers":2,"hamlet":"WELLS","incidentnumber":"00431Y","incidents":1,"level":"street","opco":"CMP","street":"STEEPLE WAY","town":"WELLS"},"type":"Feature"}
 ]}
