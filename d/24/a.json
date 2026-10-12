@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.363862,41.521477],"type":"Point"},"properties":{"a":"41.521477","cty":"NEWPORT","id":20261065868,"mun":"JAMESTOWN","nc":1,"o":"-71.363862"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.823993,41.399197],"type":"Point"},"properties":{"a":"41.399197","cty":"WASHINGTON","id":20261065971,"mun":"WESTERLY","nc":1,"o":"-71.823993"},"type":"Feature"}
 ]}
