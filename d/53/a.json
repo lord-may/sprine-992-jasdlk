@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-80.09079,40.988218],"type":"Point"},"properties":{"crewAssigned":true,"id":"601256","nbrOut":1,"planned":false,"timeOff":1791721600000},"type":"Feature"},
-{"geometry":{"geometries":[{"coordinates":[[[-79.895847,40.778961],[-79.894868,40.779016],[-79.897051,40.77924],[-79.895847,40.778961]]],"type":"Polygon"},{"coordinates":[-79.895919,40.779077],"type":"Point"}],"type":"GeometryCollection"},"properties":{"crewAssigned":true,"id":"601647","nbrOut":3,"planned":false,"timeOff":1791741405000},"type":"Feature"},
-{"geometry":{"coordinates":[-79.893673,40.783743],"type":"Point"},"properties":{"cause":"MAINTENANCE-CREW TAKES LINE OF","crewAssigned":true,"estimateTime":1791798300000,"id":"601663","nbrOut":1,"planned":false,"timeOff":1791787156749},"type":"Feature"}
+{"geometry":{"geometries":[{"coordinates":[[[-79.895847,40.778961],[-79.894868,40.779016],[-79.897051,40.77924],[-79.895847,40.778961]]],"type":"Polygon"},{"coordinates":[-79.895919,40.779077],"type":"Point"}],"type":"GeometryCollection"},"properties":{"crewAssigned":true,"id":"601647","nbrOut":3,"planned":false,"timeOff":1791741405000},"type":"Feature"}
 ]}
