@@ -10,5 +10,6 @@
 {"geometry":{"coordinates":[-71.271559,41.538092],"type":"Point"},"properties":{"a":"41.538092","cty":"NEWPORT","id":20261065908,"mun":"MIDDLETOWN","nc":1,"o":"-71.271559"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.808885,41.379042],"type":"Point"},"properties":{"a":"41.379042","cty":"WASHINGTON","id":20261065911,"mun":"WESTERLY","nc":1,"o":"-71.808885"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.415463,41.95691],"type":"Point"},"properties":{"a":"41.95691","cty":"PROVIDENCE","id":20261065912,"mun":"CUMBERLAND","nc":1,"o":"-71.415463"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.391682,41.846011],"type":"Point"},"properties":{"a":"41.846011","cty":"PROVIDENCE","id":20261065914,"mun":"PROVIDENCE","nc":17,"o":"-71.391682"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.391682,41.846011],"type":"Point"},"properties":{"a":"41.846011","cty":"PROVIDENCE","id":20261065914,"mun":"PROVIDENCE","nc":17,"o":"-71.391682"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.438665,41.833233],"type":"Point"},"properties":{"a":"41.833233","cty":"PROVIDENCE","id":20261065919,"mun":"PROVIDENCE","nc":1,"o":"-71.438665"},"type":"Feature"}
 ]}
