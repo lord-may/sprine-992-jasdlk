@@ -1,7 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.59412,40.72511],"type":"Point"},"properties":{"a":"40.72511","cty":"NORTHUMBERLAND","hp":true,"id":8797120,"mun":"UPPER MAHANOY TWP","nc":17,"ne":{"a":"40.72733","o":"-76.58144"},"o":"-76.59412","sw":{"a":"40.72288","o":"-76.60681"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.25962,40.58315],"type":"Point"},"properties":{"a":"40.58315","cty":"NORTHAMPTON","hp":true,"id":8797167,"mun":"LOWER SAUCON TWP","nc":34,"ne":{"a":"40.58697","o":"-75.25178"},"o":"-75.25962","sw":{"a":"40.57933","o":"-75.26746"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.24246,40.85108],"type":"Point"},"properties":{"a":"40.85108","cty":"SCHUYLKILL","hp":true,"id":8797174,"mun":"UNION TWP","nc":8,"ne":{"a":"40.85226","o":"-76.24207"},"o":"-76.24246","sw":{"a":"40.84989","o":"-76.24286"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.328144,40.320164],"type":"Point"},"properties":{"a":"40.320164","cty":"MONTGOMERY","id":8797209,"mun":"TELFORD BORO","nc":10,"o":"-75.328144"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.108455,41.069136],"type":"Point"},"properties":{"a":"41.069136","cty":"LUZERNE","id":8797230,"mun":"HOLLENBACK TWP","nc":1,"o":"-76.108455"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.18895,40.83483],"type":"Point"},"properties":{"a":"40.83483","cty":"NA","hp":true,"id":8797236,"mun":"NA","nc":43,"ne":{"a":"40.84248","o":"-76.17531"},"o":"-76.18895","sw":{"a":"40.82718","o":"-76.20258"}},"type":"Feature"},
@@ -34,15 +33,19 @@
 {"geometry":{"coordinates":[-76.350609,40.049486],"type":"Point"},"properties":{"a":"40.049486","cty":"LANCASTER","id":8797443,"mun":"EAST HEMPFIELD TWP","nc":1,"o":"-76.350609"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.434782,40.798891],"type":"Point"},"properties":{"a":"40.798891","cty":"NORTHUMBERLAND","id":8797446,"mun":"MOUNT CARMEL TWP","nc":1,"o":"-76.434782"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.83987,41.01215],"type":"Point"},"properties":{"a":"41.01215","cty":"NORTHUMBERLAND","hp":true,"id":8797449,"mun":"MILTON BORO","nc":86,"ne":{"a":"41.01329","o":"-76.8395"},"o":"-76.83987","sw":{"a":"41.011","o":"-76.84023"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.311182,40.232376],"type":"Point"},"properties":{"a":"40.232376","cty":"LANCASTER","id":8797453,"mun":"ELIZABETH TWP","nc":2,"o":"-76.311182"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.58259,40.14921],"type":"Point"},"properties":{"a":"40.14921","cty":"LANCASTER","hp":true,"id":8797460,"mun":"MOUNT JOY TWP","nc":23,"ne":{"a":"40.1501","o":"-76.58151"},"o":"-76.58259","sw":{"a":"40.14833","o":"-76.58367"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.58228,40.14923],"type":"Point"},"properties":{"a":"40.14923","cty":"LANCASTER","hp":true,"id":8797460,"mun":"MOUNT JOY TWP","nc":24,"ne":{"a":"40.15014","o":"-76.58089"},"o":"-76.58228","sw":{"a":"40.14833","o":"-76.58367"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.66827,40.25177],"type":"Point"},"properties":{"a":"40.25177","cty":"DAUPHIN","hp":true,"id":8797465,"mun":"DERRY TWP","nc":544,"ne":{"a":"40.25819","o":"-76.65744"},"o":"-76.66827","sw":{"a":"40.24535","o":"-76.6791"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.863772,40.324673],"type":"Point"},"properties":{"a":"40.324673","cty":"DAUPHIN","id":8797470,"mun":"SUSQUEHANNA TWP","nc":8,"o":"-76.863772"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.672765,40.663112],"type":"Point"},"properties":{"a":"40.663112","cty":"LEHIGH","id":8797474,"mun":"LOWHILL TWP","nc":1,"o":"-75.672765"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.339508,41.095706],"type":"Point"},"properties":{"a":"41.095706","cty":"COLUMBIA","id":8797476,"mun":"NORTH CENTRE TWP","nc":5,"o":"-76.339508"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.082251,40.327337],"type":"Point"},"properties":{"a":"40.327337","cty":"BERKS","id":8797485,"mun":"WERNERSVILLE BORO","nc":10,"o":"-76.082251"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.97749,41.324163],"type":"Point"},"properties":{"a":"41.324163","cty":"LYCOMING","id":8797487,"mun":"ELDRED TWP","nc":1,"o":"-76.97749"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.60776,40.960709],"type":"Point"},"properties":{"a":"40.960709","cty":"MONTOUR","id":8797492,"mun":"DANVILLE BORO","nc":1,"o":"-76.60776"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.503266,40.829231],"type":"Point"},"properties":{"a":"40.829231","cty":"NORTHUMBERLAND","id":8797496,"mun":"RALPHO TWP","nc":1,"o":"-76.503266"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.343516,40.642796],"type":"Point"},"properties":{"a":"40.642796","cty":"NORTHAMPTON","id":8797503,"mun":"BETHLEHEM TWP","nc":5,"o":"-75.343516"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.343516,40.642796],"type":"Point"},"properties":{"a":"40.642796","cty":"NORTHAMPTON","id":8797503,"mun":"BETHLEHEM TWP","nc":5,"o":"-75.343516"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.998604,40.34356],"type":"Point"},"properties":{"a":"40.34356","cty":"BERKS","id":8797504,"mun":"SPRING TWP","nc":9,"o":"-75.998604"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.085306,40.279296],"type":"Point"},"properties":{"a":"40.279296","cty":"BERKS","id":8797505,"mun":"SPRING TWP","nc":4,"o":"-76.085306"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.459153,40.615047],"type":"Point"},"properties":{"a":"40.615047","cty":"LEHIGH","id":8797506,"mun":"ALLENTOWN","nc":1,"o":"-75.459153"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.25468,40.6207],"type":"Point"},"properties":{"a":"40.6207","cty":"NORTHAMPTON","hp":true,"id":8797517,"mun":"LOWER SAUCON TWP","nc":609,"ne":{"a":"40.63913","o":"-75.20543"},"o":"-75.25468","sw":{"a":"40.60226","o":"-75.30392"}},"type":"Feature"},
+{"geometry":{"coordinates":[-77.758622,41.329844],"type":"Point"},"properties":{"a":"41.329844","cty":"CLINTON","id":8797520,"mun":"RENOVO BORO","nc":3,"o":"-77.758622"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.548982,41.493275],"type":"Point"},"properties":{"a":"41.493275","cty":"LACKAWANNA","id":8797524,"mun":"ARCHBALD BORO","nc":7,"o":"-75.548982"},"type":"Feature"}
 ]}

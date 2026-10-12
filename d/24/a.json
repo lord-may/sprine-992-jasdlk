@@ -7,5 +7,8 @@
 {"geometry":{"coordinates":[-71.598448,41.893566],"type":"Point"},"properties":{"a":"41.893566","cty":"PROVIDENCE","id":20261065894,"mun":"GLOCESTER","nc":1,"o":"-71.598448"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.73654,41.44087],"type":"Point"},"properties":{"a":"41.44087","cty":"WASHINGTON","hp":true,"id":20261065897,"mun":"HOPKINTON","nc":47,"ne":{"a":"41.44388","o":"-71.72599"},"o":"-71.73654","sw":{"a":"41.43786","o":"-71.7471"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.538162,41.674969],"type":"Point"},"properties":{"a":"41.674969","cty":"KENT","id":20261065898,"mun":"COVENTRY","nc":1,"o":"-71.538162"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.271559,41.538092],"type":"Point"},"properties":{"a":"41.538092","cty":"NEWPORT","id":20261065908,"mun":"MIDDLETOWN","nc":1,"o":"-71.271559"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.271559,41.538092],"type":"Point"},"properties":{"a":"41.538092","cty":"NEWPORT","id":20261065908,"mun":"MIDDLETOWN","nc":1,"o":"-71.271559"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.808885,41.379042],"type":"Point"},"properties":{"a":"41.379042","cty":"WASHINGTON","id":20261065911,"mun":"WESTERLY","nc":1,"o":"-71.808885"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.415463,41.95691],"type":"Point"},"properties":{"a":"41.95691","cty":"PROVIDENCE","id":20261065912,"mun":"CUMBERLAND","nc":1,"o":"-71.415463"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.391682,41.846011],"type":"Point"},"properties":{"a":"41.846011","cty":"PROVIDENCE","id":20261065914,"mun":"PROVIDENCE","nc":17,"o":"-71.391682"},"type":"Feature"}
 ]}
