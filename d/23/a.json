@@ -19,7 +19,6 @@
 {"geometry":{"coordinates":[-75.27195,40.62226],"type":"Point"},"properties":{"a":"40.62226","cty":"NORTHAMPTON","hp":true,"id":8797517,"mun":"WILLIAMS TWP","nc":292,"ne":{"a":"40.63913","o":"-75.23997"},"o":"-75.27195","sw":{"a":"40.60538","o":"-75.30392"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.315535,40.035157],"type":"Point"},"properties":{"a":"40.035157","cty":"LANCASTER","id":8797533,"mun":"LANCASTER","nc":45,"o":"-76.315535"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.419256,41.002164],"type":"Point"},"properties":{"a":"41.002164","cty":"COLUMBIA","id":8797538,"mun":"SCOTT TWP","nc":5,"o":"-76.419256"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.310014,41.024976],"type":"Point"},"properties":{"a":"41.024976","cty":"COLUMBIA","id":8797547,"mun":"MIFFLIN TWP","nc":3,"o":"-76.310014"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.12429,40.29119],"type":"Point"},"properties":{"a":"40.29119","cty":"CUMBERLAND","hp":true,"id":8797551,"mun":"MIDDLESEX TWP","nc":15,"ne":{"a":"40.29412","o":"-77.11646"},"o":"-77.12429","sw":{"a":"40.28827","o":"-77.13213"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.75586,40.272116],"type":"Point"},"properties":{"a":"40.272116","cty":"DAUPHIN","id":8797554,"mun":"SWATARA TWP","nc":6,"o":"-76.75586"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.430425,40.79819],"type":"Point"},"properties":{"a":"40.79819","cty":"NORTHUMBERLAND","id":8797563,"mun":"MOUNT CARMEL TWP","nc":29,"o":"-76.430425"},"type":"Feature"},
@@ -33,8 +32,9 @@
 {"geometry":{"coordinates":[-76.009623,41.034344],"type":"Point"},"properties":{"a":"41.034344","cty":"LUZERNE","id":8797648,"mun":"BUTLER TWP","nc":2,"o":"-76.009623"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.142037,41.087564],"type":"Point"},"properties":{"a":"41.087564","cty":"LUZERNE","id":8797655,"mun":"SALEM TWP","nc":1,"o":"-76.142037"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.70543,40.87956],"type":"Point"},"properties":{"a":"40.87956","cty":"NORTHUMBERLAND","hp":true,"id":8797666,"mun":"UPPER AUGUSTA TWP","nc":8,"ne":{"a":"40.88103","o":"-76.70456"},"o":"-76.70543","sw":{"a":"40.87809","o":"-76.70631"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.293372,40.03507],"type":"Point"},"properties":{"a":"40.03507","cty":"LANCASTER","id":8797669,"mun":"LANCASTER","nc":18,"o":"-76.293372"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.19427,40.73763],"type":"Point"},"properties":{"a":"40.73763","cty":"SCHUYLKILL","hp":true,"id":8797671,"mun":"ST. CLAIR BORO","nc":17,"ne":{"a":"40.74506","o":"-76.18849"},"o":"-76.19427","sw":{"a":"40.7302","o":"-76.20006"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.889504,40.230348],"type":"Point"},"properties":{"a":"40.230348","cty":"CUMBERLAND","id":8797673,"mun":"NEW CUMBERLAND BORO","nc":2,"o":"-76.889504"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.084048,40.428086],"type":"Point"},"properties":{"a":"40.428086","cty":"PERRY","id":8797678,"mun":"WHEATFIELD TWP","nc":2,"o":"-77.084048"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.084048,40.428086],"type":"Point"},"properties":{"a":"40.428086","cty":"PERRY","id":8797678,"mun":"WHEATFIELD TWP","nc":2,"o":"-77.084048"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.990548,40.164621],"type":"Point"},"properties":{"a":"40.164621","cty":"CUMBERLAND","id":8797681,"mun":"UPPER ALLEN TWP","nc":1,"o":"-76.990548"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.44201,40.61832],"type":"Point"},"properties":{"a":"40.61832","cty":"LEHIGH","hp":true,"id":8797683,"mun":"ALLENTOWN","nc":12,"ne":{"a":"40.61911","o":"-75.44182"},"o":"-75.44201","sw":{"a":"40.61753","o":"-75.44219"}},"type":"Feature"}
 ]}
