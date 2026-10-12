@@ -38,11 +38,15 @@
 {"geometry":{"coordinates":[-76.434782,40.798891],"type":"Point"},"properties":{"a":"40.798891","cty":"NORTHUMBERLAND","id":8797446,"mun":"MOUNT CARMEL TWP","nc":1,"o":"-76.434782"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.83987,41.01215],"type":"Point"},"properties":{"a":"41.01215","cty":"NORTHUMBERLAND","hp":true,"id":8797449,"mun":"MILTON BORO","nc":86,"ne":{"a":"41.01329","o":"-76.8395"},"o":"-76.83987","sw":{"a":"41.011","o":"-76.84023"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.311182,40.232376],"type":"Point"},"properties":{"a":"40.232376","cty":"LANCASTER","id":8797453,"mun":"ELIZABETH TWP","nc":2,"o":"-76.311182"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.311636,40.0446],"type":"Point"},"properties":{"a":"40.0446","cty":"LANCASTER","id":8797458,"mun":"LANCASTER","nc":1,"o":"-76.311636"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.58259,40.14921],"type":"Point"},"properties":{"a":"40.14921","cty":"LANCASTER","hp":true,"id":8797460,"mun":"MOUNT JOY TWP","nc":23,"ne":{"a":"40.1501","o":"-76.58151"},"o":"-76.58259","sw":{"a":"40.14833","o":"-76.58367"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.66827,40.25177],"type":"Point"},"properties":{"a":"40.25177","cty":"DAUPHIN","hp":true,"id":8797465,"mun":"DERRY TWP","nc":544,"ne":{"a":"40.25819","o":"-76.65744"},"o":"-76.66827","sw":{"a":"40.24535","o":"-76.6791"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.863772,40.324673],"type":"Point"},"properties":{"a":"40.324673","cty":"DAUPHIN","id":8797470,"mun":"SUSQUEHANNA TWP","nc":8,"o":"-76.863772"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.672765,40.663112],"type":"Point"},"properties":{"a":"40.663112","cty":"LEHIGH","id":8797474,"mun":"LOWHILL TWP","nc":1,"o":"-75.672765"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.339508,41.095706],"type":"Point"},"properties":{"a":"41.095706","cty":"COLUMBIA","id":8797476,"mun":"NORTH CENTRE TWP","nc":5,"o":"-76.339508"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.464925,40.603305],"type":"Point"},"properties":{"a":"40.603305","cty":"LEHIGH","id":8797478,"mun":"ALLENTOWN","nc":1,"o":"-75.464925"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.464925,40.603305],"type":"Point"},"properties":{"a":"40.603305","cty":"LEHIGH","id":8797478,"mun":"ALLENTOWN","nc":1,"o":"-75.464925"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.082251,40.327337],"type":"Point"},"properties":{"a":"40.327337","cty":"BERKS","id":8797485,"mun":"WERNERSVILLE BORO","nc":10,"o":"-76.082251"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.97749,41.324163],"type":"Point"},"properties":{"a":"41.324163","cty":"LYCOMING","id":8797487,"mun":"ELDRED TWP","nc":1,"o":"-76.97749"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.60776,40.960709],"type":"Point"},"properties":{"a":"40.960709","cty":"MONTOUR","id":8797492,"mun":"DANVILLE BORO","nc":1,"o":"-76.60776"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.661631,41.108643],"type":"Point"},"properties":{"a":"41.108643","cty":"CARBON","id":8797493,"mun":"KIDDER TWP","nc":8,"o":"-75.661631"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.304035,40.05373],"type":"Point"},"properties":{"a":"40.05373","cty":"LANCASTER","id":8797494,"mun":"MANHEIM TWP","nc":1,"o":"-76.304035"},"type":"Feature"}
 ]}
