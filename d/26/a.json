@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-71.053164,43.695121],"type":"Point"},"properties":{"comment":"There is a crew enroute to the outage affecting your area. Estimated time of restoration is not yet available.","id":"594346","nbrOut":1,"timeOff":1791821259815},"type":"Feature"},
+{"geometry":{"coordinates":[-71.051466,43.695173],"type":"Point"},"properties":{"id":"594347","nbrOut":1,"timeOff":1791821563536},"type":"Feature"},
+{"geometry":{"coordinates":[-71.04357,43.69388],"type":"Point"},"properties":{"id":"594348","nbrOut":1,"timeOff":1791821747684},"type":"Feature"}
 ]}
