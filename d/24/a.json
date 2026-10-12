@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.363862,41.521477],"type":"Point"},"properties":{"a":"41.521477","cty":"NEWPORT","id":20261065868,"mun":"JAMESTOWN","nc":1,"o":"-71.363862"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.75709,41.61952],"type":"Point"},"properties":{"a":"41.61952","cty":"KENT","hp":true,"id":20261065956,"mun":"WEST GREENWICH","nc":40,"ne":{"a":"41.62719","o":"-71.74586"},"o":"-71.75709","sw":{"a":"41.61185","o":"-71.76832"}},"type":"Feature"}
+{"geometry":{"coordinates":[-71.823993,41.399197],"type":"Point"},"properties":{"a":"41.399197","cty":"WASHINGTON","id":20261065971,"mun":"WESTERLY","nc":1,"o":"-71.823993"},"type":"Feature"}
 ]}

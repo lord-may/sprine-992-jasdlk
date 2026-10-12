@@ -7,9 +7,10 @@
 {"geometry":{"coordinates":[-76.800699,41.019319],"type":"Point"},"properties":{"a":"41.019319","cty":"NORTHUMBERLAND","id":8797789,"mun":"TURBOT TWP","nc":1,"o":"-76.800699"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.700597,40.833068],"type":"Point"},"properties":{"a":"40.833068","cty":"CARBON","id":8797796,"mun":"WEISSPORT BORO","nc":9,"o":"-75.700597"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.555316,40.586701],"type":"Point"},"properties":{"a":"40.586701","cty":"SCHUYLKILL","id":8797805,"mun":"PORTER TWP","nc":3,"o":"-76.555316"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.978044,40.937613],"type":"Point"},"properties":{"a":"40.937613","cty":"LUZERNE","id":8797806,"mun":"HAZLETON","nc":1,"o":"-75.978044"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.447929,40.222466],"type":"Point"},"properties":{"a":"40.222466","cty":"LANCASTER","id":8797816,"mun":"RAPHO TWP","nc":1,"o":"-76.447929"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.436097,40.585909],"type":"Point"},"properties":{"a":"40.585909","cty":"LEHIGH","id":8797838,"mun":"SALISBURY TWP","nc":8,"o":"-75.436097"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.442897,40.585448],"type":"Point"},"properties":{"a":"40.585448","cty":"LEHIGH","id":8797839,"mun":"SALISBURY TWP","nc":6,"o":"-75.442897"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.689496,41.416534],"type":"Point"},"properties":{"a":"41.416534","cty":"LACKAWANNA","id":8797846,"mun":"SCRANTON","nc":1,"o":"-75.689496"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.19668,40.31115],"type":"Point"},"properties":{"a":"40.31115","cty":"LEBANON","hp":true,"id":8797851,"mun":"MILLCREEK TWP","nc":26,"ne":{"a":"40.32077","o":"-76.19055"},"o":"-76.19668","sw":{"a":"40.30154","o":"-76.2028"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.359833,40.546856],"type":"Point"},"properties":{"a":"40.546856","cty":"LEHIGH","id":8797853,"mun":"UPPER SAUCON TWP","nc":1,"o":"-75.359833"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.25935,41.075],"type":"Point"},"properties":{"a":"41.075","cty":"COLUMBIA","hp":true,"id":8797854,"mun":"BRIAR CREEK TWP","nc":98,"ne":{"a":"41.07824","o":"-76.25147"},"o":"-76.25935","sw":{"a":"41.07176","o":"-76.26724"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.312464,41.091508],"type":"Point"},"properties":{"a":"41.091508","cty":"COLUMBIA","id":8797855,"mun":"BRIAR CREEK TWP","nc":2,"o":"-76.312464"},"type":"Feature"}
 ]}
