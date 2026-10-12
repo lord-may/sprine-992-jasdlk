@@ -4,5 +4,6 @@
 {"geometry":{"coordinates":[-71.271559,41.538092],"type":"Point"},"properties":{"a":"41.538092","cty":"NEWPORT","id":20261065864,"mun":"MIDDLETOWN","nc":1,"o":"-71.271559"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.336309,41.763626],"type":"Point"},"properties":{"a":"41.763626","cty":"PROVIDENCE","id":20261065866,"mun":"EAST PROVIDENCE","nc":20,"o":"-71.336309"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.363862,41.521477],"type":"Point"},"properties":{"a":"41.521477","cty":"NEWPORT","id":20261065868,"mun":"JAMESTOWN","nc":1,"o":"-71.363862"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.666098,41.526237],"type":"Point"},"properties":{"a":"41.526237","cty":"WASHINGTON","id":20261065871,"mun":"RICHMOND","nc":1,"o":"-71.666098"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.666098,41.526237],"type":"Point"},"properties":{"a":"41.526237","cty":"WASHINGTON","id":20261065871,"mun":"RICHMOND","nc":1,"o":"-71.666098"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.245184,41.596189],"type":"Point"},"properties":{"a":"41.596189","cty":"NEWPORT","id":20261065877,"mun":"PORTSMOUTH","nc":1,"o":"-71.245184"},"type":"Feature"}
 ]}
