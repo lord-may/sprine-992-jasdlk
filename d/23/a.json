@@ -41,5 +41,9 @@
 {"geometry":{"coordinates":[-76.065315,40.038191],"type":"Point"},"properties":{"a":"40.038191","cty":"LANCASTER","id":8797373,"mun":"LEACOCK TWP","nc":2,"o":"-76.065315"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.839256,40.998107],"type":"Point"},"properties":{"a":"40.998107","cty":"NORTHUMBERLAND","id":8797375,"mun":"WEST CHILLISQUAQUE TWP","nc":1,"o":"-76.839256"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.271384,41.217673],"type":"Point"},"properties":{"a":"41.217673","cty":"MONROE","id":8797378,"mun":"BARRETT TWP","nc":1,"o":"-75.271384"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.524718,40.521847],"type":"Point"},"properties":{"a":"40.521847","cty":"LEHIGH","id":8797379,"mun":"UPPER MILFORD TWP","nc":1,"o":"-75.524718"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.524718,40.521847],"type":"Point"},"properties":{"a":"40.521847","cty":"LEHIGH","id":8797379,"mun":"UPPER MILFORD TWP","nc":1,"o":"-75.524718"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.972485,39.993027],"type":"Point"},"properties":{"a":"39.993027","cty":"LANCASTER","id":8797383,"mun":"SALISBURY TWP","nc":1,"o":"-75.972485"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.991631,40.334114],"type":"Point"},"properties":{"a":"40.334114","cty":"BERKS","id":8797385,"mun":"WYOMISSING BORO","nc":1,"o":"-75.991631"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.786274,40.308407],"type":"Point"},"properties":{"a":"40.308407","cty":"DAUPHIN","id":8797387,"mun":"LOWER PAXTON TWP","nc":8,"o":"-76.786274"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.166384,40.86932],"type":"Point"},"properties":{"a":"40.86932","cty":"SCHUYLKILL","id":8797389,"mun":"EAST UNION TWP","nc":2,"o":"-76.166384"},"type":"Feature"}
 ]}
