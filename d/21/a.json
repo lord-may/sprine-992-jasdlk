@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.563961,43.311991],"type":"Point"},"properties":{"EstRest":"10/11/2026 10:15:00 PM","Outages":2664,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.605501,43.292136],"type":"Point"},"properties":{"EstRest":"10/11/2026 10:15:00 PM","Outages":5,"cause":"","county":"YORK","crewstatus":"ENRT ","customers":5,"hamlet":"WELLS","incidentnumber":"00431Y","incidents":1,"level":"street","opco":"CMP","street":"ASHER LN","town":"WELLS"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.563961,43.311991],"type":"Point"},"properties":{"EstRest":"10/11/2026 10:15:00 PM","Outages":3,"cause":"","county":"YORK","crewstatus":"ONST ","customers":3,"hamlet":"WELLS","incidentnumber":"00431Y","incidents":1,"level":"street","opco":"CMP","street":"BOSIN ST","town":"WELLS"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.583624,43.289667],"type":"Point"},"properties":{"EstRest":"10/11/2026 10:15:00 PM","Outages":2664,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}

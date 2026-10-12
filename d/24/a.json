@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.359479,41.895736],"type":"Point"},"properties":{"a":"41.895736","cty":"PROVIDENCE","id":20261065733,"mun":"PAWTUCKET","nc":1,"o":"-71.359479"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.391554,41.700632],"type":"Point"},"properties":{"a":"41.700632","cty":"KENT","id":20261065773,"mun":"WARWICK","nc":1,"o":"-71.391554"},"type":"Feature"}
 ]}
