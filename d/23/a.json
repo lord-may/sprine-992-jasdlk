@@ -55,5 +55,6 @@
 {"geometry":{"coordinates":[-75.439067,40.59331],"type":"Point"},"properties":{"a":"40.59331","cty":"LEHIGH","id":8797220,"mun":"ALLENTOWN","nc":4,"o":"-75.439067"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.28688,40.09741],"type":"Point"},"properties":{"a":"40.09741","cty":"LANCASTER","hp":true,"id":8797225,"mun":"MANHEIM TWP","nc":79,"ne":{"a":"40.10014","o":"-76.28514"},"o":"-76.28688","sw":{"a":"40.09469","o":"-76.28861"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.74279,40.39208],"type":"Point"},"properties":{"a":"40.39208","cty":"DAUPHIN","hp":true,"id":8797227,"mun":"WEST HANOVER TWP","nc":110,"ne":{"a":"40.39784","o":"-76.73306"},"o":"-76.74279","sw":{"a":"40.38633","o":"-76.75252"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.108455,41.069136],"type":"Point"},"properties":{"a":"41.069136","cty":"LUZERNE","id":8797230,"mun":"HOLLENBACK TWP","nc":1,"o":"-76.108455"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.108455,41.069136],"type":"Point"},"properties":{"a":"41.069136","cty":"LUZERNE","id":8797230,"mun":"HOLLENBACK TWP","nc":1,"o":"-76.108455"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.619757,40.535743],"type":"Point"},"properties":{"a":"40.535743","cty":"LEHIGH","id":8797233,"mun":"UPPER MACUNGIE TWP","nc":6,"o":"-75.619757"},"type":"Feature"}
 ]}
