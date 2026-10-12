@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.235158,43.649999],"type":"Point"},"properties":{"EstRest":"10/12/2026 7:45:00 PM","Outages":28,"county":"CUMBERLAND","customers":182407,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.801815,44.355132],"type":"Point"},"properties":{"EstRest":"10/12/2026 8:00:00 PM","Outages":1,"cause":"","county":"KENNEBEC","crewstatus":"DISP ","customers":3,"hamlet":"AUGUSTA","incidentnumber":"004354","incidents":1,"level":"street","opco":"CMP","street":"J&D BUSINESS PK","town":"AUGUSTA"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.801815,44.355132],"type":"Point"},"properties":{"EstRest":"10/12/2026 8:00:00 PM","Outages":1,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.755325,43.901091],"type":"Point"},"properties":{"EstRest":"10/12/2026 8:45:00 PM","Outages":28,"county":"CUMBERLAND","customers":182407,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.362273,44.188952],"type":"Point"},"properties":{"EstRest":"10/12/2026 7:45:00 PM","Outages":7,"county":"OXFORD","customers":44086,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}

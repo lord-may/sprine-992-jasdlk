@@ -6,14 +6,10 @@
 {"geometry":{"coordinates":[-77.142293,40.299693],"type":"Point"},"properties":{"a":"40.299693","cty":"PERRY","id":8797784,"mun":"CARROLL TWP","nc":2,"o":"-77.142293"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.800699,41.019319],"type":"Point"},"properties":{"a":"41.019319","cty":"NORTHUMBERLAND","id":8797789,"mun":"TURBOT TWP","nc":1,"o":"-76.800699"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.700597,40.833068],"type":"Point"},"properties":{"a":"40.833068","cty":"CARBON","id":8797796,"mun":"WEISSPORT BORO","nc":9,"o":"-75.700597"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.505044,40.658606],"type":"Point"},"properties":{"a":"40.658606","cty":"LEHIGH","id":8797803,"mun":"WHITEHALL TWP","nc":4,"o":"-75.505044"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.555316,40.586701],"type":"Point"},"properties":{"a":"40.586701","cty":"SCHUYLKILL","id":8797805,"mun":"PORTER TWP","nc":3,"o":"-76.555316"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.978044,40.937613],"type":"Point"},"properties":{"a":"40.937613","cty":"LUZERNE","id":8797806,"mun":"HAZLETON","nc":1,"o":"-75.978044"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.447929,40.222466],"type":"Point"},"properties":{"a":"40.222466","cty":"LANCASTER","id":8797816,"mun":"RAPHO TWP","nc":1,"o":"-76.447929"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.456161,40.584955],"type":"Point"},"properties":{"a":"40.584955","cty":"LEHIGH","id":8797835,"mun":"ALLENTOWN","nc":8,"o":"-75.456161"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.440736,40.589111],"type":"Point"},"properties":{"a":"40.589111","cty":"LEHIGH","id":8797836,"mun":"ALLENTOWN","nc":6,"o":"-75.440736"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.825957,40.300716],"type":"Point"},"properties":{"a":"40.300716","cty":"DAUPHIN","id":8797837,"mun":"LOWER PAXTON TWP","nc":1,"o":"-76.825957"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.436097,40.585909],"type":"Point"},"properties":{"a":"40.585909","cty":"LEHIGH","id":8797838,"mun":"SALISBURY TWP","nc":8,"o":"-75.436097"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.442897,40.585448],"type":"Point"},"properties":{"a":"40.585448","cty":"LEHIGH","id":8797839,"mun":"SALISBURY TWP","nc":6,"o":"-75.442897"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.439927,40.588245],"type":"Point"},"properties":{"a":"40.588245","cty":"LEHIGH","id":8797842,"mun":"SALISBURY TWP","nc":7,"o":"-75.439927"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.689496,41.416534],"type":"Point"},"properties":{"a":"41.416534","cty":"LACKAWANNA","id":8797846,"mun":"SCRANTON","nc":1,"o":"-75.689496"},"type":"Feature"}
 ]}
