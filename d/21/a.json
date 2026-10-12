@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.448061,44.016562],"type":"Point"},"properties":{"EstRest":"10/12/2026 3:00:00 AM","Outages":65,"county":"LINCOLN","customers":29091,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.459358,44.016531],"type":"Point"},"properties":{"EstRest":"10/12/2026 3:00:00 AM","Outages":8,"cause":"Equipment Interruption","county":"LINCOLN","crewstatus":"ONST ","customers":15,"hamlet":"BREMEN","incidentnumber":"004320","incidents":1,"level":"street","opco":"CMP","street":"MCCURDY RD","town":"BREMEN"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.443448,44.142889],"type":"Point"},"properties":{"EstRest":"10/12/2026 4:15:00 AM","Outages":498,"county":"LINCOLN","customers":29091,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
