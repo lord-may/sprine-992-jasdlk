@@ -1,5 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.363862,41.521477],"type":"Point"},"properties":{"a":"41.521477","cty":"NEWPORT","id":20261065868,"mun":"JAMESTOWN","nc":1,"o":"-71.363862"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.446685,41.837068],"type":"Point"},"properties":{"a":"41.837068","cty":"PROVIDENCE","id":20261065943,"mun":"PROVIDENCE","nc":1,"o":"-71.446685"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.527694,41.701868],"type":"Point"},"properties":{"a":"41.701868","cty":"KENT","id":20261065944,"mun":"WEST WARWICK","nc":1,"o":"-71.527694"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.363862,41.521477],"type":"Point"},"properties":{"a":"41.521477","cty":"NEWPORT","id":20261065868,"mun":"JAMESTOWN","nc":1,"o":"-71.363862"},"type":"Feature"}
 ]}
