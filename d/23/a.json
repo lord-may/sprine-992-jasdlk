@@ -16,6 +16,5 @@
 {"geometry":{"coordinates":[-76.889504,40.230348],"type":"Point"},"properties":{"a":"40.230348","cty":"CUMBERLAND","id":8797673,"mun":"NEW CUMBERLAND BORO","nc":2,"o":"-76.889504"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.552653,41.490272],"type":"Point"},"properties":{"a":"41.490272","cty":"LACKAWANNA","id":8797691,"mun":"ARCHBALD BORO","nc":3,"o":"-75.552653"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.2637,41.13246],"type":"Point"},"properties":{"a":"41.13246","cty":"CLINTON","hp":true,"id":8797697,"mun":"CRAWFORD TWP","nc":102,"ne":{"a":"41.14444","o":"-77.24286"},"o":"-77.2637","sw":{"a":"41.12047","o":"-77.28454"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.55253,41.493912],"type":"Point"},"properties":{"a":"41.493912","cty":"LACKAWANNA","id":8797703,"mun":"ARCHBALD BORO","nc":1,"o":"-75.55253"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.189974,40.198655],"type":"Point"},"properties":{"a":"40.198655","cty":"CUMBERLAND","id":8797744,"mun":"CARLISLE BORO","nc":1,"o":"-77.189974"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.55253,41.493912],"type":"Point"},"properties":{"a":"41.493912","cty":"LACKAWANNA","id":8797703,"mun":"ARCHBALD BORO","nc":1,"o":"-75.55253"},"type":"Feature"}
 ]}
