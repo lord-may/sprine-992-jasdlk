@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.235158,43.649999],"type":"Point"},"properties":{"EstRest":"10/12/2026 7:30:00 PM","Outages":1,"cause":"","county":"CUMBERLAND","crewstatus":"DISP ","customers":183,"hamlet":"SOUTH PORTLAND","incidentnumber":"00434Z","incidents":1,"level":"street","opco":"CMP","street":"BREAKWATER DR","town":"SOUTH PORTLAND"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.235158,43.649999],"type":"Point"},"properties":{"EstRest":"10/12/2026 7:30:00 PM","Outages":1,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.235158,43.649999],"type":"Point"},"properties":{"EstRest":"10/12/2026 7:45:00 PM","Outages":28,"county":"CUMBERLAND","customers":182407,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.362273,44.188952],"type":"Point"},"properties":{"EstRest":"10/12/2026 7:45:00 PM","Outages":7,"county":"OXFORD","customers":44086,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}

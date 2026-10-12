@@ -4,11 +4,13 @@
 {"geometry":{"coordinates":[-76.18513,40.83609],"type":"Point"},"properties":{"a":"40.83609","cty":"NA","hp":true,"id":8797236,"mun":"NA","nc":4,"ne":{"a":"40.84248","o":"-76.17531"},"o":"-76.18513","sw":{"a":"40.8297","o":"-76.19495"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.66085,40.24924],"type":"Point"},"properties":{"a":"40.24924","cty":"NA","hp":true,"id":8797465,"mun":"NA","nc":14,"ne":{"a":"40.25122","o":"-76.65781"},"o":"-76.66085","sw":{"a":"40.24725","o":"-76.6639"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.12429,40.29119],"type":"Point"},"properties":{"a":"40.29119","cty":"CUMBERLAND","hp":true,"id":8797551,"mun":"MIDDLESEX TWP","nc":15,"ne":{"a":"40.29412","o":"-77.11646"},"o":"-77.12429","sw":{"a":"40.28827","o":"-77.13213"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.302642,40.125736],"type":"Point"},"properties":{"a":"40.125736","cty":"LANCASTER","id":8797773,"mun":"MANHEIM TWP","nc":1,"o":"-76.302642"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.27174,41.13264],"type":"Point"},"properties":{"a":"41.13264","cty":"CLINTON","hp":true,"id":8797783,"mun":"CRAWFORD TWP","nc":46,"ne":{"a":"41.14444","o":"-77.25894"},"o":"-77.27174","sw":{"a":"41.12083","o":"-77.28454"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.142293,40.299693],"type":"Point"},"properties":{"a":"40.299693","cty":"PERRY","id":8797784,"mun":"CARROLL TWP","nc":2,"o":"-77.142293"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.800699,41.019319],"type":"Point"},"properties":{"a":"41.019319","cty":"NORTHUMBERLAND","id":8797789,"mun":"TURBOT TWP","nc":1,"o":"-76.800699"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.700597,40.833068],"type":"Point"},"properties":{"a":"40.833068","cty":"CARBON","id":8797796,"mun":"WEISSPORT BORO","nc":9,"o":"-75.700597"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.505044,40.658606],"type":"Point"},"properties":{"a":"40.658606","cty":"LEHIGH","id":8797803,"mun":"WHITEHALL TWP","nc":4,"o":"-75.505044"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.555316,40.586701],"type":"Point"},"properties":{"a":"40.586701","cty":"SCHUYLKILL","id":8797805,"mun":"PORTER TWP","nc":3,"o":"-76.555316"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.555316,40.586701],"type":"Point"},"properties":{"a":"40.586701","cty":"SCHUYLKILL","id":8797805,"mun":"PORTER TWP","nc":3,"o":"-76.555316"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.978044,40.937613],"type":"Point"},"properties":{"a":"40.937613","cty":"LUZERNE","id":8797806,"mun":"HAZLETON","nc":1,"o":"-75.978044"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.019004,41.243136],"type":"Point"},"properties":{"a":"41.243136","cty":"LYCOMING","id":8797808,"mun":"WILLIAMSPORT","nc":16,"o":"-77.019004"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.927126,40.3175],"type":"Point"},"properties":{"a":"40.3175","cty":"CUMBERLAND","id":8797810,"mun":"EAST PENNSBORO TWP","nc":2,"o":"-76.927126"},"type":"Feature"}
 ]}
