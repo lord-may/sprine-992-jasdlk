@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-68.77589,44.9817],"type":"Point"},"properties":{"cause":{"EN-US":"Under Investigation","orig":"Under Investigation"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":null,"cust_a":{"val":1},"etr":"ETR-NULL","etr_confidence":null,"inc_id":"575795-1","n_out":1,"start_time":null,"title":"Area Outage"},"type":"Feature"},
 {"geometry":{"geometries":[{"coordinates":[[[-68.6636,44.2532],[-68.6624,44.2538],[-68.6594,44.256],[-68.6694,44.2567],[-68.67059,44.2552],[-68.6636,44.2532]]],"type":"Polygon"},{"coordinates":[-68.66516,44.2552],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"Tree Fell Out Of ROW","orig":"Tree Fell Out Of ROW"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":null,"cust_a":{"val":12},"etr":"2026-10-14T00:00:00Z","etr_confidence":null,"inc_id":"575794-1","n_out":1,"start_time":null,"title":"Area Outage"},"type":"Feature"}
 ]}
