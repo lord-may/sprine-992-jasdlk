@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.989118,44.067326],"type":"Point"},"properties":{"comment":"The outage affecting your area is caused by trees with wires down. Crews are on scene making repairs. Estimated time of restoration is 5:30PM","estimateTime":1791927000000,"id":"594395","nbrOut":2,"timeOff":1791919338610},"type":"Feature"}
+{"geometry":{"coordinates":[-71.989118,44.067326],"type":"Point"},"properties":{"estimateTime":1791927000000,"id":"594395","nbrOut":2,"timeOff":1791919338610},"type":"Feature"}
 ]}
