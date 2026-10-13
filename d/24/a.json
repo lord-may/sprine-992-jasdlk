@@ -2,10 +2,9 @@
 {"geometry":{"coordinates":[-71.82976,41.32632],"type":"Point"},"properties":{"a":"41.32632","cty":"WASHINGTON","hp":true,"id":20261066043,"mun":"WESTERLY","nc":13,"ne":{"a":"41.32757","o":"-71.8285"},"o":"-71.82976","sw":{"a":"41.32506","o":"-71.83102"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.626826,41.744834],"type":"Point"},"properties":{"a":"41.744834","cty":"PROVIDENCE","id":20261066053,"mun":"SCITUATE","nc":1,"o":"-71.626826"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.274781,41.665804],"type":"Point"},"properties":{"a":"41.665804","cty":"BRISTOL","id":20261066061,"mun":"BRISTOL","nc":1,"o":"-71.274781"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.309425,41.500243],"type":"Point"},"properties":{"a":"41.500243","cty":"NEWPORT","id":20261066065,"mun":"NEWPORT","nc":10,"o":"-71.309425"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.270511,41.694815],"type":"Point"},"properties":{"a":"41.694815","cty":"BRISTOL","id":20261066077,"mun":"BRISTOL","nc":1,"o":"-71.270511"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.580298,41.956948],"type":"Point"},"properties":{"a":"41.956948","cty":"PROVIDENCE","id":20261066078,"mun":"NORTH SMITHFIELD","nc":7,"o":"-71.580298"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.396012,41.970891],"type":"Point"},"properties":{"a":"41.970891","cty":"PROVIDENCE","id":20261066080,"mun":"CUMBERLAND","nc":5,"o":"-71.396012"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.50177,41.912024],"type":"Point"},"properties":{"a":"41.912024","cty":"PROVIDENCE","id":20261066083,"mun":"SMITHFIELD","nc":1,"o":"-71.50177"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.300467,41.726828],"type":"Point"},"properties":{"a":"41.726828","cty":"BRISTOL","id":20261066087,"mun":"BARRINGTON","nc":8,"o":"-71.300467"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.50281,41.912019],"type":"Point"},"properties":{"a":"41.912019","cty":"PROVIDENCE","id":20261066083,"mun":"SMITHFIELD","nc":2,"o":"-71.50281"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.300467,41.726828],"type":"Point"},"properties":{"a":"41.726828","cty":"BRISTOL","id":20261066087,"mun":"BARRINGTON","nc":8,"o":"-71.300467"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.478888,41.796131],"type":"Point"},"properties":{"a":"41.796131","cty":"PROVIDENCE","id":20261066093,"mun":"CRANSTON","nc":1,"o":"-71.478888"},"type":"Feature"}
 ]}
