@@ -7,5 +7,5 @@
 {"geometry":{"coordinates":[-76.385605,41.016516],"type":"Point"},"properties":{"a":"41.016516","cty":"COLUMBIA","id":8798274,"mun":"SCOTT TWP","nc":2,"o":"-76.385605"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.4685,40.51124],"type":"Point"},"properties":{"a":"40.51124","cty":"LEHIGH","hp":true,"id":8798280,"mun":"UPPER MILFORD TWP","nc":26,"ne":{"a":"40.51273","o":"-75.46359"},"o":"-75.4685","sw":{"a":"40.50974","o":"-75.47341"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.52685,40.96084],"type":"Point"},"properties":{"a":"40.96084","cty":"MONROE","hp":true,"id":8798289,"mun":"POLK TWP","nc":33,"ne":{"a":"40.9637","o":"-75.52325"},"o":"-75.52685","sw":{"a":"40.95799","o":"-75.53044"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.667023,41.427759],"type":"Point"},"properties":{"a":"41.427759","cty":"LACKAWANNA","id":8798295,"mun":"SCRANTON","nc":10,"o":"-75.667023"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.79626,40.55631],"type":"Point"},"properties":{"a":"40.55631","cty":"DAUPHIN","hp":true,"id":8798306,"mun":"WASHINGTON TWP","nc":643,"ne":{"a":"40.56587","o":"-76.77718"},"o":"-76.79626","sw":{"a":"40.54676","o":"-76.81535"}},"type":"Feature"}
 ]}
