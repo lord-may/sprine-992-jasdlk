@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-77.584063,43.22845],"type":"Point"},"properties":{"EstRest":"10/13/2026 2:45:00 PM","Outages":4,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":104,"hamlet":"ROCHESTER","incidentnumber":"0114IS","incidents":1,"level":"street","opco":"RGE","street":"PINEGROVE AVE","town":"IRONDEQUOIT"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.584063,43.22845],"type":"Point"},"properties":{"EstRest":"10/13/2026 2:45:00 PM","Outages":4,"county":"MONROE","customers":303507,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.226739,42.959195],"type":"Point"},"properties":{"EstRest":"","Outages":2,"cause":"","county":"ONTARIO","crewstatus":"DISP ","customers":25,"hamlet":"SHORTSVILLE","incidentnumber":"00ZCG2","incidents":1,"level":"street","opco":"RGE","street":"WATER ST","town":"MANCHSTR V SHORTSVILLE"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.226739,42.959195],"type":"Point"},"properties":{"EstRest":"","Outages":2,"county":"ONTARIO","customers":35916,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
