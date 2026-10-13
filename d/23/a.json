@@ -9,7 +9,13 @@
 {"geometry":{"coordinates":[-75.796828,41.278632],"type":"Point"},"properties":{"a":"41.278632","cty":"LUZERNE","id":8797931,"mun":"PLAINS TWP","nc":13,"o":"-75.796828"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.690615,41.388568],"type":"Point"},"properties":{"a":"41.388568","cty":"LACKAWANNA","id":8797937,"mun":"SCRANTON","nc":2,"o":"-75.690615"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.43292,40.798678],"type":"Point"},"properties":{"a":"40.798678","cty":"NORTHUMBERLAND","id":8797939,"mun":"MOUNT CARMEL TWP","nc":22,"o":"-76.43292"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.898673,40.27982],"type":"Point"},"properties":{"a":"40.27982","cty":"DAUPHIN","id":8797941,"mun":"HARRISBURG","nc":27,"o":"-76.898673"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.003482,41.435013],"type":"Point"},"properties":{"a":"41.435013","cty":"PIKE","id":8797944,"mun":"LACKAWAXEN TWP","nc":3,"o":"-75.003482"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.424396,40.624928],"type":"Point"},"properties":{"a":"40.624928","cty":"LEHIGH","id":8797947,"mun":"ALLENTOWN","nc":9,"o":"-75.424396"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.424396,40.624928],"type":"Point"},"properties":{"a":"40.624928","cty":"LEHIGH","id":8797947,"mun":"ALLENTOWN","nc":9,"o":"-75.424396"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.834616,40.291182],"type":"Point"},"properties":{"a":"40.291182","cty":"DAUPHIN","id":8797952,"mun":"SUSQUEHANNA TWP","nc":8,"o":"-76.834616"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.200531,40.989637],"type":"Point"},"properties":{"a":"40.989637","cty":"MONROE","id":8797954,"mun":"STROUDSBURG BORO","nc":10,"o":"-75.200531"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.834793,40.291851],"type":"Point"},"properties":{"a":"40.291851","cty":"DAUPHIN","id":8797956,"mun":"SUSQUEHANNA TWP","nc":8,"o":"-76.834793"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.309076,41.023715],"type":"Point"},"properties":{"a":"41.023715","cty":"COLUMBIA","id":8797957,"mun":"MIFFLIN TWP","nc":3,"o":"-76.309076"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.88634,41.169],"type":"Point"},"properties":{"a":"41.169","cty":"LUZERNE","hp":true,"id":8797961,"mun":"FAIRVIEW TWP","nc":26,"ne":{"a":"41.17104","o":"-75.88301"},"o":"-75.88634","sw":{"a":"41.16696","o":"-75.88968"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.598367,41.54777],"type":"Point"},"properties":{"a":"41.54777","cty":"LACKAWANNA","id":8797962,"mun":"SCOTT TWP","nc":8,"o":"-75.598367"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.99805,39.960635],"type":"Point"},"properties":{"a":"39.960635","cty":"LANCASTER","id":8797963,"mun":"SADSBURY TWP","nc":2,"o":"-75.99805"},"type":"Feature"}
 ]}
