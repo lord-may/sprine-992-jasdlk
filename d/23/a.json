@@ -1,7 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.690615,41.388568],"type":"Point"},"properties":{"a":"41.388568","cty":"LACKAWANNA","id":8797937,"mun":"SCRANTON","nc":2,"o":"-75.690615"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.200531,40.989637],"type":"Point"},"properties":{"a":"40.989637","cty":"MONROE","id":8797954,"mun":"STROUDSBURG BORO","nc":10,"o":"-75.200531"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.99805,39.960635],"type":"Point"},"properties":{"a":"39.960635","cty":"LANCASTER","id":8797963,"mun":"SADSBURY TWP","nc":2,"o":"-75.99805"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.418945,41.00229],"type":"Point"},"properties":{"a":"41.00229","cty":"COLUMBIA","id":8797985,"mun":"SCOTT TWP","nc":7,"o":"-76.418945"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.337304,40.586308],"type":"Point"},"properties":{"a":"40.586308","cty":"NORTHAMPTON","id":8797987,"mun":"HELLERTOWN BORO","nc":9,"o":"-75.337304"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.455624,40.528876],"type":"Point"},"properties":{"a":"40.528876","cty":"SCHUYLKILL","id":8797991,"mun":"PINE GROVE TWP","nc":1,"o":"-76.455624"},"type":"Feature"},
@@ -15,9 +13,7 @@
 {"geometry":{"coordinates":[-75.596462,41.548093],"type":"Point"},"properties":{"a":"41.548093","cty":"LACKAWANNA","id":8798071,"mun":"SCOTT TWP","nc":16,"o":"-75.596462"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.237384,40.987984],"type":"Point"},"properties":{"a":"40.987984","cty":"MONROE","id":8798073,"mun":"STROUD TWP","nc":3,"o":"-75.237384"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.966488,41.249032],"type":"Point"},"properties":{"a":"41.249032","cty":"LYCOMING","id":8798096,"mun":"LOYALSOCK TWP","nc":4,"o":"-76.966488"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.770315,40.816556],"type":"Point"},"properties":{"a":"40.816556","cty":"CARBON","id":8798098,"mun":"MAHONING TWP","nc":2,"o":"-75.770315"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.874031,41.150463],"type":"Point"},"properties":{"a":"41.150463","cty":"LUZERNE","id":8798104,"mun":"FAIRVIEW TWP","nc":4,"o":"-75.874031"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.488901,40.62271],"type":"Point"},"properties":{"a":"40.62271","cty":"LEHIGH","id":8798122,"mun":"WHITEHALL TWP","nc":11,"o":"-75.488901"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.319034,40.30177],"type":"Point"},"properties":{"a":"40.30177","cty":"MONTGOMERY","id":8798123,"mun":"SOUDERTON BORO","nc":3,"o":"-75.319034"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.796169,41.278068],"type":"Point"},"properties":{"a":"41.278068","cty":"LUZERNE","id":8798126,"mun":"PLAINS TWP","nc":10,"o":"-75.796169"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.791107,40.994385],"type":"Point"},"properties":{"a":"40.994385","cty":"NORTHUMBERLAND","id":8798136,"mun":"EAST CHILLISQUAQUE TWP","nc":3,"o":"-76.791107"},"type":"Feature"},
@@ -34,5 +30,6 @@
 {"geometry":{"coordinates":[-77.426499,40.607161],"type":"Point"},"properties":{"a":"40.607161","cty":"JUNIATA","id":8798169,"mun":"FERMANAGH TWP","nc":1,"o":"-77.426499"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.856463,40.221666],"type":"Point"},"properties":{"a":"40.221666","cty":"YORK","id":8798171,"mun":"FAIRVIEW TWP","nc":16,"o":"-76.856463"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.36023,41.050828],"type":"Point"},"properties":{"a":"41.050828","cty":"COLUMBIA","id":8798173,"mun":"NORTH CENTRE TWP","nc":19,"o":"-76.36023"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.483073,41.707214],"type":"Point"},"properties":{"a":"41.707214","cty":"SUSQUEHANNA","id":8798178,"mun":"UNIONDALE BORO","nc":1,"o":"-75.483073"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.483073,41.707214],"type":"Point"},"properties":{"a":"41.707214","cty":"SUSQUEHANNA","id":8798178,"mun":"UNIONDALE BORO","nc":1,"o":"-75.483073"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.897013,41.233152],"type":"Point"},"properties":{"a":"41.233152","cty":"LUZERNE","id":8798180,"mun":"WILKES-BARRE","nc":14,"o":"-75.897013"},"type":"Feature"}
 ]}
