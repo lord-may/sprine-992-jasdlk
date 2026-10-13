@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.800699,41.019319],"type":"Point"},"properties":{"a":"41.019319","cty":"NORTHUMBERLAND","id":8797789,"mun":"TURBOT TWP","nc":1,"o":"-76.800699"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.19668,40.31115],"type":"Point"},"properties":{"a":"40.31115","cty":"LEBANON","hp":true,"id":8797851,"mun":"MILLCREEK TWP","nc":26,"ne":{"a":"40.32077","o":"-76.19055"},"o":"-76.19668","sw":{"a":"40.30154","o":"-76.2028"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.81079,40.62127],"type":"Point"},"properties":{"a":"40.62127","cty":"DAUPHIN","hp":true,"id":8797866,"mun":"MIFFLIN TWP","nc":19,"ne":{"a":"40.62561","o":"-76.80526"},"o":"-76.81079","sw":{"a":"40.61693","o":"-76.81631"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.825957,40.300716],"type":"Point"},"properties":{"a":"40.300716","cty":"DAUPHIN","id":8797868,"mun":"LOWER PAXTON TWP","nc":1,"o":"-76.825957"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.3679,40.49918],"type":"Point"},"properties":{"a":"40.49918","cty":"BUCKS","hp":true,"id":8797874,"mun":"SPRINGFIELD TWP","nc":10,"ne":{"a":"40.50067","o":"-75.36605"},"o":"-75.3679","sw":{"a":"40.49769","o":"-75.36975"}},"type":"Feature"}
 ]}
