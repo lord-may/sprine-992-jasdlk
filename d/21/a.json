@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.30926,44.12714],"type":"Point"},"properties":{"EstRest":"10/13/2026 7:30:00 PM","Outages":268,"county":"ANDROSCOGGIN","customers":59602,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.229615,44.107371],"type":"Point"},"properties":{"EstRest":"10/13/2026 8:30:00 PM","Outages":235,"county":"ANDROSCOGGIN","customers":59602,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.560881,43.974594],"type":"Point"},"properties":{"EstRest":"10/13/2026 7:45:00 PM","Outages":115,"county":"CUMBERLAND","customers":182407,"incidents":6,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.781723,44.319646],"type":"Point"},"properties":{"EstRest":"10/13/2026 7:45:00 PM","Outages":128,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.781882,44.318886],"type":"Point"},"properties":{"EstRest":"10/13/2026 7:45:00 PM","Outages":38,"cause":"","county":"KENNEBEC","crewstatus":"ONST ","customers":38,"hamlet":"AUGUSTA","incidentnumber":"004397","incidents":1,"level":"street","opco":"CMP","street":"NORTH ST","town":"AUGUSTA"},"type":"Feature"},
