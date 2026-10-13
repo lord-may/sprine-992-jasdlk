@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-67.237076,44.986165],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":13,"customersOutNow":13,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-13T10:29:35.587-04:00","outageName":"F84085-10","outagePoint":{"lat":44.98616549999965,"lng":-67.23707649999963},"outageRecID":"2026-10-13-0236","outageStartTime":"2026-10-13T10:29:29-04:00","outageWorkStatus":"","streetsAffected":["AYERS JCT RD","AYERS JCT RD GARAGE","OLD MILL RD"],"verified":true},"type":"Feature"}
+
 ]}
