@@ -3,8 +3,6 @@
 {"geometry":{"coordinates":[-71.50281,41.912019],"type":"Point"},"properties":{"a":"41.912019","cty":"PROVIDENCE","id":20261066083,"mun":"SMITHFIELD","nc":2,"o":"-71.50281"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.271559,41.538092],"type":"Point"},"properties":{"a":"41.538092","cty":"NEWPORT","id":20261066102,"mun":"MIDDLETOWN","nc":1,"o":"-71.271559"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.307945,41.488338],"type":"Point"},"properties":{"a":"41.488338","cty":"NEWPORT","id":20261066103,"mun":"NEWPORT","nc":1,"o":"-71.307945"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.38436,41.861442],"type":"Point"},"properties":{"a":"41.861442","cty":"PROVIDENCE","id":20261066108,"mun":"PAWTUCKET","nc":1,"o":"-71.38436"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.377124,41.826278],"type":"Point"},"properties":{"a":"41.826278","cty":"PROVIDENCE","id":20261066111,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.377124"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.253553,41.589888],"type":"Point"},"properties":{"a":"41.589888","cty":"NEWPORT","id":20261066113,"mun":"PORTSMOUTH","nc":1,"o":"-71.253553"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.518351,41.993192],"type":"Point"},"properties":{"a":"41.993192","cty":"PROVIDENCE","id":20261066115,"mun":"WOONSOCKET","nc":1,"o":"-71.518351"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.253553,41.589888],"type":"Point"},"properties":{"a":"41.589888","cty":"NEWPORT","id":20261066113,"mun":"PORTSMOUTH","nc":1,"o":"-71.253553"},"type":"Feature"}
 ]}
