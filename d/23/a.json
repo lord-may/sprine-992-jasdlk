@@ -3,11 +3,9 @@
 {"geometry":{"coordinates":[-76.061472,40.610742],"type":"Point"},"properties":{"a":"40.610742","cty":"SCHUYLKILL","id":8798055,"mun":"WEST BRUNSWICK TWP","nc":4,"o":"-76.061472"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.874031,41.150463],"type":"Point"},"properties":{"a":"41.150463","cty":"LUZERNE","id":8798104,"mun":"FAIRVIEW TWP","nc":4,"o":"-75.874031"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.791107,40.994385],"type":"Point"},"properties":{"a":"40.994385","cty":"NORTHUMBERLAND","id":8798136,"mun":"EAST CHILLISQUAQUE TWP","nc":3,"o":"-76.791107"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.142402,40.811409],"type":"Point"},"properties":{"a":"40.811409","cty":"SCHUYLKILL","id":8798186,"mun":"MAHANOY TWP","nc":1,"o":"-76.142402"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.50068,40.63947],"type":"Point"},"properties":{"a":"40.63947","cty":"SCHUYLKILL","hp":true,"id":8798200,"mun":"HEGINS TWP","nc":6,"ne":{"a":"40.64028","o":"-76.49971"},"o":"-76.50068","sw":{"a":"40.63867","o":"-76.50165"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.16555,41.18091],"type":"Point"},"properties":{"a":"41.18091","cty":"LYCOMING","hp":true,"id":8798215,"mun":"BASTRESS TWP","nc":33,"ne":{"a":"41.18416","o":"-77.13775"},"o":"-77.16555","sw":{"a":"41.17766","o":"-77.19335"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.931587,40.171904],"type":"Point"},"properties":{"a":"40.171904","cty":"CUMBERLAND","id":8798232,"mun":"UPPER ALLEN TWP","nc":2,"o":"-76.931587"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.219163,40.677198],"type":"Point"},"properties":{"a":"40.677198","cty":"SCHUYLKILL","id":8798239,"mun":"POTTSVILLE","nc":27,"o":"-76.219163"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.750445,41.364623],"type":"Point"},"properties":{"a":"41.364623","cty":"LACKAWANNA","id":8798244,"mun":"OLD FORGE BORO","nc":1,"o":"-75.750445"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.303863,40.760161],"type":"Point"},"properties":{"a":"40.760161","cty":"SCHUYLKILL","id":8798246,"mun":"BUTLER TWP","nc":1,"o":"-76.303863"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.40309,41.30546],"type":"Point"},"properties":{"a":"41.30546","cty":"COLUMBIA","hp":true,"id":8798249,"mun":"SUGARLOAF TWP","nc":56,"ne":{"a":"41.30685","o":"-76.39695"},"o":"-76.40309","sw":{"a":"41.30406","o":"-76.40924"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.475826,40.599003],"type":"Point"},"properties":{"a":"40.599003","cty":"LEHIGH","id":8798250,"mun":"ALLENTOWN","nc":1,"o":"-75.475826"},"type":"Feature"}
 ]}
