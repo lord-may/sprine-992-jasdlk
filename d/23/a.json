@@ -41,8 +41,10 @@
 {"geometry":{"coordinates":[-77.215545,41.047552],"type":"Point"},"properties":{"a":"41.047552","cty":"CLINTON","id":8798019,"mun":"GREENE TWP","nc":2,"o":"-77.215545"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.390279,41.110267],"type":"Point"},"properties":{"a":"41.110267","cty":"COLUMBIA","id":8798020,"mun":"FISHING CREEK TWP","nc":1,"o":"-76.390279"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.088441,40.600901],"type":"Point"},"properties":{"a":"40.600901","cty":"SCHUYLKILL","id":8798025,"mun":"NA","nc":1,"o":"-76.088441"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.39046,41.06337],"type":"Point"},"properties":{"a":"41.06337","cty":"COLUMBIA","hp":true,"id":8798026,"mun":"NORTH CENTRE TWP","nc":49,"ne":{"a":"41.07263","o":"-76.38081"},"o":"-76.39046","sw":{"a":"41.05412","o":"-76.40011"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.45586,40.528332],"type":"Point"},"properties":{"a":"40.528332","cty":"SCHUYLKILL","id":8798027,"mun":"PINE GROVE TWP","nc":4,"o":"-76.45586"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.000923,40.958079],"type":"Point"},"properties":{"a":"40.958079","cty":"LUZERNE","id":8798028,"mun":"WEST HAZLETON BORO","nc":9,"o":"-76.000923"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.794637,40.862917],"type":"Point"},"properties":{"a":"40.862917","cty":"NORTHUMBERLAND","id":8798029,"mun":"UPPER AUGUSTA TWP","nc":32,"o":"-76.794637"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.794637,40.862917],"type":"Point"},"properties":{"a":"40.862917","cty":"NORTHUMBERLAND","id":8798029,"mun":"UPPER AUGUSTA TWP","nc":32,"o":"-76.794637"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.248888,40.780641],"type":"Point"},"properties":{"a":"40.780641","cty":"SCHUYLKILL","id":8798030,"mun":"BUTLER TWP","nc":1,"o":"-76.248888"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.875738,41.074257],"type":"Point"},"properties":{"a":"41.074257","cty":"UNION","id":8798032,"mun":"WHITE DEER TWP","nc":12,"o":"-76.875738"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.195775,41.066575],"type":"Point"},"properties":{"a":"41.066575","cty":"LUZERNE","id":8798040,"mun":"SALEM TWP","nc":6,"o":"-76.195775"},"type":"Feature"}
 ]}
