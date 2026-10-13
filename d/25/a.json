@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-72.655174,43.995346],"type":"Point"},"properties":{"active":true,"affectingCustomers":true,"cause":0,"county":"Orange","crew_name":",ROYA-STEARNS","customers_affected":43,"customers_affected_label":"43 Customers","device":"FUSE","etor":"2026-10-13T14:00-04:00","has_etor":1,"incident_id":1015035,"status":"CREW_ASSIGNED","street":"CRAIG HILL RD","town":"Braintree","trouble":"NO_POWER"},"type":"Feature"}
+
 ]}
