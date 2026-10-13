@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.838076,41.392736],"type":"Point"},"properties":{"a":"41.392736","cty":"WASHINGTON","id":20261065986,"mun":"WESTERLY","nc":1,"o":"-71.838076"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.486582,41.987151],"type":"Point"},"properties":{"a":"41.987151","cty":"PROVIDENCE","id":20261065989,"mun":"WOONSOCKET","nc":1,"o":"-71.486582"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.486582,41.987151],"type":"Point"},"properties":{"a":"41.987151","cty":"PROVIDENCE","id":20261065989,"mun":"WOONSOCKET","nc":24,"o":"-71.486582"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.487567,41.987992],"type":"Point"},"properties":{"a":"41.987992","cty":"PROVIDENCE","id":20261065990,"mun":"WOONSOCKET","nc":7,"o":"-71.487567"},"type":"Feature"}
 ]}
