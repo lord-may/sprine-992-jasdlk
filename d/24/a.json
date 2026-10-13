@@ -9,5 +9,5 @@
 {"geometry":{"coordinates":[-71.309479,41.492549],"type":"Point"},"properties":{"a":"41.492549","cty":"NEWPORT","id":20261066058,"mun":"NEWPORT","nc":1,"o":"-71.309479"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.274781,41.665804],"type":"Point"},"properties":{"a":"41.665804","cty":"BRISTOL","id":20261066061,"mun":"BRISTOL","nc":1,"o":"-71.274781"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.309425,41.500243],"type":"Point"},"properties":{"a":"41.500243","cty":"NEWPORT","id":20261066065,"mun":"NEWPORT","nc":10,"o":"-71.309425"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.406156,41.825524],"type":"Point"},"properties":{"a":"41.825524","cty":"PROVIDENCE","id":20261066073,"mun":"PROVIDENCE","nc":1,"o":"-71.406156"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.270511,41.694815],"type":"Point"},"properties":{"a":"41.694815","cty":"BRISTOL","id":20261066077,"mun":"BRISTOL","nc":1,"o":"-71.270511"},"type":"Feature"}
 ]}
