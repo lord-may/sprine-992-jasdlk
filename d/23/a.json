@@ -17,5 +17,8 @@
 {"geometry":{"coordinates":[-76.309076,41.023715],"type":"Point"},"properties":{"a":"41.023715","cty":"COLUMBIA","id":8797957,"mun":"MIFFLIN TWP","nc":3,"o":"-76.309076"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.88634,41.169],"type":"Point"},"properties":{"a":"41.169","cty":"LUZERNE","hp":true,"id":8797961,"mun":"FAIRVIEW TWP","nc":26,"ne":{"a":"41.17104","o":"-75.88301"},"o":"-75.88634","sw":{"a":"41.16696","o":"-75.88968"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.598367,41.54777],"type":"Point"},"properties":{"a":"41.54777","cty":"LACKAWANNA","id":8797962,"mun":"SCOTT TWP","nc":8,"o":"-75.598367"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.99805,39.960635],"type":"Point"},"properties":{"a":"39.960635","cty":"LANCASTER","id":8797963,"mun":"SADSBURY TWP","nc":2,"o":"-75.99805"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.99805,39.960635],"type":"Point"},"properties":{"a":"39.960635","cty":"LANCASTER","id":8797963,"mun":"SADSBURY TWP","nc":2,"o":"-75.99805"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.584744,40.08229],"type":"Point"},"properties":{"a":"40.08229","cty":"LANCASTER","id":8797965,"mun":"EAST DONEGAL TWP","nc":6,"o":"-76.584744"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.81869,40.247368],"type":"Point"},"properties":{"a":"40.247368","cty":"DAUPHIN","id":8797969,"mun":"SWATARA TWP","nc":3,"o":"-76.81869"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.339712,40.585586],"type":"Point"},"properties":{"a":"40.585586","cty":"NORTHAMPTON","id":8797971,"mun":"HELLERTOWN BORO","nc":10,"o":"-75.339712"},"type":"Feature"}
 ]}
