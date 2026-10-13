@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.111338,42.00025],"type":"Point"},"properties":{"EstRest":"10/13/2026 7:00:00 AM","Outages":16,"county":"STEUBEN","customers":42831,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.120269,42.016704],"type":"Point"},"properties":{"EstRest":"10/13/2026 7:00:00 AM","Outages":15,"cause":"","county":"STEUBEN","crewstatus":"DISP ","customers":122,"hamlet":"LINDLEY","incidentnumber":"00ZG9J","incidents":1,"level":"street","opco":"NYSEG","street":"RIVER RD","town":"LINDLEY T"},"type":"Feature"}
+{"geometry":{"coordinates":[-73.397133,42.613396],"type":"Point"},"properties":{"EstRest":"10/13/2026 9:45:00 AM","Outages":43,"county":"RENSSELAER","customers":11138,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-73.407351,42.614042],"type":"Point"},"properties":{"EstRest":"10/13/2026 9:45:00 AM","Outages":3,"cause":"","county":"RENSSELAER","crewstatus":"DISP ","customers":3,"hamlet":"BERLIN","incidentnumber":"00ZKW7","incidents":1,"level":"street","opco":"NYSEG","street":"MILLER RD","town":"BERLIN T"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.274612,43.120821],"type":"Point"},"properties":{"EstRest":"10/13/2026 10:15:00 AM","Outages":3,"cause":"","county":"WAYNE","crewstatus":"     ","customers":7,"hamlet":"WALWORTH","incidentnumber":"00ZMFR","incidents":1,"level":"street","opco":"NYSEG","street":"MILL RD","town":"MACEDON T"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.274612,43.120821],"type":"Point"},"properties":{"EstRest":"10/13/2026 10:15:00 AM","Outages":3,"county":"WAYNE","customers":19022,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
