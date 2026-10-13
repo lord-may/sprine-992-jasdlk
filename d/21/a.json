@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-70.603825,43.963807],"type":"Point"},"properties":{"EstRest":"10/13/2026 7:00:00 AM","Outages":1,"cause":"","county":"CUMBERLAND","crewstatus":"DISP ","customers":100,"hamlet":"NAPLES","incidentnumber":"00435X","incidents":1,"level":"street","opco":"CMP","street":"SEBAGO RD","town":"NAPLES"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.603825,43.963807],"type":"Point"},"properties":{"EstRest":"10/13/2026 7:00:00 AM","Outages":1,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.315774,43.998216],"type":"Point"},"properties":{"EstRest":"10/13/2026 5:45:00 AM","Outages":1,"cause":"","county":"KNOX","crewstatus":"ENRT ","customers":8,"hamlet":"FRIENDSHIP","incidentnumber":"00435T","incidents":1,"level":"street","opco":"CMP","street":"BACK RIVER LN","town":"FRIENDSHIP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.315774,43.998216],"type":"Point"},"properties":{"EstRest":"10/13/2026 5:45:00 AM","Outages":1,"cause":"","county":"KNOX","crewstatus":"ONST ","customers":8,"hamlet":"FRIENDSHIP","incidentnumber":"00435T","incidents":1,"level":"street","opco":"CMP","street":"BACK RIVER LN","town":"FRIENDSHIP"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.315774,43.998216],"type":"Point"},"properties":{"EstRest":"10/13/2026 5:45:00 AM","Outages":1,"county":"KNOX","customers":27251,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
