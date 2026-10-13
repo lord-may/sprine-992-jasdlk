@@ -2,5 +2,7 @@
 {"geometry":{"coordinates":[-76.976178,40.256407],"type":"Point"},"properties":{"a":"40.256407","cty":"CUMBERLAND","id":8797903,"mun":"HAMPDEN TWP","nc":6,"o":"-76.976178"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.168481,41.066479],"type":"Point"},"properties":{"a":"41.066479","cty":"LUZERNE","id":8797908,"mun":"SALEM TWP","nc":5,"o":"-76.168481"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.602996,40.822936],"type":"Point"},"properties":{"a":"40.822936","cty":"NORTHUMBERLAND","id":8797909,"mun":"SHAMOKIN TWP","nc":1,"o":"-76.602996"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.874031,41.150463],"type":"Point"},"properties":{"a":"41.150463","cty":"LUZERNE","id":8797922,"mun":"FAIRVIEW TWP","nc":4,"o":"-75.874031"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.874031,41.150463],"type":"Point"},"properties":{"a":"41.150463","cty":"LUZERNE","id":8797922,"mun":"FAIRVIEW TWP","nc":4,"o":"-75.874031"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.067826,40.477352],"type":"Point"},"properties":{"a":"40.477352","cty":"PERRY","id":8797925,"mun":"HOWE TWP","nc":7,"o":"-77.067826"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.069392,40.477643],"type":"Point"},"properties":{"a":"40.477643","cty":"PERRY","id":8797926,"mun":"HOWE TWP","nc":2,"o":"-77.069392"},"type":"Feature"}
 ]}
