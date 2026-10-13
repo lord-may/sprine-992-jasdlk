@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-69.315774,43.998216],"type":"Point"},"properties":{"EstRest":"10/13/2026 5:45:00 AM","Outages":1,"cause":"","county":"KNOX","crewstatus":"     ","customers":8,"hamlet":"FRIENDSHIP","incidentnumber":"00435T","incidents":1,"level":"street","opco":"CMP","street":"BACK RIVER LN","town":"FRIENDSHIP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.315774,43.998216],"type":"Point"},"properties":{"EstRest":"10/13/2026 5:45:00 AM","Outages":1,"county":"KNOX","customers":27251,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.68538,44.799912],"type":"Point"},"properties":{"EstRest":"10/13/2026 5:15:00 AM","Outages":1,"cause":"","county":"SOMERSET","crewstatus":"DISP ","customers":86,"hamlet":"SKOWHEGAN","incidentnumber":"00435S","incidents":1,"level":"street","opco":"CMP","street":"MALBONS MILLS RD","town":"SKOWHEGAN"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.68538,44.799912],"type":"Point"},"properties":{"EstRest":"10/13/2026 5:15:00 AM","Outages":1,"county":"SOMERSET","customers":31730,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
