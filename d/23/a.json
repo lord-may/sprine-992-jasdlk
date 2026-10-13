@@ -5,7 +5,7 @@
 {"geometry":{"coordinates":[-77.17552,41.18079],"type":"Point"},"properties":{"a":"41.18079","cty":"LYCOMING","hp":true,"id":8798215,"mun":"BASTRESS TWP","nc":20,"ne":{"a":"41.18392","o":"-77.15769"},"o":"-77.17552","sw":{"a":"41.17766","o":"-77.19335"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.791746,40.26742],"type":"Point"},"properties":{"a":"40.26742","cty":"DAUPHIN","id":8798262,"mun":"SWATARA TWP","nc":1,"o":"-76.791746"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.387352,40.506878],"type":"Point"},"properties":{"a":"40.506878","cty":"LEHIGH","id":8798268,"mun":"COOPERSBURG BORO","nc":15,"o":"-75.387352"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.995157,41.095569],"type":"Point"},"properties":{"a":"41.095569","cty":"LUZERNE","id":8798270,"mun":"DORRANCE TWP","nc":1,"o":"-75.995157"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.99913,41.094747],"type":"Point"},"properties":{"a":"41.094747","cty":"LUZERNE","id":8798270,"mun":"DORRANCE TWP","nc":4,"o":"-75.99913"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.385605,41.016516],"type":"Point"},"properties":{"a":"41.016516","cty":"COLUMBIA","id":8798274,"mun":"SCOTT TWP","nc":2,"o":"-76.385605"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.993995,41.09578],"type":"Point"},"properties":{"a":"41.09578","cty":"LUZERNE","id":8798275,"mun":"DORRANCE TWP","nc":1,"o":"-75.993995"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.018349,40.646673],"type":"Point"},"properties":{"a":"40.646673","cty":"SCHUYLKILL","id":8798277,"mun":"EAST BRUNSWICK TWP","nc":2,"o":"-76.018349"},"type":"Feature"}
 ]}
