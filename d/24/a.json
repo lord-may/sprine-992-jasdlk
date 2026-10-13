@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.823993,41.399197],"type":"Point"},"properties":{"a":"41.399197","cty":"WASHINGTON","id":20261065971,"mun":"WESTERLY","nc":1,"o":"-71.823993"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.57677,41.67578],"type":"Point"},"properties":{"a":"41.67578","cty":"KENT","hp":true,"id":20261065973,"mun":"COVENTRY","nc":27,"ne":{"a":"41.67691","o":"-71.57658"},"o":"-71.57677","sw":{"a":"41.67466","o":"-71.57695"}},"type":"Feature"}
+
 ]}
