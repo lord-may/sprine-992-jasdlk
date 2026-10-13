@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.370026,41.219345],"type":"Point"},"properties":{"a":"41.219345","cty":"MONROE","id":8797901,"mun":"COOLBAUGH TWP","nc":5,"o":"-75.370026"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.370026,41.219345],"type":"Point"},"properties":{"a":"41.219345","cty":"MONROE","id":8797901,"mun":"COOLBAUGH TWP","nc":5,"o":"-75.370026"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.976178,40.256407],"type":"Point"},"properties":{"a":"40.256407","cty":"CUMBERLAND","id":8797903,"mun":"HAMPDEN TWP","nc":6,"o":"-76.976178"},"type":"Feature"}
 ]}
