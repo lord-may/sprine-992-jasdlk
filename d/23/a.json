@@ -3,5 +3,6 @@
 {"geometry":{"coordinates":[-75.3679,40.49918],"type":"Point"},"properties":{"a":"40.49918","cty":"BUCKS","hp":true,"id":8797874,"mun":"SPRINGFIELD TWP","nc":10,"ne":{"a":"40.50067","o":"-75.36605"},"o":"-75.3679","sw":{"a":"40.49769","o":"-75.36975"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.255239,41.296817],"type":"Point"},"properties":{"a":"41.296817","cty":"PIKE","id":8797883,"mun":"GREENE TWP","nc":1,"o":"-75.255239"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.5348,41.0028],"type":"Point"},"properties":{"a":"41.0028","cty":"CARBON","hp":true,"id":8797886,"mun":"PENN FOREST TWP","nc":8,"ne":{"a":"41.00362","o":"-75.53394"},"o":"-75.5348","sw":{"a":"41.00198","o":"-75.53566"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.505044,40.658606],"type":"Point"},"properties":{"a":"40.658606","cty":"LEHIGH","id":8797887,"mun":"WHITEHALL TWP","nc":4,"o":"-75.505044"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.505044,40.658606],"type":"Point"},"properties":{"a":"40.658606","cty":"LEHIGH","id":8797887,"mun":"WHITEHALL TWP","nc":4,"o":"-75.505044"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.30051,40.26918],"type":"Point"},"properties":{"a":"40.26918","cty":"LEBANON","hp":true,"id":8797889,"mun":"HEIDELBERG TWP","nc":19,"ne":{"a":"40.27083","o":"-76.29869"},"o":"-76.30051","sw":{"a":"40.26752","o":"-76.30232"}},"type":"Feature"}
 ]}
