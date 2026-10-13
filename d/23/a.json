@@ -6,5 +6,7 @@
 {"geometry":{"coordinates":[-77.069392,40.477643],"type":"Point"},"properties":{"a":"40.477643","cty":"PERRY","id":8797926,"mun":"HOWE TWP","nc":2,"o":"-77.069392"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.790189,40.883608],"type":"Point"},"properties":{"a":"40.883608","cty":"NORTHUMBERLAND","id":8797929,"mun":"UPPER AUGUSTA TWP","nc":1,"o":"-76.790189"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.797402,41.279158],"type":"Point"},"properties":{"a":"41.279158","cty":"LUZERNE","id":8797930,"mun":"PLAINS TWP","nc":3,"o":"-75.797402"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.796828,41.278632],"type":"Point"},"properties":{"a":"41.278632","cty":"LUZERNE","id":8797931,"mun":"PLAINS TWP","nc":13,"o":"-75.796828"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.796828,41.278632],"type":"Point"},"properties":{"a":"41.278632","cty":"LUZERNE","id":8797931,"mun":"PLAINS TWP","nc":13,"o":"-75.796828"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.690615,41.388568],"type":"Point"},"properties":{"a":"41.388568","cty":"LACKAWANNA","id":8797937,"mun":"SCRANTON","nc":2,"o":"-75.690615"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.43292,40.798678],"type":"Point"},"properties":{"a":"40.798678","cty":"NORTHUMBERLAND","id":8797939,"mun":"MOUNT CARMEL TWP","nc":22,"o":"-76.43292"},"type":"Feature"}
 ]}

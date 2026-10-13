@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-73.397133,42.613396],"type":"Point"},"properties":{"EstRest":"10/13/2026 9:45:00 AM","Outages":43,"county":"RENSSELAER","customers":11138,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-73.407351,42.614042],"type":"Point"},"properties":{"EstRest":"10/13/2026 9:45:00 AM","Outages":3,"cause":"","county":"RENSSELAER","crewstatus":"DISP ","customers":3,"hamlet":"BERLIN","incidentnumber":"00ZKW7","incidents":1,"level":"street","opco":"NYSEG","street":"MILLER RD","town":"BERLIN T"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.274612,43.120821],"type":"Point"},"properties":{"EstRest":"10/13/2026 10:15:00 AM","Outages":3,"cause":"","county":"WAYNE","crewstatus":"     ","customers":7,"hamlet":"WALWORTH","incidentnumber":"00ZMFR","incidents":1,"level":"street","opco":"NYSEG","street":"MILL RD","town":"MACEDON T"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.274612,43.120821],"type":"Point"},"properties":{"EstRest":"10/13/2026 10:15:00 AM","Outages":3,"county":"WAYNE","customers":19022,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.699948,42.661761],"type":"Point"},"properties":{"EstRest":"10/13/2026 11:00:00 AM","Outages":2,"cause":"","county":"SENECA","crewstatus":"DISP ","customers":9,"hamlet":"OVID","incidentnumber":"00ZRU7","incidents":1,"level":"street","opco":"NYSEG","street":"COUNTY ROAD 153","town":"OVID T"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.699948,42.661761],"type":"Point"},"properties":{"EstRest":"10/13/2026 11:00:00 AM","Outages":2,"county":"SENECA","customers":17803,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
