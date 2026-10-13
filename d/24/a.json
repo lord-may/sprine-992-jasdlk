@@ -4,8 +4,8 @@
 {"geometry":{"coordinates":[-71.582082,41.956811],"type":"Point"},"properties":{"a":"41.956811","cty":"PROVIDENCE","id":20261066018,"mun":"NORTH SMITHFIELD","nc":1,"o":"-71.582082"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.444027,41.808045],"type":"Point"},"properties":{"a":"41.808045","cty":"PROVIDENCE","id":20261066026,"mun":"PROVIDENCE","nc":1,"o":"-71.444027"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.309425,41.500243],"type":"Point"},"properties":{"a":"41.500243","cty":"NEWPORT","id":20261066032,"mun":"NEWPORT","nc":1,"o":"-71.309425"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.406156,41.825524],"type":"Point"},"properties":{"a":"41.825524","cty":"PROVIDENCE","id":20261066040,"mun":"PROVIDENCE","nc":1,"o":"-71.406156"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.829272,41.326767],"type":"Point"},"properties":{"a":"41.326767","cty":"WASHINGTON","id":20261066043,"mun":"WESTERLY","nc":1,"o":"-71.829272"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.49127,41.75047],"type":"Point"},"properties":{"a":"41.75047","cty":"PROVIDENCE","hp":true,"id":20261066045,"mun":"CRANSTON","nc":6,"ne":{"a":"41.75139","o":"-71.49013"},"o":"-71.49127","sw":{"a":"41.74954","o":"-71.4924"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.560867,41.814631],"type":"Point"},"properties":{"a":"41.814631","cty":"PROVIDENCE","id":20261066048,"mun":"JOHNSTON","nc":1,"o":"-71.560867"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.560867,41.814631],"type":"Point"},"properties":{"a":"41.814631","cty":"PROVIDENCE","id":20261066048,"mun":"JOHNSTON","nc":1,"o":"-71.560867"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.383328,41.819351],"type":"Point"},"properties":{"a":"41.819351","cty":"PROVIDENCE","id":20261066049,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.383328"},"type":"Feature"}
 ]}
