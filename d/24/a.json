@@ -4,6 +4,6 @@
 {"geometry":{"coordinates":[-71.309479,41.492549],"type":"Point"},"properties":{"a":"41.492549","cty":"NEWPORT","id":20261066014,"mun":"NEWPORT","nc":57,"o":"-71.309479"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.307945,41.488338],"type":"Point"},"properties":{"a":"41.488338","cty":"NEWPORT","id":20261066017,"mun":"NEWPORT","nc":1,"o":"-71.307945"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.582082,41.956811],"type":"Point"},"properties":{"a":"41.956811","cty":"PROVIDENCE","id":20261066018,"mun":"NORTH SMITHFIELD","nc":1,"o":"-71.582082"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.542797,41.609891],"type":"Point"},"properties":{"a":"41.609891","cty":"KENT","id":20261066025,"mun":"EAST GREENWICH","nc":1,"o":"-71.542797"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.444027,41.808045],"type":"Point"},"properties":{"a":"41.808045","cty":"PROVIDENCE","id":20261066026,"mun":"PROVIDENCE","nc":1,"o":"-71.444027"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.444027,41.808045],"type":"Point"},"properties":{"a":"41.808045","cty":"PROVIDENCE","id":20261066026,"mun":"PROVIDENCE","nc":1,"o":"-71.444027"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.309425,41.500243],"type":"Point"},"properties":{"a":"41.500243","cty":"NEWPORT","id":20261066032,"mun":"NEWPORT","nc":1,"o":"-71.309425"},"type":"Feature"}
 ]}
