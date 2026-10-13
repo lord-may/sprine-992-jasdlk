@@ -12,6 +12,5 @@
 {"geometry":{"coordinates":[-76.931707,40.24049],"type":"Point"},"properties":{"a":"40.24049","cty":"CUMBERLAND","id":8798225,"mun":"CAMP HILL BORO","nc":13,"o":"-76.931707"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.88577,40.32667],"type":"Point"},"properties":{"a":"40.32667","cty":"DAUPHIN","id":8798230,"mun":"SUSQUEHANNA TWP","nc":2,"o":"-76.88577"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.931587,40.171904],"type":"Point"},"properties":{"a":"40.171904","cty":"CUMBERLAND","id":8798232,"mun":"UPPER ALLEN TWP","nc":2,"o":"-76.931587"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.213871,41.077897],"type":"Point"},"properties":{"a":"41.077897","cty":"LUZERNE","id":8798233,"mun":"SALEM TWP","nc":1,"o":"-76.213871"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.323645,40.37409],"type":"Point"},"properties":{"a":"40.37409","cty":"PERRY","id":8798234,"mun":"TYRONE TWP","nc":1,"o":"-77.323645"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.219163,40.677198],"type":"Point"},"properties":{"a":"40.677198","cty":"SCHUYLKILL","id":8798239,"mun":"POTTSVILLE","nc":27,"o":"-76.219163"},"type":"Feature"}
 ]}
