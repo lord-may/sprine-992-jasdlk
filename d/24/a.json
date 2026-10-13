@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.823993,41.399197],"type":"Point"},"properties":{"a":"41.399197","cty":"WASHINGTON","id":20261065975,"mun":"WESTERLY","nc":1,"o":"-71.823993"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.271559,41.538092],"type":"Point"},"properties":{"a":"41.538092","cty":"NEWPORT","id":20261065976,"mun":"MIDDLETOWN","nc":1,"o":"-71.271559"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.271559,41.538092],"type":"Point"},"properties":{"a":"41.538092","cty":"NEWPORT","id":20261065976,"mun":"MIDDLETOWN","nc":1,"o":"-71.271559"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.707165,41.34123],"type":"Point"},"properties":{"a":"41.34123","cty":"WASHINGTON","id":20261065977,"mun":"CHARLESTOWN","nc":1,"o":"-71.707165"},"type":"Feature"}
 ]}
