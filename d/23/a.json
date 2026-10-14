@@ -10,5 +10,13 @@
 {"geometry":{"coordinates":[-77.061976,40.721728],"type":"Point"},"properties":{"a":"40.721728","cty":"SNYDER","id":8806605,"mun":"WEST PERRY TWP","nc":2,"o":"-77.061976"},"type":"Feature"},
 {"geometry":{"coordinates":[-74.900993,41.45541],"type":"Point"},"properties":{"a":"41.45541","cty":"PIKE","id":8806633,"mun":"SHOHOLA TWP","nc":2,"o":"-74.900993"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.234169,40.510201],"type":"Point"},"properties":{"a":"40.510201","cty":"PERRY","id":8806704,"mun":"TUSCARORA TWP","nc":1,"o":"-77.234169"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.46879,40.576191],"type":"Point"},"properties":{"a":"40.576191","cty":"LEHIGH","id":8806809,"mun":"ALLENTOWN","nc":19,"o":"-75.46879"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.443276,40.615684],"type":"Point"},"properties":{"a":"40.615684","cty":"LEHIGH","id":8806839,"mun":"ALLENTOWN","nc":23,"o":"-75.443276"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.22653,41.43084],"type":"Point"},"properties":{"a":"41.43084","cty":"WAYNE","hp":true,"id":8806884,"mun":"PAUPACK TWP","nc":54,"ne":{"a":"41.43337","o":"-75.22426"},"o":"-75.22653","sw":{"a":"41.42831","o":"-75.2288"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.473693,40.628312],"type":"Point"},"properties":{"a":"40.628312","cty":"LEHIGH","id":8806923,"mun":"WHITEHALL TWP","nc":6,"o":"-75.473693"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.472734,40.62791],"type":"Point"},"properties":{"a":"40.62791","cty":"LEHIGH","id":8806935,"mun":"WHITEHALL TWP","nc":14,"o":"-75.472734"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.268066,41.231014],"type":"Point"},"properties":{"a":"41.231014","cty":"LYCOMING","id":8806948,"mun":"PORTER TWP","nc":1,"o":"-77.268066"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.914974,40.256647],"type":"Point"},"properties":{"a":"40.256647","cty":"CUMBERLAND","id":8806950,"mun":"EAST PENNSBORO TWP","nc":1,"o":"-76.914974"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.30094,40.26131],"type":"Point"},"properties":{"a":"40.26131","cty":"MONTGOMERY","hp":true,"id":8806987,"mun":"HATFIELD TWP","nc":1032,"ne":{"a":"40.27154","o":"-75.28197"},"o":"-75.30094","sw":{"a":"40.25108","o":"-75.31992"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.307599,40.355984],"type":"Point"},"properties":{"a":"40.355984","cty":"BUCKS","id":8806997,"mun":"SELLERSVILLE BORO","nc":5,"o":"-75.307599"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.514095,41.308864],"type":"Point"},"properties":{"a":"41.308864","cty":"LACKAWANNA","id":8807022,"mun":"COVINGTON TWP","nc":1,"o":"-75.514095"},"type":"Feature"}
 ]}
