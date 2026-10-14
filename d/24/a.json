@@ -4,6 +4,6 @@
 {"geometry":{"coordinates":[-71.363882,41.892021],"type":"Point"},"properties":{"a":"41.892021","cty":"PROVIDENCE","id":20261066255,"mun":"PAWTUCKET","nc":1,"o":"-71.363882"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.418176,41.769965],"type":"Point"},"properties":{"a":"41.769965","cty":"PROVIDENCE","id":20261066262,"mun":"CRANSTON","nc":1,"o":"-71.418176"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.439569,41.832887],"type":"Point"},"properties":{"a":"41.832887","cty":"PROVIDENCE","id":20261066268,"mun":"PROVIDENCE","nc":1,"o":"-71.439569"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.388876,41.866832],"type":"Point"},"properties":{"a":"41.866832","cty":"PROVIDENCE","id":20261066302,"mun":"PAWTUCKET","nc":1,"o":"-71.388876"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.814329,41.391358],"type":"Point"},"properties":{"a":"41.391358","cty":"WASHINGTON","id":20261066304,"mun":"WESTERLY","nc":1,"o":"-71.814329"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.814329,41.391358],"type":"Point"},"properties":{"a":"41.391358","cty":"WASHINGTON","id":20261066304,"mun":"WESTERLY","nc":1,"o":"-71.814329"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.298379,41.758329],"type":"Point"},"properties":{"a":"41.758329","cty":"BRISTOL","id":20261066308,"mun":"BARRINGTON","nc":1,"o":"-71.298379"},"type":"Feature"}
 ]}

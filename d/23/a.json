@@ -9,7 +9,6 @@
 {"geometry":{"coordinates":[-75.2992,40.2632],"type":"Point"},"properties":{"a":"40.2632","cty":"MONTGOMERY","hp":true,"id":8806987,"mun":"HATFIELD TWP","nc":497,"ne":{"a":"40.27154","o":"-75.29207"},"o":"-75.2992","sw":{"a":"40.25485","o":"-75.30633"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.556027,41.494225],"type":"Point"},"properties":{"a":"41.494225","cty":"LACKAWANNA","id":8807033,"mun":"ARCHBALD BORO","nc":10,"o":"-75.556027"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.884566,41.215078],"type":"Point"},"properties":{"a":"41.215078","cty":"LUZERNE","id":8807429,"mun":"HANOVER TWP","nc":0,"o":"-75.884566"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.2857,41.11718],"type":"Point"},"properties":{"a":"41.11718","cty":"MONROE","hp":true,"id":8807431,"mun":"PARADISE TWP","nc":53,"ne":{"a":"41.12159","o":"-75.28078"},"o":"-75.2857","sw":{"a":"41.11276","o":"-75.29061"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.82425,40.85128],"type":"Point"},"properties":{"a":"40.85128","cty":"SNYDER","hp":true,"id":8807450,"mun":"SHAMOKIN DAM BORO","nc":159,"ne":{"a":"40.85426","o":"-76.81954"},"o":"-76.82425","sw":{"a":"40.8483","o":"-76.82897"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.16041,41.02682],"type":"Point"},"properties":{"a":"41.02682","cty":"LUZERNE","hp":true,"id":8807528,"mun":"NESCOPECK TWP","nc":5,"ne":{"a":"41.02922","o":"-76.15571"},"o":"-76.16041","sw":{"a":"41.02442","o":"-76.16511"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.529206,41.274815],"type":"Point"},"properties":{"a":"41.274815","cty":"LYCOMING","id":8807588,"mun":"FRANKLIN TWP","nc":9,"o":"-76.529206"},"type":"Feature"},
@@ -28,13 +27,12 @@
 {"geometry":{"coordinates":[-75.638965,40.546262],"type":"Point"},"properties":{"a":"40.546262","cty":"LEHIGH","id":8808313,"mun":"UPPER MACUNGIE TWP","nc":10,"o":"-75.638965"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.498021,40.932158],"type":"Point"},"properties":{"a":"40.932158","cty":"MONROE","id":8808381,"mun":"POLK TWP","nc":3,"o":"-75.498021"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.47854,41.010129],"type":"Point"},"properties":{"a":"41.010129","cty":"MONROE","id":8808419,"mun":"TUNKHANNOCK TWP","nc":2,"o":"-75.47854"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.576297,41.205913],"type":"Point"},"properties":{"a":"41.205913","cty":"LACKAWANNA","id":8808446,"mun":"THORNHURST TWP","nc":1,"o":"-75.576297"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.814889,40.60218],"type":"Point"},"properties":{"a":"40.60218","cty":"DAUPHIN","id":8808596,"mun":"MIFFLIN TWP","nc":2,"o":"-76.814889"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.19383,40.296142],"type":"Point"},"properties":{"a":"40.296142","cty":"LANCASTER","id":8808630,"mun":"WEST COCALICO TWP","nc":6,"o":"-76.19383"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.315535,40.035157],"type":"Point"},"properties":{"a":"40.035157","cty":"LANCASTER","id":8808668,"mun":"LANCASTER","nc":1,"o":"-76.315535"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.326064,40.072686],"type":"Point"},"properties":{"a":"40.072686","cty":"LANCASTER","id":8808704,"mun":"MANHEIM TWP","nc":3,"o":"-76.326064"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.70098,41.21668],"type":"Point"},"properties":{"a":"41.21668","cty":"LYCOMING","hp":true,"id":8808738,"mun":"WOLF TWP","nc":7,"ne":{"a":"41.21944","o":"-76.69506"},"o":"-76.70098","sw":{"a":"41.21391","o":"-76.70689"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.822301,40.847565],"type":"Point"},"properties":{"a":"40.847565","cty":"SNYDER","id":8808799,"mun":"SHAMOKIN DAM BORO","nc":4,"o":"-76.822301"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.192799,40.200778],"type":"Point"},"properties":{"a":"40.200778","cty":"CUMBERLAND","id":8808832,"mun":"CARLISLE BORO","nc":31,"o":"-77.192799"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.988676,40.301257],"type":"Point"},"properties":{"a":"40.301257","cty":"BERKS","id":8808879,"mun":"CUMRU TWP","nc":3,"o":"-75.988676"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.988676,40.301257],"type":"Point"},"properties":{"a":"40.301257","cty":"BERKS","id":8808879,"mun":"CUMRU TWP","nc":3,"o":"-75.988676"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.296098,40.635945],"type":"Point"},"properties":{"a":"40.635945","cty":"JUNIATA","id":8808973,"mun":"FAYETTE TWP","nc":1,"o":"-77.296098"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.25785,41.02693],"type":"Point"},"properties":{"a":"41.02693","cty":"CLINTON","id":8809071,"mun":"GREENE TWP","nc":1,"o":"-77.25785"},"type":"Feature"}
 ]}
