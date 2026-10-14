@@ -1,9 +1,10 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.388876,41.866832],"type":"Point"},"properties":{"a":"41.866832","cty":"PROVIDENCE","id":20261066407,"mun":"PAWTUCKET","nc":41,"o":"-71.388876"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.369051,41.891901],"type":"Point"},"properties":{"a":"41.891901","cty":"PROVIDENCE","id":20261066438,"mun":"PAWTUCKET","nc":1,"o":"-71.369051"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.192985,41.619277],"type":"Point"},"properties":{"a":"41.619277","cty":"NEWPORT","id":20261066441,"mun":"TIVERTON","nc":1,"o":"-71.192985"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.371249,41.792428],"type":"Point"},"properties":{"a":"41.792428","cty":"PROVIDENCE","id":20261066443,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.371249"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.424277,41.863795],"type":"Point"},"properties":{"a":"41.863795","cty":"PROVIDENCE","id":20261066445,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.424277"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.504899,42.004858],"type":"Point"},"properties":{"a":"42.004858","cty":"PROVIDENCE","id":20261066448,"mun":"WOONSOCKET","nc":1,"o":"-71.504899"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.475372,41.985662],"type":"Point"},"properties":{"a":"41.985662","cty":"PROVIDENCE","id":20261066449,"mun":"CUMBERLAND","nc":1,"o":"-71.475372"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.475372,41.985662],"type":"Point"},"properties":{"a":"41.985662","cty":"PROVIDENCE","id":20261066449,"mun":"CUMBERLAND","nc":1,"o":"-71.475372"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.38588,41.866748],"type":"Point"},"properties":{"a":"41.866748","cty":"PROVIDENCE","id":20261066450,"mun":"PAWTUCKET","nc":1,"o":"-71.38588"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.306636,41.727115],"type":"Point"},"properties":{"a":"41.727115","cty":"BRISTOL","id":20261066451,"mun":"BARRINGTON","nc":1,"o":"-71.306636"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.499313,42.006471],"type":"Point"},"properties":{"a":"42.006471","cty":"PROVIDENCE","id":20261066453,"mun":"WOONSOCKET","nc":1,"o":"-71.499313"},"type":"Feature"}
 ]}
