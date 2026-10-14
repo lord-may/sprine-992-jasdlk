@@ -10,5 +10,6 @@
 {"geometry":{"coordinates":[-76.454715,41.108533],"type":"Point"},"properties":{"a":"41.108533","cty":"COLUMBIA","id":8810053,"mun":"ORANGE TWP","nc":2,"o":"-76.454715"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.259318,41.582508],"type":"Point"},"properties":{"a":"41.582508","cty":"WAYNE","id":8810063,"mun":"HONESDALE BORO","nc":26,"o":"-75.259318"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.686847,41.393661],"type":"Point"},"properties":{"a":"41.393661","cty":"LACKAWANNA","id":8810064,"mun":"TAYLOR BORO","nc":4,"o":"-75.686847"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.373878,41.200283],"type":"Point"},"properties":{"a":"41.200283","cty":"MONROE","id":8810066,"mun":"COOLBAUGH TWP","nc":3,"o":"-75.373878"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.373878,41.200283],"type":"Point"},"properties":{"a":"41.200283","cty":"MONROE","id":8810066,"mun":"COOLBAUGH TWP","nc":3,"o":"-75.373878"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.32731,40.637449],"type":"Point"},"properties":{"a":"40.637449","cty":"NORTHAMPTON","id":8810075,"mun":"BETHLEHEM TWP","nc":7,"o":"-75.32731"},"type":"Feature"}
 ]}
