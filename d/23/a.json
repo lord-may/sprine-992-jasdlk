@@ -7,7 +7,6 @@
 {"geometry":{"coordinates":[-76.300742,40.683185],"type":"Point"},"properties":{"a":"40.683185","cty":"SCHUYLKILL","id":8810082,"mun":"CASS TWP","nc":1,"o":"-76.300742"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.19374,40.86668],"type":"Point"},"properties":{"a":"40.86668","cty":"UNION","hp":true,"id":8810084,"mun":"HARTLEY TWP","nc":8,"ne":{"a":"40.86807","o":"-77.1919"},"o":"-77.19374","sw":{"a":"40.86529","o":"-77.19557"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.307333,40.542053],"type":"Point"},"properties":{"a":"40.542053","cty":"SCHUYLKILL","id":8810095,"mun":"WASHINGTON TWP","nc":4,"o":"-76.307333"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.195637,41.005465],"type":"Point"},"properties":{"a":"41.005465","cty":"MONROE","id":8810114,"mun":"STROUD TWP","nc":4,"o":"-75.195637"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.405369,41.108799],"type":"Point"},"properties":{"a":"41.108799","cty":"MONROE","id":8810116,"mun":"TOBYHANNA TWP","nc":6,"o":"-75.405369"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.092168,40.019001],"type":"Point"},"properties":{"a":"40.019001","cty":"LANCASTER","id":8810119,"mun":"LEACOCK TWP","nc":1,"o":"-76.092168"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.08589,40.02314],"type":"Point"},"properties":{"a":"40.02314","cty":"LANCASTER","hp":true,"id":8810120,"mun":"LEACOCK TWP","nc":28,"ne":{"a":"40.02787","o":"-76.0777"},"o":"-76.08589","sw":{"a":"40.0184","o":"-76.09408"}},"type":"Feature"}
 ]}
