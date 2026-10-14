@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.618007,40.565915],"type":"Point"},"properties":{"a":"40.565915","cty":"LEHIGH","id":8800363,"mun":"UPPER MACUNGIE TWP","nc":4,"o":"-75.618007"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.28077,40.63665],"type":"Point"},"properties":{"a":"40.63665","cty":"JUNIATA","hp":true,"id":8800613,"mun":"FAYETTE TWP","nc":19,"ne":{"a":"40.63831","o":"-77.27727"},"o":"-77.28077","sw":{"a":"40.63499","o":"-77.28428"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.74886,41.00741],"type":"Point"},"properties":{"a":"41.00741","cty":"MONTOUR","hp":true,"id":8800840,"mun":"LIBERTY TWP","nc":13,"ne":{"a":"41.00905","o":"-76.74483"},"o":"-76.74886","sw":{"a":"41.00576","o":"-76.75289"}},"type":"Feature"}
+{"geometry":{"coordinates":[-77.28077,40.63665],"type":"Point"},"properties":{"a":"40.63665","cty":"JUNIATA","hp":true,"id":8800613,"mun":"FAYETTE TWP","nc":19,"ne":{"a":"40.63831","o":"-77.27727"},"o":"-77.28077","sw":{"a":"40.63499","o":"-77.28428"}},"type":"Feature"}
 ]}
