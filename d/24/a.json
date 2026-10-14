@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.514561,42.007591],"type":"Point"},"properties":{"a":"42.007591","cty":"PROVIDENCE","id":20261066212,"mun":"WOONSOCKET","nc":1,"o":"-71.514561"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.366516,41.841744],"type":"Point"},"properties":{"a":"41.841744","cty":"PROVIDENCE","id":20261066213,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.366516"},"type":"Feature"}
+
 ]}
