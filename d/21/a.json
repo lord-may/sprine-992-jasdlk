@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.079259,44.18268],"type":"Point"},"properties":{"EstRest":"10/14/2026 4:15:00 PM","Outages":1,"cause":"","county":"KNOX","crewstatus":"DISP ","customers":254,"hamlet":"ROCKPORT","incidentnumber":"0043FC","incidents":1,"level":"street","opco":"CMP","street":"COMMERCIAL ST","town":"ROCKPORT"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.079259,44.18268],"type":"Point"},"properties":{"EstRest":"10/14/2026 4:15:00 PM","Outages":2,"county":"KNOX","customers":27251,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.893977,44.264651],"type":"Point"},"properties":{"EstRest":"10/14/2026 4:15:00 PM","Outages":1,"cause":"","county":"OXFORD","crewstatus":"ENRT ","customers":6,"hamlet":"STONEHAM","incidentnumber":"0043F7","incidents":1,"level":"street","opco":"CMP","street":"BEAVER BROOK RD","town":"STONEHAM"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.893977,44.264651],"type":"Point"},"properties":{"EstRest":"10/14/2026 4:15:00 PM","Outages":1,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.079259,44.18268],"type":"Point"},"properties":{"EstRest":"10/14/2026 4:15:00 PM","Outages":1,"cause":"","county":"KNOX","crewstatus":"ONST ","customers":254,"hamlet":"ROCKPORT","incidentnumber":"0043FC","incidents":1,"level":"street","opco":"CMP","street":"COMMERCIAL ST","town":"ROCKPORT"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.079259,44.18268],"type":"Point"},"properties":{"EstRest":"10/14/2026 4:15:00 PM","Outages":2,"county":"KNOX","customers":27251,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
