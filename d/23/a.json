@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.792595,40.558139],"type":"Point"},"properties":{"a":"40.558139","cty":"DAUPHIN","id":8798306,"mun":"WASHINGTON TWP","nc":2,"o":"-76.792595"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.2895,41.13543],"type":"Point"},"properties":{"a":"41.13543","cty":"COLUMBIA","hp":true,"id":8798691,"mun":"FISHING CREEK TWP","nc":11,"ne":{"a":"41.1394","o":"-76.28069"},"o":"-76.2895","sw":{"a":"41.13146","o":"-76.29831"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.386194,40.551136],"type":"Point"},"properties":{"a":"40.551136","cty":"SCHUYLKILL","id":8799038,"mun":"PINE GROVE TWP","nc":1,"o":"-76.386194"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.571146,40.54594],"type":"Point"},"properties":{"a":"40.54594","cty":"LEHIGH","id":8799783,"mun":"LOWER MACUNGIE TWP","nc":2,"o":"-75.571146"},"type":"Feature"},
