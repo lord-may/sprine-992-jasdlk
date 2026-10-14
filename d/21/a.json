@@ -1,8 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-70.211673,43.616726],"type":"Point"},"properties":{"EstRest":"","Outages":5,"cause":"Tree","county":"CUMBERLAND","crewstatus":"ONST ","customers":28,"hamlet":"CAPE ELIZABETH","incidentnumber":"0043BN","incidents":1,"level":"street","opco":"CMP","street":"DELANO PARK","town":"CAPE ELIZABETH"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.211673,43.616726],"type":"Point"},"properties":{"EstRest":"","Outages":5,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.827585,44.263689],"type":"Point"},"properties":{"EstRest":"10/14/2026 2:30:00 AM","Outages":10,"cause":"","county":"OXFORD","crewstatus":"     ","customers":10,"hamlet":"STONEHAM","incidentnumber":"0043BT","incidents":1,"level":"street","opco":"CMP","street":"BAN GROVER RD","town":"STONEHAM"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.898545,44.234864],"type":"Point"},"properties":{"EstRest":"10/14/2026 2:30:00 AM","Outages":497,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.731735,44.244417],"type":"Point"},"properties":{"EstRest":"10/14/2026 2:45:00 AM","Outages":1198,"county":"OXFORD","customers":44086,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.887648,43.804863],"type":"Point"},"properties":{"EstRest":"10/14/2026 2:15:00 AM","Outages":3,"cause":"","county":"YORK","crewstatus":"DISP ","customers":5,"hamlet":"PARSONSFIELD","incidentnumber":"0043BS","incidents":1,"level":"street","opco":"CMP","street":"SUNNYDALE LN","town":"PARSONSFIELD"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.888636,43.804651],"type":"Point"},"properties":{"EstRest":"10/14/2026 2:15:00 AM","Outages":5,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
