@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.618007,40.565915],"type":"Point"},"properties":{"a":"40.565915","cty":"LEHIGH","id":8800363,"mun":"UPPER MACUNGIE TWP","nc":4,"o":"-75.618007"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.28077,40.63665],"type":"Point"},"properties":{"a":"40.63665","cty":"JUNIATA","hp":true,"id":8800613,"mun":"FAYETTE TWP","nc":19,"ne":{"a":"40.63831","o":"-77.27727"},"o":"-77.28077","sw":{"a":"40.63499","o":"-77.28428"}},"type":"Feature"}
+{"geometry":{"coordinates":[-77.281091,40.636616],"type":"Point"},"properties":{"a":"40.636616","cty":"JUNIATA","id":8800613,"mun":"FAYETTE TWP","nc":3,"o":"-77.281091"},"type":"Feature"}
 ]}
