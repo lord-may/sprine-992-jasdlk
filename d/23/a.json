@@ -2,9 +2,7 @@
 {"geometry":{"coordinates":[-76.50068,40.63947],"type":"Point"},"properties":{"a":"40.63947","cty":"SCHUYLKILL","hp":true,"id":8798200,"mun":"HEGINS TWP","nc":6,"ne":{"a":"40.64028","o":"-76.49971"},"o":"-76.50068","sw":{"a":"40.63867","o":"-76.50165"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.792595,40.558139],"type":"Point"},"properties":{"a":"40.558139","cty":"DAUPHIN","id":8798306,"mun":"WASHINGTON TWP","nc":2,"o":"-76.792595"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.4275,41.2403],"type":"Point"},"properties":{"a":"41.2403","cty":"COLUMBIA","hp":true,"id":8798330,"mun":"BENTON TWP","nc":173,"ne":{"a":"41.26776","o":"-76.3781"},"o":"-76.4275","sw":{"a":"41.21285","o":"-76.4769"}},"type":"Feature"},
-{"geometry":{"coordinates":[-77.00338,40.33304],"type":"Point"},"properties":{"a":"40.33304","cty":"PERRY","hp":true,"id":8798336,"mun":"RYE TWP","nc":14,"ne":{"a":"40.33448","o":"-77.00055"},"o":"-77.00338","sw":{"a":"40.33159","o":"-77.00621"}},"type":"Feature"},
-{"geometry":{"coordinates":[-77.02513,40.32944],"type":"Point"},"properties":{"a":"40.32944","cty":"PERRY","hp":true,"id":8798341,"mun":"RYE TWP","nc":19,"ne":{"a":"40.33287","o":"-77.02314"},"o":"-77.02513","sw":{"a":"40.326","o":"-77.02713"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.579327,41.165884],"type":"Point"},"properties":{"a":"41.165884","cty":"MONROE","id":8798362,"mun":"COOLBAUGH TWP","nc":3,"o":"-75.579327"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.007715,40.330956],"type":"Point"},"properties":{"a":"40.330956","cty":"PERRY","id":8798397,"mun":"RYE TWP","nc":2,"o":"-77.007715"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.006291,40.329035],"type":"Point"},"properties":{"a":"40.329035","cty":"PERRY","id":8798405,"mun":"RYE TWP","nc":1,"o":"-77.006291"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.00417,40.3317],"type":"Point"},"properties":{"a":"40.3317","cty":"PERRY","hp":true,"id":8798336,"mun":"RYE TWP","nc":21,"ne":{"a":"40.33448","o":"-77.00055"},"o":"-77.00417","sw":{"a":"40.32893","o":"-77.00778"}},"type":"Feature"},
+{"geometry":{"coordinates":[-77.160287,41.182726],"type":"Point"},"properties":{"a":"41.182726","cty":"LYCOMING","id":8798644,"mun":"BASTRESS TWP","nc":2,"o":"-77.160287"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.2895,41.13543],"type":"Point"},"properties":{"a":"41.13543","cty":"COLUMBIA","hp":true,"id":8798691,"mun":"FISHING CREEK TWP","nc":11,"ne":{"a":"41.1394","o":"-76.28069"},"o":"-76.2895","sw":{"a":"41.13146","o":"-76.29831"}},"type":"Feature"}
 ]}
