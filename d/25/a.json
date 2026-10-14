@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-72.389672,43.47294],"type":"Point"},"properties":{"active":true,"affectingCustomers":true,"cause":171,"county":"Windsor","crew_name":",SPRI-PEARSONSSPRI-WHITTEMORE","customers_affected":996,"customers_affected_label":"996 Customers","device":"DYNAMIC_PROTECTIVE_DEVICE","etor":"2026-10-14T04:00-04:00","has_etor":1,"incident_id":1015161,"status":"CREW_ASSIGNED","street":"US ROUTE 5 S","town":"Windsor","trouble":"NO_POWER"},"type":"Feature"}
+
 ]}
