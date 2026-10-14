@@ -2,7 +2,7 @@
 {"geometry":{"coordinates":[-71.30864,41.45581],"type":"Point"},"properties":{"a":"41.45581","cty":"NEWPORT","hp":true,"id":20261066222,"mun":"NEWPORT","nc":112,"ne":{"a":"41.46001","o":"-71.30492"},"o":"-71.30864","sw":{"a":"41.45161","o":"-71.31235"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.527547,42.009326],"type":"Point"},"properties":{"a":"42.009326","cty":"PROVIDENCE","id":20261066381,"mun":"WOONSOCKET","nc":1,"o":"-71.527547"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.4305,41.807254],"type":"Point"},"properties":{"a":"41.807254","cty":"PROVIDENCE","id":20261066389,"mun":"PROVIDENCE","nc":1,"o":"-71.4305"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.427452,41.780355],"type":"Point"},"properties":{"a":"41.780355","cty":"PROVIDENCE","id":20261066404,"mun":"CRANSTON","nc":1,"o":"-71.427452"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.363882,41.892021],"type":"Point"},"properties":{"a":"41.892021","cty":"PROVIDENCE","id":20261066405,"mun":"PAWTUCKET","nc":1,"o":"-71.363882"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.188644,41.619476],"type":"Point"},"properties":{"a":"41.619476","cty":"NEWPORT","id":20261066406,"mun":"TIVERTON","nc":1,"o":"-71.188644"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.188644,41.619476],"type":"Point"},"properties":{"a":"41.619476","cty":"NEWPORT","id":20261066406,"mun":"TIVERTON","nc":1,"o":"-71.188644"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.438231,41.821622],"type":"Point"},"properties":{"a":"41.821622","cty":"PROVIDENCE","id":20261066408,"mun":"PROVIDENCE","nc":1,"o":"-71.438231"},"type":"Feature"}
 ]}
