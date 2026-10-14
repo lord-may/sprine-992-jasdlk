@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-76.754677,42.356812],"type":"Point"},"properties":{"EstRest":"10/14/2026 4:30:00 AM","Outages":19,"cause":"","county":"SCHUYLER","crewstatus":"     ","customers":21,"hamlet":"ODESSA","incidentnumber":"0114P5","incidents":1,"level":"street","opco":"NYSEG","street":"STEAM MILL RD","town":"CATHERINE T"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.768766,42.36481],"type":"Point"},"properties":{"EstRest":"10/14/2026 4:30:00 AM","Outages":22,"county":"SCHUYLER","customers":10031,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-74.890216,41.489094],"type":"Point"},"properties":{"EstRest":"10/14/2026 4:00:00 AM","Outages":17,"county":"SULLIVAN","customers":50281,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-74.892954,41.486553],"type":"Point"},"properties":{"EstRest":"10/14/2026 4:00:00 AM","Outages":10,"cause":"","county":"SULLIVAN","crewstatus":"DISP ","customers":24,"hamlet":"BARRYVILLE","incidentnumber":"0114OY","incidents":1,"level":"street","opco":"NYSEG","street":"SPLIT ROCK RD","town":"HIGHLAND T"},"type":"Feature"}
 ]}
