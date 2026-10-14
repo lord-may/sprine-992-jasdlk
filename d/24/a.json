@@ -1,7 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.402212,41.875885],"type":"Point"},"properties":{"a":"41.875885","cty":"PROVIDENCE","id":20261066219,"mun":"PAWTUCKET","nc":41,"o":"-71.402212"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.30864,41.45581],"type":"Point"},"properties":{"a":"41.45581","cty":"NEWPORT","hp":true,"id":20261066222,"mun":"NEWPORT","nc":112,"ne":{"a":"41.46001","o":"-71.30492"},"o":"-71.30864","sw":{"a":"41.45161","o":"-71.31235"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.467134,41.613791],"type":"Point"},"properties":{"a":"41.613791","cty":"WASHINGTON","id":20261066246,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.467134"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.427452,41.780355],"type":"Point"},"properties":{"a":"41.780355","cty":"PROVIDENCE","id":20261066249,"mun":"CRANSTON","nc":1,"o":"-71.427452"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.483165,41.611742],"type":"Point"},"properties":{"a":"41.611742","cty":"WASHINGTON","id":20261066253,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.483165"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.363882,41.892021],"type":"Point"},"properties":{"a":"41.892021","cty":"PROVIDENCE","id":20261066255,"mun":"PAWTUCKET","nc":1,"o":"-71.363882"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.418176,41.769965],"type":"Point"},"properties":{"a":"41.769965","cty":"PROVIDENCE","id":20261066262,"mun":"CRANSTON","nc":1,"o":"-71.418176"},"type":"Feature"}
 ]}
