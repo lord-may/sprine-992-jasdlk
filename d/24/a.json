@@ -3,5 +3,6 @@
 {"geometry":{"coordinates":[-71.366516,41.841744],"type":"Point"},"properties":{"a":"41.841744","cty":"PROVIDENCE","id":20261066216,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.366516"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.461604,41.777452],"type":"Point"},"properties":{"a":"41.777452","cty":"PROVIDENCE","id":20261066217,"mun":"CRANSTON","nc":1,"o":"-71.461604"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.402212,41.875885],"type":"Point"},"properties":{"a":"41.875885","cty":"PROVIDENCE","id":20261066219,"mun":"PAWTUCKET","nc":41,"o":"-71.402212"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.30864,41.45581],"type":"Point"},"properties":{"a":"41.45581","cty":"NEWPORT","hp":true,"id":20261066222,"mun":"NEWPORT","nc":112,"ne":{"a":"41.46001","o":"-71.30492"},"o":"-71.30864","sw":{"a":"41.45161","o":"-71.31235"}},"type":"Feature"}
+{"geometry":{"coordinates":[-71.30864,41.45581],"type":"Point"},"properties":{"a":"41.45581","cty":"NEWPORT","hp":true,"id":20261066222,"mun":"NEWPORT","nc":112,"ne":{"a":"41.46001","o":"-71.30492"},"o":"-71.30864","sw":{"a":"41.45161","o":"-71.31235"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.43572,41.828477],"type":"Point"},"properties":{"a":"41.828477","cty":"PROVIDENCE","id":20261066227,"mun":"PROVIDENCE","nc":1,"o":"-71.43572"},"type":"Feature"}
 ]}
