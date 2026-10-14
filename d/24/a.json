@@ -2,10 +2,6 @@
 {"geometry":{"coordinates":[-71.30864,41.45581],"type":"Point"},"properties":{"a":"41.45581","cty":"NEWPORT","hp":true,"id":20261066222,"mun":"NEWPORT","nc":112,"ne":{"a":"41.46001","o":"-71.30492"},"o":"-71.30864","sw":{"a":"41.45161","o":"-71.31235"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.674207,41.780721],"type":"Point"},"properties":{"a":"41.780721","cty":"PROVIDENCE","id":20261066314,"mun":"SCITUATE","nc":4,"o":"-71.674207"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.527547,42.009326],"type":"Point"},"properties":{"a":"42.009326","cty":"PROVIDENCE","id":20261066381,"mun":"WOONSOCKET","nc":1,"o":"-71.527547"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.306636,41.727115],"type":"Point"},"properties":{"a":"41.727115","cty":"BRISTOL","id":20261066382,"mun":"BARRINGTON","nc":1,"o":"-71.306636"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.386136,41.878225],"type":"Point"},"properties":{"a":"41.878225","cty":"PROVIDENCE","id":20261066386,"mun":"PAWTUCKET","nc":1,"o":"-71.386136"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.463641,41.971052],"type":"Point"},"properties":{"a":"41.971052","cty":"PROVIDENCE","id":20261066387,"mun":"CUMBERLAND","nc":1,"o":"-71.463641"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.188644,41.619476],"type":"Point"},"properties":{"a":"41.619476","cty":"NEWPORT","id":20261066388,"mun":"TIVERTON","nc":1,"o":"-71.188644"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.4305,41.807254],"type":"Point"},"properties":{"a":"41.807254","cty":"PROVIDENCE","id":20261066389,"mun":"PROVIDENCE","nc":1,"o":"-71.4305"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.475372,41.985662],"type":"Point"},"properties":{"a":"41.985662","cty":"PROVIDENCE","id":20261066391,"mun":"CUMBERLAND","nc":1,"o":"-71.475372"},"type":"Feature"}
 ]}
