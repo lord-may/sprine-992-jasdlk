@@ -1,13 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.528041,40.57709],"type":"Point"},"properties":{"a":"40.57709","cty":"LEHIGH","id":8810004,"mun":"SOUTH WHITEHALL TWP","nc":3,"o":"-75.528041"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.883074,40.737688],"type":"Point"},"properties":{"a":"40.737688","cty":"SCHUYLKILL","id":8810027,"mun":"WEST PENN TWP","nc":1,"o":"-75.883074"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.373878,41.200283],"type":"Point"},"properties":{"a":"41.200283","cty":"MONROE","id":8810066,"mun":"COOLBAUGH TWP","nc":3,"o":"-75.373878"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.300742,40.683185],"type":"Point"},"properties":{"a":"40.683185","cty":"SCHUYLKILL","id":8810082,"mun":"CASS TWP","nc":1,"o":"-76.300742"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.19374,40.86668],"type":"Point"},"properties":{"a":"40.86668","cty":"UNION","hp":true,"id":8810084,"mun":"HARTLEY TWP","nc":8,"ne":{"a":"40.86807","o":"-77.1919"},"o":"-77.19374","sw":{"a":"40.86529","o":"-77.19557"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.307333,40.542053],"type":"Point"},"properties":{"a":"40.542053","cty":"SCHUYLKILL","id":8810095,"mun":"WASHINGTON TWP","nc":4,"o":"-76.307333"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.405369,41.108799],"type":"Point"},"properties":{"a":"41.108799","cty":"MONROE","id":8810116,"mun":"TOBYHANNA TWP","nc":6,"o":"-75.405369"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.08589,40.02314],"type":"Point"},"properties":{"a":"40.02314","cty":"LANCASTER","hp":true,"id":8810120,"mun":"LEACOCK TWP","nc":28,"ne":{"a":"40.02787","o":"-76.0777"},"o":"-76.08589","sw":{"a":"40.0184","o":"-76.09408"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.223617,40.781231],"type":"Point"},"properties":{"a":"40.781231","cty":"SCHUYLKILL","id":8810124,"mun":"NA","nc":8,"o":"-76.223617"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.129277,40.935467],"type":"Point"},"properties":{"a":"40.935467","cty":"UNION","id":8810126,"mun":"LEWIS TWP","nc":1,"o":"-77.129277"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.981971,40.944284],"type":"Point"},"properties":{"a":"40.944284","cty":"LUZERNE","id":8810128,"mun":"HAZLETON","nc":4,"o":"-75.981971"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.08589,40.02314],"type":"Point"},"properties":{"a":"40.02314","cty":"LANCASTER","hp":true,"id":8810120,"mun":"LEACOCK TWP","nc":28,"ne":{"a":"40.02787","o":"-76.0777"},"o":"-76.08589","sw":{"a":"40.0184","o":"-76.09408"}},"type":"Feature"}
 ]}
