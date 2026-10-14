@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.672919,41.682573],"type":"Point"},"properties":{"a":"41.682573","cty":"KENT","id":20261066155,"mun":"COVENTRY","nc":1,"o":"-71.672919"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.672919,41.682573],"type":"Point"},"properties":{"a":"41.682573","cty":"KENT","id":20261066155,"mun":"COVENTRY","nc":1,"o":"-71.672919"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.383328,41.819351],"type":"Point"},"properties":{"a":"41.819351","cty":"PROVIDENCE","id":20261066157,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.383328"},"type":"Feature"}
 ]}
