@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.469152,44.23191],"type":"Point"},"properties":{"EstRest":"10/14/2026 6:30:00 PM","Outages":40,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.494274,44.225238],"type":"Point"},"properties":{"EstRest":"10/14/2026 6:30:00 PM","Outages":3,"cause":"","county":"OXFORD","crewstatus":"DISP ","customers":3,"hamlet":"PARIS","incidentnumber":"0043FY","incidents":1,"level":"street","opco":"CMP","street":"STONY BROOK DR","town":"PARIS"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.633382,45.47768],"type":"Point"},"properties":{"EstRest":"10/14/2026 7:15:00 PM","Outages":1,"cause":"","county":"PISCATAQUIS","crewstatus":"DISP ","customers":50,"hamlet":"MOOSEHEAD JUNCTION TP","incidentnumber":"0043G3","incidents":1,"level":"street","opco":"CMP","street":"ROCKWOOD RD","town":"MOOSEHEAD JUNCTION TP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.633382,45.47768],"type":"Point"},"properties":{"EstRest":"10/14/2026 7:15:00 PM","Outages":1,"county":"PISCATAQUIS","customers":10243,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}

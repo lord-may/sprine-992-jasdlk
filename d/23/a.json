@@ -8,5 +8,6 @@
 {"geometry":{"coordinates":[-76.300742,40.683185],"type":"Point"},"properties":{"a":"40.683185","cty":"SCHUYLKILL","id":8810082,"mun":"CASS TWP","nc":1,"o":"-76.300742"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.19374,40.86668],"type":"Point"},"properties":{"a":"40.86668","cty":"UNION","hp":true,"id":8810084,"mun":"HARTLEY TWP","nc":8,"ne":{"a":"40.86807","o":"-77.1919"},"o":"-77.19374","sw":{"a":"40.86529","o":"-77.19557"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.307333,40.542053],"type":"Point"},"properties":{"a":"40.542053","cty":"SCHUYLKILL","id":8810095,"mun":"WASHINGTON TWP","nc":4,"o":"-76.307333"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.4302,41.08701],"type":"Point"},"properties":{"a":"41.08701","cty":"COLUMBIA","hp":true,"id":8810109,"mun":"ORANGE TWP","nc":877,"ne":{"a":"41.11959","o":"-76.39697"},"o":"-76.4302","sw":{"a":"41.05444","o":"-76.46344"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.470523,40.609842],"type":"Point"},"properties":{"a":"40.609842","cty":"LEHIGH","id":8810112,"mun":"ALLENTOWN","nc":1,"o":"-75.470523"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.195637,41.005465],"type":"Point"},"properties":{"a":"41.005465","cty":"MONROE","id":8810114,"mun":"STROUD TWP","nc":4,"o":"-75.195637"},"type":"Feature"}
 ]}
