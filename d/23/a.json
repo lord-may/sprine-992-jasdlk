@@ -1,13 +1,11 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.35733,41.25641],"type":"Point"},"properties":{"a":"41.25641","cty":"WAYNE","hp":true,"id":8804211,"mun":"DREHER TWP","nc":135,"ne":{"a":"41.27917","o":"-75.341"},"o":"-75.35733","sw":{"a":"41.23366","o":"-75.37365"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.00412,41.29278],"type":"Point"},"properties":{"a":"41.29278","cty":"LYCOMING","hp":true,"id":8805468,"mun":"LOYALSOCK TWP","nc":83,"ne":{"a":"41.30177","o":"-76.99601"},"o":"-77.00412","sw":{"a":"41.28379","o":"-77.01222"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.091406,40.0192],"type":"Point"},"properties":{"a":"40.0192","cty":"LANCASTER","id":8805643,"mun":"LEACOCK TWP","nc":1,"o":"-76.091406"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.818593,40.24598],"type":"Point"},"properties":{"a":"40.24598","cty":"DAUPHIN","id":8806023,"mun":"SWATARA TWP","nc":3,"o":"-76.818593"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.39841,40.63607],"type":"Point"},"properties":{"a":"40.63607","cty":"LEHIGH","hp":true,"id":8806242,"mun":"BETHLEHEM","nc":26,"ne":{"a":"40.63714","o":"-75.39825"},"o":"-75.39841","sw":{"a":"40.63501","o":"-75.39857"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.799694,40.297178],"type":"Point"},"properties":{"a":"40.297178","cty":"DAUPHIN","id":8806445,"mun":"LOWER PAXTON TWP","nc":9,"o":"-76.799694"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.248997,40.750786],"type":"Point"},"properties":{"a":"40.750786","cty":"NORTHAMPTON","id":8806602,"mun":"FORKS TWP","nc":1,"o":"-75.248997"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.061976,40.721728],"type":"Point"},"properties":{"a":"40.721728","cty":"SNYDER","id":8806605,"mun":"WEST PERRY TWP","nc":2,"o":"-77.061976"},"type":"Feature"},
-{"geometry":{"coordinates":[-74.900993,41.45541],"type":"Point"},"properties":{"a":"41.45541","cty":"PIKE","id":8806633,"mun":"SHOHOLA TWP","nc":2,"o":"-74.900993"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.234169,40.510201],"type":"Point"},"properties":{"a":"40.510201","cty":"PERRY","id":8806704,"mun":"TUSCARORA TWP","nc":1,"o":"-77.234169"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.443276,40.615684],"type":"Point"},"properties":{"a":"40.615684","cty":"LEHIGH","id":8806839,"mun":"ALLENTOWN","nc":23,"o":"-75.443276"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.22653,41.43084],"type":"Point"},"properties":{"a":"41.43084","cty":"WAYNE","hp":true,"id":8806884,"mun":"PAUPACK TWP","nc":54,"ne":{"a":"41.43337","o":"-75.22426"},"o":"-75.22653","sw":{"a":"41.42831","o":"-75.2288"}},"type":"Feature"},
@@ -26,8 +24,15 @@
 {"geometry":{"coordinates":[-75.2857,41.11718],"type":"Point"},"properties":{"a":"41.11718","cty":"MONROE","hp":true,"id":8807431,"mun":"PARADISE TWP","nc":53,"ne":{"a":"41.12159","o":"-75.28078"},"o":"-75.2857","sw":{"a":"41.11276","o":"-75.29061"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.82425,40.85128],"type":"Point"},"properties":{"a":"40.85128","cty":"SNYDER","hp":true,"id":8807450,"mun":"SHAMOKIN DAM BORO","nc":159,"ne":{"a":"40.85426","o":"-76.81954"},"o":"-76.82425","sw":{"a":"40.8483","o":"-76.82897"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.390795,41.111768],"type":"Point"},"properties":{"a":"41.111768","cty":"COLUMBIA","id":8807461,"mun":"FISHING CREEK TWP","nc":2,"o":"-76.390795"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.38042,40.69686],"type":"Point"},"properties":{"a":"40.69686","cty":"NORTHAMPTON","hp":true,"id":8807468,"mun":"HANOVER TWP","nc":950,"ne":{"a":"40.72061","o":"-75.35644"},"o":"-75.38042","sw":{"a":"40.67311","o":"-75.40441"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.38042,40.70037],"type":"Point"},"properties":{"a":"40.70037","cty":"NORTHAMPTON","hp":true,"id":8807468,"mun":"HANOVER TWP","nc":618,"ne":{"a":"40.72061","o":"-75.35644"},"o":"-75.38042","sw":{"a":"40.68014","o":"-75.40441"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.421529,41.001459],"type":"Point"},"properties":{"a":"41.001459","cty":"COLUMBIA","id":8807476,"mun":"SCOTT TWP","nc":1,"o":"-76.421529"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.16041,41.02682],"type":"Point"},"properties":{"a":"41.02682","cty":"LUZERNE","hp":true,"id":8807528,"mun":"NESCOPECK TWP","nc":5,"ne":{"a":"41.02922","o":"-76.15571"},"o":"-76.16041","sw":{"a":"41.02442","o":"-76.16511"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.529206,41.274815],"type":"Point"},"properties":{"a":"41.274815","cty":"LYCOMING","id":8807588,"mun":"FRANKLIN TWP","nc":9,"o":"-76.529206"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.529206,41.274815],"type":"Point"},"properties":{"a":"41.274815","cty":"LYCOMING","id":8807588,"mun":"FRANKLIN TWP","nc":9,"o":"-76.529206"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.592865,40.640827],"type":"Point"},"properties":{"a":"40.640827","cty":"LEHIGH","id":8807621,"mun":"NORTH WHITEHALL TWP","nc":5,"o":"-75.592865"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.599781,40.145621],"type":"Point"},"properties":{"a":"40.145621","cty":"LANCASTER","id":8807668,"mun":"ELIZABETHTOWN BORO","nc":1,"o":"-76.599781"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.898055,41.232082],"type":"Point"},"properties":{"a":"41.232082","cty":"LUZERNE","id":8807677,"mun":"WILKES-BARRE","nc":15,"o":"-75.898055"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.79268,40.85608],"type":"Point"},"properties":{"a":"40.85608","cty":"NORTHUMBERLAND","hp":true,"id":8807694,"mun":"UPPER AUGUSTA TWP","nc":364,"ne":{"a":"40.86","o":"-76.78962"},"o":"-76.79268","sw":{"a":"40.85215","o":"-76.79574"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.804029,40.270742],"type":"Point"},"properties":{"a":"40.270742","cty":"DAUPHIN","id":8807716,"mun":"LOWER PAXTON TWP","nc":14,"o":"-76.804029"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.96391,40.795654],"type":"Point"},"properties":{"a":"40.795654","cty":"SCHUYLKILL","id":8807772,"mun":"TAMAQUA BORO","nc":1,"o":"-75.96391"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.159342,40.592956],"type":"Point"},"properties":{"a":"40.592956","cty":"SCHUYLKILL","id":8807781,"mun":"SOUTH MANHEIM TWP","nc":2,"o":"-76.159342"},"type":"Feature"}
 ]}
