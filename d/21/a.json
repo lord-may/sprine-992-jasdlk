@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-69.360855,44.239049],"type":"Point"},"properties":{"EstRest":"10/14/2026 4:15:00 PM","Outages":38,"county":"KNOX","customers":27251,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.893977,44.264651],"type":"Point"},"properties":{"EstRest":"10/14/2026 4:15:00 PM","Outages":11,"county":"OXFORD","customers":44086,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.925447,44.149059],"type":"Point"},"properties":{"EstRest":"10/14/2026 4:15:00 PM","Outages":11,"county":"OXFORD","customers":44086,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
