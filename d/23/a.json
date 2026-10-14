@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.39841,40.63607],"type":"Point"},"properties":{"a":"40.63607","cty":"LEHIGH","hp":true,"id":8806242,"mun":"BETHLEHEM","nc":26,"ne":{"a":"40.63714","o":"-75.39825"},"o":"-75.39841","sw":{"a":"40.63501","o":"-75.39857"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.914974,40.256647],"type":"Point"},"properties":{"a":"40.256647","cty":"CUMBERLAND","id":8806950,"mun":"EAST PENNSBORO TWP","nc":1,"o":"-76.914974"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.884566,41.215078],"type":"Point"},"properties":{"a":"41.215078","cty":"LUZERNE","id":8807429,"mun":"HANOVER TWP","nc":0,"o":"-75.884566"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.16041,41.02682],"type":"Point"},"properties":{"a":"41.02682","cty":"LUZERNE","hp":true,"id":8807528,"mun":"NESCOPECK TWP","nc":5,"ne":{"a":"41.02922","o":"-76.15571"},"o":"-76.16041","sw":{"a":"41.02442","o":"-76.16511"}},"type":"Feature"},
@@ -11,5 +10,10 @@
 {"geometry":{"coordinates":[-75.89391,40.76916],"type":"Point"},"properties":{"a":"40.76916","cty":"SCHUYLKILL","hp":true,"id":8809985,"mun":"WEST PENN TWP","nc":13,"ne":{"a":"40.77172","o":"-75.887"},"o":"-75.89391","sw":{"a":"40.7666","o":"-75.90081"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.528041,40.57709],"type":"Point"},"properties":{"a":"40.57709","cty":"LEHIGH","id":8810004,"mun":"SOUTH WHITEHALL TWP","nc":3,"o":"-75.528041"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.516335,41.751093],"type":"Point"},"properties":{"a":"41.751093","cty":"SUSQUEHANNA","id":8810005,"mun":"HERRICK TWP","nc":4,"o":"-75.516335"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.82425,40.85128],"type":"Point"},"properties":{"a":"40.85128","cty":"SNYDER","hp":true,"id":8810019,"mun":"SHAMOKIN DAM BORO","nc":159,"ne":{"a":"40.85426","o":"-76.81954"},"o":"-76.82425","sw":{"a":"40.8483","o":"-76.82897"}},"type":"Feature"}
+{"geometry":{"coordinates":[-76.82425,40.85128],"type":"Point"},"properties":{"a":"40.85128","cty":"SNYDER","hp":true,"id":8810019,"mun":"SHAMOKIN DAM BORO","nc":159,"ne":{"a":"40.85426","o":"-76.81954"},"o":"-76.82425","sw":{"a":"40.8483","o":"-76.82897"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.268194,41.025356],"type":"Point"},"properties":{"a":"41.025356","cty":"MONROE","id":8810026,"mun":"POCONO TWP","nc":2,"o":"-75.268194"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.883074,40.737688],"type":"Point"},"properties":{"a":"40.737688","cty":"SCHUYLKILL","id":8810027,"mun":"WEST PENN TWP","nc":1,"o":"-75.883074"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.220646,41.293357],"type":"Point"},"properties":{"a":"41.293357","cty":"PIKE","id":8810029,"mun":"GREENE TWP","nc":3,"o":"-75.220646"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.738634,40.279704],"type":"Point"},"properties":{"a":"40.279704","cty":"DAUPHIN","id":8810033,"mun":"SOUTH HANOVER TWP","nc":1,"o":"-76.738634"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.316655,40.632301],"type":"Point"},"properties":{"a":"40.632301","cty":"NORTHAMPTON","id":8810037,"mun":"BETHLEHEM TWP","nc":2,"o":"-75.316655"},"type":"Feature"}
 ]}
