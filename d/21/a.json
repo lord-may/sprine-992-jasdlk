@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.079259,44.18268],"type":"Point"},"properties":{"EstRest":"10/14/2026 4:15:00 PM","Outages":1,"cause":"","county":"KNOX","crewstatus":"ONST ","customers":254,"hamlet":"ROCKPORT","incidentnumber":"0043FC","incidents":1,"level":"street","opco":"CMP","street":"COMMERCIAL ST","town":"ROCKPORT"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.079259,44.18268],"type":"Point"},"properties":{"EstRest":"10/14/2026 4:15:00 PM","Outages":2,"county":"KNOX","customers":27251,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.220743,44.112631],"type":"Point"},"properties":{"EstRest":"10/14/2026 5:30:00 PM","Outages":1,"cause":"","county":"ANDROSCOGGIN","crewstatus":"DISP ","customers":70,"hamlet":"AUBURN","incidentnumber":"0043FP","incidents":1,"level":"street","opco":"CMP","street":"NORTHERN AVE","town":"AUBURN"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.220743,44.112631],"type":"Point"},"properties":{"EstRest":"10/14/2026 5:30:00 PM","Outages":1,"county":"ANDROSCOGGIN","customers":59602,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
