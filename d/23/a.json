@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.441164,40.418947],"type":"Point"},"properties":{"a":"40.418947","cty":"BUCKS","id":8801655,"mun":"MILFORD TWP","nc":1,"o":"-75.441164"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.378052,40.556852],"type":"Point"},"properties":{"a":"40.556852","cty":"SCHUYLKILL","id":8803208,"mun":"PINE GROVE TWP","nc":1,"o":"-76.378052"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.239325,40.46701],"type":"Point"},"properties":{"a":"40.46701","cty":"BUCKS","id":8804109,"mun":"HAYCOCK TWP","nc":1,"o":"-75.239325"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.227712,40.472512],"type":"Point"},"properties":{"a":"40.472512","cty":"BUCKS","id":8804112,"mun":"HAYCOCK TWP","nc":1,"o":"-75.227712"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.35733,41.25641],"type":"Point"},"properties":{"a":"41.25641","cty":"WAYNE","hp":true,"id":8804211,"mun":"DREHER TWP","nc":135,"ne":{"a":"41.27917","o":"-75.341"},"o":"-75.35733","sw":{"a":"41.23366","o":"-75.37365"}},"type":"Feature"}
 ]}
