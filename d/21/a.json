@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.657889,43.99441],"type":"Point"},"properties":{"EstRest":"10/14/2026 8:45:00 PM","Outages":1,"cause":"","county":"CUMBERLAND","crewstatus":"ONST ","customers":3,"hamlet":"NAPLES","incidentnumber":"0043GE","incidents":1,"level":"street","opco":"CMP","street":"BOAT SHOP LN","town":"NAPLES"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.657889,43.99441],"type":"Point"},"properties":{"EstRest":"10/14/2026 8:45:00 PM","Outages":1,"cause":"Animal","county":"CUMBERLAND","crewstatus":"CMPL ","customers":3,"hamlet":"NAPLES","incidentnumber":"0043GE","incidents":1,"level":"street","opco":"CMP","street":"BOAT SHOP LN","town":"NAPLES"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.657889,43.99441],"type":"Point"},"properties":{"EstRest":"10/14/2026 8:45:00 PM","Outages":1,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.791094,44.956485],"type":"Point"},"properties":{"EstRest":"10/14/2026 9:00:00 PM","Outages":1,"cause":"","county":"FRANKLIN","crewstatus":"DISP ","customers":116,"hamlet":"RANGELEY","incidentnumber":"0043GF","incidents":1,"level":"street","opco":"CMP","street":"BALD MOUNTAIN RD","town":"RANGELEY"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.791094,44.956485],"type":"Point"},"properties":{"EstRest":"10/14/2026 9:00:00 PM","Outages":1,"county":"FRANKLIN","customers":24700,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.791094,44.956485],"type":"Point"},"properties":{"EstRest":"10/14/2026 9:45:00 PM","Outages":3,"county":"FRANKLIN","customers":24700,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
