@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.35733,41.25641],"type":"Point"},"properties":{"a":"41.25641","cty":"WAYNE","hp":true,"id":8804211,"mun":"DREHER TWP","nc":135,"ne":{"a":"41.27917","o":"-75.341"},"o":"-75.35733","sw":{"a":"41.23366","o":"-75.37365"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.402464,41.116763],"type":"Point"},"properties":{"a":"41.116763","cty":"MONROE","id":8804307,"mun":"TOBYHANNA TWP","nc":5,"o":"-75.402464"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.402464,41.116763],"type":"Point"},"properties":{"a":"41.116763","cty":"MONROE","id":8804307,"mun":"TOBYHANNA TWP","nc":5,"o":"-75.402464"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.300971,39.843547],"type":"Point"},"properties":{"a":"39.843547","cty":"LANCASTER","id":8804847,"mun":"MARTIC TWP","nc":1,"o":"-76.300971"},"type":"Feature"}
 ]}
