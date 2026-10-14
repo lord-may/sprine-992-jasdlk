@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.361034,41.83689],"type":"Point"},"properties":{"a":"41.83689","cty":"PROVIDENCE","id":20261066215,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.361034"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.366516,41.841744],"type":"Point"},"properties":{"a":"41.841744","cty":"PROVIDENCE","id":20261066216,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.366516"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.461604,41.777452],"type":"Point"},"properties":{"a":"41.777452","cty":"PROVIDENCE","id":20261066217,"mun":"CRANSTON","nc":1,"o":"-71.461604"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.461604,41.777452],"type":"Point"},"properties":{"a":"41.777452","cty":"PROVIDENCE","id":20261066217,"mun":"CRANSTON","nc":1,"o":"-71.461604"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.402212,41.875885],"type":"Point"},"properties":{"a":"41.875885","cty":"PROVIDENCE","id":20261066219,"mun":"PAWTUCKET","nc":41,"o":"-71.402212"},"type":"Feature"}
 ]}

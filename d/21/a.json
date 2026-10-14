@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-70.211673,43.616726],"type":"Point"},"properties":{"EstRest":"10/14/2026 9:30:00 AM","Outages":7,"county":"CUMBERLAND","customers":182407,"incidents":3,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.602007,44.504947],"type":"Point"},"properties":{"EstRest":"10/14/2026 9:00:00 AM","Outages":1,"cause":"","county":"KENNEBEC","crewstatus":"CNCL ","customers":53,"hamlet":"WINSLOW","incidentnumber":"0043CL","incidents":1,"level":"street","opco":"CMP","street":"S REYNOLDS RD","town":"WINSLOW"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.602007,44.504947],"type":"Point"},"properties":{"EstRest":"10/14/2026 9:00:00 AM","Outages":1,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.803642,43.927517],"type":"Point"},"properties":{"EstRest":"10/14/2026 10:15:00 AM","Outages":1,"cause":"","county":"SAGADAHOC","crewstatus":"DISP ","customers":156,"hamlet":"WOOLWICH","incidentnumber":"0043CO","incidents":1,"level":"street","opco":"CMP","street":"MIDDLE RD","town":"WOOLWICH"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.803642,43.927517],"type":"Point"},"properties":{"EstRest":"10/14/2026 10:15:00 AM","Outages":1,"county":"SAGADAHOC","customers":23026,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
