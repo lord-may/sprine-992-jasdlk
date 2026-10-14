@@ -16,7 +16,12 @@
 {"geometry":{"coordinates":[-75.472734,40.62791],"type":"Point"},"properties":{"a":"40.62791","cty":"LEHIGH","id":8806935,"mun":"WHITEHALL TWP","nc":14,"o":"-75.472734"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.268066,41.231014],"type":"Point"},"properties":{"a":"41.231014","cty":"LYCOMING","id":8806948,"mun":"PORTER TWP","nc":1,"o":"-77.268066"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.914974,40.256647],"type":"Point"},"properties":{"a":"40.256647","cty":"CUMBERLAND","id":8806950,"mun":"EAST PENNSBORO TWP","nc":1,"o":"-76.914974"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.30094,40.26131],"type":"Point"},"properties":{"a":"40.26131","cty":"MONTGOMERY","hp":true,"id":8806987,"mun":"HATFIELD TWP","nc":1032,"ne":{"a":"40.27154","o":"-75.28197"},"o":"-75.30094","sw":{"a":"40.25108","o":"-75.31992"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.2992,40.2632],"type":"Point"},"properties":{"a":"40.2632","cty":"MONTGOMERY","hp":true,"id":8806987,"mun":"HATFIELD TWP","nc":497,"ne":{"a":"40.27154","o":"-75.29207"},"o":"-75.2992","sw":{"a":"40.25485","o":"-75.30633"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.307599,40.355984],"type":"Point"},"properties":{"a":"40.355984","cty":"BUCKS","id":8806997,"mun":"SELLERSVILLE BORO","nc":5,"o":"-75.307599"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.514095,41.308864],"type":"Point"},"properties":{"a":"41.308864","cty":"LACKAWANNA","id":8807022,"mun":"COVINGTON TWP","nc":1,"o":"-75.514095"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.514095,41.308864],"type":"Point"},"properties":{"a":"41.308864","cty":"LACKAWANNA","id":8807022,"mun":"COVINGTON TWP","nc":1,"o":"-75.514095"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.556027,41.494225],"type":"Point"},"properties":{"a":"41.494225","cty":"LACKAWANNA","id":8807033,"mun":"ARCHBALD BORO","nc":10,"o":"-75.556027"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.272312,40.308648],"type":"Point"},"properties":{"a":"40.308648","cty":"LEBANON","id":8807071,"mun":"HEIDELBERG TWP","nc":2,"o":"-76.272312"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.978196,40.357742],"type":"Point"},"properties":{"a":"40.357742","cty":"BERKS","id":8807093,"mun":"SPRING TWP","nc":0,"o":"-75.978196"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.443337,40.615938],"type":"Point"},"properties":{"a":"40.615938","cty":"LEHIGH","id":8807104,"mun":"ALLENTOWN","nc":1,"o":"-75.443337"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.309257,40.035817],"type":"Point"},"properties":{"a":"40.035817","cty":"LANCASTER","id":8807170,"mun":"LANCASTER","nc":1,"o":"-76.309257"},"type":"Feature"}
 ]}
