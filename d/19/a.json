@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-73.544204,42.263005],"type":"Point"},"properties":{"EstRest":"10/14/2026 7:15:00 AM","Outages":8,"cause":"","county":"COLUMBIA","crewstatus":"DISP ","customers":49,"hamlet":"HILLSDALE","incidentnumber":"0114PA","incidents":1,"level":"street","opco":"NYSEG","street":"COUNTY ROUTE 21","town":"HILLSDALE T"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.544204,42.263005],"type":"Point"},"properties":{"EstRest":"10/14/2026 7:15:00 AM","Outages":8,"county":"COLUMBIA","customers":15380,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.754677,42.356812],"type":"Point"},"properties":{"EstRest":"10/14/2026 7:00:00 AM","Outages":19,"cause":"","county":"SCHUYLER","crewstatus":"DISP ","customers":21,"hamlet":"ODESSA","incidentnumber":"0114P5","incidents":1,"level":"street","opco":"NYSEG","street":"STEAM MILL RD","town":"CATHERINE T"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.768766,42.36481],"type":"Point"},"properties":{"EstRest":"10/14/2026 7:00:00 AM","Outages":22,"county":"SCHUYLER","customers":10031,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+{"geometry":{"coordinates":[-73.544204,42.263005],"type":"Point"},"properties":{"EstRest":"10/14/2026 7:15:00 AM","Outages":8,"county":"COLUMBIA","customers":15380,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
