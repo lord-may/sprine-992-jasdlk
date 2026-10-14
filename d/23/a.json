@@ -1,8 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.26938,40.778853],"type":"Point"},"properties":{"a":"40.778853","cty":"SNYDER","id":8797992,"mun":"SPRING TWP","nc":2,"o":"-77.26938"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.50068,40.63947],"type":"Point"},"properties":{"a":"40.63947","cty":"SCHUYLKILL","hp":true,"id":8798200,"mun":"HEGINS TWP","nc":6,"ne":{"a":"40.64028","o":"-76.49971"},"o":"-76.50068","sw":{"a":"40.63867","o":"-76.50165"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.17552,41.18079],"type":"Point"},"properties":{"a":"41.18079","cty":"LYCOMING","hp":true,"id":8798215,"mun":"BASTRESS TWP","nc":20,"ne":{"a":"41.18392","o":"-77.15769"},"o":"-77.17552","sw":{"a":"41.17766","o":"-77.19335"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.4685,40.51124],"type":"Point"},"properties":{"a":"40.51124","cty":"LEHIGH","hp":true,"id":8798280,"mun":"UPPER MILFORD TWP","nc":26,"ne":{"a":"40.51273","o":"-75.46359"},"o":"-75.4685","sw":{"a":"40.50974","o":"-75.47341"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.792595,40.558139],"type":"Point"},"properties":{"a":"40.558139","cty":"DAUPHIN","id":8798306,"mun":"WASHINGTON TWP","nc":2,"o":"-76.792595"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.37955,40.39273],"type":"Point"},"properties":{"a":"40.39273","cty":"BUCKS","hp":true,"id":8798313,"mun":"MILFORD TWP","nc":207,"ne":{"a":"40.40665","o":"-75.36502"},"o":"-75.37955","sw":{"a":"40.37881","o":"-75.39408"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.37978,40.38469],"type":"Point"},"properties":{"a":"40.38469","cty":"BUCKS","hp":true,"id":8798313,"mun":"WEST ROCKHILL TWP","nc":140,"ne":{"a":"40.39057","o":"-75.36547"},"o":"-75.37978","sw":{"a":"40.37881","o":"-75.39408"}},"type":"Feature"}
 ]}
