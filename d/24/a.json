@@ -4,6 +4,5 @@
 {"geometry":{"coordinates":[-71.363882,41.892021],"type":"Point"},"properties":{"a":"41.892021","cty":"PROVIDENCE","id":20261066255,"mun":"PAWTUCKET","nc":1,"o":"-71.363882"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.418176,41.769965],"type":"Point"},"properties":{"a":"41.769965","cty":"PROVIDENCE","id":20261066262,"mun":"CRANSTON","nc":1,"o":"-71.418176"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.439569,41.832887],"type":"Point"},"properties":{"a":"41.832887","cty":"PROVIDENCE","id":20261066268,"mun":"PROVIDENCE","nc":1,"o":"-71.439569"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.392113,41.887043],"type":"Point"},"properties":{"a":"41.887043","cty":"PROVIDENCE","id":20261066275,"mun":"CENTRAL FALLS","nc":1,"o":"-71.392113"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.445279,41.822095],"type":"Point"},"properties":{"a":"41.822095","cty":"PROVIDENCE","id":20261066276,"mun":"PROVIDENCE","nc":1,"o":"-71.445279"},"type":"Feature"}
 ]}
