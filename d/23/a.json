@@ -9,5 +9,8 @@
 {"geometry":{"coordinates":[-75.259318,41.582508],"type":"Point"},"properties":{"a":"41.582508","cty":"WAYNE","id":8810063,"mun":"HONESDALE BORO","nc":26,"o":"-75.259318"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.686847,41.393661],"type":"Point"},"properties":{"a":"41.393661","cty":"LACKAWANNA","id":8810064,"mun":"TAYLOR BORO","nc":4,"o":"-75.686847"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.373878,41.200283],"type":"Point"},"properties":{"a":"41.200283","cty":"MONROE","id":8810066,"mun":"COOLBAUGH TWP","nc":3,"o":"-75.373878"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.300742,40.683185],"type":"Point"},"properties":{"a":"40.683185","cty":"SCHUYLKILL","id":8810082,"mun":"CASS TWP","nc":1,"o":"-76.300742"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.300742,40.683185],"type":"Point"},"properties":{"a":"40.683185","cty":"SCHUYLKILL","id":8810082,"mun":"CASS TWP","nc":1,"o":"-76.300742"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.19374,40.86668],"type":"Point"},"properties":{"a":"40.86668","cty":"UNION","hp":true,"id":8810084,"mun":"HARTLEY TWP","nc":8,"ne":{"a":"40.86807","o":"-77.1919"},"o":"-77.19374","sw":{"a":"40.86529","o":"-77.19557"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.607349,40.962208],"type":"Point"},"properties":{"a":"40.962208","cty":"MONTOUR","id":8810090,"mun":"DANVILLE BORO","nc":1,"o":"-76.607349"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.437635,40.613695],"type":"Point"},"properties":{"a":"40.613695","cty":"LEHIGH","id":8810093,"mun":"ALLENTOWN","nc":4,"o":"-75.437635"},"type":"Feature"}
 ]}
