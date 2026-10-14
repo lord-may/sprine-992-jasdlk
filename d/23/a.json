@@ -12,10 +12,8 @@
 {"geometry":{"coordinates":[-77.268066,41.231014],"type":"Point"},"properties":{"a":"41.231014","cty":"LYCOMING","id":8806948,"mun":"PORTER TWP","nc":1,"o":"-77.268066"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.914974,40.256647],"type":"Point"},"properties":{"a":"40.256647","cty":"CUMBERLAND","id":8806950,"mun":"EAST PENNSBORO TWP","nc":1,"o":"-76.914974"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.2992,40.2632],"type":"Point"},"properties":{"a":"40.2632","cty":"MONTGOMERY","hp":true,"id":8806987,"mun":"HATFIELD TWP","nc":497,"ne":{"a":"40.27154","o":"-75.29207"},"o":"-75.2992","sw":{"a":"40.25485","o":"-75.30633"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.307599,40.355984],"type":"Point"},"properties":{"a":"40.355984","cty":"BUCKS","id":8806997,"mun":"SELLERSVILLE BORO","nc":5,"o":"-75.307599"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.514095,41.308864],"type":"Point"},"properties":{"a":"41.308864","cty":"LACKAWANNA","id":8807022,"mun":"COVINGTON TWP","nc":1,"o":"-75.514095"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.556027,41.494225],"type":"Point"},"properties":{"a":"41.494225","cty":"LACKAWANNA","id":8807033,"mun":"ARCHBALD BORO","nc":10,"o":"-75.556027"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.272312,40.308648],"type":"Point"},"properties":{"a":"40.308648","cty":"LEBANON","id":8807071,"mun":"HEIDELBERG TWP","nc":2,"o":"-76.272312"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.443337,40.615938],"type":"Point"},"properties":{"a":"40.615938","cty":"LEHIGH","id":8807104,"mun":"ALLENTOWN","nc":1,"o":"-75.443337"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.884566,41.215078],"type":"Point"},"properties":{"a":"41.215078","cty":"LUZERNE","id":8807429,"mun":"HANOVER TWP","nc":0,"o":"-75.884566"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.2857,41.11718],"type":"Point"},"properties":{"a":"41.11718","cty":"MONROE","hp":true,"id":8807431,"mun":"PARADISE TWP","nc":53,"ne":{"a":"41.12159","o":"-75.28078"},"o":"-75.2857","sw":{"a":"41.11276","o":"-75.29061"}},"type":"Feature"},
@@ -38,5 +36,5 @@
 {"geometry":{"coordinates":[-77.013248,41.248325],"type":"Point"},"properties":{"a":"41.248325","cty":"LYCOMING","id":8807975,"mun":"WILLIAMSPORT","nc":1,"o":"-77.013248"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.772195,40.85962],"type":"Point"},"properties":{"a":"40.85962","cty":"NORTHUMBERLAND","id":8808041,"mun":"UPPER AUGUSTA TWP","nc":1,"o":"-76.772195"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.592823,41.620005],"type":"Point"},"properties":{"a":"41.620005","cty":"LACKAWANNA","id":8808085,"mun":"GREENFIELD TWP","nc":1,"o":"-75.592823"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.822892,40.847916],"type":"Point"},"properties":{"a":"40.847916","cty":"SNYDER","id":8808091,"mun":"SHAMOKIN DAM BORO","nc":8,"o":"-76.822892"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.638965,40.546262],"type":"Point"},"properties":{"a":"40.546262","cty":"LEHIGH","id":8808313,"mun":"UPPER MACUNGIE TWP","nc":10,"o":"-75.638965"},"type":"Feature"}
 ]}
