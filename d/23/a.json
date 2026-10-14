@@ -23,5 +23,8 @@
 {"geometry":{"coordinates":[-76.272312,40.308648],"type":"Point"},"properties":{"a":"40.308648","cty":"LEBANON","id":8807071,"mun":"HEIDELBERG TWP","nc":2,"o":"-76.272312"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.978196,40.357742],"type":"Point"},"properties":{"a":"40.357742","cty":"BERKS","id":8807093,"mun":"SPRING TWP","nc":0,"o":"-75.978196"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.443337,40.615938],"type":"Point"},"properties":{"a":"40.615938","cty":"LEHIGH","id":8807104,"mun":"ALLENTOWN","nc":1,"o":"-75.443337"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.309257,40.035817],"type":"Point"},"properties":{"a":"40.035817","cty":"LANCASTER","id":8807170,"mun":"LANCASTER","nc":1,"o":"-76.309257"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.309257,40.035817],"type":"Point"},"properties":{"a":"40.035817","cty":"LANCASTER","id":8807170,"mun":"LANCASTER","nc":1,"o":"-76.309257"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.284956,41.116431],"type":"Point"},"properties":{"a":"41.116431","cty":"MONROE","id":8807392,"mun":"PARADISE TWP","nc":1,"o":"-75.284956"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.276424,41.15368],"type":"Point"},"properties":{"a":"41.15368","cty":"MONROE","id":8807397,"mun":"BARRETT TWP","nc":2,"o":"-75.276424"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.286978,41.116966],"type":"Point"},"properties":{"a":"41.116966","cty":"MONROE","id":8807399,"mun":"PARADISE TWP","nc":2,"o":"-75.286978"},"type":"Feature"}
 ]}
