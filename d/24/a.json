@@ -1,13 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.527547,42.009326],"type":"Point"},"properties":{"a":"42.009326","cty":"PROVIDENCE","id":20261066381,"mun":"WOONSOCKET","nc":1,"o":"-71.527547"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.4305,41.807254],"type":"Point"},"properties":{"a":"41.807254","cty":"PROVIDENCE","id":20261066389,"mun":"PROVIDENCE","nc":1,"o":"-71.4305"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.388876,41.866832],"type":"Point"},"properties":{"a":"41.866832","cty":"PROVIDENCE","id":20261066407,"mun":"PAWTUCKET","nc":41,"o":"-71.388876"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.438231,41.821622],"type":"Point"},"properties":{"a":"41.821622","cty":"PROVIDENCE","id":20261066408,"mun":"PROVIDENCE","nc":1,"o":"-71.438231"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.486152,41.829101],"type":"Point"},"properties":{"a":"41.829101","cty":"PROVIDENCE","id":20261066416,"mun":"JOHNSTON","nc":1,"o":"-71.486152"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.364487,41.86202],"type":"Point"},"properties":{"a":"41.86202","cty":"PROVIDENCE","id":20261066421,"mun":"PAWTUCKET","nc":1,"o":"-71.364487"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.328946,41.770882],"type":"Point"},"properties":{"a":"41.770882","cty":"PROVIDENCE","id":20261066430,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.328946"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.307172,41.45931],"type":"Point"},"properties":{"a":"41.45931","cty":"NEWPORT","id":20261066436,"mun":"NEWPORT","nc":1,"o":"-71.307172"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.369051,41.891901],"type":"Point"},"properties":{"a":"41.891901","cty":"PROVIDENCE","id":20261066438,"mun":"PAWTUCKET","nc":1,"o":"-71.369051"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.30706,41.454473],"type":"Point"},"properties":{"a":"41.454473","cty":"NEWPORT","id":20261066440,"mun":"NEWPORT","nc":1,"o":"-71.30706"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.192985,41.619277],"type":"Point"},"properties":{"a":"41.619277","cty":"NEWPORT","id":20261066441,"mun":"TIVERTON","nc":1,"o":"-71.192985"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.192985,41.619277],"type":"Point"},"properties":{"a":"41.619277","cty":"NEWPORT","id":20261066441,"mun":"TIVERTON","nc":1,"o":"-71.192985"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.371249,41.792428],"type":"Point"},"properties":{"a":"41.792428","cty":"PROVIDENCE","id":20261066443,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.371249"},"type":"Feature"}
 ]}
