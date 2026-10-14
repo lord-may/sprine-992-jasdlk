@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.441164,40.418947],"type":"Point"},"properties":{"a":"40.418947","cty":"BUCKS","id":8801655,"mun":"MILFORD TWP","nc":1,"o":"-75.441164"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.828531,40.259095],"type":"Point"},"properties":{"a":"40.259095","cty":"DAUPHIN","id":8802845,"mun":"PAXTANG BORO","nc":1,"o":"-76.828531"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.441164,40.418947],"type":"Point"},"properties":{"a":"40.418947","cty":"BUCKS","id":8801655,"mun":"MILFORD TWP","nc":1,"o":"-75.441164"},"type":"Feature"}
 ]}
