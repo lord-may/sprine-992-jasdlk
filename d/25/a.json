@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-72.894077,42.890886],"type":"Point"},"properties":{"active":true,"affectingCustomers":true,"cause":0,"county":"Windham","crew_name":"","customers_affected":334,"customers_affected_label":"334 Customers","device":"DYNAMIC_PROTECTIVE_DEVICE","has_etor":0,"incident_id":1015171,"status":"CREATED","street":"HAYSTACK RD","town":"Wilmington","trouble":"NO_POWER"},"type":"Feature"}
 ]}

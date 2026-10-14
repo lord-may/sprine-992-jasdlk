@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-71.36627,41.84194],"type":"Point"},"properties":{"a":"41.84194","cty":"PROVIDENCE","hp":true,"id":20261066205,"mun":"EAST PROVIDENCE","nc":343,"ne":{"a":"41.84539","o":"-71.36227"},"o":"-71.36627","sw":{"a":"41.83849","o":"-71.37027"}},"type":"Feature"}
 ]}
