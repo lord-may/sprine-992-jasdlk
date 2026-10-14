@@ -13,11 +13,13 @@
 {"geometry":{"coordinates":[-76.760796,40.92975],"type":"Point"},"properties":{"a":"40.92975","cty":"NORTHUMBERLAND","id":8807972,"mun":"POINT TWP","nc":2,"o":"-76.760796"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.47854,41.010129],"type":"Point"},"properties":{"a":"41.010129","cty":"MONROE","id":8808419,"mun":"TUNKHANNOCK TWP","nc":2,"o":"-75.47854"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.70098,41.21668],"type":"Point"},"properties":{"a":"41.21668","cty":"LYCOMING","hp":true,"id":8808738,"mun":"WOLF TWP","nc":7,"ne":{"a":"41.21944","o":"-76.69506"},"o":"-76.70098","sw":{"a":"41.21391","o":"-76.70689"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.822301,40.847565],"type":"Point"},"properties":{"a":"40.847565","cty":"SNYDER","id":8808799,"mun":"SHAMOKIN DAM BORO","nc":4,"o":"-76.822301"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.900411,41.232647],"type":"Point"},"properties":{"a":"41.232647","cty":"LUZERNE","id":8809547,"mun":"WILKES-BARRE","nc":1,"o":"-75.900411"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.638103,40.545965],"type":"Point"},"properties":{"a":"40.545965","cty":"LEHIGH","id":8809552,"mun":"UPPER MACUNGIE TWP","nc":8,"o":"-75.638103"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.479362,40.608056],"type":"Point"},"properties":{"a":"40.608056","cty":"LEHIGH","id":8809611,"mun":"ALLENTOWN","nc":66,"o":"-75.479362"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.422349,41.001807],"type":"Point"},"properties":{"a":"41.001807","cty":"COLUMBIA","id":8809930,"mun":"SCOTT TWP","nc":4,"o":"-76.422349"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.563084,41.494657],"type":"Point"},"properties":{"a":"41.494657","cty":"LACKAWANNA","id":8809978,"mun":"ARCHBALD BORO","nc":5,"o":"-75.563084"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.89391,40.76916],"type":"Point"},"properties":{"a":"40.76916","cty":"SCHUYLKILL","hp":true,"id":8809985,"mun":"WEST PENN TWP","nc":13,"ne":{"a":"40.77172","o":"-75.887"},"o":"-75.89391","sw":{"a":"40.7666","o":"-75.90081"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.89391,40.76916],"type":"Point"},"properties":{"a":"40.76916","cty":"SCHUYLKILL","hp":true,"id":8809985,"mun":"WEST PENN TWP","nc":13,"ne":{"a":"40.77172","o":"-75.887"},"o":"-75.89391","sw":{"a":"40.7666","o":"-75.90081"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.29184,41.11148],"type":"Point"},"properties":{"a":"41.11148","cty":"MONROE","hp":true,"id":8810001,"mun":"PARADISE TWP","nc":159,"ne":{"a":"41.12103","o":"-75.27079"},"o":"-75.29184","sw":{"a":"41.10193","o":"-75.3129"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.702195,40.668016],"type":"Point"},"properties":{"a":"40.668016","cty":"NORTHUMBERLAND","id":8810002,"mun":"JORDAN TWP","nc":1,"o":"-76.702195"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.705679,40.658436],"type":"Point"},"properties":{"a":"40.658436","cty":"NORTHUMBERLAND","id":8810003,"mun":"JORDAN TWP","nc":3,"o":"-76.705679"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.528041,40.57709],"type":"Point"},"properties":{"a":"40.57709","cty":"LEHIGH","id":8810004,"mun":"SOUTH WHITEHALL TWP","nc":3,"o":"-75.528041"},"type":"Feature"}
 ]}
