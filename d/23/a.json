@@ -3,5 +3,8 @@
 {"geometry":{"coordinates":[-76.4275,41.2403],"type":"Point"},"properties":{"a":"41.2403","cty":"COLUMBIA","hp":true,"id":8798330,"mun":"BENTON TWP","nc":173,"ne":{"a":"41.26776","o":"-76.3781"},"o":"-76.4275","sw":{"a":"41.21285","o":"-76.4769"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.00417,40.3317],"type":"Point"},"properties":{"a":"40.3317","cty":"PERRY","hp":true,"id":8798336,"mun":"RYE TWP","nc":21,"ne":{"a":"40.33448","o":"-77.00055"},"o":"-77.00417","sw":{"a":"40.32893","o":"-77.00778"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.2895,41.13543],"type":"Point"},"properties":{"a":"41.13543","cty":"COLUMBIA","hp":true,"id":8798691,"mun":"FISHING CREEK TWP","nc":11,"ne":{"a":"41.1394","o":"-76.28069"},"o":"-76.2895","sw":{"a":"41.13146","o":"-76.29831"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.01004,40.0749],"type":"Point"},"properties":{"a":"40.0749","cty":"LANCASTER","hp":true,"id":8798896,"mun":"EAST EARL TWP","nc":162,"ne":{"a":"40.08324","o":"-75.99957"},"o":"-76.01004","sw":{"a":"40.06656","o":"-76.02051"}},"type":"Feature"}
+{"geometry":{"coordinates":[-76.01004,40.0749],"type":"Point"},"properties":{"a":"40.0749","cty":"LANCASTER","hp":true,"id":8798896,"mun":"EAST EARL TWP","nc":162,"ne":{"a":"40.08324","o":"-75.99957"},"o":"-76.01004","sw":{"a":"40.06656","o":"-76.02051"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.386194,40.551136],"type":"Point"},"properties":{"a":"40.551136","cty":"SCHUYLKILL","id":8799038,"mun":"PINE GROVE TWP","nc":1,"o":"-76.386194"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.334343,40.01207],"type":"Point"},"properties":{"a":"40.01207","cty":"LANCASTER","id":8799082,"mun":"LANCASTER TWP","nc":6,"o":"-76.334343"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.131316,40.298559],"type":"Point"},"properties":{"a":"40.298559","cty":"PERRY","id":8799108,"mun":"CARROLL TWP","nc":2,"o":"-77.131316"},"type":"Feature"}
 ]}
