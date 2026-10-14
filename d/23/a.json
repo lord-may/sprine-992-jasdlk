@@ -3,5 +3,6 @@
 {"geometry":{"coordinates":[-76.4275,41.2403],"type":"Point"},"properties":{"a":"41.2403","cty":"COLUMBIA","hp":true,"id":8798330,"mun":"BENTON TWP","nc":173,"ne":{"a":"41.26776","o":"-76.3781"},"o":"-76.4275","sw":{"a":"41.21285","o":"-76.4769"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.00417,40.3317],"type":"Point"},"properties":{"a":"40.3317","cty":"PERRY","hp":true,"id":8798336,"mun":"RYE TWP","nc":21,"ne":{"a":"40.33448","o":"-77.00055"},"o":"-77.00417","sw":{"a":"40.32893","o":"-77.00778"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.2895,41.13543],"type":"Point"},"properties":{"a":"41.13543","cty":"COLUMBIA","hp":true,"id":8798691,"mun":"FISHING CREEK TWP","nc":11,"ne":{"a":"41.1394","o":"-76.28069"},"o":"-76.2895","sw":{"a":"41.13146","o":"-76.29831"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.386194,40.551136],"type":"Point"},"properties":{"a":"40.551136","cty":"SCHUYLKILL","id":8799038,"mun":"PINE GROVE TWP","nc":1,"o":"-76.386194"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.386194,40.551136],"type":"Point"},"properties":{"a":"40.551136","cty":"SCHUYLKILL","id":8799038,"mun":"PINE GROVE TWP","nc":1,"o":"-76.386194"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.57406,41.167255],"type":"Point"},"properties":{"a":"41.167255","cty":"MONROE","id":8799433,"mun":"COOLBAUGH TWP","nc":3,"o":"-75.57406"},"type":"Feature"}
 ]}
