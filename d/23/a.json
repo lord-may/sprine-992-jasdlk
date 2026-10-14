@@ -1,16 +1,12 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.884566,41.215078],"type":"Point"},"properties":{"a":"41.215078","cty":"LUZERNE","id":8807429,"mun":"HANOVER TWP","nc":0,"o":"-75.884566"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.422349,41.001807],"type":"Point"},"properties":{"a":"41.001807","cty":"COLUMBIA","id":8809930,"mun":"SCOTT TWP","nc":4,"o":"-76.422349"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.528041,40.57709],"type":"Point"},"properties":{"a":"40.57709","cty":"LEHIGH","id":8810004,"mun":"SOUTH WHITEHALL TWP","nc":3,"o":"-75.528041"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.269457,41.024611],"type":"Point"},"properties":{"a":"41.024611","cty":"MONROE","id":8810026,"mun":"POCONO TWP","nc":4,"o":"-75.269457"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.883074,40.737688],"type":"Point"},"properties":{"a":"40.737688","cty":"SCHUYLKILL","id":8810027,"mun":"WEST PENN TWP","nc":1,"o":"-75.883074"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.30138,40.63992],"type":"Point"},"properties":{"a":"40.63992","cty":"NORTHAMPTON","hp":true,"id":8810038,"mun":"BETHLEHEM TWP","nc":13,"ne":{"a":"40.64122","o":"-75.29898"},"o":"-75.30138","sw":{"a":"40.63862","o":"-75.30377"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.31255,40.63378],"type":"Point"},"properties":{"a":"40.63378","cty":"NORTHAMPTON","hp":true,"id":8810039,"mun":"BETHLEHEM TWP","nc":46,"ne":{"a":"40.63567","o":"-75.30674"},"o":"-75.31255","sw":{"a":"40.63189","o":"-75.31837"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.259318,41.582508],"type":"Point"},"properties":{"a":"41.582508","cty":"WAYNE","id":8810063,"mun":"HONESDALE BORO","nc":26,"o":"-75.259318"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.686847,41.393661],"type":"Point"},"properties":{"a":"41.393661","cty":"LACKAWANNA","id":8810064,"mun":"TAYLOR BORO","nc":4,"o":"-75.686847"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.373878,41.200283],"type":"Point"},"properties":{"a":"41.200283","cty":"MONROE","id":8810066,"mun":"COOLBAUGH TWP","nc":3,"o":"-75.373878"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.300742,40.683185],"type":"Point"},"properties":{"a":"40.683185","cty":"SCHUYLKILL","id":8810082,"mun":"CASS TWP","nc":1,"o":"-76.300742"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.19374,40.86668],"type":"Point"},"properties":{"a":"40.86668","cty":"UNION","hp":true,"id":8810084,"mun":"HARTLEY TWP","nc":8,"ne":{"a":"40.86807","o":"-77.1919"},"o":"-77.19374","sw":{"a":"40.86529","o":"-77.19557"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.607349,40.962208],"type":"Point"},"properties":{"a":"40.962208","cty":"MONTOUR","id":8810090,"mun":"DANVILLE BORO","nc":1,"o":"-76.607349"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.437635,40.613695],"type":"Point"},"properties":{"a":"40.613695","cty":"LEHIGH","id":8810093,"mun":"ALLENTOWN","nc":4,"o":"-75.437635"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.307333,40.542053],"type":"Point"},"properties":{"a":"40.542053","cty":"SCHUYLKILL","id":8810095,"mun":"WASHINGTON TWP","nc":4,"o":"-76.307333"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.4302,41.08701],"type":"Point"},"properties":{"a":"41.08701","cty":"COLUMBIA","hp":true,"id":8810109,"mun":"ORANGE TWP","nc":877,"ne":{"a":"41.11959","o":"-76.39697"},"o":"-76.4302","sw":{"a":"41.05444","o":"-76.46344"}},"type":"Feature"}
 ]}
