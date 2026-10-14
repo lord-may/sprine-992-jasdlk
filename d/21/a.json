@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.220743,44.112631],"type":"Point"},"properties":{"EstRest":"10/14/2026 5:30:00 PM","Outages":1,"cause":"","county":"ANDROSCOGGIN","crewstatus":"DISP ","customers":70,"hamlet":"AUBURN","incidentnumber":"0043FP","incidents":1,"level":"street","opco":"CMP","street":"NORTHERN AVE","town":"AUBURN"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.220743,44.112631],"type":"Point"},"properties":{"EstRest":"10/14/2026 5:30:00 PM","Outages":1,"county":"ANDROSCOGGIN","customers":59602,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+
 ]}
