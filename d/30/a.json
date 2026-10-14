@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-72.97493,44.485542],[-72.974867,44.485549],[-72.970797,44.487253],[-72.975801,44.488586],[-72.975882,44.488561],[-72.97652,44.488093],[-72.976807,44.486901],[-72.97493,44.485542]]],"type":"Polygon"},{"coordinates":[-72.9744,44.487125],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"UNKNOWN","comment":"Crews have been dispached, Cause being assessed","crewAssigned":true,"estimateTime":1792020600000,"id":"849235","nbrOut":21,"timeOff":1792009260000},"type":"Feature"}
 ]}
