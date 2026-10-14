@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-71.30285,42.53973],[-71.30243,42.53979],[-71.30136,42.54073],[-71.30173,42.542],[-71.30209,42.54308],[-71.3023,42.54362],[-71.30254,42.54402],[-71.30307,42.54487],[-71.30322,42.54437],[-71.30353,42.53992],[-71.30285,42.53973]]],"type":"Polygon"},{"coordinates":[-71.30262,42.54182],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"Fallen Tree","ES-ES":"Árbol Caído","orig":"Tree - Fell"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Assigned","ES-ES":"Asignado","orig":"Assigned"},"cust_a":{"val":34},"etr":"2026-10-14T12:30:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-10-14T07:13:03Z","title":"Area Outage","town":"Billerica"},"type":"Feature"}
+
 ]}
