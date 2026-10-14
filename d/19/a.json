@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-74.890216,41.489094],"type":"Point"},"properties":{"EstRest":"10/14/2026 4:00:00 AM","Outages":17,"county":"SULLIVAN","customers":50281,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-74.892954,41.486553],"type":"Point"},"properties":{"EstRest":"10/14/2026 4:00:00 AM","Outages":10,"cause":"","county":"SULLIVAN","crewstatus":"DISP ","customers":24,"hamlet":"BARRYVILLE","incidentnumber":"0114OY","incidents":1,"level":"street","opco":"NYSEG","street":"SPLIT ROCK RD","town":"HIGHLAND T"},"type":"Feature"}
 ]}
