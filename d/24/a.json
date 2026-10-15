@@ -5,5 +5,8 @@
 {"geometry":{"coordinates":[-71.299302,41.527749],"type":"Point"},"properties":{"a":"41.527749","cty":"NEWPORT","id":20261066491,"mun":"MIDDLETOWN","nc":1,"o":"-71.299302"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.296361,41.52667],"type":"Point"},"properties":{"a":"41.52667","cty":"NEWPORT","id":20261066492,"mun":"MIDDLETOWN","nc":1,"o":"-71.296361"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.370991,41.809626],"type":"Point"},"properties":{"a":"41.809626","cty":"PROVIDENCE","id":20261066494,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.370991"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.4305,41.807254],"type":"Point"},"properties":{"a":"41.807254","cty":"PROVIDENCE","id":20261066496,"mun":"PROVIDENCE","nc":1,"o":"-71.4305"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.4305,41.807254],"type":"Point"},"properties":{"a":"41.807254","cty":"PROVIDENCE","id":20261066496,"mun":"PROVIDENCE","nc":1,"o":"-71.4305"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.499313,42.006471],"type":"Point"},"properties":{"a":"42.006471","cty":"PROVIDENCE","id":20261066497,"mun":"WOONSOCKET","nc":1,"o":"-71.499313"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.442262,41.586262],"type":"Point"},"properties":{"a":"41.586262","cty":"WASHINGTON","id":20261066499,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.442262"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.422024,41.636619],"type":"Point"},"properties":{"a":"41.636619","cty":"WASHINGTON","id":20261066500,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.422024"},"type":"Feature"}
 ]}

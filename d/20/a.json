@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.652714,43.169416],"type":"Point"},"properties":{"EstRest":"10/15/2026 9:15:00 AM","Outages":5,"cause":"","county":"CAYUGA","crewstatus":"DISP ","customers":34,"hamlet":"CATO","incidentnumber":"0114ZC","incidents":1,"level":"street","opco":"RGE","street":"ROUTE 38","town":"VICTORY"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.655337,43.176282],"type":"Point"},"properties":{"EstRest":"10/15/2026 9:15:00 AM","Outages":13,"county":"CAYUGA","customers":6136,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.226739,42.959195],"type":"Point"},"properties":{"EstRest":"","Outages":2,"cause":"","county":"ONTARIO","crewstatus":"DISP ","customers":25,"hamlet":"SHORTSVILLE","incidentnumber":"00ZCG2","incidents":1,"level":"street","opco":"RGE","street":"WATER ST","town":"MANCHSTR V SHORTSVILLE"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.226739,42.959195],"type":"Point"},"properties":{"EstRest":"","Outages":2,"county":"ONTARIO","customers":35916,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}

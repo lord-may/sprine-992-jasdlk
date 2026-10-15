@@ -8,12 +8,18 @@
 {"geometry":{"coordinates":[-75.773039,41.031916],"type":"Point"},"properties":{"a":"41.031916","cty":"LUZERNE","id":8810221,"mun":"FOSTER TWP","nc":1,"o":"-75.773039"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.87983,40.72404],"type":"Point"},"properties":{"a":"40.72404","cty":"SNYDER","hp":true,"id":8810227,"mun":"UNION TWP","nc":38,"ne":{"a":"40.72952","o":"-76.86084"},"o":"-76.87983","sw":{"a":"40.71857","o":"-76.89882"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.09241,41.68794],"type":"Point"},"properties":{"a":"41.68794","cty":"WAYNE","hp":true,"id":8810230,"mun":"DAMASCUS TWP","nc":19,"ne":{"a":"41.69049","o":"-75.08733"},"o":"-75.09241","sw":{"a":"41.68539","o":"-75.0975"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.860887,41.238857],"type":"Point"},"properties":{"a":"41.238857","cty":"LYCOMING","id":8810243,"mun":"FAIRFIELD TWP","nc":7,"o":"-76.860887"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.981966,39.960536],"type":"Point"},"properties":{"a":"39.960536","cty":"CHESTER","id":8810244,"mun":"WEST SADSBURY TWP","nc":2,"o":"-75.981966"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.258807,41.577385],"type":"Point"},"properties":{"a":"41.577385","cty":"WAYNE","id":8810252,"mun":"HONESDALE BORO","nc":1,"o":"-75.258807"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.202967,39.976527],"type":"Point"},"properties":{"a":"39.976527","cty":"LANCASTER","id":8810258,"mun":"STRASBURG TWP","nc":3,"o":"-76.202967"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.813602,40.294722],"type":"Point"},"properties":{"a":"40.294722","cty":"DAUPHIN","id":8810259,"mun":"LOWER PAXTON TWP","nc":4,"o":"-76.813602"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.0412,41.309414],"type":"Point"},"properties":{"a":"41.309414","cty":"PIKE","id":8810260,"mun":"BLOOMING GROVE TWP","nc":2,"o":"-75.0412"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.59586,40.263412],"type":"Point"},"properties":{"a":"40.263412","cty":"DAUPHIN","id":8810262,"mun":"DERRY TWP","nc":3,"o":"-76.59586"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.098893,41.685316],"type":"Point"},"properties":{"a":"41.685316","cty":"WAYNE","id":8810263,"mun":"DAMASCUS TWP","nc":1,"o":"-75.098893"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.59586,40.263412],"type":"Point"},"properties":{"a":"40.263412","cty":"DAUPHIN","id":8810262,"mun":"DERRY TWP","nc":1,"o":"-76.59586"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.149334,40.174736],"type":"Point"},"properties":{"a":"40.174736","cty":"LANCASTER","id":8810264,"mun":"EPHRATA TWP","nc":1,"o":"-76.149334"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.76716,40.201154],"type":"Point"},"properties":{"a":"40.201154","cty":"DAUPHIN","id":8810265,"mun":"LOWER SWATARA TWP","nc":10,"o":"-76.76716"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.96391,40.795654],"type":"Point"},"properties":{"a":"40.795654","cty":"SCHUYLKILL","id":8810266,"mun":"TAMAQUA BORO","nc":1,"o":"-75.96391"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.095348,40.654537],"type":"Point"},"properties":{"a":"40.654537","cty":"SCHUYLKILL","id":8810268,"mun":"ORWIGSBURG BORO","nc":36,"o":"-76.095348"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.423527,40.110393],"type":"Point"},"properties":{"a":"40.110393","cty":"LANCASTER","id":8810269,"mun":"EAST HEMPFIELD TWP","nc":3,"o":"-76.423527"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.047536,40.982567],"type":"Point"},"properties":{"a":"40.982567","cty":"UNION","id":8810271,"mun":"WEST BUFFALO TWP","nc":2,"o":"-77.047536"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.309257,40.035817],"type":"Point"},"properties":{"a":"40.035817","cty":"LANCASTER","id":8810272,"mun":"LANCASTER","nc":1,"o":"-76.309257"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.469065,40.609783],"type":"Point"},"properties":{"a":"40.609783","cty":"LEHIGH","id":8810274,"mun":"ALLENTOWN","nc":1,"o":"-75.469065"},"type":"Feature"}
 ]}

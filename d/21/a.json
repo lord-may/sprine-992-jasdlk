@@ -1,5 +1,8 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.370973,43.583661],"type":"Point"},"properties":{"EstRest":"10/15/2026 10:00:00 AM","Outages":93,"county":"CUMBERLAND","customers":182407,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.149116,43.83508],"type":"Point"},"properties":{"EstRest":"10/15/2026 10:45:00 AM","Outages":76,"county":"CUMBERLAND","customers":182407,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.308317,45.065741],"type":"Point"},"properties":{"EstRest":"10/15/2026 10:45:00 AM","Outages":11,"cause":"","county":"FRANKLIN","crewstatus":"ENRT ","customers":40,"hamlet":"CARRABASSETT VALLEY","incidentnumber":"0043JF","incidents":1,"level":"street","opco":"CMP","street":"SNOWBROOK VL","town":"CARRABASSETT VALLEY"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.310442,45.067548],"type":"Point"},"properties":{"EstRest":"10/15/2026 10:45:00 AM","Outages":133,"county":"FRANKLIN","customers":24700,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.803542,44.350091],"type":"Point"},"properties":{"EstRest":"10/15/2026 10:30:00 AM","Outages":401,"county":"KENNEBEC","customers":75925,"incidents":3,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.799078,43.605392],"type":"Point"},"properties":{"EstRest":"10/15/2026 10:30:00 AM","Outages":56,"county":"YORK","customers":132723,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.793183,43.596805],"type":"Point"},"properties":{"EstRest":"10/15/2026 10:45:00 AM","Outages":15,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.798802,43.604787],"type":"Point"},"properties":{"EstRest":"10/15/2026 10:45:00 AM","Outages":8,"cause":"","county":"YORK","crewstatus":"ENRT ","customers":8,"hamlet":"WATERBORO","incidentnumber":"0043JG","incidents":1,"level":"street","opco":"CMP","street":"BUFF BROOK RD","town":"WATERBORO"},"type":"Feature"}
 ]}
