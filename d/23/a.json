@@ -8,5 +8,6 @@
 {"geometry":{"coordinates":[-77.164653,41.078204],"type":"Point"},"properties":{"a":"41.078204","cty":"LYCOMING","id":8810220,"mun":"WASHINGTON TWP","nc":1,"o":"-77.164653"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.773039,41.031916],"type":"Point"},"properties":{"a":"41.031916","cty":"LUZERNE","id":8810221,"mun":"FOSTER TWP","nc":1,"o":"-75.773039"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.87983,40.71396],"type":"Point"},"properties":{"a":"40.71396","cty":"SNYDER","hp":true,"id":8810227,"mun":"UNION TWP","nc":79,"ne":{"a":"40.72952","o":"-76.86084"},"o":"-76.87983","sw":{"a":"40.69839","o":"-76.89882"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.088217,41.688661],"type":"Point"},"properties":{"a":"41.688661","cty":"WAYNE","id":8810230,"mun":"DAMASCUS TWP","nc":1,"o":"-75.088217"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.088217,41.688661],"type":"Point"},"properties":{"a":"41.688661","cty":"WAYNE","id":8810230,"mun":"DAMASCUS TWP","nc":1,"o":"-75.088217"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.114971,41.244929],"type":"Point"},"properties":{"a":"41.244929","cty":"LYCOMING","id":8810236,"mun":"WOODWARD TWP","nc":2,"o":"-77.114971"},"type":"Feature"}
 ]}
