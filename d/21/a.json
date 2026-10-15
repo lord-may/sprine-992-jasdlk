@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-70.033408,44.387887],"type":"Point"},"properties":{"EstRest":"10/15/2026 9:15:00 AM","Outages":420,"county":"KENNEBEC","customers":75925,"incidents":16,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.309555,45.26632],"type":"Point"},"properties":{"EstRest":"","Outages":141,"county":"PISCATAQUIS","customers":10243,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
