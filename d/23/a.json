@@ -4,5 +4,5 @@
 {"geometry":{"coordinates":[-76.49295,41.04833],"type":"Point"},"properties":{"a":"41.04833","cty":"COLUMBIA","hp":true,"id":8810169,"mun":"HEMLOCK TWP","nc":8,"ne":{"a":"41.05049","o":"-76.48982"},"o":"-76.49295","sw":{"a":"41.04617","o":"-76.49608"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.967065,41.249149],"type":"Point"},"properties":{"a":"41.249149","cty":"LYCOMING","id":8810170,"mun":"LOYALSOCK TWP","nc":4,"o":"-76.967065"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.06131,41.30935],"type":"Point"},"properties":{"a":"41.30935","cty":"PIKE","hp":true,"id":8810174,"mun":"BLOOMING GROVE TWP","nc":59,"ne":{"a":"41.31417","o":"-75.05662"},"o":"-75.06131","sw":{"a":"41.30454","o":"-75.06599"}},"type":"Feature"},
-{"geometry":{"coordinates":[-77.04526,40.25875],"type":"Point"},"properties":{"a":"40.25875","cty":"CUMBERLAND","hp":true,"id":8810179,"mun":"SILVER SPRING TWP","nc":203,"ne":{"a":"40.26708","o":"-77.03194"},"o":"-77.04526","sw":{"a":"40.25042","o":"-77.05857"}},"type":"Feature"}
+{"geometry":{"coordinates":[-77.04698,40.25529],"type":"Point"},"properties":{"a":"40.25529","cty":"NA","hp":true,"id":8810179,"mun":"NA","nc":141,"ne":{"a":"40.26016","o":"-77.03752"},"o":"-77.04698","sw":{"a":"40.25042","o":"-77.05645"}},"type":"Feature"}
 ]}
