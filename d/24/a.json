@@ -1,9 +1,9 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.414136,41.83463],"type":"Point"},"properties":{"a":"41.83463","cty":"PROVIDENCE","id":20261066478,"mun":"PROVIDENCE","nc":1,"o":"-71.414136"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.400573,41.784814],"type":"Point"},"properties":{"a":"41.784814","cty":"PROVIDENCE","id":20261066487,"mun":"CRANSTON","nc":1,"o":"-71.400573"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.771064,41.918773],"type":"Point"},"properties":{"a":"41.918773","cty":"PROVIDENCE","id":20261066488,"mun":"GLOCESTER","nc":1,"o":"-71.771064"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.298413,41.527533],"type":"Point"},"properties":{"a":"41.527533","cty":"NEWPORT","id":20261066489,"mun":"MIDDLETOWN","nc":6,"o":"-71.298413"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.297864,41.527384],"type":"Point"},"properties":{"a":"41.527384","cty":"NEWPORT","id":20261066490,"mun":"MIDDLETOWN","nc":1,"o":"-71.297864"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.299302,41.527749],"type":"Point"},"properties":{"a":"41.527749","cty":"NEWPORT","id":20261066491,"mun":"MIDDLETOWN","nc":1,"o":"-71.299302"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.296361,41.52667],"type":"Point"},"properties":{"a":"41.52667","cty":"NEWPORT","id":20261066492,"mun":"MIDDLETOWN","nc":1,"o":"-71.296361"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.296361,41.52667],"type":"Point"},"properties":{"a":"41.52667","cty":"NEWPORT","id":20261066492,"mun":"MIDDLETOWN","nc":1,"o":"-71.296361"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.370991,41.809626],"type":"Point"},"properties":{"a":"41.809626","cty":"PROVIDENCE","id":20261066494,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.370991"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.4305,41.807254],"type":"Point"},"properties":{"a":"41.807254","cty":"PROVIDENCE","id":20261066496,"mun":"PROVIDENCE","nc":1,"o":"-71.4305"},"type":"Feature"}
 ]}

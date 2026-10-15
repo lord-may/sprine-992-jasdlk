@@ -1,8 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.149116,43.83508],"type":"Point"},"properties":{"EstRest":"10/15/2026 10:00:00 AM","Outages":93,"county":"CUMBERLAND","customers":182407,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.941382,44.302149],"type":"Point"},"properties":{"EstRest":"10/15/2026 9:15:00 AM","Outages":394,"county":"KENNEBEC","customers":75925,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.481569,44.476713],"type":"Point"},"properties":{"EstRest":"10/15/2026 9:15:00 AM","Outages":1,"cause":"","county":"OXFORD","crewstatus":"ONST ","customers":12,"hamlet":"PERU","incidentnumber":"0043IH","incidents":1,"level":"street","opco":"CMP","street":"LACROIX RD","town":"PERU"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.481569,44.476713],"type":"Point"},"properties":{"EstRest":"10/15/2026 9:15:00 AM","Outages":1,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.623935,43.268105],"type":"Point"},"properties":{"EstRest":"10/15/2026 9:30:00 AM","Outages":55,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.62563,43.26178],"type":"Point"},"properties":{"EstRest":"10/15/2026 9:30:00 AM","Outages":9,"cause":"","county":"YORK","crewstatus":"ONST ","customers":9,"hamlet":"OGUNQUIT","incidentnumber":"0043IU","incidents":1,"level":"street","opco":"CMP","street":"SONOMA WOODS LN","town":"OGUNQUIT"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.370973,43.583661],"type":"Point"},"properties":{"EstRest":"10/15/2026 10:00:00 AM","Outages":93,"county":"CUMBERLAND","customers":182407,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.803542,44.350091],"type":"Point"},"properties":{"EstRest":"10/15/2026 10:30:00 AM","Outages":401,"county":"KENNEBEC","customers":75925,"incidents":3,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.799078,43.605392],"type":"Point"},"properties":{"EstRest":"10/15/2026 10:30:00 AM","Outages":56,"county":"YORK","customers":132723,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
