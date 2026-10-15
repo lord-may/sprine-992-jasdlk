@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.363873,41.801591],"type":"Point"},"properties":{"a":"41.801591","cty":"PROVIDENCE","id":20261066507,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.363873"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.448901,41.777105],"type":"Point"},"properties":{"a":"41.777105","cty":"PROVIDENCE","id":20261066553,"mun":"CRANSTON","nc":1,"o":"-71.448901"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.417297,41.890466],"type":"Point"},"properties":{"a":"41.890466","cty":"PROVIDENCE","id":20261066554,"mun":"LINCOLN","nc":1,"o":"-71.417297"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.449752,41.773716],"type":"Point"},"properties":{"a":"41.773716","cty":"PROVIDENCE","id":20261066555,"mun":"CRANSTON","nc":1,"o":"-71.449752"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.42624,41.786069],"type":"Point"},"properties":{"a":"41.786069","cty":"PROVIDENCE","id":20261066557,"mun":"CRANSTON","nc":1,"o":"-71.42624"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.257355,41.710197],"type":"Point"},"properties":{"a":"41.710197","cty":"BRISTOL","id":20261066558,"mun":"BRISTOL","nc":1,"o":"-71.257355"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.189377,41.664791],"type":"Point"},"properties":{"a":"41.664791","cty":"NEWPORT","id":20261066560,"mun":"TIVERTON","nc":1,"o":"-71.189377"},"type":"Feature"}
 ]}
