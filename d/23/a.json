@@ -1,7 +1,8 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.500051,40.565625],"type":"Point"},"properties":{"a":"40.565625","cty":"LEHIGH","id":8810503,"mun":"NA","nc":1,"o":"-75.500051"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.284108,40.272998],"type":"Point"},"properties":{"a":"40.272998","cty":"MONTGOMERY","id":8810510,"mun":"HATFIELD TWP","nc":5,"o":"-75.284108"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.398794,40.174644],"type":"Point"},"properties":{"a":"40.174644","cty":"CUMBERLAND","id":8810528,"mun":"NEWVILLE BORO","nc":13,"o":"-77.398794"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.56752,40.626748],"type":"Point"},"properties":{"a":"40.626748","cty":"LEHIGH","id":8810531,"mun":"SOUTH WHITEHALL TWP","nc":2,"o":"-75.56752"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.479233,40.029535],"type":"Point"},"properties":{"a":"40.029535","cty":"LANCASTER","id":8810546,"mun":"WEST HEMPFIELD TWP","nc":3,"o":"-76.479233"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.213458,40.819988],"type":"Point"},"properties":{"a":"40.819988","cty":"SCHUYLKILL","id":8810565,"mun":"SHENANDOAH BORO","nc":1,"o":"-76.213458"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.422037,40.660916],"type":"Point"},"properties":{"a":"40.660916","cty":"LEHIGH","id":8810566,"mun":"HANOVER TWP","nc":9,"o":"-75.422037"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.487217,40.600095],"type":"Point"},"properties":{"a":"40.600095","cty":"LEHIGH","id":8810569,"mun":"ALLENTOWN","nc":1,"o":"-75.487217"},"type":"Feature"}
 ]}

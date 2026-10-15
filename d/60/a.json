@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-79.90069,40.45117],"type":"Point"},"properties":{"additionalProperties":[{"property":"jobNumber","value":"Job.26.10.15.00130"},{"property":"zips","value":["15208"]},{"property":"counties","value":["ALLEGHENY"]},{"property":"municipalities","value":["PITTSBURGH"]}],"cause":"Wire Damage","etrTime":1792117800000,"id":2234180,"identifier":"Job.26.10.15.00130_6ad1325f90bd51777e907313","lastUpdatedTime":1792099818000,"latitude":40.45117,"longitude":-79.90069,"numPeople":2,"startTime":1792094814000,"status":"Additional Crews Needed","title":"Outage"},"type":"Feature"}
+
 ]}
