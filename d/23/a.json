@@ -1,12 +1,14 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-77.10285,41.25462],"type":"Point"},"properties":{"a":"41.25462","cty":"LYCOMING","hp":true,"id":8810208,"mun":"WILLIAMSPORT","nc":699,"ne":{"a":"41.2758","o":"-77.07489"},"o":"-77.10285","sw":{"a":"41.23344","o":"-77.13082"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.96108,40.68097],"type":"Point"},"properties":{"a":"40.68097","cty":"SNYDER","hp":true,"id":8810212,"mun":"PERRY TWP","nc":5,"ne":{"a":"40.68259","o":"-76.95548"},"o":"-76.96108","sw":{"a":"40.67935","o":"-76.96667"}},"type":"Feature"},
-{"geometry":{"coordinates":[-77.05281,41.241199],"type":"Point"},"properties":{"a":"41.241199","cty":"LYCOMING","id":8810213,"mun":"WILLIAMSPORT","nc":15,"o":"-77.05281"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.728337,40.380342],"type":"Point"},"properties":{"a":"40.380342","cty":"DAUPHIN","id":8810214,"mun":"WEST HANOVER TWP","nc":1,"o":"-76.728337"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.190555,41.176262],"type":"Point"},"properties":{"a":"41.176262","cty":"LYCOMING","id":8810216,"mun":"NIPPENOSE TWP","nc":3,"o":"-77.190555"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.842046,40.333519],"type":"Point"},"properties":{"a":"40.333519","cty":"DAUPHIN","id":8810217,"mun":"LOWER PAXTON TWP","nc":1,"o":"-76.842046"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.572613,41.159584],"type":"Point"},"properties":{"a":"41.159584","cty":"MONROE","id":8810218,"mun":"COOLBAUGH TWP","nc":1,"o":"-75.572613"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.012471,40.218214],"type":"Point"},"properties":{"a":"40.218214","cty":"CUMBERLAND","id":8810219,"mun":"MECHANICSBURG BORO","nc":1,"o":"-77.012471"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.164653,41.078204],"type":"Point"},"properties":{"a":"41.078204","cty":"LYCOMING","id":8810220,"mun":"WASHINGTON TWP","nc":1,"o":"-77.164653"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.773039,41.031916],"type":"Point"},"properties":{"a":"41.031916","cty":"LUZERNE","id":8810221,"mun":"FOSTER TWP","nc":1,"o":"-75.773039"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.773039,41.031916],"type":"Point"},"properties":{"a":"41.031916","cty":"LUZERNE","id":8810221,"mun":"FOSTER TWP","nc":1,"o":"-75.773039"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.870572,40.725803],"type":"Point"},"properties":{"a":"40.725803","cty":"SNYDER","id":8810222,"mun":"UNION TWP","nc":2,"o":"-76.870572"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.890433,40.727094],"type":"Point"},"properties":{"a":"40.727094","cty":"SNYDER","id":8810223,"mun":"UNION TWP","nc":2,"o":"-76.890433"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.860842,40.723793],"type":"Point"},"properties":{"a":"40.723793","cty":"SNYDER","id":8810224,"mun":"UNION TWP","nc":1,"o":"-76.860842"},"type":"Feature"}
 ]}
