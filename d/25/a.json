@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-71.931372,44.38266],"type":"Point"},"properties":{"active":true,"affectingCustomers":true,"cause":0,"county":"Caledonia","crew_name":"","customers_affected":22,"customers_affected_label":"22 Customers","device":"FUSE","has_etor":0,"incident_id":1015344,"status":"CREATED","street":"REMICK RD","town":"Waterford","trouble":"NO_POWER"},"type":"Feature"},
+{"geometry":{"coordinates":[-72.602119,43.908914],"type":"Point"},"properties":{"active":true,"affectingCustomers":true,"cause":0,"county":"Orange","crew_name":",ROYA-STEARNS","customers_affected":26,"customers_affected_label":"26 Customers","device":"DYNAMIC_PROTECTIVE_DEVICE","etor":"2026-10-15T05:00-04:00","has_etor":1,"incident_id":1015347,"status":"CREW_ASSIGNED","street":"EAST BETHEL RD","town":"Randolph","trouble":"NO_POWER"},"type":"Feature"}
 ]}
