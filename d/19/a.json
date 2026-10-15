@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.445486,42.117449],"type":"Point"},"properties":{"EstRest":"","Outages":1,"cause":"","county":"BROOME","crewstatus":"DISP ","customers":36,"hamlet":"DEPOSIT","incidentnumber":"0114PM","incidents":1,"level":"street","opco":"NYSEG","street":"BIG HOLLOW RD","town":"SANFORD T"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.445486,42.117449],"type":"Point"},"properties":{"EstRest":"","Outages":1,"county":"BROOME","customers":91444,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.431694,42.320794],"type":"Point"},"properties":{"EstRest":"10/15/2026 4:00:00 AM","Outages":2,"cause":"","county":"TOMPKINS","crewstatus":"DISP ","customers":7,"hamlet":"WILLSEYVILLE","incidentnumber":"0114YS","incidents":1,"level":"street","opco":"NYSEG","street":"TRAVOR RD","town":"DANBY T"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.431694,42.320794],"type":"Point"},"properties":{"EstRest":"10/15/2026 4:00:00 AM","Outages":2,"cause":"","county":"TOMPKINS","crewstatus":"ONST ","customers":7,"hamlet":"WILLSEYVILLE","incidentnumber":"0114YS","incidents":1,"level":"street","opco":"NYSEG","street":"TRAVOR RD","town":"DANBY T"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.431694,42.320794],"type":"Point"},"properties":{"EstRest":"10/15/2026 4:00:00 AM","Outages":2,"county":"TOMPKINS","customers":49504,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
