@@ -1,6 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.800912,42.107001],"type":"Point"},"properties":{"EstRest":"10/15/2026 5:45:00 PM","Outages":1,"cause":"System Upgrade","county":"CHEMUNG","crewstatus":"ONST ","customers":114,"hamlet":"ELMIRA","incidentnumber":"011560","incidents":1,"level":"street","opco":"NYSEG","street":"SULLIVAN ST","town":"ELMIRA C"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.800912,42.107001],"type":"Point"},"properties":{"EstRest":"10/15/2026 5:45:00 PM","Outages":1,"county":"CHEMUNG","customers":39910,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.557158,41.37386],"type":"Point"},"properties":{"EstRest":"10/15/2026 5:50:00 PM","Outages":165,"county":"PUTNAM","customers":39572,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.559141,41.368496],"type":"Point"},"properties":{"EstRest":"10/15/2026 5:50:00 PM","Outages":35,"cause":"","county":"PUTNAM","crewstatus":"ONST ","customers":48,"hamlet":"BREWSTER","incidentnumber":"011566","incidents":1,"level":"street","opco":"NYSEG","street":"DINGLE RIDGE RD","town":"SOUTHEAST T"},"type":"Feature"}
+
 ]}
