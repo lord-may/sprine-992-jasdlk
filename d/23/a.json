@@ -21,5 +21,14 @@
 {"geometry":{"coordinates":[-75.305268,41.041054],"type":"Point"},"properties":{"a":"41.041054","cty":"MONROE","id":8810278,"mun":"POCONO TWP","nc":1,"o":"-75.305268"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.869587,41.254058],"type":"Point"},"properties":{"a":"41.254058","cty":"LUZERNE","id":8810281,"mun":"WILKES-BARRE","nc":13,"o":"-75.869587"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.964693,40.530316],"type":"Point"},"properties":{"a":"40.530316","cty":"DAUPHIN","id":8810282,"mun":"UPPER PAXTON TWP","nc":3,"o":"-76.964693"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.45737,40.58589],"type":"Point"},"properties":{"a":"40.58589","cty":"LEHIGH","hp":true,"id":8810284,"mun":"ALLENTOWN","nc":133,"ne":{"a":"40.58753","o":"-75.45488"},"o":"-75.45737","sw":{"a":"40.58425","o":"-75.45986"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.45737,40.58589],"type":"Point"},"properties":{"a":"40.58589","cty":"LEHIGH","hp":true,"id":8810284,"mun":"ALLENTOWN","nc":133,"ne":{"a":"40.58753","o":"-75.45488"},"o":"-75.45737","sw":{"a":"40.58425","o":"-75.45986"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.49678,40.547328],"type":"Point"},"properties":{"a":"40.547328","cty":"LEHIGH","id":8810285,"mun":"NA","nc":2,"o":"-75.49678"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.439773,40.61412],"type":"Point"},"properties":{"a":"40.61412","cty":"LEHIGH","id":8810287,"mun":"ALLENTOWN","nc":5,"o":"-75.439773"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.290282,40.035],"type":"Point"},"properties":{"a":"40.035","cty":"LANCASTER","id":8810288,"mun":"LANCASTER","nc":29,"o":"-76.290282"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.469882,40.691559],"type":"Point"},"properties":{"a":"40.691559","cty":"NORTHAMPTON","id":8810289,"mun":"ALLEN TWP","nc":8,"o":"-75.469882"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.384835,41.070871],"type":"Point"},"properties":{"a":"41.070871","cty":"MONROE","id":8810291,"mun":"POCONO TWP","nc":2,"o":"-75.384835"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.086879,41.216197],"type":"Point"},"properties":{"a":"41.216197","cty":"LYCOMING","id":8810292,"mun":"SUSQUEHANNA TWP","nc":2,"o":"-77.086879"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.273899,40.277097],"type":"Point"},"properties":{"a":"40.277097","cty":"LEBANON","id":8810293,"mun":"HEIDELBERG TWP","nc":1,"o":"-76.273899"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.473924,41.061918],"type":"Point"},"properties":{"a":"41.061918","cty":"MONROE","id":8810294,"mun":"TUNKHANNOCK TWP","nc":2,"o":"-75.473924"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.441172,41.653352],"type":"Point"},"properties":{"a":"41.653352","cty":"WAYNE","id":8810296,"mun":"CLINTON TWP","nc":3,"o":"-75.441172"},"type":"Feature"}
 ]}
