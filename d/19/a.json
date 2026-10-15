@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-78.935662,42.381975],"type":"Point"},"properties":{"EstRest":"10/15/2026 9:10:00 PM","Outages":5,"cause":"","county":"CATTARAUGUS","crewstatus":"     ","customers":6,"hamlet":"GOWANDA","incidentnumber":"01156X","incidents":1,"level":"street","opco":"NYSEG","street":"NASH HILL RD","town":"PERSIA T"},"type":"Feature"},
+{"geometry":{"coordinates":[-78.935662,42.381975],"type":"Point"},"properties":{"EstRest":"10/15/2026 9:10:00 PM","Outages":5,"cause":"","county":"CATTARAUGUS","crewstatus":"DISP ","customers":6,"hamlet":"GOWANDA","incidentnumber":"01156X","incidents":1,"level":"street","opco":"NYSEG","street":"NASH HILL RD","town":"PERSIA T"},"type":"Feature"},
 {"geometry":{"coordinates":[-78.939781,42.366605],"type":"Point"},"properties":{"EstRest":"10/15/2026 9:10:00 PM","Outages":20,"county":"CATTARAUGUS","customers":4630,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
