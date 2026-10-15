@@ -1,6 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.376546,41.87233],"type":"Point"},"properties":{"a":"41.87233","cty":"PROVIDENCE","id":20261066632,"mun":"PAWTUCKET","nc":1,"o":"-71.376546"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.397007,41.84203],"type":"Point"},"properties":{"a":"41.84203","cty":"PROVIDENCE","id":20261066633,"mun":"PROVIDENCE","nc":1,"o":"-71.397007"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.707165,41.34123],"type":"Point"},"properties":{"a":"41.34123","cty":"WASHINGTON","id":20261066634,"mun":"CHARLESTOWN","nc":1,"o":"-71.707165"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.373862,41.885632],"type":"Point"},"properties":{"a":"41.885632","cty":"PROVIDENCE","id":20261066637,"mun":"PAWTUCKET","nc":1,"o":"-71.373862"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.707165,41.34123],"type":"Point"},"properties":{"a":"41.34123","cty":"WASHINGTON","id":20261066634,"mun":"CHARLESTOWN","nc":1,"o":"-71.707165"},"type":"Feature"}
 ]}
