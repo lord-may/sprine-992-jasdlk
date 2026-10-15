@@ -8,5 +8,8 @@
 {"geometry":{"coordinates":[-75.773039,41.031916],"type":"Point"},"properties":{"a":"41.031916","cty":"LUZERNE","id":8810221,"mun":"FOSTER TWP","nc":1,"o":"-75.773039"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.87983,40.71396],"type":"Point"},"properties":{"a":"40.71396","cty":"SNYDER","hp":true,"id":8810227,"mun":"UNION TWP","nc":79,"ne":{"a":"40.72952","o":"-76.86084"},"o":"-76.87983","sw":{"a":"40.69839","o":"-76.89882"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.088217,41.688661],"type":"Point"},"properties":{"a":"41.688661","cty":"WAYNE","id":8810230,"mun":"DAMASCUS TWP","nc":1,"o":"-75.088217"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.861476,41.238324],"type":"Point"},"properties":{"a":"41.238324","cty":"LYCOMING","id":8810238,"mun":"FAIRFIELD TWP","nc":3,"o":"-76.861476"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.860887,41.238857],"type":"Point"},"properties":{"a":"41.238857","cty":"LYCOMING","id":8810243,"mun":"FAIRFIELD TWP","nc":7,"o":"-76.860887"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.981966,39.960536],"type":"Point"},"properties":{"a":"39.960536","cty":"CHESTER","id":8810244,"mun":"WEST SADSBURY TWP","nc":2,"o":"-75.981966"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.872603,40.309174],"type":"Point"},"properties":{"a":"40.309174","cty":"DAUPHIN","id":8810245,"mun":"SUSQUEHANNA TWP","nc":1,"o":"-76.872603"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.093803,41.687869],"type":"Point"},"properties":{"a":"41.687869","cty":"WAYNE","id":8810246,"mun":"DAMASCUS TWP","nc":1,"o":"-75.093803"},"type":"Feature"}
 ]}
