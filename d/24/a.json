@@ -1,12 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.363873,41.801591],"type":"Point"},"properties":{"a":"41.801591","cty":"PROVIDENCE","id":20261066507,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.363873"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.43681,41.78532],"type":"Point"},"properties":{"a":"41.78532","cty":"PROVIDENCE","hp":true,"id":20261066511,"mun":"PROVIDENCE","nc":2899,"ne":{"a":"41.80145","o":"-71.41872"},"o":"-71.43681","sw":{"a":"41.76918","o":"-71.4549"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.581506,41.883169],"type":"Point"},"properties":{"a":"41.883169","cty":"PROVIDENCE","id":20261066530,"mun":"GLOCESTER","nc":1,"o":"-71.581506"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.415013,41.823121],"type":"Point"},"properties":{"a":"41.823121","cty":"PROVIDENCE","id":20261066534,"mun":"PROVIDENCE","nc":21,"o":"-71.415013"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.386935,41.812402],"type":"Point"},"properties":{"a":"41.812402","cty":"PROVIDENCE","id":20261066537,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.386935"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.429062,41.785342],"type":"Point"},"properties":{"a":"41.785342","cty":"PROVIDENCE","id":20261066538,"mun":"CRANSTON","nc":1,"o":"-71.429062"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.315846,41.466817],"type":"Point"},"properties":{"a":"41.466817","cty":"NEWPORT","id":20261066539,"mun":"NEWPORT","nc":1,"o":"-71.315846"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.422024,41.636619],"type":"Point"},"properties":{"a":"41.636619","cty":"WASHINGTON","id":20261066541,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.422024"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.439997,41.47806],"type":"Point"},"properties":{"a":"41.47806","cty":"WASHINGTON","id":20261066543,"mun":"NARRAGANSETT","nc":1,"o":"-71.439997"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.44025,41.782917],"type":"Point"},"properties":{"a":"41.782917","cty":"PROVIDENCE","id":20261066544,"mun":"CRANSTON","nc":1,"o":"-71.44025"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.4386,41.77854],"type":"Point"},"properties":{"a":"41.77854","cty":"PROVIDENCE","hp":true,"id":20261066511,"mun":"PROVIDENCE","nc":1624,"ne":{"a":"41.7879","o":"-71.4223"},"o":"-71.4386","sw":{"a":"41.76918","o":"-71.4549"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.453687,41.826723],"type":"Point"},"properties":{"a":"41.826723","cty":"PROVIDENCE","id":20261066550,"mun":"PROVIDENCE","nc":1,"o":"-71.453687"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.395673,41.68624],"type":"Point"},"properties":{"a":"41.68624","cty":"KENT","id":20261066551,"mun":"WARWICK","nc":1,"o":"-71.395673"},"type":"Feature"}
 ]}
