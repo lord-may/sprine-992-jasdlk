@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.884566,41.215078],"type":"Point"},"properties":{"a":"41.215078","cty":"LUZERNE","id":8810339,"mun":"HANOVER TWP","nc":0,"o":"-75.884566"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.500051,40.565625],"type":"Point"},"properties":{"a":"40.565625","cty":"LEHIGH","id":8810503,"mun":"NA","nc":1,"o":"-75.500051"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.024208,41.098357],"type":"Point"},"properties":{"a":"41.098357","cty":"LUZERNE","id":8810506,"mun":"DORRANCE TWP","nc":1,"o":"-76.024208"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.284108,40.272998],"type":"Point"},"properties":{"a":"40.272998","cty":"MONTGOMERY","id":8810510,"mun":"HATFIELD TWP","nc":5,"o":"-75.284108"},"type":"Feature"},
