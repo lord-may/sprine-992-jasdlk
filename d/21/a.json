@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-69.96472,43.877143],"type":"Point"},"properties":{"EstRest":"10/14/2026 10:15:00 PM","Outages":6,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.965544,43.879372],"type":"Point"},"properties":{"EstRest":"10/14/2026 10:15:00 PM","Outages":4,"cause":"","county":"CUMBERLAND","crewstatus":"DISP ","customers":19,"hamlet":"BRUNSWICK","incidentnumber":"0043GJ","incidents":1,"level":"street","opco":"CMP","street":"OLD PENNELLVILLE RD","town":"BRUNSWICK"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.965544,43.879372],"type":"Point"},"properties":{"EstRest":"10/14/2026 10:15:00 PM","Outages":4,"cause":"","county":"CUMBERLAND","crewstatus":"ONST ","customers":19,"hamlet":"BRUNSWICK","incidentnumber":"0043GJ","incidents":1,"level":"street","opco":"CMP","street":"OLD PENNELLVILLE RD","town":"BRUNSWICK"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.969648,44.287968],"type":"Point"},"properties":{"EstRest":"10/14/2026 11:00:00 PM","Outages":14,"cause":"","county":"KENNEBEC","crewstatus":"DISP ","customers":14,"hamlet":"WINTHROP","incidentnumber":"0043GM","incidents":1,"level":"street","opco":"CMP","street":"BRIGGS SHORE LN","town":"WINTHROP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.9724,44.286559],"type":"Point"},"properties":{"EstRest":"10/14/2026 11:00:00 PM","Outages":16,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
