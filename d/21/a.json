@@ -1,7 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.451119,44.686164],"type":"Point"},"properties":{"EstRest":"10/15/2026 7:15:00 AM","Outages":122,"county":"FRANKLIN","customers":24700,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.459892,44.693492],"type":"Point"},"properties":{"EstRest":"10/15/2026 7:15:00 AM","Outages":49,"cause":"Tree","county":"FRANKLIN","crewstatus":"DISP ","customers":49,"hamlet":"WELD","incidentnumber":"0043H1","incidents":1,"level":"street","opco":"CMP","street":"SWETT BROOK LN","town":"WELD"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.451119,44.686164],"type":"Point"},"properties":{"EstRest":"10/15/2026 7:30:00 AM","Outages":130,"county":"FRANKLIN","customers":24700,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.961468,44.316028],"type":"Point"},"properties":{"EstRest":"10/15/2026 7:15:00 AM","Outages":6,"cause":"","county":"KENNEBEC","crewstatus":"DISP ","customers":6,"hamlet":"WINTHROP","incidentnumber":"0043H6","incidents":1,"level":"street","opco":"CMP","street":"LEIGHTON PARK DR","town":"WINTHROP"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.961468,44.316028],"type":"Point"},"properties":{"EstRest":"10/15/2026 7:15:00 AM","Outages":6,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.309555,45.26632],"type":"Point"},"properties":{"EstRest":"","Outages":141,"county":"PISCATAQUIS","customers":10243,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.329151,45.257414],"type":"Point"},"properties":{"EstRest":"","Outages":141,"county":"PISCATAQUIS","customers":10243,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}

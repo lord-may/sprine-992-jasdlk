@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.848089,40.26652],"type":"Point"},"properties":{"a":"40.26652","cty":"DAUPHIN","id":8810190,"mun":"HARRISBURG","nc":8,"o":"-76.848089"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.10285,41.25462],"type":"Point"},"properties":{"a":"41.25462","cty":"LYCOMING","hp":true,"id":8810208,"mun":"WILLIAMSPORT","nc":699,"ne":{"a":"41.2758","o":"-77.07489"},"o":"-77.10285","sw":{"a":"41.23344","o":"-77.13082"}},"type":"Feature"}
 ]}
