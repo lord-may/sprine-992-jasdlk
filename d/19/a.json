@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.445486,42.117449],"type":"Point"},"properties":{"EstRest":"","Outages":1,"cause":"","county":"BROOME","crewstatus":"DISP ","customers":36,"hamlet":"DEPOSIT","incidentnumber":"0114PM","incidents":1,"level":"street","opco":"NYSEG","street":"BIG HOLLOW RD","town":"SANFORD T"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.445486,42.117449],"type":"Point"},"properties":{"EstRest":"","Outages":1,"county":"BROOME","customers":91444,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.445486,42.117449],"type":"Point"},"properties":{"EstRest":"","Outages":1,"county":"BROOME","customers":91444,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.449326,42.617004],"type":"Point"},"properties":{"EstRest":"10/15/2026 12:30:00 AM","Outages":2,"cause":"","county":"ONTARIO","crewstatus":"DISP ","customers":2,"hamlet":"NAPLES","incidentnumber":"0114YL","incidents":1,"level":"street","opco":"NYSEG","street":"OLD FRENCH HILL RD","town":"NAPLES T"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.454096,42.615768],"type":"Point"},"properties":{"EstRest":"10/15/2026 12:30:00 AM","Outages":17,"county":"ONTARIO","customers":18381,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
