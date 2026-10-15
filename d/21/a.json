@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.451119,44.686164],"type":"Point"},"properties":{"EstRest":"10/15/2026 7:30:00 AM","Outages":130,"county":"FRANKLIN","customers":24700,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.961468,44.316028],"type":"Point"},"properties":{"EstRest":"10/15/2026 7:15:00 AM","Outages":6,"cause":"","county":"KENNEBEC","crewstatus":"DISP ","customers":6,"hamlet":"WINTHROP","incidentnumber":"0043H6","incidents":1,"level":"street","opco":"CMP","street":"LEIGHTON PARK DR","town":"WINTHROP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.961468,44.316028],"type":"Point"},"properties":{"EstRest":"10/15/2026 7:15:00 AM","Outages":6,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.219605,45.086198],"type":"Point"},"properties":{"EstRest":"10/15/2026 7:30:00 AM","Outages":1,"cause":"Tree","county":"FRANKLIN","crewstatus":"DISP ","customers":1,"hamlet":"CARRABASSETT VALLEY","incidentnumber":"0043H8","incidents":1,"level":"street","opco":"CMP","street":"ROUTE 27","town":"CARRABASSETT VALLEY"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.219605,45.086198],"type":"Point"},"properties":{"EstRest":"10/15/2026 7:30:00 AM","Outages":8,"county":"FRANKLIN","customers":24700,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.309555,45.26632],"type":"Point"},"properties":{"EstRest":"","Outages":141,"county":"PISCATAQUIS","customers":10243,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
