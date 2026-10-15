@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.966858,41.249111],"type":"Point"},"properties":{"a":"41.249111","cty":"LYCOMING","id":8810155,"mun":"LOYALSOCK TWP","nc":1,"o":"-76.966858"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.967065,41.249149],"type":"Point"},"properties":{"a":"41.249149","cty":"LYCOMING","id":8810170,"mun":"LOYALSOCK TWP","nc":4,"o":"-76.967065"},"type":"Feature"}
+
 ]}
