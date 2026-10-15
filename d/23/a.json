@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.728337,40.380342],"type":"Point"},"properties":{"a":"40.380342","cty":"DAUPHIN","id":8810214,"mun":"WEST HANOVER TWP","nc":1,"o":"-76.728337"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.190555,41.176262],"type":"Point"},"properties":{"a":"41.176262","cty":"LYCOMING","id":8810216,"mun":"NIPPENOSE TWP","nc":3,"o":"-77.190555"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.842046,40.333519],"type":"Point"},"properties":{"a":"40.333519","cty":"DAUPHIN","id":8810217,"mun":"LOWER PAXTON TWP","nc":1,"o":"-76.842046"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.012471,40.218214],"type":"Point"},"properties":{"a":"40.218214","cty":"CUMBERLAND","id":8810219,"mun":"MECHANICSBURG BORO","nc":1,"o":"-77.012471"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.164653,41.078204],"type":"Point"},"properties":{"a":"41.078204","cty":"LYCOMING","id":8810220,"mun":"WASHINGTON TWP","nc":1,"o":"-77.164653"},"type":"Feature"},
@@ -28,7 +27,6 @@
 {"geometry":{"coordinates":[-75.384835,41.070871],"type":"Point"},"properties":{"a":"41.070871","cty":"MONROE","id":8810291,"mun":"POCONO TWP","nc":2,"o":"-75.384835"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.086879,41.216197],"type":"Point"},"properties":{"a":"41.216197","cty":"LYCOMING","id":8810292,"mun":"SUSQUEHANNA TWP","nc":2,"o":"-77.086879"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.273899,40.277097],"type":"Point"},"properties":{"a":"40.277097","cty":"LEBANON","id":8810293,"mun":"HEIDELBERG TWP","nc":1,"o":"-76.273899"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.473924,41.061918],"type":"Point"},"properties":{"a":"41.061918","cty":"MONROE","id":8810294,"mun":"TUNKHANNOCK TWP","nc":2,"o":"-75.473924"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.441172,41.653352],"type":"Point"},"properties":{"a":"41.653352","cty":"WAYNE","id":8810296,"mun":"CLINTON TWP","nc":3,"o":"-75.441172"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.218306,40.678419],"type":"Point"},"properties":{"a":"40.678419","cty":"SCHUYLKILL","id":8810297,"mun":"POTTSVILLE","nc":8,"o":"-76.218306"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.936703,40.492395],"type":"Point"},"properties":{"a":"40.492395","cty":"DAUPHIN","id":8810299,"mun":"HALIFAX TWP","nc":3,"o":"-76.936703"},"type":"Feature"},
@@ -40,5 +38,10 @@
 {"geometry":{"coordinates":[-76.014827,40.065537],"type":"Point"},"properties":{"a":"40.065537","cty":"LANCASTER","id":8810308,"mun":"SALISBURY TWP","nc":1,"o":"-76.014827"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.880514,41.220122],"type":"Point"},"properties":{"a":"41.220122","cty":"LUZERNE","id":8810309,"mun":"WILKES-BARRE TWP","nc":1,"o":"-75.880514"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.398317,40.161213],"type":"Point"},"properties":{"a":"40.161213","cty":"LANCASTER","id":8810310,"mun":"MANHEIM BORO","nc":1,"o":"-76.398317"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.45866,40.40768],"type":"Point"},"properties":{"a":"40.40768","cty":"BUCKS","id":8810311,"mun":"MILFORD TWP","nc":1,"o":"-75.45866"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.45866,40.40768],"type":"Point"},"properties":{"a":"40.40768","cty":"BUCKS","id":8810311,"mun":"MILFORD TWP","nc":1,"o":"-75.45866"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.334911,40.641326],"type":"Point"},"properties":{"a":"40.641326","cty":"NORTHAMPTON","id":8810312,"mun":"BETHLEHEM TWP","nc":11,"o":"-75.334911"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.643416,40.909577],"type":"Point"},"properties":{"a":"40.909577","cty":"NORTHUMBERLAND","id":8810313,"mun":"RUSH TWP","nc":1,"o":"-76.643416"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.803262,40.272747],"type":"Point"},"properties":{"a":"40.272747","cty":"DAUPHIN","id":8810314,"mun":"LOWER PAXTON TWP","nc":15,"o":"-76.803262"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.935574,40.336766],"type":"Point"},"properties":{"a":"40.336766","cty":"PERRY","id":8810315,"mun":"MARYSVILLE BORO","nc":2,"o":"-76.935574"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.58527,41.099711],"type":"Point"},"properties":{"a":"41.099711","cty":"MONROE","id":8810317,"mun":"TOBYHANNA TWP","nc":2,"o":"-75.58527"},"type":"Feature"}
 ]}

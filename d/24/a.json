@@ -1,9 +1,7 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.771064,41.918773],"type":"Point"},"properties":{"a":"41.918773","cty":"PROVIDENCE","id":20261066488,"mun":"GLOCESTER","nc":1,"o":"-71.771064"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.370991,41.809626],"type":"Point"},"properties":{"a":"41.809626","cty":"PROVIDENCE","id":20261066494,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.370991"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.4305,41.807254],"type":"Point"},"properties":{"a":"41.807254","cty":"PROVIDENCE","id":20261066496,"mun":"PROVIDENCE","nc":1,"o":"-71.4305"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.273423,41.663702],"type":"Point"},"properties":{"a":"41.663702","cty":"BRISTOL","id":20261066505,"mun":"BRISTOL","nc":1,"o":"-71.273423"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.391615,41.825078],"type":"Point"},"properties":{"a":"41.825078","cty":"PROVIDENCE","id":20261066506,"mun":"PROVIDENCE","nc":1,"o":"-71.391615"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.363873,41.801591],"type":"Point"},"properties":{"a":"41.801591","cty":"PROVIDENCE","id":20261066507,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.363873"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.260448,41.6667],"type":"Point"},"properties":{"a":"41.6667","cty":"BRISTOL","id":20261066508,"mun":"BRISTOL","nc":1,"o":"-71.260448"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.43681,41.78532],"type":"Point"},"properties":{"a":"41.78532","cty":"PROVIDENCE","hp":true,"id":20261066511,"mun":"PROVIDENCE","nc":2899,"ne":{"a":"41.80145","o":"-71.41872"},"o":"-71.43681","sw":{"a":"41.76918","o":"-71.4549"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.450718,41.781425],"type":"Point"},"properties":{"a":"41.781425","cty":"PROVIDENCE","id":20261066513,"mun":"CRANSTON","nc":12,"o":"-71.450718"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.422563,41.801697],"type":"Point"},"properties":{"a":"41.801697","cty":"PROVIDENCE","id":20261066515,"mun":"PROVIDENCE","nc":25,"o":"-71.422563"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.419102,41.799497],"type":"Point"},"properties":{"a":"41.799497","cty":"PROVIDENCE","id":20261066516,"mun":"PROVIDENCE","nc":35,"o":"-71.419102"},"type":"Feature"}
 ]}
