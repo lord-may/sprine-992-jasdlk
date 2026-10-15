@@ -1,7 +1,9 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.500051,40.565625],"type":"Point"},"properties":{"a":"40.565625","cty":"LEHIGH","id":8810503,"mun":"NA","nc":1,"o":"-75.500051"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.398794,40.174644],"type":"Point"},"properties":{"a":"40.174644","cty":"CUMBERLAND","id":8810528,"mun":"NEWVILLE BORO","nc":13,"o":"-77.398794"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.56752,40.626748],"type":"Point"},"properties":{"a":"40.626748","cty":"LEHIGH","id":8810531,"mun":"SOUTH WHITEHALL TWP","nc":2,"o":"-75.56752"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.213458,40.819988],"type":"Point"},"properties":{"a":"40.819988","cty":"SCHUYLKILL","id":8810565,"mun":"SHENANDOAH BORO","nc":1,"o":"-76.213458"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.422037,40.660916],"type":"Point"},"properties":{"a":"40.660916","cty":"LEHIGH","id":8810566,"mun":"HANOVER TWP","nc":9,"o":"-75.422037"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.422037,40.660916],"type":"Point"},"properties":{"a":"40.660916","cty":"LEHIGH","id":8810566,"mun":"HANOVER TWP","nc":9,"o":"-75.422037"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.003851,40.125515],"type":"Point"},"properties":{"a":"40.125515","cty":"LANCASTER","id":8810575,"mun":"EAST EARL TWP","nc":9,"o":"-76.003851"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.94606,41.172585],"type":"Point"},"properties":{"a":"41.172585","cty":"LYCOMING","id":8810576,"mun":"BRADY TWP","nc":4,"o":"-76.94606"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.345086,40.029864],"type":"Point"},"properties":{"a":"40.029864","cty":"LANCASTER","id":8810577,"mun":"MANOR TWP","nc":9,"o":"-76.345086"},"type":"Feature"}
 ]}
