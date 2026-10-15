@@ -1,12 +1,9 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.402771,40.650651],"type":"Point"},"properties":{"a":"40.650651","cty":"NORTHAMPTON","id":8810139,"mun":"HANOVER TWP","nc":4,"o":"-75.402771"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.355782,40.850277],"type":"Point"},"properties":{"a":"40.850277","cty":"UNION","id":8810141,"mun":"HARTLEY TWP","nc":1,"o":"-77.355782"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.966858,41.249111],"type":"Point"},"properties":{"a":"41.249111","cty":"LYCOMING","id":8810155,"mun":"LOYALSOCK TWP","nc":1,"o":"-76.966858"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.59332,41.16616],"type":"Point"},"properties":{"a":"41.16616","cty":"MONROE","hp":true,"id":8810158,"mun":"COOLBAUGH TWP","nc":31,"ne":{"a":"41.16931","o":"-75.59091"},"o":"-75.59332","sw":{"a":"41.16301","o":"-75.59574"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.267097,41.20534],"type":"Point"},"properties":{"a":"41.20534","cty":"MONROE","id":8810161,"mun":"BARRETT TWP","nc":1,"o":"-75.267097"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.490401,41.050608],"type":"Point"},"properties":{"a":"41.050608","cty":"COLUMBIA","id":8810169,"mun":"HEMLOCK TWP","nc":2,"o":"-76.490401"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.967065,41.249149],"type":"Point"},"properties":{"a":"41.249149","cty":"LYCOMING","id":8810170,"mun":"LOYALSOCK TWP","nc":4,"o":"-76.967065"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.062992,41.308487],"type":"Point"},"properties":{"a":"41.308487","cty":"PIKE","id":8810171,"mun":"BLOOMING GROVE TWP","nc":4,"o":"-75.062992"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.365312,40.387973],"type":"Point"},"properties":{"a":"40.387973","cty":"BUCKS","id":8810172,"mun":"WEST ROCKHILL TWP","nc":2,"o":"-75.365312"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.065637,41.305224],"type":"Point"},"properties":{"a":"41.305224","cty":"PIKE","id":8810173,"mun":"BLOOMING GROVE TWP","nc":1,"o":"-75.065637"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.06131,41.30935],"type":"Point"},"properties":{"a":"41.30935","cty":"PIKE","hp":true,"id":8810174,"mun":"BLOOMING GROVE TWP","nc":59,"ne":{"a":"41.31417","o":"-75.05662"},"o":"-75.06131","sw":{"a":"41.30454","o":"-75.06599"}},"type":"Feature"}
 ]}
