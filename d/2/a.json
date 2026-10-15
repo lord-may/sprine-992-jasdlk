@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-73.94935,41.01898],"type":"Point"},"properties":{"cause":"Single Service Incident","cluster":false,"cust_a":{"val":1},"etr":"2026-10-15T15:32:15-0400","inc_id":"559165","title":"Outage Information"},"type":"Feature"},
 {"geometry":{"coordinates":[-74.13961,41.09077],"type":"Point"},"properties":{"cause":"Single Service Incident","cluster":false,"cust_a":{"val":1},"etr":"2026-10-15T16:30:00-0400","inc_id":"559140","title":"Outage Information"},"type":"Feature"},
-{"geometry":{"coordinates":[-74.41659,41.43157],"type":"Point"},"properties":{"cause":"Single Service Incident","cluster":false,"cust_a":{"val":3},"etr":"2026-10-15T14:46:43-0400","inc_id":"559159","title":"Outage Information"},"type":"Feature"}
+{"geometry":{"coordinates":[-74.41659,41.43157],"type":"Point"},"properties":{"cause":"Single Service Incident","cluster":false,"cust_a":{"val":3},"etr":"2026-10-15T14:46:43-0400","inc_id":"559159","title":"Outage Information"},"type":"Feature"},
+{"geometry":{"geometries":[{"coordinates":[[[-74.19675,41.00005],[-74.19668,41.00066],[-74.19729,41.00077],[-74.19752,41.0005],[-74.19752,41.00011],[-74.19675,41.00005]]],"type":"Polygon"},{"coordinates":[-74.1971,41.00039],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cluster":false,"cust_a":{"val":5},"etr":"ETR-NULL","inc_id":"559166","title":"Outage Information"},"type":"Feature"}
 ]}
