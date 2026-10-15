@@ -1,11 +1,9 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.402771,40.650651],"type":"Point"},"properties":{"a":"40.650651","cty":"NORTHAMPTON","id":8810139,"mun":"HANOVER TWP","nc":4,"o":"-75.402771"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.355782,40.850277],"type":"Point"},"properties":{"a":"40.850277","cty":"UNION","id":8810141,"mun":"HARTLEY TWP","nc":1,"o":"-77.355782"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.36946,40.38423],"type":"Point"},"properties":{"a":"40.38423","cty":"BUCKS","hp":true,"id":8810149,"mun":"WEST ROCKHILL TWP","nc":15,"ne":{"a":"40.38774","o":"-75.36547"},"o":"-75.36946","sw":{"a":"40.38071","o":"-75.37345"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.31926,41.01749],"type":"Point"},"properties":{"a":"41.01749","cty":"MONROE","hp":true,"id":8810152,"mun":"JACKSON TWP","nc":25,"ne":{"a":"41.01886","o":"-75.31696"},"o":"-75.31926","sw":{"a":"41.01611","o":"-75.32156"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.966858,41.249111],"type":"Point"},"properties":{"a":"41.249111","cty":"LYCOMING","id":8810155,"mun":"LOYALSOCK TWP","nc":1,"o":"-76.966858"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.59332,41.16616],"type":"Point"},"properties":{"a":"41.16616","cty":"MONROE","hp":true,"id":8810158,"mun":"COOLBAUGH TWP","nc":31,"ne":{"a":"41.16931","o":"-75.59091"},"o":"-75.59332","sw":{"a":"41.16301","o":"-75.59574"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.267097,41.20534],"type":"Point"},"properties":{"a":"41.20534","cty":"MONROE","id":8810161,"mun":"BARRETT TWP","nc":1,"o":"-75.267097"},"type":"Feature"},
-{"geometry":{"coordinates":[-74.90295,41.45536],"type":"Point"},"properties":{"a":"41.45536","cty":"PIKE","hp":true,"id":8810162,"mun":"SHOHOLA TWP","nc":48,"ne":{"a":"41.45813","o":"-74.89893"},"o":"-74.90295","sw":{"a":"41.45259","o":"-74.90697"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.96391,40.795654],"type":"Point"},"properties":{"a":"40.795654","cty":"SCHUYLKILL","id":8810163,"mun":"TAMAQUA BORO","nc":1,"o":"-75.96391"},"type":"Feature"}
+{"geometry":{"coordinates":[-74.90295,41.45536],"type":"Point"},"properties":{"a":"41.45536","cty":"PIKE","hp":true,"id":8810162,"mun":"SHOHOLA TWP","nc":48,"ne":{"a":"41.45813","o":"-74.89893"},"o":"-74.90295","sw":{"a":"41.45259","o":"-74.90697"}},"type":"Feature"}
 ]}

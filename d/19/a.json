@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.445486,42.117449],"type":"Point"},"properties":{"EstRest":"","Outages":1,"cause":"","county":"BROOME","crewstatus":"DISP ","customers":36,"hamlet":"DEPOSIT","incidentnumber":"0114PM","incidents":1,"level":"street","opco":"NYSEG","street":"BIG HOLLOW RD","town":"SANFORD T"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.445486,42.117449],"type":"Point"},"properties":{"EstRest":"","Outages":1,"county":"BROOME","customers":91444,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.559337,41.336425],"type":"Point"},"properties":{"EstRest":"10/14/2026 9:00:00 PM","Outages":3,"cause":"","county":"WESTCHESTER","crewstatus":"DISP ","customers":14,"hamlet":"NORTH SALEM","incidentnumber":"0114WY","incidents":1,"level":"street","opco":"NYSEG","street":"WALLACE RD","town":"NORTH SALEM T"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.559337,41.336425],"type":"Point"},"properties":{"EstRest":"10/14/2026 9:00:00 PM","Outages":3,"county":"WESTCHESTER","customers":33722,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.445486,42.117449],"type":"Point"},"properties":{"EstRest":"","Outages":1,"county":"BROOME","customers":91444,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
