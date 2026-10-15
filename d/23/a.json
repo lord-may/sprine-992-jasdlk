@@ -10,19 +10,18 @@
 {"geometry":{"coordinates":[-75.51336,40.648472],"type":"Point"},"properties":{"a":"40.648472","cty":"LEHIGH","id":8810337,"mun":"WHITEHALL TWP","nc":4,"o":"-75.51336"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.884566,41.215078],"type":"Point"},"properties":{"a":"41.215078","cty":"LUZERNE","id":8810339,"mun":"HANOVER TWP","nc":0,"o":"-75.884566"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.810184,41.533326],"type":"Point"},"properties":{"a":"41.533326","cty":"WYOMING","id":8810344,"mun":"OVERFIELD TWP","nc":2,"o":"-75.810184"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.984342,40.933057],"type":"Point"},"properties":{"a":"40.933057","cty":"LUZERNE","id":8810361,"mun":"HAZLETON","nc":3,"o":"-75.984342"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.01114,41.249493],"type":"Point"},"properties":{"a":"41.249493","cty":"LYCOMING","id":8810372,"mun":"WILLIAMSPORT","nc":37,"o":"-77.01114"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.639562,40.546861],"type":"Point"},"properties":{"a":"40.546861","cty":"LEHIGH","id":8810380,"mun":"UPPER MACUNGIE TWP","nc":7,"o":"-75.639562"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.344536,41.252874],"type":"Point"},"properties":{"a":"41.252874","cty":"WAYNE","id":8810384,"mun":"DREHER TWP","nc":2,"o":"-75.344536"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.282017,41.045872],"type":"Point"},"properties":{"a":"41.045872","cty":"MONROE","id":8810401,"mun":"POCONO TWP","nc":1,"o":"-75.282017"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.54775,41.492642],"type":"Point"},"properties":{"a":"41.492642","cty":"LACKAWANNA","id":8810404,"mun":"ARCHBALD BORO","nc":22,"o":"-75.54775"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.476419,41.450015],"type":"Point"},"properties":{"a":"41.450015","cty":"LACKAWANNA","id":8810407,"mun":"JEFFERSON TWP","nc":6,"o":"-75.476419"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.049752,41.023421],"type":"Point"},"properties":{"a":"41.023421","cty":"LUZERNE","id":8810409,"mun":"SUGARLOAF TWP","nc":1,"o":"-76.049752"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.424032,41.000767],"type":"Point"},"properties":{"a":"41.000767","cty":"COLUMBIA","id":8810410,"mun":"SCOTT TWP","nc":15,"o":"-76.424032"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.697988,40.732442],"type":"Point"},"properties":{"a":"40.732442","cty":"LEHIGH","id":8810414,"mun":"HEIDELBERG TWP","nc":2,"o":"-75.697988"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.271793,40.276209],"type":"Point"},"properties":{"a":"40.276209","cty":"LEBANON","id":8810415,"mun":"HEIDELBERG TWP","nc":2,"o":"-76.271793"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.276177,41.375961],"type":"Point"},"properties":{"a":"41.375961","cty":"WAYNE","id":8810421,"mun":"PAUPACK TWP","nc":5,"o":"-75.276177"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.545836,40.751529],"type":"Point"},"properties":{"a":"40.751529","cty":"NORTHUMBERLAND","id":8810425,"mun":"EAST CAMERON TWP","nc":1,"o":"-76.545836"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.013072,41.249129],"type":"Point"},"properties":{"a":"41.249129","cty":"LYCOMING","id":8810429,"mun":"WILLIAMSPORT","nc":3,"o":"-77.013072"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.485698,40.933808],"type":"Point"},"properties":{"a":"40.933808","cty":"MONROE","id":8810431,"mun":"POLK TWP","nc":3,"o":"-75.485698"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.827009,40.72555],"type":"Point"},"properties":{"a":"40.72555","cty":"SCHUYLKILL","id":8810436,"mun":"WEST PENN TWP","nc":4,"o":"-75.827009"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.639846,40.546378],"type":"Point"},"properties":{"a":"40.546378","cty":"LEHIGH","id":8810437,"mun":"UPPER MACUNGIE TWP","nc":5,"o":"-75.639846"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.469758,40.628466],"type":"Point"},"properties":{"a":"40.628466","cty":"LEHIGH","id":8810444,"mun":"WHITEHALL TWP","nc":2,"o":"-75.469758"},"type":"Feature"}
 ]}
