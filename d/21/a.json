@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.04428,43.905022],"type":"Point"},"properties":{"EstRest":"10/14/2026 10:15:00 PM","Outages":195,"county":"CUMBERLAND","customers":182407,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.96472,43.877143],"type":"Point"},"properties":{"EstRest":"10/14/2026 10:15:00 PM","Outages":6,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.965544,43.879372],"type":"Point"},"properties":{"EstRest":"10/14/2026 10:15:00 PM","Outages":4,"cause":"","county":"CUMBERLAND","crewstatus":"DISP ","customers":19,"hamlet":"BRUNSWICK","incidentnumber":"0043GJ","incidents":1,"level":"street","opco":"CMP","street":"OLD PENNELLVILLE RD","town":"BRUNSWICK"},"type":"Feature"}
 ]}
