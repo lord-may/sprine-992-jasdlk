@@ -2,5 +2,5 @@
 {"geometry":{"coordinates":[-75.56752,40.626748],"type":"Point"},"properties":{"a":"40.626748","cty":"LEHIGH","id":8810531,"mun":"SOUTH WHITEHALL TWP","nc":2,"o":"-75.56752"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.422037,40.660916],"type":"Point"},"properties":{"a":"40.660916","cty":"LEHIGH","id":8810566,"mun":"HANOVER TWP","nc":9,"o":"-75.422037"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.345086,40.029864],"type":"Point"},"properties":{"a":"40.029864","cty":"LANCASTER","id":8810577,"mun":"MANOR TWP","nc":9,"o":"-76.345086"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.027328,41.408144],"type":"Point"},"properties":{"a":"41.408144","cty":"PIKE","id":8810580,"mun":"LACKAWAXEN TWP","nc":5,"o":"-75.027328"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.48422,40.84971],"type":"Point"},"properties":{"a":"40.84971","cty":"MONROE","hp":true,"id":8810584,"mun":"ELDRED TWP","nc":73,"ne":{"a":"40.85565","o":"-75.47273"},"o":"-75.48422","sw":{"a":"40.84378","o":"-75.4957"}},"type":"Feature"}
 ]}
