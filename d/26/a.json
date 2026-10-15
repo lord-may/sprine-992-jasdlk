@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.282279,43.551949],"type":"Point"},"properties":{"id":"594441","nbrOut":1,"timeOff":1792084307663},"type":"Feature"}
+{"geometry":{"coordinates":[-71.282279,43.551949],"type":"Point"},"properties":{"comment":"Limited Access Island Outage. Restoration will be attempted when conditions permit. Estimated time of restoration is not yet available.","id":"594441","nbrOut":1,"timeOff":1792084307663},"type":"Feature"}
 ]}

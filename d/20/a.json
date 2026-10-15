@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.719367,43.176794],"type":"Point"},"properties":{"EstRest":"10/15/2026 3:00:00 PM","Outages":5,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":34,"hamlet":"ROCHESTER","incidentnumber":"01153N","incidents":1,"level":"street","opco":"RGE","street":"REGINA DR","town":"GATES"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.719367,43.176794],"type":"Point"},"properties":{"EstRest":"10/15/2026 3:00:00 PM","Outages":9,"county":"MONROE","customers":303507,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
+
 ]}
