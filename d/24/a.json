@@ -1,5 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.363873,41.801591],"type":"Point"},"properties":{"a":"41.801591","cty":"PROVIDENCE","id":20261066507,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.363873"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.383261,41.815131],"type":"Point"},"properties":{"a":"41.815131","cty":"PROVIDENCE","id":20261066565,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.383261"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.410597,41.801019],"type":"Point"},"properties":{"a":"41.801019","cty":"PROVIDENCE","id":20261066569,"mun":"PROVIDENCE","nc":1,"o":"-71.410597"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.410597,41.801019],"type":"Point"},"properties":{"a":"41.801019","cty":"PROVIDENCE","id":20261066569,"mun":"PROVIDENCE","nc":1,"o":"-71.410597"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.517593,42.004019],"type":"Point"},"properties":{"a":"42.004019","cty":"PROVIDENCE","id":20261066571,"mun":"WOONSOCKET","nc":1,"o":"-71.517593"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.429318,41.791759],"type":"Point"},"properties":{"a":"41.791759","cty":"PROVIDENCE","id":20261066572,"mun":"PROVIDENCE","nc":1,"o":"-71.429318"},"type":"Feature"}
 ]}

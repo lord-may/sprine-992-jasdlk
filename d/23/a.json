@@ -22,14 +22,16 @@
 {"geometry":{"coordinates":[-75.51336,40.648472],"type":"Point"},"properties":{"a":"40.648472","cty":"LEHIGH","id":8810337,"mun":"WHITEHALL TWP","nc":4,"o":"-75.51336"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.884566,41.215078],"type":"Point"},"properties":{"a":"41.215078","cty":"LUZERNE","id":8810339,"mun":"HANOVER TWP","nc":0,"o":"-75.884566"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.820874,41.395113],"type":"Point"},"properties":{"a":"41.395113","cty":"LACKAWANNA","id":8810341,"mun":"RANSOM TWP","nc":3,"o":"-75.820874"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.964324,40.531074],"type":"Point"},"properties":{"a":"40.531074","cty":"DAUPHIN","id":8810342,"mun":"UPPER PAXTON TWP","nc":1,"o":"-76.964324"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.45963,41.127162],"type":"Point"},"properties":{"a":"41.127162","cty":"MONROE","id":8810343,"mun":"TOBYHANNA TWP","nc":2,"o":"-75.45963"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.810184,41.533326],"type":"Point"},"properties":{"a":"41.533326","cty":"WYOMING","id":8810344,"mun":"OVERFIELD TWP","nc":2,"o":"-75.810184"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.515601,41.05265],"type":"Point"},"properties":{"a":"41.05265","cty":"COLUMBIA","id":8810346,"mun":"HEMLOCK TWP","nc":2,"o":"-76.515601"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.423547,41.000981],"type":"Point"},"properties":{"a":"41.000981","cty":"COLUMBIA","id":8810349,"mun":"SCOTT TWP","nc":2,"o":"-76.423547"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.984342,40.933057],"type":"Point"},"properties":{"a":"40.933057","cty":"LUZERNE","id":8810361,"mun":"HAZLETON","nc":3,"o":"-75.984342"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.01114,41.249493],"type":"Point"},"properties":{"a":"41.249493","cty":"LYCOMING","id":8810372,"mun":"WILLIAMSPORT","nc":37,"o":"-77.01114"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.639562,40.546861],"type":"Point"},"properties":{"a":"40.546861","cty":"LEHIGH","id":8810380,"mun":"UPPER MACUNGIE TWP","nc":7,"o":"-75.639562"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.344536,41.252874],"type":"Point"},"properties":{"a":"41.252874","cty":"WAYNE","id":8810384,"mun":"DREHER TWP","nc":2,"o":"-75.344536"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.96748,40.526051],"type":"Point"},"properties":{"a":"40.526051","cty":"DAUPHIN","id":8810396,"mun":"UPPER PAXTON TWP","nc":1,"o":"-76.96748"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.96748,40.526051],"type":"Point"},"properties":{"a":"40.526051","cty":"DAUPHIN","id":8810396,"mun":"UPPER PAXTON TWP","nc":1,"o":"-76.96748"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.496188,41.576965],"type":"Point"},"properties":{"a":"41.576965","cty":"LACKAWANNA","id":8810398,"mun":"CARBONDALE","nc":1,"o":"-75.496188"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.282017,41.045872],"type":"Point"},"properties":{"a":"41.045872","cty":"MONROE","id":8810401,"mun":"POCONO TWP","nc":1,"o":"-75.282017"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.329037,40.021341],"type":"Point"},"properties":{"a":"40.021341","cty":"LANCASTER","id":8810403,"mun":"LANCASTER TWP","nc":3,"o":"-76.329037"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.54775,41.492642],"type":"Point"},"properties":{"a":"41.492642","cty":"LACKAWANNA","id":8810404,"mun":"ARCHBALD BORO","nc":22,"o":"-75.54775"},"type":"Feature"}
 ]}
