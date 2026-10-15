@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.532645,43.78954],"type":"Point"},"properties":{"EstRest":"10/15/2026 1:00:00 AM","Outages":8,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.535453,43.788056],"type":"Point"},"properties":{"EstRest":"10/15/2026 1:00:00 AM","Outages":4,"cause":"","county":"CUMBERLAND","crewstatus":"ONST ","customers":4,"hamlet":"STANDISH","incidentnumber":"0043GP","incidents":1,"level":"street","opco":"CMP","street":"DOG LEG RD","town":"STANDISH"},"type":"Feature"}
+
 ]}
