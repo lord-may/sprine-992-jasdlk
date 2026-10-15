@@ -3,7 +3,5 @@
 {"geometry":{"coordinates":[-76.345086,40.029864],"type":"Point"},"properties":{"a":"40.029864","cty":"LANCASTER","id":8810577,"mun":"MANOR TWP","nc":9,"o":"-76.345086"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.48422,40.84971],"type":"Point"},"properties":{"a":"40.84971","cty":"MONROE","hp":true,"id":8810584,"mun":"ELDRED TWP","nc":73,"ne":{"a":"40.85565","o":"-75.47273"},"o":"-75.48422","sw":{"a":"40.84378","o":"-75.4957"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.363436,41.27303],"type":"Point"},"properties":{"a":"41.27303","cty":"WAYNE","id":8810585,"mun":"DREHER TWP","nc":3,"o":"-75.363436"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.892479,41.224729],"type":"Point"},"properties":{"a":"41.224729","cty":"LUZERNE","id":8810587,"mun":"WILKES-BARRE","nc":1,"o":"-75.892479"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.374076,41.193926],"type":"Point"},"properties":{"a":"41.193926","cty":"CLINTON","id":8810589,"mun":"PINE CREEK TWP","nc":4,"o":"-77.374076"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.482638,40.603588],"type":"Point"},"properties":{"a":"40.603588","cty":"LEHIGH","id":8810590,"mun":"ALLENTOWN","nc":1,"o":"-75.482638"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.892479,41.224729],"type":"Point"},"properties":{"a":"41.224729","cty":"LUZERNE","id":8810587,"mun":"WILKES-BARRE","nc":1,"o":"-75.892479"},"type":"Feature"}
 ]}
