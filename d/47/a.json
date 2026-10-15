@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-67.892686,45.396744],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-15T07:11:30.897-04:00","outageName":"F94000-65-7","outagePoint":{"lat":45.39674448436778,"lng":-67.89268602455783},"outageRecID":"2026-10-15-0253","outageStartTime":"2026-10-15T02:31:49-04:00","outageWorkStatus":"","streetsAffected":["WILDERNESS DR"],"verified":true},"type":"Feature"}
+
 ]}
