@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-67.717529,45.178755],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":43,"customersOutNow":43,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-15T11:37:29.43-04:00","outageName":"F4245-31","outagePoint":{"lat":45.17875499999998,"lng":-67.71752949999998},"outageRecID":"2026-10-15-0255","outageStartTime":"2026-10-15T10:29:07-04:00","outageWorkStatus":"","streetsAffected":["BIG LAKE LANDING RD","BIG LAKE SHORES RD","GREENLAW ISLAND","PINE DR","PINE DRIVE","SANDBAR DR","SANDBAR ISLAND","SAVAGE RD","SMITH RD","TAYLOR LN","TAYLOR LN OFF SMITH RD (SAVAGE TAP"],"verified":true},"type":"Feature"}
+
 ]}
