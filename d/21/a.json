@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.451119,44.686164],"type":"Point"},"properties":{"EstRest":"10/15/2026 6:15:00 AM","Outages":122,"county":"FRANKLIN","customers":24700,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.459892,44.693492],"type":"Point"},"properties":{"EstRest":"10/15/2026 6:15:00 AM","Outages":49,"cause":"","county":"FRANKLIN","crewstatus":"DISP ","customers":49,"hamlet":"WELD","incidentnumber":"0043H1","incidents":1,"level":"street","opco":"CMP","street":"SWETT BROOK LN","town":"WELD"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.309555,45.26632],"type":"Point"},"properties":{"EstRest":"","Outages":118,"county":"PISCATAQUIS","customers":10243,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.334364,45.263374],"type":"Point"},"properties":{"EstRest":"","Outages":24,"cause":"","county":"PISCATAQUIS","crewstatus":"ONST ","customers":33,"hamlet":"WILLIMANTIC","incidentnumber":"0043H4","incidents":1,"level":"street","opco":"CMP","street":"TIMS COVE RD","town":"WILLIMANTIC"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.451119,44.686164],"type":"Point"},"properties":{"EstRest":"10/15/2026 7:15:00 AM","Outages":122,"county":"FRANKLIN","customers":24700,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.459892,44.693492],"type":"Point"},"properties":{"EstRest":"10/15/2026 7:15:00 AM","Outages":49,"cause":"Tree","county":"FRANKLIN","crewstatus":"DISP ","customers":49,"hamlet":"WELD","incidentnumber":"0043H1","incidents":1,"level":"street","opco":"CMP","street":"SWETT BROOK LN","town":"WELD"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.309555,45.26632],"type":"Point"},"properties":{"EstRest":"","Outages":141,"county":"PISCATAQUIS","customers":10243,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
