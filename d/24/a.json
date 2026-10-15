@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.369051,41.891901],"type":"Point"},"properties":{"a":"41.891901","cty":"PROVIDENCE","id":20261066438,"mun":"PAWTUCKET","nc":1,"o":"-71.369051"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.371249,41.792428],"type":"Point"},"properties":{"a":"41.792428","cty":"PROVIDENCE","id":20261066443,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.371249"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.371249,41.792428],"type":"Point"},"properties":{"a":"41.792428","cty":"PROVIDENCE","id":20261066443,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.371249"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.4305,41.807254],"type":"Point"},"properties":{"a":"41.807254","cty":"PROVIDENCE","id":20261066461,"mun":"PROVIDENCE","nc":1,"o":"-71.4305"},"type":"Feature"}
 ]}

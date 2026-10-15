@@ -2,5 +2,6 @@
 {"geometry":{"coordinates":[-75.402771,40.650651],"type":"Point"},"properties":{"a":"40.650651","cty":"NORTHAMPTON","id":8810139,"mun":"HANOVER TWP","nc":4,"o":"-75.402771"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.355782,40.850277],"type":"Point"},"properties":{"a":"40.850277","cty":"UNION","id":8810141,"mun":"HARTLEY TWP","nc":1,"o":"-77.355782"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.224176,40.266682],"type":"Point"},"properties":{"a":"40.266682","cty":"CUMBERLAND","id":8810143,"mun":"NORTH MIDDLETON TWP","nc":1,"o":"-77.224176"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.36946,40.38423],"type":"Point"},"properties":{"a":"40.38423","cty":"BUCKS","hp":true,"id":8810149,"mun":"WEST ROCKHILL TWP","nc":15,"ne":{"a":"40.38774","o":"-75.36547"},"o":"-75.36946","sw":{"a":"40.38071","o":"-75.37345"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.36946,40.38423],"type":"Point"},"properties":{"a":"40.38423","cty":"BUCKS","hp":true,"id":8810149,"mun":"WEST ROCKHILL TWP","nc":15,"ne":{"a":"40.38774","o":"-75.36547"},"o":"-75.36946","sw":{"a":"40.38071","o":"-75.37345"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.31926,41.01749],"type":"Point"},"properties":{"a":"41.01749","cty":"MONROE","hp":true,"id":8810152,"mun":"JACKSON TWP","nc":25,"ne":{"a":"41.01886","o":"-75.31696"},"o":"-75.31926","sw":{"a":"41.01611","o":"-75.32156"}},"type":"Feature"}
 ]}
