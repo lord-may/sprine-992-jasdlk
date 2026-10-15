@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-70.984152,44.402824],"type":"Point"},"properties":{"EstRest":"10/15/2026 3:00:00 AM","Outages":1,"cause":"","county":"OXFORD","crewstatus":"DISP ","customers":1,"hamlet":"GILEAD","incidentnumber":"0043GR","incidents":1,"level":"street","opco":"CMP","street":"TWITCHELL BROOK RD","town":"GILEAD"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.984152,44.402824],"type":"Point"},"properties":{"EstRest":"10/15/2026 3:00:00 AM","Outages":1,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
