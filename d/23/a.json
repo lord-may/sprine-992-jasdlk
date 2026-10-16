@@ -3,7 +3,6 @@
 {"geometry":{"coordinates":[-76.50317,40.58779],"type":"Point"},"properties":{"a":"40.58779","cty":"SCHUYLKILL","hp":true,"id":8810898,"mun":"PORTER TWP","nc":9,"ne":{"a":"40.58923","o":"-76.50194"},"o":"-76.50317","sw":{"a":"40.58635","o":"-76.50441"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.96694,40.38839],"type":"Point"},"properties":{"a":"40.38839","cty":"DAUPHIN","hp":true,"id":8810969,"mun":"MIDDLE PAXTON TWP","nc":15,"ne":{"a":"40.38933","o":"-76.96642"},"o":"-76.96694","sw":{"a":"40.38745","o":"-76.96745"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.427176,41.000169],"type":"Point"},"properties":{"a":"41.000169","cty":"COLUMBIA","id":8810986,"mun":"SCOTT TWP","nc":1,"o":"-76.427176"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.606541,40.167228],"type":"Point"},"properties":{"a":"40.167228","cty":"LANCASTER","id":8811005,"mun":"MOUNT JOY TWP","nc":3,"o":"-76.606541"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.88659,41.2456],"type":"Point"},"properties":{"a":"41.2456","cty":"LUZERNE","hp":true,"id":8811017,"mun":"WILKES-BARRE","nc":63,"ne":{"a":"41.24696","o":"-75.88451"},"o":"-75.88659","sw":{"a":"41.24425","o":"-75.88868"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.742144,41.340238],"type":"Point"},"properties":{"a":"41.340238","cty":"LUZERNE","id":8811019,"mun":"AVOCA BORO","nc":1,"o":"-75.742144"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.167809,40.582855],"type":"Point"},"properties":{"a":"40.582855","cty":"SCHUYLKILL","id":8811024,"mun":"SOUTH MANHEIM TWP","nc":1,"o":"-76.167809"},"type":"Feature"},
@@ -29,5 +28,13 @@
 {"geometry":{"coordinates":[-76.307907,41.12612],"type":"Point"},"properties":{"a":"41.12612","cty":"COLUMBIA","id":8811098,"mun":"FISHING CREEK TWP","nc":5,"o":"-76.307907"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.739023,41.249078],"type":"Point"},"properties":{"a":"41.249078","cty":"LYCOMING","id":8811099,"mun":"WOLF TWP","nc":3,"o":"-76.739023"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.884401,40.98055],"type":"Point"},"properties":{"a":"40.98055","cty":"UNION","id":8811100,"mun":"KELLY TWP","nc":7,"o":"-76.884401"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.47182,40.865458],"type":"Point"},"properties":{"a":"40.865458","cty":"MONROE","id":8811103,"mun":"ELDRED TWP","nc":2,"o":"-75.47182"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.47182,40.865458],"type":"Point"},"properties":{"a":"40.865458","cty":"MONROE","id":8811103,"mun":"ELDRED TWP","nc":2,"o":"-75.47182"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.832326,40.281758],"type":"Point"},"properties":{"a":"40.281758","cty":"DAUPHIN","id":8811104,"mun":"SUSQUEHANNA TWP","nc":11,"o":"-76.832326"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.740532,40.799744],"type":"Point"},"properties":{"a":"40.799744","cty":"NORTHUMBERLAND","id":8811106,"mun":"ROCKEFELLER TWP","nc":5,"o":"-76.740532"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.18258,41.11326],"type":"Point"},"properties":{"a":"41.11326","cty":"LUZERNE","hp":true,"id":8811108,"mun":"SALEM TWP","nc":117,"ne":{"a":"41.12376","o":"-76.16165"},"o":"-76.18258","sw":{"a":"41.10275","o":"-76.2035"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.295477,40.974811],"type":"Point"},"properties":{"a":"40.974811","cty":"COLUMBIA","id":8811109,"mun":"BEAVER TWP","nc":1,"o":"-76.295477"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.59272,41.18832],"type":"Point"},"properties":{"a":"41.18832","cty":"LYCOMING","hp":true,"id":8811110,"mun":"FRANKLIN TWP","nc":9,"ne":{"a":"41.19168","o":"-76.58408"},"o":"-76.59272","sw":{"a":"41.18496","o":"-76.60135"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.677017,40.573165],"type":"Point"},"properties":{"a":"40.573165","cty":"DAUPHIN","id":8811111,"mun":"WICONISCO TWP","nc":9,"o":"-76.677017"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.276644,40.474226],"type":"Point"},"properties":{"a":"40.474226","cty":"PERRY","id":8811112,"mun":"TUSCARORA TWP","nc":1,"o":"-77.276644"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.092502,40.645508],"type":"Point"},"properties":{"a":"40.645508","cty":"SCHUYLKILL","id":8811118,"mun":"WEST BRUNSWICK TWP","nc":1,"o":"-76.092502"},"type":"Feature"}
 ]}
