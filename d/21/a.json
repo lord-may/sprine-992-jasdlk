@@ -1,7 +1,8 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-70.429032,43.74637],"type":"Point"},"properties":{"EstRest":"10/16/2026 7:00:00 AM","Outages":16,"cause":"","county":"CUMBERLAND","crewstatus":"ENRT ","customers":16,"hamlet":"WINDHAM","incidentnumber":"0043NC","incidents":1,"level":"street","opco":"CMP","street":"JUNCO DR","town":"WINDHAM"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.430899,43.746976],"type":"Point"},"properties":{"EstRest":"10/16/2026 7:00:00 AM","Outages":118,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-68.999261,44.51824],"type":"Point"},"properties":{"EstRest":"10/16/2026 8:15:00 AM","Outages":7,"county":"WALDO","customers":26703,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.014954,44.424458],"type":"Point"},"properties":{"EstRest":"10/16/2026 8:15:00 AM","Outages":6,"cause":"","county":"WALDO","crewstatus":"DISP ","customers":153,"hamlet":"BELFAST","incidentnumber":"0043NE","incidents":1,"level":"street","opco":"CMP","street":"MAIN ST","town":"BELFAST"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.014954,44.424458],"type":"Point"},"properties":{"EstRest":"10/16/2026 8:15:00 AM","Outages":6,"county":"WALDO","customers":26703,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.690523,43.111037],"type":"Point"},"properties":{"EstRest":"10/16/2026 6:45:00 AM","Outages":197,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.691583,43.102914],"type":"Point"},"properties":{"EstRest":"10/16/2026 6:45:00 AM","Outages":31,"cause":"","county":"YORK","crewstatus":"ONST ","customers":31,"hamlet":"KITTERY","incidentnumber":"0043N9","incidents":1,"level":"street","opco":"CMP","street":"CHARLES HILL RD","town":"KITTERY"},"type":"Feature"}
 ]}
