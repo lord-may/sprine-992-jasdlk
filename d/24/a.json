@@ -1,8 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.370648,41.885741],"type":"Point"},"properties":{"a":"41.885741","cty":"PROVIDENCE","id":20261066665,"mun":"PAWTUCKET","nc":1,"o":"-71.370648"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.413369,41.793386],"type":"Point"},"properties":{"a":"41.793386","cty":"PROVIDENCE","id":20261066669,"mun":"PROVIDENCE","nc":1,"o":"-71.413369"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.507045,41.801182],"type":"Point"},"properties":{"a":"41.801182","cty":"PROVIDENCE","id":20261066670,"mun":"JOHNSTON","nc":1,"o":"-71.507045"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.41708,41.95915],"type":"Point"},"properties":{"a":"41.95915","cty":"PROVIDENCE","hp":true,"id":20261066673,"mun":"CUMBERLAND","nc":12,"ne":{"a":"41.95995","o":"-71.41633"},"o":"-71.41708","sw":{"a":"41.95836","o":"-71.41783"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.416043,41.955457],"type":"Point"},"properties":{"a":"41.955457","cty":"PROVIDENCE","id":20261066674,"mun":"CUMBERLAND","nc":1,"o":"-71.416043"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.41592,41.954419],"type":"Point"},"properties":{"a":"41.954419","cty":"PROVIDENCE","id":20261066675,"mun":"CUMBERLAND","nc":1,"o":"-71.41592"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.41602,41.9556],"type":"Point"},"properties":{"a":"41.9556","cty":"PROVIDENCE","hp":true,"id":20261066674,"mun":"CUMBERLAND","nc":92,"ne":{"a":"41.95995","o":"-71.41312"},"o":"-71.41602","sw":{"a":"41.95125","o":"-71.41893"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.361496,41.767629],"type":"Point"},"properties":{"a":"41.767629","cty":"PROVIDENCE","id":20261066679,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.361496"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.418915,41.953846],"type":"Point"},"properties":{"a":"41.953846","cty":"PROVIDENCE","id":20261066680,"mun":"CUMBERLAND","nc":1,"o":"-71.418915"},"type":"Feature"}
 ]}
