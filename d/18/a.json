@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-67.8227,46.1879],[-67.80159,46.1932],[-67.7823,46.2175],[-67.7824,46.2177],[-67.7864,46.2191],[-67.81189,46.2093],[-67.8395,46.1979],[-67.8227,46.1879]]],"type":"Polygon"},{"coordinates":[-67.80996,46.20197],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"Tree Fell Out Of ROW","orig":"Tree Fell Out Of ROW"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":null,"cust_a":{"val":50},"etr":"2026-10-16T15:00:00Z","etr_confidence":null,"inc_id":"575912-1","n_out":1,"start_time":null,"title":"Area Outage"},"type":"Feature"}
+
 ]}
