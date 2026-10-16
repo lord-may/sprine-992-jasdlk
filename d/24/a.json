@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.390123,41.829793],"type":"Point"},"properties":{"a":"41.829793","cty":"PROVIDENCE","id":20261066719,"mun":"PROVIDENCE","nc":1,"o":"-71.390123"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.362344,41.770261],"type":"Point"},"properties":{"a":"41.770261","cty":"PROVIDENCE","id":20261066720,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.362344"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.592885,41.944622],"type":"Point"},"properties":{"a":"41.944622","cty":"PROVIDENCE","id":20261066721,"mun":"BURRILLVILLE","nc":1,"o":"-71.592885"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.379902,41.820474],"type":"Point"},"properties":{"a":"41.820474","cty":"PROVIDENCE","id":20261066726,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.379902"},"type":"Feature"}
 ]}
