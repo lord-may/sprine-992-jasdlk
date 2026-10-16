@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-70.690523,43.111037],"type":"Point"},"properties":{"EstRest":"10/16/2026 6:45:00 AM","Outages":197,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.691583,43.102914],"type":"Point"},"properties":{"EstRest":"10/16/2026 6:45:00 AM","Outages":31,"cause":"","county":"YORK","crewstatus":"     ","customers":31,"hamlet":"KITTERY","incidentnumber":"0043N9","incidents":1,"level":"street","opco":"CMP","street":"CHARLES HILL RD","town":"KITTERY"},"type":"Feature"}
 ]}
