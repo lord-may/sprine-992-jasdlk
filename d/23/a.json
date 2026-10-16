@@ -2,7 +2,6 @@
 {"geometry":{"coordinates":[-75.48422,40.84971],"type":"Point"},"properties":{"a":"40.84971","cty":"MONROE","hp":true,"id":8810584,"mun":"ELDRED TWP","nc":73,"ne":{"a":"40.85565","o":"-75.47273"},"o":"-75.48422","sw":{"a":"40.84378","o":"-75.4957"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.039175,41.312379],"type":"Point"},"properties":{"a":"41.312379","cty":"PIKE","id":8810617,"mun":"BLOOMING GROVE TWP","nc":1,"o":"-75.039175"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.10731,39.86248],"type":"Point"},"properties":{"a":"39.86248","cty":"LANCASTER","hp":true,"id":8810623,"mun":"COLERAIN TWP","nc":5,"ne":{"a":"39.86398","o":"-76.10527"},"o":"-76.10731","sw":{"a":"39.86098","o":"-76.10934"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.557394,41.483741],"type":"Point"},"properties":{"a":"41.483741","cty":"LACKAWANNA","id":8810626,"mun":"ARCHBALD BORO","nc":6,"o":"-75.557394"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.214023,41.130202],"type":"Point"},"properties":{"a":"41.130202","cty":"LUZERNE","id":8810627,"mun":"SALEM TWP","nc":1,"o":"-76.214023"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.715345,40.361501],"type":"Point"},"properties":{"a":"40.361501","cty":"DAUPHIN","id":8810629,"mun":"WEST HANOVER TWP","nc":2,"o":"-76.715345"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.61049,41.06488],"type":"Point"},"properties":{"a":"41.06488","cty":"CARBON","hp":true,"id":8810633,"mun":"KIDDER TWP","nc":140,"ne":{"a":"41.06806","o":"-75.60683"},"o":"-75.61049","sw":{"a":"41.0617","o":"-75.61416"}},"type":"Feature"}
 ]}
