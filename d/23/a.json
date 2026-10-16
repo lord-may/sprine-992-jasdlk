@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.230647,40.596606],"type":"Point"},"properties":{"a":"40.596606","cty":"SCHUYLKILL","id":8810683,"mun":"WAYNE TWP","nc":1,"o":"-76.230647"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.764105,41.210832],"type":"Point"},"properties":{"a":"41.210832","cty":"LYCOMING","id":8810696,"mun":"MUNCY CREEK TWP","nc":1,"o":"-76.764105"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.791446,40.284022],"type":"Point"},"properties":{"a":"40.284022","cty":"DAUPHIN","id":8810730,"mun":"LOWER PAXTON TWP","nc":19,"o":"-76.791446"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.594344,40.88226],"type":"Point"},"properties":{"a":"40.88226","cty":"CARBON","id":8810824,"mun":"TOWAMENSING TWP","nc":3,"o":"-75.594344"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.167491,40.946721],"type":"Point"},"properties":{"a":"40.946721","cty":"LUZERNE","id":8810864,"mun":"BLACK CREEK TWP","nc":15,"o":"-76.167491"},"type":"Feature"},
@@ -12,14 +11,15 @@
 {"geometry":{"coordinates":[-75.877743,41.232012],"type":"Point"},"properties":{"a":"41.232012","cty":"LUZERNE","id":8810965,"mun":"WILKES-BARRE","nc":9,"o":"-75.877743"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.96694,40.38839],"type":"Point"},"properties":{"a":"40.38839","cty":"DAUPHIN","hp":true,"id":8810969,"mun":"MIDDLE PAXTON TWP","nc":15,"ne":{"a":"40.38933","o":"-76.96642"},"o":"-76.96694","sw":{"a":"40.38745","o":"-76.96745"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.434839,40.58646],"type":"Point"},"properties":{"a":"40.58646","cty":"LEHIGH","id":8810972,"mun":"SALISBURY TWP","nc":11,"o":"-75.434839"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.470186,40.60585],"type":"Point"},"properties":{"a":"40.60585","cty":"LEHIGH","id":8810978,"mun":"ALLENTOWN","nc":134,"o":"-75.470186"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.517848,40.624091],"type":"Point"},"properties":{"a":"40.624091","cty":"LEHIGH","id":8810983,"mun":"SOUTH WHITEHALL TWP","nc":5,"o":"-75.517848"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.427176,41.000169],"type":"Point"},"properties":{"a":"41.000169","cty":"COLUMBIA","id":8810986,"mun":"SCOTT TWP","nc":1,"o":"-76.427176"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.41734,41.33234],"type":"Point"},"properties":{"a":"41.33234","cty":"WAYNE","hp":true,"id":8810992,"mun":"STERLING TWP","nc":30,"ne":{"a":"41.33726","o":"-75.40783"},"o":"-75.41734","sw":{"a":"41.32742","o":"-75.42685"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.907708,41.078089],"type":"Point"},"properties":{"a":"41.078089","cty":"UNION","id":8810997,"mun":"WHITE DEER TWP","nc":4,"o":"-76.907708"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.606541,40.167228],"type":"Point"},"properties":{"a":"40.167228","cty":"LANCASTER","id":8811005,"mun":"MOUNT JOY TWP","nc":3,"o":"-76.606541"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.88659,41.2456],"type":"Point"},"properties":{"a":"41.2456","cty":"LUZERNE","hp":true,"id":8811017,"mun":"WILKES-BARRE","nc":63,"ne":{"a":"41.24696","o":"-75.88451"},"o":"-75.88659","sw":{"a":"41.24425","o":"-75.88868"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.742144,41.340238],"type":"Point"},"properties":{"a":"41.340238","cty":"LUZERNE","id":8811019,"mun":"AVOCA BORO","nc":1,"o":"-75.742144"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.167809,40.582855],"type":"Point"},"properties":{"a":"40.582855","cty":"SCHUYLKILL","id":8811024,"mun":"SOUTH MANHEIM TWP","nc":1,"o":"-76.167809"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.792671,40.867715],"type":"Point"},"properties":{"a":"40.867715","cty":"NORTHUMBERLAND","id":8811027,"mun":"UPPER AUGUSTA TWP","nc":1,"o":"-76.792671"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.792671,40.867715],"type":"Point"},"properties":{"a":"40.867715","cty":"NORTHUMBERLAND","id":8811027,"mun":"UPPER AUGUSTA TWP","nc":1,"o":"-76.792671"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.924234,41.276153],"type":"Point"},"properties":{"a":"41.276153","cty":"LYCOMING","id":8811036,"mun":"LOYALSOCK TWP","nc":2,"o":"-76.924234"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.346462,41.193165],"type":"Point"},"properties":{"a":"41.193165","cty":"CLINTON","id":8811038,"mun":"PINE CREEK TWP","nc":1,"o":"-77.346462"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.470006,40.605618],"type":"Point"},"properties":{"a":"40.605618","cty":"LEHIGH","id":8811039,"mun":"ALLENTOWN","nc":1,"o":"-75.470006"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.105565,40.959865],"type":"Point"},"properties":{"a":"40.959865","cty":"UNION","id":8811043,"mun":"LEWIS TWP","nc":3,"o":"-77.105565"},"type":"Feature"}
 ]}
