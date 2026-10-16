@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.782106,42.177554],"type":"Point"},"properties":{"EstRest":"10/16/2026 12:30:00 AM","Outages":20,"cause":"Tree","county":"BROOME","crewstatus":"CMPL ","customers":45,"hamlet":"PORT CRANE","incidentnumber":"01157T","incidents":1,"level":"street","opco":"NYSEG","street":"PLEASANT HILL RD","town":"COLESVILLE T"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.789948,42.180818],"type":"Point"},"properties":{"EstRest":"10/16/2026 12:30:00 AM","Outages":43,"county":"BROOME","customers":91444,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.817845,42.002037],"type":"Point"},"properties":{"EstRest":"10/16/2026 1:45:00 AM","Outages":7,"cause":"","county":"CHEMUNG","crewstatus":"DISP ","customers":7,"hamlet":"PINE CITY","incidentnumber":"011583","incidents":1,"level":"street","opco":"NYSEG","street":"SITZER RD","town":"SOUTHPORT T"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.84921,42.021339],"type":"Point"},"properties":{"EstRest":"10/16/2026 1:45:00 AM","Outages":82,"county":"CHEMUNG","customers":39910,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
