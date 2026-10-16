@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.48422,40.84971],"type":"Point"},"properties":{"a":"40.84971","cty":"MONROE","hp":true,"id":8810584,"mun":"ELDRED TWP","nc":73,"ne":{"a":"40.85565","o":"-75.47273"},"o":"-75.48422","sw":{"a":"40.84378","o":"-75.4957"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.494785,40.64687],"type":"Point"},"properties":{"a":"40.64687","cty":"LEHIGH","id":8810597,"mun":"WHITEHALL TWP","nc":2,"o":"-75.494785"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.293451,40.056054],"type":"Point"},"properties":{"a":"40.056054","cty":"LANCASTER","id":8810605,"mun":"MANHEIM TWP","nc":6,"o":"-76.293451"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.494785,40.64687],"type":"Point"},"properties":{"a":"40.64687","cty":"LEHIGH","id":8810597,"mun":"WHITEHALL TWP","nc":1,"o":"-75.494785"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.293451,40.056054],"type":"Point"},"properties":{"a":"40.056054","cty":"LANCASTER","id":8810605,"mun":"MANHEIM TWP","nc":6,"o":"-76.293451"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.182822,39.987682],"type":"Point"},"properties":{"a":"39.987682","cty":"LANCASTER","id":8810611,"mun":"STRASBURG TWP","nc":2,"o":"-76.182822"},"type":"Feature"}
 ]}
