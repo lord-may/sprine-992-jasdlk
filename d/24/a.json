@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.634922,41.800524],"type":"Point"},"properties":{"a":"41.800524","cty":"PROVIDENCE","id":20261066730,"mun":"SCITUATE","nc":1,"o":"-71.634922"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.539795,42.014005],"type":"Point"},"properties":{"a":"42.014005","cty":"PROVIDENCE","id":20261066741,"mun":"NORTH SMITHFIELD","nc":1,"o":"-71.539795"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.397669,41.888176],"type":"Point"},"properties":{"a":"41.888176","cty":"PROVIDENCE","id":20261066746,"mun":"CENTRAL FALLS","nc":1,"o":"-71.397669"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.364582,41.506053],"type":"Point"},"properties":{"a":"41.506053","cty":"NEWPORT","id":20261066747,"mun":"JAMESTOWN","nc":1,"o":"-71.364582"},"type":"Feature"}
 ]}
