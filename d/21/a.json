@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.412041,43.50819],"type":"Point"},"properties":{"EstRest":"10/16/2026 12:15:00 AM","Outages":14,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.412041,43.50819],"type":"Point"},"properties":{"EstRest":"10/16/2026 12:15:00 AM","Outages":8,"cause":"Equipment Interruption","county":"YORK","crewstatus":"DISP ","customers":47,"hamlet":"OLD ORCHARD BEACH","incidentnumber":"0043N4","incidents":1,"level":"street","opco":"CMP","street":"OCEAN PARK RD","town":"OLD ORCHARD BEACH"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.412041,43.50819],"type":"Point"},"properties":{"EstRest":"10/16/2026 12:30:00 AM","Outages":14,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.412041,43.50819],"type":"Point"},"properties":{"EstRest":"10/16/2026 12:30:00 AM","Outages":8,"cause":"Equipment Interruption","county":"YORK","crewstatus":"DISP ","customers":47,"hamlet":"OLD ORCHARD BEACH","incidentnumber":"0043N4","incidents":1,"level":"street","opco":"CMP","street":"OCEAN PARK RD","town":"OLD ORCHARD BEACH"},"type":"Feature"}
 ]}
