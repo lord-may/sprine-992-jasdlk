@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-77.592638,43.167915],"type":"Point"},"properties":{"EstRest":"10/16/2026 10:45:00 AM","Outages":1,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":19,"hamlet":"ROCHESTER","incidentnumber":"0115B0","incidents":1,"level":"street","opco":"RGE","street":"WAIT ST","town":"ROCHESTER"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.592638,43.167915],"type":"Point"},"properties":{"EstRest":"10/16/2026 10:45:00 AM","Outages":1,"county":"MONROE","customers":303507,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.907242,43.261106],"type":"Point"},"properties":{"EstRest":"10/16/2026 9:15:00 AM","Outages":17,"cause":"Tree","county":"WAYNE","crewstatus":"DISP ","customers":49,"hamlet":"WOLCOTT","incidentnumber":"0115AF","incidents":1,"level":"street","opco":"RGE","street":"EAST BAY RD","town":"HURON"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.907242,43.261106],"type":"Point"},"properties":{"EstRest":"10/16/2026 9:15:00 AM","Outages":17,"county":"WAYNE","customers":27029,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.592638,43.167915],"type":"Point"},"properties":{"EstRest":"10/16/2026 10:45:00 AM","Outages":1,"county":"MONROE","customers":303507,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
