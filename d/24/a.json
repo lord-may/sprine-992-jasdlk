@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-71.420742,41.81469],"type":"Point"},"properties":{"a":"41.81469","cty":"PROVIDENCE","id":20261066751,"mun":"PROVIDENCE","nc":1,"o":"-71.420742"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.403898,41.905671],"type":"Point"},"properties":{"a":"41.905671","cty":"PROVIDENCE","id":20261066754,"mun":"LINCOLN","nc":1,"o":"-71.403898"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.450703,41.963965],"type":"Point"},"properties":{"a":"41.963965","cty":"PROVIDENCE","id":20261066756,"mun":"CUMBERLAND","nc":1,"o":"-71.450703"},"type":"Feature"}
 ]}
