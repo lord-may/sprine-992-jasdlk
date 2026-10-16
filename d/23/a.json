@@ -20,12 +20,20 @@
 {"geometry":{"coordinates":[-76.232743,39.757546],"type":"Point"},"properties":{"a":"39.757546","cty":"LANCASTER","id":8810706,"mun":"FULTON TWP","nc":5,"o":"-76.232743"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.44587,40.87417],"type":"Point"},"properties":{"a":"40.87417","cty":"MONROE","hp":true,"id":8810709,"mun":"ELDRED TWP","nc":8,"ne":{"a":"40.87889","o":"-75.44538"},"o":"-75.44587","sw":{"a":"40.86945","o":"-75.44635"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.41895,40.03439],"type":"Point"},"properties":{"a":"40.03439","cty":"LANCASTER","hp":true,"id":8810717,"mun":"MANOR TWP","nc":109,"ne":{"a":"40.03528","o":"-76.41715"},"o":"-76.41895","sw":{"a":"40.0335","o":"-76.42075"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.327141,40.107171],"type":"Point"},"properties":{"a":"40.107171","cty":"LANCASTER","id":8810721,"mun":"MANHEIM TWP","nc":5,"o":"-76.327141"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.327141,40.107171],"type":"Point"},"properties":{"a":"40.107171","cty":"LANCASTER","id":8810721,"mun":"MANHEIM TWP","nc":1,"o":"-76.327141"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.610199,41.063238],"type":"Point"},"properties":{"a":"41.063238","cty":"CARBON","id":8810728,"mun":"KIDDER TWP","nc":1,"o":"-75.610199"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.791446,40.284022],"type":"Point"},"properties":{"a":"40.284022","cty":"DAUPHIN","id":8810730,"mun":"LOWER PAXTON TWP","nc":19,"o":"-76.791446"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.733165,40.825439],"type":"Point"},"properties":{"a":"40.825439","cty":"NORTHUMBERLAND","id":8810740,"mun":"ROCKEFELLER TWP","nc":2,"o":"-76.733165"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.426525,40.228286],"type":"Point"},"properties":{"a":"40.228286","cty":"LANCASTER","id":8810742,"mun":"RAPHO TWP","nc":1,"o":"-76.426525"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.46238,40.8889],"type":"Point"},"properties":{"a":"40.8889","cty":"MONROE","hp":true,"id":8810748,"mun":"POLK TWP","nc":184,"ne":{"a":"40.8973","o":"-75.44382"},"o":"-75.46238","sw":{"a":"40.8805","o":"-75.48094"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.867963,41.171212],"type":"Point"},"properties":{"a":"41.171212","cty":"LUZERNE","id":8810750,"mun":"FAIRVIEW TWP","nc":8,"o":"-75.867963"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.315784,40.031395],"type":"Point"},"properties":{"a":"40.031395","cty":"LANCASTER","id":8810757,"mun":"LANCASTER","nc":1,"o":"-76.315784"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.351938,40.039887],"type":"Point"},"properties":{"a":"40.039887","cty":"LANCASTER","id":8810761,"mun":"EAST HEMPFIELD TWP","nc":1,"o":"-76.351938"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.972947,40.336187],"type":"Point"},"properties":{"a":"40.336187","cty":"BERKS","id":8810767,"mun":"WYOMISSING BORO","nc":6,"o":"-75.972947"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.22733,40.143934],"type":"Point"},"properties":{"a":"40.143934","cty":"LANCASTER","id":8810769,"mun":"WARWICK TWP","nc":3,"o":"-76.22733"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.477263,40.179804],"type":"Point"},"properties":{"a":"40.179804","cty":"LANCASTER","id":8810771,"mun":"RAPHO TWP","nc":1,"o":"-76.477263"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.22135,40.59807],"type":"Point"},"properties":{"a":"40.59807","cty":"SCHUYLKILL","hp":true,"id":8810772,"mun":"WAYNE TWP","nc":51,"ne":{"a":"40.60181","o":"-76.21697"},"o":"-76.22135","sw":{"a":"40.59433","o":"-76.22572"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.466039,40.617503],"type":"Point"},"properties":{"a":"40.617503","cty":"LEHIGH","id":8810773,"mun":"ALLENTOWN","nc":1,"o":"-75.466039"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.768346,40.218905],"type":"Point"},"properties":{"a":"40.218905","cty":"DAUPHIN","id":8810774,"mun":"LOWER SWATARA TWP","nc":11,"o":"-76.768346"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.949329,40.236774],"type":"Point"},"properties":{"a":"40.236774","cty":"CUMBERLAND","id":8810776,"mun":"HAMPDEN TWP","nc":6,"o":"-76.949329"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.681241,41.41283],"type":"Point"},"properties":{"a":"41.41283","cty":"LACKAWANNA","id":8810777,"mun":"SCRANTON","nc":1,"o":"-75.681241"},"type":"Feature"}
 ]}
