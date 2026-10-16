@@ -1,7 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.48422,40.84971],"type":"Point"},"properties":{"a":"40.84971","cty":"MONROE","hp":true,"id":8810584,"mun":"ELDRED TWP","nc":73,"ne":{"a":"40.85565","o":"-75.47273"},"o":"-75.48422","sw":{"a":"40.84378","o":"-75.4957"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.10731,39.86248],"type":"Point"},"properties":{"a":"39.86248","cty":"LANCASTER","hp":true,"id":8810623,"mun":"COLERAIN TWP","nc":5,"ne":{"a":"39.86398","o":"-76.10527"},"o":"-76.10731","sw":{"a":"39.86098","o":"-76.10934"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.610243,41.063984],"type":"Point"},"properties":{"a":"41.063984","cty":"CARBON","id":8810633,"mun":"KIDDER TWP","nc":8,"o":"-75.610243"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.610199,41.063238],"type":"Point"},"properties":{"a":"41.063238","cty":"CARBON","id":8810638,"mun":"KIDDER TWP","nc":1,"o":"-75.610199"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.403555,41.295751],"type":"Point"},"properties":{"a":"41.295751","cty":"WAYNE","id":8810639,"mun":"STERLING TWP","nc":1,"o":"-75.403555"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.403555,41.295751],"type":"Point"},"properties":{"a":"41.295751","cty":"WAYNE","id":8810639,"mun":"STERLING TWP","nc":1,"o":"-75.403555"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.40869,41.28595],"type":"Point"},"properties":{"a":"41.28595","cty":"WAYNE","hp":true,"id":8810641,"mun":"LEHIGH TWP","nc":149,"ne":{"a":"41.29421","o":"-75.39811"},"o":"-75.40869","sw":{"a":"41.27769","o":"-75.41927"}},"type":"Feature"}
 ]}

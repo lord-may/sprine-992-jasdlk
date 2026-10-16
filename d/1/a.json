@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-73.87114,40.70612],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"NEW","cust_a":{"val":1},"etr":"ETR-NULL","outages":null,"reported_problem":"Partial Outage","title":"Outage Information"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.89911,40.89186],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"ASN","cust_a":{"val":31},"etr":"2026-10-16T05:00:00-0400","outages":null,"reported_problem":"No Lights","title":"Outage Information"},"type":"Feature"}
+
 ]}
