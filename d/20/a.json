@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-77.5382,43.0977],"type":"Point"},"properties":{"EstRest":"10/16/2026 4:00:00 AM","Outages":17,"county":"MONROE","customers":303507,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.5382,43.0977],"type":"Point"},"properties":{"EstRest":"10/16/2026 4:00:00 AM","Outages":9,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":28,"hamlet":"PITTSFORD","incidentnumber":"01158C","incidents":1,"level":"street","opco":"RGE","street":"WEST BROOK RD","town":"PITTSFORD"},"type":"Feature"}
 ]}
