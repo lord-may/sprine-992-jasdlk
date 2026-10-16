@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.817845,42.002037],"type":"Point"},"properties":{"EstRest":"10/16/2026 1:45:00 AM","Outages":7,"cause":"","county":"CHEMUNG","crewstatus":"ONST ","customers":7,"hamlet":"PINE CITY","incidentnumber":"011583","incidents":1,"level":"street","opco":"NYSEG","street":"SITZER RD","town":"SOUTHPORT T"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.84921,42.021339],"type":"Point"},"properties":{"EstRest":"10/16/2026 1:45:00 AM","Outages":82,"county":"CHEMUNG","customers":39910,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.817845,42.002037],"type":"Point"},"properties":{"EstRest":"10/16/2026 5:00:00 AM","Outages":7,"cause":"","county":"CHEMUNG","crewstatus":"DISP ","customers":7,"hamlet":"PINE CITY","incidentnumber":"011583","incidents":1,"level":"street","opco":"NYSEG","street":"SITZER RD","town":"SOUTHPORT T"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.84921,42.021339],"type":"Point"},"properties":{"EstRest":"10/16/2026 5:00:00 AM","Outages":82,"county":"CHEMUNG","customers":39910,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.098966,42.379137],"type":"Point"},"properties":{"EstRest":"10/16/2026 4:45:00 AM","Outages":6,"cause":"","county":"SCHUYLER","crewstatus":"     ","customers":24,"hamlet":"BRADFORD","incidentnumber":"011588","incidents":1,"level":"street","opco":"NYSEG","street":"W LAKE RD","town":"ORANGE T"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.098966,42.379137],"type":"Point"},"properties":{"EstRest":"10/16/2026 4:45:00 AM","Outages":6,"county":"SCHUYLER","customers":10031,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
