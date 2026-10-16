@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.767787,44.594736],"type":"Point"},"properties":{"EstRest":"10/16/2026 1:30:00 PM","Outages":14,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.769991,44.595588],"type":"Point"},"properties":{"EstRest":"10/16/2026 1:30:00 PM","Outages":7,"cause":"","county":"KENNEBEC","crewstatus":"ONST ","customers":8,"hamlet":"OAKLAND","incidentnumber":"0043OO","incidents":1,"level":"street","opco":"CMP","street":"BENSON COVE","town":"OAKLAND"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.675634,44.696609],"type":"Point"},"properties":{"EstRest":"10/16/2026 1:45:00 PM","Outages":5,"cause":"","county":"SOMERSET","crewstatus":"ENRT ","customers":125,"hamlet":"SKOWHEGAN","incidentnumber":"0043OR","incidents":1,"level":"street","opco":"CMP","street":"MIDDLE RD","town":"SKOWHEGAN"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.680003,44.685931],"type":"Point"},"properties":{"EstRest":"10/16/2026 1:45:00 PM","Outages":26,"county":"SOMERSET","customers":31730,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
