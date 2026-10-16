@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-74.714687,41.18712],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-16T11:16:00-04:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-16T07:29:45.77-04:00","outageName":"C F6-32-3","outagePoint":{"lat":41.187119941575844,"lng":-74.71468674996296},"outageRecID":"2026-10-16-0036","outageStartTime":"2026-10-16T07:16:00-04:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
