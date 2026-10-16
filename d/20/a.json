@@ -1,7 +1,8 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-78.133277,42.498429],"type":"Point"},"properties":{"EstRest":"10/16/2026 1:15:00 PM","Outages":21,"cause":"","county":"ALLEGANY","crewstatus":"DISP ","customers":21,"hamlet":"FILLMORE","incidentnumber":"0115EA","incidents":1,"level":"street","opco":"RGE","street":"LAPP RD","town":"HUME"},"type":"Feature"},
 {"geometry":{"coordinates":[-78.148183,42.521445],"type":"Point"},"properties":{"EstRest":"10/16/2026 1:15:00 PM","Outages":134,"county":"ALLEGANY","customers":11171,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.885073,43.201527],"type":"Point"},"properties":{"EstRest":"10/16/2026 12:30:00 PM","Outages":14,"county":"WAYNE","customers":27029,"incidents":2,"level":"county","opco":"RGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.315234,43.226769],"type":"Point"},"properties":{"EstRest":"10/16/2026 12:30:00 PM","Outages":10,"cause":"","county":"WAYNE","crewstatus":"DISP ","customers":254,"hamlet":"ONTARIO","incidentnumber":"0115DY","incidents":1,"level":"street","opco":"RGE","street":"ROUTE 104","town":"ONTARIO"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.315234,43.226769],"type":"Point"},"properties":{"EstRest":"10/16/2026 12:30:00 PM","Outages":10,"county":"WAYNE","customers":27029,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
 {"geometry":{"coordinates":[-78.153238,42.547926],"type":"Point"},"properties":{"EstRest":"10/16/2026 1:15:00 PM","Outages":353,"county":"WYOMING","customers":1200,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
 {"geometry":{"coordinates":[-78.17409,42.554119],"type":"Point"},"properties":{"EstRest":"10/16/2026 1:15:00 PM","Outages":6,"cause":"","county":"WYOMING","crewstatus":"DISP ","customers":6,"hamlet":"PIKE","incidentnumber":"0115EA","incidents":1,"level":"street","opco":"RGE","street":"TELEGRAPH RD","town":"PIKE"},"type":"Feature"}
 ]}
