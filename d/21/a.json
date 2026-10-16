@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-70.429032,43.74637],"type":"Point"},"properties":{"EstRest":"10/16/2026 10:00:00 AM","Outages":16,"cause":"","county":"CUMBERLAND","crewstatus":"DISP ","customers":16,"hamlet":"WINDHAM","incidentnumber":"0043NC","incidents":1,"level":"street","opco":"CMP","street":"JUNCO DR","town":"WINDHAM"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.430899,43.746976],"type":"Point"},"properties":{"EstRest":"10/16/2026 10:00:00 AM","Outages":118,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.014954,44.424458],"type":"Point"},"properties":{"EstRest":"10/16/2026 8:15:00 AM","Outages":6,"cause":"","county":"WALDO","crewstatus":"ONST ","customers":153,"hamlet":"BELFAST","incidentnumber":"0043NE","incidents":1,"level":"street","opco":"CMP","street":"MAIN ST","town":"BELFAST"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.014954,44.424458],"type":"Point"},"properties":{"EstRest":"10/16/2026 8:15:00 AM","Outages":6,"county":"WALDO","customers":26703,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.177703,44.111821],"type":"Point"},"properties":{"EstRest":"10/16/2026 10:00:00 AM","Outages":1,"cause":"","county":"KNOX","crewstatus":"DISP ","customers":165,"hamlet":"THOMASTON","incidentnumber":"0043NJ","incidents":1,"level":"street","opco":"CMP","street":"BEECHWOOD ST","town":"THOMASTON"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.177703,44.111821],"type":"Point"},"properties":{"EstRest":"10/16/2026 10:00:00 AM","Outages":1,"county":"KNOX","customers":27251,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}

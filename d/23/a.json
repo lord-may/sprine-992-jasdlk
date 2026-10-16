@@ -12,5 +12,8 @@
 {"geometry":{"coordinates":[-75.329843,40.670963],"type":"Point"},"properties":{"a":"40.670963","cty":"NORTHAMPTON","id":8810666,"mun":"BETHLEHEM TWP","nc":1,"o":"-75.329843"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.458428,41.118493],"type":"Point"},"properties":{"a":"41.118493","cty":"MONROE","id":8810667,"mun":"TOBYHANNA TWP","nc":1,"o":"-75.458428"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.347158,40.642666],"type":"Point"},"properties":{"a":"40.642666","cty":"NORTHAMPTON","id":8810668,"mun":"BETHLEHEM","nc":9,"o":"-75.347158"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.373202,41.023243],"type":"Point"},"properties":{"a":"41.023243","cty":"COLUMBIA","id":8810669,"mun":"SOUTH CENTRE TWP","nc":1,"o":"-76.373202"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.553541,41.531811],"type":"Point"},"properties":{"a":"41.531811","cty":"LACKAWANNA","id":8810671,"mun":"ARCHBALD BORO","nc":6,"o":"-75.553541"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.474039,40.604265],"type":"Point"},"properties":{"a":"40.604265","cty":"LEHIGH","id":8810672,"mun":"ALLENTOWN","nc":1,"o":"-75.474039"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.624142,41.422035],"type":"Point"},"properties":{"a":"41.422035","cty":"LACKAWANNA","id":8810674,"mun":"DUNMORE BORO","nc":1,"o":"-75.624142"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.431031,40.389908],"type":"Point"},"properties":{"a":"40.389908","cty":"BUCKS","id":8810675,"mun":"MILFORD TWP","nc":1,"o":"-75.431031"},"type":"Feature"}
 ]}
