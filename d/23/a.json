@@ -3,5 +3,8 @@
 {"geometry":{"coordinates":[-75.403555,41.295751],"type":"Point"},"properties":{"a":"41.295751","cty":"WAYNE","id":8810639,"mun":"STERLING TWP","nc":1,"o":"-75.403555"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.40869,41.28595],"type":"Point"},"properties":{"a":"41.28595","cty":"WAYNE","hp":true,"id":8810641,"mun":"LEHIGH TWP","nc":149,"ne":{"a":"41.29421","o":"-75.39811"},"o":"-75.40869","sw":{"a":"41.27769","o":"-75.41927"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.88659,41.2456],"type":"Point"},"properties":{"a":"41.2456","cty":"LUZERNE","hp":true,"id":8810646,"mun":"WILKES-BARRE","nc":63,"ne":{"a":"41.24696","o":"-75.88451"},"o":"-75.88659","sw":{"a":"41.24425","o":"-75.88868"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.458428,41.118493],"type":"Point"},"properties":{"a":"41.118493","cty":"MONROE","id":8810648,"mun":"TOBYHANNA TWP","nc":3,"o":"-75.458428"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.458428,41.118493],"type":"Point"},"properties":{"a":"41.118493","cty":"MONROE","id":8810648,"mun":"TOBYHANNA TWP","nc":3,"o":"-75.458428"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.937781,40.3029],"type":"Point"},"properties":{"a":"40.3029","cty":"CUMBERLAND","id":8810652,"mun":"EAST PENNSBORO TWP","nc":1,"o":"-76.937781"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.307387,41.462888],"type":"Point"},"properties":{"a":"41.462888","cty":"WAYNE","id":8810653,"mun":"LAKE TWP","nc":2,"o":"-75.307387"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.60595,41.27355],"type":"Point"},"properties":{"a":"41.27355","cty":"LYCOMING","hp":true,"id":8810658,"mun":"PENN TWP","nc":19,"ne":{"a":"41.28507","o":"-76.60047"},"o":"-76.60595","sw":{"a":"41.26203","o":"-76.61143"}},"type":"Feature"}
 ]}
