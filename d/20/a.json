@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.632688,43.398126],"type":"Point"},"properties":{"EstRest":"10/16/2026 9:15:00 AM","Outages":58,"county":"CAYUGA","customers":6136,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.639869,43.40283],"type":"Point"},"properties":{"EstRest":"10/16/2026 9:15:00 AM","Outages":16,"cause":"","county":"CAYUGA","crewstatus":"     ","customers":18,"hamlet":"STERLING","incidentnumber":"0115A5","incidents":1,"level":"street","opco":"RGE","street":"ONTARIO SHORE DR","town":"STERLING"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.639869,43.40283],"type":"Point"},"properties":{"EstRest":"10/16/2026 9:15:00 AM","Outages":16,"cause":"","county":"CAYUGA","crewstatus":"DISP ","customers":18,"hamlet":"STERLING","incidentnumber":"0115A5","incidents":1,"level":"street","opco":"RGE","street":"ONTARIO SHORE DR","town":"STERLING"},"type":"Feature"}
 ]}

@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.411262,41.834546],"type":"Point"},"properties":{"a":"41.834546","cty":"PROVIDENCE","id":20261066698,"mun":"PROVIDENCE","nc":1,"o":"-71.411262"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.496137,41.803254],"type":"Point"},"properties":{"a":"41.803254","cty":"PROVIDENCE","id":20261066700,"mun":"JOHNSTON","nc":1,"o":"-71.496137"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.411262,41.834546],"type":"Point"},"properties":{"a":"41.834546","cty":"PROVIDENCE","id":20261066698,"mun":"PROVIDENCE","nc":1,"o":"-71.411262"},"type":"Feature"}
 ]}

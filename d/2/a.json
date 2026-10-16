@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-74.26862,41.55865],"type":"Point"},"properties":{"cluster":false,"cust_a":{"val":2},"etr":"ETR-EXP","inc_id":"559216","title":"Outage Information"},"type":"Feature"}
+{"geometry":{"coordinates":[-74.26862,41.55865],"type":"Point"},"properties":{"cluster":false,"cust_a":{"val":2},"etr":"ETR-EXP","inc_id":"559216","title":"Outage Information"},"type":"Feature"},
+{"geometry":{"coordinates":[-74.68519,41.36508],"type":"Point"},"properties":{"cause":"Single Service Incident","cluster":false,"cust_a":{"val":1},"etr":"2026-10-16T09:55:03-0400","inc_id":"559220","title":"Outage Information"},"type":"Feature"}
 ]}
