@@ -1,5 +1,8 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.390123,41.829793],"type":"Point"},"properties":{"a":"41.829793","cty":"PROVIDENCE","id":20261066719,"mun":"PROVIDENCE","nc":1,"o":"-71.390123"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.592885,41.944622],"type":"Point"},"properties":{"a":"41.944622","cty":"PROVIDENCE","id":20261066721,"mun":"BURRILLVILLE","nc":1,"o":"-71.592885"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.379902,41.820474],"type":"Point"},"properties":{"a":"41.820474","cty":"PROVIDENCE","id":20261066726,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.379902"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.379902,41.820474],"type":"Point"},"properties":{"a":"41.820474","cty":"PROVIDENCE","id":20261066726,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.379902"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.54996,41.91587],"type":"Point"},"properties":{"a":"41.91587","cty":"PROVIDENCE","id":20261066727,"mun":"SMITHFIELD","nc":1,"o":"-71.54996"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.302249,41.480744],"type":"Point"},"properties":{"a":"41.480744","cty":"NEWPORT","id":20261066729,"mun":"NEWPORT","nc":1,"o":"-71.302249"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.634922,41.800524],"type":"Point"},"properties":{"a":"41.800524","cty":"PROVIDENCE","id":20261066730,"mun":"SCITUATE","nc":1,"o":"-71.634922"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.536086,41.867567],"type":"Point"},"properties":{"a":"41.867567","cty":"PROVIDENCE","id":20261066731,"mun":"SMITHFIELD","nc":1,"o":"-71.536086"},"type":"Feature"}
 ]}
