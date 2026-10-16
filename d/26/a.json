@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-71.377644,44.963493],[-71.377411,44.96566],[-71.382423,44.974106],[-71.382612,44.974418],[-71.388154,44.979718],[-71.407854,44.976273],[-71.382136,44.964268],[-71.379117,44.963563],[-71.378659,44.963537],[-71.377644,44.963493]]],"type":"Polygon"},{"coordinates":[-71.390014,44.972537],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"Emergency Outage for Danger Tree Removal. ETR is 2:30 PM","estimateTime":1792175400000,"id":"594465","nbrOut":40,"timeOff":1792173468693},"type":"Feature"}
+
 ]}
