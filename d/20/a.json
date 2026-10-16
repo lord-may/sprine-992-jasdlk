@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.565622,43.219931],"type":"Point"},"properties":{"EstRest":"10/16/2026 6:45:00 AM","Outages":15,"county":"MONROE","customers":303507,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.568222,43.220709],"type":"Point"},"properties":{"EstRest":"10/16/2026 6:45:00 AM","Outages":4,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":4,"hamlet":"ROCHESTER","incidentnumber":"011596","incidents":1,"level":"street","opco":"RGE","street":"SPRING VALLEY DR","town":"IRONDEQUOIT"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.562772,43.218867],"type":"Point"},"properties":{"EstRest":"10/16/2026 7:45:00 AM","Outages":16,"county":"MONROE","customers":303507,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.568222,43.220709],"type":"Point"},"properties":{"EstRest":"10/16/2026 7:45:00 AM","Outages":4,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":4,"hamlet":"ROCHESTER","incidentnumber":"01159B","incidents":1,"level":"street","opco":"RGE","street":"SPRING VALLEY DR","town":"IRONDEQUOIT"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.428005,42.819856],"type":"Point"},"properties":{"EstRest":"10/16/2026 6:00:00 AM","Outages":18,"county":"ONTARIO","customers":35916,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.436294,42.81844],"type":"Point"},"properties":{"EstRest":"10/16/2026 6:00:00 AM","Outages":15,"cause":"","county":"ONTARIO","crewstatus":"DISP ","customers":30,"hamlet":"BLOOMFIELD","incidentnumber":"01158X","incidents":1,"level":"street","opco":"RGE","street":"GREGG RD","town":"BRISTOL"},"type":"Feature"}
 ]}
