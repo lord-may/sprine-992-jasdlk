@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-77.15616,43.185522],"type":"Point"},"properties":{"EstRest":"10/16/2026 9:30:00 PM","Outages":30,"county":"WAYNE","customers":27029,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.158806,43.177406],"type":"Point"},"properties":{"EstRest":"10/16/2026 9:30:00 PM","Outages":22,"cause":"","county":"WAYNE","crewstatus":"     ","customers":59,"hamlet":"MARION","incidentnumber":"0115MT","incidents":1,"level":"street","opco":"RGE","street":"EAST WILLIAMSON RD","town":"MARION"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.158806,43.177406],"type":"Point"},"properties":{"EstRest":"10/16/2026 9:30:00 PM","Outages":22,"cause":"","county":"WAYNE","crewstatus":"DISP ","customers":59,"hamlet":"MARION","incidentnumber":"0115MT","incidents":1,"level":"street","opco":"RGE","street":"EAST WILLIAMSON RD","town":"MARION"},"type":"Feature"}
 ]}
