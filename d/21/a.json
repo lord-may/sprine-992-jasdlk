@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.000213,44.509223],"type":"Point"},"properties":{"EstRest":"10/17/2026 1:15:00 AM","Outages":1,"cause":"","county":"KENNEBEC","crewstatus":"     ","customers":16,"hamlet":"VIENNA","incidentnumber":"0043RO","incidents":1,"level":"street","opco":"CMP","street":"HERRIN WOODS RD","town":"VIENNA"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.000213,44.509223],"type":"Point"},"properties":{"EstRest":"10/17/2026 1:15:00 AM","Outages":1,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.000213,44.509223],"type":"Point"},"properties":{"EstRest":"10/17/2026 1:15:00 AM","Outages":1,"cause":"","county":"KENNEBEC","crewstatus":"DISP ","customers":16,"hamlet":"VIENNA","incidentnumber":"0043RO","incidents":1,"level":"street","opco":"CMP","street":"HERRIN WOODS RD","town":"VIENNA"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.000213,44.509223],"type":"Point"},"properties":{"EstRest":"10/17/2026 1:15:00 AM","Outages":1,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.518403,44.181806],"type":"Point"},"properties":{"EstRest":"10/17/2026 1:45:00 AM","Outages":3,"cause":"","county":"LINCOLN","crewstatus":"     ","customers":9,"hamlet":"JEFFERSON","incidentnumber":"0043RT","incidents":1,"level":"street","opco":"CMP","street":"NECK RD","town":"JEFFERSON"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.518403,44.181806],"type":"Point"},"properties":{"EstRest":"10/17/2026 1:45:00 AM","Outages":3,"county":"LINCOLN","customers":29091,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
