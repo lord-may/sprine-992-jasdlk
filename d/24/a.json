@@ -1,8 +1,10 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.459409,41.866197],"type":"Point"},"properties":{"a":"41.866197","cty":"PROVIDENCE","id":20261066866,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.459409"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.487284,41.702866],"type":"Point"},"properties":{"a":"41.702866","cty":"KENT","id":20261066877,"mun":"WARWICK","nc":1,"o":"-71.487284"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.41848,41.92406],"type":"Point"},"properties":{"a":"41.92406","cty":"PROVIDENCE","hp":true,"id":20261066879,"mun":"CUMBERLAND","nc":81,"ne":{"a":"41.92558","o":"-71.41645"},"o":"-71.41848","sw":{"a":"41.92253","o":"-71.4205"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.400007,41.867564],"type":"Point"},"properties":{"a":"41.867564","cty":"PROVIDENCE","id":20261066885,"mun":"PAWTUCKET","nc":1,"o":"-71.400007"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.28478,41.698351],"type":"Point"},"properties":{"a":"41.698351","cty":"BRISTOL","id":20261066887,"mun":"BRISTOL","nc":1,"o":"-71.28478"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.300109,41.758166],"type":"Point"},"properties":{"a":"41.758166","cty":"BRISTOL","id":20261066888,"mun":"BARRINGTON","nc":1,"o":"-71.300109"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.300109,41.758166],"type":"Point"},"properties":{"a":"41.758166","cty":"BRISTOL","id":20261066888,"mun":"BARRINGTON","nc":1,"o":"-71.300109"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.447619,41.471047],"type":"Point"},"properties":{"a":"41.471047","cty":"WASHINGTON","id":20261066891,"mun":"NARRAGANSETT","nc":1,"o":"-71.447619"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.38653,41.831547],"type":"Point"},"properties":{"a":"41.831547","cty":"PROVIDENCE","id":20261066892,"mun":"PROVIDENCE","nc":1,"o":"-71.38653"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.428296,41.50874],"type":"Point"},"properties":{"a":"41.50874","cty":"WASHINGTON","id":20261066893,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.428296"},"type":"Feature"}
 ]}

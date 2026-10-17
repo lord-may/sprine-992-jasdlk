@@ -1,10 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.63507,41.709533],"type":"Point"},"properties":{"a":"41.709533","cty":"SUSQUEHANNA","id":8811513,"mun":"CLIFFORD TWP","nc":1,"o":"-75.63507"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.63329,41.71408],"type":"Point"},"properties":{"a":"41.71408","cty":"SUSQUEHANNA","hp":true,"id":8811515,"mun":"CLIFFORD TWP","nc":6,"ne":{"a":"41.71583","o":"-75.63214"},"o":"-75.63329","sw":{"a":"41.71233","o":"-75.63444"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.226614,41.073267],"type":"Point"},"properties":{"a":"41.073267","cty":"CLINTON","id":8811517,"mun":"GREENE TWP","nc":3,"o":"-77.226614"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.34815,41.47159],"type":"Point"},"properties":{"a":"41.47159","cty":"WAYNE","hp":true,"id":8811523,"mun":"LAKE TWP","nc":101,"ne":{"a":"41.4829","o":"-75.33064"},"o":"-75.34815","sw":{"a":"41.46029","o":"-75.36565"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.17297,41.6284],"type":"Point"},"properties":{"a":"41.6284","cty":"WAYNE","hp":true,"id":8811527,"mun":"BERLIN TWP","nc":33,"ne":{"a":"41.63579","o":"-75.15762"},"o":"-75.17297","sw":{"a":"41.621","o":"-75.18831"}},"type":"Feature"},
-{"geometry":{"coordinates":[-74.967106,41.426735],"type":"Point"},"properties":{"a":"41.426735","cty":"PIKE","id":8811530,"mun":"SHOHOLA TWP","nc":1,"o":"-74.967106"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.23402,41.139299],"type":"Point"},"properties":{"a":"41.139299","cty":"MONROE","id":8811531,"mun":"PRICE TWP","nc":4,"o":"-75.23402"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.192569,40.366832],"type":"Point"},"properties":{"a":"40.366832","cty":"PERRY","id":8811554,"mun":"CARROLL TWP","nc":1,"o":"-77.192569"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.9736,41.20386],"type":"Point"},"properties":{"a":"41.20386","cty":"LYCOMING","hp":true,"id":8811563,"mun":"ARMSTRONG TWP","nc":54,"ne":{"a":"41.21858","o":"-76.9505"},"o":"-76.9736","sw":{"a":"41.18914","o":"-76.99669"}},"type":"Feature"},
@@ -12,11 +8,8 @@
 {"geometry":{"coordinates":[-76.939255,40.21439],"type":"Point"},"properties":{"a":"40.21439","cty":"CUMBERLAND","id":8811577,"mun":"LOWER ALLEN TWP","nc":1,"o":"-76.939255"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.05303,39.78808],"type":"Point"},"properties":{"a":"39.78808","cty":"LANCASTER","hp":true,"id":8811580,"mun":"LITTLE BRITAIN TWP","nc":49,"ne":{"a":"39.79462","o":"-76.04673"},"o":"-76.05303","sw":{"a":"39.78153","o":"-76.05933"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.789853,40.252488],"type":"Point"},"properties":{"a":"40.252488","cty":"DAUPHIN","id":8811581,"mun":"SWATARA TWP","nc":1,"o":"-76.789853"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.2895,41.13543],"type":"Point"},"properties":{"a":"41.13543","cty":"COLUMBIA","hp":true,"id":8811583,"mun":"FISHING CREEK TWP","nc":11,"ne":{"a":"41.1394","o":"-76.28069"},"o":"-76.2895","sw":{"a":"41.13146","o":"-76.29831"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.769907,41.349947],"type":"Point"},"properties":{"a":"41.349947","cty":"LUZERNE","id":8811585,"mun":"DURYEA BORO","nc":1,"o":"-75.769907"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.93011,40.50731],"type":"Point"},"properties":{"a":"40.50731","cty":"DAUPHIN","hp":true,"id":8811587,"mun":"HALIFAX TWP","nc":5,"ne":{"a":"40.50842","o":"-76.92975"},"o":"-76.93011","sw":{"a":"40.5062","o":"-76.93046"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.961483,41.258262],"type":"Point"},"properties":{"a":"41.258262","cty":"LYCOMING","id":8811590,"mun":"LOYALSOCK TWP","nc":1,"o":"-76.961483"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.795474,40.892119],"type":"Point"},"properties":{"a":"40.892119","cty":"NORTHUMBERLAND","id":8811596,"mun":"POINT TWP","nc":1,"o":"-76.795474"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.735425,40.661129],"type":"Point"},"properties":{"a":"40.661129","cty":"NORTHUMBERLAND","id":8811597,"mun":"JORDAN TWP","nc":7,"o":"-76.735425"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.095037,40.196114],"type":"Point"},"properties":{"a":"40.196114","cty":"LANCASTER","id":8811598,"mun":"BRECKNOCK TWP","nc":1,"o":"-76.095037"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.589689,40.154306],"type":"Point"},"properties":{"a":"40.154306","cty":"LANCASTER","id":8811599,"mun":"MOUNT JOY TWP","nc":1,"o":"-76.589689"},"type":"Feature"},
@@ -37,5 +30,9 @@
 {"geometry":{"coordinates":[-75.380312,40.549574],"type":"Point"},"properties":{"a":"40.549574","cty":"LEHIGH","id":8811637,"mun":"UPPER SAUCON TWP","nc":4,"o":"-75.380312"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.426536,40.590967],"type":"Point"},"properties":{"a":"40.590967","cty":"LEHIGH","id":8811639,"mun":"SALISBURY TWP","nc":7,"o":"-75.426536"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.90967,40.17364],"type":"Point"},"properties":{"a":"40.17364","cty":"YORK","hp":true,"id":8811644,"mun":"FAIRVIEW TWP","nc":54,"ne":{"a":"40.17936","o":"-76.90225"},"o":"-76.90967","sw":{"a":"40.16793","o":"-76.91709"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.868335,41.226663],"type":"Point"},"properties":{"a":"41.226663","cty":"LUZERNE","id":8811646,"mun":"WILKES-BARRE TWP","nc":1,"o":"-75.868335"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.868335,41.226663],"type":"Point"},"properties":{"a":"41.226663","cty":"LUZERNE","id":8811646,"mun":"WILKES-BARRE TWP","nc":1,"o":"-75.868335"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.273502,41.171912],"type":"Point"},"properties":{"a":"41.171912","cty":"MONROE","id":8811647,"mun":"BARRETT TWP","nc":18,"o":"-75.273502"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.447592,40.603262],"type":"Point"},"properties":{"a":"40.603262","cty":"LEHIGH","id":8811648,"mun":"ALLENTOWN","nc":36,"o":"-75.447592"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.211871,40.42331],"type":"Point"},"properties":{"a":"40.42331","cty":"PERRY","id":8811650,"mun":"CENTRE TWP","nc":1,"o":"-77.211871"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.340339,41.460138],"type":"Point"},"properties":{"a":"41.460138","cty":"WAYNE","id":8811652,"mun":"LAKE TWP","nc":4,"o":"-75.340339"},"type":"Feature"}
 ]}
