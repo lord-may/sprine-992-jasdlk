@@ -26,5 +26,6 @@
 {"geometry":{"coordinates":[-75.373018,41.702153],"type":"Point"},"properties":{"a":"41.702153","cty":"WAYNE","id":8811603,"mun":"MOUNT PLEASANT TWP","nc":1,"o":"-75.373018"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.582398,40.148253],"type":"Point"},"properties":{"a":"40.148253","cty":"LANCASTER","id":8811604,"mun":"ELIZABETHTOWN BORO","nc":3,"o":"-76.582398"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.499819,40.035125],"type":"Point"},"properties":{"a":"40.035125","cty":"LANCASTER","id":8811605,"mun":"COLUMBIA BORO","nc":1,"o":"-76.499819"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.330101,40.322281],"type":"Point"},"properties":{"a":"40.322281","cty":"MONTGOMERY","id":8811606,"mun":"TELFORD BORO","nc":16,"o":"-75.330101"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.986199,41.220477],"type":"Point"},"properties":{"a":"41.220477","cty":"LYCOMING","id":8811608,"mun":"ARMSTRONG TWP","nc":1,"o":"-76.986199"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.557394,41.483741],"type":"Point"},"properties":{"a":"41.483741","cty":"LACKAWANNA","id":8811611,"mun":"ARCHBALD BORO","nc":6,"o":"-75.557394"},"type":"Feature"}
 ]}

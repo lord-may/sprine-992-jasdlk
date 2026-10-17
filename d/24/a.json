@@ -2,5 +2,7 @@
 {"geometry":{"coordinates":[-71.459409,41.866197],"type":"Point"},"properties":{"a":"41.866197","cty":"PROVIDENCE","id":20261066866,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.459409"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.51458,41.8983],"type":"Point"},"properties":{"a":"41.8983","cty":"PROVIDENCE","hp":true,"id":20261066867,"mun":"SMITHFIELD","nc":18,"ne":{"a":"41.89978","o":"-71.51355"},"o":"-71.51458","sw":{"a":"41.89682","o":"-71.51561"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.511912,41.897765],"type":"Point"},"properties":{"a":"41.897765","cty":"PROVIDENCE","id":20261066870,"mun":"SMITHFIELD","nc":1,"o":"-71.511912"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.487284,41.702866],"type":"Point"},"properties":{"a":"41.702866","cty":"KENT","id":20261066877,"mun":"WARWICK","nc":1,"o":"-71.487284"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.487284,41.702866],"type":"Point"},"properties":{"a":"41.702866","cty":"KENT","id":20261066877,"mun":"WARWICK","nc":1,"o":"-71.487284"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.41848,41.92406],"type":"Point"},"properties":{"a":"41.92406","cty":"PROVIDENCE","hp":true,"id":20261066879,"mun":"CUMBERLAND","nc":81,"ne":{"a":"41.92558","o":"-71.41645"},"o":"-71.41848","sw":{"a":"41.92253","o":"-71.4205"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.465016,41.871161],"type":"Point"},"properties":{"a":"41.871161","cty":"PROVIDENCE","id":20261066880,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.465016"},"type":"Feature"}
 ]}
