@@ -1,13 +1,9 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.487284,41.702866],"type":"Point"},"properties":{"a":"41.702866","cty":"KENT","id":20261066877,"mun":"WARWICK","nc":1,"o":"-71.487284"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.400007,41.867564],"type":"Point"},"properties":{"a":"41.867564","cty":"PROVIDENCE","id":20261066885,"mun":"PAWTUCKET","nc":1,"o":"-71.400007"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.428296,41.50874],"type":"Point"},"properties":{"a":"41.50874","cty":"WASHINGTON","id":20261066893,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.428296"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.366807,41.873121],"type":"Point"},"properties":{"a":"41.873121","cty":"PROVIDENCE","id":20261066896,"mun":"PAWTUCKET","nc":1,"o":"-71.366807"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.445434,41.627645],"type":"Point"},"properties":{"a":"41.627645","cty":"WASHINGTON","id":20261066898,"mun":"NORTH KINGSTOWN","nc":6,"o":"-71.445434"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.478886,41.385894],"type":"Point"},"properties":{"a":"41.385894","cty":"WASHINGTON","id":20261066901,"mun":"NARRAGANSETT","nc":1,"o":"-71.478886"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.530213,41.872176],"type":"Point"},"properties":{"a":"41.872176","cty":"PROVIDENCE","id":20261066902,"mun":"SMITHFIELD","nc":1,"o":"-71.530213"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.422405,41.795185],"type":"Point"},"properties":{"a":"41.795185","cty":"PROVIDENCE","id":20261066904,"mun":"PROVIDENCE","nc":1,"o":"-71.422405"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.458616,42.014385],"type":"Point"},"properties":{"a":"42.014385","cty":"PROVIDENCE","id":20261066912,"mun":"WOONSOCKET","nc":1,"o":"-71.458616"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.304316,41.749284],"type":"Point"},"properties":{"a":"41.749284","cty":"BRISTOL","id":20261066914,"mun":"BARRINGTON","nc":1,"o":"-71.304316"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.288984,41.56134],"type":"Point"},"properties":{"a":"41.56134","cty":"NEWPORT","id":20261066917,"mun":"PORTSMOUTH","nc":1,"o":"-71.288984"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.288984,41.56134],"type":"Point"},"properties":{"a":"41.56134","cty":"NEWPORT","id":20261066917,"mun":"PORTSMOUTH","nc":1,"o":"-71.288984"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.389495,41.870396],"type":"Point"},"properties":{"a":"41.870396","cty":"PROVIDENCE","id":20261066919,"mun":"PAWTUCKET","nc":1,"o":"-71.389495"},"type":"Feature"}
 ]}
