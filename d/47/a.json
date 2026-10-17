@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-67.86547,45.676092],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":21,"customersOutNow":21,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-16T23:56:43.993-04:00","outageName":"F91015-64","outagePoint":{"lat":45.676092499999996,"lng":-67.86546999999999},"outageRecID":"2026-10-16-0271","outageStartTime":"2026-10-16T23:47:18-04:00","outageWorkStatus":"","streetsAffected":["SPRINGER RD","SPRINGER RD GARAGE","SPRINGER RD- HOUSE"],"verified":true},"type":"Feature"}
+
 ]}
