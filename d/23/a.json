@@ -7,6 +7,6 @@
 {"geometry":{"coordinates":[-75.087481,41.361286],"type":"Point"},"properties":{"a":"41.361286","cty":"PIKE","id":8811874,"mun":"BLOOMING GROVE TWP","nc":1,"o":"-75.087481"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.57961,40.984739],"type":"Point"},"properties":{"a":"40.984739","cty":"CARBON","id":8811878,"mun":"PENN FOREST TWP","nc":3,"o":"-75.57961"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.88765,40.34247],"type":"Point"},"properties":{"a":"40.34247","cty":"DAUPHIN","hp":true,"id":8811889,"mun":"SUSQUEHANNA TWP","nc":76,"ne":{"a":"40.3482","o":"-76.87385"},"o":"-76.88765","sw":{"a":"40.33674","o":"-76.90145"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.273502,41.171912],"type":"Point"},"properties":{"a":"41.171912","cty":"MONROE","id":8811929,"mun":"BARRETT TWP","nc":18,"o":"-75.273502"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.961552,40.33974],"type":"Point"},"properties":{"a":"40.33974","cty":"PERRY","id":8812004,"mun":"RYE TWP","nc":4,"o":"-76.961552"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.448761,41.135357],"type":"Point"},"properties":{"a":"41.135357","cty":"MONROE","id":8812204,"mun":"COOLBAUGH TWP","nc":2,"o":"-75.448761"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.167809,40.582855],"type":"Point"},"properties":{"a":"40.582855","cty":"SCHUYLKILL","id":8812224,"mun":"SOUTH MANHEIM TWP","nc":1,"o":"-76.167809"},"type":"Feature"}
 ]}
