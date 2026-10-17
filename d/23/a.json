@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.93011,40.50731],"type":"Point"},"properties":{"a":"40.50731","cty":"DAUPHIN","hp":true,"id":8811587,"mun":"HALIFAX TWP","nc":5,"ne":{"a":"40.50842","o":"-76.92975"},"o":"-76.93011","sw":{"a":"40.5062","o":"-76.93046"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.66085,40.24864],"type":"Point"},"properties":{"a":"40.24864","cty":"DAUPHIN","hp":true,"id":8811615,"mun":"DERRY TWP","nc":6,"ne":{"a":"40.25004","o":"-76.65781"},"o":"-76.66085","sw":{"a":"40.24725","o":"-76.6639"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.929992,40.448601],"type":"Point"},"properties":{"a":"40.448601","cty":"DAUPHIN","id":8811622,"mun":"HALIFAX TWP","nc":5,"o":"-76.929992"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.44381,40.5724],"type":"Point"},"properties":{"a":"40.5724","cty":"JUNIATA","hp":true,"id":8811757,"mun":"MILFORD TWP","nc":7,"ne":{"a":"40.57372","o":"-77.43785"},"o":"-77.44381","sw":{"a":"40.57107","o":"-77.44976"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.791298,40.798949],"type":"Point"},"properties":{"a":"40.798949","cty":"NORTHUMBERLAND","id":8811772,"mun":"LOWER AUGUSTA TWP","nc":1,"o":"-76.791298"},"type":"Feature"},
@@ -17,7 +16,6 @@
 {"geometry":{"coordinates":[-76.44335,41.01981],"type":"Point"},"properties":{"a":"41.01981","cty":"COLUMBIA","hp":true,"id":8811846,"mun":"SCOTT TWP","nc":20,"ne":{"a":"41.02197","o":"-76.43522"},"o":"-76.44335","sw":{"a":"41.01765","o":"-76.45149"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.99772,40.330236],"type":"Point"},"properties":{"a":"40.330236","cty":"BERKS","id":8811848,"mun":"SPRING TWP","nc":10,"o":"-75.99772"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.656207,40.565803],"type":"Point"},"properties":{"a":"40.565803","cty":"LEHIGH","id":8811850,"mun":"UPPER MACUNGIE TWP","nc":1,"o":"-75.656207"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.649151,41.392267],"type":"Point"},"properties":{"a":"41.392267","cty":"LACKAWANNA","id":8811857,"mun":"SCRANTON","nc":12,"o":"-75.649151"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.20189,40.239463],"type":"Point"},"properties":{"a":"40.239463","cty":"CUMBERLAND","id":8811859,"mun":"NORTH MIDDLETON TWP","nc":2,"o":"-77.20189"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.190927,40.418657],"type":"Point"},"properties":{"a":"40.418657","cty":"PERRY","id":8811861,"mun":"CENTRE TWP","nc":5,"o":"-77.190927"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.20189,40.239463],"type":"Point"},"properties":{"a":"40.239463","cty":"CUMBERLAND","id":8811859,"mun":"NORTH MIDDLETON TWP","nc":1,"o":"-77.20189"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.336216,41.478001],"type":"Point"},"properties":{"a":"41.478001","cty":"WAYNE","id":8811863,"mun":"LAKE TWP","nc":3,"o":"-75.336216"},"type":"Feature"}
 ]}
