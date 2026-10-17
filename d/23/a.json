@@ -4,7 +4,6 @@
 {"geometry":{"coordinates":[-77.226614,41.073267],"type":"Point"},"properties":{"a":"41.073267","cty":"CLINTON","id":8811517,"mun":"GREENE TWP","nc":3,"o":"-77.226614"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.34815,41.47159],"type":"Point"},"properties":{"a":"41.47159","cty":"WAYNE","hp":true,"id":8811523,"mun":"LAKE TWP","nc":101,"ne":{"a":"41.4829","o":"-75.33064"},"o":"-75.34815","sw":{"a":"41.46029","o":"-75.36565"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.17297,41.6284],"type":"Point"},"properties":{"a":"41.6284","cty":"WAYNE","hp":true,"id":8811527,"mun":"BERLIN TWP","nc":33,"ne":{"a":"41.63579","o":"-75.15762"},"o":"-75.17297","sw":{"a":"41.621","o":"-75.18831"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.638965,40.546262],"type":"Point"},"properties":{"a":"40.546262","cty":"LEHIGH","id":8811529,"mun":"UPPER MACUNGIE TWP","nc":10,"o":"-75.638965"},"type":"Feature"},
 {"geometry":{"coordinates":[-74.967106,41.426735],"type":"Point"},"properties":{"a":"41.426735","cty":"PIKE","id":8811530,"mun":"SHOHOLA TWP","nc":1,"o":"-74.967106"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.23402,41.139299],"type":"Point"},"properties":{"a":"41.139299","cty":"MONROE","id":8811531,"mun":"PRICE TWP","nc":4,"o":"-75.23402"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.50317,40.58779],"type":"Point"},"properties":{"a":"40.58779","cty":"SCHUYLKILL","hp":true,"id":8811536,"mun":"PORTER TWP","nc":9,"ne":{"a":"40.58923","o":"-76.50194"},"o":"-76.50317","sw":{"a":"40.58635","o":"-76.50441"}},"type":"Feature"},
