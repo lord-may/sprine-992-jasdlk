@@ -1,7 +1,7 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.212539,44.298972],"type":"Point"},"properties":{"EstRest":"10/17/2026 5:00:00 AM","Outages":4,"cause":"","county":"KNOX","crewstatus":"DISP ","customers":4,"hamlet":"APPLETON","incidentnumber":"0043T6","incidents":1,"level":"street","opco":"CMP","street":"HALL LN","town":"APPLETON"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.212539,44.298972],"type":"Point"},"properties":{"EstRest":"10/17/2026 5:00:00 AM","Outages":4,"cause":"","county":"KNOX","crewstatus":"ENRT ","customers":4,"hamlet":"APPLETON","incidentnumber":"0043T6","incidents":1,"level":"street","opco":"CMP","street":"HALL LN","town":"APPLETON"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.215115,44.301729],"type":"Point"},"properties":{"EstRest":"10/17/2026 5:00:00 AM","Outages":21,"county":"KNOX","customers":27251,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.867759,45.080451],"type":"Point"},"properties":{"EstRest":"10/17/2026 4:15:00 AM","Outages":269,"county":"SOMERSET","customers":31730,"incidents":3,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.776533,44.822454],"type":"Point"},"properties":{"EstRest":"10/17/2026 5:45:00 AM","Outages":53,"county":"SOMERSET","customers":31730,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.965058,43.403777],"type":"Point"},"properties":{"EstRest":"10/17/2026 4:45:00 AM","Outages":1,"cause":"","county":"YORK","crewstatus":"DISP ","customers":26,"hamlet":"LEBANON","incidentnumber":"0043S8","incidents":1,"level":"street","opco":"CMP","street":"POPLAR HILL RD","town":"LEBANON"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.965058,43.403777],"type":"Point"},"properties":{"EstRest":"10/17/2026 4:45:00 AM","Outages":1,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
