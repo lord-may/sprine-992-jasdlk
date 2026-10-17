@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-73.81904,40.76515],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"NEW","cust_a":{"val":1},"etr":"ETR-NULL","outages":null,"reported_problem":"Partial Outage","title":"Outage Information"},"type":"Feature"},
 {"geometry":{"coordinates":[-73.82508,40.89066],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"ASN","cust_a":{"val":1},"etr":"ETR-EXP","outages":null,"reported_problem":null,"title":"Outage Information"},"type":"Feature"},
-{"geometry":{"coordinates":[-74.1503,40.53559],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"UNA","cust_a":{"val":1},"etr":"2026-10-17T06:30:00-0400","outages":null,"reported_problem":"Partial Outage","title":"Outage Information"},"type":"Feature"}
+{"geometry":{"coordinates":[-74.1503,40.53559],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"DSP","cust_a":{"val":1},"etr":"2026-10-17T06:30:00-0400","outages":null,"reported_problem":"Partial Outage","title":"Outage Information"},"type":"Feature"}
 ]}
