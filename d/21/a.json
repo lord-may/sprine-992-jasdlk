@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-69.812737,44.728763],"type":"Point"},"properties":{"EstRest":"10/17/2026 6:15:00 PM","Outages":141,"county":"SOMERSET","customers":31730,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.859242,43.67309],"type":"Point"},"properties":{"EstRest":"10/17/2026 5:15:00 PM","Outages":1,"cause":"","county":"YORK","crewstatus":"     ","customers":1,"hamlet":"NEWFIELD","incidentnumber":"0043W2","incidents":1,"level":"street","opco":"CMP","street":"DURGIN RD","town":"NEWFIELD"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.859242,43.67309],"type":"Point"},"properties":{"EstRest":"10/17/2026 5:15:00 PM","Outages":1,"cause":"","county":"YORK","crewstatus":"DISP ","customers":1,"hamlet":"NEWFIELD","incidentnumber":"0043W2","incidents":1,"level":"street","opco":"CMP","street":"DURGIN RD","town":"NEWFIELD"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.86003,43.674577],"type":"Point"},"properties":{"EstRest":"10/17/2026 5:15:00 PM","Outages":37,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
