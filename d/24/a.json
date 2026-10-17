@@ -10,5 +10,8 @@
 {"geometry":{"coordinates":[-71.445434,41.627645],"type":"Point"},"properties":{"a":"41.627645","cty":"WASHINGTON","id":20261066898,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.445434"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.418216,41.796479],"type":"Point"},"properties":{"a":"41.796479","cty":"PROVIDENCE","id":20261066899,"mun":"PROVIDENCE","nc":1,"o":"-71.418216"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.478886,41.385894],"type":"Point"},"properties":{"a":"41.385894","cty":"WASHINGTON","id":20261066901,"mun":"NARRAGANSETT","nc":1,"o":"-71.478886"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.530213,41.872176],"type":"Point"},"properties":{"a":"41.872176","cty":"PROVIDENCE","id":20261066902,"mun":"SMITHFIELD","nc":1,"o":"-71.530213"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.530213,41.872176],"type":"Point"},"properties":{"a":"41.872176","cty":"PROVIDENCE","id":20261066902,"mun":"SMITHFIELD","nc":1,"o":"-71.530213"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.422405,41.795185],"type":"Point"},"properties":{"a":"41.795185","cty":"PROVIDENCE","id":20261066904,"mun":"PROVIDENCE","nc":1,"o":"-71.422405"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.425869,41.805964],"type":"Point"},"properties":{"a":"41.805964","cty":"PROVIDENCE","id":20261066905,"mun":"PROVIDENCE","nc":1,"o":"-71.425869"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.413475,41.805847],"type":"Point"},"properties":{"a":"41.805847","cty":"PROVIDENCE","id":20261066906,"mun":"PROVIDENCE","nc":1,"o":"-71.413475"},"type":"Feature"}
 ]}
