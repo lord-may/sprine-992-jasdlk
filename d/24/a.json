@@ -5,5 +5,5 @@
 {"geometry":{"coordinates":[-71.445434,41.627645],"type":"Point"},"properties":{"a":"41.627645","cty":"WASHINGTON","id":20261066898,"mun":"NORTH KINGSTOWN","nc":6,"o":"-71.445434"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.478886,41.385894],"type":"Point"},"properties":{"a":"41.385894","cty":"WASHINGTON","id":20261066901,"mun":"NARRAGANSETT","nc":1,"o":"-71.478886"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.288984,41.56134],"type":"Point"},"properties":{"a":"41.56134","cty":"NEWPORT","id":20261066917,"mun":"PORTSMOUTH","nc":1,"o":"-71.288984"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.389495,41.870396],"type":"Point"},"properties":{"a":"41.870396","cty":"PROVIDENCE","id":20261066919,"mun":"PAWTUCKET","nc":1,"o":"-71.389495"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.386698,41.876683],"type":"Point"},"properties":{"a":"41.876683","cty":"PROVIDENCE","id":20261066921,"mun":"PAWTUCKET","nc":15,"o":"-71.386698"},"type":"Feature"}
 ]}

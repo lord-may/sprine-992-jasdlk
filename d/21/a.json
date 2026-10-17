@@ -1,7 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-70.270648,44.275027],"type":"Point"},"properties":{"EstRest":"10/17/2026 1:45:00 PM","Outages":266,"county":"ANDROSCOGGIN","customers":59602,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.386484,44.859807],"type":"Point"},"properties":{"EstRest":"10/17/2026 12:30:00 PM","Outages":1,"cause":"Tree","county":"FRANKLIN","crewstatus":"CMPL ","customers":54,"hamlet":"PHILLIPS","incidentnumber":"0043V1","incidents":1,"level":"street","opco":"CMP","street":"TOOTHAKER POND RD","town":"PHILLIPS"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.386484,44.859807],"type":"Point"},"properties":{"EstRest":"10/17/2026 12:30:00 PM","Outages":1,"county":"FRANKLIN","customers":24700,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.459512,44.096304],"type":"Point"},"properties":{"EstRest":"10/17/2026 12:45:00 PM","Outages":43,"county":"OXFORD","customers":44086,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.350318,43.446301],"type":"Point"},"properties":{"EstRest":"10/17/2026 1:45:00 PM","Outages":25,"county":"YORK","customers":132723,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}

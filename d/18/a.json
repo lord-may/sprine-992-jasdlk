@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-68.4407,45.4117],"type":"Point"},"properties":{"cause":{"EN-US":"Limb On Line Trim Adequate","orig":"Limb On Line Trim Adequate"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":null,"cust_a":{"val":1},"etr":"ETR-NULL","etr_confidence":null,"inc_id":"575948-1","n_out":1,"start_time":null,"title":"Area Outage"},"type":"Feature"},
-{"geometry":{"coordinates":[-68.6979,44.8502],"type":"Point"},"properties":{"cause":{"EN-US":"Under Investigation","orig":"Under Investigation"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":null,"cust_a":{"val":1},"etr":"2026-10-17T16:30:00Z","etr_confidence":null,"inc_id":"575964-1","n_out":1,"start_time":null,"title":"Area Outage"},"type":"Feature"},
 {"geometry":{"coordinates":[-68.799,44.7847],"type":"Point"},"properties":{"cause":{"EN-US":"Under Investigation","orig":"Under Investigation"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":null,"cust_a":{"val":1},"etr":"2026-10-17T17:30:00Z","etr_confidence":null,"inc_id":"575965-1","n_out":1,"start_time":null,"title":"Area Outage"},"type":"Feature"}
 ]}
