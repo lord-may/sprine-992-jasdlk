@@ -2,5 +2,5 @@
 {"geometry":{"coordinates":[-77.056457,42.072594],"type":"Point"},"properties":{"EstRest":"10/17/2026 8:00:00 AM","Outages":10,"county":"CHEMUNG","customers":39910,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.062487,42.078107],"type":"Point"},"properties":{"EstRest":"10/17/2026 7:45:00 AM","Outages":37,"cause":"","county":"STEUBEN","crewstatus":"DISP ","customers":37,"hamlet":"CORNING","incidentnumber":"0115PC","incidents":1,"level":"street","opco":"NYSEG","street":"MARTIN HILL RD","town":"CATON T"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.06365,42.053443],"type":"Point"},"properties":{"EstRest":"10/17/2026 7:45:00 AM","Outages":328,"county":"STEUBEN","customers":42831,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.975034,42.734292],"type":"Point"},"properties":{"EstRest":"10/17/2026 8:00:00 AM","Outages":7,"county":"WYOMING","customers":12294,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.975034,42.734292],"type":"Point"},"properties":{"EstRest":"10/17/2026 7:15:00 AM","Outages":7,"county":"WYOMING","customers":12294,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
