@@ -8,7 +8,6 @@
 {"geometry":{"coordinates":[-76.88765,40.34247],"type":"Point"},"properties":{"a":"40.34247","cty":"DAUPHIN","hp":true,"id":8811889,"mun":"SUSQUEHANNA TWP","nc":76,"ne":{"a":"40.3482","o":"-76.87385"},"o":"-76.88765","sw":{"a":"40.33674","o":"-76.90145"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.167809,40.582855],"type":"Point"},"properties":{"a":"40.582855","cty":"SCHUYLKILL","id":8812224,"mun":"SOUTH MANHEIM TWP","nc":1,"o":"-76.167809"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.98203,40.254803],"type":"Point"},"properties":{"a":"40.254803","cty":"CUMBERLAND","id":8812368,"mun":"HAMPDEN TWP","nc":5,"o":"-76.98203"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.18198,41.427265],"type":"Point"},"properties":{"a":"41.427265","cty":"PIKE","id":8812379,"mun":"PALMYRA TWP","nc":8,"o":"-75.18198"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.20189,40.239463],"type":"Point"},"properties":{"a":"40.239463","cty":"CUMBERLAND","id":8812435,"mun":"NORTH MIDDLETON TWP","nc":2,"o":"-77.20189"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.29446,40.67487],"type":"Point"},"properties":{"a":"40.67487","cty":"NORTHAMPTON","hp":true,"id":8812437,"mun":"BETHLEHEM TWP","nc":2333,"ne":{"a":"40.69112","o":"-75.27193"},"o":"-75.29446","sw":{"a":"40.65863","o":"-75.31699"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.29446,40.67487],"type":"Point"},"properties":{"a":"40.67487","cty":"NORTHAMPTON","hp":true,"id":8812437,"mun":"BETHLEHEM TWP","nc":2333,"ne":{"a":"40.69112","o":"-75.27193"},"o":"-75.29446","sw":{"a":"40.65863","o":"-75.31699"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.727992,41.236244],"type":"Point"},"properties":{"a":"41.236244","cty":"LYCOMING","id":8812707,"mun":"WOLF TWP","nc":9,"o":"-76.727992"},"type":"Feature"}
 ]}
