@@ -1,6 +1,8 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-77.487078,43.045191],"type":"Point"},"properties":{"EstRest":"10/17/2026 2:30:00 PM","Outages":17,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":54,"hamlet":"PITTSFORD","incidentnumber":"0115RM","incidents":1,"level":"street","opco":"RGE","street":"PARKRIDGE DR","town":"PITTSFORD"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.487165,43.048668],"type":"Point"},"properties":{"EstRest":"10/17/2026 2:30:00 PM","Outages":25,"county":"MONROE","customers":303507,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.341748,42.947301],"type":"Point"},"properties":{"EstRest":"10/17/2026 3:15:00 PM","Outages":5,"cause":"","county":"ONTARIO","crewstatus":"     ","customers":23,"hamlet":"FARMINGTON","incidentnumber":"0115RY","incidents":1,"level":"street","opco":"RGE","street":"BEECHWOOD DR","town":"FARMINGTON"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.341748,42.947301],"type":"Point"},"properties":{"EstRest":"10/17/2026 3:15:00 PM","Outages":5,"county":"ONTARIO","customers":35916,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.814662,43.260577],"type":"Point"},"properties":{"EstRest":"10/17/2026 3:00:00 PM","Outages":7,"cause":"","county":"WAYNE","crewstatus":"DISP ","customers":202,"hamlet":"WOLCOTT","incidentnumber":"0115RP","incidents":1,"level":"street","opco":"RGE","street":"EAST PORT BAY RD","town":"WOLCOTT"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.814662,43.260577],"type":"Point"},"properties":{"EstRest":"10/17/2026 3:00:00 PM","Outages":7,"county":"WAYNE","customers":27029,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
