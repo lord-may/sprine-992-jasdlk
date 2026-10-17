@@ -22,7 +22,6 @@
 {"geometry":{"coordinates":[-76.929587,40.468515],"type":"Point"},"properties":{"a":"40.468515","cty":"DAUPHIN","id":8811632,"mun":"HALIFAX TWP","nc":11,"o":"-76.929587"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.892504,41.223751],"type":"Point"},"properties":{"a":"41.223751","cty":"LUZERNE","id":8811633,"mun":"WILKES-BARRE","nc":1,"o":"-75.892504"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.81569,40.867701],"type":"Point"},"properties":{"a":"40.867701","cty":"CARBON","id":8811634,"mun":"NESQUEHONING BORO","nc":1,"o":"-75.81569"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.426536,40.590967],"type":"Point"},"properties":{"a":"40.590967","cty":"LEHIGH","id":8811639,"mun":"SALISBURY TWP","nc":7,"o":"-75.426536"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.90967,40.17364],"type":"Point"},"properties":{"a":"40.17364","cty":"YORK","hp":true,"id":8811644,"mun":"FAIRVIEW TWP","nc":54,"ne":{"a":"40.17936","o":"-76.90225"},"o":"-76.90967","sw":{"a":"40.16793","o":"-76.91709"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.273502,41.171912],"type":"Point"},"properties":{"a":"41.171912","cty":"MONROE","id":8811647,"mun":"BARRETT TWP","nc":18,"o":"-75.273502"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.447592,40.603262],"type":"Point"},"properties":{"a":"40.603262","cty":"LEHIGH","id":8811648,"mun":"ALLENTOWN","nc":36,"o":"-75.447592"},"type":"Feature"},
@@ -39,5 +38,11 @@
 {"geometry":{"coordinates":[-76.279081,40.04704],"type":"Point"},"properties":{"a":"40.04704","cty":"LANCASTER","id":8811665,"mun":"NA","nc":1,"o":"-76.279081"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.929958,40.465612],"type":"Point"},"properties":{"a":"40.465612","cty":"DAUPHIN","id":8811666,"mun":"HALIFAX TWP","nc":1,"o":"-76.929958"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.470935,41.11061],"type":"Point"},"properties":{"a":"41.11061","cty":"MONROE","id":8811668,"mun":"TOBYHANNA TWP","nc":4,"o":"-75.470935"},"type":"Feature"},
-{"geometry":{"coordinates":[-74.98608,41.5039],"type":"Point"},"properties":{"a":"41.5039","cty":"PIKE","hp":true,"id":8811669,"mun":"LACKAWAXEN TWP","nc":17,"ne":{"a":"41.50767","o":"-74.9847"},"o":"-74.98608","sw":{"a":"41.50012","o":"-74.98747"}},"type":"Feature"}
+{"geometry":{"coordinates":[-74.98608,41.5039],"type":"Point"},"properties":{"a":"41.5039","cty":"PIKE","hp":true,"id":8811669,"mun":"LACKAWAXEN TWP","nc":17,"ne":{"a":"41.50767","o":"-74.9847"},"o":"-74.98608","sw":{"a":"41.50012","o":"-74.98747"}},"type":"Feature"},
+{"geometry":{"coordinates":[-77.273937,40.635565],"type":"Point"},"properties":{"a":"40.635565","cty":"JUNIATA","id":8811670,"mun":"FAYETTE TWP","nc":14,"o":"-77.273937"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.393854,40.533488],"type":"Point"},"properties":{"a":"40.533488","cty":"JUNIATA","id":8811672,"mun":"PORT ROYAL BORO","nc":5,"o":"-77.393854"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.292844,40.30037],"type":"Point"},"properties":{"a":"40.30037","cty":"LEBANON","id":8811673,"mun":"HEIDELBERG TWP","nc":3,"o":"-76.292844"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.76767,40.770817],"type":"Point"},"properties":{"a":"40.770817","cty":"CARBON","id":8811675,"mun":"EAST PENN TWP","nc":4,"o":"-75.76767"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.7856,41.16446],"type":"Point"},"properties":{"a":"41.16446","cty":"NORTHUMBERLAND","hp":true,"id":8811677,"mun":"DELAWARE TWP","nc":5,"ne":{"a":"41.16669","o":"-76.7834"},"o":"-76.7856","sw":{"a":"41.16223","o":"-76.78781"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.185012,40.087907],"type":"Point"},"properties":{"a":"40.087907","cty":"LANCASTER","id":8811678,"mun":"UPPER LEACOCK TWP","nc":5,"o":"-76.185012"},"type":"Feature"}
 ]}
