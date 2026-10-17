@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.968669,40.387857],"type":"Point"},"properties":{"a":"40.387857","cty":"DAUPHIN","id":8810969,"mun":"MIDDLE PAXTON TWP","nc":4,"o":"-76.968669"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.41203,40.99815],"type":"Point"},"properties":{"a":"40.99815","cty":"COLUMBIA","hp":true,"id":8811094,"mun":"MAIN TWP","nc":56,"ne":{"a":"41.00061","o":"-76.40688"},"o":"-76.41203","sw":{"a":"40.9957","o":"-76.41718"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.261955,41.390326],"type":"Point"},"properties":{"a":"41.390326","cty":"WAYNE","id":8811184,"mun":"PAUPACK TWP","nc":3,"o":"-75.261955"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.241442,41.557873],"type":"Point"},"properties":{"a":"41.557873","cty":"WAYNE","id":8811218,"mun":"HONESDALE BORO","nc":2,"o":"-75.241442"},"type":"Feature"},
@@ -31,5 +30,7 @@
 {"geometry":{"coordinates":[-76.35379,40.96366],"type":"Point"},"properties":{"a":"40.96366","cty":"COLUMBIA","hp":true,"id":8811473,"mun":"MAIN TWP","nc":7,"ne":{"a":"40.96455","o":"-76.35044"},"o":"-76.35379","sw":{"a":"40.96277","o":"-76.35713"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.557394,41.483741],"type":"Point"},"properties":{"a":"41.483741","cty":"LACKAWANNA","id":8811475,"mun":"ARCHBALD BORO","nc":6,"o":"-75.557394"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.385534,41.26898],"type":"Point"},"properties":{"a":"41.26898","cty":"WAYNE","id":8811476,"mun":"LEHIGH TWP","nc":3,"o":"-75.385534"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.20189,40.239463],"type":"Point"},"properties":{"a":"40.239463","cty":"CUMBERLAND","id":8811477,"mun":"NORTH MIDDLETON TWP","nc":2,"o":"-77.20189"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.25765,40.91212],"type":"Point"},"properties":{"a":"40.91212","cty":"UNION","hp":true,"id":8811481,"mun":"HARTLEY TWP","nc":5,"ne":{"a":"40.91388","o":"-77.25181"},"o":"-77.25765","sw":{"a":"40.91036","o":"-77.2635"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.563028,41.16907],"type":"Point"},"properties":{"a":"41.16907","cty":"MONROE","id":8811483,"mun":"COOLBAUGH TWP","nc":2,"o":"-75.563028"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.71621,40.65539],"type":"Point"},"properties":{"a":"40.65539","cty":"DAUPHIN","hp":true,"id":8811488,"mun":"LYKENS TWP","nc":320,"ne":{"a":"40.67443","o":"-76.67166"},"o":"-76.71621","sw":{"a":"40.63636","o":"-76.76077"}},"type":"Feature"}
 ]}
