@@ -14,5 +14,7 @@
 {"geometry":{"coordinates":[-75.454887,40.595622],"type":"Point"},"properties":{"a":"40.595622","cty":"LEHIGH","id":8811845,"mun":"ALLENTOWN","nc":4,"o":"-75.454887"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.99772,40.330236],"type":"Point"},"properties":{"a":"40.330236","cty":"BERKS","id":8811848,"mun":"SPRING TWP","nc":10,"o":"-75.99772"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.656207,40.565803],"type":"Point"},"properties":{"a":"40.565803","cty":"LEHIGH","id":8811850,"mun":"UPPER MACUNGIE TWP","nc":1,"o":"-75.656207"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.20189,40.239463],"type":"Point"},"properties":{"a":"40.239463","cty":"CUMBERLAND","id":8811859,"mun":"NORTH MIDDLETON TWP","nc":1,"o":"-77.20189"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.245449,41.026845],"type":"Point"},"properties":{"a":"41.026845","cty":"MONROE","id":8811864,"mun":"STROUD TWP","nc":4,"o":"-75.245449"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.61162,40.83399],"type":"Point"},"properties":{"a":"40.83399","cty":"NORTHUMBERLAND","hp":true,"id":8811866,"mun":"SHAMOKIN TWP","nc":10,"ne":{"a":"40.838","o":"-76.60345"},"o":"-76.61162","sw":{"a":"40.82998","o":"-76.61978"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.273502,41.171912],"type":"Point"},"properties":{"a":"41.171912","cty":"MONROE","id":8811867,"mun":"BARRETT TWP","nc":18,"o":"-75.273502"},"type":"Feature"}
 ]}
