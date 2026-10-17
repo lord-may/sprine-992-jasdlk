@@ -1,11 +1,8 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.968669,40.387857],"type":"Point"},"properties":{"a":"40.387857","cty":"DAUPHIN","id":8810969,"mun":"MIDDLE PAXTON TWP","nc":4,"o":"-76.968669"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.355782,40.850277],"type":"Point"},"properties":{"a":"40.850277","cty":"UNION","id":8811061,"mun":"HARTLEY TWP","nc":1,"o":"-77.355782"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.41203,40.99815],"type":"Point"},"properties":{"a":"40.99815","cty":"COLUMBIA","hp":true,"id":8811094,"mun":"MAIN TWP","nc":56,"ne":{"a":"41.00061","o":"-76.40688"},"o":"-76.41203","sw":{"a":"40.9957","o":"-76.41718"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.832326,40.281758],"type":"Point"},"properties":{"a":"40.281758","cty":"DAUPHIN","id":8811104,"mun":"SUSQUEHANNA TWP","nc":11,"o":"-76.832326"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.83589,41.53121],"type":"Point"},"properties":{"a":"41.53121","cty":"WYOMING","hp":true,"id":8811121,"mun":"OVERFIELD TWP","nc":41,"ne":{"a":"41.53797","o":"-75.82376"},"o":"-75.83589","sw":{"a":"41.52445","o":"-75.84802"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.31113,40.0779],"type":"Point"},"properties":{"a":"40.0779","cty":"CUMBERLAND","hp":true,"id":8811176,"mun":"PENN TWP","nc":42,"ne":{"a":"40.08891","o":"-77.30335"},"o":"-77.31113","sw":{"a":"40.0669","o":"-77.31892"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.482638,40.603588],"type":"Point"},"properties":{"a":"40.603588","cty":"LEHIGH","id":8811181,"mun":"ALLENTOWN","nc":1,"o":"-75.482638"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.261955,41.390326],"type":"Point"},"properties":{"a":"41.390326","cty":"WAYNE","id":8811184,"mun":"PAUPACK TWP","nc":3,"o":"-75.261955"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.26897,41.68441],"type":"Point"},"properties":{"a":"41.68441","cty":"WAYNE","hp":true,"id":8811211,"mun":"LEBANON TWP","nc":11,"ne":{"a":"41.68969","o":"-75.26313"},"o":"-75.26897","sw":{"a":"41.67914","o":"-75.27481"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.453144,40.590372],"type":"Point"},"properties":{"a":"40.590372","cty":"LEHIGH","id":8811214,"mun":"ALLENTOWN","nc":19,"o":"-75.453144"},"type":"Feature"},
@@ -31,5 +28,8 @@
 {"geometry":{"coordinates":[-75.348681,41.441697],"type":"Point"},"properties":{"a":"41.441697","cty":"WAYNE","id":8811436,"mun":"LAKE TWP","nc":1,"o":"-75.348681"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.262124,41.36026],"type":"Point"},"properties":{"a":"41.36026","cty":"PIKE","id":8811438,"mun":"PALMYRA TWP","nc":5,"o":"-75.262124"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.43446,40.559091],"type":"Point"},"properties":{"a":"40.559091","cty":"LEHIGH","id":8811439,"mun":"UPPER SAUCON TWP","nc":2,"o":"-75.43446"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.970778,40.79663],"type":"Point"},"properties":{"a":"40.79663","cty":"SCHUYLKILL","id":8811442,"mun":"TAMAQUA BORO","nc":40,"o":"-75.970778"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.397428,40.547307],"type":"Point"},"properties":{"a":"40.547307","cty":"LEHIGH","id":8811444,"mun":"UPPER SAUCON TWP","nc":6,"o":"-75.397428"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.559484,40.465685],"type":"Point"},"properties":{"a":"40.465685","cty":"NA","id":8811445,"mun":"HEREFORD TWP","nc":2,"o":"-75.559484"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.06671,41.68831],"type":"Point"},"properties":{"a":"41.68831","cty":"WAYNE","hp":true,"id":8811452,"mun":"DAMASCUS TWP","nc":50,"ne":{"a":"41.70253","o":"-75.05471"},"o":"-75.06671","sw":{"a":"41.67409","o":"-75.07872"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.07268,41.66801],"type":"Point"},"properties":{"a":"41.66801","cty":"WAYNE","hp":true,"id":8811453,"mun":"DAMASCUS TWP","nc":15,"ne":{"a":"41.67372","o":"-75.06409"},"o":"-75.07268","sw":{"a":"41.66231","o":"-75.08127"}},"type":"Feature"}
 ]}
