@@ -1,7 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.968669,40.387857],"type":"Point"},"properties":{"a":"40.387857","cty":"DAUPHIN","id":8810969,"mun":"MIDDLE PAXTON TWP","nc":4,"o":"-76.968669"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.41203,40.99815],"type":"Point"},"properties":{"a":"40.99815","cty":"COLUMBIA","hp":true,"id":8811094,"mun":"MAIN TWP","nc":56,"ne":{"a":"41.00061","o":"-76.40688"},"o":"-76.41203","sw":{"a":"40.9957","o":"-76.41718"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.83589,41.53121],"type":"Point"},"properties":{"a":"41.53121","cty":"WYOMING","hp":true,"id":8811121,"mun":"OVERFIELD TWP","nc":41,"ne":{"a":"41.53797","o":"-75.82376"},"o":"-75.83589","sw":{"a":"41.52445","o":"-75.84802"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.261955,41.390326],"type":"Point"},"properties":{"a":"41.390326","cty":"WAYNE","id":8811184,"mun":"PAUPACK TWP","nc":3,"o":"-75.261955"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.241442,41.557873],"type":"Point"},"properties":{"a":"41.557873","cty":"WAYNE","id":8811218,"mun":"HONESDALE BORO","nc":2,"o":"-75.241442"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.30112,41.4567],"type":"Point"},"properties":{"a":"41.4567","cty":"WAYNE","hp":true,"id":8811230,"mun":"LAKE TWP","nc":24,"ne":{"a":"41.458","o":"-75.29906"},"o":"-75.30112","sw":{"a":"41.45539","o":"-75.30318"}},"type":"Feature"},
@@ -13,7 +12,6 @@
 {"geometry":{"coordinates":[-75.26987,40.53432],"type":"Point"},"properties":{"a":"40.53432","cty":"BUCKS","hp":true,"id":8811325,"mun":"SPRINGFIELD TWP","nc":12,"ne":{"a":"40.53644","o":"-75.26678"},"o":"-75.26987","sw":{"a":"40.53221","o":"-75.27296"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.240924,40.464696],"type":"Point"},"properties":{"a":"40.464696","cty":"BUCKS","id":8811329,"mun":"HAYCOCK TWP","nc":3,"o":"-75.240924"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.256196,40.531526],"type":"Point"},"properties":{"a":"40.531526","cty":"BUCKS","id":8811332,"mun":"SPRINGFIELD TWP","nc":1,"o":"-75.256196"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.22024,40.50935],"type":"Point"},"properties":{"a":"40.50935","cty":"BUCKS","hp":true,"id":8811334,"mun":"HAYCOCK TWP","nc":11,"ne":{"a":"40.51361","o":"-75.21612"},"o":"-75.22024","sw":{"a":"40.50508","o":"-75.22435"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.24419,40.5149],"type":"Point"},"properties":{"a":"40.5149","cty":"BUCKS","hp":true,"id":8811339,"mun":"HAYCOCK TWP","nc":50,"ne":{"a":"40.52255","o":"-75.23669"},"o":"-75.24419","sw":{"a":"40.50725","o":"-75.25168"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.24814,40.50249],"type":"Point"},"properties":{"a":"40.50249","cty":"BUCKS","hp":true,"id":8811340,"mun":"HAYCOCK TWP","nc":20,"ne":{"a":"40.50687","o":"-75.24276"},"o":"-75.24814","sw":{"a":"40.4981","o":"-75.25352"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.167241,39.884227],"type":"Point"},"properties":{"a":"39.884227","cty":"LANCASTER","id":8811345,"mun":"EAST DRUMORE TWP","nc":1,"o":"-76.167241"},"type":"Feature"},
@@ -24,9 +22,8 @@
 {"geometry":{"coordinates":[-75.348681,41.441697],"type":"Point"},"properties":{"a":"41.441697","cty":"WAYNE","id":8811436,"mun":"LAKE TWP","nc":1,"o":"-75.348681"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.262124,41.36026],"type":"Point"},"properties":{"a":"41.36026","cty":"PIKE","id":8811438,"mun":"PALMYRA TWP","nc":5,"o":"-75.262124"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.43446,40.559091],"type":"Point"},"properties":{"a":"40.559091","cty":"LEHIGH","id":8811439,"mun":"UPPER SAUCON TWP","nc":2,"o":"-75.43446"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.397428,40.547307],"type":"Point"},"properties":{"a":"40.547307","cty":"LEHIGH","id":8811444,"mun":"UPPER SAUCON TWP","nc":6,"o":"-75.397428"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.559484,40.465685],"type":"Point"},"properties":{"a":"40.465685","cty":"NA","id":8811445,"mun":"HEREFORD TWP","nc":2,"o":"-75.559484"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.06671,41.68831],"type":"Point"},"properties":{"a":"41.68831","cty":"WAYNE","hp":true,"id":8811452,"mun":"DAMASCUS TWP","nc":50,"ne":{"a":"41.70253","o":"-75.05471"},"o":"-75.06671","sw":{"a":"41.67409","o":"-75.07872"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.07268,41.66801],"type":"Point"},"properties":{"a":"41.66801","cty":"WAYNE","hp":true,"id":8811453,"mun":"DAMASCUS TWP","nc":15,"ne":{"a":"41.67372","o":"-75.06409"},"o":"-75.07268","sw":{"a":"41.66231","o":"-75.08127"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.56415,41.33878],"type":"Point"},"properties":{"a":"41.33878","cty":"LACKAWANNA","hp":true,"id":8811457,"mun":"SPRING BROOK TWP","nc":30,"ne":{"a":"41.3437","o":"-75.55781"},"o":"-75.56415","sw":{"a":"41.33386","o":"-75.57048"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.56415,41.33878],"type":"Point"},"properties":{"a":"41.33878","cty":"LACKAWANNA","hp":true,"id":8811457,"mun":"SPRING BROOK TWP","nc":30,"ne":{"a":"41.3437","o":"-75.55781"},"o":"-75.56415","sw":{"a":"41.33386","o":"-75.57048"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.38897,41.27295],"type":"Point"},"properties":{"a":"41.27295","cty":"WAYNE","hp":true,"id":8811463,"mun":"LEHIGH TWP","nc":276,"ne":{"a":"41.27695","o":"-75.3822"},"o":"-75.38897","sw":{"a":"41.26895","o":"-75.39573"}},"type":"Feature"}
 ]}
