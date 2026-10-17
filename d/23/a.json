@@ -25,5 +25,11 @@
 {"geometry":{"coordinates":[-75.56415,41.33878],"type":"Point"},"properties":{"a":"41.33878","cty":"LACKAWANNA","hp":true,"id":8811457,"mun":"SPRING BROOK TWP","nc":30,"ne":{"a":"41.3437","o":"-75.55781"},"o":"-75.56415","sw":{"a":"41.33386","o":"-75.57048"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.38897,41.27295],"type":"Point"},"properties":{"a":"41.27295","cty":"WAYNE","hp":true,"id":8811463,"mun":"LEHIGH TWP","nc":276,"ne":{"a":"41.27695","o":"-75.3822"},"o":"-75.38897","sw":{"a":"41.26895","o":"-75.39573"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.219926,40.51027],"type":"Point"},"properties":{"a":"40.51027","cty":"BUCKS","id":8811464,"mun":"HAYCOCK TWP","nc":1,"o":"-75.219926"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.19407,41.46694],"type":"Point"},"properties":{"a":"41.46694","cty":"WAYNE","hp":true,"id":8811466,"mun":"PALMYRA TWP","nc":24,"ne":{"a":"41.46789","o":"-75.19291"},"o":"-75.19407","sw":{"a":"41.466","o":"-75.19523"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.19407,41.46694],"type":"Point"},"properties":{"a":"41.46694","cty":"WAYNE","hp":true,"id":8811466,"mun":"PALMYRA TWP","nc":24,"ne":{"a":"41.46789","o":"-75.19291"},"o":"-75.19407","sw":{"a":"41.466","o":"-75.19523"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.416059,41.579208],"type":"Point"},"properties":{"a":"41.579208","cty":"WAYNE","id":8811468,"mun":"WAYMART BORO","nc":2,"o":"-75.416059"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.432671,41.575584],"type":"Point"},"properties":{"a":"41.575584","cty":"WAYNE","id":8811469,"mun":"CANAAN TWP","nc":2,"o":"-75.432671"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.09384,41.51796],"type":"Point"},"properties":{"a":"41.51796","cty":"PIKE","hp":true,"id":8811472,"mun":"LACKAWAXEN TWP","nc":77,"ne":{"a":"41.52498","o":"-75.08961"},"o":"-75.09384","sw":{"a":"41.51095","o":"-75.09807"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.35379,40.96366],"type":"Point"},"properties":{"a":"40.96366","cty":"COLUMBIA","hp":true,"id":8811473,"mun":"MAIN TWP","nc":7,"ne":{"a":"40.96455","o":"-76.35044"},"o":"-76.35379","sw":{"a":"40.96277","o":"-76.35713"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.557394,41.483741],"type":"Point"},"properties":{"a":"41.483741","cty":"LACKAWANNA","id":8811475,"mun":"ARCHBALD BORO","nc":6,"o":"-75.557394"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.385534,41.26898],"type":"Point"},"properties":{"a":"41.26898","cty":"WAYNE","id":8811476,"mun":"LEHIGH TWP","nc":3,"o":"-75.385534"},"type":"Feature"}
 ]}
