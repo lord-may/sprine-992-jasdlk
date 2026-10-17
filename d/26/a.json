@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.309246,44.077924],"type":"Point"},"properties":{"comment":"The outage affecting your area is caused by trees on lines. Our crews are on scene making repairs. Estimated time of restoration is 3:00 AM","estimateTime":1792220400000,"id":"594520","nbrOut":1,"timeOff":1792205439493},"type":"Feature"},
-{"geometry":{"geometries":[{"coordinates":[[[-72.287099,43.221235],[-72.285859,43.221805],[-72.247447,43.24341],[-72.247743,43.249148],[-72.248642,43.251196],[-72.266276,43.266217],[-72.296728,43.251615],[-72.305253,43.244836],[-72.289021,43.221681],[-72.287099,43.221235]]],"type":"Polygon"},{"coordinates":[-72.276139,43.244352],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"The outage affecting your area is caused by trees on lines. Our crews are on scene making repairs. Estimated time of restoration is 4:00 AM","estimateTime":1792224000000,"id":"594525","nbrOut":88,"timeOff":1792206366394},"type":"Feature"}
+
 ]}

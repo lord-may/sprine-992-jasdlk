@@ -1,7 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-69.525397,45.585215],"type":"Point"},"properties":{"EstRest":"10/17/2026 3:15:00 AM","Outages":9,"cause":"","county":"PISCATAQUIS","crewstatus":"ONST ","customers":9,"hamlet":"LILY BAY","incidentnumber":"0043SR","incidents":1,"level":"street","opco":"CMP","street":"MATHEWS COVE LN","town":"LILY BAY"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.52653,45.585549],"type":"Point"},"properties":{"EstRest":"10/17/2026 3:15:00 AM","Outages":15,"county":"PISCATAQUIS","customers":10243,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.870972,45.071768],"type":"Point"},"properties":{"EstRest":"10/17/2026 4:15:00 AM","Outages":269,"county":"SOMERSET","customers":31730,"incidents":3,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.965058,43.403777],"type":"Point"},"properties":{"EstRest":"10/17/2026 4:45:00 AM","Outages":1,"cause":"","county":"YORK","crewstatus":"DISP ","customers":26,"hamlet":"LEBANON","incidentnumber":"0043S8","incidents":1,"level":"street","opco":"CMP","street":"POPLAR HILL RD","town":"LEBANON"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.965058,43.403777],"type":"Point"},"properties":{"EstRest":"10/17/2026 4:45:00 AM","Outages":1,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.867759,45.080451],"type":"Point"},"properties":{"EstRest":"10/17/2026 4:15:00 AM","Outages":269,"county":"SOMERSET","customers":31730,"incidents":3,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.965058,43.403777],"type":"Point"},"properties":{"EstRest":"10/17/2026 4:45:00 AM","Outages":303,"county":"YORK","customers":132723,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
