@@ -6,8 +6,5 @@
 {"geometry":{"coordinates":[-75.376752,40.438068],"type":"Point"},"properties":{"a":"40.438068","cty":"BUCKS","id":8811842,"mun":"MILFORD TWP","nc":4,"o":"-75.376752"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.656207,40.565803],"type":"Point"},"properties":{"a":"40.565803","cty":"LEHIGH","id":8811850,"mun":"UPPER MACUNGIE TWP","nc":1,"o":"-75.656207"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.61162,40.83399],"type":"Point"},"properties":{"a":"40.83399","cty":"NORTHUMBERLAND","hp":true,"id":8811866,"mun":"SHAMOKIN TWP","nc":10,"ne":{"a":"40.838","o":"-76.60345"},"o":"-76.61162","sw":{"a":"40.82998","o":"-76.61978"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.534736,41.294528],"type":"Point"},"properties":{"a":"41.294528","cty":"LACKAWANNA","id":8811871,"mun":"COVINGTON TWP","nc":1,"o":"-75.534736"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.39991,41.424927],"type":"Point"},"properties":{"a":"41.424927","cty":"WAYNE","id":8811873,"mun":"SALEM TWP","nc":1,"o":"-75.39991"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.087481,41.361286],"type":"Point"},"properties":{"a":"41.361286","cty":"PIKE","id":8811874,"mun":"BLOOMING GROVE TWP","nc":1,"o":"-75.087481"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.269178,41.45431],"type":"Point"},"properties":{"a":"41.45431","cty":"WAYNE","id":8811875,"mun":"PAUPACK TWP","nc":1,"o":"-75.269178"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.087481,41.361286],"type":"Point"},"properties":{"a":"41.361286","cty":"PIKE","id":8811874,"mun":"BLOOMING GROVE TWP","nc":1,"o":"-75.087481"},"type":"Feature"}
 ]}
