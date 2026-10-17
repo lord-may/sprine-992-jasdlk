@@ -1,8 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.41203,40.99815],"type":"Point"},"properties":{"a":"40.99815","cty":"COLUMBIA","hp":true,"id":8811094,"mun":"MAIN TWP","nc":56,"ne":{"a":"41.00061","o":"-76.40688"},"o":"-76.41203","sw":{"a":"40.9957","o":"-76.41718"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.262124,41.36026],"type":"Point"},"properties":{"a":"41.36026","cty":"PIKE","id":8811438,"mun":"PALMYRA TWP","nc":5,"o":"-75.262124"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.06671,41.68831],"type":"Point"},"properties":{"a":"41.68831","cty":"WAYNE","hp":true,"id":8811452,"mun":"DAMASCUS TWP","nc":50,"ne":{"a":"41.70253","o":"-75.05471"},"o":"-75.06671","sw":{"a":"41.67409","o":"-75.07872"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.07268,41.66801],"type":"Point"},"properties":{"a":"41.66801","cty":"WAYNE","hp":true,"id":8811453,"mun":"DAMASCUS TWP","nc":15,"ne":{"a":"41.67372","o":"-75.06409"},"o":"-75.07268","sw":{"a":"41.66231","o":"-75.08127"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.088972,41.523864],"type":"Point"},"properties":{"a":"41.523864","cty":"PIKE","id":8811472,"mun":"LACKAWAXEN TWP","nc":1,"o":"-75.088972"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.63507,41.709533],"type":"Point"},"properties":{"a":"41.709533","cty":"SUSQUEHANNA","id":8811513,"mun":"CLIFFORD TWP","nc":1,"o":"-75.63507"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.63329,41.71408],"type":"Point"},"properties":{"a":"41.71408","cty":"SUSQUEHANNA","hp":true,"id":8811515,"mun":"CLIFFORD TWP","nc":6,"ne":{"a":"41.71583","o":"-75.63214"},"o":"-75.63329","sw":{"a":"41.71233","o":"-75.63444"}},"type":"Feature"},
@@ -13,5 +11,6 @@
 {"geometry":{"coordinates":[-75.638965,40.546262],"type":"Point"},"properties":{"a":"40.546262","cty":"LEHIGH","id":8811529,"mun":"UPPER MACUNGIE TWP","nc":10,"o":"-75.638965"},"type":"Feature"},
 {"geometry":{"coordinates":[-74.967106,41.426735],"type":"Point"},"properties":{"a":"41.426735","cty":"PIKE","id":8811530,"mun":"SHOHOLA TWP","nc":1,"o":"-74.967106"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.23402,41.139299],"type":"Point"},"properties":{"a":"41.139299","cty":"MONROE","id":8811531,"mun":"PRICE TWP","nc":4,"o":"-75.23402"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.500121,40.610333],"type":"Point"},"properties":{"a":"40.610333","cty":"LEHIGH","id":8811533,"mun":"ALLENTOWN","nc":15,"o":"-75.500121"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.500121,40.610333],"type":"Point"},"properties":{"a":"40.610333","cty":"LEHIGH","id":8811533,"mun":"ALLENTOWN","nc":1,"o":"-75.500121"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.50317,40.58779],"type":"Point"},"properties":{"a":"40.58779","cty":"SCHUYLKILL","hp":true,"id":8811536,"mun":"PORTER TWP","nc":9,"ne":{"a":"40.58923","o":"-76.50194"},"o":"-76.50317","sw":{"a":"40.58635","o":"-76.50441"}},"type":"Feature"}
 ]}
