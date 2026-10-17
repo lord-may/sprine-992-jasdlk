@@ -26,9 +26,14 @@
 {"geometry":{"coordinates":[-76.499819,40.035125],"type":"Point"},"properties":{"a":"40.035125","cty":"LANCASTER","id":8811605,"mun":"COLUMBIA BORO","nc":1,"o":"-76.499819"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.986199,41.220477],"type":"Point"},"properties":{"a":"41.220477","cty":"LYCOMING","id":8811608,"mun":"ARMSTRONG TWP","nc":1,"o":"-76.986199"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.557394,41.483741],"type":"Point"},"properties":{"a":"41.483741","cty":"LACKAWANNA","id":8811611,"mun":"ARCHBALD BORO","nc":6,"o":"-75.557394"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.314874,40.043399],"type":"Point"},"properties":{"a":"40.043399","cty":"LANCASTER","id":8811613,"mun":"LANCASTER","nc":1,"o":"-76.314874"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.66085,40.24864],"type":"Point"},"properties":{"a":"40.24864","cty":"DAUPHIN","hp":true,"id":8811615,"mun":"DERRY TWP","nc":6,"ne":{"a":"40.25004","o":"-76.65781"},"o":"-76.66085","sw":{"a":"40.24725","o":"-76.6639"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.33652,40.48196],"type":"Point"},"properties":{"a":"40.48196","cty":"BUCKS","id":8811616,"mun":"RICHLAND TWP","nc":1,"o":"-75.33652"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.90048,40.44803],"type":"Point"},"properties":{"a":"40.44803","cty":"DAUPHIN","hp":true,"id":8811622,"mun":"HALIFAX TWP","nc":1280,"ne":{"a":"40.47508","o":"-76.82219"},"o":"-76.90048","sw":{"a":"40.42098","o":"-76.97878"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.481927,40.662121],"type":"Point"},"properties":{"a":"40.662121","cty":"NORTHAMPTON","id":8811623,"mun":"NORTH CATASAUQUA BORO","nc":3,"o":"-75.481927"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.963738,40.542551],"type":"Point"},"properties":{"a":"40.542551","cty":"DAUPHIN","id":8811625,"mun":"UPPER PAXTON TWP","nc":16,"o":"-76.963738"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.958412,40.355225],"type":"Point"},"properties":{"a":"40.355225","cty":"PERRY","id":8811626,"mun":"PENN TWP","nc":2,"o":"-76.958412"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.836676,41.288535],"type":"Point"},"properties":{"a":"41.288535","cty":"LUZERNE","id":8811627,"mun":"PLAINS TWP","nc":1,"o":"-75.836676"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.827009,40.72555],"type":"Point"},"properties":{"a":"40.72555","cty":"SCHUYLKILL","id":8811628,"mun":"WEST PENN TWP","nc":4,"o":"-75.827009"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.195633,40.684815],"type":"Point"},"properties":{"a":"40.684815","cty":"SCHUYLKILL","id":8811629,"mun":"POTTSVILLE","nc":1,"o":"-76.195633"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.337163,40.481317],"type":"Point"},"properties":{"a":"40.481317","cty":"BUCKS","id":8811630,"mun":"RICHLAND TWP","nc":2,"o":"-75.337163"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.953871,40.416131],"type":"Point"},"properties":{"a":"40.416131","cty":"DAUPHIN","id":8811631,"mun":"HALIFAX TWP","nc":1,"o":"-76.953871"},"type":"Feature"}
 ]}
