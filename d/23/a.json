@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.262124,41.36026],"type":"Point"},"properties":{"a":"41.36026","cty":"PIKE","id":8811438,"mun":"PALMYRA TWP","nc":5,"o":"-75.262124"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.06671,41.68831],"type":"Point"},"properties":{"a":"41.68831","cty":"WAYNE","hp":true,"id":8811452,"mun":"DAMASCUS TWP","nc":50,"ne":{"a":"41.70253","o":"-75.05471"},"o":"-75.06671","sw":{"a":"41.67409","o":"-75.07872"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.63507,41.709533],"type":"Point"},"properties":{"a":"41.709533","cty":"SUSQUEHANNA","id":8811513,"mun":"CLIFFORD TWP","nc":1,"o":"-75.63507"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.63329,41.71408],"type":"Point"},"properties":{"a":"41.71408","cty":"SUSQUEHANNA","hp":true,"id":8811515,"mun":"CLIFFORD TWP","nc":6,"ne":{"a":"41.71583","o":"-75.63214"},"o":"-75.63329","sw":{"a":"41.71233","o":"-75.63444"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.226614,41.073267],"type":"Point"},"properties":{"a":"41.073267","cty":"CLINTON","id":8811517,"mun":"GREENE TWP","nc":3,"o":"-77.226614"},"type":"Feature"},
@@ -15,6 +13,9 @@
 {"geometry":{"coordinates":[-75.230563,40.540599],"type":"Point"},"properties":{"a":"40.540599","cty":"BUCKS","id":8811544,"mun":"SPRINGFIELD TWP","nc":2,"o":"-75.230563"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.219926,40.51027],"type":"Point"},"properties":{"a":"40.51027","cty":"BUCKS","id":8811546,"mun":"HAYCOCK TWP","nc":1,"o":"-75.219926"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.735425,40.661129],"type":"Point"},"properties":{"a":"40.661129","cty":"NORTHUMBERLAND","id":8811550,"mun":"JORDAN TWP","nc":7,"o":"-76.735425"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.487432,40.867238],"type":"Point"},"properties":{"a":"40.867238","cty":"MONROE","id":8811551,"mun":"ELDRED TWP","nc":1,"o":"-75.487432"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.02513,40.32944],"type":"Point"},"properties":{"a":"40.32944","cty":"PERRY","hp":true,"id":8811552,"mun":"RYE TWP","nc":19,"ne":{"a":"40.33287","o":"-77.02314"},"o":"-77.02513","sw":{"a":"40.326","o":"-77.02713"}},"type":"Feature"}
+{"geometry":{"coordinates":[-77.192569,40.366832],"type":"Point"},"properties":{"a":"40.366832","cty":"PERRY","id":8811554,"mun":"CARROLL TWP","nc":1,"o":"-77.192569"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.937061,40.342284],"type":"Point"},"properties":{"a":"40.342284","cty":"PERRY","id":8811556,"mun":"MARYSVILLE BORO","nc":13,"o":"-76.937061"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.9736,41.20754],"type":"Point"},"properties":{"a":"41.20754","cty":"LYCOMING","hp":true,"id":8811563,"mun":"SOUTH WILLIAMSPORT BORO","nc":224,"ne":{"a":"41.22595","o":"-76.9505"},"o":"-76.9736","sw":{"a":"41.18914","o":"-76.99669"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.06671,41.68831],"type":"Point"},"properties":{"a":"41.68831","cty":"WAYNE","hp":true,"id":8811564,"mun":"DAMASCUS TWP","nc":50,"ne":{"a":"41.70253","o":"-75.05471"},"o":"-75.06671","sw":{"a":"41.67409","o":"-75.07872"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.87234,41.168399],"type":"Point"},"properties":{"a":"41.168399","cty":"LYCOMING","id":8811565,"mun":"MONTGOMERY BORO","nc":11,"o":"-76.87234"},"type":"Feature"}
 ]}
