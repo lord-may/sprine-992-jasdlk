@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-67.878441,46.293683],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":82,"customersOutNow":82,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-17T02:56:34.193-04:00","outageName":"R21025","outagePoint":{"lat":46.2936826666665,"lng":-67.87844099999998},"outageRecID":"2026-10-17-0273","outageStartTime":"2026-10-17T02:32:27-04:00","outageWorkStatus":"","streetsAffected":["BRITTON RD","CONROY LAKE","CONROY LAKE RD","CURTIS RD","E CONROY LAKE RD","EAST CONROY LAKE RD","LAKE RD","LAKE RD REMOTE","NEW LAKE RD","W CONROY LAKE NEW CABIN # 2","W CONROY LAKE NEW CABIN # 3","W CONROY LAKE NEW CABIN 1","W CONROY LAKE RD","W CONROY LAKE RD LOT 11","W CONROY LAKE RD LOT 12","W CONROY LAKE RD PKING LOT LIGHT","WOODLAND DR","WOODLAND DR #24"],"verified":true},"type":"Feature"}
+
 ]}
