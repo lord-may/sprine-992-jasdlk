@@ -3,5 +3,5 @@
 {"geometry":{"coordinates":[-69.199129,44.312468],"type":"Point"},"properties":{"EstRest":"10/17/2026 6:00:00 AM","Outages":74,"county":"KNOX","customers":27251,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.776533,44.822454],"type":"Point"},"properties":{"EstRest":"10/17/2026 5:45:00 AM","Outages":53,"county":"SOMERSET","customers":31730,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-68.999261,44.51824],"type":"Point"},"properties":{"EstRest":"10/17/2026 6:00:00 AM","Outages":16,"county":"WALDO","customers":26703,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.965058,43.403777],"type":"Point"},"properties":{"EstRest":"10/17/2026 5:45:00 AM","Outages":632,"county":"YORK","customers":132723,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.458237,43.533716],"type":"Point"},"properties":{"EstRest":"10/17/2026 5:45:00 AM","Outages":632,"county":"YORK","customers":132723,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
