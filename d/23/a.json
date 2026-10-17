@@ -16,16 +16,19 @@
 {"geometry":{"coordinates":[-75.769907,41.349947],"type":"Point"},"properties":{"a":"41.349947","cty":"LUZERNE","id":8811585,"mun":"DURYEA BORO","nc":1,"o":"-75.769907"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.93011,40.50731],"type":"Point"},"properties":{"a":"40.50731","cty":"DAUPHIN","hp":true,"id":8811587,"mun":"HALIFAX TWP","nc":5,"ne":{"a":"40.50842","o":"-76.92975"},"o":"-76.93011","sw":{"a":"40.5062","o":"-76.93046"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.961483,41.258262],"type":"Point"},"properties":{"a":"41.258262","cty":"LYCOMING","id":8811590,"mun":"LOYALSOCK TWP","nc":1,"o":"-76.961483"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.363116,41.177023],"type":"Point"},"properties":{"a":"41.177023","cty":"MONROE","id":8811591,"mun":"COOLBAUGH TWP","nc":2,"o":"-75.363116"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.382205,41.271488],"type":"Point"},"properties":{"a":"41.271488","cty":"WAYNE","id":8811594,"mun":"LEHIGH TWP","nc":7,"o":"-75.382205"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.795474,40.892119],"type":"Point"},"properties":{"a":"40.892119","cty":"NORTHUMBERLAND","id":8811596,"mun":"POINT TWP","nc":1,"o":"-76.795474"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.735425,40.661129],"type":"Point"},"properties":{"a":"40.661129","cty":"NORTHUMBERLAND","id":8811597,"mun":"JORDAN TWP","nc":7,"o":"-76.735425"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.095037,40.196114],"type":"Point"},"properties":{"a":"40.196114","cty":"LANCASTER","id":8811598,"mun":"BRECKNOCK TWP","nc":1,"o":"-76.095037"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.589689,40.154306],"type":"Point"},"properties":{"a":"40.154306","cty":"LANCASTER","id":8811599,"mun":"MOUNT JOY TWP","nc":1,"o":"-76.589689"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.33919,40.4814],"type":"Point"},"properties":{"a":"40.4814","cty":"BUCKS","hp":true,"id":8811602,"mun":"RICHLAND TWP","nc":34,"ne":{"a":"40.48504","o":"-75.33411"},"o":"-75.33919","sw":{"a":"40.47775","o":"-75.34427"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.373018,41.702153],"type":"Point"},"properties":{"a":"41.702153","cty":"WAYNE","id":8811603,"mun":"MOUNT PLEASANT TWP","nc":1,"o":"-75.373018"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.582398,40.148253],"type":"Point"},"properties":{"a":"40.148253","cty":"LANCASTER","id":8811604,"mun":"ELIZABETHTOWN BORO","nc":3,"o":"-76.582398"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.499819,40.035125],"type":"Point"},"properties":{"a":"40.035125","cty":"LANCASTER","id":8811605,"mun":"COLUMBIA BORO","nc":1,"o":"-76.499819"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.986199,41.220477],"type":"Point"},"properties":{"a":"41.220477","cty":"LYCOMING","id":8811608,"mun":"ARMSTRONG TWP","nc":1,"o":"-76.986199"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.557394,41.483741],"type":"Point"},"properties":{"a":"41.483741","cty":"LACKAWANNA","id":8811611,"mun":"ARCHBALD BORO","nc":6,"o":"-75.557394"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.557394,41.483741],"type":"Point"},"properties":{"a":"41.483741","cty":"LACKAWANNA","id":8811611,"mun":"ARCHBALD BORO","nc":6,"o":"-75.557394"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.314874,40.043399],"type":"Point"},"properties":{"a":"40.043399","cty":"LANCASTER","id":8811613,"mun":"LANCASTER","nc":1,"o":"-76.314874"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.66085,40.24864],"type":"Point"},"properties":{"a":"40.24864","cty":"DAUPHIN","hp":true,"id":8811615,"mun":"DERRY TWP","nc":6,"ne":{"a":"40.25004","o":"-76.65781"},"o":"-76.66085","sw":{"a":"40.24725","o":"-76.6639"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.33652,40.48196],"type":"Point"},"properties":{"a":"40.48196","cty":"BUCKS","id":8811616,"mun":"RICHLAND TWP","nc":1,"o":"-75.33652"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.90048,40.44803],"type":"Point"},"properties":{"a":"40.44803","cty":"DAUPHIN","hp":true,"id":8811622,"mun":"HALIFAX TWP","nc":1280,"ne":{"a":"40.47508","o":"-76.82219"},"o":"-76.90048","sw":{"a":"40.42098","o":"-76.97878"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.481927,40.662121],"type":"Point"},"properties":{"a":"40.662121","cty":"NORTHAMPTON","id":8811623,"mun":"NORTH CATASAUQUA BORO","nc":3,"o":"-75.481927"},"type":"Feature"}
 ]}
