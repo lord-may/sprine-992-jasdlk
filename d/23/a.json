@@ -14,7 +14,6 @@
 {"geometry":{"coordinates":[-75.24814,40.50249],"type":"Point"},"properties":{"a":"40.50249","cty":"BUCKS","hp":true,"id":8811340,"mun":"HAYCOCK TWP","nc":20,"ne":{"a":"40.50687","o":"-75.24276"},"o":"-75.24814","sw":{"a":"40.4981","o":"-75.25352"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.167241,39.884227],"type":"Point"},"properties":{"a":"39.884227","cty":"LANCASTER","id":8811345,"mun":"EAST DRUMORE TWP","nc":1,"o":"-76.167241"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.632782,40.624543],"type":"Point"},"properties":{"a":"40.624543","cty":"LEHIGH","id":8811352,"mun":"LOWHILL TWP","nc":2,"o":"-75.632782"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.60901,40.74469],"type":"Point"},"properties":{"a":"40.74469","cty":"NORTHUMBERLAND","hp":true,"id":8811424,"mun":"WEST CAMERON TWP","nc":11,"ne":{"a":"40.74605","o":"-76.60157"},"o":"-76.60901","sw":{"a":"40.74332","o":"-76.61644"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.49696,40.77446],"type":"Point"},"properties":{"a":"40.77446","cty":"NORTHAMPTON","hp":true,"id":8811425,"mun":"LEHIGH TWP","nc":48,"ne":{"a":"40.77786","o":"-75.48946"},"o":"-75.49696","sw":{"a":"40.77106","o":"-75.50446"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.29954,40.97639],"type":"Point"},"properties":{"a":"40.97639","cty":"COLUMBIA","hp":true,"id":8811435,"mun":"BEAVER TWP","nc":9,"ne":{"a":"40.97768","o":"-76.29515"},"o":"-76.29954","sw":{"a":"40.97511","o":"-76.30393"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.348681,41.441697],"type":"Point"},"properties":{"a":"41.441697","cty":"WAYNE","id":8811436,"mun":"LAKE TWP","nc":1,"o":"-75.348681"},"type":"Feature"},
@@ -31,5 +30,6 @@
 {"geometry":{"coordinates":[-75.09384,41.51796],"type":"Point"},"properties":{"a":"41.51796","cty":"PIKE","hp":true,"id":8811472,"mun":"LACKAWAXEN TWP","nc":77,"ne":{"a":"41.52498","o":"-75.08961"},"o":"-75.09384","sw":{"a":"41.51095","o":"-75.09807"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.35379,40.96366],"type":"Point"},"properties":{"a":"40.96366","cty":"COLUMBIA","hp":true,"id":8811473,"mun":"MAIN TWP","nc":7,"ne":{"a":"40.96455","o":"-76.35044"},"o":"-76.35379","sw":{"a":"40.96277","o":"-76.35713"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.557394,41.483741],"type":"Point"},"properties":{"a":"41.483741","cty":"LACKAWANNA","id":8811475,"mun":"ARCHBALD BORO","nc":6,"o":"-75.557394"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.385534,41.26898],"type":"Point"},"properties":{"a":"41.26898","cty":"WAYNE","id":8811476,"mun":"LEHIGH TWP","nc":3,"o":"-75.385534"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.385534,41.26898],"type":"Point"},"properties":{"a":"41.26898","cty":"WAYNE","id":8811476,"mun":"LEHIGH TWP","nc":3,"o":"-75.385534"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.20189,40.239463],"type":"Point"},"properties":{"a":"40.239463","cty":"CUMBERLAND","id":8811477,"mun":"NORTH MIDDLETON TWP","nc":2,"o":"-77.20189"},"type":"Feature"}
 ]}
