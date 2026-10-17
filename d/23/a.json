@@ -17,5 +17,6 @@
 {"geometry":{"coordinates":[-76.355532,40.963066],"type":"Point"},"properties":{"a":"40.963066","cty":"COLUMBIA","id":8811473,"mun":"MAIN TWP","nc":5,"o":"-76.355532"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.25765,40.91212],"type":"Point"},"properties":{"a":"40.91212","cty":"UNION","hp":true,"id":8811481,"mun":"HARTLEY TWP","nc":5,"ne":{"a":"40.91388","o":"-77.25181"},"o":"-77.25765","sw":{"a":"40.91036","o":"-77.2635"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.563028,41.16907],"type":"Point"},"properties":{"a":"41.16907","cty":"MONROE","id":8811483,"mun":"COOLBAUGH TWP","nc":2,"o":"-75.563028"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.53848,41.16641],"type":"Point"},"properties":{"a":"41.16641","cty":"COLUMBIA","hp":true,"id":8811498,"mun":"PINE TWP","nc":40,"ne":{"a":"41.17452","o":"-76.5278"},"o":"-76.53848","sw":{"a":"41.1583","o":"-76.54917"}},"type":"Feature"}
+{"geometry":{"coordinates":[-76.53848,41.16641],"type":"Point"},"properties":{"a":"41.16641","cty":"COLUMBIA","hp":true,"id":8811498,"mun":"PINE TWP","nc":40,"ne":{"a":"41.17452","o":"-76.5278"},"o":"-76.53848","sw":{"a":"41.1583","o":"-76.54917"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.44117,41.47603],"type":"Point"},"properties":{"a":"41.47603","cty":"WAYNE","hp":true,"id":8811501,"mun":"LAKE TWP","nc":102,"ne":{"a":"41.48577","o":"-75.42533"},"o":"-75.44117","sw":{"a":"41.4663","o":"-75.45702"}},"type":"Feature"}
 ]}
