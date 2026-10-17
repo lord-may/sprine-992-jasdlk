@@ -5,5 +5,5 @@
 {"geometry":{"coordinates":[-73.556481,41.386682],"type":"Point"},"properties":{"EstRest":"10/17/2026 2:15:00 PM","Outages":18,"county":"PUTNAM","customers":39572,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.461331,42.486926],"type":"Point"},"properties":{"EstRest":"10/17/2026 3:45:00 PM","Outages":10,"county":"STEUBEN","customers":42831,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.468001,42.487933],"type":"Point"},"properties":{"EstRest":"10/17/2026 3:45:00 PM","Outages":2,"cause":"","county":"STEUBEN","crewstatus":"DISP ","customers":2,"hamlet":"COHOCTON","incidentnumber":"0115S7","incidents":1,"level":"street","opco":"NYSEG","street":"COSGRIFF RD","town":"COHOCTON T"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.295555,42.189187],"type":"Point"},"properties":{"EstRest":"10/17/2026 3:15:00 PM","Outages":136,"county":"TIOGA","customers":20232,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.208354,42.063375],"type":"Point"},"properties":{"EstRest":"10/17/2026 3:15:00 PM","Outages":136,"county":"TIOGA","customers":20232,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
