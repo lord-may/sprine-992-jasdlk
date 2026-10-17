@@ -13,13 +13,18 @@
 {"geometry":{"coordinates":[-76.05303,39.78808],"type":"Point"},"properties":{"a":"39.78808","cty":"LANCASTER","hp":true,"id":8811580,"mun":"LITTLE BRITAIN TWP","nc":49,"ne":{"a":"39.79462","o":"-76.04673"},"o":"-76.05303","sw":{"a":"39.78153","o":"-76.05933"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.789853,40.252488],"type":"Point"},"properties":{"a":"40.252488","cty":"DAUPHIN","id":8811581,"mun":"SWATARA TWP","nc":1,"o":"-76.789853"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.2895,41.13543],"type":"Point"},"properties":{"a":"41.13543","cty":"COLUMBIA","hp":true,"id":8811583,"mun":"FISHING CREEK TWP","nc":11,"ne":{"a":"41.1394","o":"-76.28069"},"o":"-76.2895","sw":{"a":"41.13146","o":"-76.29831"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.769907,41.349947],"type":"Point"},"properties":{"a":"41.349947","cty":"LUZERNE","id":8811585,"mun":"DURYEA BORO","nc":9,"o":"-75.769907"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.769907,41.349947],"type":"Point"},"properties":{"a":"41.349947","cty":"LUZERNE","id":8811585,"mun":"DURYEA BORO","nc":1,"o":"-75.769907"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.93011,40.50731],"type":"Point"},"properties":{"a":"40.50731","cty":"DAUPHIN","hp":true,"id":8811587,"mun":"HALIFAX TWP","nc":5,"ne":{"a":"40.50842","o":"-76.92975"},"o":"-76.93011","sw":{"a":"40.5062","o":"-76.93046"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.961483,41.258262],"type":"Point"},"properties":{"a":"41.258262","cty":"LYCOMING","id":8811590,"mun":"LOYALSOCK TWP","nc":11,"o":"-76.961483"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.961483,41.258262],"type":"Point"},"properties":{"a":"41.258262","cty":"LYCOMING","id":8811590,"mun":"LOYALSOCK TWP","nc":1,"o":"-76.961483"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.363116,41.177023],"type":"Point"},"properties":{"a":"41.177023","cty":"MONROE","id":8811591,"mun":"COOLBAUGH TWP","nc":2,"o":"-75.363116"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.306364,40.034564],"type":"Point"},"properties":{"a":"40.034564","cty":"LANCASTER","id":8811593,"mun":"LANCASTER","nc":19,"o":"-76.306364"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.382205,41.271488],"type":"Point"},"properties":{"a":"41.271488","cty":"WAYNE","id":8811594,"mun":"LEHIGH TWP","nc":7,"o":"-75.382205"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.287889,40.100575],"type":"Point"},"properties":{"a":"40.100575","cty":"LANCASTER","id":8811595,"mun":"MANHEIM TWP","nc":5,"o":"-76.287889"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.795474,40.892119],"type":"Point"},"properties":{"a":"40.892119","cty":"NORTHUMBERLAND","id":8811596,"mun":"POINT TWP","nc":1,"o":"-76.795474"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.735425,40.661129],"type":"Point"},"properties":{"a":"40.661129","cty":"NORTHUMBERLAND","id":8811597,"mun":"JORDAN TWP","nc":7,"o":"-76.735425"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.735425,40.661129],"type":"Point"},"properties":{"a":"40.661129","cty":"NORTHUMBERLAND","id":8811597,"mun":"JORDAN TWP","nc":7,"o":"-76.735425"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.095037,40.196114],"type":"Point"},"properties":{"a":"40.196114","cty":"LANCASTER","id":8811598,"mun":"BRECKNOCK TWP","nc":1,"o":"-76.095037"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.589689,40.154306],"type":"Point"},"properties":{"a":"40.154306","cty":"LANCASTER","id":8811599,"mun":"MOUNT JOY TWP","nc":1,"o":"-76.589689"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.33919,40.4814],"type":"Point"},"properties":{"a":"40.4814","cty":"BUCKS","hp":true,"id":8811602,"mun":"RICHLAND TWP","nc":34,"ne":{"a":"40.48504","o":"-75.33411"},"o":"-75.33919","sw":{"a":"40.47775","o":"-75.34427"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.373018,41.702153],"type":"Point"},"properties":{"a":"41.702153","cty":"WAYNE","id":8811603,"mun":"MOUNT PLEASANT TWP","nc":2,"o":"-75.373018"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.582398,40.148253],"type":"Point"},"properties":{"a":"40.148253","cty":"LANCASTER","id":8811604,"mun":"ELIZABETHTOWN BORO","nc":3,"o":"-76.582398"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.499819,40.035125],"type":"Point"},"properties":{"a":"40.035125","cty":"LANCASTER","id":8811605,"mun":"COLUMBIA BORO","nc":1,"o":"-76.499819"},"type":"Feature"}
 ]}

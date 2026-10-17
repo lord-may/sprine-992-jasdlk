@@ -1,3 +1,8 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-71.459409,41.866197],"type":"Point"},"properties":{"a":"41.866197","cty":"PROVIDENCE","id":20261066866,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.459409"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.51458,41.8983],"type":"Point"},"properties":{"a":"41.8983","cty":"PROVIDENCE","hp":true,"id":20261066867,"mun":"SMITHFIELD","nc":18,"ne":{"a":"41.89978","o":"-71.51355"},"o":"-71.51458","sw":{"a":"41.89682","o":"-71.51561"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.511912,41.897765],"type":"Point"},"properties":{"a":"41.897765","cty":"PROVIDENCE","id":20261066870,"mun":"SMITHFIELD","nc":1,"o":"-71.511912"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.49137,41.9118],"type":"Point"},"properties":{"a":"41.9118","cty":"PROVIDENCE","hp":true,"id":20261066871,"mun":"SMITHFIELD","nc":18,"ne":{"a":"41.91933","o":"-71.48184"},"o":"-71.49137","sw":{"a":"41.90427","o":"-71.50089"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.500661,41.900405],"type":"Point"},"properties":{"a":"41.900405","cty":"PROVIDENCE","id":20261066872,"mun":"SMITHFIELD","nc":1,"o":"-71.500661"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.270682,41.731662],"type":"Point"},"properties":{"a":"41.731662","cty":"BRISTOL","id":20261066873,"mun":"WARREN","nc":1,"o":"-71.270682"},"type":"Feature"}
 ]}
