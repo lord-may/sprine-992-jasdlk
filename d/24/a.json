@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.61181,41.87345],"type":"Point"},"properties":{"a":"41.87345","cty":"PROVIDENCE","hp":true,"id":20261066856,"mun":"GLOCESTER","nc":13,"ne":{"a":"41.87485","o":"-71.61085"},"o":"-71.61181","sw":{"a":"41.87204","o":"-71.61276"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.683894,41.888807],"type":"Point"},"properties":{"a":"41.888807","cty":"PROVIDENCE","id":20261066857,"mun":"GLOCESTER","nc":1,"o":"-71.683894"},"type":"Feature"}
 ]}
