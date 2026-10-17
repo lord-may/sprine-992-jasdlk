@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-67.199154,45.154517],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-17T18:51:27.22-04:00","outageName":"T3223","outagePoint":{"lat":45.154516999999586,"lng":-67.19915399999957},"outageRecID":"2026-10-17-0286","outageStartTime":"2026-10-17T18:48:23-04:00","outageWorkStatus":"","streetsAffected":["CARSON RD"],"verified":true},"type":"Feature"}
+
 ]}
