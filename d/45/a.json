@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-72.711555,42.097615],"type":"Point"},"properties":{"consumers_affected":"1","estimated_restore_time":null,"feeder":"8","formatted_ert":null,"incident_id":"C128770","lat":"42.09761548017568","lon":"-72.7115551411184","opt_code":"Sec/Svc Conductor","start_date":"10/17 10:14 am","substation":"22"},"type":"Feature"}
 ]}
