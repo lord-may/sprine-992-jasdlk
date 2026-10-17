@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.50317,40.58779],"type":"Point"},"properties":{"a":"40.58779","cty":"SCHUYLKILL","hp":true,"id":8810898,"mun":"PORTER TWP","nc":9,"ne":{"a":"40.58923","o":"-76.50194"},"o":"-76.50317","sw":{"a":"40.58635","o":"-76.50441"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.968669,40.387857],"type":"Point"},"properties":{"a":"40.387857","cty":"DAUPHIN","id":8810969,"mun":"MIDDLE PAXTON TWP","nc":4,"o":"-76.968669"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.355782,40.850277],"type":"Point"},"properties":{"a":"40.850277","cty":"UNION","id":8811061,"mun":"HARTLEY TWP","nc":1,"o":"-77.355782"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.10333,40.96271],"type":"Point"},"properties":{"a":"40.96271","cty":"UNION","hp":true,"id":8811079,"mun":"WEST BUFFALO TWP","nc":38,"ne":{"a":"40.9659","o":"-77.09635"},"o":"-77.10333","sw":{"a":"40.95952","o":"-77.11031"}},"type":"Feature"},
@@ -14,7 +13,6 @@
 {"geometry":{"coordinates":[-75.261955,41.390326],"type":"Point"},"properties":{"a":"41.390326","cty":"WAYNE","id":8811184,"mun":"PAUPACK TWP","nc":3,"o":"-75.261955"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.343651,41.461964],"type":"Point"},"properties":{"a":"41.461964","cty":"WAYNE","id":8811197,"mun":"LAKE TWP","nc":3,"o":"-75.343651"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.35397,41.52061],"type":"Point"},"properties":{"a":"41.52061","cty":"WAYNE","hp":true,"id":8811202,"mun":"SOUTH CANAAN TWP","nc":22,"ne":{"a":"41.52668","o":"-75.34788"},"o":"-75.35397","sw":{"a":"41.51454","o":"-75.36005"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.701016,41.379656],"type":"Point"},"properties":{"a":"41.379656","cty":"LACKAWANNA","id":8811203,"mun":"SCRANTON","nc":10,"o":"-75.701016"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.50155,41.72299],"type":"Point"},"properties":{"a":"41.72299","cty":"SUSQUEHANNA","hp":true,"id":8811205,"mun":"UNIONDALE BORO","nc":24,"ne":{"a":"41.72431","o":"-75.49774"},"o":"-75.50155","sw":{"a":"41.72168","o":"-75.50535"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.26897,41.68441],"type":"Point"},"properties":{"a":"41.68441","cty":"WAYNE","hp":true,"id":8811211,"mun":"LEBANON TWP","nc":11,"ne":{"a":"41.68969","o":"-75.26313"},"o":"-75.26897","sw":{"a":"41.67914","o":"-75.27481"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.453144,40.590372],"type":"Point"},"properties":{"a":"40.590372","cty":"LEHIGH","id":8811214,"mun":"ALLENTOWN","nc":19,"o":"-75.453144"},"type":"Feature"},
@@ -23,7 +21,7 @@
 {"geometry":{"coordinates":[-75.99853,40.3346],"type":"Point"},"properties":{"a":"40.3346","cty":"BERKS","hp":true,"id":8811238,"mun":"SPRING TWP","nc":30,"ne":{"a":"40.33589","o":"-75.9973"},"o":"-75.99853","sw":{"a":"40.33331","o":"-75.99976"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.512233,40.612429],"type":"Point"},"properties":{"a":"40.612429","cty":"LEHIGH","id":8811265,"mun":"SOUTH WHITEHALL TWP","nc":8,"o":"-75.512233"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.504496,40.605482],"type":"Point"},"properties":{"a":"40.605482","cty":"LEHIGH","id":8811275,"mun":"ALLENTOWN","nc":1,"o":"-75.504496"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.517013,40.579199],"type":"Point"},"properties":{"a":"40.579199","cty":"LEHIGH","id":8811282,"mun":"SOUTH WHITEHALL TWP","nc":6,"o":"-75.517013"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.51673,40.57949],"type":"Point"},"properties":{"a":"40.57949","cty":"LEHIGH","hp":true,"id":8811282,"mun":"SOUTH WHITEHALL TWP","nc":14,"ne":{"a":"40.5809","o":"-75.51598"},"o":"-75.51673","sw":{"a":"40.57809","o":"-75.51748"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.20722,40.33878],"type":"Point"},"properties":{"a":"40.33878","cty":"LEBANON","hp":true,"id":8811291,"mun":"MILLCREEK TWP","nc":8,"ne":{"a":"40.33976","o":"-76.20623"},"o":"-76.20722","sw":{"a":"40.3378","o":"-76.20821"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.43091,40.56046],"type":"Point"},"properties":{"a":"40.56046","cty":"LEHIGH","hp":true,"id":8811294,"mun":"UPPER SAUCON TWP","nc":50,"ne":{"a":"40.5625","o":"-75.42722"},"o":"-75.43091","sw":{"a":"40.55842","o":"-75.43461"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.393266,40.554309],"type":"Point"},"properties":{"a":"40.554309","cty":"LEHIGH","id":8811310,"mun":"UPPER SAUCON TWP","nc":2,"o":"-75.393266"},"type":"Feature"},
@@ -44,5 +42,7 @@
 {"geometry":{"coordinates":[-76.296133,40.975846],"type":"Point"},"properties":{"a":"40.975846","cty":"COLUMBIA","id":8811413,"mun":"BEAVER TWP","nc":1,"o":"-76.296133"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.535543,40.603857],"type":"Point"},"properties":{"a":"40.603857","cty":"LEHIGH","id":8811414,"mun":"SOUTH WHITEHALL TWP","nc":20,"o":"-75.535543"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.347192,40.046795],"type":"Point"},"properties":{"a":"40.046795","cty":"LANCASTER","id":8811419,"mun":"EAST HEMPFIELD TWP","nc":3,"o":"-76.347192"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.547224,40.588003],"type":"Point"},"properties":{"a":"40.588003","cty":"LEHIGH","id":8811420,"mun":"SOUTH WHITEHALL TWP","nc":5,"o":"-75.547224"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.547224,40.588003],"type":"Point"},"properties":{"a":"40.588003","cty":"LEHIGH","id":8811420,"mun":"SOUTH WHITEHALL TWP","nc":5,"o":"-75.547224"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.60901,40.74469],"type":"Point"},"properties":{"a":"40.74469","cty":"NORTHUMBERLAND","hp":true,"id":8811424,"mun":"WEST CAMERON TWP","nc":11,"ne":{"a":"40.74605","o":"-76.60157"},"o":"-76.60901","sw":{"a":"40.74332","o":"-76.61644"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.49696,40.77446],"type":"Point"},"properties":{"a":"40.77446","cty":"NORTHAMPTON","hp":true,"id":8811425,"mun":"LEHIGH TWP","nc":48,"ne":{"a":"40.77786","o":"-75.48946"},"o":"-75.49696","sw":{"a":"40.77106","o":"-75.50446"}},"type":"Feature"}
 ]}
