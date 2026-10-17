@@ -1,16 +1,20 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.262124,41.36026],"type":"Point"},"properties":{"a":"41.36026","cty":"PIKE","id":8811438,"mun":"PALMYRA TWP","nc":5,"o":"-75.262124"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.06671,41.68831],"type":"Point"},"properties":{"a":"41.68831","cty":"WAYNE","hp":true,"id":8811452,"mun":"DAMASCUS TWP","nc":50,"ne":{"a":"41.70253","o":"-75.05471"},"o":"-75.06671","sw":{"a":"41.67409","o":"-75.07872"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.088972,41.523864],"type":"Point"},"properties":{"a":"41.523864","cty":"PIKE","id":8811472,"mun":"LACKAWAXEN TWP","nc":1,"o":"-75.088972"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.63507,41.709533],"type":"Point"},"properties":{"a":"41.709533","cty":"SUSQUEHANNA","id":8811513,"mun":"CLIFFORD TWP","nc":1,"o":"-75.63507"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.63329,41.71408],"type":"Point"},"properties":{"a":"41.71408","cty":"SUSQUEHANNA","hp":true,"id":8811515,"mun":"CLIFFORD TWP","nc":6,"ne":{"a":"41.71583","o":"-75.63214"},"o":"-75.63329","sw":{"a":"41.71233","o":"-75.63444"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.226614,41.073267],"type":"Point"},"properties":{"a":"41.073267","cty":"CLINTON","id":8811517,"mun":"GREENE TWP","nc":3,"o":"-77.226614"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.34815,41.47159],"type":"Point"},"properties":{"a":"41.47159","cty":"WAYNE","hp":true,"id":8811523,"mun":"LAKE TWP","nc":101,"ne":{"a":"41.4829","o":"-75.33064"},"o":"-75.34815","sw":{"a":"41.46029","o":"-75.36565"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.17297,41.6284],"type":"Point"},"properties":{"a":"41.6284","cty":"WAYNE","hp":true,"id":8811527,"mun":"BERLIN TWP","nc":33,"ne":{"a":"41.63579","o":"-75.15762"},"o":"-75.17297","sw":{"a":"41.621","o":"-75.18831"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.735425,40.661129],"type":"Point"},"properties":{"a":"40.661129","cty":"NORTHUMBERLAND","id":8811528,"mun":"JORDAN TWP","nc":7,"o":"-76.735425"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.638965,40.546262],"type":"Point"},"properties":{"a":"40.546262","cty":"LEHIGH","id":8811529,"mun":"UPPER MACUNGIE TWP","nc":10,"o":"-75.638965"},"type":"Feature"},
 {"geometry":{"coordinates":[-74.967106,41.426735],"type":"Point"},"properties":{"a":"41.426735","cty":"PIKE","id":8811530,"mun":"SHOHOLA TWP","nc":1,"o":"-74.967106"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.23402,41.139299],"type":"Point"},"properties":{"a":"41.139299","cty":"MONROE","id":8811531,"mun":"PRICE TWP","nc":4,"o":"-75.23402"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.500121,40.610333],"type":"Point"},"properties":{"a":"40.610333","cty":"LEHIGH","id":8811533,"mun":"ALLENTOWN","nc":1,"o":"-75.500121"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.50317,40.58779],"type":"Point"},"properties":{"a":"40.58779","cty":"SCHUYLKILL","hp":true,"id":8811536,"mun":"PORTER TWP","nc":9,"ne":{"a":"40.58923","o":"-76.50194"},"o":"-76.50317","sw":{"a":"40.58635","o":"-76.50441"}},"type":"Feature"}
+{"geometry":{"coordinates":[-76.50317,40.58779],"type":"Point"},"properties":{"a":"40.58779","cty":"SCHUYLKILL","hp":true,"id":8811536,"mun":"PORTER TWP","nc":9,"ne":{"a":"40.58923","o":"-76.50194"},"o":"-76.50317","sw":{"a":"40.58635","o":"-76.50441"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.92105,40.33438],"type":"Point"},"properties":{"a":"40.33438","cty":"PERRY","hp":true,"id":8811543,"mun":"MARYSVILLE BORO","nc":41,"ne":{"a":"40.33641","o":"-76.91896"},"o":"-76.92105","sw":{"a":"40.33234","o":"-76.92313"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.230563,40.540599],"type":"Point"},"properties":{"a":"40.540599","cty":"BUCKS","id":8811544,"mun":"SPRINGFIELD TWP","nc":2,"o":"-75.230563"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.219926,40.51027],"type":"Point"},"properties":{"a":"40.51027","cty":"BUCKS","id":8811546,"mun":"HAYCOCK TWP","nc":1,"o":"-75.219926"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.735425,40.661129],"type":"Point"},"properties":{"a":"40.661129","cty":"NORTHUMBERLAND","id":8811550,"mun":"JORDAN TWP","nc":7,"o":"-76.735425"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.487432,40.867238],"type":"Point"},"properties":{"a":"40.867238","cty":"MONROE","id":8811551,"mun":"ELDRED TWP","nc":1,"o":"-75.487432"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.02513,40.32944],"type":"Point"},"properties":{"a":"40.32944","cty":"PERRY","hp":true,"id":8811552,"mun":"RYE TWP","nc":19,"ne":{"a":"40.33287","o":"-77.02314"},"o":"-77.02513","sw":{"a":"40.326","o":"-77.02713"}},"type":"Feature"}
 ]}
