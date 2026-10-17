@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.557162,41.508813],"type":"Point"},"properties":{"a":"41.508813","cty":"WASHINGTON","id":20261066932,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.557162"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.464064,41.979955],"type":"Point"},"properties":{"a":"41.979955","cty":"PROVIDENCE","id":20261066933,"mun":"CUMBERLAND","nc":1,"o":"-71.464064"},"type":"Feature"}
+
 ]}
