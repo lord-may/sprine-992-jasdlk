@@ -13,10 +13,9 @@
 {"geometry":{"coordinates":[-75.07268,41.66801],"type":"Point"},"properties":{"a":"41.66801","cty":"WAYNE","hp":true,"id":8811453,"mun":"DAMASCUS TWP","nc":15,"ne":{"a":"41.67372","o":"-75.06409"},"o":"-75.07268","sw":{"a":"41.66231","o":"-75.08127"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.219926,40.51027],"type":"Point"},"properties":{"a":"40.51027","cty":"BUCKS","id":8811464,"mun":"HAYCOCK TWP","nc":1,"o":"-75.219926"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.19407,41.46694],"type":"Point"},"properties":{"a":"41.46694","cty":"WAYNE","hp":true,"id":8811466,"mun":"PALMYRA TWP","nc":24,"ne":{"a":"41.46789","o":"-75.19291"},"o":"-75.19407","sw":{"a":"41.466","o":"-75.19523"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.416059,41.579208],"type":"Point"},"properties":{"a":"41.579208","cty":"WAYNE","id":8811468,"mun":"WAYMART BORO","nc":2,"o":"-75.416059"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.432671,41.575584],"type":"Point"},"properties":{"a":"41.575584","cty":"WAYNE","id":8811469,"mun":"CANAAN TWP","nc":2,"o":"-75.432671"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.09384,41.51796],"type":"Point"},"properties":{"a":"41.51796","cty":"PIKE","hp":true,"id":8811472,"mun":"LACKAWAXEN TWP","nc":77,"ne":{"a":"41.52498","o":"-75.08961"},"o":"-75.09384","sw":{"a":"41.51095","o":"-75.09807"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.355532,40.963066],"type":"Point"},"properties":{"a":"40.963066","cty":"COLUMBIA","id":8811473,"mun":"MAIN TWP","nc":5,"o":"-76.355532"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.25765,40.91212],"type":"Point"},"properties":{"a":"40.91212","cty":"UNION","hp":true,"id":8811481,"mun":"HARTLEY TWP","nc":5,"ne":{"a":"40.91388","o":"-77.25181"},"o":"-77.25765","sw":{"a":"40.91036","o":"-77.2635"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.563028,41.16907],"type":"Point"},"properties":{"a":"41.16907","cty":"MONROE","id":8811483,"mun":"COOLBAUGH TWP","nc":2,"o":"-75.563028"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.563028,41.16907],"type":"Point"},"properties":{"a":"41.16907","cty":"MONROE","id":8811483,"mun":"COOLBAUGH TWP","nc":2,"o":"-75.563028"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.53848,41.16641],"type":"Point"},"properties":{"a":"41.16641","cty":"COLUMBIA","hp":true,"id":8811498,"mun":"PINE TWP","nc":40,"ne":{"a":"41.17452","o":"-76.5278"},"o":"-76.53848","sw":{"a":"41.1583","o":"-76.54917"}},"type":"Feature"}
 ]}
