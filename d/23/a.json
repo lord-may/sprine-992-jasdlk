@@ -10,12 +10,10 @@
 {"geometry":{"coordinates":[-75.500121,40.610333],"type":"Point"},"properties":{"a":"40.610333","cty":"LEHIGH","id":8811533,"mun":"ALLENTOWN","nc":1,"o":"-75.500121"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.50317,40.58779],"type":"Point"},"properties":{"a":"40.58779","cty":"SCHUYLKILL","hp":true,"id":8811536,"mun":"PORTER TWP","nc":9,"ne":{"a":"40.58923","o":"-76.50194"},"o":"-76.50317","sw":{"a":"40.58635","o":"-76.50441"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.92105,40.33438],"type":"Point"},"properties":{"a":"40.33438","cty":"PERRY","hp":true,"id":8811543,"mun":"MARYSVILLE BORO","nc":41,"ne":{"a":"40.33641","o":"-76.91896"},"o":"-76.92105","sw":{"a":"40.33234","o":"-76.92313"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.230563,40.540599],"type":"Point"},"properties":{"a":"40.540599","cty":"BUCKS","id":8811544,"mun":"SPRINGFIELD TWP","nc":2,"o":"-75.230563"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.219926,40.51027],"type":"Point"},"properties":{"a":"40.51027","cty":"BUCKS","id":8811546,"mun":"HAYCOCK TWP","nc":1,"o":"-75.219926"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.735425,40.661129],"type":"Point"},"properties":{"a":"40.661129","cty":"NORTHUMBERLAND","id":8811550,"mun":"JORDAN TWP","nc":7,"o":"-76.735425"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.192569,40.366832],"type":"Point"},"properties":{"a":"40.366832","cty":"PERRY","id":8811554,"mun":"CARROLL TWP","nc":1,"o":"-77.192569"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.937061,40.342284],"type":"Point"},"properties":{"a":"40.342284","cty":"PERRY","id":8811556,"mun":"MARYSVILLE BORO","nc":13,"o":"-76.937061"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.9736,41.20754],"type":"Point"},"properties":{"a":"41.20754","cty":"LYCOMING","hp":true,"id":8811563,"mun":"SOUTH WILLIAMSPORT BORO","nc":224,"ne":{"a":"41.22595","o":"-76.9505"},"o":"-76.9736","sw":{"a":"41.18914","o":"-76.99669"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.06671,41.68831],"type":"Point"},"properties":{"a":"41.68831","cty":"WAYNE","hp":true,"id":8811564,"mun":"DAMASCUS TWP","nc":50,"ne":{"a":"41.70253","o":"-75.05471"},"o":"-75.06671","sw":{"a":"41.67409","o":"-75.07872"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.87234,41.168399],"type":"Point"},"properties":{"a":"41.168399","cty":"LYCOMING","id":8811565,"mun":"MONTGOMERY BORO","nc":11,"o":"-76.87234"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.795474,40.892119],"type":"Point"},"properties":{"a":"40.892119","cty":"NORTHUMBERLAND","id":8811569,"mun":"POINT TWP","nc":1,"o":"-76.795474"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.977814,40.820241],"type":"Point"},"properties":{"a":"40.820241","cty":"SCHUYLKILL","id":8811571,"mun":"RUSH TWP","nc":2,"o":"-75.977814"},"type":"Feature"}
 ]}
