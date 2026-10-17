@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-70.000213,44.509223],"type":"Point"},"properties":{"EstRest":"10/17/2026 1:15:00 AM","Outages":1,"cause":"","county":"KENNEBEC","crewstatus":"     ","customers":16,"hamlet":"VIENNA","incidentnumber":"0043RO","incidents":1,"level":"street","opco":"CMP","street":"HERRIN WOODS RD","town":"VIENNA"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.000213,44.509223],"type":"Point"},"properties":{"EstRest":"10/17/2026 1:15:00 AM","Outages":1,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
