@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-70.884089,44.214389],"type":"Point"},"properties":{"EstRest":"10/16/2026 9:00:00 PM","Outages":1,"cause":"","county":"OXFORD","crewstatus":"ONST ","customers":2,"hamlet":"LOVELL","incidentnumber":"0043QS","incidents":1,"level":"street","opco":"CMP","street":"SANTOSHA WAY","town":"LOVELL"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.884089,44.214389],"type":"Point"},"properties":{"EstRest":"10/16/2026 9:00:00 PM","Outages":1,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.884089,44.214389],"type":"Point"},"properties":{"EstRest":"10/16/2026 9:00:00 PM","Outages":1,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.790023,43.3281],"type":"Point"},"properties":{"EstRest":"10/16/2026 10:30:00 PM","Outages":47,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.799351,43.333217],"type":"Point"},"properties":{"EstRest":"10/16/2026 10:30:00 PM","Outages":39,"cause":"","county":"YORK","crewstatus":"DISP ","customers":99,"hamlet":"NORTH BERWICK","incidentnumber":"0043RD","incidents":1,"level":"street","opco":"CMP","street":"BEECH RIDGE RD","town":"NORTH BERWICK"},"type":"Feature"}
 ]}
