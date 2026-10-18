@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-73.65779,41.6609],"type":"Point"},"properties":{"cause":null,"cluster":false,"comments":null,"crew_icon":false,"crew_status":{},"cust_a":{"mask":5,"val":4},"etr":"2026-10-18T14:30:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-10-18T11:17:03Z","title":"Area Outage"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.9093,41.7672],"type":"Point"},"properties":{"cause":null,"cluster":false,"comments":null,"crew_icon":true,"crew_status":{"EN-US":"En Route","ES-ES":"En Ruta","orig":"en_route"},"cust_a":{"mask":5,"val":4},"etr":"2026-10-18T14:30:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-10-18T11:19:26Z","title":"Area Outage"},"type":"Feature"}
+{"geometry":{"coordinates":[-73.9093,41.7672],"type":"Point"},"properties":{"cause":null,"cluster":false,"comments":null,"crew_icon":true,"crew_status":{"EN-US":"En Route","ES-ES":"En Ruta","orig":"en_route"},"cust_a":{"mask":5,"val":4},"etr":"2026-10-18T13:00:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-10-18T11:19:26Z","title":"Area Outage"},"type":"Feature"}
 ]}
