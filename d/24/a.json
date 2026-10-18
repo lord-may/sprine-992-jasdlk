@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.539795,42.014005],"type":"Point"},"properties":{"a":"42.014005","cty":"PROVIDENCE","id":20261067000,"mun":"NORTH SMITHFIELD","nc":1,"o":"-71.539795"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.539795,42.014005],"type":"Point"},"properties":{"a":"42.014005","cty":"PROVIDENCE","id":20261067000,"mun":"NORTH SMITHFIELD","nc":1,"o":"-71.539795"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.59711,41.703571],"type":"Point"},"properties":{"a":"41.703571","cty":"KENT","id":20261067001,"mun":"COVENTRY","nc":1,"o":"-71.59711"},"type":"Feature"}
 ]}
