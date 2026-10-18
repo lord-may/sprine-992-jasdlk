@@ -12,12 +12,11 @@
 {"geometry":{"coordinates":[-76.189819,40.368601],"type":"Point"},"properties":{"a":"40.368601","cty":"BERKS","id":8822339,"mun":"WOMELSDORF BORO","nc":20,"o":"-76.189819"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.259312,41.578237],"type":"Point"},"properties":{"a":"41.578237","cty":"WAYNE","id":8822351,"mun":"HONESDALE BORO","nc":9,"o":"-75.259312"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.454346,41.012644],"type":"Point"},"properties":{"a":"41.012644","cty":"MONROE","id":8822513,"mun":"TUNKHANNOCK TWP","nc":4,"o":"-75.454346"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.297596,40.319743],"type":"Point"},"properties":{"a":"40.319743","cty":"BUCKS","id":8822556,"mun":"HILLTOWN TWP","nc":6,"o":"-75.297596"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.822414,40.228193],"type":"Point"},"properties":{"a":"40.228193","cty":"DAUPHIN","id":8822642,"mun":"SWATARA TWP","nc":13,"o":"-76.822414"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.291558,40.041375],"type":"Point"},"properties":{"a":"40.041375","cty":"LANCASTER","id":8822691,"mun":"LANCASTER","nc":1,"o":"-76.291558"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.489358,40.547279],"type":"Point"},"properties":{"a":"40.547279","cty":"LEHIGH","id":8822787,"mun":"EMMAUS BORO","nc":8,"o":"-75.489358"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.598859,40.755387],"type":"Point"},"properties":{"a":"40.755387","cty":"NORTHAMPTON","id":8822870,"mun":"WALNUTPORT BORO","nc":1,"o":"-75.598859"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.050442,41.289457],"type":"Point"},"properties":{"a":"41.289457","cty":"PIKE","id":8822914,"mun":"PORTER TWP","nc":1,"o":"-75.050442"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.822948,40.227638],"type":"Point"},"properties":{"a":"40.227638","cty":"DAUPHIN","id":8822926,"mun":"SWATARA TWP","nc":12,"o":"-76.822948"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.201851,41.151688],"type":"Point"},"properties":{"a":"41.151688","cty":"MONROE","id":8822927,"mun":"PRICE TWP","nc":1,"o":"-75.201851"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.201851,41.151688],"type":"Point"},"properties":{"a":"41.151688","cty":"MONROE","id":8822927,"mun":"PRICE TWP","nc":1,"o":"-75.201851"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.533198,41.137165],"type":"Point"},"properties":{"a":"41.137165","cty":"COLUMBIA","id":8823035,"mun":"PINE TWP","nc":2,"o":"-76.533198"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.389957,40.512572],"type":"Point"},"properties":{"a":"40.512572","cty":"LEHIGH","id":8823047,"mun":"COOPERSBURG BORO","nc":15,"o":"-75.389957"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.957848,40.354928],"type":"Point"},"properties":{"a":"40.354928","cty":"PERRY","id":8823079,"mun":"PENN TWP","nc":5,"o":"-76.957848"},"type":"Feature"}
 ]}
