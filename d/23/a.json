@@ -4,7 +4,15 @@
 {"geometry":{"coordinates":[-76.606541,40.167228],"type":"Point"},"properties":{"a":"40.167228","cty":"LANCASTER","id":8824188,"mun":"MOUNT JOY TWP","nc":3,"o":"-76.606541"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.280801,40.134325],"type":"Point"},"properties":{"a":"40.134325","cty":"LANCASTER","id":8826390,"mun":"WARWICK TWP","nc":1,"o":"-76.280801"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.227168,40.786057],"type":"Point"},"properties":{"a":"40.786057","cty":"SCHUYLKILL","id":8826396,"mun":"FRACKVILLE BORO","nc":3,"o":"-76.227168"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.061623,41.300672],"type":"Point"},"properties":{"a":"41.300672","cty":"PIKE","id":8826868,"mun":"BLOOMING GROVE TWP","nc":2,"o":"-75.061623"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.32997,41.17905],"type":"Point"},"properties":{"a":"41.17905","cty":"COLUMBIA","hp":true,"id":8827036,"mun":"FISHING CREEK TWP","nc":142,"ne":{"a":"41.19613","o":"-76.3086"},"o":"-76.32997","sw":{"a":"41.16197","o":"-76.35135"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.84112,40.374024],"type":"Point"},"properties":{"a":"40.374024","cty":"DAUPHIN","id":8827117,"mun":"MIDDLE PAXTON TWP","nc":1,"o":"-76.84112"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.84112,40.374024],"type":"Point"},"properties":{"a":"40.374024","cty":"DAUPHIN","id":8827117,"mun":"MIDDLE PAXTON TWP","nc":1,"o":"-76.84112"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.585534,40.64298],"type":"Point"},"properties":{"a":"40.64298","cty":"LEHIGH","id":8827118,"mun":"NORTH WHITEHALL TWP","nc":16,"o":"-75.585534"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.693613,40.829272],"type":"Point"},"properties":{"a":"40.829272","cty":"CARBON","id":8827119,"mun":"FRANKLIN TWP","nc":3,"o":"-75.693613"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.704873,41.485854],"type":"Point"},"properties":{"a":"41.485854","cty":"LACKAWANNA","id":8827120,"mun":"CLARKS SUMMIT BORO","nc":11,"o":"-75.704873"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.475628,40.592612],"type":"Point"},"properties":{"a":"40.592612","cty":"LEHIGH","id":8827121,"mun":"ALLENTOWN","nc":6,"o":"-75.475628"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.442956,41.137027],"type":"Point"},"properties":{"a":"41.137027","cty":"CLINTON","id":8827122,"mun":"LOCK HAVEN","nc":1,"o":"-77.442956"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.17811,41.13009],"type":"Point"},"properties":{"a":"41.13009","cty":"LYCOMING","hp":true,"id":8827123,"mun":"LIMESTONE TWP","nc":13,"ne":{"a":"41.13767","o":"-77.16936"},"o":"-77.17811","sw":{"a":"41.1225","o":"-77.18685"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.631804,41.449533],"type":"Point"},"properties":{"a":"41.449533","cty":"LACKAWANNA","id":8827124,"mun":"THROOP BORO","nc":2,"o":"-75.631804"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.630066,41.447195],"type":"Point"},"properties":{"a":"41.447195","cty":"LACKAWANNA","id":8827125,"mun":"THROOP BORO","nc":16,"o":"-75.630066"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.254312,40.549754],"type":"Point"},"properties":{"a":"40.549754","cty":"SCHUYLKILL","id":8827126,"mun":"WAYNE TWP","nc":1,"o":"-76.254312"},"type":"Feature"}
 ]}

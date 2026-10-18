@@ -1,3 +1,8 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-71.722822,41.502109],"type":"Point"},"properties":{"a":"41.502109","cty":"WASHINGTON","id":20261067019,"mun":"HOPKINTON","nc":6,"o":"-71.722822"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.722001,41.502885],"type":"Point"},"properties":{"a":"41.502885","cty":"WASHINGTON","id":20261067021,"mun":"HOPKINTON","nc":1,"o":"-71.722001"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.717478,41.516686],"type":"Point"},"properties":{"a":"41.516686","cty":"WASHINGTON","id":20261067023,"mun":"HOPKINTON","nc":1,"o":"-71.717478"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.725624,41.47597],"type":"Point"},"properties":{"a":"41.47597","cty":"WASHINGTON","id":20261067024,"mun":"HOPKINTON","nc":1,"o":"-71.725624"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.719992,41.475197],"type":"Point"},"properties":{"a":"41.475197","cty":"WASHINGTON","id":20261067027,"mun":"HOPKINTON","nc":1,"o":"-71.719992"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.732435,41.517976],"type":"Point"},"properties":{"a":"41.517976","cty":"WASHINGTON","id":20261067028,"mun":"HOPKINTON","nc":1,"o":"-71.732435"},"type":"Feature"}
 ]}

@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-74.227989,43.912406],"type":"Point"},"properties":{"EstRest":"10/18/2026 7:00:00 PM","Outages":32,"county":"ESSEX","customers":10354,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-74.236617,43.914561],"type":"Point"},"properties":{"EstRest":"10/18/2026 7:00:00 PM","Outages":23,"cause":"","county":"ESSEX","crewstatus":"     ","customers":139,"hamlet":"NEWCOMB","incidentnumber":"0115YA","incidents":1,"level":"street","opco":"NYSEG","street":"GOODNOW FLOW RD","town":"NEWCOMB T"},"type":"Feature"}
 ]}
