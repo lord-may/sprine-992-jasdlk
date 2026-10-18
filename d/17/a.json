@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.62679,38.24581],"type":"Point"},"properties":{"cause":{"EN-US":"EQUIPMENT FAILURE","orig":"0109"},"cluster":false,"comments":null,"crew_icon":true,"crew_status":{"EN-US":"Working","orig":"W"},"cust_a":{"val":1},"etr":"2026-10-18T17:35:16Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-10-18T11:31:43Z","title":"Area Outage"},"type":"Feature"}
+
 ]}

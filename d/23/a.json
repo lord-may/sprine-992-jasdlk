@@ -6,14 +6,14 @@
 {"geometry":{"coordinates":[-75.050442,41.289457],"type":"Point"},"properties":{"a":"41.289457","cty":"PIKE","id":8822914,"mun":"PORTER TWP","nc":1,"o":"-75.050442"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.201851,41.151688],"type":"Point"},"properties":{"a":"41.151688","cty":"MONROE","id":8822927,"mun":"PRICE TWP","nc":1,"o":"-75.201851"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.491273,40.545924],"type":"Point"},"properties":{"a":"40.545924","cty":"LEHIGH","id":8823823,"mun":"EMMAUS BORO","nc":3,"o":"-75.491273"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.118061,40.363033],"type":"Point"},"properties":{"a":"40.363033","cty":"BERKS","id":8824144,"mun":"HEIDELBERG TWP","nc":2,"o":"-76.118061"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.606541,40.167228],"type":"Point"},"properties":{"a":"40.167228","cty":"LANCASTER","id":8824188,"mun":"MOUNT JOY TWP","nc":3,"o":"-76.606541"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.098405,40.318012],"type":"Point"},"properties":{"a":"40.318012","cty":"BERKS","id":8824687,"mun":"SOUTH HEIDELBERG TWP","nc":1,"o":"-76.098405"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.491101,40.612783],"type":"Point"},"properties":{"a":"40.612783","cty":"LEHIGH","id":8824745,"mun":"ALLENTOWN","nc":7,"o":"-75.491101"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.442895,41.137156],"type":"Point"},"properties":{"a":"41.137156","cty":"CLINTON","id":8824972,"mun":"LOCK HAVEN","nc":21,"o":"-77.442895"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.572385,40.607792],"type":"Point"},"properties":{"a":"40.607792","cty":"LEHIGH","id":8825071,"mun":"SOUTH WHITEHALL TWP","nc":1,"o":"-75.572385"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.973309,40.948378],"type":"Point"},"properties":{"a":"40.948378","cty":"LUZERNE","id":8825184,"mun":"HAZLETON","nc":1,"o":"-75.973309"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.012183,41.237837],"type":"Point"},"properties":{"a":"41.237837","cty":"LYCOMING","id":8825187,"mun":"WILLIAMSPORT","nc":1,"o":"-77.012183"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.886659,40.264889],"type":"Point"},"properties":{"a":"40.264889","cty":"DAUPHIN","id":8825520,"mun":"HARRISBURG","nc":1,"o":"-76.886659"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.280801,40.134325],"type":"Point"},"properties":{"a":"40.134325","cty":"LANCASTER","id":8825568,"mun":"WARWICK TWP","nc":4,"o":"-76.280801"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.280801,40.134325],"type":"Point"},"properties":{"a":"40.134325","cty":"LANCASTER","id":8825568,"mun":"WARWICK TWP","nc":4,"o":"-76.280801"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.65762,41.0233],"type":"Point"},"properties":{"a":"41.0233","cty":"MONTOUR","hp":true,"id":8825623,"mun":"VALLEY TWP","nc":8,"ne":{"a":"41.02557","o":"-76.65318"},"o":"-76.65762","sw":{"a":"41.02103","o":"-76.66206"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.724428,40.349203],"type":"Point"},"properties":{"a":"40.349203","cty":"DAUPHIN","id":8825627,"mun":"WEST HANOVER TWP","nc":13,"o":"-76.724428"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.340847,40.630651],"type":"Point"},"properties":{"a":"40.630651","cty":"NORTHAMPTON","id":8825684,"mun":"FREEMANSBURG BORO","nc":8,"o":"-75.340847"},"type":"Feature"}
 ]}
