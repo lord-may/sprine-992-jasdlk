@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-73.766704,44.337862],"type":"Point"},"properties":{"EstRest":"10/18/2026 12:00:00 AM","Outages":4,"county":"ESSEX","customers":10354,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-73.769792,44.336297],"type":"Point"},"properties":{"EstRest":"10/18/2026 12:00:00 AM","Outages":1,"cause":"","county":"ESSEX","crewstatus":"DISP ","customers":1,"hamlet":"UPPER JAY","incidentnumber":"0115V0","incidents":1,"level":"street","opco":"NYSEG","street":"SCHOENEBERG WAY","town":"JAY T"},"type":"Feature"}
 ]}
