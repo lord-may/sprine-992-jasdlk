@@ -1,13 +1,8 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.489342,40.577133],"type":"Point"},"properties":{"a":"40.577133","cty":"LEHIGH","id":8811785,"mun":"ALLENTOWN","nc":14,"o":"-75.489342"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.85372,40.330434],"type":"Point"},"properties":{"a":"40.330434","cty":"DAUPHIN","id":8820856,"mun":"SUSQUEHANNA TWP","nc":3,"o":"-76.85372"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.491273,40.545924],"type":"Point"},"properties":{"a":"40.545924","cty":"LEHIGH","id":8823823,"mun":"EMMAUS BORO","nc":3,"o":"-75.491273"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.606541,40.167228],"type":"Point"},"properties":{"a":"40.167228","cty":"LANCASTER","id":8824188,"mun":"MOUNT JOY TWP","nc":3,"o":"-76.606541"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.442895,41.137156],"type":"Point"},"properties":{"a":"41.137156","cty":"CLINTON","id":8824972,"mun":"LOCK HAVEN","nc":21,"o":"-77.442895"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.572385,40.607792],"type":"Point"},"properties":{"a":"40.607792","cty":"LEHIGH","id":8825071,"mun":"SOUTH WHITEHALL TWP","nc":1,"o":"-75.572385"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.65762,41.0233],"type":"Point"},"properties":{"a":"41.0233","cty":"MONTOUR","hp":true,"id":8825623,"mun":"VALLEY TWP","nc":8,"ne":{"a":"41.02557","o":"-76.65318"},"o":"-76.65762","sw":{"a":"41.02103","o":"-76.66206"}},"type":"Feature"},
-{"geometry":{"coordinates":[-77.426643,41.151743],"type":"Point"},"properties":{"a":"41.151743","cty":"CLINTON","id":8826297,"mun":"WOODWARD TWP","nc":4,"o":"-77.426643"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.280801,40.134325],"type":"Point"},"properties":{"a":"40.134325","cty":"LANCASTER","id":8826390,"mun":"WARWICK TWP","nc":1,"o":"-76.280801"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.227168,40.786057],"type":"Point"},"properties":{"a":"40.786057","cty":"SCHUYLKILL","id":8826396,"mun":"FRACKVILLE BORO","nc":3,"o":"-76.227168"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.71308,41.372845],"type":"Point"},"properties":{"a":"41.372845","cty":"LACKAWANNA","id":8826411,"mun":"MOOSIC BORO","nc":18,"o":"-75.71308"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.227168,40.786057],"type":"Point"},"properties":{"a":"40.786057","cty":"SCHUYLKILL","id":8826396,"mun":"FRACKVILLE BORO","nc":3,"o":"-76.227168"},"type":"Feature"}
 ]}
