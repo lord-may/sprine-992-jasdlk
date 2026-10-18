@@ -6,7 +6,6 @@
 {"geometry":{"coordinates":[-75.503021,40.610492],"type":"Point"},"properties":{"a":"40.610492","cty":"LEHIGH","id":8821777,"mun":"ALLENTOWN","nc":1,"o":"-75.503021"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.449441,40.985131],"type":"Point"},"properties":{"a":"40.985131","cty":"MONROE","id":8822165,"mun":"CHESTNUT HILL TWP","nc":3,"o":"-75.449441"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.47872,40.109697],"type":"Point"},"properties":{"a":"40.109697","cty":"LANCASTER","id":8822191,"mun":"MOUNT JOY BORO","nc":3,"o":"-76.47872"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.403871,40.573571],"type":"Point"},"properties":{"a":"40.573571","cty":"LEHIGH","id":8822242,"mun":"UPPER SAUCON TWP","nc":1,"o":"-75.403871"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.259312,41.578237],"type":"Point"},"properties":{"a":"41.578237","cty":"WAYNE","id":8822351,"mun":"HONESDALE BORO","nc":9,"o":"-75.259312"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.454346,41.012644],"type":"Point"},"properties":{"a":"41.012644","cty":"MONROE","id":8822513,"mun":"TUNKHANNOCK TWP","nc":4,"o":"-75.454346"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.489358,40.547279],"type":"Point"},"properties":{"a":"40.547279","cty":"LEHIGH","id":8822787,"mun":"EMMAUS BORO","nc":8,"o":"-75.489358"},"type":"Feature"},
@@ -16,10 +15,14 @@
 {"geometry":{"coordinates":[-76.957848,40.354928],"type":"Point"},"properties":{"a":"40.354928","cty":"PERRY","id":8823079,"mun":"PENN TWP","nc":5,"o":"-76.957848"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.431427,40.755885],"type":"Point"},"properties":{"a":"40.755885","cty":"NORTHAMPTON","id":8823405,"mun":"MOORE TWP","nc":1,"o":"-75.431427"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.06132,41.258238],"type":"Point"},"properties":{"a":"41.258238","cty":"LYCOMING","id":8823475,"mun":"OLD LYCOMING TWP","nc":4,"o":"-77.06132"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.329287,41.118911],"type":"Point"},"properties":{"a":"41.118911","cty":"MONROE","id":8823506,"mun":"PARADISE TWP","nc":1,"o":"-75.329287"},"type":"Feature"},
 {"geometry":{"coordinates":[-74.95068,41.384277],"type":"Point"},"properties":{"a":"41.384277","cty":"PIKE","id":8823517,"mun":"SHOHOLA TWP","nc":3,"o":"-74.95068"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.902405,41.218195],"type":"Point"},"properties":{"a":"41.218195","cty":"LUZERNE","id":8823535,"mun":"HANOVER TWP","nc":13,"o":"-75.902405"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.376752,40.438068],"type":"Point"},"properties":{"a":"40.438068","cty":"BUCKS","id":8823573,"mun":"MILFORD TWP","nc":4,"o":"-75.376752"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.198125,40.864469],"type":"Point"},"properties":{"a":"40.864469","cty":"SCHUYLKILL","id":8823733,"mun":"UNION TWP","nc":3,"o":"-76.198125"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.148538,40.808782],"type":"Point"},"properties":{"a":"40.808782","cty":"SCHUYLKILL","id":8823748,"mun":"MAHANOY TWP","nc":1,"o":"-76.148538"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.148538,40.808782],"type":"Point"},"properties":{"a":"40.808782","cty":"SCHUYLKILL","id":8823748,"mun":"MAHANOY TWP","nc":1,"o":"-76.148538"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.493236,41.005907],"type":"Point"},"properties":{"a":"41.005907","cty":"MONROE","id":8823762,"mun":"TUNKHANNOCK TWP","nc":4,"o":"-75.493236"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.967232,40.79958],"type":"Point"},"properties":{"a":"40.79958","cty":"SCHUYLKILL","id":8823775,"mun":"TAMAQUA BORO","nc":18,"o":"-75.967232"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.491273,40.545924],"type":"Point"},"properties":{"a":"40.545924","cty":"LEHIGH","id":8823823,"mun":"EMMAUS BORO","nc":3,"o":"-75.491273"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.33816,40.402927],"type":"Point"},"properties":{"a":"40.402927","cty":"PERRY","id":8823875,"mun":"SAVILLE TWP","nc":1,"o":"-77.33816"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.491578,40.545583],"type":"Point"},"properties":{"a":"40.545583","cty":"LEHIGH","id":8823887,"mun":"EMMAUS BORO","nc":5,"o":"-75.491578"},"type":"Feature"}
 ]}
