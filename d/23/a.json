@@ -2,10 +2,12 @@
 {"geometry":{"coordinates":[-76.280801,40.134325],"type":"Point"},"properties":{"a":"40.134325","cty":"LANCASTER","id":8826390,"mun":"WARWICK TWP","nc":1,"o":"-76.280801"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.693613,40.829272],"type":"Point"},"properties":{"a":"40.829272","cty":"CARBON","id":8827119,"mun":"FRANKLIN TWP","nc":3,"o":"-75.693613"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.631804,41.449533],"type":"Point"},"properties":{"a":"41.449533","cty":"LACKAWANNA","id":8827124,"mun":"THROOP BORO","nc":2,"o":"-75.631804"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.598452,41.413283],"type":"Point"},"properties":{"a":"41.413283","cty":"LACKAWANNA","id":8827129,"mun":"DUNMORE BORO","nc":2,"o":"-75.598452"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.110809,41.497174],"type":"Point"},"properties":{"a":"41.497174","cty":"PIKE","id":8827135,"mun":"LACKAWAXEN TWP","nc":13,"o":"-75.110809"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.050826,41.28842],"type":"Point"},"properties":{"a":"41.28842","cty":"PIKE","id":8827136,"mun":"PORTER TWP","nc":1,"o":"-75.050826"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.499467,41.573358],"type":"Point"},"properties":{"a":"41.573358","cty":"LACKAWANNA","id":8827143,"mun":"CARBONDALE","nc":3,"o":"-75.499467"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.939255,40.21439],"type":"Point"},"properties":{"a":"40.21439","cty":"CUMBERLAND","id":8827144,"mun":"LOWER ALLEN TWP","nc":1,"o":"-76.939255"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.403068,40.64464],"type":"Point"},"properties":{"a":"40.64464","cty":"NORTHAMPTON","id":8827145,"mun":"HANOVER TWP","nc":10,"o":"-75.403068"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.403068,40.64464],"type":"Point"},"properties":{"a":"40.64464","cty":"NORTHAMPTON","id":8827145,"mun":"HANOVER TWP","nc":10,"o":"-75.403068"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.426643,41.151743],"type":"Point"},"properties":{"a":"41.151743","cty":"CLINTON","id":8827146,"mun":"WOODWARD TWP","nc":4,"o":"-77.426643"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.43875,41.065639],"type":"Point"},"properties":{"a":"41.065639","cty":"MONROE","id":8827148,"mun":"TUNKHANNOCK TWP","nc":3,"o":"-75.43875"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.347362,41.173377],"type":"Point"},"properties":{"a":"41.173377","cty":"COLUMBIA","id":8827150,"mun":"BENTON TWP","nc":1,"o":"-76.347362"},"type":"Feature"}
 ]}
