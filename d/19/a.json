@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-74.227989,43.912406],"type":"Point"},"properties":{"EstRest":"","Outages":32,"county":"ESSEX","customers":10354,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-74.236617,43.914561],"type":"Point"},"properties":{"EstRest":"","Outages":23,"cause":"","county":"ESSEX","crewstatus":"ONST ","customers":139,"hamlet":"NEWCOMB","incidentnumber":"0115YA","incidents":1,"level":"street","opco":"NYSEG","street":"GOODNOW FLOW RD","town":"NEWCOMB T"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.591256,42.328338],"type":"Point"},"properties":{"EstRest":"10/18/2026 8:45:00 PM","Outages":11,"county":"TOMPKINS","customers":49504,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.591256,42.328338],"type":"Point"},"properties":{"EstRest":"10/18/2026 8:45:00 PM","Outages":5,"cause":"","county":"TOMPKINS","crewstatus":"     ","customers":5,"hamlet":"NEWFIELD","incidentnumber":"0115YH","incidents":1,"level":"street","opco":"NYSEG","street":"CROWNVETCH DR","town":"NEWFIELD T"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.591256,42.328338],"type":"Point"},"properties":{"EstRest":"10/18/2026 8:45:00 PM","Outages":6,"cause":"","county":"TOMPKINS","crewstatus":"DISP ","customers":6,"hamlet":"NEWFIELD","incidentnumber":"0115YH","incidents":1,"level":"street","opco":"NYSEG","street":"TREFOIL DR","town":"NEWFIELD T"},"type":"Feature"}
 ]}

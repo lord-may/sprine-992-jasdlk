@@ -6,6 +6,5 @@
 {"geometry":{"coordinates":[-75.552389,41.11638],"type":"Point"},"properties":{"a":"41.11638","cty":"MONROE","id":8827132,"mun":"TOBYHANNA TWP","nc":5,"o":"-75.552389"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.110809,41.497174],"type":"Point"},"properties":{"a":"41.497174","cty":"PIKE","id":8827135,"mun":"LACKAWAXEN TWP","nc":13,"o":"-75.110809"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.050826,41.28842],"type":"Point"},"properties":{"a":"41.28842","cty":"PIKE","id":8827136,"mun":"PORTER TWP","nc":1,"o":"-75.050826"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.442956,41.137027],"type":"Point"},"properties":{"a":"41.137027","cty":"CLINTON","id":8827139,"mun":"LOCK HAVEN","nc":1,"o":"-77.442956"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.508594,40.105714],"type":"Point"},"properties":{"a":"40.105714","cty":"LANCASTER","id":8827141,"mun":"MOUNT JOY BORO","nc":4,"o":"-76.508594"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.499467,41.573358],"type":"Point"},"properties":{"a":"41.573358","cty":"LACKAWANNA","id":8827143,"mun":"CARBONDALE","nc":3,"o":"-75.499467"},"type":"Feature"}
 ]}
