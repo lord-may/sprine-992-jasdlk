@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.430347,41.785075],"type":"Point"},"properties":{"a":"41.785075","cty":"PROVIDENCE","id":20261067006,"mun":"CRANSTON","nc":1,"o":"-71.430347"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.430347,41.785075],"type":"Point"},"properties":{"a":"41.785075","cty":"PROVIDENCE","id":20261067006,"mun":"CRANSTON","nc":1,"o":"-71.430347"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.455172,41.826465],"type":"Point"},"properties":{"a":"41.826465","cty":"PROVIDENCE","id":20261067007,"mun":"PROVIDENCE","nc":1,"o":"-71.455172"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.606501,41.664171],"type":"Point"},"properties":{"a":"41.664171","cty":"KENT","id":20261067008,"mun":"COVENTRY","nc":1,"o":"-71.606501"},"type":"Feature"}
 ]}
