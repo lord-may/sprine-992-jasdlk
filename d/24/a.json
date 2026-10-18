@@ -1,11 +1,7 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.422886,41.834091],"type":"Point"},"properties":{"a":"41.834091","cty":"PROVIDENCE","id":20261066965,"mun":"PROVIDENCE","nc":1,"o":"-71.422886"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.57494,41.680365],"type":"Point"},"properties":{"a":"41.680365","cty":"KENT","id":20261066967,"mun":"COVENTRY","nc":2,"o":"-71.57494"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.50624,41.88338],"type":"Point"},"properties":{"a":"41.88338","cty":"PROVIDENCE","hp":true,"id":20261066970,"mun":"SMITHFIELD","nc":25,"ne":{"a":"41.88416","o":"-71.50509"},"o":"-71.50624","sw":{"a":"41.8826","o":"-71.5074"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.48876,41.820579],"type":"Point"},"properties":{"a":"41.820579","cty":"PROVIDENCE","id":20261066972,"mun":"JOHNSTON","nc":1,"o":"-71.48876"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.478371,41.60497],"type":"Point"},"properties":{"a":"41.60497","cty":"WASHINGTON","id":20261066973,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.478371"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.477533,41.604125],"type":"Point"},"properties":{"a":"41.604125","cty":"WASHINGTON","id":20261066974,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.477533"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.43827,41.813284],"type":"Point"},"properties":{"a":"41.813284","cty":"PROVIDENCE","id":20261066975,"mun":"PROVIDENCE","nc":1,"o":"-71.43827"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.492475,41.780476],"type":"Point"},"properties":{"a":"41.780476","cty":"PROVIDENCE","id":20261066977,"mun":"CRANSTON","nc":1,"o":"-71.492475"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.479997,41.60466],"type":"Point"},"properties":{"a":"41.60466","cty":"WASHINGTON","id":20261066978,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.479997"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.43827,41.813284],"type":"Point"},"properties":{"a":"41.813284","cty":"PROVIDENCE","id":20261066975,"mun":"PROVIDENCE","nc":1,"o":"-71.43827"},"type":"Feature"}
 ]}
