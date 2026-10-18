@@ -6,5 +6,7 @@
 {"geometry":{"coordinates":[-76.227168,40.786057],"type":"Point"},"properties":{"a":"40.786057","cty":"SCHUYLKILL","id":8826396,"mun":"FRACKVILLE BORO","nc":3,"o":"-76.227168"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.061623,41.300672],"type":"Point"},"properties":{"a":"41.300672","cty":"PIKE","id":8826868,"mun":"BLOOMING GROVE TWP","nc":2,"o":"-75.061623"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.32997,41.17905],"type":"Point"},"properties":{"a":"41.17905","cty":"COLUMBIA","hp":true,"id":8827036,"mun":"FISHING CREEK TWP","nc":142,"ne":{"a":"41.19613","o":"-76.3086"},"o":"-76.32997","sw":{"a":"41.16197","o":"-76.35135"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.967353,40.963908],"type":"Point"},"properties":{"a":"40.963908","cty":"LUZERNE","id":8827108,"mun":"HAZLETON","nc":19,"o":"-75.967353"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.481489,40.681371],"type":"Point"},"properties":{"a":"40.681371","cty":"NORTHAMPTON","id":8827112,"mun":"NORTHAMPTON BORO","nc":17,"o":"-75.481489"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.84112,40.374024],"type":"Point"},"properties":{"a":"40.374024","cty":"DAUPHIN","id":8827114,"mun":"MIDDLE PAXTON TWP","nc":1,"o":"-76.84112"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.47166,40.607661],"type":"Point"},"properties":{"a":"40.607661","cty":"LEHIGH","id":8827115,"mun":"ALLENTOWN","nc":1,"o":"-75.47166"},"type":"Feature"}
 ]}
