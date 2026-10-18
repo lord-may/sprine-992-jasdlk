@@ -5,7 +5,6 @@
 {"geometry":{"coordinates":[-76.85372,40.330434],"type":"Point"},"properties":{"a":"40.330434","cty":"DAUPHIN","id":8820856,"mun":"SUSQUEHANNA TWP","nc":3,"o":"-76.85372"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.503021,40.610492],"type":"Point"},"properties":{"a":"40.610492","cty":"LEHIGH","id":8821777,"mun":"ALLENTOWN","nc":1,"o":"-75.503021"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.373018,41.702153],"type":"Point"},"properties":{"a":"41.702153","cty":"WAYNE","id":8821864,"mun":"MOUNT PLEASANT TWP","nc":1,"o":"-75.373018"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.515964,41.005011],"type":"Point"},"properties":{"a":"41.005011","cty":"CARBON","id":8821880,"mun":"PENN FOREST TWP","nc":3,"o":"-75.515964"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.449441,40.985131],"type":"Point"},"properties":{"a":"40.985131","cty":"MONROE","id":8822165,"mun":"CHESTNUT HILL TWP","nc":3,"o":"-75.449441"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.47872,40.109697],"type":"Point"},"properties":{"a":"40.109697","cty":"LANCASTER","id":8822191,"mun":"MOUNT JOY BORO","nc":3,"o":"-76.47872"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.403871,40.573571],"type":"Point"},"properties":{"a":"40.573571","cty":"LEHIGH","id":8822242,"mun":"UPPER SAUCON TWP","nc":1,"o":"-75.403871"},"type":"Feature"},
@@ -17,6 +16,5 @@
 {"geometry":{"coordinates":[-75.050442,41.289457],"type":"Point"},"properties":{"a":"41.289457","cty":"PIKE","id":8822914,"mun":"PORTER TWP","nc":1,"o":"-75.050442"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.201851,41.151688],"type":"Point"},"properties":{"a":"41.151688","cty":"MONROE","id":8822927,"mun":"PRICE TWP","nc":1,"o":"-75.201851"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.533198,41.137165],"type":"Point"},"properties":{"a":"41.137165","cty":"COLUMBIA","id":8823035,"mun":"PINE TWP","nc":2,"o":"-76.533198"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.389957,40.512572],"type":"Point"},"properties":{"a":"40.512572","cty":"LEHIGH","id":8823047,"mun":"COOPERSBURG BORO","nc":15,"o":"-75.389957"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.957848,40.354928],"type":"Point"},"properties":{"a":"40.354928","cty":"PERRY","id":8823079,"mun":"PENN TWP","nc":5,"o":"-76.957848"},"type":"Feature"}
 ]}
