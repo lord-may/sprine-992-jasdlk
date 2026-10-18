@@ -10,11 +10,10 @@
 {"geometry":{"coordinates":[-76.606541,40.167228],"type":"Point"},"properties":{"a":"40.167228","cty":"LANCASTER","id":8824188,"mun":"MOUNT JOY TWP","nc":3,"o":"-76.606541"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.098405,40.318012],"type":"Point"},"properties":{"a":"40.318012","cty":"BERKS","id":8824687,"mun":"SOUTH HEIDELBERG TWP","nc":1,"o":"-76.098405"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.491101,40.612783],"type":"Point"},"properties":{"a":"40.612783","cty":"LEHIGH","id":8824745,"mun":"ALLENTOWN","nc":7,"o":"-75.491101"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.388714,41.27191],"type":"Point"},"properties":{"a":"41.27191","cty":"WAYNE","id":8824825,"mun":"LEHIGH TWP","nc":1,"o":"-75.388714"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.442895,41.137156],"type":"Point"},"properties":{"a":"41.137156","cty":"CLINTON","id":8824972,"mun":"LOCK HAVEN","nc":21,"o":"-77.442895"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.572385,40.607792],"type":"Point"},"properties":{"a":"40.607792","cty":"LEHIGH","id":8825071,"mun":"SOUTH WHITEHALL TWP","nc":1,"o":"-75.572385"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.275762,39.977748],"type":"Point"},"properties":{"a":"39.977748","cty":"LANCASTER","id":8825105,"mun":"WEST LAMPETER TWP","nc":4,"o":"-76.275762"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.973309,40.948378],"type":"Point"},"properties":{"a":"40.948378","cty":"LUZERNE","id":8825184,"mun":"HAZLETON","nc":1,"o":"-75.973309"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.012183,41.237837],"type":"Point"},"properties":{"a":"41.237837","cty":"LYCOMING","id":8825187,"mun":"WILLIAMSPORT","nc":1,"o":"-77.012183"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.541608,40.569189],"type":"Point"},"properties":{"a":"40.569189","cty":"LEHIGH","id":8825200,"mun":"LOWER MACUNGIE TWP","nc":13,"o":"-75.541608"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.886659,40.264889],"type":"Point"},"properties":{"a":"40.264889","cty":"DAUPHIN","id":8825520,"mun":"HARRISBURG","nc":1,"o":"-76.886659"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.280801,40.134325],"type":"Point"},"properties":{"a":"40.134325","cty":"LANCASTER","id":8825568,"mun":"WARWICK TWP","nc":4,"o":"-76.280801"},"type":"Feature"}
 ]}
