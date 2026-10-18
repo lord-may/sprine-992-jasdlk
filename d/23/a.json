@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.489342,40.577133],"type":"Point"},"properties":{"a":"40.577133","cty":"LEHIGH","id":8811785,"mun":"ALLENTOWN","nc":14,"o":"-75.489342"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.53392,40.9502],"type":"Point"},"properties":{"a":"40.9502","cty":"MONROE","hp":true,"id":8819524,"mun":"POLK TWP","nc":24,"ne":{"a":"40.95294","o":"-75.5255"},"o":"-75.53392","sw":{"a":"40.94747","o":"-75.54234"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.12176,41.16933],"type":"Point"},"properties":{"a":"41.16933","cty":"LYCOMING","hp":true,"id":8819954,"mun":"LIMESTONE TWP","nc":242,"ne":{"a":"41.1889","o":"-77.09027"},"o":"-77.12176","sw":{"a":"41.14977","o":"-77.15325"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.85372,40.330434],"type":"Point"},"properties":{"a":"40.330434","cty":"DAUPHIN","id":8820856,"mun":"SUSQUEHANNA TWP","nc":3,"o":"-76.85372"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.259312,41.578237],"type":"Point"},"properties":{"a":"41.578237","cty":"WAYNE","id":8822351,"mun":"HONESDALE BORO","nc":9,"o":"-75.259312"},"type":"Feature"},
@@ -17,6 +16,9 @@
 {"geometry":{"coordinates":[-76.606541,40.167228],"type":"Point"},"properties":{"a":"40.167228","cty":"LANCASTER","id":8824188,"mun":"MOUNT JOY TWP","nc":3,"o":"-76.606541"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.098405,40.318012],"type":"Point"},"properties":{"a":"40.318012","cty":"BERKS","id":8824687,"mun":"SOUTH HEIDELBERG TWP","nc":1,"o":"-76.098405"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.491101,40.612783],"type":"Point"},"properties":{"a":"40.612783","cty":"LEHIGH","id":8824745,"mun":"ALLENTOWN","nc":7,"o":"-75.491101"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.704873,41.485854],"type":"Point"},"properties":{"a":"41.485854","cty":"LACKAWANNA","id":8824791,"mun":"CLARKS SUMMIT BORO","nc":11,"o":"-75.704873"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.388714,41.27191],"type":"Point"},"properties":{"a":"41.27191","cty":"WAYNE","id":8824825,"mun":"LEHIGH TWP","nc":1,"o":"-75.388714"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.388714,41.27191],"type":"Point"},"properties":{"a":"41.27191","cty":"WAYNE","id":8824825,"mun":"LEHIGH TWP","nc":1,"o":"-75.388714"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.279026,40.792137],"type":"Point"},"properties":{"a":"40.792137","cty":"SCHUYLKILL","id":8824959,"mun":"BUTLER TWP","nc":3,"o":"-76.279026"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.442895,41.137156],"type":"Point"},"properties":{"a":"41.137156","cty":"CLINTON","id":8824972,"mun":"LOCK HAVEN","nc":21,"o":"-77.442895"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.429249,40.63656],"type":"Point"},"properties":{"a":"40.63656","cty":"LEHIGH","id":8825013,"mun":"HANOVER TWP","nc":2,"o":"-75.429249"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.724428,40.349203],"type":"Point"},"properties":{"a":"40.349203","cty":"DAUPHIN","id":8825032,"mun":"WEST HANOVER TWP","nc":13,"o":"-76.724428"},"type":"Feature"}
 ]}
