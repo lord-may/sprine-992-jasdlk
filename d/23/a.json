@@ -6,7 +6,6 @@
 {"geometry":{"coordinates":[-75.449441,40.985131],"type":"Point"},"properties":{"a":"40.985131","cty":"MONROE","id":8822165,"mun":"CHESTNUT HILL TWP","nc":3,"o":"-75.449441"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.47872,40.109697],"type":"Point"},"properties":{"a":"40.109697","cty":"LANCASTER","id":8822191,"mun":"MOUNT JOY BORO","nc":3,"o":"-76.47872"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.259312,41.578237],"type":"Point"},"properties":{"a":"41.578237","cty":"WAYNE","id":8822351,"mun":"HONESDALE BORO","nc":9,"o":"-75.259312"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.454346,41.012644],"type":"Point"},"properties":{"a":"41.012644","cty":"MONROE","id":8822513,"mun":"TUNKHANNOCK TWP","nc":4,"o":"-75.454346"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.489358,40.547279],"type":"Point"},"properties":{"a":"40.547279","cty":"LEHIGH","id":8822787,"mun":"EMMAUS BORO","nc":8,"o":"-75.489358"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.050442,41.289457],"type":"Point"},"properties":{"a":"41.289457","cty":"PIKE","id":8822914,"mun":"PORTER TWP","nc":1,"o":"-75.050442"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.201851,41.151688],"type":"Point"},"properties":{"a":"41.151688","cty":"MONROE","id":8822927,"mun":"PRICE TWP","nc":1,"o":"-75.201851"},"type":"Feature"},
@@ -15,15 +14,12 @@
 {"geometry":{"coordinates":[-74.95068,41.384277],"type":"Point"},"properties":{"a":"41.384277","cty":"PIKE","id":8823517,"mun":"SHOHOLA TWP","nc":3,"o":"-74.95068"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.902405,41.218195],"type":"Point"},"properties":{"a":"41.218195","cty":"LUZERNE","id":8823535,"mun":"HANOVER TWP","nc":13,"o":"-75.902405"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.376752,40.438068],"type":"Point"},"properties":{"a":"40.438068","cty":"BUCKS","id":8823573,"mun":"MILFORD TWP","nc":4,"o":"-75.376752"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.198125,40.864469],"type":"Point"},"properties":{"a":"40.864469","cty":"SCHUYLKILL","id":8823733,"mun":"UNION TWP","nc":3,"o":"-76.198125"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.148538,40.808782],"type":"Point"},"properties":{"a":"40.808782","cty":"SCHUYLKILL","id":8823748,"mun":"MAHANOY TWP","nc":1,"o":"-76.148538"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.967232,40.79958],"type":"Point"},"properties":{"a":"40.79958","cty":"SCHUYLKILL","id":8823775,"mun":"TAMAQUA BORO","nc":1,"o":"-75.967232"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.491273,40.545924],"type":"Point"},"properties":{"a":"40.545924","cty":"LEHIGH","id":8823823,"mun":"EMMAUS BORO","nc":3,"o":"-75.491273"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.33816,40.402927],"type":"Point"},"properties":{"a":"40.402927","cty":"PERRY","id":8823875,"mun":"SAVILLE TWP","nc":1,"o":"-77.33816"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.245229,41.038416],"type":"Point"},"properties":{"a":"41.038416","cty":"MONROE","id":8824111,"mun":"STROUD TWP","nc":2,"o":"-75.245229"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.704873,41.485854],"type":"Point"},"properties":{"a":"41.485854","cty":"LACKAWANNA","id":8824140,"mun":"CLARKS SUMMIT BORO","nc":11,"o":"-75.704873"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.118061,40.363033],"type":"Point"},"properties":{"a":"40.363033","cty":"BERKS","id":8824144,"mun":"HEIDELBERG TWP","nc":2,"o":"-76.118061"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.39042,40.62473],"type":"Point"},"properties":{"a":"40.62473","cty":"LEHIGH","id":8824149,"mun":"BETHLEHEM","nc":1,"o":"-75.39042"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.606541,40.167228],"type":"Point"},"properties":{"a":"40.167228","cty":"LANCASTER","id":8824188,"mun":"MOUNT JOY TWP","nc":3,"o":"-76.606541"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.817421,40.856661],"type":"Point"},"properties":{"a":"40.856661","cty":"SNYDER","id":8824212,"mun":"SHAMOKIN DAM BORO","nc":6,"o":"-76.817421"},"type":"Feature"}
 ]}
