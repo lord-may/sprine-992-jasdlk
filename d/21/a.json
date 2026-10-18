@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.126528,44.155254],"type":"Point"},"properties":{"EstRest":"10/18/2026 4:45:00 PM","Outages":28,"county":"ANDROSCOGGIN","customers":59602,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.226335,44.08622],"type":"Point"},"properties":{"EstRest":"10/18/2026 4:30:00 PM","Outages":16,"cause":"","county":"ANDROSCOGGIN","crewstatus":"DISP ","customers":87,"hamlet":"AUBURN","incidentnumber":"0043YC","incidents":1,"level":"street","opco":"CMP","street":"SIXTH ST","town":"AUBURN"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.226335,44.08622],"type":"Point"},"properties":{"EstRest":"10/18/2026 4:30:00 PM","Outages":16,"county":"ANDROSCOGGIN","customers":59602,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
