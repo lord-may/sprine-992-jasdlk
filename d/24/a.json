@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.351348,41.779381],"type":"Point"},"properties":{"a":"41.779381","cty":"PROVIDENCE","id":20261066939,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.351348"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.351348,41.779381],"type":"Point"},"properties":{"a":"41.779381","cty":"PROVIDENCE","id":20261066939,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.351348"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.427813,41.789396],"type":"Point"},"properties":{"a":"41.789396","cty":"PROVIDENCE","id":20261066952,"mun":"PROVIDENCE","nc":1,"o":"-71.427813"},"type":"Feature"}
 ]}
