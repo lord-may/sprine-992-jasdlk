@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.626515,42.810521],"type":"Point"},"properties":{"EstRest":"10/18/2026 11:45:00 AM","Outages":1,"cause":"Equipment Interruption","county":"CAYUGA","crewstatus":"CMPL ","customers":20,"hamlet":"UNION SPRINGS","incidentnumber":"0115W3","incidents":1,"level":"street","opco":"NYSEG","street":"STATE ROUTE 34B","town":"SCIPIO T"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.626515,42.810521],"type":"Point"},"properties":{"EstRest":"10/18/2026 11:45:00 AM","Outages":1,"county":"CAYUGA","customers":32356,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.49037,42.465126],"type":"Point"},"properties":{"EstRest":"10/18/2026 4:30:00 PM","Outages":5,"cause":"","county":"TOMPKINS","crewstatus":"DISP ","customers":197,"hamlet":"ITHACA","incidentnumber":"0115WV","incidents":1,"level":"street","opco":"NYSEG","street":"HIGHLAND RD","town":"CAYUGA HEIG V"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.49037,42.465126],"type":"Point"},"properties":{"EstRest":"10/18/2026 4:30:00 PM","Outages":7,"county":"TOMPKINS","customers":49504,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
