@@ -1,13 +1,11 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.280801,40.134325],"type":"Point"},"properties":{"a":"40.134325","cty":"LANCASTER","id":8826390,"mun":"WARWICK TWP","nc":1,"o":"-76.280801"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.32997,41.17905],"type":"Point"},"properties":{"a":"41.17905","cty":"COLUMBIA","hp":true,"id":8827036,"mun":"FISHING CREEK TWP","nc":142,"ne":{"a":"41.19613","o":"-76.3086"},"o":"-76.32997","sw":{"a":"41.16197","o":"-76.35135"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.84112,40.374024],"type":"Point"},"properties":{"a":"40.374024","cty":"DAUPHIN","id":8827117,"mun":"MIDDLE PAXTON TWP","nc":1,"o":"-76.84112"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.693613,40.829272],"type":"Point"},"properties":{"a":"40.829272","cty":"CARBON","id":8827119,"mun":"FRANKLIN TWP","nc":3,"o":"-75.693613"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.631804,41.449533],"type":"Point"},"properties":{"a":"41.449533","cty":"LACKAWANNA","id":8827124,"mun":"THROOP BORO","nc":2,"o":"-75.631804"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.598452,41.413283],"type":"Point"},"properties":{"a":"41.413283","cty":"LACKAWANNA","id":8827129,"mun":"DUNMORE BORO","nc":2,"o":"-75.598452"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.499467,41.573358],"type":"Point"},"properties":{"a":"41.573358","cty":"LACKAWANNA","id":8827130,"mun":"CARBONDALE","nc":3,"o":"-75.499467"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.552389,41.11638],"type":"Point"},"properties":{"a":"41.11638","cty":"MONROE","id":8827132,"mun":"TOBYHANNA TWP","nc":5,"o":"-75.552389"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.110809,41.497174],"type":"Point"},"properties":{"a":"41.497174","cty":"PIKE","id":8827135,"mun":"LACKAWAXEN TWP","nc":13,"o":"-75.110809"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.050826,41.28842],"type":"Point"},"properties":{"a":"41.28842","cty":"PIKE","id":8827136,"mun":"PORTER TWP","nc":1,"o":"-75.050826"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.625454,41.417719],"type":"Point"},"properties":{"a":"41.417719","cty":"LACKAWANNA","id":8827138,"mun":"DUNMORE BORO","nc":14,"o":"-75.625454"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.442956,41.137027],"type":"Point"},"properties":{"a":"41.137027","cty":"CLINTON","id":8827139,"mun":"LOCK HAVEN","nc":1,"o":"-77.442956"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.508594,40.105714],"type":"Point"},"properties":{"a":"40.105714","cty":"LANCASTER","id":8827141,"mun":"MOUNT JOY BORO","nc":4,"o":"-76.508594"},"type":"Feature"}
 ]}
