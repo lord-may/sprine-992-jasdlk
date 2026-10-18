@@ -4,5 +4,7 @@
 {"geometry":{"coordinates":[-76.92023,40.35673],"type":"Point"},"properties":{"a":"40.35673","cty":"DAUPHIN","hp":true,"id":8814587,"mun":"MIDDLE PAXTON TWP","nc":8,"ne":{"a":"40.36242","o":"-76.91283"},"o":"-76.92023","sw":{"a":"40.35104","o":"-76.92763"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.170101,40.656144],"type":"Point"},"properties":{"a":"40.656144","cty":"SCHUYLKILL","id":8817233,"mun":"NORTH MANHEIM TWP","nc":7,"o":"-76.170101"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.896638,40.69373],"type":"Point"},"properties":{"a":"40.69373","cty":"SCHUYLKILL","id":8819417,"mun":"WEST PENN TWP","nc":1,"o":"-75.896638"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.53392,40.9502],"type":"Point"},"properties":{"a":"40.9502","cty":"MONROE","hp":true,"id":8819524,"mun":"POLK TWP","nc":24,"ne":{"a":"40.95294","o":"-75.5255"},"o":"-75.53392","sw":{"a":"40.94747","o":"-75.54234"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.53392,40.9502],"type":"Point"},"properties":{"a":"40.9502","cty":"MONROE","hp":true,"id":8819524,"mun":"POLK TWP","nc":24,"ne":{"a":"40.95294","o":"-75.5255"},"o":"-75.53392","sw":{"a":"40.94747","o":"-75.54234"}},"type":"Feature"},
+{"geometry":{"coordinates":[-77.071948,40.823681],"type":"Point"},"properties":{"a":"40.823681","cty":"SNYDER","id":8819727,"mun":"CENTRE TWP","nc":4,"o":"-77.071948"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.32685,40.70875],"type":"Point"},"properties":{"a":"40.70875","cty":"NORTHAMPTON","hp":true,"id":8819751,"mun":"LOWER NAZARETH TWP","nc":8,"ne":{"a":"40.70952","o":"-75.32639"},"o":"-75.32685","sw":{"a":"40.70798","o":"-75.3273"}},"type":"Feature"}
 ]}

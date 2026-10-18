@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.401507,41.961794],"type":"Point"},"properties":{"a":"41.961794","cty":"PROVIDENCE","id":20261066954,"mun":"CUMBERLAND","nc":1,"o":"-71.401507"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.499625,42.007679],"type":"Point"},"properties":{"a":"42.007679","cty":"PROVIDENCE","id":20261066956,"mun":"WOONSOCKET","nc":1,"o":"-71.499625"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.499625,42.007679],"type":"Point"},"properties":{"a":"42.007679","cty":"PROVIDENCE","id":20261066956,"mun":"WOONSOCKET","nc":1,"o":"-71.499625"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.401507,41.961794],"type":"Point"},"properties":{"a":"41.961794","cty":"PROVIDENCE","id":20261066957,"mun":"CUMBERLAND","nc":1,"o":"-71.401507"},"type":"Feature"}
 ]}
