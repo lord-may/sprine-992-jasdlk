@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-73.157249,44.607604],"type":"Point"},"properties":{"active":true,"affectingCustomers":true,"cause":0,"county":"Chittenden","crew_name":",STAL-L.BENOITSTAL-PARENT","customers_affected":1,"customers_affected_label":"1 Customer","device":"SERVICE","etor":"2026-10-18T03:00-04:00","has_etor":1,"incident_id":1015936,"status":"CREW_ASSIGNED","street":"PRECAST RD","town":"Milton","trouble":"NO_POWER"},"type":"Feature"}
+
 ]}
