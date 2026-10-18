@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-77.71685,43.122054],"type":"Point"},"properties":{"EstRest":"10/18/2026 3:30:00 PM","Outages":37,"cause":"","county":"MONROE","crewstatus":"     ","customers":56,"hamlet":"ROCHESTER","incidentnumber":"0115X8","incidents":1,"level":"street","opco":"RGE","street":"HALLOCK RD","town":"CHILI"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.717455,43.119965],"type":"Point"},"properties":{"EstRest":"10/18/2026 3:30:00 PM","Outages":39,"county":"MONROE","customers":303507,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
