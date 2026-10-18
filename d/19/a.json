@@ -1,8 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-77.155772,42.514614],"type":"Point"},"properties":{"EstRest":"10/18/2026 2:00:00 AM","Outages":1,"cause":"","county":"CHEMUNG","crewstatus":"DISP ","customers":1,"hamlet":"HAMMONDSPORT","incidentnumber":"0115VB","incidents":1,"level":"street","opco":"NYSEG","street":"W LAKE RD","town":"PULTENEY T"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.155772,42.514614],"type":"Point"},"properties":{"EstRest":"10/18/2026 2:00:00 AM","Outages":1,"county":"CHEMUNG","customers":39910,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.766704,44.337862],"type":"Point"},"properties":{"EstRest":"10/18/2026 2:00:00 AM","Outages":4,"county":"ESSEX","customers":10354,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.769792,44.336297],"type":"Point"},"properties":{"EstRest":"10/18/2026 2:00:00 AM","Outages":1,"cause":"","county":"ESSEX","crewstatus":"DISP ","customers":1,"hamlet":"UPPER JAY","incidentnumber":"0115V0","incidents":1,"level":"street","opco":"NYSEG","street":"SCHOENEBERG WAY","town":"JAY T"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.165505,42.52751],"type":"Point"},"properties":{"EstRest":"10/18/2026 2:00:00 AM","Outages":400,"county":"STEUBEN","customers":42831,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.170559,42.54978],"type":"Point"},"properties":{"EstRest":"10/18/2026 2:00:00 AM","Outages":34,"cause":"","county":"STEUBEN","crewstatus":"DISP ","customers":34,"hamlet":"PRATTSBURGH","incidentnumber":"0115VB","incidents":1,"level":"street","opco":"NYSEG","street":"COUNTY ROUTE 78","town":"PULTENEY T"},"type":"Feature"}
 ]}
