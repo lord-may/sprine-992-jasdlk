@@ -2,5 +2,7 @@
 {"geometry":{"coordinates":[-75.489342,40.577133],"type":"Point"},"properties":{"a":"40.577133","cty":"LEHIGH","id":8811785,"mun":"ALLENTOWN","nc":14,"o":"-75.489342"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.61162,40.83399],"type":"Point"},"properties":{"a":"40.83399","cty":"NORTHUMBERLAND","hp":true,"id":8811866,"mun":"SHAMOKIN TWP","nc":10,"ne":{"a":"40.838","o":"-76.60345"},"o":"-76.61162","sw":{"a":"40.82998","o":"-76.61978"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.92023,40.35673],"type":"Point"},"properties":{"a":"40.35673","cty":"DAUPHIN","hp":true,"id":8814587,"mun":"MIDDLE PAXTON TWP","nc":8,"ne":{"a":"40.36242","o":"-76.91283"},"o":"-76.92023","sw":{"a":"40.35104","o":"-76.92763"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.170101,40.656144],"type":"Point"},"properties":{"a":"40.656144","cty":"SCHUYLKILL","id":8817233,"mun":"NORTH MANHEIM TWP","nc":7,"o":"-76.170101"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.170101,40.656144],"type":"Point"},"properties":{"a":"40.656144","cty":"SCHUYLKILL","id":8817233,"mun":"NORTH MANHEIM TWP","nc":7,"o":"-76.170101"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.896638,40.69373],"type":"Point"},"properties":{"a":"40.69373","cty":"SCHUYLKILL","id":8819417,"mun":"WEST PENN TWP","nc":1,"o":"-75.896638"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.53392,40.9502],"type":"Point"},"properties":{"a":"40.9502","cty":"MONROE","hp":true,"id":8819524,"mun":"POLK TWP","nc":24,"ne":{"a":"40.95294","o":"-75.5255"},"o":"-75.53392","sw":{"a":"40.94747","o":"-75.54234"}},"type":"Feature"}
 ]}
