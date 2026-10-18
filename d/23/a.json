@@ -8,6 +8,5 @@
 {"geometry":{"coordinates":[-76.98203,40.254803],"type":"Point"},"properties":{"a":"40.254803","cty":"CUMBERLAND","id":8812368,"mun":"HAMPDEN TWP","nc":5,"o":"-76.98203"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.3141,40.66394],"type":"Point"},"properties":{"a":"40.66394","cty":"NORTHAMPTON","hp":true,"id":8812437,"mun":"BETHLEHEM TWP","nc":58,"ne":{"a":"40.66492","o":"-75.31232"},"o":"-75.3141","sw":{"a":"40.66297","o":"-75.31589"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.287155,39.854892],"type":"Point"},"properties":{"a":"39.854892","cty":"LANCASTER","id":8813050,"mun":"MARTIC TWP","nc":1,"o":"-76.287155"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.20189,40.239463],"type":"Point"},"properties":{"a":"40.239463","cty":"CUMBERLAND","id":8813511,"mun":"NORTH MIDDLETON TWP","nc":2,"o":"-77.20189"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.18198,41.427265],"type":"Point"},"properties":{"a":"41.427265","cty":"PIKE","id":8813573,"mun":"PALMYRA TWP","nc":8,"o":"-75.18198"},"type":"Feature"}
 ]}
