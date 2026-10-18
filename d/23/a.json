@@ -9,7 +9,7 @@
 {"geometry":{"coordinates":[-76.98203,40.254803],"type":"Point"},"properties":{"a":"40.254803","cty":"CUMBERLAND","id":8812368,"mun":"HAMPDEN TWP","nc":5,"o":"-76.98203"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.3141,40.66394],"type":"Point"},"properties":{"a":"40.66394","cty":"NORTHAMPTON","hp":true,"id":8812437,"mun":"BETHLEHEM TWP","nc":58,"ne":{"a":"40.66492","o":"-75.31232"},"o":"-75.3141","sw":{"a":"40.66297","o":"-75.31589"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.727992,41.236244],"type":"Point"},"properties":{"a":"41.236244","cty":"LYCOMING","id":8812707,"mun":"WOLF TWP","nc":9,"o":"-76.727992"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.33859,40.034545],"type":"Point"},"properties":{"a":"40.034545","cty":"LANCASTER","id":8812776,"mun":"LANCASTER TWP","nc":9,"o":"-76.33859"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.309179,40.666627],"type":"Point"},"properties":{"a":"40.666627","cty":"NORTHAMPTON","id":8812918,"mun":"BETHLEHEM TWP","nc":2,"o":"-75.309179"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.287155,39.854892],"type":"Point"},"properties":{"a":"39.854892","cty":"LANCASTER","id":8813050,"mun":"MARTIC TWP","nc":1,"o":"-76.287155"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.287155,39.854892],"type":"Point"},"properties":{"a":"39.854892","cty":"LANCASTER","id":8813050,"mun":"MARTIC TWP","nc":1,"o":"-76.287155"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.33859,40.034545],"type":"Point"},"properties":{"a":"40.034545","cty":"LANCASTER","id":8813266,"mun":"LANCASTER TWP","nc":9,"o":"-76.33859"},"type":"Feature"}
 ]}
