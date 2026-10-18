@@ -3,17 +3,20 @@
 {"geometry":{"coordinates":[-75.53392,40.9502],"type":"Point"},"properties":{"a":"40.9502","cty":"MONROE","hp":true,"id":8819524,"mun":"POLK TWP","nc":24,"ne":{"a":"40.95294","o":"-75.5255"},"o":"-75.53392","sw":{"a":"40.94747","o":"-75.54234"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.12176,41.16933],"type":"Point"},"properties":{"a":"41.16933","cty":"LYCOMING","hp":true,"id":8819954,"mun":"LIMESTONE TWP","nc":242,"ne":{"a":"41.1889","o":"-77.09027"},"o":"-77.12176","sw":{"a":"41.14977","o":"-77.15325"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.85372,40.330434],"type":"Point"},"properties":{"a":"40.330434","cty":"DAUPHIN","id":8820856,"mun":"SUSQUEHANNA TWP","nc":3,"o":"-76.85372"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.395203,40.979252],"type":"Point"},"properties":{"a":"40.979252","cty":"MONROE","id":8821205,"mun":"CHESTNUT HILL TWP","nc":4,"o":"-75.395203"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.913685,41.253766],"type":"Point"},"properties":{"a":"41.253766","cty":"LYCOMING","id":8821541,"mun":"MONTOURSVILLE BORO","nc":8,"o":"-76.913685"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.348608,40.927214],"type":"Point"},"properties":{"a":"40.927214","cty":"MONROE","id":8821583,"mun":"CHESTNUT HILL TWP","nc":4,"o":"-75.348608"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.807968,40.249564],"type":"Point"},"properties":{"a":"40.249564","cty":"DAUPHIN","id":8821675,"mun":"SWATARA TWP","nc":2,"o":"-76.807968"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.690931,41.431573],"type":"Point"},"properties":{"a":"41.431573","cty":"LACKAWANNA","id":8821718,"mun":"SCRANTON","nc":2,"o":"-75.690931"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.503021,40.610492],"type":"Point"},"properties":{"a":"40.610492","cty":"LEHIGH","id":8821777,"mun":"ALLENTOWN","nc":1,"o":"-75.503021"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.481489,40.681371],"type":"Point"},"properties":{"a":"40.681371","cty":"NORTHAMPTON","id":8821837,"mun":"NORTHAMPTON BORO","nc":17,"o":"-75.481489"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.373018,41.702153],"type":"Point"},"properties":{"a":"41.702153","cty":"WAYNE","id":8821864,"mun":"MOUNT PLEASANT TWP","nc":2,"o":"-75.373018"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.515964,41.005011],"type":"Point"},"properties":{"a":"41.005011","cty":"CARBON","id":8821880,"mun":"PENN FOREST TWP","nc":3,"o":"-75.515964"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.675645,41.42057],"type":"Point"},"properties":{"a":"41.42057","cty":"LACKAWANNA","id":8821966,"mun":"SCRANTON","nc":1,"o":"-75.675645"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.8227,40.22775],"type":"Point"},"properties":{"a":"40.22775","cty":"DAUPHIN","hp":true,"id":8821976,"mun":"SWATARA TWP","nc":51,"ne":{"a":"40.22893","o":"-76.82179"},"o":"-76.8227","sw":{"a":"40.22657","o":"-76.82361"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.981241,40.329673],"type":"Point"},"properties":{"a":"40.329673","cty":"PERRY","id":8822018,"mun":"RYE TWP","nc":4,"o":"-76.981241"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.88077,40.225837],"type":"Point"},"properties":{"a":"40.225837","cty":"CUMBERLAND","id":8822095,"mun":"NEW CUMBERLAND BORO","nc":3,"o":"-76.88077"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.88077,40.225837],"type":"Point"},"properties":{"a":"40.225837","cty":"CUMBERLAND","id":8822095,"mun":"NEW CUMBERLAND BORO","nc":3,"o":"-76.88077"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.483901,41.250047],"type":"Point"},"properties":{"a":"41.250047","cty":"LACKAWANNA","id":8822128,"mun":"CLIFTON TWP","nc":4,"o":"-75.483901"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.449441,40.985131],"type":"Point"},"properties":{"a":"40.985131","cty":"MONROE","id":8822165,"mun":"CHESTNUT HILL TWP","nc":3,"o":"-75.449441"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.47872,40.109697],"type":"Point"},"properties":{"a":"40.109697","cty":"LANCASTER","id":8822191,"mun":"MOUNT JOY BORO","nc":3,"o":"-76.47872"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.403871,40.573571],"type":"Point"},"properties":{"a":"40.573571","cty":"LEHIGH","id":8822242,"mun":"UPPER SAUCON TWP","nc":1,"o":"-75.403871"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.322565,40.313406],"type":"Point"},"properties":{"a":"40.313406","cty":"MONTGOMERY","id":8822249,"mun":"SOUDERTON BORO","nc":12,"o":"-75.322565"},"type":"Feature"}
 ]}
