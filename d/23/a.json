@@ -6,8 +6,11 @@
 {"geometry":{"coordinates":[-75.050826,41.28842],"type":"Point"},"properties":{"a":"41.28842","cty":"PIKE","id":8827136,"mun":"PORTER TWP","nc":1,"o":"-75.050826"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.499467,41.573358],"type":"Point"},"properties":{"a":"41.573358","cty":"LACKAWANNA","id":8827143,"mun":"CARBONDALE","nc":3,"o":"-75.499467"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.939255,40.21439],"type":"Point"},"properties":{"a":"40.21439","cty":"CUMBERLAND","id":8827144,"mun":"LOWER ALLEN TWP","nc":1,"o":"-76.939255"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.403068,40.64464],"type":"Point"},"properties":{"a":"40.64464","cty":"NORTHAMPTON","id":8827145,"mun":"HANOVER TWP","nc":10,"o":"-75.403068"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.426643,41.151743],"type":"Point"},"properties":{"a":"41.151743","cty":"CLINTON","id":8827146,"mun":"WOODWARD TWP","nc":4,"o":"-77.426643"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.43875,41.065639],"type":"Point"},"properties":{"a":"41.065639","cty":"MONROE","id":8827148,"mun":"TUNKHANNOCK TWP","nc":3,"o":"-75.43875"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.347362,41.173377],"type":"Point"},"properties":{"a":"41.173377","cty":"COLUMBIA","id":8827150,"mun":"BENTON TWP","nc":1,"o":"-76.347362"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.347362,41.173377],"type":"Point"},"properties":{"a":"41.173377","cty":"COLUMBIA","id":8827150,"mun":"BENTON TWP","nc":1,"o":"-76.347362"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.29654,41.4082],"type":"Point"},"properties":{"a":"41.4082","cty":"WAYNE","hp":true,"id":8827151,"mun":"PAUPACK TWP","nc":19,"ne":{"a":"41.41674","o":"-75.29141"},"o":"-75.29654","sw":{"a":"41.39966","o":"-75.30167"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.598452,41.413283],"type":"Point"},"properties":{"a":"41.413283","cty":"LACKAWANNA","id":8827152,"mun":"DUNMORE BORO","nc":2,"o":"-75.598452"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.442956,41.137027],"type":"Point"},"properties":{"a":"41.137027","cty":"CLINTON","id":8827153,"mun":"LOCK HAVEN","nc":1,"o":"-77.442956"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.030341,40.938205],"type":"Point"},"properties":{"a":"40.938205","cty":"UNION","id":8827154,"mun":"WEST BUFFALO TWP","nc":2,"o":"-77.030341"},"type":"Feature"}
 ]}
