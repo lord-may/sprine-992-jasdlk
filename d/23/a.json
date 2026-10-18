@@ -2,9 +2,11 @@
 {"geometry":{"coordinates":[-76.929992,40.448601],"type":"Point"},"properties":{"a":"40.448601","cty":"DAUPHIN","id":8811622,"mun":"HALIFAX TWP","nc":5,"o":"-76.929992"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.489342,40.577133],"type":"Point"},"properties":{"a":"40.577133","cty":"LEHIGH","id":8811785,"mun":"ALLENTOWN","nc":14,"o":"-75.489342"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.61162,40.83399],"type":"Point"},"properties":{"a":"40.83399","cty":"NORTHUMBERLAND","hp":true,"id":8811866,"mun":"SHAMOKIN TWP","nc":10,"ne":{"a":"40.838","o":"-76.60345"},"o":"-76.61162","sw":{"a":"40.82998","o":"-76.61978"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.087481,41.361286],"type":"Point"},"properties":{"a":"41.361286","cty":"PIKE","id":8811874,"mun":"BLOOMING GROVE TWP","nc":1,"o":"-75.087481"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.57961,40.984739],"type":"Point"},"properties":{"a":"40.984739","cty":"CARBON","id":8811878,"mun":"PENN FOREST TWP","nc":3,"o":"-75.57961"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.98203,40.254803],"type":"Point"},"properties":{"a":"40.254803","cty":"CUMBERLAND","id":8812368,"mun":"HAMPDEN TWP","nc":5,"o":"-76.98203"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.3141,40.66394],"type":"Point"},"properties":{"a":"40.66394","cty":"NORTHAMPTON","hp":true,"id":8812437,"mun":"BETHLEHEM TWP","nc":58,"ne":{"a":"40.66492","o":"-75.31232"},"o":"-75.3141","sw":{"a":"40.66297","o":"-75.31589"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.18198,41.427265],"type":"Point"},"properties":{"a":"41.427265","cty":"PIKE","id":8813573,"mun":"PALMYRA TWP","nc":8,"o":"-75.18198"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.18198,41.427265],"type":"Point"},"properties":{"a":"41.427265","cty":"PIKE","id":8813573,"mun":"PALMYRA TWP","nc":8,"o":"-75.18198"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.892825,41.231689],"type":"Point"},"properties":{"a":"41.231689","cty":"LUZERNE","id":8814309,"mun":"WILKES-BARRE","nc":17,"o":"-75.892825"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.423208,40.628368],"type":"Point"},"properties":{"a":"40.628368","cty":"LEHIGH","id":8814316,"mun":"ALLENTOWN","nc":3,"o":"-75.423208"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.33859,40.034545],"type":"Point"},"properties":{"a":"40.034545","cty":"LANCASTER","id":8814339,"mun":"LANCASTER TWP","nc":9,"o":"-76.33859"},"type":"Feature"}
 ]}
