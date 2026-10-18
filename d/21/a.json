@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-70.579421,44.231329],"type":"Point"},"properties":{"EstRest":"10/18/2026 9:15:00 AM","Outages":32,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.581806,44.234398],"type":"Point"},"properties":{"EstRest":"10/18/2026 9:15:00 AM","Outages":9,"cause":"","county":"OXFORD","crewstatus":"DISP ","customers":9,"hamlet":"NORWAY","incidentnumber":"0043XC","incidents":1,"level":"street","opco":"CMP","street":"COVE TO COVE LN","town":"NORWAY"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.581806,44.234398],"type":"Point"},"properties":{"EstRest":"10/18/2026 9:15:00 AM","Outages":9,"cause":"","county":"OXFORD","crewstatus":"DISP ","customers":9,"hamlet":"NORWAY","incidentnumber":"0043XC","incidents":1,"level":"street","opco":"CMP","street":"COVE TO COVE LN","town":"NORWAY"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.451858,43.474231],"type":"Point"},"properties":{"EstRest":"10/18/2026 9:30:00 AM","Outages":10,"cause":"","county":"YORK","crewstatus":"ENRT ","customers":10,"hamlet":"BIDDEFORD","incidentnumber":"0043XD","incidents":1,"level":"street","opco":"CMP","street":"LISA LN","town":"BIDDEFORD"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.452797,43.475351],"type":"Point"},"properties":{"EstRest":"10/18/2026 9:30:00 AM","Outages":21,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
