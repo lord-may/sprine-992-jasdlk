@@ -7,5 +7,7 @@
 {"geometry":{"coordinates":[-77.12176,41.16933],"type":"Point"},"properties":{"a":"41.16933","cty":"LYCOMING","hp":true,"id":8819954,"mun":"LIMESTONE TWP","nc":242,"ne":{"a":"41.1889","o":"-77.09027"},"o":"-77.12176","sw":{"a":"41.14977","o":"-77.15325"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.909745,40.399357],"type":"Point"},"properties":{"a":"40.399357","cty":"DAUPHIN","id":8820018,"mun":"MIDDLE PAXTON TWP","nc":1,"o":"-76.909745"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.85372,40.330434],"type":"Point"},"properties":{"a":"40.330434","cty":"DAUPHIN","id":8820856,"mun":"SUSQUEHANNA TWP","nc":3,"o":"-76.85372"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.627785,41.456194],"type":"Point"},"properties":{"a":"41.456194","cty":"LACKAWANNA","id":8820937,"mun":"DICKSON CITY BORO","nc":16,"o":"-75.627785"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.627785,41.456194],"type":"Point"},"properties":{"a":"41.456194","cty":"LACKAWANNA","id":8820937,"mun":"DICKSON CITY BORO","nc":16,"o":"-75.627785"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.896638,40.69373],"type":"Point"},"properties":{"a":"40.69373","cty":"SCHUYLKILL","id":8821035,"mun":"WEST PENN TWP","nc":1,"o":"-75.896638"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.337163,40.481317],"type":"Point"},"properties":{"a":"40.481317","cty":"BUCKS","id":8821060,"mun":"RICHLAND TWP","nc":2,"o":"-75.337163"},"type":"Feature"}
 ]}
