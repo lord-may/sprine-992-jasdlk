@@ -4,5 +4,5 @@
 {"geometry":{"coordinates":[-76.92023,40.35673],"type":"Point"},"properties":{"a":"40.35673","cty":"DAUPHIN","hp":true,"id":8814587,"mun":"MIDDLE PAXTON TWP","nc":8,"ne":{"a":"40.36242","o":"-76.91283"},"o":"-76.92023","sw":{"a":"40.35104","o":"-76.92763"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.190579,40.202142],"type":"Point"},"properties":{"a":"40.202142","cty":"CUMBERLAND","id":8814737,"mun":"CARLISLE BORO","nc":7,"o":"-77.190579"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.999126,40.243224],"type":"Point"},"properties":{"a":"40.243224","cty":"CUMBERLAND","id":8814961,"mun":"HAMPDEN TWP","nc":7,"o":"-76.999126"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.248109,40.058454],"type":"Point"},"properties":{"a":"40.058454","cty":"LANCASTER","id":8815774,"mun":"EAST LAMPETER TWP","nc":5,"o":"-76.248109"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.470852,40.623558],"type":"Point"},"properties":{"a":"40.623558","cty":"LEHIGH","id":8816370,"mun":"WHITEHALL TWP","nc":7,"o":"-75.470852"},"type":"Feature"}
 ]}
