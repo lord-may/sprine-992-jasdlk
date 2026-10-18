@@ -7,5 +7,8 @@
 {"geometry":{"coordinates":[-76.33859,40.034545],"type":"Point"},"properties":{"a":"40.034545","cty":"LANCASTER","id":8814339,"mun":"LANCASTER TWP","nc":9,"o":"-76.33859"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.026168,40.327004],"type":"Point"},"properties":{"a":"40.327004","cty":"PERRY","id":8814482,"mun":"RYE TWP","nc":2,"o":"-77.026168"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.88112,40.39374],"type":"Point"},"properties":{"a":"40.39374","cty":"DAUPHIN","hp":true,"id":8814587,"mun":"MIDDLE PAXTON TWP","nc":1570,"ne":{"a":"40.43643","o":"-76.80624"},"o":"-76.88112","sw":{"a":"40.35104","o":"-76.956"}},"type":"Feature"},
-{"geometry":{"coordinates":[-77.190579,40.202142],"type":"Point"},"properties":{"a":"40.202142","cty":"CUMBERLAND","id":8814737,"mun":"CARLISLE BORO","nc":7,"o":"-77.190579"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.190579,40.202142],"type":"Point"},"properties":{"a":"40.202142","cty":"CUMBERLAND","id":8814737,"mun":"CARLISLE BORO","nc":7,"o":"-77.190579"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.999126,40.243224],"type":"Point"},"properties":{"a":"40.243224","cty":"CUMBERLAND","id":8814961,"mun":"HAMPDEN TWP","nc":7,"o":"-76.999126"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.898491,40.337063],"type":"Point"},"properties":{"a":"40.337063","cty":"DAUPHIN","id":8815016,"mun":"SUSQUEHANNA TWP","nc":1,"o":"-76.898491"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.1888,40.42279],"type":"Point"},"properties":{"a":"40.42279","cty":"LANCASTER","hp":true,"id":8815111,"mun":"LANCASTER","nc":1222,"ne":{"a":"40.79786","o":"-76.11997"},"o":"-76.1888","sw":{"a":"40.04772","o":"-76.25762"}},"type":"Feature"}
 ]}
