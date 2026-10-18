@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.626515,42.810521],"type":"Point"},"properties":{"EstRest":"10/18/2026 11:45:00 AM","Outages":1,"cause":"","county":"CAYUGA","crewstatus":"DISP ","customers":20,"hamlet":"UNION SPRINGS","incidentnumber":"0115W3","incidents":1,"level":"street","opco":"NYSEG","street":"STATE ROUTE 34B","town":"SCIPIO T"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.626515,42.810521],"type":"Point"},"properties":{"EstRest":"10/18/2026 11:45:00 AM","Outages":1,"county":"CAYUGA","customers":32356,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.403871,42.622972],"type":"Point"},"properties":{"EstRest":"10/18/2026 11:15:00 AM","Outages":21,"cause":"","county":"ONTARIO","crewstatus":"ENRT ","customers":22,"hamlet":"NAPLES","incidentnumber":"0115W6","incidents":1,"level":"street","opco":"NYSEG","street":"WEST AVE","town":"NAPLES V"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.403871,42.622972],"type":"Point"},"properties":{"EstRest":"10/18/2026 11:15:00 AM","Outages":21,"cause":"","county":"ONTARIO","crewstatus":"ONST ","customers":22,"hamlet":"NAPLES","incidentnumber":"0115W6","incidents":1,"level":"street","opco":"NYSEG","street":"WEST AVE","town":"NAPLES V"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.407468,42.617863],"type":"Point"},"properties":{"EstRest":"10/18/2026 11:15:00 AM","Outages":84,"county":"ONTARIO","customers":18381,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}

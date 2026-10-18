@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-70.291013,43.680967],"type":"Point"},"properties":{"EstRest":"10/18/2026 12:30:00 PM","Outages":10,"cause":"","county":"CUMBERLAND","crewstatus":"ACKN ","customers":10,"hamlet":"PORTLAND","incidentnumber":"0043Y5","incidents":1,"level":"street","opco":"CMP","street":"MORGAN CT","town":"PORTLAND"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.291013,43.680967],"type":"Point"},"properties":{"EstRest":"10/18/2026 12:30:00 PM","Outages":11,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.131043,44.022996],"type":"Point"},"properties":{"EstRest":"10/18/2026 10:45:00 AM","Outages":1,"cause":"Animal","county":"KNOX","crewstatus":"CMPL ","customers":167,"hamlet":"SOUTH THOMASTON","incidentnumber":"0043XP","incidents":1,"level":"street","opco":"CMP","street":"SPRUCE HEAD RD","town":"SOUTH THOMASTON"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.131043,44.022996],"type":"Point"},"properties":{"EstRest":"10/18/2026 10:45:00 AM","Outages":1,"county":"KNOX","customers":27251,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
