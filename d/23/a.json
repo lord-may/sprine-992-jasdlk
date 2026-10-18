@@ -1,11 +1,9 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.693613,40.829272],"type":"Point"},"properties":{"a":"40.829272","cty":"CARBON","id":8827119,"mun":"FRANKLIN TWP","nc":3,"o":"-75.693613"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.631804,41.449533],"type":"Point"},"properties":{"a":"41.449533","cty":"LACKAWANNA","id":8827124,"mun":"THROOP BORO","nc":2,"o":"-75.631804"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.110809,41.497174],"type":"Point"},"properties":{"a":"41.497174","cty":"PIKE","id":8827135,"mun":"LACKAWAXEN TWP","nc":13,"o":"-75.110809"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.050826,41.28842],"type":"Point"},"properties":{"a":"41.28842","cty":"PIKE","id":8827136,"mun":"PORTER TWP","nc":1,"o":"-75.050826"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.499467,41.573358],"type":"Point"},"properties":{"a":"41.573358","cty":"LACKAWANNA","id":8827143,"mun":"CARBONDALE","nc":3,"o":"-75.499467"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.939255,40.21439],"type":"Point"},"properties":{"a":"40.21439","cty":"CUMBERLAND","id":8827144,"mun":"LOWER ALLEN TWP","nc":1,"o":"-76.939255"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.29654,41.4082],"type":"Point"},"properties":{"a":"41.4082","cty":"WAYNE","hp":true,"id":8827151,"mun":"PAUPACK TWP","nc":19,"ne":{"a":"41.41674","o":"-75.29141"},"o":"-75.29654","sw":{"a":"41.39966","o":"-75.30167"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.598452,41.413283],"type":"Point"},"properties":{"a":"41.413283","cty":"LACKAWANNA","id":8827152,"mun":"DUNMORE BORO","nc":2,"o":"-75.598452"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.442956,41.137027],"type":"Point"},"properties":{"a":"41.137027","cty":"CLINTON","id":8827153,"mun":"LOCK HAVEN","nc":1,"o":"-77.442956"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.054576,40.438289],"type":"Point"},"properties":{"a":"40.438289","cty":"PERRY","id":8827157,"mun":"WHEATFIELD TWP","nc":1,"o":"-77.054576"},"type":"Feature"}
