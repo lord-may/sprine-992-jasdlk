@@ -5,10 +5,14 @@
 {"geometry":{"coordinates":[-76.98203,40.254803],"type":"Point"},"properties":{"a":"40.254803","cty":"CUMBERLAND","id":8812368,"mun":"HAMPDEN TWP","nc":5,"o":"-76.98203"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.33859,40.034545],"type":"Point"},"properties":{"a":"40.034545","cty":"LANCASTER","id":8814339,"mun":"LANCASTER TWP","nc":9,"o":"-76.33859"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.026168,40.327004],"type":"Point"},"properties":{"a":"40.327004","cty":"PERRY","id":8814482,"mun":"RYE TWP","nc":2,"o":"-77.026168"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.88112,40.39374],"type":"Point"},"properties":{"a":"40.39374","cty":"DAUPHIN","hp":true,"id":8814587,"mun":"MIDDLE PAXTON TWP","nc":1570,"ne":{"a":"40.43643","o":"-76.80624"},"o":"-76.88112","sw":{"a":"40.35104","o":"-76.956"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.912703,40.35061],"type":"Point"},"properties":{"a":"40.35061","cty":"DAUPHIN","id":8814587,"mun":"MIDDLE PAXTON TWP","nc":3,"o":"-76.912703"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.190579,40.202142],"type":"Point"},"properties":{"a":"40.202142","cty":"CUMBERLAND","id":8814737,"mun":"CARLISLE BORO","nc":7,"o":"-77.190579"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.999126,40.243224],"type":"Point"},"properties":{"a":"40.243224","cty":"CUMBERLAND","id":8814961,"mun":"HAMPDEN TWP","nc":7,"o":"-76.999126"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.898491,40.337063],"type":"Point"},"properties":{"a":"40.337063","cty":"DAUPHIN","id":8815016,"mun":"SUSQUEHANNA TWP","nc":1,"o":"-76.898491"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.1888,40.42279],"type":"Point"},"properties":{"a":"40.42279","cty":"LANCASTER","hp":true,"id":8815111,"mun":"LANCASTER","nc":1222,"ne":{"a":"40.79786","o":"-76.11997"},"o":"-76.1888","sw":{"a":"40.04772","o":"-76.25762"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.342689,40.051846],"type":"Point"},"properties":{"a":"40.051846","cty":"LANCASTER","id":8815445,"mun":"EAST HEMPFIELD TWP","nc":11,"o":"-76.342689"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.342689,40.051846],"type":"Point"},"properties":{"a":"40.051846","cty":"LANCASTER","id":8815445,"mun":"EAST HEMPFIELD TWP","nc":11,"o":"-76.342689"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.927139,40.363714],"type":"Point"},"properties":{"a":"40.363714","cty":"DAUPHIN","id":8815519,"mun":"MIDDLE PAXTON TWP","nc":6,"o":"-76.927139"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.915347,40.352024],"type":"Point"},"properties":{"a":"40.352024","cty":"DAUPHIN","id":8815521,"mun":"MIDDLE PAXTON TWP","nc":1,"o":"-76.915347"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.931298,40.367978],"type":"Point"},"properties":{"a":"40.367978","cty":"DAUPHIN","id":8815522,"mun":"MIDDLE PAXTON TWP","nc":3,"o":"-76.931298"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.925887,40.361992],"type":"Point"},"properties":{"a":"40.361992","cty":"DAUPHIN","id":8815525,"mun":"MIDDLE PAXTON TWP","nc":4,"o":"-76.925887"},"type":"Feature"}
 ]}
