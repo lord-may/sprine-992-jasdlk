@@ -1,3 +1,6 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-70.33708,44.15442],"type":"Point"},"properties":{"EstRest":"10/18/2026 3:45:00 AM","Outages":5,"cause":"","county":"ANDROSCOGGIN","crewstatus":"ENRT ","customers":5,"hamlet":"MINOT","incidentnumber":"0043X8","incidents":1,"level":"street","opco":"CMP","street":"CORTLAND DR","town":"MINOT"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.350445,44.155686],"type":"Point"},"properties":{"EstRest":"10/18/2026 3:45:00 AM","Outages":199,"county":"ANDROSCOGGIN","customers":59602,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.156175,44.008248],"type":"Point"},"properties":{"EstRest":"10/18/2026 3:45:00 AM","Outages":11,"cause":"","county":"KNOX","crewstatus":"ENRT ","customers":13,"hamlet":"ST GEORGE","incidentnumber":"0043X3","incidents":1,"level":"street","opco":"CMP","street":"HARRINGTON COVE RD","town":"ST GEORGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.156175,44.008248],"type":"Point"},"properties":{"EstRest":"10/18/2026 3:45:00 AM","Outages":11,"county":"KNOX","customers":27251,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
