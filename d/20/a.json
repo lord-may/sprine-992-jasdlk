@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-77.411599,43.177759],"type":"Point"},"properties":{"EstRest":"10/18/2026 1:45:00 PM","Outages":2,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":52,"hamlet":"WEBSTER","incidentnumber":"0115WZ","incidents":1,"level":"street","opco":"RGE","street":"HARRIS RD","town":"PENFIELD"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.411599,43.177759],"type":"Point"},"properties":{"EstRest":"10/18/2026 1:45:00 PM","Outages":2,"county":"MONROE","customers":303507,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
