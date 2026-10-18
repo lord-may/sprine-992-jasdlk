@@ -3,8 +3,9 @@
 {"geometry":{"coordinates":[-75.693613,40.829272],"type":"Point"},"properties":{"a":"40.829272","cty":"CARBON","id":8827119,"mun":"FRANKLIN TWP","nc":3,"o":"-75.693613"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.631804,41.449533],"type":"Point"},"properties":{"a":"41.449533","cty":"LACKAWANNA","id":8827124,"mun":"THROOP BORO","nc":2,"o":"-75.631804"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.598452,41.413283],"type":"Point"},"properties":{"a":"41.413283","cty":"LACKAWANNA","id":8827129,"mun":"DUNMORE BORO","nc":2,"o":"-75.598452"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.552389,41.11638],"type":"Point"},"properties":{"a":"41.11638","cty":"MONROE","id":8827132,"mun":"TOBYHANNA TWP","nc":5,"o":"-75.552389"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.110809,41.497174],"type":"Point"},"properties":{"a":"41.497174","cty":"PIKE","id":8827135,"mun":"LACKAWAXEN TWP","nc":13,"o":"-75.110809"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.050826,41.28842],"type":"Point"},"properties":{"a":"41.28842","cty":"PIKE","id":8827136,"mun":"PORTER TWP","nc":1,"o":"-75.050826"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.499467,41.573358],"type":"Point"},"properties":{"a":"41.573358","cty":"LACKAWANNA","id":8827143,"mun":"CARBONDALE","nc":3,"o":"-75.499467"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.499467,41.573358],"type":"Point"},"properties":{"a":"41.573358","cty":"LACKAWANNA","id":8827143,"mun":"CARBONDALE","nc":3,"o":"-75.499467"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.939255,40.21439],"type":"Point"},"properties":{"a":"40.21439","cty":"CUMBERLAND","id":8827144,"mun":"LOWER ALLEN TWP","nc":1,"o":"-76.939255"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.403068,40.64464],"type":"Point"},"properties":{"a":"40.64464","cty":"NORTHAMPTON","id":8827145,"mun":"HANOVER TWP","nc":10,"o":"-75.403068"},"type":"Feature"}
 ]}
