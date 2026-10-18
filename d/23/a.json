@@ -3,12 +3,13 @@
 {"geometry":{"coordinates":[-76.92023,40.35673],"type":"Point"},"properties":{"a":"40.35673","cty":"DAUPHIN","hp":true,"id":8814587,"mun":"MIDDLE PAXTON TWP","nc":8,"ne":{"a":"40.36242","o":"-76.91283"},"o":"-76.92023","sw":{"a":"40.35104","o":"-76.92763"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.170101,40.656144],"type":"Point"},"properties":{"a":"40.656144","cty":"SCHUYLKILL","id":8817233,"mun":"NORTH MANHEIM TWP","nc":7,"o":"-76.170101"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.53392,40.9502],"type":"Point"},"properties":{"a":"40.9502","cty":"MONROE","hp":true,"id":8819524,"mun":"POLK TWP","nc":24,"ne":{"a":"40.95294","o":"-75.5255"},"o":"-75.53392","sw":{"a":"40.94747","o":"-75.54234"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.326854,40.708738],"type":"Point"},"properties":{"a":"40.708738","cty":"NORTHAMPTON","id":8819751,"mun":"LOWER NAZARETH TWP","nc":1,"o":"-75.326854"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.12176,41.16933],"type":"Point"},"properties":{"a":"41.16933","cty":"LYCOMING","hp":true,"id":8819954,"mun":"LIMESTONE TWP","nc":242,"ne":{"a":"41.1889","o":"-77.09027"},"o":"-77.12176","sw":{"a":"41.14977","o":"-77.15325"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.909745,40.399357],"type":"Point"},"properties":{"a":"40.399357","cty":"DAUPHIN","id":8820018,"mun":"MIDDLE PAXTON TWP","nc":1,"o":"-76.909745"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.85372,40.330434],"type":"Point"},"properties":{"a":"40.330434","cty":"DAUPHIN","id":8820856,"mun":"SUSQUEHANNA TWP","nc":3,"o":"-76.85372"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.896638,40.69373],"type":"Point"},"properties":{"a":"40.69373","cty":"SCHUYLKILL","id":8821035,"mun":"WEST PENN TWP","nc":1,"o":"-75.896638"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.395203,40.979252],"type":"Point"},"properties":{"a":"40.979252","cty":"MONROE","id":8821205,"mun":"CHESTNUT HILL TWP","nc":4,"o":"-75.395203"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.985597,40.331026],"type":"Point"},"properties":{"a":"40.331026","cty":"PERRY","id":8821219,"mun":"RYE TWP","nc":2,"o":"-76.985597"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.612004,40.148864],"type":"Point"},"properties":{"a":"40.148864","cty":"LANCASTER","id":8821369,"mun":"ELIZABETHTOWN BORO","nc":1,"o":"-76.612004"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.612004,40.148864],"type":"Point"},"properties":{"a":"40.148864","cty":"LANCASTER","id":8821369,"mun":"ELIZABETHTOWN BORO","nc":1,"o":"-76.612004"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.470852,40.623558],"type":"Point"},"properties":{"a":"40.623558","cty":"LEHIGH","id":8821433,"mun":"WHITEHALL TWP","nc":7,"o":"-75.470852"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.913685,41.253766],"type":"Point"},"properties":{"a":"41.253766","cty":"LYCOMING","id":8821541,"mun":"MONTOURSVILLE BORO","nc":8,"o":"-76.913685"},"type":"Feature"}
 ]}
