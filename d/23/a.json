@@ -4,5 +4,6 @@
 {"geometry":{"coordinates":[-76.92023,40.35673],"type":"Point"},"properties":{"a":"40.35673","cty":"DAUPHIN","hp":true,"id":8814587,"mun":"MIDDLE PAXTON TWP","nc":8,"ne":{"a":"40.36242","o":"-76.91283"},"o":"-76.92023","sw":{"a":"40.35104","o":"-76.92763"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.190579,40.202142],"type":"Point"},"properties":{"a":"40.202142","cty":"CUMBERLAND","id":8814737,"mun":"CARLISLE BORO","nc":7,"o":"-77.190579"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.170101,40.656144],"type":"Point"},"properties":{"a":"40.656144","cty":"SCHUYLKILL","id":8817233,"mun":"NORTH MANHEIM TWP","nc":7,"o":"-76.170101"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.498131,41.574857],"type":"Point"},"properties":{"a":"41.574857","cty":"LACKAWANNA","id":8817565,"mun":"CARBONDALE","nc":11,"o":"-75.498131"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.580758,40.686759],"type":"Point"},"properties":{"a":"40.686759","cty":"LEHIGH","id":8817745,"mun":"NORTH WHITEHALL TWP","nc":2,"o":"-75.580758"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.944922,40.381916],"type":"Point"},"properties":{"a":"40.381916","cty":"DAUPHIN","id":8817809,"mun":"MIDDLE PAXTON TWP","nc":1,"o":"-76.944922"},"type":"Feature"}
 ]}

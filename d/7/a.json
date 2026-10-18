@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-71.79016,42.27472],"type":"Point"},"properties":{"cause":{"EN-US":"Under Investigation","ES-ES":"Bajo Investigación","orig":"Null"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Unassigned","ES-ES":"Sin Asignar","orig":"Unassigned"},"cust_a":{"mask":5,"val":4},"etr":"2026-10-18T08:15:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-10-18T06:08:56Z","title":"Area Outage","town":"Worcester"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.7876,42.27353],"type":"Point"},"properties":{"cause":{"EN-US":"Under Investigation","ES-ES":"Bajo Investigación","orig":"Null"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Unassigned","ES-ES":"Sin Asignar","orig":"Unassigned"},"cust_a":{"mask":5,"val":4},"etr":"2026-10-18T08:15:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-10-18T06:09:16Z","title":"Area Outage","town":"Worcester"},"type":"Feature"}
 ]}
