@@ -1,12 +1,8 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.489342,40.577133],"type":"Point"},"properties":{"a":"40.577133","cty":"LEHIGH","id":8811785,"mun":"ALLENTOWN","nc":14,"o":"-75.489342"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.61162,40.83399],"type":"Point"},"properties":{"a":"40.83399","cty":"NORTHUMBERLAND","hp":true,"id":8811866,"mun":"SHAMOKIN TWP","nc":10,"ne":{"a":"40.838","o":"-76.60345"},"o":"-76.61162","sw":{"a":"40.82998","o":"-76.61978"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.33859,40.034545],"type":"Point"},"properties":{"a":"40.034545","cty":"LANCASTER","id":8814339,"mun":"LANCASTER TWP","nc":9,"o":"-76.33859"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.026168,40.327004],"type":"Point"},"properties":{"a":"40.327004","cty":"PERRY","id":8814482,"mun":"RYE TWP","nc":2,"o":"-77.026168"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.92023,40.35673],"type":"Point"},"properties":{"a":"40.35673","cty":"DAUPHIN","hp":true,"id":8814587,"mun":"MIDDLE PAXTON TWP","nc":8,"ne":{"a":"40.36242","o":"-76.91283"},"o":"-76.92023","sw":{"a":"40.35104","o":"-76.92763"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.190579,40.202142],"type":"Point"},"properties":{"a":"40.202142","cty":"CUMBERLAND","id":8814737,"mun":"CARLISLE BORO","nc":7,"o":"-77.190579"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.999126,40.243224],"type":"Point"},"properties":{"a":"40.243224","cty":"CUMBERLAND","id":8814961,"mun":"HAMPDEN TWP","nc":7,"o":"-76.999126"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.342689,40.051846],"type":"Point"},"properties":{"a":"40.051846","cty":"LANCASTER","id":8815445,"mun":"EAST HEMPFIELD TWP","nc":11,"o":"-76.342689"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.248109,40.058454],"type":"Point"},"properties":{"a":"40.058454","cty":"LANCASTER","id":8815774,"mun":"EAST LAMPETER TWP","nc":5,"o":"-76.248109"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.470852,40.623558],"type":"Point"},"properties":{"a":"40.623558","cty":"LEHIGH","id":8816172,"mun":"WHITEHALL TWP","nc":7,"o":"-75.470852"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.248109,40.058454],"type":"Point"},"properties":{"a":"40.058454","cty":"LANCASTER","id":8815774,"mun":"EAST LAMPETER TWP","nc":5,"o":"-76.248109"},"type":"Feature"}
 ]}
