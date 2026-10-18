@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-78.595123,42.858656],"type":"Point"},"properties":{"EstRest":"10/18/2026 6:40:00 AM","Outages":1814,"county":"ERIE","customers":157686,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-78.703099,42.892159],"type":"Point"},"properties":{"EstRest":"10/18/2026 6:40:00 AM","Outages":1431,"county":"ERIE","customers":157686,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-78.710843,42.888203],"type":"Point"},"properties":{"EstRest":"10/18/2026 6:40:00 AM","Outages":23,"cause":"","county":"ERIE","crewstatus":"DISP ","customers":23,"hamlet":"DEPEW","incidentnumber":"0115VU","incidents":1,"level":"street","opco":"NYSEG","street":"HITCHCOCK DR","town":"CHEEKTOWAGA T"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.167572,42.52815],"type":"Point"},"properties":{"EstRest":"10/18/2026 4:00:00 AM","Outages":9,"cause":"Tree","county":"STEUBEN","crewstatus":"DISP ","customers":30,"hamlet":"PULTENEY","incidentnumber":"0115VB","incidents":1,"level":"street","opco":"NYSEG","street":"BROWN RD","town":"PULTENEY T"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.167572,42.52815],"type":"Point"},"properties":{"EstRest":"10/18/2026 4:00:00 AM","Outages":9,"county":"STEUBEN","customers":42831,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
