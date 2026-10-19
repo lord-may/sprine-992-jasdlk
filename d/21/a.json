@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.534686,44.437086],"type":"Point"},"properties":{"EstRest":"10/19/2026 9:00:00 AM","Outages":1,"cause":"Equipment Interruption","county":"KENNEBEC","crewstatus":"ONST ","customers":88,"hamlet":"CHINA","incidentnumber":"0043ZR","incidents":1,"level":"street","opco":"CMP","street":"FIRE RD","town":"CHINA"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.534686,44.437086],"type":"Point"},"properties":{"EstRest":"10/19/2026 9:00:00 AM","Outages":1,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.399221,44.781246],"type":"Point"},"properties":{"EstRest":"10/19/2026 10:30:00 AM","Outages":4,"cause":"","county":"SOMERSET","crewstatus":"     ","customers":4,"hamlet":"PITTSFIELD","incidentnumber":"004401","incidents":1,"level":"street","opco":"CMP","street":"G CT","town":"PITTSFIELD"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.400438,44.781041],"type":"Point"},"properties":{"EstRest":"10/19/2026 10:30:00 AM","Outages":83,"county":"SOMERSET","customers":31730,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
