@@ -7,5 +7,6 @@
 {"geometry":{"coordinates":[-76.449529,40.061892],"type":"Point"},"properties":{"a":"40.061892","cty":"LANCASTER","id":8827876,"mun":"WEST HEMPFIELD TWP","nc":1,"o":"-76.449529"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.48272,40.69855],"type":"Point"},"properties":{"a":"40.69855","cty":"SCHUYLKILL","hp":true,"id":8827902,"mun":"ELDRED TWP","nc":5,"ne":{"a":"40.70162","o":"-76.47579"},"o":"-76.48272","sw":{"a":"40.69548","o":"-76.48964"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.388101,41.20173],"type":"Point"},"properties":{"a":"41.20173","cty":"MONROE","id":8827925,"mun":"COOLBAUGH TWP","nc":2,"o":"-75.388101"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.966636,40.299203],"type":"Point"},"properties":{"a":"40.299203","cty":"BERKS","id":8827926,"mun":"SHILLINGTON BORO","nc":40,"o":"-75.966636"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.966636,40.299203],"type":"Point"},"properties":{"a":"40.299203","cty":"BERKS","id":8827926,"mun":"SHILLINGTON BORO","nc":40,"o":"-75.966636"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.886659,40.264889],"type":"Point"},"properties":{"a":"40.264889","cty":"DAUPHIN","id":8827936,"mun":"HARRISBURG","nc":1,"o":"-76.886659"},"type":"Feature"}
 ]}
