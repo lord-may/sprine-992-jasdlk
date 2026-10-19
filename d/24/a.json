@@ -8,5 +8,5 @@
 {"geometry":{"coordinates":[-71.528594,42.003552],"type":"Point"},"properties":{"a":"42.003552","cty":"PROVIDENCE","id":20261067133,"mun":"WOONSOCKET","nc":1,"o":"-71.528594"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.427791,41.834691],"type":"Point"},"properties":{"a":"41.834691","cty":"PROVIDENCE","id":20261067138,"mun":"PROVIDENCE","nc":1,"o":"-71.427791"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.455172,41.826465],"type":"Point"},"properties":{"a":"41.826465","cty":"PROVIDENCE","id":20261067139,"mun":"PROVIDENCE","nc":1,"o":"-71.455172"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.270511,41.694815],"type":"Point"},"properties":{"a":"41.694815","cty":"BRISTOL","id":20261067143,"mun":"BRISTOL","nc":1,"o":"-71.270511"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.505447,41.743227],"type":"Point"},"properties":{"a":"41.743227","cty":"PROVIDENCE","id":20261067149,"mun":"CRANSTON","nc":1,"o":"-71.505447"},"type":"Feature"}
 ]}
