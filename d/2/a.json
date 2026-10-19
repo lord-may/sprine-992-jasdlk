@@ -1,9 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-73.92346,41.05018],"type":"Point"},"properties":{"cause":"Single Service Incident","cluster":false,"cust_a":{"val":1},"etr":"2026-10-19T09:59:28-0400","inc_id":"559681","title":"Outage Information"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.98765,41.20687],"type":"Point"},"properties":{"cause":"Single Service Incident","cluster":false,"cust_a":{"val":1},"etr":"2026-10-19T10:14:04-0400","inc_id":"559679","title":"Outage Information"},"type":"Feature"},
 {"geometry":{"coordinates":[-73.99512,41.09741],"type":"Point"},"properties":{"cause":"Under Investigation","cluster":false,"cust_a":{"val":1},"etr":"2026-10-21T15:00:00-0400","inc_id":"559372","title":"Outage Information"},"type":"Feature"},
-{"geometry":{"coordinates":[-74.06031,41.07216],"type":"Point"},"properties":{"cause":"Single Service Incident","cluster":false,"cust_a":{"val":1},"etr":"2026-10-19T10:22:46-0400","inc_id":"559684","title":"Outage Information"},"type":"Feature"},
 {"geometry":{"coordinates":[-74.13055,41.22837],"type":"Point"},"properties":{"cause":"Single Service Incident","cluster":false,"cust_a":{"val":1},"etr":"2026-10-19T12:00:00-0400","inc_id":"559664","title":"Outage Information"},"type":"Feature"},
-{"geometry":{"coordinates":[-74.37551,41.18108],"type":"Point"},"properties":{"cause":"Single Service Incident","cluster":false,"cust_a":{"val":1},"etr":"2026-10-19T10:18:39-0400","inc_id":"559680","title":"Outage Information"},"type":"Feature"},
-{"geometry":{"geometries":[{"coordinates":[[[-74.43978,41.2297],[-74.43655,41.23111],[-74.44186,41.23711],[-74.44266,41.23569],[-74.43989,41.22993],[-74.43978,41.2297]]],"type":"Polygon"},{"coordinates":[-74.4399,41.23302],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cluster":false,"cust_a":{"val":14},"etr":"ETR-NULL","inc_id":"559687","title":"Outage Information"},"type":"Feature"}
+{"geometry":{"coordinates":[-74.37551,41.18108],"type":"Point"},"properties":{"cause":"Single Service Incident","cluster":false,"cust_a":{"val":1},"etr":"2026-10-19T10:18:39-0400","inc_id":"559680","title":"Outage Information"},"type":"Feature"}
 ]}
