@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-80.17206,39.60789],[-80.15804,39.61745],[-80.15755,39.62026],[-80.16357,39.63048],[-80.18119,39.62902],[-80.19066,39.62485],[-80.18984,39.62249],[-80.17206,39.60789]]],"type":"Polygon"},{"coordinates":[-80.17273,39.62085],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"Pending Investigation","orig":"Pending Investigation"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Arrived - A crew is working to restore power. The crew may not be visible due to the location of the damage and may request additional assistance if needed.","orig":"Arrived"},"cust_a":{"val":57},"etr":"2026-10-19T09:30:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":null,"title":"Area Outage"},"type":"Feature"}
+
 ]}
