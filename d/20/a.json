@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.237115,43.140247],"type":"Point"},"properties":{"EstRest":"10/19/2026 12:30:00 PM","Outages":26,"cause":"System Upgrade","county":"WAYNE","crewstatus":"ONST ","customers":120,"hamlet":"MARION","incidentnumber":"011625","incidents":1,"level":"street","opco":"RGE","street":"HUNTLEY RD","town":"MARION"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.237115,43.140247],"type":"Point"},"properties":{"EstRest":"10/19/2026 12:30:00 PM","Outages":26,"county":"WAYNE","customers":27029,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.375169,43.193698],"type":"Point"},"properties":{"EstRest":"10/19/2026 1:10:01 PM","Outages":4,"cause":"System Upgrade","county":"MONROE","crewstatus":"DISP ","customers":6,"hamlet":"WEBSTER","incidentnumber":"01163T","incidents":1,"level":"street","opco":"RGE","street":"COUNTY LINE RD","town":"PENFIELD"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.375169,43.193698],"type":"Point"},"properties":{"EstRest":"10/19/2026 1:10:01 PM","Outages":4,"county":"MONROE","customers":303507,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.237115,43.140247],"type":"Point"},"properties":{"EstRest":"10/19/2026 1:10:01 PM","Outages":30,"county":"WAYNE","customers":27029,"incidents":2,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
