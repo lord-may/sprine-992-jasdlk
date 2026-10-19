@@ -9,6 +9,7 @@
 {"geometry":{"coordinates":[-75.487012,40.438553],"type":"Point"},"properties":{"a":"40.438553","cty":"LEHIGH","id":8827889,"mun":"LOWER MILFORD TWP","nc":1,"o":"-75.487012"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.48272,40.69855],"type":"Point"},"properties":{"a":"40.69855","cty":"SCHUYLKILL","hp":true,"id":8827902,"mun":"ELDRED TWP","nc":5,"ne":{"a":"40.70162","o":"-76.47579"},"o":"-76.48272","sw":{"a":"40.69548","o":"-76.48964"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.001777,40.894542],"type":"Point"},"properties":{"a":"40.894542","cty":"SCHUYLKILL","id":8827907,"mun":"KLINE TWP","nc":2,"o":"-76.001777"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.273502,41.171912],"type":"Point"},"properties":{"a":"41.171912","cty":"MONROE","id":8827921,"mun":"BARRETT TWP","nc":18,"o":"-75.273502"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.861577,40.272529],"type":"Point"},"properties":{"a":"40.272529","cty":"DAUPHIN","id":8827922,"mun":"HARRISBURG","nc":1,"o":"-76.861577"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.861577,40.272529],"type":"Point"},"properties":{"a":"40.272529","cty":"DAUPHIN","id":8827922,"mun":"HARRISBURG","nc":1,"o":"-76.861577"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.388101,41.20173],"type":"Point"},"properties":{"a":"41.20173","cty":"MONROE","id":8827925,"mun":"COOLBAUGH TWP","nc":2,"o":"-75.388101"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.966636,40.299203],"type":"Point"},"properties":{"a":"40.299203","cty":"BERKS","id":8827926,"mun":"SHILLINGTON BORO","nc":40,"o":"-75.966636"},"type":"Feature"}
 ]}
