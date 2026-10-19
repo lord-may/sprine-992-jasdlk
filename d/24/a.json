@@ -1,8 +1,9 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.242883,41.552863],"type":"Point"},"properties":{"a":"41.552863","cty":"NEWPORT","id":20261067061,"mun":"PORTSMOUTH","nc":8,"o":"-71.242883"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.424044,41.845173],"type":"Point"},"properties":{"a":"41.845173","cty":"PROVIDENCE","id":20261067089,"mun":"PROVIDENCE","nc":1,"o":"-71.424044"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.441962,41.813434],"type":"Point"},"properties":{"a":"41.813434","cty":"PROVIDENCE","id":20261067090,"mun":"PROVIDENCE","nc":1,"o":"-71.441962"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.449625,41.936649],"type":"Point"},"properties":{"a":"41.936649","cty":"PROVIDENCE","id":20261067092,"mun":"LINCOLN","nc":1,"o":"-71.449625"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.438666,41.777673],"type":"Point"},"properties":{"a":"41.777673","cty":"PROVIDENCE","id":20261067098,"mun":"CRANSTON","nc":1,"o":"-71.438666"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.406668,41.79225],"type":"Point"},"properties":{"a":"41.79225","cty":"PROVIDENCE","id":20261067099,"mun":"PROVIDENCE","nc":1,"o":"-71.406668"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.406668,41.79225],"type":"Point"},"properties":{"a":"41.79225","cty":"PROVIDENCE","id":20261067099,"mun":"PROVIDENCE","nc":1,"o":"-71.406668"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.304658,41.502719],"type":"Point"},"properties":{"a":"41.502719","cty":"NEWPORT","id":20261067100,"mun":"NEWPORT","nc":1,"o":"-71.304658"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.704231,41.88561],"type":"Point"},"properties":{"a":"41.88561","cty":"PROVIDENCE","id":20261067102,"mun":"GLOCESTER","nc":1,"o":"-71.704231"},"type":"Feature"}
 ]}
