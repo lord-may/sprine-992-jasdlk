@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.30043,44.387227],"type":"Point"},"properties":{"EstRest":"10/19/2026 12:30:00 AM","Outages":1,"cause":"","county":"WALDO","crewstatus":"ONST ","customers":9,"hamlet":"LIBERTY","incidentnumber":"0043Z7","incidents":1,"level":"street","opco":"CMP","street":"TANNERY LN","town":"LIBERTY"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.30043,44.387227],"type":"Point"},"properties":{"EstRest":"10/19/2026 12:30:00 AM","Outages":2,"county":"WALDO","customers":26703,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+
 ]}
