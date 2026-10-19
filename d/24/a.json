@@ -1,5 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.547232,42.000823],"type":"Point"},"properties":{"a":"42.000823","cty":"PROVIDENCE","id":20261067159,"mun":"NORTH SMITHFIELD","nc":9,"o":"-71.547232"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.565155,41.737239],"type":"Point"},"properties":{"a":"41.737239","cty":"PROVIDENCE","id":20261067169,"mun":"SCITUATE","nc":1,"o":"-71.565155"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.452865,41.969872],"type":"Point"},"properties":{"a":"41.969872","cty":"PROVIDENCE","id":20261067171,"mun":"CUMBERLAND","nc":1,"o":"-71.452865"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.547232,42.000823],"type":"Point"},"properties":{"a":"42.000823","cty":"PROVIDENCE","id":20261067159,"mun":"NORTH SMITHFIELD","nc":9,"o":"-71.547232"},"type":"Feature"}
 ]}
