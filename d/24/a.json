@@ -1,10 +1,9 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.704231,41.88561],"type":"Point"},"properties":{"a":"41.88561","cty":"PROVIDENCE","id":20261067102,"mun":"GLOCESTER","nc":1,"o":"-71.704231"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.307066,41.488933],"type":"Point"},"properties":{"a":"41.488933","cty":"NEWPORT","id":20261067114,"mun":"NEWPORT","nc":1,"o":"-71.307066"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.505447,41.743227],"type":"Point"},"properties":{"a":"41.743227","cty":"PROVIDENCE","id":20261067149,"mun":"CRANSTON","nc":1,"o":"-71.505447"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.465895,41.855618],"type":"Point"},"properties":{"a":"41.855618","cty":"PROVIDENCE","id":20261067150,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.465895"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.451477,41.834061],"type":"Point"},"properties":{"a":"41.834061","cty":"PROVIDENCE","id":20261067151,"mun":"PROVIDENCE","nc":1,"o":"-71.451477"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.547232,42.000823],"type":"Point"},"properties":{"a":"42.000823","cty":"PROVIDENCE","id":20261067159,"mun":"NORTH SMITHFIELD","nc":9,"o":"-71.547232"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.470273,41.766697],"type":"Point"},"properties":{"a":"41.766697","cty":"PROVIDENCE","id":20261067162,"mun":"CRANSTON","nc":1,"o":"-71.470273"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.525973,41.677316],"type":"Point"},"properties":{"a":"41.677316","cty":"KENT","id":20261067163,"mun":"WEST WARWICK","nc":1,"o":"-71.525973"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.431934,41.817795],"type":"Point"},"properties":{"a":"41.817795","cty":"PROVIDENCE","id":20261067164,"mun":"PROVIDENCE","nc":1,"o":"-71.431934"},"type":"Feature"}
 ]}
