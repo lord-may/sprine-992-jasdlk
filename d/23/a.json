@@ -1,10 +1,9 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.693613,40.829272],"type":"Point"},"properties":{"a":"40.829272","cty":"CARBON","id":8827119,"mun":"FRANKLIN TWP","nc":3,"o":"-75.693613"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.110809,41.497174],"type":"Point"},"properties":{"a":"41.497174","cty":"PIKE","id":8827135,"mun":"LACKAWAXEN TWP","nc":13,"o":"-75.110809"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.375828,41.124392],"type":"Point"},"properties":{"a":"41.124392","cty":"MONROE","id":8827174,"mun":"MOUNT POCONO BORO","nc":1,"o":"-75.375828"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.691378,41.565114],"type":"Point"},"properties":{"a":"41.565114","cty":"LACKAWANNA","id":8827175,"mun":"NORTH ABINGTON TWP","nc":1,"o":"-75.691378"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.887515,41.223563],"type":"Point"},"properties":{"a":"41.223563","cty":"LUZERNE","id":8827200,"mun":"WILKES-BARRE TWP","nc":1,"o":"-75.887515"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.359617,40.764388],"type":"Point"},"properties":{"a":"40.764388","cty":"NORTHAMPTON","id":8827205,"mun":"BUSHKILL TWP","nc":1,"o":"-75.359617"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.380848,40.132924],"type":"Point"},"properties":{"a":"40.132924","cty":"LANCASTER","id":8827206,"mun":"PENN TWP","nc":2,"o":"-76.380848"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.14292,40.79223],"type":"Point"},"properties":{"a":"40.79223","cty":"NORTHAMPTON","hp":true,"id":8827211,"mun":"LOWER MOUNT BETHEL TWP","nc":84,"ne":{"a":"40.80139","o":"-75.10428"},"o":"-75.14292","sw":{"a":"40.78307","o":"-75.18156"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.14292,40.79223],"type":"Point"},"properties":{"a":"40.79223","cty":"NORTHAMPTON","hp":true,"id":8827211,"mun":"LOWER MOUNT BETHEL TWP","nc":84,"ne":{"a":"40.80139","o":"-75.10428"},"o":"-75.14292","sw":{"a":"40.78307","o":"-75.18156"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.933847,40.367627],"type":"Point"},"properties":{"a":"40.367627","cty":"DAUPHIN","id":8827214,"mun":"MIDDLE PAXTON TWP","nc":6,"o":"-76.933847"},"type":"Feature"}
 ]}
