@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.459258,41.951396],"type":"Point"},"properties":{"a":"41.951396","cty":"PROVIDENCE","id":20261067175,"mun":"LINCOLN","nc":1,"o":"-71.459258"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.412209,41.7987],"type":"Point"},"properties":{"a":"41.7987","cty":"PROVIDENCE","id":20261067177,"mun":"PROVIDENCE","nc":1,"o":"-71.412209"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.589239,41.872168],"type":"Point"},"properties":{"a":"41.872168","cty":"PROVIDENCE","id":20261067178,"mun":"GLOCESTER","nc":5,"o":"-71.589239"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.589239,41.872168],"type":"Point"},"properties":{"a":"41.872168","cty":"PROVIDENCE","id":20261067178,"mun":"GLOCESTER","nc":5,"o":"-71.589239"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.533792,41.575061],"type":"Point"},"properties":{"a":"41.575061","cty":"WASHINGTON","id":20261067182,"mun":"EXETER","nc":1,"o":"-71.533792"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.399034,41.888745],"type":"Point"},"properties":{"a":"41.888745","cty":"PROVIDENCE","id":20261067183,"mun":"CENTRAL FALLS","nc":37,"o":"-71.399034"},"type":"Feature"}
 ]}

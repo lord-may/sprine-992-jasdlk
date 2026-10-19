@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.359617,40.764388],"type":"Point"},"properties":{"a":"40.764388","cty":"NORTHAMPTON","id":8827205,"mun":"BUSHKILL TWP","nc":1,"o":"-75.359617"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.127151,40.80164],"type":"Point"},"properties":{"a":"40.80164","cty":"NORTHAMPTON","id":8827211,"mun":"LOWER MOUNT BETHEL TWP","nc":3,"o":"-75.127151"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.252362,40.047213],"type":"Point"},"properties":{"a":"40.047213","cty":"LANCASTER","id":8827561,"mun":"EAST LAMPETER TWP","nc":1,"o":"-76.252362"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.248297,40.040348],"type":"Point"},"properties":{"a":"40.040348","cty":"LANCASTER","id":8827579,"mun":"EAST LAMPETER TWP","nc":1,"o":"-76.248297"},"type":"Feature"},
@@ -16,5 +15,10 @@
 {"geometry":{"coordinates":[-76.252031,40.048037],"type":"Point"},"properties":{"a":"40.048037","cty":"LANCASTER","id":8827840,"mun":"EAST LAMPETER TWP","nc":2,"o":"-76.252031"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.091285,40.007954],"type":"Point"},"properties":{"a":"40.007954","cty":"LANCASTER","id":8827844,"mun":"PARADISE TWP","nc":4,"o":"-76.091285"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.233403,41.372626],"type":"Point"},"properties":{"a":"41.372626","cty":"PIKE","id":8827846,"mun":"PALMYRA TWP","nc":4,"o":"-75.233403"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.258538,41.58085],"type":"Point"},"properties":{"a":"41.58085","cty":"WAYNE","id":8827852,"mun":"HONESDALE BORO","nc":1,"o":"-75.258538"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.878903,41.235465],"type":"Point"},"properties":{"a":"41.235465","cty":"LUZERNE","id":8827862,"mun":"WILKES-BARRE","nc":1,"o":"-75.878903"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.360587,39.930749],"type":"Point"},"properties":{"a":"39.930749","cty":"LANCASTER","id":8827863,"mun":"CONESTOGA TWP","nc":2,"o":"-76.360587"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.685053,41.441162],"type":"Point"},"properties":{"a":"41.441162","cty":"LACKAWANNA","id":8827865,"mun":"SCRANTON","nc":5,"o":"-75.685053"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.395137,40.557067],"type":"Point"},"properties":{"a":"40.557067","cty":"LEHIGH","id":8827866,"mun":"UPPER SAUCON TWP","nc":5,"o":"-75.395137"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.861577,40.272529],"type":"Point"},"properties":{"a":"40.272529","cty":"DAUPHIN","id":8827867,"mun":"HARRISBURG","nc":1,"o":"-76.861577"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.088133,40.322499],"type":"Point"},"properties":{"a":"40.322499","cty":"PERRY","id":8827868,"mun":"RYE TWP","nc":1,"o":"-77.088133"},"type":"Feature"}
 ]}
