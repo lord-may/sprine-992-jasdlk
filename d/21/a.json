@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-68.869392,44.843368],"type":"Point"},"properties":{"EstRest":"10/19/2026 8:30:00 PM","Outages":2,"cause":"","county":"PENOBSCOT","crewstatus":"DISP ","customers":87,"hamlet":"HERMON","incidentnumber":"00443C","incidents":1,"level":"street","opco":"CMP","street":"UNION ST","town":"HERMON"},"type":"Feature"},
-{"geometry":{"coordinates":[-68.869392,44.843368],"type":"Point"},"properties":{"EstRest":"10/19/2026 8:30:00 PM","Outages":2,"county":"PENOBSCOT","customers":15447,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.794388,43.885147],"type":"Point"},"properties":{"EstRest":"10/19/2026 8:00:00 PM","Outages":1,"cause":"","county":"SAGADAHOC","crewstatus":"DISP ","customers":15,"hamlet":"ARROWSIC","incidentnumber":"00443M","incidents":1,"level":"street","opco":"CMP","street":"WHITMORES LNDING RD","town":"ARROWSIC"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.794388,43.885147],"type":"Point"},"properties":{"EstRest":"10/19/2026 8:00:00 PM","Outages":1,"cause":"","county":"SAGADAHOC","crewstatus":"ENRT ","customers":15,"hamlet":"ARROWSIC","incidentnumber":"00443M","incidents":1,"level":"street","opco":"CMP","street":"WHITMORES LNDING RD","town":"ARROWSIC"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.794388,43.885147],"type":"Point"},"properties":{"EstRest":"10/19/2026 8:00:00 PM","Outages":1,"county":"SAGADAHOC","customers":23026,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}

@@ -2,9 +2,8 @@
 {"geometry":{"coordinates":[-76.248297,40.040348],"type":"Point"},"properties":{"a":"40.040348","cty":"LANCASTER","id":8827579,"mun":"EAST LAMPETER TWP","nc":1,"o":"-76.248297"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.254463,40.044622],"type":"Point"},"properties":{"a":"40.044622","cty":"LANCASTER","id":8827580,"mun":"EAST LAMPETER TWP","nc":1,"o":"-76.254463"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.26484,40.037408],"type":"Point"},"properties":{"a":"40.037408","cty":"LANCASTER","id":8827581,"mun":"EAST LAMPETER TWP","nc":1,"o":"-76.26484"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.419672,40.927146],"type":"Point"},"properties":{"a":"40.927146","cty":"MONROE","id":8827666,"mun":"CHESTNUT HILL TWP","nc":2,"o":"-75.419672"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.966636,40.299203],"type":"Point"},"properties":{"a":"40.299203","cty":"BERKS","id":8827926,"mun":"SHILLINGTON BORO","nc":40,"o":"-75.966636"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.0343,40.04992],"type":"Point"},"properties":{"a":"40.04992","cty":"LANCASTER","hp":true,"id":8827939,"mun":"SALISBURY TWP","nc":83,"ne":{"a":"40.06464","o":"-76.01174"},"o":"-76.0343","sw":{"a":"40.03519","o":"-76.05686"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.886659,40.264889],"type":"Point"},"properties":{"a":"40.264889","cty":"DAUPHIN","id":8827940,"mun":"HARRISBURG","nc":1,"o":"-76.886659"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.683165,41.405617],"type":"Point"},"properties":{"a":"41.405617","cty":"LACKAWANNA","id":8827946,"mun":"SCRANTON","nc":19,"o":"-75.683165"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.273502,41.171912],"type":"Point"},"properties":{"a":"41.171912","cty":"MONROE","id":8827952,"mun":"BARRETT TWP","nc":18,"o":"-75.273502"},"type":"Feature"}
 ]}

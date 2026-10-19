@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-75.741747,42.325828],"type":"Point"},"properties":{"EstRest":"10/19/2026 11:00:00 PM","Outages":18,"county":"CHENANGO","customers":22861,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.749157,42.324943],"type":"Point"},"properties":{"EstRest":"10/19/2026 11:00:00 PM","Outages":1,"cause":"","county":"CHENANGO","crewstatus":"     ","customers":58,"hamlet":"GREENE","incidentnumber":"01169V","incidents":1,"level":"street","opco":"NYSEG","street":"STATE HIGHWAY 206","town":"GREENE T"},"type":"Feature"},
 {"geometry":{"coordinates":[-78.705982,42.812452],"type":"Point"},"properties":{"EstRest":"10/19/2026 7:30:00 PM","Outages":6,"cause":"","county":"ERIE","crewstatus":"DISP ","customers":24,"hamlet":"BUFFALO","incidentnumber":"011678","incidents":1,"level":"street","opco":"NYSEG","street":"IN THE WOODS LN","town":"WEST SENECA T"},"type":"Feature"},
 {"geometry":{"coordinates":[-78.705982,42.812452],"type":"Point"},"properties":{"EstRest":"10/19/2026 7:30:00 PM","Outages":6,"county":"ERIE","customers":157686,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
