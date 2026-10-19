@@ -3,16 +3,12 @@
 {"geometry":{"coordinates":[-76.254463,40.044622],"type":"Point"},"properties":{"a":"40.044622","cty":"LANCASTER","id":8827580,"mun":"EAST LAMPETER TWP","nc":1,"o":"-76.254463"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.26484,40.037408],"type":"Point"},"properties":{"a":"40.037408","cty":"LANCASTER","id":8827581,"mun":"EAST LAMPETER TWP","nc":1,"o":"-76.26484"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.419672,40.927146],"type":"Point"},"properties":{"a":"40.927146","cty":"MONROE","id":8827666,"mun":"CHESTNUT HILL TWP","nc":2,"o":"-75.419672"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.84112,40.374024],"type":"Point"},"properties":{"a":"40.374024","cty":"DAUPHIN","id":8827733,"mun":"MIDDLE PAXTON TWP","nc":1,"o":"-76.84112"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.233403,41.372626],"type":"Point"},"properties":{"a":"41.372626","cty":"PIKE","id":8827846,"mun":"PALMYRA TWP","nc":4,"o":"-75.233403"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.050538,41.319108],"type":"Point"},"properties":{"a":"41.319108","cty":"PIKE","id":8827874,"mun":"BLOOMING GROVE TWP","nc":1,"o":"-75.050538"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.449529,40.061892],"type":"Point"},"properties":{"a":"40.061892","cty":"LANCASTER","id":8827876,"mun":"WEST HEMPFIELD TWP","nc":1,"o":"-76.449529"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.487012,40.438553],"type":"Point"},"properties":{"a":"40.438553","cty":"LEHIGH","id":8827889,"mun":"LOWER MILFORD TWP","nc":1,"o":"-75.487012"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.48272,40.69855],"type":"Point"},"properties":{"a":"40.69855","cty":"SCHUYLKILL","hp":true,"id":8827902,"mun":"ELDRED TWP","nc":5,"ne":{"a":"40.70162","o":"-76.47579"},"o":"-76.48272","sw":{"a":"40.69548","o":"-76.48964"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.001777,40.894542],"type":"Point"},"properties":{"a":"40.894542","cty":"SCHUYLKILL","id":8827907,"mun":"KLINE TWP","nc":2,"o":"-76.001777"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.970351,40.803385],"type":"Point"},"properties":{"a":"40.803385","cty":"SCHUYLKILL","id":8827909,"mun":"TAMAQUA BORO","nc":17,"o":"-75.970351"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.420207,40.924987],"type":"Point"},"properties":{"a":"40.924987","cty":"MONROE","id":8827911,"mun":"CHESTNUT HILL TWP","nc":17,"o":"-75.420207"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.41763,40.919556],"type":"Point"},"properties":{"a":"40.919556","cty":"MONROE","id":8827912,"mun":"CHESTNUT HILL TWP","nc":4,"o":"-75.41763"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.411872,40.931913],"type":"Point"},"properties":{"a":"40.931913","cty":"MONROE","id":8827913,"mun":"CHESTNUT HILL TWP","nc":6,"o":"-75.411872"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.402702,40.926973],"type":"Point"},"properties":{"a":"40.926973","cty":"MONROE","id":8827914,"mun":"CHESTNUT HILL TWP","nc":1,"o":"-75.402702"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.273502,41.171912],"type":"Point"},"properties":{"a":"41.171912","cty":"MONROE","id":8827921,"mun":"BARRETT TWP","nc":18,"o":"-75.273502"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.861577,40.272529],"type":"Point"},"properties":{"a":"40.272529","cty":"DAUPHIN","id":8827922,"mun":"HARRISBURG","nc":1,"o":"-76.861577"},"type":"Feature"}
 ]}
