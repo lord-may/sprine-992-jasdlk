@@ -5,5 +5,7 @@
 {"geometry":{"coordinates":[-75.691378,41.565114],"type":"Point"},"properties":{"a":"41.565114","cty":"LACKAWANNA","id":8827175,"mun":"NORTH ABINGTON TWP","nc":1,"o":"-75.691378"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.887515,41.223563],"type":"Point"},"properties":{"a":"41.223563","cty":"LUZERNE","id":8827198,"mun":"WILKES-BARRE TWP","nc":1,"o":"-75.887515"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.887515,41.223563],"type":"Point"},"properties":{"a":"41.223563","cty":"LUZERNE","id":8827200,"mun":"WILKES-BARRE TWP","nc":1,"o":"-75.887515"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.359617,40.764388],"type":"Point"},"properties":{"a":"40.764388","cty":"NORTHAMPTON","id":8827205,"mun":"BUSHKILL TWP","nc":3,"o":"-75.359617"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.359617,40.764388],"type":"Point"},"properties":{"a":"40.764388","cty":"NORTHAMPTON","id":8827205,"mun":"BUSHKILL TWP","nc":3,"o":"-75.359617"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.380848,40.132924],"type":"Point"},"properties":{"a":"40.132924","cty":"LANCASTER","id":8827206,"mun":"PENN TWP","nc":2,"o":"-76.380848"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.15293,40.78616],"type":"Point"},"properties":{"a":"40.78616","cty":"NORTHAMPTON","hp":true,"id":8827211,"mun":"LOWER MOUNT BETHEL TWP","nc":525,"ne":{"a":"40.8032","o":"-75.10428"},"o":"-75.15293","sw":{"a":"40.76911","o":"-75.20158"}},"type":"Feature"}
 ]}
