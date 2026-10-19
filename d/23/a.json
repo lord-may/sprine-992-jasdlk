@@ -3,12 +3,8 @@
 {"geometry":{"coordinates":[-76.254463,40.044622],"type":"Point"},"properties":{"a":"40.044622","cty":"LANCASTER","id":8827580,"mun":"EAST LAMPETER TWP","nc":1,"o":"-76.254463"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.26484,40.037408],"type":"Point"},"properties":{"a":"40.037408","cty":"LANCASTER","id":8827581,"mun":"EAST LAMPETER TWP","nc":1,"o":"-76.26484"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.419672,40.927146],"type":"Point"},"properties":{"a":"40.927146","cty":"MONROE","id":8827666,"mun":"CHESTNUT HILL TWP","nc":2,"o":"-75.419672"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.050538,41.319108],"type":"Point"},"properties":{"a":"41.319108","cty":"PIKE","id":8827874,"mun":"BLOOMING GROVE TWP","nc":1,"o":"-75.050538"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.48272,40.69855],"type":"Point"},"properties":{"a":"40.69855","cty":"SCHUYLKILL","hp":true,"id":8827902,"mun":"ELDRED TWP","nc":5,"ne":{"a":"40.70162","o":"-76.47579"},"o":"-76.48272","sw":{"a":"40.69548","o":"-76.48964"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.388101,41.20173],"type":"Point"},"properties":{"a":"41.20173","cty":"MONROE","id":8827925,"mun":"COOLBAUGH TWP","nc":2,"o":"-75.388101"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.966636,40.299203],"type":"Point"},"properties":{"a":"40.299203","cty":"BERKS","id":8827926,"mun":"SHILLINGTON BORO","nc":40,"o":"-75.966636"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.0343,40.04992],"type":"Point"},"properties":{"a":"40.04992","cty":"LANCASTER","hp":true,"id":8827939,"mun":"SALISBURY TWP","nc":83,"ne":{"a":"40.06464","o":"-76.01174"},"o":"-76.0343","sw":{"a":"40.03519","o":"-76.05686"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.886659,40.264889],"type":"Point"},"properties":{"a":"40.264889","cty":"DAUPHIN","id":8827940,"mun":"HARRISBURG","nc":1,"o":"-76.886659"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.409722,40.935214],"type":"Point"},"properties":{"a":"40.935214","cty":"MONROE","id":8827943,"mun":"CHESTNUT HILL TWP","nc":3,"o":"-75.409722"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.470526,40.606411],"type":"Point"},"properties":{"a":"40.606411","cty":"LEHIGH","id":8827944,"mun":"ALLENTOWN","nc":1,"o":"-75.470526"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.683165,41.405617],"type":"Point"},"properties":{"a":"41.405617","cty":"LACKAWANNA","id":8827946,"mun":"SCRANTON","nc":19,"o":"-75.683165"},"type":"Feature"}
 ]}
