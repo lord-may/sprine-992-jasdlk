@@ -4,5 +4,6 @@
 {"geometry":{"coordinates":[-71.455172,41.826465],"type":"Point"},"properties":{"a":"41.826465","cty":"PROVIDENCE","id":20261067139,"mun":"PROVIDENCE","nc":1,"o":"-71.455172"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.505447,41.743227],"type":"Point"},"properties":{"a":"41.743227","cty":"PROVIDENCE","id":20261067149,"mun":"CRANSTON","nc":1,"o":"-71.505447"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.465895,41.855618],"type":"Point"},"properties":{"a":"41.855618","cty":"PROVIDENCE","id":20261067150,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.465895"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.451477,41.834061],"type":"Point"},"properties":{"a":"41.834061","cty":"PROVIDENCE","id":20261067151,"mun":"PROVIDENCE","nc":1,"o":"-71.451477"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.451477,41.834061],"type":"Point"},"properties":{"a":"41.834061","cty":"PROVIDENCE","id":20261067151,"mun":"PROVIDENCE","nc":1,"o":"-71.451477"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.547232,42.000823],"type":"Point"},"properties":{"a":"42.000823","cty":"PROVIDENCE","id":20261067159,"mun":"NORTH SMITHFIELD","nc":9,"o":"-71.547232"},"type":"Feature"}
 ]}
