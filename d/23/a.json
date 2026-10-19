@@ -6,5 +6,8 @@
 {"geometry":{"coordinates":[-76.812761,40.851104],"type":"Point"},"properties":{"a":"40.851104","cty":"SNYDER","id":8827267,"mun":"SHAMOKIN DAM BORO","nc":2,"o":"-76.812761"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.110704,41.49673],"type":"Point"},"properties":{"a":"41.49673","cty":"PIKE","id":8827270,"mun":"LACKAWAXEN TWP","nc":1,"o":"-75.110704"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.254312,40.549754],"type":"Point"},"properties":{"a":"40.549754","cty":"SCHUYLKILL","id":8827271,"mun":"WAYNE TWP","nc":1,"o":"-76.254312"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.12231,41.504525],"type":"Point"},"properties":{"a":"41.504525","cty":"PIKE","id":8827277,"mun":"LACKAWAXEN TWP","nc":1,"o":"-75.12231"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.12231,41.504525],"type":"Point"},"properties":{"a":"41.504525","cty":"PIKE","id":8827277,"mun":"LACKAWAXEN TWP","nc":1,"o":"-75.12231"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.403583,40.58748],"type":"Point"},"properties":{"a":"40.58748","cty":"JUNIATA","id":8827281,"mun":"FERMANAGH TWP","nc":3,"o":"-77.403583"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.760596,40.29713],"type":"Point"},"properties":{"a":"40.29713","cty":"DAUPHIN","id":8827282,"mun":"LOWER PAXTON TWP","nc":4,"o":"-76.760596"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.879876,40.267539],"type":"Point"},"properties":{"a":"40.267539","cty":"DAUPHIN","id":8827283,"mun":"HARRISBURG","nc":1,"o":"-76.879876"},"type":"Feature"}
 ]}
