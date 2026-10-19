@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.920663,42.248947],"type":"Point"},"properties":{"EstRest":"10/19/2026 7:45:00 PM","Outages":1,"cause":"","county":"CHEMUNG","crewstatus":"     ","customers":9,"hamlet":"BEAVER DAMS","incidentnumber":"01168S","incidents":1,"level":"street","opco":"NYSEG","street":"SAWDEY RD","town":"CATLIN T"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.920663,42.248947],"type":"Point"},"properties":{"EstRest":"10/19/2026 7:45:00 PM","Outages":1,"county":"CHEMUNG","customers":39910,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-78.705982,42.812452],"type":"Point"},"properties":{"EstRest":"10/19/2026 5:00:00 PM","Outages":6,"cause":"","county":"ERIE","crewstatus":"DISP ","customers":24,"hamlet":"BUFFALO","incidentnumber":"011678","incidents":1,"level":"street","opco":"NYSEG","street":"IN THE WOODS LN","town":"WEST SENECA T"},"type":"Feature"},
-{"geometry":{"coordinates":[-78.705982,42.812452],"type":"Point"},"properties":{"EstRest":"10/19/2026 5:00:00 PM","Outages":6,"county":"ERIE","customers":157686,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+{"geometry":{"coordinates":[-78.705982,42.812452],"type":"Point"},"properties":{"EstRest":"10/19/2026 7:30:00 PM","Outages":6,"cause":"","county":"ERIE","crewstatus":"DISP ","customers":24,"hamlet":"BUFFALO","incidentnumber":"011678","incidents":1,"level":"street","opco":"NYSEG","street":"IN THE WOODS LN","town":"WEST SENECA T"},"type":"Feature"},
+{"geometry":{"coordinates":[-78.705982,42.812452],"type":"Point"},"properties":{"EstRest":"10/19/2026 7:30:00 PM","Outages":6,"county":"ERIE","customers":157686,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
