@@ -1,8 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.412209,41.7987],"type":"Point"},"properties":{"a":"41.7987","cty":"PROVIDENCE","id":20261067177,"mun":"PROVIDENCE","nc":1,"o":"-71.412209"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.589239,41.872168],"type":"Point"},"properties":{"a":"41.872168","cty":"PROVIDENCE","id":20261067178,"mun":"GLOCESTER","nc":5,"o":"-71.589239"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.412136,41.755198],"type":"Point"},"properties":{"a":"41.755198","cty":"KENT","id":20261067187,"mun":"WARWICK","nc":1,"o":"-71.412136"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.496207,41.436346],"type":"Point"},"properties":{"a":"41.436346","cty":"WASHINGTON","id":20261067188,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.496207"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.397416,41.867264],"type":"Point"},"properties":{"a":"41.867264","cty":"PROVIDENCE","id":20261067193,"mun":"PAWTUCKET","nc":1,"o":"-71.397416"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.513475,42.007112],"type":"Point"},"properties":{"a":"42.007112","cty":"PROVIDENCE","id":20261067195,"mun":"WOONSOCKET","nc":1,"o":"-71.513475"},"type":"Feature"}
 ]}
