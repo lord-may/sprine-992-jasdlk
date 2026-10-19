@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.7781,44.24032],"type":"Point"},"properties":{"EstRest":"10/19/2026 12:00:00 AM","Outages":8,"cause":"","county":"KENNEBEC","crewstatus":"DISP ","customers":76,"hamlet":"FARMINGDALE","incidentnumber":"0043ZJ","incidents":1,"level":"street","opco":"CMP","street":"SHELDON ST","town":"FARMINGDALE"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.7781,44.24032],"type":"Point"},"properties":{"EstRest":"10/19/2026 12:00:00 AM","Outages":8,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.30043,44.387227],"type":"Point"},"properties":{"EstRest":"10/19/2026 12:30:00 AM","Outages":1,"cause":"","county":"WALDO","crewstatus":"ONST ","customers":9,"hamlet":"LIBERTY","incidentnumber":"0043Z7","incidents":1,"level":"street","opco":"CMP","street":"TANNERY LN","town":"LIBERTY"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.30043,44.387227],"type":"Point"},"properties":{"EstRest":"10/19/2026 12:30:00 AM","Outages":2,"county":"WALDO","customers":26703,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
