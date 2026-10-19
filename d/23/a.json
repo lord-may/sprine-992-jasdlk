@@ -3,9 +3,8 @@
 {"geometry":{"coordinates":[-75.375828,41.124392],"type":"Point"},"properties":{"a":"41.124392","cty":"MONROE","id":8827174,"mun":"MOUNT POCONO BORO","nc":1,"o":"-75.375828"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.691378,41.565114],"type":"Point"},"properties":{"a":"41.565114","cty":"LACKAWANNA","id":8827175,"mun":"NORTH ABINGTON TWP","nc":1,"o":"-75.691378"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.359617,40.764388],"type":"Point"},"properties":{"a":"40.764388","cty":"NORTHAMPTON","id":8827205,"mun":"BUSHKILL TWP","nc":1,"o":"-75.359617"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.380848,40.132924],"type":"Point"},"properties":{"a":"40.132924","cty":"LANCASTER","id":8827206,"mun":"PENN TWP","nc":2,"o":"-76.380848"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.14292,40.79223],"type":"Point"},"properties":{"a":"40.79223","cty":"NORTHAMPTON","hp":true,"id":8827211,"mun":"LOWER MOUNT BETHEL TWP","nc":84,"ne":{"a":"40.80139","o":"-75.10428"},"o":"-75.14292","sw":{"a":"40.78307","o":"-75.18156"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.82871,40.84151],"type":"Point"},"properties":{"a":"40.84151","cty":"SNYDER","hp":true,"id":8827219,"mun":"MONROE TWP","nc":2135,"ne":{"a":"40.87192","o":"-76.80826"},"o":"-76.82871","sw":{"a":"40.8111","o":"-76.84917"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.127151,40.80164],"type":"Point"},"properties":{"a":"40.80164","cty":"NORTHAMPTON","id":8827211,"mun":"LOWER MOUNT BETHEL TWP","nc":3,"o":"-75.127151"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.82193,40.86552],"type":"Point"},"properties":{"a":"40.86552","cty":"SNYDER","hp":true,"id":8827219,"mun":"SHAMOKIN DAM BORO","nc":55,"ne":{"a":"40.87192","o":"-76.80826"},"o":"-76.82193","sw":{"a":"40.85912","o":"-76.8356"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.56236,40.70128],"type":"Point"},"properties":{"a":"40.70128","cty":"NORTHUMBERLAND","hp":true,"id":8827231,"mun":"EAST CAMERON TWP","nc":966,"ne":{"a":"40.74204","o":"-76.44101"},"o":"-76.56236","sw":{"a":"40.66053","o":"-76.6837"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.861577,40.272529],"type":"Point"},"properties":{"a":"40.272529","cty":"DAUPHIN","id":8827236,"mun":"HARRISBURG","nc":1,"o":"-76.861577"},"type":"Feature"}
 ]}
