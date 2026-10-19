@@ -3,8 +3,5 @@
 {"geometry":{"coordinates":[-75.110809,41.497174],"type":"Point"},"properties":{"a":"41.497174","cty":"PIKE","id":8827135,"mun":"LACKAWAXEN TWP","nc":13,"o":"-75.110809"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.939255,40.21439],"type":"Point"},"properties":{"a":"40.21439","cty":"CUMBERLAND","id":8827144,"mun":"LOWER ALLEN TWP","nc":1,"o":"-76.939255"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.598452,41.413283],"type":"Point"},"properties":{"a":"41.413283","cty":"LACKAWANNA","id":8827152,"mun":"DUNMORE BORO","nc":2,"o":"-75.598452"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.054576,40.438289],"type":"Point"},"properties":{"a":"40.438289","cty":"PERRY","id":8827157,"mun":"WHEATFIELD TWP","nc":1,"o":"-77.054576"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.481489,40.681371],"type":"Point"},"properties":{"a":"40.681371","cty":"NORTHAMPTON","id":8827159,"mun":"NORTHAMPTON BORO","nc":17,"o":"-75.481489"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.499467,41.573358],"type":"Point"},"properties":{"a":"41.573358","cty":"LACKAWANNA","id":8827161,"mun":"CARBONDALE","nc":3,"o":"-75.499467"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.32685,40.70875],"type":"Point"},"properties":{"a":"40.70875","cty":"NORTHAMPTON","hp":true,"id":8827162,"mun":"LOWER NAZARETH TWP","nc":8,"ne":{"a":"40.70952","o":"-75.32639"},"o":"-75.32685","sw":{"a":"40.70798","o":"-75.3273"}},"type":"Feature"}
+{"geometry":{"coordinates":[-77.054576,40.438289],"type":"Point"},"properties":{"a":"40.438289","cty":"PERRY","id":8827157,"mun":"WHEATFIELD TWP","nc":1,"o":"-77.054576"},"type":"Feature"}
 ]}
