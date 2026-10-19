@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-77.589407,43.13898],"type":"Point"},"properties":{"EstRest":"10/19/2026 12:00:00 AM","Outages":26,"county":"MONROE","customers":303507,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.589407,43.13898],"type":"Point"},"properties":{"EstRest":"10/19/2026 12:00:00 AM","Outages":9,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":58,"hamlet":"ROCHESTER","incidentnumber":"0115ZB","incidents":1,"level":"street","opco":"RGE","street":"WILMINGTON ST","town":"ROCHESTER"},"type":"Feature"}
 ]}
