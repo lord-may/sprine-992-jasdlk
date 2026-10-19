@@ -5,7 +5,6 @@
 {"geometry":{"coordinates":[-76.248297,40.040348],"type":"Point"},"properties":{"a":"40.040348","cty":"LANCASTER","id":8827579,"mun":"EAST LAMPETER TWP","nc":1,"o":"-76.248297"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.254463,40.044622],"type":"Point"},"properties":{"a":"40.044622","cty":"LANCASTER","id":8827580,"mun":"EAST LAMPETER TWP","nc":1,"o":"-76.254463"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.26484,40.037408],"type":"Point"},"properties":{"a":"40.037408","cty":"LANCASTER","id":8827581,"mun":"EAST LAMPETER TWP","nc":1,"o":"-76.26484"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.877624,40.834217],"type":"Point"},"properties":{"a":"40.834217","cty":"CARBON","id":8827661,"mun":"LANSFORD BORO","nc":20,"o":"-75.877624"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.41135,40.92893],"type":"Point"},"properties":{"a":"40.92893","cty":"MONROE","hp":true,"id":8827666,"mun":"CHESTNUT HILL TWP","nc":368,"ne":{"a":"40.9394","o":"-75.40121"},"o":"-75.41135","sw":{"a":"40.91846","o":"-75.42149"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.42489,41.000624],"type":"Point"},"properties":{"a":"41.000624","cty":"COLUMBIA","id":8827675,"mun":"SCOTT TWP","nc":2,"o":"-76.42489"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.694262,41.39486],"type":"Point"},"properties":{"a":"41.39486","cty":"LACKAWANNA","id":8827680,"mun":"TAYLOR BORO","nc":1,"o":"-75.694262"},"type":"Feature"},
@@ -15,5 +14,8 @@
 {"geometry":{"coordinates":[-75.568574,41.496271],"type":"Point"},"properties":{"a":"41.496271","cty":"LACKAWANNA","id":8827727,"mun":"ARCHBALD BORO","nc":3,"o":"-75.568574"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.84112,40.374024],"type":"Point"},"properties":{"a":"40.374024","cty":"DAUPHIN","id":8827733,"mun":"MIDDLE PAXTON TWP","nc":1,"o":"-76.84112"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.243623,40.053176],"type":"Point"},"properties":{"a":"40.053176","cty":"LANCASTER","id":8827838,"mun":"EAST LAMPETER TWP","nc":2,"o":"-76.243623"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.252031,40.048037],"type":"Point"},"properties":{"a":"40.048037","cty":"LANCASTER","id":8827840,"mun":"EAST LAMPETER TWP","nc":2,"o":"-76.252031"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.252031,40.048037],"type":"Point"},"properties":{"a":"40.048037","cty":"LANCASTER","id":8827840,"mun":"EAST LAMPETER TWP","nc":2,"o":"-76.252031"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.091285,40.007954],"type":"Point"},"properties":{"a":"40.007954","cty":"LANCASTER","id":8827844,"mun":"PARADISE TWP","nc":4,"o":"-76.091285"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.004007,40.881681],"type":"Point"},"properties":{"a":"40.881681","cty":"SCHUYLKILL","id":8827845,"mun":"KLINE TWP","nc":4,"o":"-76.004007"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.233403,41.372626],"type":"Point"},"properties":{"a":"41.372626","cty":"PIKE","id":8827846,"mun":"PALMYRA TWP","nc":4,"o":"-75.233403"},"type":"Feature"}
 ]}
