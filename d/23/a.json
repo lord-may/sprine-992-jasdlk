@@ -5,5 +5,7 @@
 {"geometry":{"coordinates":[-75.359617,40.764388],"type":"Point"},"properties":{"a":"40.764388","cty":"NORTHAMPTON","id":8827205,"mun":"BUSHKILL TWP","nc":1,"o":"-75.359617"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.380848,40.132924],"type":"Point"},"properties":{"a":"40.132924","cty":"LANCASTER","id":8827206,"mun":"PENN TWP","nc":2,"o":"-76.380848"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.14292,40.79223],"type":"Point"},"properties":{"a":"40.79223","cty":"NORTHAMPTON","hp":true,"id":8827211,"mun":"LOWER MOUNT BETHEL TWP","nc":84,"ne":{"a":"40.80139","o":"-75.10428"},"o":"-75.14292","sw":{"a":"40.78307","o":"-75.18156"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.81865,40.85222],"type":"Point"},"properties":{"a":"40.85222","cty":"SNYDER","hp":true,"id":8827219,"mun":"MONROE TWP","nc":2421,"ne":{"a":"40.89334","o":"-76.78814"},"o":"-76.81865","sw":{"a":"40.8111","o":"-76.84917"}},"type":"Feature"}
+{"geometry":{"coordinates":[-76.81529,40.87623],"type":"Point"},"properties":{"a":"40.87623","cty":"SNYDER","hp":true,"id":8827219,"mun":"MONROE TWP","nc":196,"ne":{"a":"40.89334","o":"-76.78897"},"o":"-76.81529","sw":{"a":"40.85912","o":"-76.8416"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.50208,40.677655],"type":"Point"},"properties":{"a":"40.677655","cty":"LEHIGH","id":8827222,"mun":"WHITEHALL TWP","nc":1,"o":"-75.50208"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.81865,40.85101],"type":"Point"},"properties":{"a":"40.85101","cty":"SNYDER","hp":true,"id":8827223,"mun":"MONROE TWP","nc":2234,"ne":{"a":"40.89093","o":"-76.78814"},"o":"-76.81865","sw":{"a":"40.8111","o":"-76.84917"}},"type":"Feature"}
 ]}
