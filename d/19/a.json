@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-76.559863,42.075672],"type":"Point"},"properties":{"EstRest":"10/19/2026 8:45:00 AM","Outages":9,"cause":"","county":"CHEMUNG","crewstatus":"     ","customers":12,"hamlet":"LOCKWOOD","incidentnumber":"0115ZR","incidents":1,"level":"street","opco":"NYSEG","street":"MILLER HOLLOW RD","town":"CHEMUNG T"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.575437,42.073525],"type":"Point"},"properties":{"EstRest":"10/19/2026 8:45:00 AM","Outages":24,"county":"CHEMUNG","customers":39910,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}

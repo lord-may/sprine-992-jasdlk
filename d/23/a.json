@@ -2,5 +2,6 @@
 {"geometry":{"coordinates":[-75.359617,40.764388],"type":"Point"},"properties":{"a":"40.764388","cty":"NORTHAMPTON","id":8827205,"mun":"BUSHKILL TWP","nc":1,"o":"-75.359617"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.127151,40.80164],"type":"Point"},"properties":{"a":"40.80164","cty":"NORTHAMPTON","id":8827211,"mun":"LOWER MOUNT BETHEL TWP","nc":3,"o":"-75.127151"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.82193,40.86552],"type":"Point"},"properties":{"a":"40.86552","cty":"SNYDER","hp":true,"id":8827219,"mun":"SHAMOKIN DAM BORO","nc":55,"ne":{"a":"40.87192","o":"-76.80826"},"o":"-76.82193","sw":{"a":"40.85912","o":"-76.8356"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.59025,40.69393],"type":"Point"},"properties":{"a":"40.69393","cty":"SCHUYLKILL","hp":true,"id":8827231,"mun":"ELDRED TWP","nc":823,"ne":{"a":"40.72733","o":"-76.49679"},"o":"-76.59025","sw":{"a":"40.66053","o":"-76.6837"}},"type":"Feature"}
+{"geometry":{"coordinates":[-76.59025,40.69393],"type":"Point"},"properties":{"a":"40.69393","cty":"SCHUYLKILL","hp":true,"id":8827231,"mun":"ELDRED TWP","nc":823,"ne":{"a":"40.72733","o":"-76.49679"},"o":"-76.59025","sw":{"a":"40.66053","o":"-76.6837"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.812761,40.851104],"type":"Point"},"properties":{"a":"40.851104","cty":"SNYDER","id":8827267,"mun":"SHAMOKIN DAM BORO","nc":2,"o":"-76.812761"},"type":"Feature"}
 ]}
