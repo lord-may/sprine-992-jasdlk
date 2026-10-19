@@ -5,6 +5,5 @@
 {"geometry":{"coordinates":[-75.691378,41.565114],"type":"Point"},"properties":{"a":"41.565114","cty":"LACKAWANNA","id":8827175,"mun":"NORTH ABINGTON TWP","nc":1,"o":"-75.691378"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.28153,40.31611],"type":"Point"},"properties":{"a":"40.31611","cty":"BUCKS","hp":true,"id":8827178,"mun":"HILLTOWN TWP","nc":5,"ne":{"a":"40.31805","o":"-75.28055"},"o":"-75.28153","sw":{"a":"40.31417","o":"-75.28251"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.30051,40.03106],"type":"Point"},"properties":{"a":"40.03106","cty":"LANCASTER","hp":true,"id":8827184,"mun":"LANCASTER","nc":60,"ne":{"a":"40.03179","o":"-76.29981"},"o":"-76.30051","sw":{"a":"40.03034","o":"-76.30122"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.228197,41.439904],"type":"Point"},"properties":{"a":"41.439904","cty":"WAYNE","id":8827187,"mun":"PAUPACK TWP","nc":1,"o":"-75.228197"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.26983,41.288296],"type":"Point"},"properties":{"a":"41.288296","cty":"PIKE","id":8827190,"mun":"GREENE TWP","nc":2,"o":"-75.26983"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.370176,40.607225],"type":"Point"},"properties":{"a":"40.607225","cty":"NORTHAMPTON","id":8827191,"mun":"BETHLEHEM","nc":1,"o":"-75.370176"},"type":"Feature"}
 ]}
