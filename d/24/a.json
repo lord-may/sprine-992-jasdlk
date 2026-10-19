@@ -2,5 +2,6 @@
 {"geometry":{"coordinates":[-71.242883,41.552863],"type":"Point"},"properties":{"a":"41.552863","cty":"NEWPORT","id":20261067061,"mun":"PORTSMOUTH","nc":8,"o":"-71.242883"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.452014,41.74929],"type":"Point"},"properties":{"a":"41.74929","cty":"PROVIDENCE","id":20261067073,"mun":"CRANSTON","nc":1,"o":"-71.452014"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.427813,41.789396],"type":"Point"},"properties":{"a":"41.789396","cty":"PROVIDENCE","id":20261067075,"mun":"PROVIDENCE","nc":1,"o":"-71.427813"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.506393,41.883662],"type":"Point"},"properties":{"a":"41.883662","cty":"PROVIDENCE","id":20261067083,"mun":"SMITHFIELD","nc":1,"o":"-71.506393"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.506393,41.883662],"type":"Point"},"properties":{"a":"41.883662","cty":"PROVIDENCE","id":20261067083,"mun":"SMITHFIELD","nc":1,"o":"-71.506393"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.479912,41.749005],"type":"Point"},"properties":{"a":"41.749005","cty":"PROVIDENCE","id":20261067084,"mun":"CRANSTON","nc":1,"o":"-71.479912"},"type":"Feature"}
 ]}
