@@ -4,5 +4,8 @@
 {"geometry":{"coordinates":[-71.304658,41.502719],"type":"Point"},"properties":{"a":"41.502719","cty":"NEWPORT","id":20261067100,"mun":"NEWPORT","nc":1,"o":"-71.304658"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.704231,41.88561],"type":"Point"},"properties":{"a":"41.88561","cty":"PROVIDENCE","id":20261067102,"mun":"GLOCESTER","nc":1,"o":"-71.704231"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.514965,41.898698],"type":"Point"},"properties":{"a":"41.898698","cty":"PROVIDENCE","id":20261067105,"mun":"SMITHFIELD","nc":1,"o":"-71.514965"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.42126,41.485414],"type":"Point"},"properties":{"a":"41.485414","cty":"WASHINGTON","id":20261067107,"mun":"NARRAGANSETT","nc":1,"o":"-71.42126"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.42126,41.485414],"type":"Point"},"properties":{"a":"41.485414","cty":"WASHINGTON","id":20261067107,"mun":"NARRAGANSETT","nc":1,"o":"-71.42126"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.397269,41.694783],"type":"Point"},"properties":{"a":"41.694783","cty":"KENT","id":20261067110,"mun":"WARWICK","nc":1,"o":"-71.397269"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.37819,41.668641],"type":"Point"},"properties":{"a":"41.668641","cty":"KENT","id":20261067111,"mun":"WARWICK","nc":1,"o":"-71.37819"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.400486,41.789681],"type":"Point"},"properties":{"a":"41.789681","cty":"PROVIDENCE","id":20261067112,"mun":"PROVIDENCE","nc":1,"o":"-71.400486"},"type":"Feature"}
 ]}

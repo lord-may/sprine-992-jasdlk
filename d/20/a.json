@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-77.529024,43.13435],"type":"Point"},"properties":{"EstRest":"10/19/2026 10:30:00 AM","Outages":8,"county":"MONROE","customers":303507,"incidents":2,"level":"county","opco":"RGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.416945,42.917687],"type":"Point"},"properties":{"EstRest":"10/19/2026 11:15:00 AM","Outages":1,"cause":"","county":"ONTARIO","crewstatus":"DISP ","customers":84,"hamlet":"BLOOMFIELD","incidentnumber":"01161K","incidents":1,"level":"street","opco":"RGE","street":"ROUTE 444","town":"E BLMFLD"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.416945,42.917687],"type":"Point"},"properties":{"EstRest":"10/19/2026 11:15:00 AM","Outages":1,"county":"ONTARIO","customers":35916,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.416945,42.917687],"type":"Point"},"properties":{"EstRest":"10/19/2026 11:30:00 AM","Outages":1,"cause":"","county":"ONTARIO","crewstatus":"DISP ","customers":84,"hamlet":"BLOOMFIELD","incidentnumber":"01161P","incidents":1,"level":"street","opco":"RGE","street":"ROUTE 444","town":"E BLMFLD"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.416945,42.917687],"type":"Point"},"properties":{"EstRest":"10/19/2026 11:30:00 AM","Outages":1,"county":"ONTARIO","customers":35916,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
