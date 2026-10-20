@@ -9,5 +9,8 @@
 {"geometry":{"coordinates":[-71.275411,41.482001],"type":"Point"},"properties":{"a":"41.482001","cty":"NEWPORT","id":20261067336,"mun":"MIDDLETOWN","nc":1,"o":"-71.275411"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.308544,41.491539],"type":"Point"},"properties":{"a":"41.491539","cty":"NEWPORT","id":20261067338,"mun":"NEWPORT","nc":77,"o":"-71.308544"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.524415,41.711558],"type":"Point"},"properties":{"a":"41.711558","cty":"KENT","id":20261067344,"mun":"WEST WARWICK","nc":1,"o":"-71.524415"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.791432,41.795323],"type":"Point"},"properties":{"a":"41.795323","cty":"PROVIDENCE","id":20261067345,"mun":"FOSTER","nc":1,"o":"-71.791432"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.791432,41.795323],"type":"Point"},"properties":{"a":"41.795323","cty":"PROVIDENCE","id":20261067345,"mun":"FOSTER","nc":1,"o":"-71.791432"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.450976,41.718796],"type":"Point"},"properties":{"a":"41.718796","cty":"KENT","id":20261067348,"mun":"WARWICK","nc":1,"o":"-71.450976"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.208037,41.568764],"type":"Point"},"properties":{"a":"41.568764","cty":"NEWPORT","id":20261067350,"mun":"TIVERTON","nc":1,"o":"-71.208037"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.299313,41.729975],"type":"Point"},"properties":{"a":"41.729975","cty":"BRISTOL","id":20261067351,"mun":"BARRINGTON","nc":1,"o":"-71.299313"},"type":"Feature"}
 ]}

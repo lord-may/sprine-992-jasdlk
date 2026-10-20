@@ -24,7 +24,6 @@
 {"geometry":{"coordinates":[-76.505889,41.038862],"type":"Point"},"properties":{"a":"41.038862","cty":"COLUMBIA","id":8828218,"mun":"HEMLOCK TWP","nc":1,"o":"-76.505889"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.95778,40.79888],"type":"Point"},"properties":{"a":"40.79888","cty":"SCHUYLKILL","hp":true,"id":8828229,"mun":"RUSH TWP","nc":21,"ne":{"a":"40.80553","o":"-75.94769"},"o":"-75.95778","sw":{"a":"40.79222","o":"-75.96787"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.364114,40.03626],"type":"Point"},"properties":{"a":"40.03626","cty":"LANCASTER","id":8828241,"mun":"MANOR TWP","nc":2,"o":"-76.364114"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.793797,40.5106],"type":"Point"},"properties":{"a":"40.5106","cty":"DAUPHIN","id":8828251,"mun":"JACKSON TWP","nc":1,"o":"-76.793797"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.898974,41.24244],"type":"Point"},"properties":{"a":"41.24244","cty":"LUZERNE","id":8828257,"mun":"WILKES-BARRE","nc":11,"o":"-75.898974"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.764244,40.920474],"type":"Point"},"properties":{"a":"40.920474","cty":"NORTHUMBERLAND","id":8828259,"mun":"POINT TWP","nc":4,"o":"-76.764244"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.414244,41.004521],"type":"Point"},"properties":{"a":"41.004521","cty":"COLUMBIA","id":8828260,"mun":"SCOTT TWP","nc":5,"o":"-76.414244"},"type":"Feature"},
@@ -33,5 +32,7 @@
 {"geometry":{"coordinates":[-76.142635,40.36109],"type":"Point"},"properties":{"a":"40.36109","cty":"BERKS","id":8828279,"mun":"HEIDELBERG TWP","nc":1,"o":"-76.142635"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.005996,40.336495],"type":"Point"},"properties":{"a":"40.336495","cty":"BERKS","id":8828289,"mun":"SPRING TWP","nc":4,"o":"-76.005996"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.637772,40.545343],"type":"Point"},"properties":{"a":"40.545343","cty":"LEHIGH","id":8828292,"mun":"UPPER MACUNGIE TWP","nc":8,"o":"-75.637772"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.965761,41.252694],"type":"Point"},"properties":{"a":"41.252694","cty":"LYCOMING","id":8828293,"mun":"LOYALSOCK TWP","nc":8,"o":"-76.965761"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.965761,41.252694],"type":"Point"},"properties":{"a":"41.252694","cty":"LYCOMING","id":8828293,"mun":"LOYALSOCK TWP","nc":8,"o":"-76.965761"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.982595,41.253412],"type":"Point"},"properties":{"a":"41.253412","cty":"LYCOMING","id":8828299,"mun":"WILLIAMSPORT","nc":3,"o":"-76.982595"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.206233,41.048743],"type":"Point"},"properties":{"a":"41.048743","cty":"CLINTON","id":8828300,"mun":"GREENE TWP","nc":1,"o":"-77.206233"},"type":"Feature"}
 ]}
