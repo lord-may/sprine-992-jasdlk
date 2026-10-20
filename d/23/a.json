@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.344977,40.646282],"type":"Point"},"properties":{"a":"40.646282","cty":"NORTHAMPTON","id":8827988,"mun":"BETHLEHEM","nc":4,"o":"-75.344977"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.35208,41.2841],"type":"Point"},"properties":{"a":"41.2841","cty":"COLUMBIA","hp":true,"id":8827993,"mun":"SUGARLOAF TWP","nc":8,"ne":{"a":"41.28492","o":"-76.34833"},"o":"-76.35208","sw":{"a":"41.28328","o":"-76.35583"}},"type":"Feature"}
+{"geometry":{"coordinates":[-76.35208,41.2841],"type":"Point"},"properties":{"a":"41.2841","cty":"COLUMBIA","hp":true,"id":8827993,"mun":"SUGARLOAF TWP","nc":8,"ne":{"a":"41.28492","o":"-76.34833"},"o":"-76.35208","sw":{"a":"41.28328","o":"-76.35583"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.145328,40.272315],"type":"Point"},"properties":{"a":"40.272315","cty":"LANCASTER","id":8828003,"mun":"WEST COCALICO TWP","nc":3,"o":"-76.145328"},"type":"Feature"}
 ]}
