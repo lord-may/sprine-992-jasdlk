@@ -10,5 +10,7 @@
 {"geometry":{"coordinates":[-71.248158,41.512236],"type":"Point"},"properties":{"a":"41.512236","cty":"NEWPORT","id":20261067247,"mun":"MIDDLETOWN","nc":1,"o":"-71.248158"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.395566,41.791852],"type":"Point"},"properties":{"a":"41.791852","cty":"PROVIDENCE","id":20261067248,"mun":"PROVIDENCE","nc":1,"o":"-71.395566"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.308028,41.488385],"type":"Point"},"properties":{"a":"41.488385","cty":"NEWPORT","id":20261067249,"mun":"NEWPORT","nc":51,"o":"-71.308028"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.27249,41.48368],"type":"Point"},"properties":{"a":"41.48368","cty":"NEWPORT","hp":true,"id":20261067252,"mun":"MIDDLETOWN","nc":107,"ne":{"a":"41.48719","o":"-71.26846"},"o":"-71.27249","sw":{"a":"41.48017","o":"-71.27651"}},"type":"Feature"}
+{"geometry":{"coordinates":[-71.27249,41.48368],"type":"Point"},"properties":{"a":"41.48368","cty":"NEWPORT","hp":true,"id":20261067252,"mun":"MIDDLETOWN","nc":107,"ne":{"a":"41.48719","o":"-71.26846"},"o":"-71.27249","sw":{"a":"41.48017","o":"-71.27651"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.523854,41.684335],"type":"Point"},"properties":{"a":"41.684335","cty":"KENT","id":20261067254,"mun":"WEST WARWICK","nc":1,"o":"-71.523854"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.340695,41.765318],"type":"Point"},"properties":{"a":"41.765318","cty":"PROVIDENCE","id":20261067256,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.340695"},"type":"Feature"}
 ]}
