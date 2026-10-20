@@ -1,8 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.308544,41.491539],"type":"Point"},"properties":{"a":"41.491539","cty":"NEWPORT","id":20261067338,"mun":"NEWPORT","nc":77,"o":"-71.308544"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.524415,41.711558],"type":"Point"},"properties":{"a":"41.711558","cty":"KENT","id":20261067344,"mun":"WEST WARWICK","nc":1,"o":"-71.524415"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.208037,41.568764],"type":"Point"},"properties":{"a":"41.568764","cty":"NEWPORT","id":20261067350,"mun":"TIVERTON","nc":1,"o":"-71.208037"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.47543,41.972174],"type":"Point"},"properties":{"a":"41.972174","cty":"PROVIDENCE","id":20261067353,"mun":"LINCOLN","nc":1,"o":"-71.47543"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.719283,41.352622],"type":"Point"},"properties":{"a":"41.352622","cty":"WASHINGTON","id":20261067360,"mun":"CHARLESTOWN","nc":7,"o":"-71.719283"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.303293,41.520432],"type":"Point"},"properties":{"a":"41.520432","cty":"NEWPORT","id":20261067361,"mun":"MIDDLETOWN","nc":1,"o":"-71.303293"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.485609,41.992246],"type":"Point"},"properties":{"a":"41.992246","cty":"PROVIDENCE","id":20261067363,"mun":"WOONSOCKET","nc":1,"o":"-71.485609"},"type":"Feature"}
 ]}
