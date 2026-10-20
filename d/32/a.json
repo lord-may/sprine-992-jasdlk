@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-77.305824,41.58435],"type":"Point"},"properties":{"cause":"POWER SUPPLIER","crewAssigned":false,"id":"373054","nbrOut":417,"planned":false,"timeOff":1792521614000},"type":"Feature"}
 ]}
