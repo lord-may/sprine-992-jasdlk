@@ -1,3 +1,6 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-70.646388,45.022109],"type":"Point"},"properties":{"EstRest":"10/20/2026 1:15:00 AM","Outages":1,"cause":"","county":"FRANKLIN","crewstatus":"     ","customers":14,"hamlet":"DALLAS PLT","incidentnumber":"004442","incidents":1,"level":"street","opco":"CMP","street":"S COTTAGE RD","town":"DALLAS PLT"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.646388,45.022109],"type":"Point"},"properties":{"EstRest":"10/20/2026 1:15:00 AM","Outages":1,"county":"FRANKLIN","customers":24700,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.677526,44.693156],"type":"Point"},"properties":{"EstRest":"10/20/2026 1:15:00 AM","Outages":19,"cause":"","county":"SOMERSET","crewstatus":"DISP ","customers":24,"hamlet":"FAIRFIELD","incidentnumber":"00443Z","incidents":1,"level":"street","opco":"CMP","street":"MIDDLE RD","town":"FAIRFIELD"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.681273,44.685883],"type":"Point"},"properties":{"EstRest":"10/20/2026 1:15:00 AM","Outages":26,"county":"SOMERSET","customers":31730,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
