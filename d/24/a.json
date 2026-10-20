@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.719283,41.352622],"type":"Point"},"properties":{"a":"41.352622","cty":"WASHINGTON","id":20261067360,"mun":"CHARLESTOWN","nc":7,"o":"-71.719283"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.526206,41.720103],"type":"Point"},"properties":{"a":"41.720103","cty":"KENT","id":20261067382,"mun":"WEST WARWICK","nc":34,"o":"-71.526206"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.296321,41.502082],"type":"Point"},"properties":{"a":"41.502082","cty":"NEWPORT","id":20261067383,"mun":"MIDDLETOWN","nc":1,"o":"-71.296321"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.482324,41.802737],"type":"Point"},"properties":{"a":"41.802737","cty":"PROVIDENCE","id":20261067384,"mun":"JOHNSTON","nc":1,"o":"-71.482324"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.296321,41.502082],"type":"Point"},"properties":{"a":"41.502082","cty":"NEWPORT","id":20261067383,"mun":"MIDDLETOWN","nc":1,"o":"-71.296321"},"type":"Feature"}
 ]}

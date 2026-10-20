@@ -2,12 +2,9 @@
 {"geometry":{"coordinates":[-75.509346,41.572095],"type":"Point"},"properties":{"a":"41.572095","cty":"LACKAWANNA","id":8828144,"mun":"CARBONDALE","nc":2,"o":"-75.509346"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.132448,40.33093],"type":"Point"},"properties":{"a":"40.33093","cty":"BERKS","id":8828326,"mun":"SOUTH HEIDELBERG TWP","nc":3,"o":"-76.132448"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.604352,40.500047],"type":"Point"},"properties":{"a":"40.500047","cty":"NA","id":8828342,"mun":"NA","nc":5,"o":"-75.604352"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.097855,40.205771],"type":"Point"},"properties":{"a":"40.205771","cty":"CUMBERLAND","id":8828365,"mun":"SILVER SPRING TWP","nc":1,"o":"-77.097855"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.015977,41.085515],"type":"Point"},"properties":{"a":"41.085515","cty":"LUZERNE","id":8828368,"mun":"DORRANCE TWP","nc":1,"o":"-76.015977"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.65966,40.86855],"type":"Point"},"properties":{"a":"40.86855","cty":"CARBON","hp":true,"id":8828371,"mun":"FRANKLIN TWP","nc":569,"ne":{"a":"40.88707","o":"-75.6367"},"o":"-75.65966","sw":{"a":"40.85004","o":"-75.68262"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.735602,41.368218],"type":"Point"},"properties":{"a":"41.368218","cty":"LACKAWANNA","id":8828380,"mun":"OLD FORGE BORO","nc":2,"o":"-75.735602"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.072651,41.3091],"type":"Point"},"properties":{"a":"41.3091","cty":"PIKE","id":8828390,"mun":"BLOOMING GROVE TWP","nc":1,"o":"-75.072651"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.394587,40.386685],"type":"Point"},"properties":{"a":"40.386685","cty":"BUCKS","id":8828391,"mun":"MILFORD TWP","nc":1,"o":"-75.394587"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.49275,40.59656],"type":"Point"},"properties":{"a":"40.59656","cty":"MIFFLIN","hp":true,"id":8828393,"mun":"GRANVILLE TWP","nc":13,"ne":{"a":"40.59808","o":"-77.48899"},"o":"-77.49275","sw":{"a":"40.59505","o":"-77.49652"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.873467,40.258045],"type":"Point"},"properties":{"a":"40.258045","cty":"DAUPHIN","id":8828397,"mun":"HARRISBURG","nc":4,"o":"-76.873467"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.49275,40.59656],"type":"Point"},"properties":{"a":"40.59656","cty":"MIFFLIN","hp":true,"id":8828393,"mun":"GRANVILLE TWP","nc":13,"ne":{"a":"40.59808","o":"-77.48899"},"o":"-77.49275","sw":{"a":"40.59505","o":"-77.49652"}},"type":"Feature"}
 ]}

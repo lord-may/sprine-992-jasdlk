@@ -1,7 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-73.97772,40.93904],"type":"Point"},"properties":{"cause":"Single Service Incident","cluster":false,"cust_a":{"val":1},"etr":"2026-10-20T17:53:39-0400","inc_id":"560225","title":"Outage Information"},"type":"Feature"},
 {"geometry":{"coordinates":[-73.99512,41.09741],"type":"Point"},"properties":{"cause":"Under Investigation","cluster":false,"cust_a":{"val":1},"etr":"2026-10-21T15:00:00-0400","inc_id":"559372","title":"Outage Information"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.99525,41.1495],"type":"Point"},"properties":{"cause":"Single Service Incident","cluster":false,"cust_a":{"val":2},"etr":"2026-10-20T16:23:43-0400","inc_id":"560215","title":"Outage Information"},"type":"Feature"},
-{"geometry":{"coordinates":[-74.84717,41.47178],"type":"Point"},"properties":{"cause":"Single Service Incident","cluster":false,"cust_a":{"val":1},"etr":"2026-10-20T17:33:31-0400","inc_id":"560222","title":"Outage Information"},"type":"Feature"},
-{"geometry":{"geometries":[{"coordinates":[[[-73.95113,40.94219],[-73.95084,40.94263],[-73.95092,40.94296],[-73.95161,40.94304],[-73.95113,40.94219]]],"type":"Polygon"},{"coordinates":[-73.95117,40.9427],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cluster":false,"cust_a":{"val":5},"etr":"2026-10-20T17:24:06-0400","inc_id":"560221","title":"Outage Information"},"type":"Feature"}
+{"geometry":{"coordinates":[-73.99525,41.1495],"type":"Point"},"properties":{"cause":"Single Service Incident","cluster":false,"cust_a":{"val":2},"etr":"ETR-EXP","inc_id":"560215","title":"Outage Information"},"type":"Feature"},
+{"geometry":{"coordinates":[-74.02197,41.1504],"type":"Point"},"properties":{"cause":"Single Service Incident","cluster":false,"cust_a":{"val":1},"etr":"ETR-NULL","inc_id":"560230","title":"Outage Information"},"type":"Feature"},
+{"geometry":{"coordinates":[-74.05286,41.1294],"type":"Point"},"properties":{"cause":"Single Service Incident","cluster":false,"cust_a":{"val":1},"etr":"ETR-NULL","inc_id":"560229","title":"Outage Information"},"type":"Feature"}
 ]}
