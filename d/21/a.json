@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-70.623453,43.163892],"type":"Point"},"properties":{"EstRest":"10/20/2026 6:15:00 AM","Outages":1,"cause":"","county":"YORK","crewstatus":"DISP ","customers":3,"hamlet":"YORK","incidentnumber":"004444","incidents":1,"level":"street","opco":"CMP","street":"MARINER WAY","town":"YORK"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.623453,43.163892],"type":"Point"},"properties":{"EstRest":"10/20/2026 6:15:00 AM","Outages":1,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
