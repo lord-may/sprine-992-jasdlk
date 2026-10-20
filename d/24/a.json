@@ -1,5 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.300467,41.726828],"type":"Point"},"properties":{"a":"41.726828","cty":"BRISTOL","id":20261067217,"mun":"BARRINGTON","nc":8,"o":"-71.300467"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.414693,41.878645],"type":"Point"},"properties":{"a":"41.878645","cty":"PROVIDENCE","id":20261067219,"mun":"PAWTUCKET","nc":1,"o":"-71.414693"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.480298,41.777475],"type":"Point"},"properties":{"a":"41.777475","cty":"PROVIDENCE","id":20261067220,"mun":"CRANSTON","nc":1,"o":"-71.480298"},"type":"Feature"}
+
 ]}
