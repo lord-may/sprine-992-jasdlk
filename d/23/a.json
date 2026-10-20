@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.307387,41.462888],"type":"Point"},"properties":{"a":"41.462888","cty":"WAYNE","id":8828013,"mun":"LAKE TWP","nc":2,"o":"-75.307387"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.004442,41.440411],"type":"Point"},"properties":{"a":"41.440411","cty":"PIKE","id":8828019,"mun":"LACKAWAXEN TWP","nc":5,"o":"-75.004442"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.004535,41.440786],"type":"Point"},"properties":{"a":"41.440786","cty":"PIKE","id":8828020,"mun":"LACKAWAXEN TWP","nc":5,"o":"-75.004535"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.453917,40.891764],"type":"Point"},"properties":{"a":"40.891764","cty":"MONROE","id":8828032,"mun":"POLK TWP","nc":4,"o":"-75.453917"},"type":"Feature"},
@@ -9,7 +8,6 @@
 {"geometry":{"coordinates":[-75.512171,40.522573],"type":"Point"},"properties":{"a":"40.522573","cty":"LEHIGH","id":8828041,"mun":"EMMAUS BORO","nc":4,"o":"-75.512171"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.291042,41.049756],"type":"Point"},"properties":{"a":"41.049756","cty":"COLUMBIA","id":8828045,"mun":"BRIAR CREEK BORO","nc":1,"o":"-76.291042"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.491445,40.543746],"type":"Point"},"properties":{"a":"40.543746","cty":"LEHIGH","id":8828046,"mun":"EMMAUS BORO","nc":3,"o":"-75.491445"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.25189,40.753507],"type":"Point"},"properties":{"a":"40.753507","cty":"NORTHAMPTON","id":8828047,"mun":"STOCKERTON BORO","nc":6,"o":"-75.25189"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.225304,39.842766],"type":"Point"},"properties":{"a":"39.842766","cty":"LANCASTER","id":8828050,"mun":"DRUMORE TWP","nc":1,"o":"-76.225304"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.206795,40.444673],"type":"Point"},"properties":{"a":"40.444673","cty":"PERRY","id":8828051,"mun":"CENTRE TWP","nc":1,"o":"-77.206795"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.815341,40.727267],"type":"Point"},"properties":{"a":"40.727267","cty":"SCHUYLKILL","id":8828058,"mun":"WEST PENN TWP","nc":2,"o":"-75.815341"},"type":"Feature"},
@@ -26,5 +24,10 @@
 {"geometry":{"coordinates":[-75.563573,41.494918],"type":"Point"},"properties":{"a":"41.494918","cty":"LACKAWANNA","id":8828074,"mun":"ARCHBALD BORO","nc":6,"o":"-75.563573"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.587309,40.67007],"type":"Point"},"properties":{"a":"40.67007","cty":"LEHIGH","id":8828076,"mun":"NORTH WHITEHALL TWP","nc":1,"o":"-75.587309"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.161812,40.705321],"type":"Point"},"properties":{"a":"40.705321","cty":"SCHUYLKILL","id":8828077,"mun":"EAST NORWEGIAN TWP","nc":10,"o":"-76.161812"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.869794,40.268034],"type":"Point"},"properties":{"a":"40.268034","cty":"DAUPHIN","id":8828078,"mun":"HARRISBURG","nc":21,"o":"-76.869794"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.869794,40.268034],"type":"Point"},"properties":{"a":"40.268034","cty":"DAUPHIN","id":8828078,"mun":"HARRISBURG","nc":21,"o":"-76.869794"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.248096,41.054062],"type":"Point"},"properties":{"a":"41.054062","cty":"COLUMBIA","id":8828083,"mun":"BERWICK BORO","nc":4,"o":"-76.248096"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.570966,40.05765],"type":"Point"},"properties":{"a":"40.05765","cty":"LANCASTER","id":8828084,"mun":"MARIETTA BORO","nc":4,"o":"-76.570966"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.020766,41.010787],"type":"Point"},"properties":{"a":"41.010787","cty":"LUZERNE","id":8828090,"mun":"BUTLER TWP","nc":3,"o":"-76.020766"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.474661,40.587458],"type":"Point"},"properties":{"a":"40.587458","cty":"LEHIGH","id":8828093,"mun":"ALLENTOWN","nc":2,"o":"-75.474661"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.204383,41.04905],"type":"Point"},"properties":{"a":"41.04905","cty":"CLINTON","id":8828094,"mun":"GREENE TWP","nc":2,"o":"-77.204383"},"type":"Feature"}
 ]}
