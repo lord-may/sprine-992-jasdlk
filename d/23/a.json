@@ -3,8 +3,13 @@
 {"geometry":{"coordinates":[-75.729695,41.352775],"type":"Point"},"properties":{"a":"41.352775","cty":"LACKAWANNA","id":8828014,"mun":"MOOSIC BORO","nc":10,"o":"-75.729695"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.004442,41.440411],"type":"Point"},"properties":{"a":"41.440411","cty":"PIKE","id":8828019,"mun":"LACKAWAXEN TWP","nc":5,"o":"-75.004442"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.004535,41.440786],"type":"Point"},"properties":{"a":"41.440786","cty":"PIKE","id":8828020,"mun":"LACKAWAXEN TWP","nc":5,"o":"-75.004535"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.409722,40.935214],"type":"Point"},"properties":{"a":"40.935214","cty":"MONROE","id":8828024,"mun":"CHESTNUT HILL TWP","nc":3,"o":"-75.409722"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.402573,40.927796],"type":"Point"},"properties":{"a":"40.927796","cty":"MONROE","id":8828025,"mun":"CHESTNUT HILL TWP","nc":5,"o":"-75.402573"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.584057,40.547788],"type":"Point"},"properties":{"a":"40.547788","cty":"LEHIGH","id":8828030,"mun":"LOWER MACUNGIE TWP","nc":16,"o":"-75.584057"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.453917,40.891764],"type":"Point"},"properties":{"a":"40.891764","cty":"MONROE","id":8828032,"mun":"POLK TWP","nc":4,"o":"-75.453917"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.453917,40.891764],"type":"Point"},"properties":{"a":"40.891764","cty":"MONROE","id":8828032,"mun":"POLK TWP","nc":4,"o":"-75.453917"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.014786,40.3282],"type":"Point"},"properties":{"a":"40.3282","cty":"BERKS","id":8828033,"mun":"SINKING SPRING BORO","nc":5,"o":"-76.014786"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.847481,40.329276],"type":"Point"},"properties":{"a":"40.329276","cty":"DAUPHIN","id":8828038,"mun":"SUSQUEHANNA TWP","nc":2,"o":"-76.847481"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.853392,41.276675],"type":"Point"},"properties":{"a":"41.276675","cty":"LUZERNE","id":8828039,"mun":"PLAINS TWP","nc":11,"o":"-75.853392"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.167973,39.889066],"type":"Point"},"properties":{"a":"39.889066","cty":"LANCASTER","id":8828040,"mun":"QUARRYVILLE BORO","nc":1,"o":"-76.167973"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.512171,40.522573],"type":"Point"},"properties":{"a":"40.522573","cty":"LEHIGH","id":8828041,"mun":"EMMAUS BORO","nc":4,"o":"-75.512171"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.291042,41.049756],"type":"Point"},"properties":{"a":"41.049756","cty":"COLUMBIA","id":8828045,"mun":"BRIAR CREEK BORO","nc":1,"o":"-76.291042"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.491445,40.543746],"type":"Point"},"properties":{"a":"40.543746","cty":"LEHIGH","id":8828046,"mun":"EMMAUS BORO","nc":3,"o":"-75.491445"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.25189,40.753507],"type":"Point"},"properties":{"a":"40.753507","cty":"NORTHAMPTON","id":8828047,"mun":"STOCKERTON BORO","nc":6,"o":"-75.25189"},"type":"Feature"}
 ]}
