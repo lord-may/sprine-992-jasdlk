@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-75.953267,41.912297],[-75.92267,41.914837],[-75.920092,41.915332],[-75.896359,41.924583],[-75.893259,41.933398],[-75.932507,41.983145],[-75.93592,41.984808],[-75.965655,41.99511],[-76.038409,41.998842],[-76.066841,41.99941],[-76.064802,41.996439],[-75.959492,41.914951],[-75.953267,41.912297]]],"type":"Polygon"},{"coordinates":[-75.968305,41.959449],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"CONSTRUCTION","estimateTime":1792513800000,"id":"365052","nbrOut":557,"planned":true,"timeOff":1792501200000},"type":"Feature"},
 {"geometry":{"coordinates":[-75.795424,41.929863],"type":"Point"},"properties":{"comment":"CREW ONSITE","id":"365110","nbrOut":2,"planned":false,"timeOff":1792510497984},"type":"Feature"}
 ]}
