@@ -25,10 +25,8 @@
 {"geometry":{"coordinates":[-75.255051,40.754969],"type":"Point"},"properties":{"a":"40.754969","cty":"NORTHAMPTON","id":8828113,"mun":"STOCKERTON BORO","nc":1,"o":"-75.255051"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.48832,40.58493],"type":"Point"},"properties":{"a":"40.58493","cty":"LEHIGH","hp":true,"id":8828114,"mun":"NA","nc":12,"ne":{"a":"40.58565","o":"-75.48698"},"o":"-75.48832","sw":{"a":"40.5842","o":"-75.48966"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.275265,40.277628],"type":"Point"},"properties":{"a":"40.277628","cty":"LEBANON","id":8828115,"mun":"HEIDELBERG TWP","nc":1,"o":"-76.275265"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.908977,41.247707],"type":"Point"},"properties":{"a":"41.247707","cty":"LYCOMING","id":8828116,"mun":"MONTOURSVILLE BORO","nc":6,"o":"-76.908977"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.790348,40.863576],"type":"Point"},"properties":{"a":"40.863576","cty":"NORTHUMBERLAND","id":8828124,"mun":"UPPER AUGUSTA TWP","nc":22,"o":"-76.790348"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.727663,41.352697],"type":"Point"},"properties":{"a":"41.352697","cty":"LACKAWANNA","id":8828125,"mun":"MOOSIC BORO","nc":7,"o":"-75.727663"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.897916,41.242234],"type":"Point"},"properties":{"a":"41.242234","cty":"LUZERNE","id":8828138,"mun":"WILKES-BARRE","nc":12,"o":"-75.897916"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.197231,40.147506],"type":"Point"},"properties":{"a":"40.147506","cty":"LANCASTER","id":8828140,"mun":"WEST EARL TWP","nc":2,"o":"-76.197231"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.509346,41.572095],"type":"Point"},"properties":{"a":"41.572095","cty":"LACKAWANNA","id":8828144,"mun":"CARBONDALE","nc":2,"o":"-75.509346"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.343647,40.039235],"type":"Point"},"properties":{"a":"40.039235","cty":"LANCASTER","id":8828148,"mun":"EAST HEMPFIELD TWP","nc":9,"o":"-76.343647"},"type":"Feature"},
@@ -38,5 +36,12 @@
 {"geometry":{"coordinates":[-75.879279,40.124958],"type":"Point"},"properties":{"a":"40.124958","cty":"CHESTER","id":8828161,"mun":"HONEYBROOK TWP","nc":0,"o":"-75.879279"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.160968,40.70591],"type":"Point"},"properties":{"a":"40.70591","cty":"SCHUYLKILL","id":8828162,"mun":"EAST NORWEGIAN TWP","nc":5,"o":"-76.160968"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.303516,41.107524],"type":"Point"},"properties":{"a":"41.107524","cty":"MONROE","id":8828163,"mun":"PARADISE TWP","nc":6,"o":"-75.303516"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.772971,40.908906],"type":"Point"},"properties":{"a":"40.908906","cty":"NORTHUMBERLAND","id":8828167,"mun":"POINT TWP","nc":7,"o":"-76.772971"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.772971,40.908906],"type":"Point"},"properties":{"a":"40.908906","cty":"NORTHUMBERLAND","id":8828167,"mun":"POINT TWP","nc":7,"o":"-76.772971"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.252273,40.753766],"type":"Point"},"properties":{"a":"40.753766","cty":"NORTHAMPTON","id":8828169,"mun":"STOCKERTON BORO","nc":4,"o":"-75.252273"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.188632,40.196475],"type":"Point"},"properties":{"a":"40.196475","cty":"CUMBERLAND","id":8828174,"mun":"CARLISLE BORO","nc":14,"o":"-77.188632"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.803767,40.256712],"type":"Point"},"properties":{"a":"40.256712","cty":"DAUPHIN","id":8828175,"mun":"SWATARA TWP","nc":13,"o":"-76.803767"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.96147,40.325878],"type":"Point"},"properties":{"a":"40.325878","cty":"BERKS","id":8828176,"mun":"WYOMISSING BORO","nc":3,"o":"-75.96147"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.328302,40.995995],"type":"Point"},"properties":{"a":"40.995995","cty":"COLUMBIA","id":8828177,"mun":"MIFFLIN TWP","nc":1,"o":"-76.328302"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.353273,41.284869],"type":"Point"},"properties":{"a":"41.284869","cty":"COLUMBIA","id":8828178,"mun":"SUGARLOAF TWP","nc":1,"o":"-76.353273"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.136523,40.813551],"type":"Point"},"properties":{"a":"40.813551","cty":"SCHUYLKILL","id":8828179,"mun":"MAHANOY TWP","nc":1,"o":"-76.136523"},"type":"Feature"}
 ]}
