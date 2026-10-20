@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.970778,40.79663],"type":"Point"},"properties":{"a":"40.79663","cty":"SCHUYLKILL","id":8827978,"mun":"TAMAQUA BORO","nc":1,"o":"-75.970778"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.987524,40.837084],"type":"Point"},"properties":{"a":"40.837084","cty":"SCHUYLKILL","id":8827983,"mun":"RUSH TWP","nc":1,"o":"-75.987524"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.987524,40.837084],"type":"Point"},"properties":{"a":"40.837084","cty":"SCHUYLKILL","id":8827983,"mun":"RUSH TWP","nc":1,"o":"-75.987524"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.402573,40.927796],"type":"Point"},"properties":{"a":"40.927796","cty":"MONROE","id":8827984,"mun":"CHESTNUT HILL TWP","nc":5,"o":"-75.402573"},"type":"Feature"}
 ]}
