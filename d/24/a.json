@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.513475,42.007112],"type":"Point"},"properties":{"a":"42.007112","cty":"PROVIDENCE","id":20261067195,"mun":"WOONSOCKET","nc":1,"o":"-71.513475"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.513475,42.007112],"type":"Point"},"properties":{"a":"42.007112","cty":"PROVIDENCE","id":20261067195,"mun":"WOONSOCKET","nc":1,"o":"-71.513475"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.304297,41.609851],"type":"Point"},"properties":{"a":"41.609851","cty":"NEWPORT","id":20261067207,"mun":"PORTSMOUTH","nc":1,"o":"-71.304297"},"type":"Feature"}
 ]}
