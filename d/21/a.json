@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.677526,44.693156],"type":"Point"},"properties":{"EstRest":"10/20/2026 2:30:00 AM","Outages":19,"cause":"Equipment Interruption","county":"SOMERSET","crewstatus":"DISP ","customers":24,"hamlet":"FAIRFIELD","incidentnumber":"00443Z","incidents":1,"level":"street","opco":"CMP","street":"MIDDLE RD","town":"FAIRFIELD"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.681273,44.685883],"type":"Point"},"properties":{"EstRest":"10/20/2026 2:30:00 AM","Outages":26,"county":"SOMERSET","customers":31730,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+
 ]}
