@@ -3,8 +3,6 @@
 {"geometry":{"coordinates":[-71.368003,41.705442],"type":"Point"},"properties":{"a":"41.705442","cty":"KENT","id":20261067273,"mun":"WARWICK","nc":4,"o":"-71.368003"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.35502,41.768182],"type":"Point"},"properties":{"a":"41.768182","cty":"PROVIDENCE","id":20261067328,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.35502"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.254333,41.589309],"type":"Point"},"properties":{"a":"41.589309","cty":"NEWPORT","id":20261067329,"mun":"PORTSMOUTH","nc":1,"o":"-71.254333"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.46691,41.644381],"type":"Point"},"properties":{"a":"41.644381","cty":"KENT","id":20261067331,"mun":"EAST GREENWICH","nc":1,"o":"-71.46691"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.275411,41.482001],"type":"Point"},"properties":{"a":"41.482001","cty":"NEWPORT","id":20261067336,"mun":"MIDDLETOWN","nc":1,"o":"-71.275411"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.308544,41.491539],"type":"Point"},"properties":{"a":"41.491539","cty":"NEWPORT","id":20261067338,"mun":"NEWPORT","nc":77,"o":"-71.308544"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.524415,41.711558],"type":"Point"},"properties":{"a":"41.711558","cty":"KENT","id":20261067344,"mun":"WEST WARWICK","nc":1,"o":"-71.524415"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.791432,41.795323],"type":"Point"},"properties":{"a":"41.795323","cty":"PROVIDENCE","id":20261067345,"mun":"FOSTER","nc":1,"o":"-71.791432"},"type":"Feature"},
