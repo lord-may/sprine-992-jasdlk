@@ -6,21 +6,18 @@
 {"geometry":{"coordinates":[-71.423605,41.534536],"type":"Point"},"properties":{"a":"41.534536","cty":"WASHINGTON","id":20261067237,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.423605"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.391391,41.770117],"type":"Point"},"properties":{"a":"41.770117","cty":"PROVIDENCE","id":20261067239,"mun":"CRANSTON","nc":1,"o":"-71.391391"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.588568,41.700793],"type":"Point"},"properties":{"a":"41.700793","cty":"KENT","id":20261067242,"mun":"COVENTRY","nc":1,"o":"-71.588568"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.38068,41.676841],"type":"Point"},"properties":{"a":"41.676841","cty":"KENT","id":20261067246,"mun":"WARWICK","nc":1,"o":"-71.38068"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.248158,41.512236],"type":"Point"},"properties":{"a":"41.512236","cty":"NEWPORT","id":20261067247,"mun":"MIDDLETOWN","nc":1,"o":"-71.248158"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.395566,41.791852],"type":"Point"},"properties":{"a":"41.791852","cty":"PROVIDENCE","id":20261067248,"mun":"PROVIDENCE","nc":1,"o":"-71.395566"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.308028,41.488385],"type":"Point"},"properties":{"a":"41.488385","cty":"NEWPORT","id":20261067249,"mun":"NEWPORT","nc":51,"o":"-71.308028"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.27249,41.48368],"type":"Point"},"properties":{"a":"41.48368","cty":"NEWPORT","hp":true,"id":20261067252,"mun":"MIDDLETOWN","nc":107,"ne":{"a":"41.48719","o":"-71.26846"},"o":"-71.27249","sw":{"a":"41.48017","o":"-71.27651"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.340695,41.765318],"type":"Point"},"properties":{"a":"41.765318","cty":"PROVIDENCE","id":20261067256,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.340695"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.51885,41.76829],"type":"Point"},"properties":{"a":"41.76829","cty":"PROVIDENCE","hp":true,"id":20261067263,"mun":"CRANSTON","nc":116,"ne":{"a":"41.77262","o":"-71.51487"},"o":"-71.51885","sw":{"a":"41.76395","o":"-71.52284"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.388226,41.533514],"type":"Point"},"properties":{"a":"41.533514","cty":"NEWPORT","id":20261067266,"mun":"JAMESTOWN","nc":1,"o":"-71.388226"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.486826,41.72004],"type":"Point"},"properties":{"a":"41.72004","cty":"KENT","id":20261067267,"mun":"WARWICK","nc":1,"o":"-71.486826"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.809111,41.332071],"type":"Point"},"properties":{"a":"41.332071","cty":"WASHINGTON","id":20261067268,"mun":"WESTERLY","nc":1,"o":"-71.809111"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.442472,41.714333],"type":"Point"},"properties":{"a":"41.714333","cty":"KENT","id":20261067269,"mun":"WARWICK","nc":1,"o":"-71.442472"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.473271,41.966096],"type":"Point"},"properties":{"a":"41.966096","cty":"PROVIDENCE","id":20261067271,"mun":"LINCOLN","nc":1,"o":"-71.473271"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.368003,41.705442],"type":"Point"},"properties":{"a":"41.705442","cty":"KENT","id":20261067273,"mun":"WARWICK","nc":4,"o":"-71.368003"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.202843,41.660131],"type":"Point"},"properties":{"a":"41.660131","cty":"NEWPORT","id":20261067274,"mun":"TIVERTON","nc":1,"o":"-71.202843"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.604742,41.869738],"type":"Point"},"properties":{"a":"41.869738","cty":"PROVIDENCE","id":20261067275,"mun":"GLOCESTER","nc":1,"o":"-71.604742"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.364764,41.789186],"type":"Point"},"properties":{"a":"41.789186","cty":"PROVIDENCE","id":20261067276,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.364764"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.366204,41.500377],"type":"Point"},"properties":{"a":"41.500377","cty":"NEWPORT","id":20261067277,"mun":"JAMESTOWN","nc":1,"o":"-71.366204"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.366204,41.500377],"type":"Point"},"properties":{"a":"41.500377","cty":"NEWPORT","id":20261067277,"mun":"JAMESTOWN","nc":1,"o":"-71.366204"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.518362,41.723266],"type":"Point"},"properties":{"a":"41.723266","cty":"KENT","id":20261067280,"mun":"WEST WARWICK","nc":7,"o":"-71.518362"},"type":"Feature"}
 ]}
