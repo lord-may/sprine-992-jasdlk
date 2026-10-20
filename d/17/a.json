@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.93717,38.49831],"type":"Point"},"properties":{"cause":{"EN-US":"CABLE FAILURE","orig":"1102"},"cluster":false,"comments":null,"crew_icon":true,"crew_status":{"EN-US":"Working","orig":"W"},"cust_a":{"val":4},"etr":"2026-10-20T16:00:03Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-10-20T09:45:23Z","title":"Area Outage"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.40501,38.25919],"type":"Point"},"properties":{"cause":{},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Known Outage","orig":"U"},"cust_a":{"val":2},"etr":"ETR-NULL","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-10-20T12:26:05Z","title":"Area Outage"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.58384,38.34112],"type":"Point"},"properties":{"cause":{},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Accepted","orig":"D"},"cust_a":{"val":2},"etr":"ETR-NULL","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-10-20T12:34:41Z","title":"Area Outage"},"type":"Feature"}
 ]}
