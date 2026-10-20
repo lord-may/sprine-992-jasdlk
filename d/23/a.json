@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.307387,41.462888],"type":"Point"},"properties":{"a":"41.462888","cty":"WAYNE","id":8828013,"mun":"LAKE TWP","nc":2,"o":"-75.307387"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.729695,41.352775],"type":"Point"},"properties":{"a":"41.352775","cty":"LACKAWANNA","id":8828014,"mun":"MOOSIC BORO","nc":10,"o":"-75.729695"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.861577,40.272529],"type":"Point"},"properties":{"a":"40.272529","cty":"DAUPHIN","id":8828017,"mun":"HARRISBURG","nc":1,"o":"-76.861577"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.004442,41.440411],"type":"Point"},"properties":{"a":"41.440411","cty":"PIKE","id":8828019,"mun":"LACKAWAXEN TWP","nc":5,"o":"-75.004442"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.004535,41.440786],"type":"Point"},"properties":{"a":"41.440786","cty":"PIKE","id":8828020,"mun":"LACKAWAXEN TWP","nc":5,"o":"-75.004535"},"type":"Feature"}
 ]}
