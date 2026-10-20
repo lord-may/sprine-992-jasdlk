@@ -8,7 +8,5 @@
 {"geometry":{"coordinates":[-75.394587,40.386685],"type":"Point"},"properties":{"a":"40.386685","cty":"BUCKS","id":8828391,"mun":"MILFORD TWP","nc":1,"o":"-75.394587"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.49275,40.59656],"type":"Point"},"properties":{"a":"40.59656","cty":"MIFFLIN","hp":true,"id":8828393,"mun":"GRANVILLE TWP","nc":13,"ne":{"a":"40.59808","o":"-77.48899"},"o":"-77.49275","sw":{"a":"40.59505","o":"-77.49652"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.474472,40.654119],"type":"Point"},"properties":{"a":"40.654119","cty":"LEHIGH","id":8828405,"mun":"CATASAUQUA BORO","nc":44,"o":"-75.474472"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.383099,41.118968],"type":"Point"},"properties":{"a":"41.118968","cty":"MONROE","id":8828407,"mun":"COOLBAUGH TWP","nc":4,"o":"-75.383099"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.379502,41.206631],"type":"Point"},"properties":{"a":"41.206631","cty":"MONROE","id":8828408,"mun":"COOLBAUGH TWP","nc":3,"o":"-75.379502"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.176907,40.217743],"type":"Point"},"properties":{"a":"40.217743","cty":"CUMBERLAND","id":8828409,"mun":"NORTH MIDDLETON TWP","nc":4,"o":"-77.176907"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.379502,41.206631],"type":"Point"},"properties":{"a":"41.206631","cty":"MONROE","id":8828408,"mun":"COOLBAUGH TWP","nc":3,"o":"-75.379502"},"type":"Feature"}
 ]}

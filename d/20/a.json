@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.558512,43.111845],"type":"Point"},"properties":{"EstRest":"10/20/2026 4:30:00 PM","Outages":3,"cause":"System Upgrade","county":"MONROE","crewstatus":"ONST ","customers":41,"hamlet":"ROCHESTER","incidentnumber":"0116H5","incidents":1,"level":"street","opco":"RGE","street":"MAYWOOD DR","town":"BRIGHTON"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.558512,43.111845],"type":"Point"},"properties":{"EstRest":"10/20/2026 4:30:00 PM","Outages":6,"county":"MONROE","customers":303507,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
+
 ]}
