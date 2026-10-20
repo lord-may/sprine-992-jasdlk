@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.397416,41.867264],"type":"Point"},"properties":{"a":"41.867264","cty":"PROVIDENCE","id":20261067388,"mun":"PAWTUCKET","nc":1,"o":"-71.397416"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.480298,41.777475],"type":"Point"},"properties":{"a":"41.777475","cty":"PROVIDENCE","id":20261067391,"mun":"CRANSTON","nc":1,"o":"-71.480298"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.490318,41.653752],"type":"Point"},"properties":{"a":"41.653752","cty":"KENT","id":20261067392,"mun":"EAST GREENWICH","nc":1,"o":"-71.490318"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.358658,41.888527],"type":"Point"},"properties":{"a":"41.888527","cty":"PROVIDENCE","id":20261067393,"mun":"PAWTUCKET","nc":1,"o":"-71.358658"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.319998,41.495674],"type":"Point"},"properties":{"a":"41.495674","cty":"NEWPORT","id":20261067394,"mun":"NEWPORT","nc":1,"o":"-71.319998"},"type":"Feature"}
 ]}

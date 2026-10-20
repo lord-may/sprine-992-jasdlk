@@ -1,3 +1,8 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-76.975374,42.274717],"type":"Point"},"properties":{"EstRest":"10/20/2026 8:00:00 PM","Outages":1,"cause":"","county":"CHEMUNG","crewstatus":"ONST ","customers":1,"hamlet":"VAN ETTEN","incidentnumber":"0116I6","incidents":1,"level":"street","opco":"NYSEG","street":"SHOEMAKER RD","town":"HORNBY T"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.975374,42.274717],"type":"Point"},"properties":{"EstRest":"10/20/2026 8:00:00 PM","Outages":1,"county":"CHEMUNG","customers":39910,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.978121,42.288207],"type":"Point"},"properties":{"EstRest":"10/20/2026 8:00:00 PM","Outages":20,"cause":"","county":"SCHUYLER","crewstatus":"ONST ","customers":41,"hamlet":"BEAVER DAMS","incidentnumber":"0116I6","incidents":1,"level":"street","opco":"NYSEG","street":"HORNBY RD","town":"ORANGE T"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.98363,42.278128],"type":"Point"},"properties":{"EstRest":"10/20/2026 8:00:00 PM","Outages":28,"county":"SCHUYLER","customers":10031,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.975374,42.274717],"type":"Point"},"properties":{"EstRest":"10/20/2026 8:00:00 PM","Outages":2,"cause":"","county":"STEUBEN","crewstatus":"ONST ","customers":2,"hamlet":"BEAVER DAMS","incidentnumber":"0116I6","incidents":1,"level":"street","opco":"NYSEG","street":"HART RD","town":"HORNBY T"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.98363,42.278128],"type":"Point"},"properties":{"EstRest":"10/20/2026 8:00:00 PM","Outages":12,"county":"STEUBEN","customers":42831,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
