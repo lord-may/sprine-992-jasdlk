@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-80.192453,41.609441],"type":"Point"},"properties":{"cause":"SCHEDULED NWREC       ","id":"335483","nbrOut":22,"planned":false,"timeOff":1792501642569},"type":"Feature"},
-{"geometry":{"coordinates":[-80.192812,41.608702],"type":"Point"},"properties":{"id":"335484","nbrOut":1,"planned":false,"timeOff":1792503086304},"type":"Feature"}
+{"geometry":{"coordinates":[-80.192453,41.609441],"type":"Point"},"properties":{"id":"335486","nbrOut":34,"planned":false,"timeOff":1792501642569},"type":"Feature"}
 ]}
