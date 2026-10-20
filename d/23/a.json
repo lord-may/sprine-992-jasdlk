@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.987524,40.837084],"type":"Point"},"properties":{"a":"40.837084","cty":"SCHUYLKILL","id":8827983,"mun":"RUSH TWP","nc":1,"o":"-75.987524"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.861577,40.272529],"type":"Point"},"properties":{"a":"40.272529","cty":"DAUPHIN","id":8827986,"mun":"HARRISBURG","nc":1,"o":"-76.861577"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.470526,40.606411],"type":"Point"},"properties":{"a":"40.606411","cty":"LEHIGH","id":8827987,"mun":"ALLENTOWN","nc":1,"o":"-75.470526"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.861577,40.272529],"type":"Point"},"properties":{"a":"40.272529","cty":"DAUPHIN","id":8827986,"mun":"HARRISBURG","nc":1,"o":"-76.861577"},"type":"Feature"}
 ]}

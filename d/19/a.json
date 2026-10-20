@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.592614,43.039153],"type":"Point"},"properties":{"EstRest":"10/20/2026 3:00:00 AM","Outages":18,"cause":"","county":"CAYUGA","crewstatus":"ONST ","customers":18,"hamlet":"WEEDSPORT","incidentnumber":"0116A2","incidents":1,"level":"street","opco":"NYSEG","street":"CENTERPORT RD","town":"MENTZ T"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.592922,43.041824],"type":"Point"},"properties":{"EstRest":"10/20/2026 3:00:00 AM","Outages":26,"county":"CAYUGA","customers":32356,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+
 ]}
