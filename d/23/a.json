@@ -2,7 +2,6 @@
 {"geometry":{"coordinates":[-76.248297,40.040348],"type":"Point"},"properties":{"a":"40.040348","cty":"LANCASTER","id":8827579,"mun":"EAST LAMPETER TWP","nc":1,"o":"-76.248297"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.26484,40.037408],"type":"Point"},"properties":{"a":"40.037408","cty":"LANCASTER","id":8827581,"mun":"EAST LAMPETER TWP","nc":1,"o":"-76.26484"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.966636,40.299203],"type":"Point"},"properties":{"a":"40.299203","cty":"BERKS","id":8827926,"mun":"SHILLINGTON BORO","nc":40,"o":"-75.966636"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.0343,40.04992],"type":"Point"},"properties":{"a":"40.04992","cty":"LANCASTER","hp":true,"id":8827939,"mun":"SALISBURY TWP","nc":83,"ne":{"a":"40.06464","o":"-76.01174"},"o":"-76.0343","sw":{"a":"40.03519","o":"-76.05686"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.253066,41.01485],"type":"Point"},"properties":{"a":"41.01485","cty":"COLUMBIA","id":8827953,"mun":"MIFFLIN TWP","nc":2,"o":"-76.253066"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.495721,40.682836],"type":"Point"},"properties":{"a":"40.682836","cty":"NORTHAMPTON","id":8827965,"mun":"NORTHAMPTON BORO","nc":38,"o":"-75.495721"},"type":"Feature"}
 ]}
