@@ -4,8 +4,6 @@
 {"geometry":{"coordinates":[-76.80654,41.06969],"type":"Point"},"properties":{"a":"41.06969","cty":"NORTHUMBERLAND","hp":true,"id":8828191,"mun":"DELAWARE TWP","nc":7,"ne":{"a":"41.07309","o":"-76.80233"},"o":"-76.80654","sw":{"a":"41.06629","o":"-76.81075"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.414244,41.004521],"type":"Point"},"properties":{"a":"41.004521","cty":"COLUMBIA","id":8828260,"mun":"SCOTT TWP","nc":5,"o":"-76.414244"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.982595,41.253412],"type":"Point"},"properties":{"a":"41.253412","cty":"LYCOMING","id":8828299,"mun":"WILLIAMSPORT","nc":3,"o":"-76.982595"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.206233,41.048743],"type":"Point"},"properties":{"a":"41.048743","cty":"CLINTON","id":8828300,"mun":"GREENE TWP","nc":1,"o":"-77.206233"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.11043,41.57684],"type":"Point"},"properties":{"a":"41.57684","cty":"WAYNE","hp":true,"id":8828325,"mun":"BERLIN TWP","nc":243,"ne":{"a":"41.59735","o":"-75.07141"},"o":"-75.11043","sw":{"a":"41.55633","o":"-75.14945"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.132448,40.33093],"type":"Point"},"properties":{"a":"40.33093","cty":"BERKS","id":8828326,"mun":"SOUTH HEIDELBERG TWP","nc":3,"o":"-76.132448"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.023188,40.332098],"type":"Point"},"properties":{"a":"40.332098","cty":"BERKS","id":8828330,"mun":"SINKING SPRING BORO","nc":4,"o":"-76.023188"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.452026,41.362819],"type":"Point"},"properties":{"a":"41.362819","cty":"LACKAWANNA","id":8828333,"mun":"MADISON TWP","nc":1,"o":"-75.452026"},"type":"Feature"},
@@ -13,6 +11,7 @@
 {"geometry":{"coordinates":[-77.097855,40.205771],"type":"Point"},"properties":{"a":"40.205771","cty":"CUMBERLAND","id":8828365,"mun":"SILVER SPRING TWP","nc":1,"o":"-77.097855"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.015977,41.085515],"type":"Point"},"properties":{"a":"41.085515","cty":"LUZERNE","id":8828368,"mun":"DORRANCE TWP","nc":1,"o":"-76.015977"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.65966,40.86855],"type":"Point"},"properties":{"a":"40.86855","cty":"CARBON","hp":true,"id":8828371,"mun":"FRANKLIN TWP","nc":569,"ne":{"a":"40.88707","o":"-75.6367"},"o":"-75.65966","sw":{"a":"40.85004","o":"-75.68262"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.500691,40.63705],"type":"Point"},"properties":{"a":"40.63705","cty":"LEHIGH","id":8828374,"mun":"WHITEHALL TWP","nc":5,"o":"-75.500691"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.735602,41.368218],"type":"Point"},"properties":{"a":"41.368218","cty":"LACKAWANNA","id":8828380,"mun":"OLD FORGE BORO","nc":2,"o":"-75.735602"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.735602,41.368218],"type":"Point"},"properties":{"a":"41.368218","cty":"LACKAWANNA","id":8828380,"mun":"OLD FORGE BORO","nc":2,"o":"-75.735602"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.79543,41.45839],"type":"Point"},"properties":{"a":"41.45839","cty":"LACKAWANNA","hp":true,"id":8828383,"mun":"NEWTON TWP","nc":9,"ne":{"a":"41.45915","o":"-75.79515"},"o":"-75.79543","sw":{"a":"41.45764","o":"-75.7957"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.119899,41.58674],"type":"Point"},"properties":{"a":"41.58674","cty":"WAYNE","id":8828386,"mun":"BERLIN TWP","nc":1,"o":"-75.119899"},"type":"Feature"}
 ]}
