@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.513475,42.007112],"type":"Point"},"properties":{"a":"42.007112","cty":"PROVIDENCE","id":20261067195,"mun":"WOONSOCKET","nc":1,"o":"-71.513475"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.438921,41.771918],"type":"Point"},"properties":{"a":"41.771918","cty":"PROVIDENCE","id":20261067210,"mun":"CRANSTON","nc":1,"o":"-71.438921"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.399034,41.888745],"type":"Point"},"properties":{"a":"41.888745","cty":"PROVIDENCE","id":20261067211,"mun":"CENTRAL FALLS","nc":1,"o":"-71.399034"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.453687,41.826723],"type":"Point"},"properties":{"a":"41.826723","cty":"PROVIDENCE","id":20261067212,"mun":"PROVIDENCE","nc":1,"o":"-71.453687"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.438921,41.771918],"type":"Point"},"properties":{"a":"41.771918","cty":"PROVIDENCE","id":20261067210,"mun":"CRANSTON","nc":1,"o":"-71.438921"},"type":"Feature"}
 ]}
