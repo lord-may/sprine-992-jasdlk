@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.490318,41.653752],"type":"Point"},"properties":{"a":"41.653752","cty":"KENT","id":20261067392,"mun":"EAST GREENWICH","nc":1,"o":"-71.490318"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.602206,41.825528],"type":"Point"},"properties":{"a":"41.825528","cty":"PROVIDENCE","id":20261067396,"mun":"SCITUATE","nc":1,"o":"-71.602206"},"type":"Feature"}
 ]}
