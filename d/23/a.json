@@ -8,7 +8,8 @@
 {"geometry":{"coordinates":[-76.015977,41.085515],"type":"Point"},"properties":{"a":"41.085515","cty":"LUZERNE","id":8828368,"mun":"DORRANCE TWP","nc":1,"o":"-76.015977"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.65966,40.86855],"type":"Point"},"properties":{"a":"40.86855","cty":"CARBON","hp":true,"id":8828371,"mun":"FRANKLIN TWP","nc":569,"ne":{"a":"40.88707","o":"-75.6367"},"o":"-75.65966","sw":{"a":"40.85004","o":"-75.68262"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.735602,41.368218],"type":"Point"},"properties":{"a":"41.368218","cty":"LACKAWANNA","id":8828380,"mun":"OLD FORGE BORO","nc":2,"o":"-75.735602"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.119899,41.58674],"type":"Point"},"properties":{"a":"41.58674","cty":"WAYNE","id":8828386,"mun":"BERLIN TWP","nc":1,"o":"-75.119899"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.072651,41.3091],"type":"Point"},"properties":{"a":"41.3091","cty":"PIKE","id":8828390,"mun":"BLOOMING GROVE TWP","nc":1,"o":"-75.072651"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.394587,40.386685],"type":"Point"},"properties":{"a":"40.386685","cty":"BUCKS","id":8828391,"mun":"MILFORD TWP","nc":1,"o":"-75.394587"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.394587,40.386685],"type":"Point"},"properties":{"a":"40.386685","cty":"BUCKS","id":8828391,"mun":"MILFORD TWP","nc":1,"o":"-75.394587"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.49275,40.59656],"type":"Point"},"properties":{"a":"40.59656","cty":"MIFFLIN","hp":true,"id":8828393,"mun":"GRANVILLE TWP","nc":13,"ne":{"a":"40.59808","o":"-77.48899"},"o":"-77.49275","sw":{"a":"40.59505","o":"-77.49652"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.80347,40.27209],"type":"Point"},"properties":{"a":"40.27209","cty":"DAUPHIN","hp":true,"id":8828396,"mun":"LOWER PAXTON TWP","nc":39,"ne":{"a":"40.27334","o":"-76.80213"},"o":"-76.80347","sw":{"a":"40.27084","o":"-76.80482"}},"type":"Feature"}
 ]}
