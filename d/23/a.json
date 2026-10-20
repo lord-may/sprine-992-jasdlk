@@ -1,10 +1,8 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.132448,40.33093],"type":"Point"},"properties":{"a":"40.33093","cty":"BERKS","id":8828326,"mun":"SOUTH HEIDELBERG TWP","nc":3,"o":"-76.132448"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.604352,40.500047],"type":"Point"},"properties":{"a":"40.500047","cty":"NA","id":8828342,"mun":"NA","nc":5,"o":"-75.604352"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.015977,41.085515],"type":"Point"},"properties":{"a":"41.085515","cty":"LUZERNE","id":8828368,"mun":"DORRANCE TWP","nc":1,"o":"-76.015977"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.67688,40.87624],"type":"Point"},"properties":{"a":"40.87624","cty":"CARBON","hp":true,"id":8828371,"mun":"FRANKLIN TWP","nc":21,"ne":{"a":"40.88451","o":"-75.67271"},"o":"-75.67688","sw":{"a":"40.86798","o":"-75.68105"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.394587,40.386685],"type":"Point"},"properties":{"a":"40.386685","cty":"BUCKS","id":8828391,"mun":"MILFORD TWP","nc":1,"o":"-75.394587"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.49275,40.59656],"type":"Point"},"properties":{"a":"40.59656","cty":"MIFFLIN","hp":true,"id":8828393,"mun":"GRANVILLE TWP","nc":13,"ne":{"a":"40.59808","o":"-77.48899"},"o":"-77.49275","sw":{"a":"40.59505","o":"-77.49652"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.474472,40.654119],"type":"Point"},"properties":{"a":"40.654119","cty":"LEHIGH","id":8828405,"mun":"CATASAUQUA BORO","nc":44,"o":"-75.474472"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.47399,40.62051],"type":"Point"},"properties":{"a":"40.62051","cty":"LEHIGH","hp":true,"id":8828414,"mun":"WHITEHALL TWP","nc":9,"ne":{"a":"40.62135","o":"-75.47383"},"o":"-75.47399","sw":{"a":"40.61967","o":"-75.47415"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.474472,40.654119],"type":"Point"},"properties":{"a":"40.654119","cty":"LEHIGH","id":8828405,"mun":"CATASAUQUA BORO","nc":44,"o":"-75.474472"},"type":"Feature"}
 ]}

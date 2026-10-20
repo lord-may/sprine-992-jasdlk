@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.525281,44.207908],"type":"Point"},"properties":{"EstRest":"10/20/2026 6:15:00 PM","Outages":9,"cause":"","county":"OXFORD","crewstatus":"ONST ","customers":13,"hamlet":"NORWAY","incidentnumber":"004483","incidents":1,"level":"street","opco":"CMP","street":"BROWN ST","town":"NORWAY"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.525281,44.207908],"type":"Point"},"properties":{"EstRest":"10/20/2026 6:15:00 PM","Outages":9,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.800381,44.61881],"type":"Point"},"properties":{"EstRest":"10/20/2026 6:45:00 PM","Outages":2,"cause":"Equipment Interruption","county":"SOMERSET","crewstatus":"ONST ","customers":2,"hamlet":"SMITHFIELD","incidentnumber":"00447I","incidents":1,"level":"street","opco":"CMP","street":"WHITE BIRCH LN","town":"SMITHFIELD"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.800847,44.619299],"type":"Point"},"properties":{"EstRest":"10/20/2026 6:45:00 PM","Outages":16,"county":"SOMERSET","customers":31730,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
