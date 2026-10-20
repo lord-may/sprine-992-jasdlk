@@ -7,11 +7,10 @@
 {"geometry":{"coordinates":[-71.395058,41.788278],"type":"Point"},"properties":{"a":"41.788278","cty":"PROVIDENCE","id":20261067303,"mun":"PROVIDENCE","nc":1,"o":"-71.395058"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.695257,41.902908],"type":"Point"},"properties":{"a":"41.902908","cty":"PROVIDENCE","id":20261067306,"mun":"GLOCESTER","nc":1,"o":"-71.695257"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.51199,42.00942],"type":"Point"},"properties":{"a":"42.00942","cty":"PROVIDENCE","hp":true,"id":20261067314,"mun":"WOONSOCKET","nc":25,"ne":{"a":"42.01021","o":"-71.51118"},"o":"-71.51199","sw":{"a":"42.00862","o":"-71.51279"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.292775,41.737022],"type":"Point"},"properties":{"a":"41.737022","cty":"BRISTOL","id":20261067319,"mun":"BARRINGTON","nc":1,"o":"-71.292775"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.35502,41.768182],"type":"Point"},"properties":{"a":"41.768182","cty":"PROVIDENCE","id":20261067328,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.35502"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.254333,41.589309],"type":"Point"},"properties":{"a":"41.589309","cty":"NEWPORT","id":20261067329,"mun":"PORTSMOUTH","nc":1,"o":"-71.254333"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.46691,41.644381],"type":"Point"},"properties":{"a":"41.644381","cty":"KENT","id":20261067331,"mun":"EAST GREENWICH","nc":1,"o":"-71.46691"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.504077,42.01059],"type":"Point"},"properties":{"a":"42.01059","cty":"PROVIDENCE","id":20261067333,"mun":"WOONSOCKET","nc":1,"o":"-71.504077"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.337106,41.736001],"type":"Point"},"properties":{"a":"41.736001","cty":"BRISTOL","id":20261067334,"mun":"BARRINGTON","nc":1,"o":"-71.337106"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.275411,41.482001],"type":"Point"},"properties":{"a":"41.482001","cty":"NEWPORT","id":20261067336,"mun":"MIDDLETOWN","nc":1,"o":"-71.275411"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.275411,41.482001],"type":"Point"},"properties":{"a":"41.482001","cty":"NEWPORT","id":20261067336,"mun":"MIDDLETOWN","nc":1,"o":"-71.275411"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.308544,41.491539],"type":"Point"},"properties":{"a":"41.491539","cty":"NEWPORT","id":20261067338,"mun":"NEWPORT","nc":77,"o":"-71.308544"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.51186,42.012789],"type":"Point"},"properties":{"a":"42.012789","cty":"PROVIDENCE","id":20261067340,"mun":"WOONSOCKET","nc":1,"o":"-71.51186"},"type":"Feature"}
 ]}
