@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.392705,41.86964],"type":"Point"},"properties":{"a":"41.86964","cty":"PROVIDENCE","id":20261067403,"mun":"PAWTUCKET","nc":1,"o":"-71.392705"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.319998,41.495674],"type":"Point"},"properties":{"a":"41.495674","cty":"NEWPORT","id":20261067404,"mun":"NEWPORT","nc":1,"o":"-71.319998"},"type":"Feature"}
 ]}
