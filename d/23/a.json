@@ -5,5 +5,7 @@
 {"geometry":{"coordinates":[-77.49275,40.59656],"type":"Point"},"properties":{"a":"40.59656","cty":"MIFFLIN","hp":true,"id":8828393,"mun":"GRANVILLE TWP","nc":13,"ne":{"a":"40.59808","o":"-77.48899"},"o":"-77.49275","sw":{"a":"40.59505","o":"-77.49652"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.474472,40.654119],"type":"Point"},"properties":{"a":"40.654119","cty":"LEHIGH","id":8828405,"mun":"CATASAUQUA BORO","nc":44,"o":"-75.474472"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.327356,41.076386],"type":"Point"},"properties":{"a":"41.076386","cty":"COLUMBIA","id":8828420,"mun":"NORTH CENTRE TWP","nc":2,"o":"-76.327356"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.51181,41.43452],"type":"Point"},"properties":{"a":"41.43452","cty":"LACKAWANNA","hp":true,"id":8828423,"mun":"JEFFERSON TWP","nc":54,"ne":{"a":"41.43721","o":"-75.50944"},"o":"-75.51181","sw":{"a":"41.43182","o":"-75.51419"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.51181,41.43452],"type":"Point"},"properties":{"a":"41.43452","cty":"LACKAWANNA","hp":true,"id":8828423,"mun":"JEFFERSON TWP","nc":54,"ne":{"a":"41.43721","o":"-75.50944"},"o":"-75.51181","sw":{"a":"41.43182","o":"-75.51419"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.915071,40.230868],"type":"Point"},"properties":{"a":"40.230868","cty":"CUMBERLAND","id":8828427,"mun":"LOWER ALLEN TWP","nc":2,"o":"-76.915071"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.793909,40.247234],"type":"Point"},"properties":{"a":"40.247234","cty":"DAUPHIN","id":8828428,"mun":"SWATARA TWP","nc":1,"o":"-76.793909"},"type":"Feature"}
 ]}
