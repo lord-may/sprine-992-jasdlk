@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.28426,41.7134],"type":"Point"},"properties":{"a":"41.7134","cty":"BRISTOL","hp":true,"id":20261067222,"mun":"WARREN","nc":29,"ne":{"a":"41.7143","o":"-71.28347"},"o":"-71.28426","sw":{"a":"41.71249","o":"-71.28504"}},"type":"Feature"}
+{"geometry":{"coordinates":[-71.28426,41.7134],"type":"Point"},"properties":{"a":"41.7134","cty":"BRISTOL","hp":true,"id":20261067222,"mun":"WARREN","nc":29,"ne":{"a":"41.7143","o":"-71.28347"},"o":"-71.28426","sw":{"a":"41.71249","o":"-71.28504"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.58741,41.89233],"type":"Point"},"properties":{"a":"41.89233","cty":"PROVIDENCE","hp":true,"id":20261067223,"mun":"GLOCESTER","nc":9,"ne":{"a":"41.89382","o":"-71.5865"},"o":"-71.58741","sw":{"a":"41.89083","o":"-71.58832"}},"type":"Feature"}
 ]}
