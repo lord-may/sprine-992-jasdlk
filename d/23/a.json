@@ -1,9 +1,12 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.518847,40.905689],"type":"Point"},"properties":{"a":"40.905689","cty":"COLUMBIA","id":8828758,"mun":"FRANKLIN TWP","nc":2,"o":"-76.518847"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.271442,40.560854],"type":"Point"},"properties":{"a":"40.560854","cty":"BUCKS","id":8828773,"mun":"SPRINGFIELD TWP","nc":1,"o":"-75.271442"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.553209,41.487569],"type":"Point"},"properties":{"a":"41.487569","cty":"LACKAWANNA","id":8828777,"mun":"ARCHBALD BORO","nc":3,"o":"-75.553209"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.77165,40.81668],"type":"Point"},"properties":{"a":"40.81668","cty":"NORTHUMBERLAND","hp":true,"id":8828792,"mun":"LOWER AUGUSTA TWP","nc":49,"ne":{"a":"40.82036","o":"-76.75748"},"o":"-76.77165","sw":{"a":"40.813","o":"-76.78582"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.7768,40.81668],"type":"Point"},"properties":{"a":"40.81668","cty":"NORTHUMBERLAND","hp":true,"id":8828792,"mun":"LOWER AUGUSTA TWP","nc":30,"ne":{"a":"40.82036","o":"-76.76779"},"o":"-76.7768","sw":{"a":"40.813","o":"-76.78582"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.152669,40.64218],"type":"Point"},"properties":{"a":"40.64218","cty":"SCHUYLKILL","id":8828802,"mun":"NORTH MANHEIM TWP","nc":1,"o":"-76.152669"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.042629,41.327764],"type":"Point"},"properties":{"a":"41.327764","cty":"PIKE","id":8828819,"mun":"BLOOMING GROVE TWP","nc":4,"o":"-75.042629"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.783995,41.565592],"type":"Point"},"properties":{"a":"41.565592","cty":"WYOMING","id":8828820,"mun":"FACTORYVILLE BORO","nc":10,"o":"-75.783995"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.783995,41.565592],"type":"Point"},"properties":{"a":"41.565592","cty":"WYOMING","id":8828820,"mun":"FACTORYVILLE BORO","nc":10,"o":"-75.783995"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.31827,40.074028],"type":"Point"},"properties":{"a":"40.074028","cty":"LANCASTER","id":8828825,"mun":"MANHEIM TWP","nc":6,"o":"-76.31827"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.247767,40.056936],"type":"Point"},"properties":{"a":"40.056936","cty":"LANCASTER","id":8828831,"mun":"EAST LAMPETER TWP","nc":9,"o":"-76.247767"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.656472,40.282481],"type":"Point"},"properties":{"a":"40.282481","cty":"DAUPHIN","id":8828833,"mun":"DERRY TWP","nc":14,"o":"-76.656472"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.319723,40.023564],"type":"Point"},"properties":{"a":"40.023564","cty":"LANCASTER","id":8828835,"mun":"LANCASTER","nc":19,"o":"-76.319723"},"type":"Feature"}
 ]}
