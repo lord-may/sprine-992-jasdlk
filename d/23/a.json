@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.07416,41.59601],"type":"Point"},"properties":{"a":"41.59601","cty":"WAYNE","hp":true,"id":8828471,"mun":"BERLIN TWP","nc":150,"ne":{"a":"41.61146","o":"-75.04779"},"o":"-75.07416","sw":{"a":"41.58056","o":"-75.10054"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.634282,40.548609],"type":"Point"},"properties":{"a":"40.548609","cty":"LEHIGH","id":8828484,"mun":"UPPER MACUNGIE TWP","nc":4,"o":"-75.634282"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.07416,41.59601],"type":"Point"},"properties":{"a":"41.59601","cty":"WAYNE","hp":true,"id":8828471,"mun":"BERLIN TWP","nc":150,"ne":{"a":"41.61146","o":"-75.04779"},"o":"-75.07416","sw":{"a":"41.58056","o":"-75.10054"}},"type":"Feature"}
 ]}
