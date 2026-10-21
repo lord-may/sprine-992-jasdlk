@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.144912,42.447916],"type":"Point"},"properties":{"EstRest":"10/21/2026 1:30:00 AM","Outages":63,"county":"OTSEGO","customers":25547,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.055818,42.573397],"type":"Point"},"properties":{"EstRest":"10/21/2026 1:30:00 AM","Outages":62,"county":"OTSEGO","customers":25547,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.056454,42.574239],"type":"Point"},"properties":{"EstRest":"10/21/2026 1:30:00 AM","Outages":35,"cause":"","county":"OTSEGO","crewstatus":"ONST ","customers":96,"hamlet":"MOUNT VISION","incidentnumber":"0116JJ","incidents":1,"level":"street","opco":"NYSEG","street":"STATE HIGHWAY 205","town":"LAURENS T"},"type":"Feature"},
 {"geometry":{"coordinates":[-74.756243,41.813804],"type":"Point"},"properties":{"EstRest":"10/21/2026 10:15:00 PM","Outages":154,"county":"SULLIVAN","customers":50281,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-74.765932,41.816153],"type":"Point"},"properties":{"EstRest":"10/21/2026 10:15:00 PM","Outages":2,"cause":"Tree","county":"SULLIVAN","crewstatus":"CMPL ","customers":3,"hamlet":"LIBERTY","incidentnumber":"0116J6","incidents":1,"level":"street","opco":"NYSEG","street":"FIREMAN PARK RD","town":"LIBERTY T"},"type":"Feature"}
 ]}
