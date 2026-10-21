@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.29611,41.50225],"type":"Point"},"properties":{"a":"41.50225","cty":"NEWPORT","hp":true,"id":20261067433,"mun":"MIDDLETOWN","nc":37,"ne":{"a":"41.50312","o":"-71.29528"},"o":"-71.29611","sw":{"a":"41.50137","o":"-71.29695"}},"type":"Feature"}
+{"geometry":{"coordinates":[-71.29611,41.50225],"type":"Point"},"properties":{"a":"41.50225","cty":"NEWPORT","hp":true,"id":20261067433,"mun":"MIDDLETOWN","nc":37,"ne":{"a":"41.50312","o":"-71.29528"},"o":"-71.29611","sw":{"a":"41.50137","o":"-71.29695"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.493642,41.698901],"type":"Point"},"properties":{"a":"41.698901","cty":"KENT","id":20261067434,"mun":"WARWICK","nc":1,"o":"-71.493642"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.500364,42.008783],"type":"Point"},"properties":{"a":"42.008783","cty":"PROVIDENCE","id":20261067435,"mun":"WOONSOCKET","nc":1,"o":"-71.500364"},"type":"Feature"}
 ]}
