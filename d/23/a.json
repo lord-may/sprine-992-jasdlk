@@ -1,13 +1,9 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.54685,40.58885],"type":"Point"},"properties":{"a":"40.58885","cty":"LEHIGH","hp":true,"id":8828527,"mun":"SOUTH WHITEHALL TWP","nc":52,"ne":{"a":"40.59102","o":"-75.54603"},"o":"-75.54685","sw":{"a":"40.58667","o":"-75.54767"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.686624,41.404612],"type":"Point"},"properties":{"a":"41.404612","cty":"LACKAWANNA","id":8828543,"mun":"SCRANTON","nc":2,"o":"-75.686624"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.96379,40.56681],"type":"Point"},"properties":{"a":"40.56681","cty":"DAUPHIN","hp":true,"id":8828562,"mun":"UPPER PAXTON TWP","nc":30,"ne":{"a":"40.56936","o":"-76.95746"},"o":"-76.96379","sw":{"a":"40.56425","o":"-76.97012"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.652486,41.414908],"type":"Point"},"properties":{"a":"41.414908","cty":"LACKAWANNA","id":8828576,"mun":"SCRANTON","nc":2,"o":"-75.652486"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.580402,40.174686],"type":"Point"},"properties":{"a":"40.174686","cty":"LANCASTER","id":8828577,"mun":"MOUNT JOY TWP","nc":2,"o":"-76.580402"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.372116,40.677369],"type":"Point"},"properties":{"a":"40.677369","cty":"NORTHAMPTON","id":8828601,"mun":"BETHLEHEM TWP","nc":2,"o":"-75.372116"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.503039,41.022912],"type":"Point"},"properties":{"a":"41.022912","cty":"COLUMBIA","id":8828670,"mun":"HEMLOCK TWP","nc":1,"o":"-76.503039"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.940219,40.21767],"type":"Point"},"properties":{"a":"40.21767","cty":"CUMBERLAND","id":8828676,"mun":"LOWER ALLEN TWP","nc":3,"o":"-76.940219"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.764288,40.919092],"type":"Point"},"properties":{"a":"40.919092","cty":"NORTHUMBERLAND","id":8828686,"mun":"POINT TWP","nc":2,"o":"-76.764288"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.140375,40.286341],"type":"Point"},"properties":{"a":"40.286341","cty":"CUMBERLAND","id":8828689,"mun":"MIDDLESEX TWP","nc":1,"o":"-77.140375"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.386727,40.157179],"type":"Point"},"properties":{"a":"40.157179","cty":"LANCASTER","id":8828697,"mun":"PENN TWP","nc":2,"o":"-76.386727"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.27518,40.718494],"type":"Point"},"properties":{"a":"40.718494","cty":"SCHUYLKILL","id":8828702,"mun":"CASS TWP","nc":3,"o":"-76.27518"},"type":"Feature"},
@@ -15,6 +11,7 @@
 {"geometry":{"coordinates":[-77.017626,40.280096],"type":"Point"},"properties":{"a":"40.280096","cty":"CUMBERLAND","id":8828718,"mun":"SILVER SPRING TWP","nc":1,"o":"-77.017626"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.327896,41.120162],"type":"Point"},"properties":{"a":"41.120162","cty":"COLUMBIA","id":8828719,"mun":"FISHING CREEK TWP","nc":1,"o":"-76.327896"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.932261,40.30189],"type":"Point"},"properties":{"a":"40.30189","cty":"CUMBERLAND","id":8828737,"mun":"EAST PENNSBORO TWP","nc":1,"o":"-76.932261"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.35418,40.629756],"type":"Point"},"properties":{"a":"40.629756","cty":"NORTHAMPTON","id":8828746,"mun":"BETHLEHEM","nc":1,"o":"-75.35418"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.656472,40.282481],"type":"Point"},"properties":{"a":"40.282481","cty":"DAUPHIN","id":8828755,"mun":"DERRY TWP","nc":14,"o":"-76.656472"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.518847,40.905689],"type":"Point"},"properties":{"a":"40.905689","cty":"COLUMBIA","id":8828758,"mun":"FRANKLIN TWP","nc":2,"o":"-76.518847"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.318056,40.03826],"type":"Point"},"properties":{"a":"40.03826","cty":"LANCASTER","id":8828762,"mun":"LANCASTER","nc":1,"o":"-76.318056"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.656472,40.282481],"type":"Point"},"properties":{"a":"40.282481","cty":"DAUPHIN","id":8828763,"mun":"DERRY TWP","nc":14,"o":"-76.656472"},"type":"Feature"}
 ]}

@@ -5,5 +5,7 @@
 {"geometry":{"coordinates":[-71.386259,41.837486],"type":"Point"},"properties":{"a":"41.837486","cty":"PROVIDENCE","id":20261067598,"mun":"PROVIDENCE","nc":1,"o":"-71.386259"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.628978,41.749208],"type":"Point"},"properties":{"a":"41.749208","cty":"PROVIDENCE","id":20261067603,"mun":"SCITUATE","nc":1,"o":"-71.628978"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.499625,42.007679],"type":"Point"},"properties":{"a":"42.007679","cty":"PROVIDENCE","id":20261067607,"mun":"WOONSOCKET","nc":1,"o":"-71.499625"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.646748,41.948619],"type":"Point"},"properties":{"a":"41.948619","cty":"PROVIDENCE","id":20261067611,"mun":"BURRILLVILLE","nc":13,"o":"-71.646748"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.646748,41.948619],"type":"Point"},"properties":{"a":"41.948619","cty":"PROVIDENCE","id":20261067611,"mun":"BURRILLVILLE","nc":13,"o":"-71.646748"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.464823,41.671911],"type":"Point"},"properties":{"a":"41.671911","cty":"KENT","id":20261067613,"mun":"WARWICK","nc":1,"o":"-71.464823"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.463104,41.67276],"type":"Point"},"properties":{"a":"41.67276","cty":"KENT","id":20261067614,"mun":"WARWICK","nc":6,"o":"-71.463104"},"type":"Feature"}
 ]}
