@@ -3,12 +3,10 @@
 {"geometry":{"coordinates":[-76.117648,40.2276],"type":"Point"},"properties":{"a":"40.2276","cty":"LANCASTER","id":8828495,"mun":"EAST COCALICO TWP","nc":1,"o":"-76.117648"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.43564,40.18618],"type":"Point"},"properties":{"a":"40.18618","cty":"LANCASTER","hp":true,"id":8828500,"mun":"RAPHO TWP","nc":9,"ne":{"a":"40.18747","o":"-76.43521"},"o":"-76.43564","sw":{"a":"40.18489","o":"-76.43607"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.553684,41.491303],"type":"Point"},"properties":{"a":"41.491303","cty":"LACKAWANNA","id":8828514,"mun":"ARCHBALD BORO","nc":3,"o":"-75.553684"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.200594,41.2159],"type":"Point"},"properties":{"a":"41.2159","cty":"MONROE","id":8828515,"mun":"BARRETT TWP","nc":2,"o":"-75.200594"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.866488,40.246224],"type":"Point"},"properties":{"a":"40.246224","cty":"DAUPHIN","id":8828518,"mun":"HARRISBURG","nc":1,"o":"-76.866488"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.5934,41.092998],"type":"Point"},"properties":{"a":"41.092998","cty":"MONROE","id":8828520,"mun":"TOBYHANNA TWP","nc":2,"o":"-75.5934"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.586077,40.670267],"type":"Point"},"properties":{"a":"40.670267","cty":"LEHIGH","id":8828523,"mun":"NORTH WHITEHALL TWP","nc":2,"o":"-75.586077"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.54685,40.58885],"type":"Point"},"properties":{"a":"40.58885","cty":"LEHIGH","hp":true,"id":8828527,"mun":"SOUTH WHITEHALL TWP","nc":52,"ne":{"a":"40.59102","o":"-75.54603"},"o":"-75.54685","sw":{"a":"40.58667","o":"-75.54767"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.299494,40.054222],"type":"Point"},"properties":{"a":"40.054222","cty":"LANCASTER","id":8828529,"mun":"MANHEIM TWP","nc":2,"o":"-76.299494"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.568312,41.494937],"type":"Point"},"properties":{"a":"41.494937","cty":"LACKAWANNA","id":8828531,"mun":"ARCHBALD BORO","nc":2,"o":"-75.568312"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.293815,41.462543],"type":"Point"},"properties":{"a":"41.462543","cty":"WAYNE","id":8828533,"mun":"PAUPACK TWP","nc":2,"o":"-75.293815"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.81766,40.72211],"type":"Point"},"properties":{"a":"40.72211","cty":"SCHUYLKILL","id":8828534,"mun":"WEST PENN TWP","nc":1,"o":"-75.81766"},"type":"Feature"},
@@ -18,7 +16,6 @@
 {"geometry":{"coordinates":[-75.824983,41.034863],"type":"Point"},"properties":{"a":"41.034863","cty":"LUZERNE","id":8828541,"mun":"FOSTER TWP","nc":3,"o":"-75.824983"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.299944,40.557956],"type":"Point"},"properties":{"a":"40.557956","cty":"SCHUYLKILL","id":8828542,"mun":"WASHINGTON TWP","nc":1,"o":"-76.299944"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.686624,41.404612],"type":"Point"},"properties":{"a":"41.404612","cty":"LACKAWANNA","id":8828543,"mun":"SCRANTON","nc":2,"o":"-75.686624"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.36544,40.60611],"type":"Point"},"properties":{"a":"40.60611","cty":"NORTHAMPTON","hp":true,"id":8828549,"mun":"BETHLEHEM","nc":12,"ne":{"a":"40.6068","o":"-75.36526"},"o":"-75.36544","sw":{"a":"40.60541","o":"-75.36563"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.391444,40.623173],"type":"Point"},"properties":{"a":"40.623173","cty":"LEHIGH","id":8828552,"mun":"BETHLEHEM","nc":21,"o":"-75.391444"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.785245,40.981706],"type":"Point"},"properties":{"a":"40.981706","cty":"CARBON","id":8828555,"mun":"LAUSANNE TWP","nc":1,"o":"-75.785245"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.159843,40.706682],"type":"Point"},"properties":{"a":"40.706682","cty":"SCHUYLKILL","id":8828557,"mun":"EAST NORWEGIAN TWP","nc":9,"o":"-76.159843"},"type":"Feature"},
@@ -33,8 +30,10 @@
 {"geometry":{"coordinates":[-76.496817,40.772755],"type":"Point"},"properties":{"a":"40.772755","cty":"NORTHUMBERLAND","id":8828579,"mun":"COAL TWP","nc":6,"o":"-76.496817"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.010252,40.956606],"type":"Point"},"properties":{"a":"40.956606","cty":"LUZERNE","id":8828582,"mun":"HAZLE TWP","nc":22,"o":"-76.010252"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.197973,41.487147],"type":"Point"},"properties":{"a":"41.487147","cty":"WAYNE","id":8828583,"mun":"PALMYRA TWP","nc":1,"o":"-75.197973"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.383099,41.118968],"type":"Point"},"properties":{"a":"41.118968","cty":"MONROE","id":8828584,"mun":"COOLBAUGH TWP","nc":4,"o":"-75.383099"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.008516,40.956886],"type":"Point"},"properties":{"a":"40.956886","cty":"LUZERNE","id":8828589,"mun":"HAZLE TWP","nc":22,"o":"-76.008516"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.722756,40.718922],"type":"Point"},"properties":{"a":"40.718922","cty":"NORTHUMBERLAND","id":8828590,"mun":"WASHINGTON TWP","nc":1,"o":"-76.722756"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.285912,40.356002],"type":"Point"},"properties":{"a":"40.356002","cty":"PERRY","id":8828591,"mun":"SPRING TWP","nc":1,"o":"-77.285912"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.285912,40.356002],"type":"Point"},"properties":{"a":"40.356002","cty":"PERRY","id":8828591,"mun":"SPRING TWP","nc":1,"o":"-77.285912"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.566654,41.474721],"type":"Point"},"properties":{"a":"41.474721","cty":"LACKAWANNA","id":8828592,"mun":"JESSUP BORO","nc":15,"o":"-75.566654"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.909174,41.23419],"type":"Point"},"properties":{"a":"41.23419","cty":"LUZERNE","id":8828595,"mun":"WILKES-BARRE","nc":1,"o":"-75.909174"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.764264,40.919969],"type":"Point"},"properties":{"a":"40.919969","cty":"NORTHUMBERLAND","id":8828600,"mun":"POINT TWP","nc":1,"o":"-76.764264"},"type":"Feature"}
 ]}

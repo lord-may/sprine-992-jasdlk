@@ -29,5 +29,8 @@
 {"geometry":{"coordinates":[-71.460576,41.825266],"type":"Point"},"properties":{"a":"41.825266","cty":"PROVIDENCE","id":20261067530,"mun":"PROVIDENCE","nc":1,"o":"-71.460576"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.48522,41.36647],"type":"Point"},"properties":{"a":"41.36647","cty":"WASHINGTON","hp":true,"id":20261067532,"mun":"NARRAGANSETT","nc":77,"ne":{"a":"41.37204","o":"-71.48152"},"o":"-71.48522","sw":{"a":"41.36089","o":"-71.48892"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.409428,41.803524],"type":"Point"},"properties":{"a":"41.803524","cty":"PROVIDENCE","id":20261067536,"mun":"PROVIDENCE","nc":1,"o":"-71.409428"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.517593,42.004019],"type":"Point"},"properties":{"a":"42.004019","cty":"PROVIDENCE","id":20261067537,"mun":"WOONSOCKET","nc":1,"o":"-71.517593"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.517593,42.004019],"type":"Point"},"properties":{"a":"42.004019","cty":"PROVIDENCE","id":20261067537,"mun":"WOONSOCKET","nc":1,"o":"-71.517593"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.423234,41.802328],"type":"Point"},"properties":{"a":"41.802328","cty":"PROVIDENCE","id":20261067539,"mun":"PROVIDENCE","nc":1,"o":"-71.423234"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.428753,41.934988],"type":"Point"},"properties":{"a":"41.934988","cty":"PROVIDENCE","id":20261067540,"mun":"CUMBERLAND","nc":1,"o":"-71.428753"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.315518,41.493097],"type":"Point"},"properties":{"a":"41.493097","cty":"NEWPORT","id":20261067541,"mun":"NEWPORT","nc":1,"o":"-71.315518"},"type":"Feature"}
 ]}
