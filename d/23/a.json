@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.015977,41.085515],"type":"Point"},"properties":{"a":"41.085515","cty":"LUZERNE","id":8828368,"mun":"DORRANCE TWP","nc":1,"o":"-76.015977"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.67688,40.87624],"type":"Point"},"properties":{"a":"40.87624","cty":"CARBON","hp":true,"id":8828371,"mun":"FRANKLIN TWP","nc":21,"ne":{"a":"40.88451","o":"-75.67271"},"o":"-75.67688","sw":{"a":"40.86798","o":"-75.68105"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.253057,40.401607],"type":"Point"},"properties":{"a":"40.401607","cty":"BUCKS","id":8828434,"mun":"EAST ROCKHILL TWP","nc":1,"o":"-75.253057"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.67688,40.87624],"type":"Point"},"properties":{"a":"40.87624","cty":"CARBON","hp":true,"id":8828371,"mun":"FRANKLIN TWP","nc":21,"ne":{"a":"40.88451","o":"-75.67271"},"o":"-75.67688","sw":{"a":"40.86798","o":"-75.68105"}},"type":"Feature"}
 ]}
