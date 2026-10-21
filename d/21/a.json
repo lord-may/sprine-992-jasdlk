@@ -1,8 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-70.248295,44.656576],"type":"Point"},"properties":{"EstRest":"10/21/2026 4:30:00 PM","Outages":1,"cause":"","county":"FRANKLIN","crewstatus":"ONST ","customers":7,"hamlet":"TEMPLE","incidentnumber":"0044CS","incidents":1,"level":"street","opco":"CMP","street":"PINE POINT RD","town":"TEMPLE"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.248295,44.656576],"type":"Point"},"properties":{"EstRest":"10/21/2026 4:30:00 PM","Outages":1,"county":"FRANKLIN","customers":24700,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.525175,44.207956],"type":"Point"},"properties":{"EstRest":"10/21/2026 5:00:00 PM","Outages":1,"cause":"","county":"OXFORD","crewstatus":"DISP ","customers":13,"hamlet":"NORWAY","incidentnumber":"0044CZ","incidents":1,"level":"street","opco":"CMP","street":"BROWN ST","town":"NORWAY"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.525175,44.207956],"type":"Point"},"properties":{"EstRest":"10/21/2026 5:00:00 PM","Outages":1,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.601601,45.264389],"type":"Point"},"properties":{"EstRest":"10/21/2026 5:00:00 PM","Outages":1,"cause":"","county":"PISCATAQUIS","crewstatus":"ENRT ","customers":10,"hamlet":"BLANCHARD","incidentnumber":"0044BW","incidents":1,"level":"street","opco":"CMP","street":"MOUNTAIN RD","town":"BLANCHARD"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.601601,45.264389],"type":"Point"},"properties":{"EstRest":"10/21/2026 5:00:00 PM","Outages":1,"county":"PISCATAQUIS","customers":10243,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
