@@ -1,9 +1,8 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.2834,41.71342],"type":"Point"},"properties":{"a":"41.71342","cty":"BRISTOL","hp":true,"id":20261067507,"mun":"WARREN","nc":66,"ne":{"a":"41.71435","o":"-71.28176"},"o":"-71.2834","sw":{"a":"41.71249","o":"-71.28504"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.537115,41.679315],"type":"Point"},"properties":{"a":"41.679315","cty":"KENT","id":20261067568,"mun":"COVENTRY","nc":1,"o":"-71.537115"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.706395,41.681393],"type":"Point"},"properties":{"a":"41.681393","cty":"KENT","id":20261067571,"mun":"COVENTRY","nc":1,"o":"-71.706395"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.463104,41.67276],"type":"Point"},"properties":{"a":"41.67276","cty":"KENT","id":20261067614,"mun":"WARWICK","nc":6,"o":"-71.463104"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.24954,41.512127],"type":"Point"},"properties":{"a":"41.512127","cty":"NEWPORT","id":20261067632,"mun":"MIDDLETOWN","nc":1,"o":"-71.24954"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.24954,41.512127],"type":"Point"},"properties":{"a":"41.512127","cty":"NEWPORT","id":20261067632,"mun":"MIDDLETOWN","nc":7,"o":"-71.24954"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.74459,41.35409],"type":"Point"},"properties":{"a":"41.35409","cty":"WASHINGTON","hp":true,"id":20261067636,"mun":"WESTERLY","nc":46,"ne":{"a":"41.35633","o":"-71.74198"},"o":"-71.74459","sw":{"a":"41.35185","o":"-71.74721"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.74987,41.35291],"type":"Point"},"properties":{"a":"41.35291","cty":"WASHINGTON","hp":true,"id":20261067637,"mun":"WESTERLY","nc":22,"ne":{"a":"41.35394","o":"-71.74737"},"o":"-71.74987","sw":{"a":"41.35188","o":"-71.75238"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.540735,41.703208],"type":"Point"},"properties":{"a":"41.703208","cty":"KENT","id":20261067644,"mun":"COVENTRY","nc":1,"o":"-71.540735"},"type":"Feature"}

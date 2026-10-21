@@ -1,9 +1,9 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.518847,40.905689],"type":"Point"},"properties":{"a":"40.905689","cty":"COLUMBIA","id":8828758,"mun":"FRANKLIN TWP","nc":2,"o":"-76.518847"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.271442,40.560854],"type":"Point"},"properties":{"a":"40.560854","cty":"BUCKS","id":8828773,"mun":"SPRINGFIELD TWP","nc":1,"o":"-75.271442"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.7768,40.81668],"type":"Point"},"properties":{"a":"40.81668","cty":"NORTHUMBERLAND","hp":true,"id":8828792,"mun":"LOWER AUGUSTA TWP","nc":30,"ne":{"a":"40.82036","o":"-76.76779"},"o":"-76.7768","sw":{"a":"40.813","o":"-76.78582"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.152669,40.64218],"type":"Point"},"properties":{"a":"40.64218","cty":"SCHUYLKILL","id":8828802,"mun":"NORTH MANHEIM TWP","nc":1,"o":"-76.152669"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.042629,41.327764],"type":"Point"},"properties":{"a":"41.327764","cty":"PIKE","id":8828819,"mun":"BLOOMING GROVE TWP","nc":4,"o":"-75.042629"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.783995,41.565592],"type":"Point"},"properties":{"a":"41.565592","cty":"WYOMING","id":8828820,"mun":"FACTORYVILLE BORO","nc":10,"o":"-75.783995"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.303519,40.046099],"type":"Point"},"properties":{"a":"40.046099","cty":"LANCASTER","id":8828837,"mun":"LANCASTER","nc":1,"o":"-76.303519"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.48101,40.597722],"type":"Point"},"properties":{"a":"40.597722","cty":"LEHIGH","id":8828844,"mun":"ALLENTOWN","nc":1,"o":"-75.48101"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.86152,40.83605],"type":"Point"},"properties":{"a":"40.83605","cty":"SNYDER","hp":true,"id":8828846,"mun":"MONROE TWP","nc":61,"ne":{"a":"40.84074","o":"-76.85179"},"o":"-76.86152","sw":{"a":"40.83136","o":"-76.87124"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.651221,41.412886],"type":"Point"},"properties":{"a":"41.412886","cty":"LACKAWANNA","id":8828847,"mun":"SCRANTON","nc":8,"o":"-75.651221"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.35418,40.629756],"type":"Point"},"properties":{"a":"40.629756","cty":"NORTHAMPTON","id":8828848,"mun":"BETHLEHEM","nc":1,"o":"-75.35418"},"type":"Feature"}
 ]}
