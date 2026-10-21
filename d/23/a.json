@@ -4,7 +4,6 @@
 {"geometry":{"coordinates":[-75.553684,41.491303],"type":"Point"},"properties":{"a":"41.491303","cty":"LACKAWANNA","id":8828514,"mun":"ARCHBALD BORO","nc":3,"o":"-75.553684"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.866488,40.246224],"type":"Point"},"properties":{"a":"40.246224","cty":"DAUPHIN","id":8828518,"mun":"HARRISBURG","nc":1,"o":"-76.866488"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.5934,41.092998],"type":"Point"},"properties":{"a":"41.092998","cty":"MONROE","id":8828520,"mun":"TOBYHANNA TWP","nc":2,"o":"-75.5934"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.586077,40.670267],"type":"Point"},"properties":{"a":"40.670267","cty":"LEHIGH","id":8828523,"mun":"NORTH WHITEHALL TWP","nc":2,"o":"-75.586077"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.54685,40.58885],"type":"Point"},"properties":{"a":"40.58885","cty":"LEHIGH","hp":true,"id":8828527,"mun":"SOUTH WHITEHALL TWP","nc":52,"ne":{"a":"40.59102","o":"-75.54603"},"o":"-75.54685","sw":{"a":"40.58667","o":"-75.54767"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.568312,41.494937],"type":"Point"},"properties":{"a":"41.494937","cty":"LACKAWANNA","id":8828531,"mun":"ARCHBALD BORO","nc":2,"o":"-75.568312"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.81766,40.72211],"type":"Point"},"properties":{"a":"40.72211","cty":"SCHUYLKILL","id":8828534,"mun":"WEST PENN TWP","nc":1,"o":"-75.81766"},"type":"Feature"},
@@ -36,5 +35,6 @@
 {"geometry":{"coordinates":[-76.793099,40.869759],"type":"Point"},"properties":{"a":"40.869759","cty":"NORTHUMBERLAND","id":8828608,"mun":"UPPER AUGUSTA TWP","nc":25,"o":"-76.793099"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.494267,40.987978],"type":"Point"},"properties":{"a":"40.987978","cty":"MONROE","id":8828613,"mun":"CHESTNUT HILL TWP","nc":3,"o":"-75.494267"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.300196,40.313395],"type":"Point"},"properties":{"a":"40.313395","cty":"BUCKS","id":8828619,"mun":"HILLTOWN TWP","nc":3,"o":"-75.300196"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.827359,41.246133],"type":"Point"},"properties":{"a":"41.246133","cty":"LUZERNE","id":8828622,"mun":"PLAINS TWP","nc":5,"o":"-75.827359"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.827359,41.246133],"type":"Point"},"properties":{"a":"41.246133","cty":"LUZERNE","id":8828622,"mun":"PLAINS TWP","nc":5,"o":"-75.827359"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.375908,40.625039],"type":"Point"},"properties":{"a":"40.625039","cty":"NORTHAMPTON","id":8828630,"mun":"BETHLEHEM","nc":1,"o":"-75.375908"},"type":"Feature"}
 ]}
