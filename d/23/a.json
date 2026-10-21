@@ -5,8 +5,5 @@
 {"geometry":{"coordinates":[-76.152669,40.64218],"type":"Point"},"properties":{"a":"40.64218","cty":"SCHUYLKILL","id":8828802,"mun":"NORTH MANHEIM TWP","nc":1,"o":"-76.152669"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.042629,41.327764],"type":"Point"},"properties":{"a":"41.327764","cty":"PIKE","id":8828819,"mun":"BLOOMING GROVE TWP","nc":4,"o":"-75.042629"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.783995,41.565592],"type":"Point"},"properties":{"a":"41.565592","cty":"WYOMING","id":8828820,"mun":"FACTORYVILLE BORO","nc":10,"o":"-75.783995"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.31827,40.074028],"type":"Point"},"properties":{"a":"40.074028","cty":"LANCASTER","id":8828825,"mun":"MANHEIM TWP","nc":6,"o":"-76.31827"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.247767,40.056936],"type":"Point"},"properties":{"a":"40.056936","cty":"LANCASTER","id":8828831,"mun":"EAST LAMPETER TWP","nc":9,"o":"-76.247767"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.656472,40.282481],"type":"Point"},"properties":{"a":"40.282481","cty":"DAUPHIN","id":8828833,"mun":"DERRY TWP","nc":14,"o":"-76.656472"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.319723,40.023564],"type":"Point"},"properties":{"a":"40.023564","cty":"LANCASTER","id":8828835,"mun":"LANCASTER","nc":19,"o":"-76.319723"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.303519,40.046099],"type":"Point"},"properties":{"a":"40.046099","cty":"LANCASTER","id":8828837,"mun":"LANCASTER","nc":1,"o":"-76.303519"},"type":"Feature"}
 ]}
