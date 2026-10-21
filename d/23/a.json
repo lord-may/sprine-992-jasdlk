@@ -9,9 +9,10 @@
 {"geometry":{"coordinates":[-76.932261,40.30189],"type":"Point"},"properties":{"a":"40.30189","cty":"CUMBERLAND","id":8828737,"mun":"EAST PENNSBORO TWP","nc":1,"o":"-76.932261"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.518847,40.905689],"type":"Point"},"properties":{"a":"40.905689","cty":"COLUMBIA","id":8828758,"mun":"FRANKLIN TWP","nc":2,"o":"-76.518847"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.294943,40.214343],"type":"Point"},"properties":{"a":"40.214343","cty":"LANCASTER","id":8828770,"mun":"ELIZABETH TWP","nc":1,"o":"-76.294943"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.35418,40.629756],"type":"Point"},"properties":{"a":"40.629756","cty":"NORTHAMPTON","id":8828772,"mun":"BETHLEHEM","nc":1,"o":"-75.35418"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.271442,40.560854],"type":"Point"},"properties":{"a":"40.560854","cty":"BUCKS","id":8828773,"mun":"SPRINGFIELD TWP","nc":1,"o":"-75.271442"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.41065,41.30224],"type":"Point"},"properties":{"a":"41.30224","cty":"LACKAWANNA","hp":true,"id":8828777,"mun":"BLAKELY BORO","nc":2400,"ne":{"a":"41.5138","o":"-75.24168"},"o":"-75.41065","sw":{"a":"41.09068","o":"-75.57962"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.549961,41.491944],"type":"Point"},"properties":{"a":"41.491944","cty":"LACKAWANNA","id":8828778,"mun":"ARCHBALD BORO","nc":17,"o":"-75.549961"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.613609,41.403852],"type":"Point"},"properties":{"a":"41.403852","cty":"LACKAWANNA","id":8828779,"mun":"DUNMORE BORO","nc":18,"o":"-75.613609"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.613609,41.403852],"type":"Point"},"properties":{"a":"41.403852","cty":"LACKAWANNA","id":8828779,"mun":"DUNMORE BORO","nc":18,"o":"-75.613609"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.473129,40.607397],"type":"Point"},"properties":{"a":"40.607397","cty":"LEHIGH","id":8828789,"mun":"ALLENTOWN","nc":1,"o":"-75.473129"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.77165,40.81668],"type":"Point"},"properties":{"a":"40.81668","cty":"NORTHUMBERLAND","hp":true,"id":8828792,"mun":"LOWER AUGUSTA TWP","nc":49,"ne":{"a":"40.82036","o":"-76.75748"},"o":"-76.77165","sw":{"a":"40.813","o":"-76.78582"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.96877,40.17978],"type":"Point"},"properties":{"a":"40.17978","cty":"CUMBERLAND","hp":true,"id":8828793,"mun":"UPPER ALLEN TWP","nc":95,"ne":{"a":"40.18142","o":"-76.96673"},"o":"-76.96877","sw":{"a":"40.17814","o":"-76.97082"}},"type":"Feature"}
 ]}
