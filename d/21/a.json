@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.755084,44.965847],"type":"Point"},"properties":{"EstRest":"10/20/2026 11:00:00 PM","Outages":48,"county":"FRANKLIN","customers":24700,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.757938,44.964002],"type":"Point"},"properties":{"EstRest":"10/20/2026 11:00:00 PM","Outages":11,"cause":"","county":"FRANKLIN","crewstatus":"DISP ","customers":11,"hamlet":"RANGELEY","incidentnumber":"00448Q","incidents":1,"level":"street","opco":"CMP","street":"WAGONMASTER RD","town":"RANGELEY"},"type":"Feature"}
+
 ]}

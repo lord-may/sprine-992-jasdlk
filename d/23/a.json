@@ -1,5 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.015977,41.085515],"type":"Point"},"properties":{"a":"41.085515","cty":"LUZERNE","id":8828368,"mun":"DORRANCE TWP","nc":1,"o":"-76.015977"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.10107,39.76],"type":"Point"},"properties":{"a":"39.76","cty":"LANCASTER","hp":true,"id":8828466,"mun":"LITTLE BRITAIN TWP","nc":149,"ne":{"a":"39.77556","o":"-76.08686"},"o":"-76.10107","sw":{"a":"39.74444","o":"-76.11528"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.01612,41.102213],"type":"Point"},"properties":{"a":"41.102213","cty":"LUZERNE","id":8828469,"mun":"DORRANCE TWP","nc":2,"o":"-76.01612"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.01612,41.102213],"type":"Point"},"properties":{"a":"41.102213","cty":"LUZERNE","id":8828469,"mun":"DORRANCE TWP","nc":2,"o":"-76.01612"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.07416,41.59601],"type":"Point"},"properties":{"a":"41.59601","cty":"WAYNE","hp":true,"id":8828471,"mun":"BERLIN TWP","nc":150,"ne":{"a":"41.61146","o":"-75.04779"},"o":"-75.07416","sw":{"a":"41.58056","o":"-75.10054"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.607074,40.504558],"type":"Point"},"properties":{"a":"40.504558","cty":"LEHIGH","id":8828472,"mun":"LOWER MACUNGIE TWP","nc":1,"o":"-75.607074"},"type":"Feature"}
 ]}
