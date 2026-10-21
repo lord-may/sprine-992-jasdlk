@@ -4,5 +4,6 @@
 {"geometry":{"coordinates":[-71.553153,41.674659],"type":"Point"},"properties":{"a":"41.674659","cty":"KENT","id":20261067591,"mun":"COVENTRY","nc":1,"o":"-71.553153"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.386259,41.837486],"type":"Point"},"properties":{"a":"41.837486","cty":"PROVIDENCE","id":20261067598,"mun":"PROVIDENCE","nc":1,"o":"-71.386259"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.628978,41.749208],"type":"Point"},"properties":{"a":"41.749208","cty":"PROVIDENCE","id":20261067603,"mun":"SCITUATE","nc":1,"o":"-71.628978"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.499625,42.007679],"type":"Point"},"properties":{"a":"42.007679","cty":"PROVIDENCE","id":20261067607,"mun":"WOONSOCKET","nc":1,"o":"-71.499625"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.499625,42.007679],"type":"Point"},"properties":{"a":"42.007679","cty":"PROVIDENCE","id":20261067607,"mun":"WOONSOCKET","nc":1,"o":"-71.499625"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.646748,41.948619],"type":"Point"},"properties":{"a":"41.948619","cty":"PROVIDENCE","id":20261067611,"mun":"BURRILLVILLE","nc":13,"o":"-71.646748"},"type":"Feature"}
 ]}
