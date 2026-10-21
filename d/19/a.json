@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.615814,42.507387],"type":"Point"},"properties":{"EstRest":"10/21/2026 5:00:00 AM","Outages":1,"cause":"","county":"STEUBEN","crewstatus":"ONST ","customers":8,"hamlet":"WAYLAND","incidentnumber":"0116K0","incidents":1,"level":"street","opco":"NYSEG","street":"WOLFANGER RD","town":"WAYLAND T"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.636689,42.516164],"type":"Point"},"properties":{"EstRest":"10/21/2026 5:00:00 AM","Outages":66,"county":"STEUBEN","customers":42831,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.619674,42.49333],"type":"Point"},"properties":{"EstRest":"10/21/2026 5:00:00 AM","Outages":3,"cause":"","county":"STEUBEN","crewstatus":"ONST ","customers":3,"hamlet":"WAYLAND","incidentnumber":"0116K0","incidents":1,"level":"street","opco":"NYSEG","street":"RYDER RD","town":"DANSVILLE T"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.63402,42.509408],"type":"Point"},"properties":{"EstRest":"10/21/2026 5:00:00 AM","Outages":66,"county":"STEUBEN","customers":42831,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
