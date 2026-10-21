@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-71.36536,41.56895],"type":"Point"},"properties":{"a":"41.56895","cty":"NEWPORT","hp":true,"id":20261067410,"mun":"JAMESTOWN","nc":15,"ne":{"a":"41.57068","o":"-71.36361"},"o":"-71.36536","sw":{"a":"41.56722","o":"-71.36711"}},"type":"Feature"}
 ]}
