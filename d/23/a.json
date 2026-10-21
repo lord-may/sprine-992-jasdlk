@@ -1,3 +1,9 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.015977,41.085515],"type":"Point"},"properties":{"a":"41.085515","cty":"LUZERNE","id":8828368,"mun":"DORRANCE TWP","nc":1,"o":"-76.015977"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.015977,41.085515],"type":"Point"},"properties":{"a":"41.085515","cty":"LUZERNE","id":8828368,"mun":"DORRANCE TWP","nc":1,"o":"-76.015977"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.098788,39.76064],"type":"Point"},"properties":{"a":"39.76064","cty":"LANCASTER","id":8828458,"mun":"LITTLE BRITAIN TWP","nc":2,"o":"-76.098788"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.10045,39.760431],"type":"Point"},"properties":{"a":"39.760431","cty":"LANCASTER","id":8828459,"mun":"LITTLE BRITAIN TWP","nc":6,"o":"-76.10045"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.098919,39.762431],"type":"Point"},"properties":{"a":"39.762431","cty":"LANCASTER","id":8828460,"mun":"LITTLE BRITAIN TWP","nc":3,"o":"-76.098919"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.099446,39.756215],"type":"Point"},"properties":{"a":"39.756215","cty":"LANCASTER","id":8828461,"mun":"LITTLE BRITAIN TWP","nc":4,"o":"-76.099446"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.101745,39.759559],"type":"Point"},"properties":{"a":"39.759559","cty":"LANCASTER","id":8828462,"mun":"LITTLE BRITAIN TWP","nc":4,"o":"-76.101745"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.110036,39.753936],"type":"Point"},"properties":{"a":"39.753936","cty":"LANCASTER","id":8828463,"mun":"LITTLE BRITAIN TWP","nc":2,"o":"-76.110036"},"type":"Feature"}
 ]}
