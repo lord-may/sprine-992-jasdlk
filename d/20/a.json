@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-77.600726,43.173105],"type":"Point"},"properties":{"EstRest":"10/21/2026 4:45:00 AM","Outages":443,"county":"MONROE","customers":303507,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.605767,43.170268],"type":"Point"},"properties":{"EstRest":"10/21/2026 4:45:00 AM","Outages":35,"cause":"","county":"MONROE","crewstatus":"     ","customers":60,"hamlet":"ROCHESTER","incidentnumber":"0116K5","incidents":1,"level":"street","opco":"RGE","street":"UPPER FALLS BLVD","town":"ROCHESTER"},"type":"Feature"}
 ]}
