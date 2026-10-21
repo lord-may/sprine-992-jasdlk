@@ -3,8 +3,13 @@
 {"geometry":{"coordinates":[-76.495536,40.070836],"type":"Point"},"properties":{"a":"40.070836","cty":"LANCASTER","id":8828490,"mun":"RAPHO TWP","nc":15,"o":"-76.495536"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.117648,40.2276],"type":"Point"},"properties":{"a":"40.2276","cty":"LANCASTER","id":8828495,"mun":"EAST COCALICO TWP","nc":1,"o":"-76.117648"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.43564,40.18618],"type":"Point"},"properties":{"a":"40.18618","cty":"LANCASTER","hp":true,"id":8828500,"mun":"RAPHO TWP","nc":9,"ne":{"a":"40.18747","o":"-76.43521"},"o":"-76.43564","sw":{"a":"40.18489","o":"-76.43607"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.293197,41.05743],"type":"Point"},"properties":{"a":"41.05743","cty":"MONROE","id":8828502,"mun":"POCONO TWP","nc":3,"o":"-75.293197"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.287027,41.429167],"type":"Point"},"properties":{"a":"41.429167","cty":"WAYNE","id":8828506,"mun":"PAUPACK TWP","nc":2,"o":"-75.287027"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.669239,40.273527],"type":"Point"},"properties":{"a":"40.273527","cty":"DAUPHIN","id":8828508,"mun":"DERRY TWP","nc":8,"o":"-76.669239"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.892625,40.224262],"type":"Point"},"properties":{"a":"40.224262","cty":"CUMBERLAND","id":8828513,"mun":"LOWER ALLEN TWP","nc":3,"o":"-76.892625"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.553684,41.491303],"type":"Point"},"properties":{"a":"41.491303","cty":"LACKAWANNA","id":8828514,"mun":"ARCHBALD BORO","nc":3,"o":"-75.553684"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.200594,41.2159],"type":"Point"},"properties":{"a":"41.2159","cty":"MONROE","id":8828515,"mun":"BARRETT TWP","nc":2,"o":"-75.200594"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.8009,40.31362],"type":"Point"},"properties":{"a":"40.31362","cty":"DAUPHIN","id":8828516,"mun":"LOWER PAXTON TWP","nc":17,"o":"-76.8009"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.866488,40.246224],"type":"Point"},"properties":{"a":"40.246224","cty":"DAUPHIN","id":8828518,"mun":"HARRISBURG","nc":1,"o":"-76.866488"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.5934,41.092998],"type":"Point"},"properties":{"a":"41.092998","cty":"MONROE","id":8828520,"mun":"TOBYHANNA TWP","nc":2,"o":"-75.5934"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.669803,40.273759],"type":"Point"},"properties":{"a":"40.273759","cty":"DAUPHIN","id":8828522,"mun":"DERRY TWP","nc":6,"o":"-76.669803"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.586077,40.670267],"type":"Point"},"properties":{"a":"40.670267","cty":"LEHIGH","id":8828523,"mun":"NORTH WHITEHALL TWP","nc":2,"o":"-75.586077"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.54685,40.58885],"type":"Point"},"properties":{"a":"40.58885","cty":"LEHIGH","hp":true,"id":8828527,"mun":"SOUTH WHITEHALL TWP","nc":52,"ne":{"a":"40.59102","o":"-75.54603"},"o":"-75.54685","sw":{"a":"40.58667","o":"-75.54767"}},"type":"Feature"}
 ]}

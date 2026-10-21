@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.29611,41.50225],"type":"Point"},"properties":{"a":"41.50225","cty":"NEWPORT","hp":true,"id":20261067433,"mun":"MIDDLETOWN","nc":37,"ne":{"a":"41.50312","o":"-71.29528"},"o":"-71.29611","sw":{"a":"41.50137","o":"-71.29695"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.824241,41.378302],"type":"Point"},"properties":{"a":"41.378302","cty":"WASHINGTON","id":20261067439,"mun":"WESTERLY","nc":28,"o":"-71.824241"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.403807,41.772897],"type":"Point"},"properties":{"a":"41.772897","cty":"PROVIDENCE","id":20261067441,"mun":"CRANSTON","nc":1,"o":"-71.403807"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.513246,41.694468],"type":"Point"},"properties":{"a":"41.694468","cty":"KENT","id":20261067442,"mun":"WEST WARWICK","nc":1,"o":"-71.513246"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.442579,41.768945],"type":"Point"},"properties":{"a":"41.768945","cty":"PROVIDENCE","id":20261067448,"mun":"CRANSTON","nc":1,"o":"-71.442579"},"type":"Feature"}
 ]}
