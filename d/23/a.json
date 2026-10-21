@@ -1,3 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.421177,40.209042],"type":"Point"},"properties":{"a":"40.209042","cty":"LANCASTER","id":8828486,"mun":"PENN TWP","nc":1,"o":"-76.421177"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.421177,40.209042],"type":"Point"},"properties":{"a":"40.209042","cty":"LANCASTER","id":8828486,"mun":"PENN TWP","nc":1,"o":"-76.421177"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.495536,40.070836],"type":"Point"},"properties":{"a":"40.070836","cty":"LANCASTER","id":8828490,"mun":"RAPHO TWP","nc":15,"o":"-76.495536"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.874036,41.250088],"type":"Point"},"properties":{"a":"41.250088","cty":"LUZERNE","id":8828492,"mun":"WILKES-BARRE","nc":12,"o":"-75.874036"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.117648,40.2276],"type":"Point"},"properties":{"a":"40.2276","cty":"LANCASTER","id":8828495,"mun":"EAST COCALICO TWP","nc":1,"o":"-76.117648"},"type":"Feature"}
 ]}
