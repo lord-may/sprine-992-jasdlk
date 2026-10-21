@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.592803,43.238093],"type":"Point"},"properties":{"EstRest":"10/21/2026 3:30:00 PM","Outages":80,"county":"MONROE","customers":303507,"incidents":5,"level":"county","opco":"RGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.592803,43.238093],"type":"Point"},"properties":{"EstRest":"10/21/2026 4:00:00 PM","Outages":80,"county":"MONROE","customers":303507,"incidents":5,"level":"county","opco":"RGE"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.312693,43.225932],"type":"Point"},"properties":{"EstRest":"10/21/2026 1:20:00 PM","Outages":3,"county":"WAYNE","customers":27029,"incidents":2,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}

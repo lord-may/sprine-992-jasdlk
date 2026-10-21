@@ -19,7 +19,6 @@
 {"geometry":{"coordinates":[-76.580402,40.174686],"type":"Point"},"properties":{"a":"40.174686","cty":"LANCASTER","id":8828577,"mun":"MOUNT JOY TWP","nc":2,"o":"-76.580402"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.722756,40.718922],"type":"Point"},"properties":{"a":"40.718922","cty":"NORTHUMBERLAND","id":8828590,"mun":"WASHINGTON TWP","nc":1,"o":"-76.722756"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.285912,40.356002],"type":"Point"},"properties":{"a":"40.356002","cty":"PERRY","id":8828591,"mun":"SPRING TWP","nc":1,"o":"-77.285912"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.764264,40.919969],"type":"Point"},"properties":{"a":"40.919969","cty":"NORTHUMBERLAND","id":8828600,"mun":"POINT TWP","nc":1,"o":"-76.764264"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.372116,40.677369],"type":"Point"},"properties":{"a":"40.677369","cty":"NORTHAMPTON","id":8828601,"mun":"BETHLEHEM TWP","nc":2,"o":"-75.372116"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.793099,40.869759],"type":"Point"},"properties":{"a":"40.869759","cty":"NORTHUMBERLAND","id":8828608,"mun":"UPPER AUGUSTA TWP","nc":25,"o":"-76.793099"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.494267,40.987978],"type":"Point"},"properties":{"a":"40.987978","cty":"MONROE","id":8828613,"mun":"CHESTNUT HILL TWP","nc":3,"o":"-75.494267"},"type":"Feature"},
@@ -37,5 +36,10 @@
 {"geometry":{"coordinates":[-77.378458,40.570792],"type":"Point"},"properties":{"a":"40.570792","cty":"JUNIATA","id":8828660,"mun":"FERMANAGH TWP","nc":2,"o":"-77.378458"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.23559,40.8609],"type":"Point"},"properties":{"a":"40.8609","cty":"UNION","hp":true,"id":8828661,"mun":"HARTLEY TWP","nc":169,"ne":{"a":"40.87063","o":"-77.20514"},"o":"-77.23559","sw":{"a":"40.85117","o":"-77.26604"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.907002,40.992004],"type":"Point"},"properties":{"a":"40.992004","cty":"LUZERNE","id":8828667,"mun":"HAZLE TWP","nc":11,"o":"-75.907002"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.314234,40.63345],"type":"Point"},"properties":{"a":"40.63345","cty":"NORTHAMPTON","id":8828669,"mun":"BETHLEHEM TWP","nc":13,"o":"-75.314234"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.314234,40.63345],"type":"Point"},"properties":{"a":"40.63345","cty":"NORTHAMPTON","id":8828669,"mun":"BETHLEHEM TWP","nc":13,"o":"-75.314234"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.503039,41.022912],"type":"Point"},"properties":{"a":"41.022912","cty":"COLUMBIA","id":8828670,"mun":"HEMLOCK TWP","nc":1,"o":"-76.503039"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.165215,40.661468],"type":"Point"},"properties":{"a":"40.661468","cty":"JUNIATA","id":8828671,"mun":"MONROE TWP","nc":2,"o":"-77.165215"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.293162,41.138358],"type":"Point"},"properties":{"a":"41.138358","cty":"COLUMBIA","id":8828675,"mun":"FISHING CREEK TWP","nc":1,"o":"-76.293162"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.940219,40.21767],"type":"Point"},"properties":{"a":"40.21767","cty":"CUMBERLAND","id":8828676,"mun":"LOWER ALLEN TWP","nc":3,"o":"-76.940219"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.314648,41.055229],"type":"Point"},"properties":{"a":"41.055229","cty":"CLINTON","id":8828678,"mun":"GREENE TWP","nc":2,"o":"-77.314648"},"type":"Feature"}
 ]}

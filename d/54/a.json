@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-79.316604,41.574532],[-79.313541,41.575399],[-79.311735,41.576656],[-79.318383,41.57468],[-79.316604,41.574532]]],"type":"Polygon"},{"coordinates":[-79.315032,41.575372],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Planned: Construction","crewAssigned":true,"id":"336757","nbrOut":6,"planned":false,"timeOff":1792592609344},"type":"Feature"}
+
 ]}
