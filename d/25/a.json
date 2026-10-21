@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-73.369286,44.129543],"type":"Point"},"properties":{"active":true,"affectingCustomers":true,"cause":0,"county":"Addison","crew_name":",MIDD-MACHIA","customers_affected":3,"customers_affected_label":"3 Customers","device":"TRANSFORMER","etor":"2026-10-21T21:00-04:00","has_etor":1,"incident_id":1016274,"status":"CREW_ASSIGNED","street":"TURKEY LN","town":"Panton","trouble":"NO_POWER"},"type":"Feature"}
+
 ]}
