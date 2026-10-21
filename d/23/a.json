@@ -6,5 +6,5 @@
 {"geometry":{"coordinates":[-75.293197,41.05743],"type":"Point"},"properties":{"a":"41.05743","cty":"MONROE","id":8828502,"mun":"POCONO TWP","nc":3,"o":"-75.293197"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.287027,41.429167],"type":"Point"},"properties":{"a":"41.429167","cty":"WAYNE","id":8828506,"mun":"PAUPACK TWP","nc":2,"o":"-75.287027"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.669239,40.273527],"type":"Point"},"properties":{"a":"40.273527","cty":"DAUPHIN","id":8828508,"mun":"DERRY TWP","nc":8,"o":"-76.669239"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.331849,41.360516],"type":"Point"},"properties":{"a":"41.360516","cty":"PIKE","id":8828509,"mun":"GREENE TWP","nc":2,"o":"-75.331849"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.892625,40.224262],"type":"Point"},"properties":{"a":"40.224262","cty":"CUMBERLAND","id":8828513,"mun":"LOWER ALLEN TWP","nc":3,"o":"-76.892625"},"type":"Feature"}
 ]}
