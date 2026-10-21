@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.72938,42.19751],"type":"Point"},"properties":{"cause":{"EN-US":"Under Investigation","ES-ES":"Bajo Investigación","orig":"Null"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Unassigned","ES-ES":"Sin Asignar","orig":"Unassigned"},"cust_a":{"mask":5,"val":4},"etr":"2026-10-21T12:30:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-10-21T10:25Z","title":"Area Outage","town":"Millbury"},"type":"Feature"}
+
 ]}

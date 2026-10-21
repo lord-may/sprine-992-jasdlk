@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.609567,43.168231],"type":"Point"},"properties":{"EstRest":"10/21/2026 10:00:00 AM","Outages":6,"cause":"Equipment Interruption","county":"MONROE","crewstatus":"DISP ","customers":7,"hamlet":"ROCHESTER","incidentnumber":"0116K5","incidents":1,"level":"street","opco":"RGE","street":"KELLY ST","town":"ROCHESTER"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.613523,43.166581],"type":"Point"},"properties":{"EstRest":"10/21/2026 10:00:00 AM","Outages":51,"county":"MONROE","customers":303507,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.592296,43.16827],"type":"Point"},"properties":{"EstRest":"10/21/2026 10:00:00 AM","Outages":532,"county":"MONROE","customers":303507,"incidents":2,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
