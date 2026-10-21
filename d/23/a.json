@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.553684,41.491303],"type":"Point"},"properties":{"a":"41.491303","cty":"LACKAWANNA","id":8828514,"mun":"ARCHBALD BORO","nc":3,"o":"-75.553684"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.866488,40.246224],"type":"Point"},"properties":{"a":"40.246224","cty":"DAUPHIN","id":8828518,"mun":"HARRISBURG","nc":1,"o":"-76.866488"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.54685,40.58885],"type":"Point"},"properties":{"a":"40.58885","cty":"LEHIGH","hp":true,"id":8828527,"mun":"SOUTH WHITEHALL TWP","nc":52,"ne":{"a":"40.59102","o":"-75.54603"},"o":"-75.54685","sw":{"a":"40.58667","o":"-75.54767"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.568312,41.494937],"type":"Point"},"properties":{"a":"41.494937","cty":"LACKAWANNA","id":8828531,"mun":"ARCHBALD BORO","nc":2,"o":"-75.568312"},"type":"Feature"},
@@ -16,10 +15,7 @@
 {"geometry":{"coordinates":[-75.916241,40.167931],"type":"Point"},"properties":{"a":"40.167931","cty":"BERKS","id":8828642,"mun":"CAERNARVON TWP","nc":2,"o":"-75.916241"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.897784,41.250218],"type":"Point"},"properties":{"a":"41.250218","cty":"LYCOMING","id":8828644,"mun":"FAIRFIELD TWP","nc":3,"o":"-76.897784"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.74433,40.93104],"type":"Point"},"properties":{"a":"40.93104","cty":"NORTHUMBERLAND","hp":true,"id":8828658,"mun":"POINT TWP","nc":10,"ne":{"a":"40.93359","o":"-76.74391"},"o":"-76.74433","sw":{"a":"40.9285","o":"-76.74474"}},"type":"Feature"},
-{"geometry":{"coordinates":[-77.23559,40.8609],"type":"Point"},"properties":{"a":"40.8609","cty":"UNION","hp":true,"id":8828661,"mun":"HARTLEY TWP","nc":169,"ne":{"a":"40.87063","o":"-77.20514"},"o":"-77.23559","sw":{"a":"40.85117","o":"-77.26604"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.314234,40.63345],"type":"Point"},"properties":{"a":"40.63345","cty":"NORTHAMPTON","id":8828669,"mun":"BETHLEHEM TWP","nc":13,"o":"-75.314234"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.503039,41.022912],"type":"Point"},"properties":{"a":"41.022912","cty":"COLUMBIA","id":8828670,"mun":"HEMLOCK TWP","nc":1,"o":"-76.503039"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.165215,40.661468],"type":"Point"},"properties":{"a":"40.661468","cty":"JUNIATA","id":8828671,"mun":"MONROE TWP","nc":2,"o":"-77.165215"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.940219,40.21767],"type":"Point"},"properties":{"a":"40.21767","cty":"CUMBERLAND","id":8828676,"mun":"LOWER ALLEN TWP","nc":3,"o":"-76.940219"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.764288,40.919092],"type":"Point"},"properties":{"a":"40.919092","cty":"NORTHUMBERLAND","id":8828686,"mun":"POINT TWP","nc":2,"o":"-76.764288"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.140375,40.286341],"type":"Point"},"properties":{"a":"40.286341","cty":"CUMBERLAND","id":8828689,"mun":"MIDDLESEX TWP","nc":1,"o":"-77.140375"},"type":"Feature"},
@@ -28,6 +24,5 @@
 {"geometry":{"coordinates":[-76.27518,40.718494],"type":"Point"},"properties":{"a":"40.718494","cty":"SCHUYLKILL","id":8828702,"mun":"CASS TWP","nc":3,"o":"-76.27518"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.632678,40.546711],"type":"Point"},"properties":{"a":"40.546711","cty":"LEHIGH","id":8828704,"mun":"UPPER MACUNGIE TWP","nc":7,"o":"-75.632678"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.976874,40.939338],"type":"Point"},"properties":{"a":"40.939338","cty":"LUZERNE","id":8828705,"mun":"HAZLETON","nc":2,"o":"-75.976874"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.57406,41.167255],"type":"Point"},"properties":{"a":"41.167255","cty":"MONROE","id":8828706,"mun":"COOLBAUGH TWP","nc":3,"o":"-75.57406"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.317938,40.03256],"type":"Point"},"properties":{"a":"40.03256","cty":"LANCASTER","id":8828707,"mun":"LANCASTER","nc":43,"o":"-76.317938"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.766674,40.92003],"type":"Point"},"properties":{"a":"40.92003","cty":"NORTHUMBERLAND","id":8828710,"mun":"POINT TWP","nc":4,"o":"-76.766674"},"type":"Feature"}
 ]}
