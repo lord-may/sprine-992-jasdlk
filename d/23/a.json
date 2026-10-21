@@ -11,5 +11,11 @@
 {"geometry":{"coordinates":[-75.5934,41.092998],"type":"Point"},"properties":{"a":"41.092998","cty":"MONROE","id":8828520,"mun":"TOBYHANNA TWP","nc":2,"o":"-75.5934"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.669803,40.273759],"type":"Point"},"properties":{"a":"40.273759","cty":"DAUPHIN","id":8828522,"mun":"DERRY TWP","nc":6,"o":"-76.669803"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.586077,40.670267],"type":"Point"},"properties":{"a":"40.670267","cty":"LEHIGH","id":8828523,"mun":"NORTH WHITEHALL TWP","nc":2,"o":"-75.586077"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.54685,40.58885],"type":"Point"},"properties":{"a":"40.58885","cty":"LEHIGH","hp":true,"id":8828527,"mun":"SOUTH WHITEHALL TWP","nc":52,"ne":{"a":"40.59102","o":"-75.54603"},"o":"-75.54685","sw":{"a":"40.58667","o":"-75.54767"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.54685,40.58885],"type":"Point"},"properties":{"a":"40.58885","cty":"LEHIGH","hp":true,"id":8828527,"mun":"SOUTH WHITEHALL TWP","nc":52,"ne":{"a":"40.59102","o":"-75.54603"},"o":"-75.54685","sw":{"a":"40.58667","o":"-75.54767"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.299494,40.054222],"type":"Point"},"properties":{"a":"40.054222","cty":"LANCASTER","id":8828529,"mun":"MANHEIM TWP","nc":2,"o":"-76.299494"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.669239,40.273527],"type":"Point"},"properties":{"a":"40.273527","cty":"DAUPHIN","id":8828530,"mun":"DERRY TWP","nc":8,"o":"-76.669239"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.568312,41.494937],"type":"Point"},"properties":{"a":"41.494937","cty":"LACKAWANNA","id":8828531,"mun":"ARCHBALD BORO","nc":2,"o":"-75.568312"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.293815,41.462543],"type":"Point"},"properties":{"a":"41.462543","cty":"WAYNE","id":8828533,"mun":"PAUPACK TWP","nc":2,"o":"-75.293815"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.81766,40.72211],"type":"Point"},"properties":{"a":"40.72211","cty":"SCHUYLKILL","id":8828534,"mun":"WEST PENN TWP","nc":1,"o":"-75.81766"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.979141,40.35485],"type":"Point"},"properties":{"a":"40.35485","cty":"PERRY","id":8828537,"mun":"PENN TWP","nc":3,"o":"-76.979141"},"type":"Feature"}
 ]}
