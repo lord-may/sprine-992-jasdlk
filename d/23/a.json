@@ -4,5 +4,7 @@
 {"geometry":{"coordinates":[-76.117648,40.2276],"type":"Point"},"properties":{"a":"40.2276","cty":"LANCASTER","id":8828495,"mun":"EAST COCALICO TWP","nc":1,"o":"-76.117648"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.43564,40.18618],"type":"Point"},"properties":{"a":"40.18618","cty":"LANCASTER","hp":true,"id":8828500,"mun":"RAPHO TWP","nc":9,"ne":{"a":"40.18747","o":"-76.43521"},"o":"-76.43564","sw":{"a":"40.18489","o":"-76.43607"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.293197,41.05743],"type":"Point"},"properties":{"a":"41.05743","cty":"MONROE","id":8828502,"mun":"POCONO TWP","nc":3,"o":"-75.293197"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.287027,41.429167],"type":"Point"},"properties":{"a":"41.429167","cty":"WAYNE","id":8828506,"mun":"PAUPACK TWP","nc":2,"o":"-75.287027"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.287027,41.429167],"type":"Point"},"properties":{"a":"41.429167","cty":"WAYNE","id":8828506,"mun":"PAUPACK TWP","nc":2,"o":"-75.287027"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.669239,40.273527],"type":"Point"},"properties":{"a":"40.273527","cty":"DAUPHIN","id":8828508,"mun":"DERRY TWP","nc":8,"o":"-76.669239"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.331849,41.360516],"type":"Point"},"properties":{"a":"41.360516","cty":"PIKE","id":8828509,"mun":"GREENE TWP","nc":2,"o":"-75.331849"},"type":"Feature"}
 ]}
