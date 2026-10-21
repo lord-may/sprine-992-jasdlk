@@ -1,13 +1,10 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.686624,41.404612],"type":"Point"},"properties":{"a":"41.404612","cty":"LACKAWANNA","id":8828543,"mun":"SCRANTON","nc":2,"o":"-75.686624"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.652486,41.414908],"type":"Point"},"properties":{"a":"41.414908","cty":"LACKAWANNA","id":8828576,"mun":"SCRANTON","nc":2,"o":"-75.652486"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.017626,40.280096],"type":"Point"},"properties":{"a":"40.280096","cty":"CUMBERLAND","id":8828718,"mun":"SILVER SPRING TWP","nc":1,"o":"-77.017626"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.932261,40.30189],"type":"Point"},"properties":{"a":"40.30189","cty":"CUMBERLAND","id":8828737,"mun":"EAST PENNSBORO TWP","nc":1,"o":"-76.932261"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.518847,40.905689],"type":"Point"},"properties":{"a":"40.905689","cty":"COLUMBIA","id":8828758,"mun":"FRANKLIN TWP","nc":2,"o":"-76.518847"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.294943,40.214343],"type":"Point"},"properties":{"a":"40.214343","cty":"LANCASTER","id":8828770,"mun":"ELIZABETH TWP","nc":1,"o":"-76.294943"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.271442,40.560854],"type":"Point"},"properties":{"a":"40.560854","cty":"BUCKS","id":8828773,"mun":"SPRINGFIELD TWP","nc":1,"o":"-75.271442"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.40903,41.29585],"type":"Point"},"properties":{"a":"41.29585","cty":"LACKAWANNA","hp":true,"id":8828777,"mun":"ARCHBALD BORO","nc":1502,"ne":{"a":"41.50103","o":"-75.24168"},"o":"-75.40903","sw":{"a":"41.09068","o":"-75.57638"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.77165,40.81668],"type":"Point"},"properties":{"a":"40.81668","cty":"NORTHUMBERLAND","hp":true,"id":8828792,"mun":"LOWER AUGUSTA TWP","nc":49,"ne":{"a":"40.82036","o":"-76.75748"},"o":"-76.77165","sw":{"a":"40.813","o":"-76.78582"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.152669,40.64218],"type":"Point"},"properties":{"a":"40.64218","cty":"SCHUYLKILL","id":8828802,"mun":"NORTH MANHEIM TWP","nc":1,"o":"-76.152669"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.408693,41.291943],"type":"Point"},"properties":{"a":"41.291943","cty":"WAYNE","id":8828807,"mun":"STERLING TWP","nc":1,"o":"-75.408693"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.293162,41.138358],"type":"Point"},"properties":{"a":"41.138358","cty":"COLUMBIA","id":8828810,"mun":"FISHING CREEK TWP","nc":1,"o":"-76.293162"},"type":"Feature"}
 ]}

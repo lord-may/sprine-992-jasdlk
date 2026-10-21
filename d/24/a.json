@@ -2,8 +2,7 @@
 {"geometry":{"coordinates":[-71.2834,41.71342],"type":"Point"},"properties":{"a":"41.71342","cty":"BRISTOL","hp":true,"id":20261067507,"mun":"WARREN","nc":66,"ne":{"a":"41.71435","o":"-71.28176"},"o":"-71.2834","sw":{"a":"41.71249","o":"-71.28504"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.537115,41.679315],"type":"Point"},"properties":{"a":"41.679315","cty":"KENT","id":20261067568,"mun":"COVENTRY","nc":1,"o":"-71.537115"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.706395,41.681393],"type":"Point"},"properties":{"a":"41.681393","cty":"KENT","id":20261067571,"mun":"COVENTRY","nc":1,"o":"-71.706395"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.518064,41.997268],"type":"Point"},"properties":{"a":"41.997268","cty":"PROVIDENCE","id":20261067573,"mun":"WOONSOCKET","nc":1,"o":"-71.518064"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.499625,42.007679],"type":"Point"},"properties":{"a":"42.007679","cty":"PROVIDENCE","id":20261067607,"mun":"WOONSOCKET","nc":1,"o":"-71.499625"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.646748,41.948619],"type":"Point"},"properties":{"a":"41.948619","cty":"PROVIDENCE","id":20261067611,"mun":"BURRILLVILLE","nc":13,"o":"-71.646748"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.463104,41.67276],"type":"Point"},"properties":{"a":"41.67276","cty":"KENT","id":20261067614,"mun":"WARWICK","nc":6,"o":"-71.463104"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.463104,41.67276],"type":"Point"},"properties":{"a":"41.67276","cty":"KENT","id":20261067614,"mun":"WARWICK","nc":6,"o":"-71.463104"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.24954,41.512127],"type":"Point"},"properties":{"a":"41.512127","cty":"NEWPORT","id":20261067632,"mun":"MIDDLETOWN","nc":1,"o":"-71.24954"},"type":"Feature"}
 ]}
