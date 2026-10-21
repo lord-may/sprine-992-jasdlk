@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.22584,39.37524],"type":"Point"},"properties":{"cause":{"EN-US":"Under Evaluation","orig":"NA"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"En Route","orig":"ENR"},"cust_a":{"val":21},"etr":"2026-10-21T14:00:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":null,"title":"Area Outage"},"type":"Feature"}
+
 ]}
