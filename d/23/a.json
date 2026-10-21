@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.07416,41.59601],"type":"Point"},"properties":{"a":"41.59601","cty":"WAYNE","hp":true,"id":8828471,"mun":"BERLIN TWP","nc":150,"ne":{"a":"41.61146","o":"-75.04779"},"o":"-75.07416","sw":{"a":"41.58056","o":"-75.10054"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.892625,40.224262],"type":"Point"},"properties":{"a":"40.224262","cty":"CUMBERLAND","id":8828475,"mun":"LOWER ALLEN TWP","nc":3,"o":"-76.892625"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.892625,40.224262],"type":"Point"},"properties":{"a":"40.224262","cty":"CUMBERLAND","id":8828475,"mun":"LOWER ALLEN TWP","nc":3,"o":"-76.892625"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.640889,40.88197],"type":"Point"},"properties":{"a":"40.88197","cty":"CARBON","id":8828479,"mun":"FRANKLIN TWP","nc":2,"o":"-75.640889"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.812267,40.532336],"type":"Point"},"properties":{"a":"40.532336","cty":"DAUPHIN","id":8828480,"mun":"JACKSON TWP","nc":2,"o":"-76.812267"},"type":"Feature"}
 ]}
