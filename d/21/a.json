@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-70.207666,43.795812],"type":"Point"},"properties":{"EstRest":"10/21/2026 7:30:00 PM","Outages":1,"cause":"","county":"CUMBERLAND","crewstatus":"DISP ","customers":40,"hamlet":"YARMOUTH","incidentnumber":"0044DJ","incidents":1,"level":"street","opco":"CMP","street":"HILLSIDE ST","town":"YARMOUTH"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.207666,43.795812],"type":"Point"},"properties":{"EstRest":"10/21/2026 7:30:00 PM","Outages":1,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.451721,45.034552],"type":"Point"},"properties":{"EstRest":"10/21/2026 6:45:00 PM","Outages":16,"cause":"","county":"SOMERSET","crewstatus":"DISP ","customers":17,"hamlet":"CAMBRIDGE","incidentnumber":"0044DC","incidents":1,"level":"street","opco":"CMP","street":"DEXTER RD","town":"CAMBRIDGE"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.455188,45.033243],"type":"Point"},"properties":{"EstRest":"10/21/2026 6:45:00 PM","Outages":17,"county":"SOMERSET","customers":31730,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
