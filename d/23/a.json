@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.07416,41.59601],"type":"Point"},"properties":{"a":"41.59601","cty":"WAYNE","hp":true,"id":8828471,"mun":"BERLIN TWP","nc":150,"ne":{"a":"41.61146","o":"-75.04779"},"o":"-75.07416","sw":{"a":"41.58056","o":"-75.10054"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.892625,40.224262],"type":"Point"},"properties":{"a":"40.224262","cty":"CUMBERLAND","id":8828475,"mun":"LOWER ALLEN TWP","nc":3,"o":"-76.892625"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.291425,41.39021],"type":"Point"},"properties":{"a":"41.39021","cty":"WAYNE","id":8828481,"mun":"PAUPACK TWP","nc":6,"o":"-75.291425"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.291425,41.39021],"type":"Point"},"properties":{"a":"41.39021","cty":"WAYNE","id":8828481,"mun":"PAUPACK TWP","nc":6,"o":"-75.291425"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.874036,41.250088],"type":"Point"},"properties":{"a":"41.250088","cty":"LUZERNE","id":8828483,"mun":"WILKES-BARRE","nc":12,"o":"-75.874036"},"type":"Feature"}
 ]}

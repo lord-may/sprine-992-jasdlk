@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-68.13849,46.8455],[-68.1349,46.8478],[-68.1327,46.8543],[-68.1363,46.8527],[-68.13849,46.8455]]],"type":"Polygon"},{"coordinates":[-68.13562,46.85009],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"Vehicle Hit Pole/Line/Meter","orig":"Vehicle Hit Pole/Line/Meter"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":null,"cust_a":{"val":9},"etr":"ETR-EXP","etr_confidence":null,"inc_id":"576327-1","n_out":1,"start_time":null,"title":"Area Outage"},"type":"Feature"}
+
 ]}
