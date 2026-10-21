@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-68.6397,44.6897],[-68.6403,44.6902],[-68.64109,44.6902],[-68.6397,44.6897]]],"type":"Polygon"},{"coordinates":[-68.64036,44.69003],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"Distribution Fault","orig":"Distribution Fault"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":null,"cust_a":{"val":3},"etr":"2026-10-21T16:30:00Z","etr_confidence":null,"inc_id":"576337-1","n_out":1,"start_time":null,"title":"Area Outage"},"type":"Feature"}
+
 ]}
