@@ -19,9 +19,15 @@
 {"geometry":{"coordinates":[-71.501732,41.80355],"type":"Point"},"properties":{"a":"41.80355","cty":"PROVIDENCE","id":20261067509,"mun":"JOHNSTON","nc":1,"o":"-71.501732"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.437827,41.814093],"type":"Point"},"properties":{"a":"41.814093","cty":"PROVIDENCE","id":20261067512,"mun":"PROVIDENCE","nc":1,"o":"-71.437827"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.521891,41.998568],"type":"Point"},"properties":{"a":"41.998568","cty":"PROVIDENCE","id":20261067514,"mun":"WOONSOCKET","nc":1,"o":"-71.521891"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.371526,41.86546],"type":"Point"},"properties":{"a":"41.86546","cty":"PROVIDENCE","id":20261067515,"mun":"PAWTUCKET","nc":1,"o":"-71.371526"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.576139,42.002448],"type":"Point"},"properties":{"a":"42.002448","cty":"PROVIDENCE","id":20261067519,"mun":"NORTH SMITHFIELD","nc":1,"o":"-71.576139"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.514478,42.012705],"type":"Point"},"properties":{"a":"42.012705","cty":"PROVIDENCE","id":20261067520,"mun":"WOONSOCKET","nc":1,"o":"-71.514478"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.403807,41.772897],"type":"Point"},"properties":{"a":"41.772897","cty":"PROVIDENCE","id":20261067521,"mun":"CRANSTON","nc":1,"o":"-71.403807"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.444752,41.484772],"type":"Point"},"properties":{"a":"41.484772","cty":"WASHINGTON","id":20261067522,"mun":"NARRAGANSETT","nc":1,"o":"-71.444752"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.444752,41.484772],"type":"Point"},"properties":{"a":"41.484772","cty":"WASHINGTON","id":20261067522,"mun":"NARRAGANSETT","nc":1,"o":"-71.444752"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.397886,41.890498],"type":"Point"},"properties":{"a":"41.890498","cty":"PROVIDENCE","id":20261067524,"mun":"CENTRAL FALLS","nc":1,"o":"-71.397886"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.48258,41.987512],"type":"Point"},"properties":{"a":"41.987512","cty":"PROVIDENCE","id":20261067525,"mun":"WOONSOCKET","nc":1,"o":"-71.48258"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.397416,41.867264],"type":"Point"},"properties":{"a":"41.867264","cty":"PROVIDENCE","id":20261067528,"mun":"PAWTUCKET","nc":1,"o":"-71.397416"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.400374,41.914412],"type":"Point"},"properties":{"a":"41.914412","cty":"PROVIDENCE","id":20261067529,"mun":"CUMBERLAND","nc":1,"o":"-71.400374"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.460576,41.825266],"type":"Point"},"properties":{"a":"41.825266","cty":"PROVIDENCE","id":20261067530,"mun":"PROVIDENCE","nc":1,"o":"-71.460576"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.48522,41.36647],"type":"Point"},"properties":{"a":"41.36647","cty":"WASHINGTON","hp":true,"id":20261067532,"mun":"NARRAGANSETT","nc":77,"ne":{"a":"41.37204","o":"-71.48152"},"o":"-71.48522","sw":{"a":"41.36089","o":"-71.48892"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.409428,41.803524],"type":"Point"},"properties":{"a":"41.803524","cty":"PROVIDENCE","id":20261067536,"mun":"PROVIDENCE","nc":1,"o":"-71.409428"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.517593,42.004019],"type":"Point"},"properties":{"a":"42.004019","cty":"PROVIDENCE","id":20261067537,"mun":"WOONSOCKET","nc":1,"o":"-71.517593"},"type":"Feature"}
 ]}
