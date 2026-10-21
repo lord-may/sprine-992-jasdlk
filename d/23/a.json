@@ -2,10 +2,10 @@
 {"geometry":{"coordinates":[-76.7768,40.81668],"type":"Point"},"properties":{"a":"40.81668","cty":"NORTHUMBERLAND","hp":true,"id":8828792,"mun":"LOWER AUGUSTA TWP","nc":30,"ne":{"a":"40.82036","o":"-76.76779"},"o":"-76.7768","sw":{"a":"40.813","o":"-76.78582"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.152669,40.64218],"type":"Point"},"properties":{"a":"40.64218","cty":"SCHUYLKILL","id":8828802,"mun":"NORTH MANHEIM TWP","nc":1,"o":"-76.152669"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.86152,40.83605],"type":"Point"},"properties":{"a":"40.83605","cty":"SNYDER","hp":true,"id":8828846,"mun":"MONROE TWP","nc":61,"ne":{"a":"40.84074","o":"-76.85179"},"o":"-76.86152","sw":{"a":"40.83136","o":"-76.87124"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.651221,41.412886],"type":"Point"},"properties":{"a":"41.412886","cty":"LACKAWANNA","id":8828849,"mun":"SCRANTON","nc":8,"o":"-75.651221"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.508005,40.624097],"type":"Point"},"properties":{"a":"40.624097","cty":"LEHIGH","id":8828852,"mun":"SOUTH WHITEHALL TWP","nc":1,"o":"-75.508005"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.085553,41.748055],"type":"Point"},"properties":{"a":"41.748055","cty":"WAYNE","id":8828855,"mun":"DAMASCUS TWP","nc":1,"o":"-75.085553"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.16679,41.3007],"type":"Point"},"properties":{"a":"41.3007","cty":"LYCOMING","hp":true,"id":8828858,"mun":"ANTHONY TWP","nc":50,"ne":{"a":"41.30996","o":"-77.14962"},"o":"-77.16679","sw":{"a":"41.29144","o":"-77.18397"}},"type":"Feature"},
 {"geometry":{"coordinates":[-74.948257,41.450352],"type":"Point"},"properties":{"a":"41.450352","cty":"PIKE","id":8828859,"mun":"SHOHOLA TWP","nc":2,"o":"-74.948257"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.616656,40.677057],"type":"Point"},"properties":{"a":"40.677057","cty":"LEHIGH","id":8828861,"mun":"NORTH WHITEHALL TWP","nc":2,"o":"-75.616656"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.616656,40.677057],"type":"Point"},"properties":{"a":"40.677057","cty":"LEHIGH","id":8828861,"mun":"NORTH WHITEHALL TWP","nc":2,"o":"-75.616656"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.265805,40.135716],"type":"Point"},"properties":{"a":"40.135716","cty":"LANCASTER","id":8828863,"mun":"WARWICK TWP","nc":1,"o":"-76.265805"},"type":"Feature"}
 ]}
