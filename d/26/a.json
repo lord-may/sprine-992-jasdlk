@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-71.19119,43.009835],[-71.190049,43.010571],[-71.189762,43.01264],[-71.190022,43.012863],[-71.190552,43.013317],[-71.191477,43.014059],[-71.193202,43.01446],[-71.197155,43.014663],[-71.19711,43.013816],[-71.191711,43.009908],[-71.19119,43.009835]]],"type":"Polygon"},{"coordinates":[-71.192942,43.012614],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"Planned Outage for System Improvements. ETR is 1:00PM","estimateTime":1792602000000,"id":"594608","nbrOut":25,"timeOff":1792588539337},"type":"Feature"}
+
 ]}
