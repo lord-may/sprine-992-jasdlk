@@ -1,10 +1,9 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.686624,41.404612],"type":"Point"},"properties":{"a":"41.404612","cty":"LACKAWANNA","id":8828543,"mun":"SCRANTON","nc":2,"o":"-75.686624"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.518847,40.905689],"type":"Point"},"properties":{"a":"40.905689","cty":"COLUMBIA","id":8828758,"mun":"FRANKLIN TWP","nc":2,"o":"-76.518847"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.294943,40.214343],"type":"Point"},"properties":{"a":"40.214343","cty":"LANCASTER","id":8828770,"mun":"ELIZABETH TWP","nc":1,"o":"-76.294943"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.271442,40.560854],"type":"Point"},"properties":{"a":"40.560854","cty":"BUCKS","id":8828773,"mun":"SPRINGFIELD TWP","nc":1,"o":"-75.271442"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.40903,41.29585],"type":"Point"},"properties":{"a":"41.29585","cty":"LACKAWANNA","hp":true,"id":8828777,"mun":"ARCHBALD BORO","nc":1502,"ne":{"a":"41.50103","o":"-75.24168"},"o":"-75.40903","sw":{"a":"41.09068","o":"-75.57638"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.553209,41.487569],"type":"Point"},"properties":{"a":"41.487569","cty":"LACKAWANNA","id":8828777,"mun":"ARCHBALD BORO","nc":3,"o":"-75.553209"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.77165,40.81668],"type":"Point"},"properties":{"a":"40.81668","cty":"NORTHUMBERLAND","hp":true,"id":8828792,"mun":"LOWER AUGUSTA TWP","nc":49,"ne":{"a":"40.82036","o":"-76.75748"},"o":"-76.77165","sw":{"a":"40.813","o":"-76.78582"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.152669,40.64218],"type":"Point"},"properties":{"a":"40.64218","cty":"SCHUYLKILL","id":8828802,"mun":"NORTH MANHEIM TWP","nc":1,"o":"-76.152669"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.293162,41.138358],"type":"Point"},"properties":{"a":"41.138358","cty":"COLUMBIA","id":8828810,"mun":"FISHING CREEK TWP","nc":1,"o":"-76.293162"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.042629,41.327764],"type":"Point"},"properties":{"a":"41.327764","cty":"PIKE","id":8828819,"mun":"BLOOMING GROVE TWP","nc":4,"o":"-75.042629"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.783995,41.565592],"type":"Point"},"properties":{"a":"41.565592","cty":"WYOMING","id":8828820,"mun":"FACTORYVILLE BORO","nc":10,"o":"-75.783995"},"type":"Feature"}
 ]}
