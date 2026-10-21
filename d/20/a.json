@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.592803,43.238093],"type":"Point"},"properties":{"EstRest":"10/21/2026 3:30:00 PM","Outages":78,"county":"MONROE","customers":303507,"incidents":4,"level":"county","opco":"RGE"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.592803,43.238093],"type":"Point"},"properties":{"EstRest":"10/21/2026 3:30:00 PM","Outages":79,"county":"MONROE","customers":303507,"incidents":5,"level":"county","opco":"RGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.159694,43.150137],"type":"Point"},"properties":{"EstRest":"10/21/2026 12:30:00 PM","Outages":1,"cause":"","county":"WAYNE","crewstatus":"     ","customers":27,"hamlet":"MARION","incidentnumber":"0116MR","incidents":1,"level":"street","opco":"RGE","street":"SKINNER RD","town":"MARION"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.159694,43.150137],"type":"Point"},"properties":{"EstRest":"10/21/2026 12:30:00 PM","Outages":1,"county":"WAYNE","customers":27029,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
