@@ -18,10 +18,11 @@
 {"geometry":{"coordinates":[-76.092349,40.939911],"type":"Point"},"properties":{"a":"40.939911","cty":"LUZERNE","id":8829184,"mun":"HAZLE TWP","nc":1,"o":"-76.092349"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.224176,40.266682],"type":"Point"},"properties":{"a":"40.266682","cty":"CUMBERLAND","id":8829208,"mun":"NORTH MIDDLETON TWP","nc":1,"o":"-77.224176"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.295093,40.667217],"type":"Point"},"properties":{"a":"40.667217","cty":"NORTHAMPTON","id":8829215,"mun":"BETHLEHEM TWP","nc":1,"o":"-75.295093"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.457031,41.35606],"type":"Point"},"properties":{"a":"41.35606","cty":"LACKAWANNA","id":8829233,"mun":"MADISON TWP","nc":3,"o":"-75.457031"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.48996,40.72883],"type":"Point"},"properties":{"a":"40.72883","cty":"NORTHAMPTON","hp":true,"id":8829240,"mun":"ALLEN TWP","nc":843,"ne":{"a":"40.75161","o":"-75.46625"},"o":"-75.48996","sw":{"a":"40.70605","o":"-75.51368"}},"type":"Feature"},
-{"geometry":{"coordinates":[-77.015415,40.808465],"type":"Point"},"properties":{"a":"40.808465","cty":"SNYDER","id":8829250,"mun":"FRANKLIN TWP","nc":2,"o":"-77.015415"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.558951,41.170697],"type":"Point"},"properties":{"a":"41.170697","cty":"MONROE","id":8829255,"mun":"COOLBAUGH TWP","nc":4,"o":"-75.558951"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.94608,40.23608],"type":"Point"},"properties":{"a":"40.23608","cty":"CUMBERLAND","hp":true,"id":8829276,"mun":"HAMPDEN TWP","nc":46,"ne":{"a":"40.23745","o":"-76.94386"},"o":"-76.94608","sw":{"a":"40.2347","o":"-76.94829"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.22169,41.73999],"type":"Point"},"properties":{"a":"41.73999","cty":"WAYNE","hp":true,"id":8829277,"mun":"LEBANON TWP","nc":72,"ne":{"a":"41.75844","o":"-75.20943"},"o":"-75.22169","sw":{"a":"41.72154","o":"-75.23396"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.22169,41.73999],"type":"Point"},"properties":{"a":"41.73999","cty":"WAYNE","hp":true,"id":8829277,"mun":"LEBANON TWP","nc":72,"ne":{"a":"41.75844","o":"-75.20943"},"o":"-75.22169","sw":{"a":"41.72154","o":"-75.23396"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.0918,40.09843],"type":"Point"},"properties":{"a":"40.09843","cty":"LANCASTER","hp":true,"id":8829282,"mun":"EARL TWP","nc":343,"ne":{"a":"40.10144","o":"-76.08432"},"o":"-76.0918","sw":{"a":"40.09543","o":"-76.09927"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.354369,41.145111],"type":"Point"},"properties":{"a":"41.145111","cty":"MONROE","id":8829294,"mun":"COOLBAUGH TWP","nc":8,"o":"-75.354369"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.593428,40.634667],"type":"Point"},"properties":{"a":"40.634667","cty":"SCHUYLKILL","id":8829297,"mun":"HUBLEY TWP","nc":1,"o":"-76.593428"},"type":"Feature"}
 ]}
