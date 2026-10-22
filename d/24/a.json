@@ -1,7 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.301872,41.493739],"type":"Point"},"properties":{"a":"41.493739","cty":"NEWPORT","id":20261067708,"mun":"NEWPORT","nc":1,"o":"-71.301872"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.575181,41.816758],"type":"Point"},"properties":{"a":"41.816758","cty":"PROVIDENCE","id":20261067713,"mun":"SCITUATE","nc":1,"o":"-71.575181"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.435415,41.879016],"type":"Point"},"properties":{"a":"41.879016","cty":"PROVIDENCE","id":20261067714,"mun":"LINCOLN","nc":1,"o":"-71.435415"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.524119,41.676144],"type":"Point"},"properties":{"a":"41.676144","cty":"KENT","id":20261067715,"mun":"WEST WARWICK","nc":1,"o":"-71.524119"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.721242,41.480216],"type":"Point"},"properties":{"a":"41.480216","cty":"WASHINGTON","id":20261067718,"mun":"HOPKINTON","nc":1,"o":"-71.721242"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.441395,41.721827],"type":"Point"},"properties":{"a":"41.721827","cty":"KENT","id":20261067723,"mun":"WARWICK","nc":1,"o":"-71.441395"},"type":"Feature"},
@@ -13,6 +12,6 @@
 {"geometry":{"coordinates":[-71.528594,42.003552],"type":"Point"},"properties":{"a":"42.003552","cty":"PROVIDENCE","id":20261067758,"mun":"WOONSOCKET","nc":1,"o":"-71.528594"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.478658,41.758946],"type":"Point"},"properties":{"a":"41.758946","cty":"PROVIDENCE","id":20261067759,"mun":"CRANSTON","nc":1,"o":"-71.478658"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.679708,41.839072],"type":"Point"},"properties":{"a":"41.839072","cty":"PROVIDENCE","id":20261067760,"mun":"SCITUATE","nc":1,"o":"-71.679708"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.478722,41.396429],"type":"Point"},"properties":{"a":"41.396429","cty":"WASHINGTON","id":20261067765,"mun":"NARRAGANSETT","nc":9,"o":"-71.478722"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.455235,41.771944],"type":"Point"},"properties":{"a":"41.771944","cty":"PROVIDENCE","id":20261067767,"mun":"CRANSTON","nc":1,"o":"-71.455235"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.455235,41.771944],"type":"Point"},"properties":{"a":"41.771944","cty":"PROVIDENCE","id":20261067767,"mun":"CRANSTON","nc":1,"o":"-71.455235"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.406488,41.844269],"type":"Point"},"properties":{"a":"41.844269","cty":"PROVIDENCE","id":20261067770,"mun":"PROVIDENCE","nc":1,"o":"-71.406488"},"type":"Feature"}
 ]}
