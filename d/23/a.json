@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.49854,40.91217],"type":"Point"},"properties":{"a":"40.91217","cty":"COLUMBIA","hp":true,"id":8828866,"mun":"FRANKLIN TWP","nc":11,"ne":{"a":"40.91373","o":"-76.48979"},"o":"-76.49854","sw":{"a":"40.9106","o":"-76.50728"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.57451,40.53489],"type":"Point"},"properties":{"a":"40.53489","cty":"LEHIGH","hp":true,"id":8828931,"mun":"LOWER MACUNGIE TWP","nc":569,"ne":{"a":"40.5425","o":"-75.56612"},"o":"-75.57451","sw":{"a":"40.52729","o":"-75.5829"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.932264,41.058607],"type":"Point"},"properties":{"a":"41.058607","cty":"UNION","id":8828946,"mun":"WHITE DEER TWP","nc":2,"o":"-76.932264"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.499829,40.032693],"type":"Point"},"properties":{"a":"40.032693","cty":"LANCASTER","id":8828948,"mun":"COLUMBIA BORO","nc":1,"o":"-76.499829"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.932264,41.058607],"type":"Point"},"properties":{"a":"41.058607","cty":"UNION","id":8828946,"mun":"WHITE DEER TWP","nc":2,"o":"-76.932264"},"type":"Feature"}
 ]}
