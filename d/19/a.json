@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-74.780548,41.745116],"type":"Point"},"properties":{"EstRest":"10/22/2026 3:00:00 AM","Outages":1,"cause":"","county":"SULLIVAN","crewstatus":"     ","customers":30,"hamlet":"SWAN LAKE","incidentnumber":"0116TG","incidents":1,"level":"street","opco":"NYSEG","street":"OSTILLA LANE","town":"BETHEL T"},"type":"Feature"},
+{"geometry":{"coordinates":[-74.780548,41.745116],"type":"Point"},"properties":{"EstRest":"10/22/2026 3:00:00 AM","Outages":1,"county":"SULLIVAN","customers":50281,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.332729,42.256239],"type":"Point"},"properties":{"EstRest":"10/22/2026 12:15:00 AM","Outages":1,"cause":"","county":"TIOGA","crewstatus":"DISP ","customers":11,"hamlet":"CANDOR","incidentnumber":"0116SY","incidents":1,"level":"street","opco":"NYSEG","street":"TUBBS HILL RD","town":"CANDOR T"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.332729,42.256239],"type":"Point"},"properties":{"EstRest":"10/22/2026 12:15:00 AM","Outages":1,"county":"TIOGA","customers":20232,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
