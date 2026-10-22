@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-80.06913,40.41485],"type":"Point"},"properties":{"additionalProperties":[{"property":"jobNumber","value":"Job.26.10.21.00190"},{"property":"zips","value":["15106"]},{"property":"counties","value":["ALLEGHENY"]},{"property":"municipalities","value":["CARNEGIE"]}],"cause":"Under Investigation","etrTime":1792638000000,"id":2237121,"identifier":"Job.26.10.21.00190_6ad95187d0f291041669381a","lastUpdatedTime":1792627239000,"latitude":40.41485,"longitude":-80.06913,"numPeople":1,"startTime":1792627076000,"status":"Assessment Needed","title":"Outage"},"type":"Feature"}
+
 ]}
