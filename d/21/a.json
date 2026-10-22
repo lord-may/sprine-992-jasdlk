@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.685561,44.167106],"type":"Point"},"properties":{"EstRest":"10/22/2026 8:15:00 AM","Outages":2,"cause":"","county":"KENNEBEC","crewstatus":"ONST ","customers":32,"hamlet":"PITTSTON","incidentnumber":"0044E2","incidents":1,"level":"street","opco":"CMP","street":"MAST RD","town":"PITTSTON"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.685561,44.167106],"type":"Point"},"properties":{"EstRest":"10/22/2026 8:15:00 AM","Outages":2,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.685561,44.167106],"type":"Point"},"properties":{"EstRest":"10/22/2026 9:15:00 AM","Outages":2159,"county":"KENNEBEC","customers":75925,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.506435,43.347776],"type":"Point"},"properties":{"EstRest":"10/22/2026 9:15:00 AM","Outages":36,"cause":"","county":"YORK","crewstatus":"DISP ","customers":105,"hamlet":"KENNEBUNK","incidentnumber":"0044E7","incidents":1,"level":"street","opco":"CMP","street":"SEA RD","town":"KENNEBUNK"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.508299,43.346793],"type":"Point"},"properties":{"EstRest":"10/22/2026 9:15:00 AM","Outages":37,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
