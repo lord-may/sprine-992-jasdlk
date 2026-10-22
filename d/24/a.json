@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.642832,41.74108],"type":"Point"},"properties":{"a":"41.74108","cty":"PROVIDENCE","id":20261067784,"mun":"SCITUATE","nc":1,"o":"-71.642832"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.627451,41.990274],"type":"Point"},"properties":{"a":"41.990274","cty":"PROVIDENCE","id":20261067802,"mun":"BURRILLVILLE","nc":1,"o":"-71.627451"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.305298,41.48852],"type":"Point"},"properties":{"a":"41.48852","cty":"NEWPORT","id":20261067804,"mun":"NEWPORT","nc":1,"o":"-71.305298"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.371526,41.86546],"type":"Point"},"properties":{"a":"41.86546","cty":"PROVIDENCE","id":20261067808,"mun":"PAWTUCKET","nc":1,"o":"-71.371526"},"type":"Feature"}
 ]}

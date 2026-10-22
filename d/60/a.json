@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-79.7785,40.43187],"type":"Point"},"properties":{"additionalProperties":[{"property":"jobNumber","value":"Job.26.10.22.00167"},{"property":"zips","value":["15146"]},{"property":"counties","value":["ALLEGHENY"]},{"property":"municipalities","value":["MONROEVILLE"]}],"cause":"Under Investigation","etrTime":1792702800000,"id":2237412,"identifier":"Job.26.10.22.00167_6ada5bfed0f2910416698d99","lastUpdatedTime":1792695632000,"latitude":40.43187,"longitude":-79.7785,"numPeople":1,"startTime":1792695294000,"status":"Assessment Needed","title":"Outage"},"type":"Feature"}
 ]}
