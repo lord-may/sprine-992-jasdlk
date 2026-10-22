@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.035662,42.447591],"type":"Point"},"properties":{"EstRest":"10/22/2026 12:00:00 AM","Outages":17,"cause":"","county":"OTSEGO","crewstatus":"DISP ","customers":241,"hamlet":"ONEONTA","incidentnumber":"0116T0","incidents":1,"level":"street","opco":"NYSEG","street":"STATE HIGHWAY 23","town":"ONEONTA T"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.035662,42.447591],"type":"Point"},"properties":{"EstRest":"10/22/2026 12:00:00 AM","Outages":17,"county":"OTSEGO","customers":25547,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.332729,42.256239],"type":"Point"},"properties":{"EstRest":"10/22/2026 12:15:00 AM","Outages":1,"cause":"","county":"TIOGA","crewstatus":"     ","customers":11,"hamlet":"CANDOR","incidentnumber":"0116SY","incidents":1,"level":"street","opco":"NYSEG","street":"TUBBS HILL RD","town":"CANDOR T"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.332729,42.256239],"type":"Point"},"properties":{"EstRest":"10/22/2026 12:15:00 AM","Outages":1,"county":"TIOGA","customers":20232,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
