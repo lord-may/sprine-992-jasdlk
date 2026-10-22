@@ -2,5 +2,7 @@
 {"geometry":{"coordinates":[-75.57865,40.5378],"type":"Point"},"properties":{"a":"40.5378","cty":"LEHIGH","hp":true,"id":8828931,"mun":"LOWER MACUNGIE TWP","nc":224,"ne":{"a":"40.5425","o":"-75.5744"},"o":"-75.57865","sw":{"a":"40.53309","o":"-75.5829"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.25932,41.37075],"type":"Point"},"properties":{"a":"41.37075","cty":"PIKE","hp":true,"id":8828968,"mun":"PALMYRA TWP","nc":653,"ne":{"a":"41.38151","o":"-75.24624"},"o":"-75.25932","sw":{"a":"41.35998","o":"-75.27241"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.571146,40.54594],"type":"Point"},"properties":{"a":"40.54594","cty":"LEHIGH","id":8828976,"mun":"LOWER MACUNGIE TWP","nc":2,"o":"-75.571146"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.01517,40.808021],"type":"Point"},"properties":{"a":"40.808021","cty":"SNYDER","id":8828977,"mun":"FRANKLIN TWP","nc":4,"o":"-77.01517"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.01517,40.808021],"type":"Point"},"properties":{"a":"40.808021","cty":"SNYDER","id":8828977,"mun":"FRANKLIN TWP","nc":4,"o":"-77.01517"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.889967,40.276216],"type":"Point"},"properties":{"a":"40.276216","cty":"DAUPHIN","id":8828978,"mun":"HARRISBURG","nc":1,"o":"-76.889967"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.889967,40.276216],"type":"Point"},"properties":{"a":"40.276216","cty":"DAUPHIN","id":8828979,"mun":"HARRISBURG","nc":1,"o":"-76.889967"},"type":"Feature"}
 ]}
