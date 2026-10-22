@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.283135,42.81055],"type":"Point"},"properties":{"EstRest":"10/22/2026 10:00:00 AM","Outages":4,"cause":"","county":"ONONDAGA","crewstatus":"DISP ","customers":16,"hamlet":"SKANEATELES","incidentnumber":"0116U0","incidents":1,"level":"street","opco":"NYSEG","street":"BACON HILL RD","town":"SPAFFORD T"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.28462,42.802544],"type":"Point"},"properties":{"EstRest":"10/22/2026 10:00:00 AM","Outages":10,"county":"ONONDAGA","customers":8155,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.283135,42.81055],"type":"Point"},"properties":{"EstRest":"10/22/2026 9:15:00 AM","Outages":4,"cause":"System Upgrade","county":"ONONDAGA","crewstatus":"DISP ","customers":16,"hamlet":"SKANEATELES","incidentnumber":"0116U0","incidents":1,"level":"street","opco":"NYSEG","street":"BACON HILL RD","town":"SPAFFORD T"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.28462,42.802544],"type":"Point"},"properties":{"EstRest":"10/22/2026 9:15:00 AM","Outages":10,"county":"ONONDAGA","customers":8155,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
