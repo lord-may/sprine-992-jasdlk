@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-73.687488,42.890309],"type":"Point"},"properties":{"EstRest":"10/22/2026 9:30:00 AM","Outages":12,"cause":"","county":"SARATOGA","crewstatus":"     ","customers":12,"hamlet":"MECHANICVILLE","incidentnumber":"0116TW","incidents":1,"level":"street","opco":"NYSEG","street":"ALEXANDER J AVE","town":"MECHANICVIL C"},"type":"Feature"},
+{"geometry":{"coordinates":[-73.690839,42.89341],"type":"Point"},"properties":{"EstRest":"10/22/2026 9:30:00 AM","Outages":545,"county":"SARATOGA","customers":20338,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
