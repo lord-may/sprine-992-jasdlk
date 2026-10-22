@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.685561,44.167106],"type":"Point"},"properties":{"EstRest":"10/22/2026 8:15:00 AM","Outages":2,"cause":"","county":"KENNEBEC","crewstatus":"ACKN ","customers":32,"hamlet":"PITTSTON","incidentnumber":"0044E2","incidents":1,"level":"street","opco":"CMP","street":"MAST RD","town":"PITTSTON"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.685561,44.167106],"type":"Point"},"properties":{"EstRest":"10/22/2026 8:15:00 AM","Outages":2,"cause":"","county":"KENNEBEC","crewstatus":"ENRT ","customers":32,"hamlet":"PITTSTON","incidentnumber":"0044E2","incidents":1,"level":"street","opco":"CMP","street":"MAST RD","town":"PITTSTON"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.685561,44.167106],"type":"Point"},"properties":{"EstRest":"10/22/2026 8:15:00 AM","Outages":2,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
