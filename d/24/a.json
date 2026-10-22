@@ -1,7 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.456424,41.831283],"type":"Point"},"properties":{"a":"41.831283","cty":"PROVIDENCE","id":20261067668,"mun":"PROVIDENCE","nc":1,"o":"-71.456424"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.499162,41.868032],"type":"Point"},"properties":{"a":"41.868032","cty":"PROVIDENCE","id":20261067671,"mun":"JOHNSTON","nc":1,"o":"-71.499162"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.623544,41.840633],"type":"Point"},"properties":{"a":"41.840633","cty":"PROVIDENCE","id":20261067672,"mun":"SCITUATE","nc":1,"o":"-71.623544"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.527553,41.725373],"type":"Point"},"properties":{"a":"41.725373","cty":"KENT","id":20261067673,"mun":"WEST WARWICK","nc":1,"o":"-71.527553"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.183976,41.503545],"type":"Point"},"properties":{"a":"41.503545","cty":"NEWPORT","id":20261067674,"mun":"LITTLE COMPTON","nc":1,"o":"-71.183976"},"type":"Feature"}
 ]}
