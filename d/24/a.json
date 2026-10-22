@@ -1,5 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.407114,41.891883],"type":"Point"},"properties":{"a":"41.891883","cty":"PROVIDENCE","id":20261067813,"mun":"CENTRAL FALLS","nc":1,"o":"-71.407114"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.396451,41.953175],"type":"Point"},"properties":{"a":"41.953175","cty":"PROVIDENCE","id":20261067817,"mun":"CUMBERLAND","nc":1,"o":"-71.396451"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.51421,42.010516],"type":"Point"},"properties":{"a":"42.010516","cty":"PROVIDENCE","id":20261067819,"mun":"WOONSOCKET","nc":1,"o":"-71.51421"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.407114,41.891883],"type":"Point"},"properties":{"a":"41.891883","cty":"PROVIDENCE","id":20261067813,"mun":"CENTRAL FALLS","nc":1,"o":"-71.407114"},"type":"Feature"}
 ]}
