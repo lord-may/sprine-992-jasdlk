@@ -2,9 +2,11 @@
 {"geometry":{"coordinates":[-76.08688,40.09922],"type":"Point"},"properties":{"a":"40.09922","cty":"NA","hp":true,"id":8829282,"mun":"NA","nc":45,"ne":{"a":"40.10144","o":"-76.08432"},"o":"-76.08688","sw":{"a":"40.097","o":"-76.08944"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.65012,40.94844],"type":"Point"},"properties":{"a":"40.94844","cty":"NORTHUMBERLAND","hp":true,"id":8829351,"mun":"RIVERSIDE BORO","nc":452,"ne":{"a":"40.96238","o":"-76.62454"},"o":"-76.65012","sw":{"a":"40.9345","o":"-76.67571"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.23332,41.430133],"type":"Point"},"properties":{"a":"41.430133","cty":"WAYNE","id":8829367,"mun":"PAUPACK TWP","nc":4,"o":"-75.23332"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.282284,41.046857],"type":"Point"},"properties":{"a":"41.046857","cty":"COLUMBIA","id":8829369,"mun":"BRIAR CREEK BORO","nc":22,"o":"-76.282284"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.282199,41.045956],"type":"Point"},"properties":{"a":"41.045956","cty":"COLUMBIA","id":8829369,"mun":"BRIAR CREEK BORO","nc":23,"o":"-76.282199"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.280504,41.048015],"type":"Point"},"properties":{"a":"41.048015","cty":"COLUMBIA","id":8829370,"mun":"BRIAR CREEK BORO","nc":10,"o":"-76.280504"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.397655,41.015695],"type":"Point"},"properties":{"a":"41.015695","cty":"COLUMBIA","id":8829376,"mun":"SCOTT TWP","nc":1,"o":"-76.397655"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.5628,40.13221],"type":"Point"},"properties":{"a":"40.13221","cty":"LANCASTER","hp":true,"id":8829390,"mun":"MOUNT JOY TWP","nc":113,"ne":{"a":"40.13697","o":"-76.54946"},"o":"-76.5628","sw":{"a":"40.12746","o":"-76.57614"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.54831,41.482758],"type":"Point"},"properties":{"a":"41.482758","cty":"LACKAWANNA","id":8829395,"mun":"JESSUP BORO","nc":8,"o":"-75.54831"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.54831,41.482758],"type":"Point"},"properties":{"a":"41.482758","cty":"LACKAWANNA","id":8829395,"mun":"JESSUP BORO","nc":8,"o":"-75.54831"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.794104,40.225272],"type":"Point"},"properties":{"a":"40.225272","cty":"DAUPHIN","id":8829398,"mun":"LOWER SWATARA TWP","nc":4,"o":"-76.794104"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.670701,40.273455],"type":"Point"},"properties":{"a":"40.273455","cty":"DAUPHIN","id":8829402,"mun":"DERRY TWP","nc":8,"o":"-76.670701"},"type":"Feature"}
 ]}
