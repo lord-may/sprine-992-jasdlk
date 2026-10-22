@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-78.782476,42.912146],"type":"Point"},"properties":{"EstRest":"10/21/2026 8:00:00 PM","Outages":14,"cause":"","county":"ERIE","crewstatus":"DISP ","customers":54,"hamlet":"BUFFALO","incidentnumber":"0116S3","incidents":1,"level":"street","opco":"NYSEG","street":"KEMP AVE","town":"CHEEKTOWAGA T"},"type":"Feature"},
-{"geometry":{"coordinates":[-78.782476,42.912146],"type":"Point"},"properties":{"EstRest":"10/21/2026 8:00:00 PM","Outages":28,"county":"ERIE","customers":157686,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+
 ]}
