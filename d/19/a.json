@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.283135,42.81055],"type":"Point"},"properties":{"EstRest":"10/22/2026 9:15:00 AM","Outages":4,"cause":"System Upgrade","county":"ONONDAGA","crewstatus":"DISP ","customers":16,"hamlet":"SKANEATELES","incidentnumber":"0116U0","incidents":1,"level":"street","opco":"NYSEG","street":"BACON HILL RD","town":"SPAFFORD T"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.28462,42.802544],"type":"Point"},"properties":{"EstRest":"10/22/2026 9:15:00 AM","Outages":10,"county":"ONONDAGA","customers":8155,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.28462,42.802544],"type":"Point"},"properties":{"EstRest":"10/22/2026 9:15:00 AM","Outages":10,"county":"ONONDAGA","customers":8155,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-73.686893,42.896221],"type":"Point"},"properties":{"EstRest":"10/22/2026 10:30:00 AM","Outages":11,"county":"SARATOGA","customers":20338,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-73.686893,42.896221],"type":"Point"},"properties":{"EstRest":"10/22/2026 10:30:00 AM","Outages":7,"cause":"","county":"SARATOGA","crewstatus":"     ","customers":209,"hamlet":"MECHANICVILLE","incidentnumber":"0116UB","incidents":1,"level":"street","opco":"NYSEG","street":"S MAIN ST","town":"MECHANICVIL C"},"type":"Feature"}
 ]}
