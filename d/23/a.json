@@ -3,8 +3,7 @@
 {"geometry":{"coordinates":[-75.57865,40.5378],"type":"Point"},"properties":{"a":"40.5378","cty":"LEHIGH","hp":true,"id":8828931,"mun":"LOWER MACUNGIE TWP","nc":224,"ne":{"a":"40.5425","o":"-75.5744"},"o":"-75.57865","sw":{"a":"40.53309","o":"-75.5829"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.932264,41.058607],"type":"Point"},"properties":{"a":"41.058607","cty":"UNION","id":8828946,"mun":"WHITE DEER TWP","nc":2,"o":"-76.932264"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.65316,40.66958],"type":"Point"},"properties":{"a":"40.66958","cty":"SCHUYLKILL","hp":true,"id":8828952,"mun":"UPPER MAHANTONGO TWP","nc":4,"ne":{"a":"40.67078","o":"-76.65168"},"o":"-76.65316","sw":{"a":"40.66838","o":"-76.65464"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.867373,40.732725],"type":"Point"},"properties":{"a":"40.732725","cty":"SCHUYLKILL","id":8828958,"mun":"WEST PENN TWP","nc":1,"o":"-75.867373"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.246493,41.38018],"type":"Point"},"properties":{"a":"41.38018","cty":"PIKE","id":8828965,"mun":"PALMYRA TWP","nc":6,"o":"-75.246493"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.24189,41.37075],"type":"Point"},"properties":{"a":"41.37075","cty":"PIKE","hp":true,"id":8828968,"mun":"PALMYRA TWP","nc":1201,"ne":{"a":"41.38151","o":"-75.21137"},"o":"-75.24189","sw":{"a":"41.35998","o":"-75.27241"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.571146,40.54594],"type":"Point"},"properties":{"a":"40.54594","cty":"LEHIGH","id":8828969,"mun":"LOWER MACUNGIE TWP","nc":2,"o":"-75.571146"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.498548,40.544235],"type":"Point"},"properties":{"a":"40.544235","cty":"LEHIGH","id":8828971,"mun":"EMMAUS BORO","nc":10,"o":"-75.498548"},"type":"Feature"}
 ]}
