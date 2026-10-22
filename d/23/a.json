@@ -5,5 +5,8 @@
 {"geometry":{"coordinates":[-75.54831,41.482758],"type":"Point"},"properties":{"a":"41.482758","cty":"LACKAWANNA","id":8829395,"mun":"JESSUP BORO","nc":8,"o":"-75.54831"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.670701,40.273455],"type":"Point"},"properties":{"a":"40.273455","cty":"DAUPHIN","id":8829402,"mun":"DERRY TWP","nc":8,"o":"-76.670701"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.243337,41.378937],"type":"Point"},"properties":{"a":"41.378937","cty":"PIKE","id":8829405,"mun":"PALMYRA TWP","nc":2,"o":"-75.243337"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.808231,40.54934],"type":"Point"},"properties":{"a":"40.54934","cty":"DAUPHIN","id":8829407,"mun":"WASHINGTON TWP","nc":4,"o":"-76.808231"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.808231,40.54934],"type":"Point"},"properties":{"a":"40.54934","cty":"DAUPHIN","id":8829407,"mun":"WASHINGTON TWP","nc":4,"o":"-76.808231"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.612655,40.162336],"type":"Point"},"properties":{"a":"40.162336","cty":"LANCASTER","id":8829412,"mun":"MOUNT JOY TWP","nc":2,"o":"-76.612655"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.713552,40.829233],"type":"Point"},"properties":{"a":"40.829233","cty":"NORTHUMBERLAND","id":8829413,"mun":"ROCKEFELLER TWP","nc":1,"o":"-76.713552"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.625908,40.957161],"type":"Point"},"properties":{"a":"40.957161","cty":"NORTHUMBERLAND","id":8829415,"mun":"RIVERSIDE BORO","nc":7,"o":"-76.625908"},"type":"Feature"}
 ]}
