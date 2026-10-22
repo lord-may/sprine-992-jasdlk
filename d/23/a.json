@@ -6,5 +6,6 @@
 {"geometry":{"coordinates":[-76.787994,40.858477],"type":"Point"},"properties":{"a":"40.858477","cty":"NORTHUMBERLAND","id":8829332,"mun":"UPPER AUGUSTA TWP","nc":15,"o":"-76.787994"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.450182,40.061659],"type":"Point"},"properties":{"a":"40.061659","cty":"LANCASTER","id":8829345,"mun":"WEST HEMPFIELD TWP","nc":1,"o":"-76.450182"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.65012,40.94844],"type":"Point"},"properties":{"a":"40.94844","cty":"NORTHUMBERLAND","hp":true,"id":8829351,"mun":"RIVERSIDE BORO","nc":452,"ne":{"a":"40.96238","o":"-76.62454"},"o":"-76.65012","sw":{"a":"40.9345","o":"-76.67571"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.902405,41.218195],"type":"Point"},"properties":{"a":"41.218195","cty":"LUZERNE","id":8829362,"mun":"HANOVER TWP","nc":13,"o":"-75.902405"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.23332,41.430133],"type":"Point"},"properties":{"a":"41.430133","cty":"WAYNE","id":8829367,"mun":"PAUPACK TWP","nc":4,"o":"-75.23332"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.282284,41.046857],"type":"Point"},"properties":{"a":"41.046857","cty":"COLUMBIA","id":8829369,"mun":"BRIAR CREEK BORO","nc":22,"o":"-76.282284"},"type":"Feature"}
 ]}

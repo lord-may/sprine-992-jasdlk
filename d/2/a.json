@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-73.99512,41.09741],"type":"Point"},"properties":{"cause":"Under Investigation","cluster":false,"cust_a":{"val":1},"etr":"ETR-NULL","inc_id":"559372","title":"Outage Information"},"type":"Feature"},
 {"geometry":{"coordinates":[-73.99903,41.10568],"type":"Point"},"properties":{"cause":"Single Service Incident","cluster":false,"cust_a":{"val":3},"etr":"2026-10-22T17:30:00-0400","inc_id":"560348","title":"Outage Information"},"type":"Feature"},
+{"geometry":{"coordinates":[-74.08544,41.14882],"type":"Point"},"properties":{"cause":"Single Service Incident","cluster":false,"cust_a":{"val":1},"etr":"2026-10-22T18:53:59-0400","inc_id":"560429","title":"Outage Information"},"type":"Feature"},
 {"geometry":{"geometries":[{"coordinates":[[[-74.33745,41.43291],[-74.33227,41.43544],[-74.33162,41.4367],[-74.33143,41.43744],[-74.33781,41.44241],[-74.34417,41.44444],[-74.34884,41.44405],[-74.35802,41.43818],[-74.35729,41.43565],[-74.33745,41.43291]]],"type":"Polygon"},{"coordinates":[-74.34441,41.43838],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cluster":false,"cust_a":{"val":82},"etr":"2026-10-22T19:00:00-0400","inc_id":"560410","title":"Outage Information"},"type":"Feature"}
 ]}
