@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.183976,41.503545],"type":"Point"},"properties":{"a":"41.503545","cty":"NEWPORT","id":20261067674,"mun":"LITTLE COMPTON","nc":1,"o":"-71.183976"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.434969,41.874867],"type":"Point"},"properties":{"a":"41.874867","cty":"PROVIDENCE","id":20261067681,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.434969"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.257252,41.710821],"type":"Point"},"properties":{"a":"41.710821","cty":"BRISTOL","id":20261067682,"mun":"BRISTOL","nc":1,"o":"-71.257252"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.257252,41.710821],"type":"Point"},"properties":{"a":"41.710821","cty":"BRISTOL","id":20261067682,"mun":"BRISTOL","nc":1,"o":"-71.257252"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.499162,41.868032],"type":"Point"},"properties":{"a":"41.868032","cty":"PROVIDENCE","id":20261067683,"mun":"JOHNSTON","nc":1,"o":"-71.499162"},"type":"Feature"}
 ]}
