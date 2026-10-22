@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.7768,40.81668],"type":"Point"},"properties":{"a":"40.81668","cty":"NORTHUMBERLAND","hp":true,"id":8828792,"mun":"LOWER AUGUSTA TWP","nc":30,"ne":{"a":"40.82036","o":"-76.76779"},"o":"-76.7768","sw":{"a":"40.813","o":"-76.78582"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.16679,41.3007],"type":"Point"},"properties":{"a":"41.3007","cty":"LYCOMING","hp":true,"id":8828858,"mun":"ANTHONY TWP","nc":50,"ne":{"a":"41.30996","o":"-77.14962"},"o":"-77.16679","sw":{"a":"41.29144","o":"-77.18397"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.49854,40.91217],"type":"Point"},"properties":{"a":"40.91217","cty":"COLUMBIA","hp":true,"id":8828866,"mun":"FRANKLIN TWP","nc":11,"ne":{"a":"40.91373","o":"-76.48979"},"o":"-76.49854","sw":{"a":"40.9106","o":"-76.50728"}},"type":"Feature"}
+{"geometry":{"coordinates":[-76.49854,40.91217],"type":"Point"},"properties":{"a":"40.91217","cty":"COLUMBIA","hp":true,"id":8828866,"mun":"FRANKLIN TWP","nc":11,"ne":{"a":"40.91373","o":"-76.48979"},"o":"-76.49854","sw":{"a":"40.9106","o":"-76.50728"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.4785,40.56553],"type":"Point"},"properties":{"a":"40.56553","cty":"LEHIGH","hp":true,"id":8828931,"mun":"LOWER MACUNGIE TWP","nc":2264,"ne":{"a":"40.6119","o":"-75.36429"},"o":"-75.4785","sw":{"a":"40.51917","o":"-75.59272"}},"type":"Feature"}
 ]}

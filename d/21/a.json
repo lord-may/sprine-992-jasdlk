@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.664873,43.786529],"type":"Point"},"properties":{"EstRest":"10/21/2026 11:30:00 PM","Outages":1,"cause":"","county":"YORK","crewstatus":"ONST ","customers":55,"hamlet":"LIMINGTON","incidentnumber":"0044DW","incidents":1,"level":"street","opco":"CMP","street":"HANSCOMB SCHOOL RD","town":"LIMINGTON"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.664873,43.786529],"type":"Point"},"properties":{"EstRest":"10/21/2026 11:30:00 PM","Outages":1,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+
 ]}
