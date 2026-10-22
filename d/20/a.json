@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-76.525553,43.222097],"type":"Point"},"properties":{"EstRest":"10/22/2026 12:15:00 PM","Outages":3,"cause":"","county":"CAYUGA","crewstatus":"DISP ","customers":23,"hamlet":"CATO","incidentnumber":"0116W9","incidents":1,"level":"street","opco":"RGE","street":"IRA HILL RD","town":"IRA (CATO)"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.525553,43.222097],"type":"Point"},"properties":{"EstRest":"10/22/2026 12:15:00 PM","Outages":3,"county":"CAYUGA","customers":6136,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.482305,43.143664],"type":"Point"},"properties":{"EstRest":"","Outages":3,"cause":"System Upgrade","county":"MONROE","crewstatus":"DISP ","customers":135,"hamlet":"PENFIELD","incidentnumber":"0116NF","incidents":1,"level":"street","opco":"RGE","street":"WHALEN RD","town":"PENFIELD"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.482305,43.143664],"type":"Point"},"properties":{"EstRest":"","Outages":3,"county":"MONROE","customers":303507,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
