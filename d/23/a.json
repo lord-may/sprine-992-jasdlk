@@ -31,5 +31,9 @@
 {"geometry":{"coordinates":[-76.720873,41.243407],"type":"Point"},"properties":{"a":"41.243407","cty":"LYCOMING","id":8829083,"mun":"WOLF TWP","nc":1,"o":"-76.720873"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.653393,41.415485],"type":"Point"},"properties":{"a":"41.415485","cty":"LACKAWANNA","id":8829084,"mun":"SCRANTON","nc":7,"o":"-75.653393"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.764615,40.924833],"type":"Point"},"properties":{"a":"40.924833","cty":"NORTHUMBERLAND","id":8829086,"mun":"POINT TWP","nc":3,"o":"-76.764615"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.276574,40.303159],"type":"Point"},"properties":{"a":"40.303159","cty":"BUCKS","id":8829087,"mun":"HILLTOWN TWP","nc":2,"o":"-75.276574"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.480119,40.603998],"type":"Point"},"properties":{"a":"40.603998","cty":"LEHIGH","id":8829091,"mun":"ALLENTOWN","nc":1,"o":"-75.480119"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.404972,40.168899],"type":"Point"},"properties":{"a":"40.168899","cty":"CUMBERLAND","id":8829096,"mun":"NEWVILLE BORO","nc":7,"o":"-77.404972"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.424,40.095465],"type":"Point"},"properties":{"a":"40.095465","cty":"LANCASTER","id":8829097,"mun":"WEST HEMPFIELD TWP","nc":10,"o":"-76.424"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.837846,40.289527],"type":"Point"},"properties":{"a":"40.289527","cty":"DAUPHIN","id":8829101,"mun":"SUSQUEHANNA TWP","nc":17,"o":"-76.837846"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.981471,40.336459],"type":"Point"},"properties":{"a":"40.336459","cty":"BERKS","id":8829103,"mun":"WYOMISSING BORO","nc":7,"o":"-75.981471"},"type":"Feature"}
 ]}
