@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-71.904425,44.111859],[-71.905593,44.113001],[-71.907417,44.114549],[-71.915942,44.118921],[-71.922293,44.120688],[-71.923532,44.12094],[-71.928096,44.121159],[-71.904425,44.111859]]],"type":"Polygon"},{"coordinates":[-71.915897,44.117335],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"There is a crew on scene making repairs to restore the outage affecting your area. Estimated time of restoration is 4:30PM","estimateTime":1792701000000,"id":"594636","nbrOut":21,"timeOff":1792696162579},"type":"Feature"}
+
 ]}

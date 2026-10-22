@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-69.995561,43.924585],"type":"Point"},"properties":{"EstRest":"10/22/2026 6:00:00 PM","Outages":29,"cause":"","county":"CUMBERLAND","crewstatus":"ONST ","customers":29,"hamlet":"BRUNSWICK","incidentnumber":"0044GW","incidents":1,"level":"street","opco":"CMP","street":"SADLER DR","town":"BRUNSWICK"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.995561,43.924585],"type":"Point"},"properties":{"EstRest":"10/22/2026 6:00:00 PM","Outages":36,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.668794,44.150864],"type":"Point"},"properties":{"EstRest":"10/22/2026 5:15:00 PM","Outages":1,"cause":"","county":"KENNEBEC","crewstatus":"ONST ","customers":1,"hamlet":"PITTSTON","incidentnumber":"0044H8","incidents":1,"level":"street","opco":"CMP","street":"WOODBRDIGE LN","town":"PITTSTON"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.668794,44.150864],"type":"Point"},"properties":{"EstRest":"10/22/2026 5:15:00 PM","Outages":1,"cause":"Equipment Interruption","county":"KENNEBEC","crewstatus":"ONST ","customers":1,"hamlet":"PITTSTON","incidentnumber":"0044H8","incidents":1,"level":"street","opco":"CMP","street":"WOODBRDIGE LN","town":"PITTSTON"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.668794,44.150864],"type":"Point"},"properties":{"EstRest":"10/22/2026 5:15:00 PM","Outages":1,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
