@@ -11,6 +11,12 @@
 {"geometry":{"coordinates":[-76.80393,40.272406],"type":"Point"},"properties":{"a":"40.272406","cty":"DAUPHIN","id":8829024,"mun":"LOWER PAXTON TWP","nc":12,"o":"-76.80393"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.34447,40.63622],"type":"Point"},"properties":{"a":"40.63622","cty":"NORTHAMPTON","hp":true,"id":8829025,"mun":"BETHLEHEM","nc":126,"ne":{"a":"40.63769","o":"-75.34328"},"o":"-75.34447","sw":{"a":"40.63476","o":"-75.34567"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.276574,40.303159],"type":"Point"},"properties":{"a":"40.303159","cty":"BUCKS","id":8829027,"mun":"HILLTOWN TWP","nc":2,"o":"-75.276574"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.931709,40.301205],"type":"Point"},"properties":{"a":"40.301205","cty":"CUMBERLAND","id":8829028,"mun":"EAST PENNSBORO TWP","nc":17,"o":"-76.931709"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.495528,40.385812],"type":"Point"},"properties":{"a":"40.385812","cty":"MONTGOMERY","id":8829029,"mun":"UPPER HANOVER TWP","nc":5,"o":"-75.495528"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.495528,40.385812],"type":"Point"},"properties":{"a":"40.385812","cty":"MONTGOMERY","id":8829029,"mun":"UPPER HANOVER TWP","nc":5,"o":"-75.495528"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.751345,41.32395],"type":"Point"},"properties":{"a":"41.32395","cty":"LUZERNE","id":8829035,"mun":"DUPONT BORO","nc":9,"o":"-75.751345"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.008014,41.239454],"type":"Point"},"properties":{"a":"41.239454","cty":"LYCOMING","id":8829036,"mun":"WILLIAMSPORT","nc":1,"o":"-77.008014"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.76173,41.03571],"type":"Point"},"properties":{"a":"41.03571","cty":"LUZERNE","hp":true,"id":8829037,"mun":"FOSTER TWP","nc":48,"ne":{"a":"41.03664","o":"-75.76071"},"o":"-75.76173","sw":{"a":"41.03477","o":"-75.76275"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.417761,40.634029],"type":"Point"},"properties":{"a":"40.634029","cty":"LEHIGH","id":8829040,"mun":"BETHLEHEM","nc":11,"o":"-75.417761"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.378946,41.015058],"type":"Point"},"properties":{"a":"41.015058","cty":"COLUMBIA","id":8829041,"mun":"SOUTH CENTRE TWP","nc":5,"o":"-76.378946"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.134475,41.729322],"type":"Point"},"properties":{"a":"41.729322","cty":"WAYNE","id":8829042,"mun":"DAMASCUS TWP","nc":1,"o":"-75.134475"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.851192,40.259828],"type":"Point"},"properties":{"a":"40.259828","cty":"DAUPHIN","id":8829043,"mun":"HARRISBURG","nc":1,"o":"-76.851192"},"type":"Feature"}
 ]}
