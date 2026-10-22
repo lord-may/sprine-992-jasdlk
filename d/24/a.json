@@ -1,3 +1,8 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.356253,41.86478],"type":"Point"},"properties":{"a":"41.86478","cty":"PROVIDENCE","id":20261067702,"mun":"PAWTUCKET","nc":1,"o":"-71.356253"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.356253,41.86478],"type":"Point"},"properties":{"a":"41.86478","cty":"PROVIDENCE","id":20261067702,"mun":"PAWTUCKET","nc":1,"o":"-71.356253"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.438613,41.769158],"type":"Point"},"properties":{"a":"41.769158","cty":"PROVIDENCE","id":20261067703,"mun":"CRANSTON","nc":1,"o":"-71.438613"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.553645,41.834979],"type":"Point"},"properties":{"a":"41.834979","cty":"PROVIDENCE","id":20261067706,"mun":"JOHNSTON","nc":1,"o":"-71.553645"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.463597,41.835231],"type":"Point"},"properties":{"a":"41.835231","cty":"PROVIDENCE","id":20261067707,"mun":"PROVIDENCE","nc":1,"o":"-71.463597"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.301872,41.493739],"type":"Point"},"properties":{"a":"41.493739","cty":"NEWPORT","id":20261067708,"mun":"NEWPORT","nc":1,"o":"-71.301872"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.519881,41.997961],"type":"Point"},"properties":{"a":"41.997961","cty":"PROVIDENCE","id":20261067709,"mun":"WOONSOCKET","nc":1,"o":"-71.519881"},"type":"Feature"}
 ]}

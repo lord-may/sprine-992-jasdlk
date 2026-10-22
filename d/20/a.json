@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.482305,43.143664],"type":"Point"},"properties":{"EstRest":"10/22/2026 9:30:00 AM","Outages":31,"county":"MONROE","customers":303507,"incidents":2,"level":"county","opco":"RGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.704017,43.212633],"type":"Point"},"properties":{"EstRest":"10/22/2026 10:45:00 AM","Outages":42,"county":"MONROE","customers":303507,"incidents":3,"level":"county","opco":"RGE"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.711446,43.160261],"type":"Point"},"properties":{"EstRest":"10/22/2026 9:45:00 AM","Outages":1,"cause":"","county":"WAYNE","crewstatus":"     ","customers":16,"hamlet":"SAVANNAH","incidentnumber":"0116TU","incidents":1,"level":"street","opco":"RGE","street":"SAELI RD","town":"BUTLER"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.711446,43.160261],"type":"Point"},"properties":{"EstRest":"10/22/2026 9:45:00 AM","Outages":1,"county":"WAYNE","customers":27029,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
