@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.373339,44.335064],"type":"Point"},"properties":{"EstRest":"10/22/2026 2:30:00 PM","Outages":5,"cause":"Fire/Emergency","county":"OXFORD","crewstatus":"ONST ","customers":29,"hamlet":"HARTFORD","incidentnumber":"0044FA","incidents":1,"level":"street","opco":"CMP","street":"SUMNER RD","town":"HARTFORD"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.375063,44.33817],"type":"Point"},"properties":{"EstRest":"10/22/2026 2:30:00 PM","Outages":58,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+
 ]}
