@@ -13,11 +13,9 @@
 {"geometry":{"coordinates":[-76.11751,40.280463],"type":"Point"},"properties":{"a":"40.280463","cty":"LANCASTER","id":8829074,"mun":"WEST COCALICO TWP","nc":5,"o":"-76.11751"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.910844,40.819996],"type":"Point"},"properties":{"a":"40.819996","cty":"SCHUYLKILL","id":8829076,"mun":"COALDALE BORO","nc":19,"o":"-75.910844"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.447189,40.046558],"type":"Point"},"properties":{"a":"40.046558","cty":"LANCASTER","id":8829077,"mun":"WEST HEMPFIELD TWP","nc":4,"o":"-76.447189"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.09597,40.94071],"type":"Point"},"properties":{"a":"40.94071","cty":"LUZERNE","hp":true,"id":8829078,"mun":"HAZLE TWP","nc":20,"ne":{"a":"40.94151","o":"-76.09235"},"o":"-76.09597","sw":{"a":"40.93991","o":"-76.09959"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.00808,40.81038],"type":"Point"},"properties":{"a":"40.81038","cty":"SNYDER","hp":true,"id":8829081,"mun":"FRANKLIN TWP","nc":33,"ne":{"a":"40.81448","o":"-76.99281"},"o":"-77.00808","sw":{"a":"40.80628","o":"-77.02335"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.653393,41.415485],"type":"Point"},"properties":{"a":"41.415485","cty":"LACKAWANNA","id":8829084,"mun":"SCRANTON","nc":7,"o":"-75.653393"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.764615,40.924833],"type":"Point"},"properties":{"a":"40.924833","cty":"NORTHUMBERLAND","id":8829086,"mun":"POINT TWP","nc":3,"o":"-76.764615"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.404972,40.168899],"type":"Point"},"properties":{"a":"40.168899","cty":"CUMBERLAND","id":8829096,"mun":"NEWVILLE BORO","nc":7,"o":"-77.404972"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.424,40.095465],"type":"Point"},"properties":{"a":"40.095465","cty":"LANCASTER","id":8829097,"mun":"WEST HEMPFIELD TWP","nc":10,"o":"-76.424"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.461288,41.353954],"type":"Point"},"properties":{"a":"41.353954","cty":"LACKAWANNA","id":8829109,"mun":"MADISON TWP","nc":2,"o":"-75.461288"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.903253,40.11609],"type":"Point"},"properties":{"a":"40.11609","cty":"YORK","id":8829118,"mun":"FAIRVIEW TWP","nc":3,"o":"-76.903253"},"type":"Feature"},
@@ -34,11 +32,10 @@
 {"geometry":{"coordinates":[-76.52112,39.973528],"type":"Point"},"properties":{"a":"39.973528","cty":"YORK","id":8829150,"mun":"LOWER WINDSOR TWP","nc":31,"o":"-76.52112"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.077229,40.908863],"type":"Point"},"properties":{"a":"40.908863","cty":"UNION","id":8829154,"mun":"LIMESTONE TWP","nc":1,"o":"-77.077229"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.445698,40.553896],"type":"Point"},"properties":{"a":"40.553896","cty":"LEHIGH","id":8829156,"mun":"UPPER SAUCON TWP","nc":2,"o":"-75.445698"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.867373,40.732725],"type":"Point"},"properties":{"a":"40.732725","cty":"SCHUYLKILL","id":8829158,"mun":"WEST PENN TWP","nc":1,"o":"-75.867373"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.577818,40.782119],"type":"Point"},"properties":{"a":"40.782119","cty":"NORTHUMBERLAND","id":8829161,"mun":"COAL TWP","nc":5,"o":"-76.577818"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.722236,40.715607],"type":"Point"},"properties":{"a":"40.715607","cty":"NORTHUMBERLAND","id":8829165,"mun":"WASHINGTON TWP","nc":1,"o":"-76.722236"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.580314,40.538948],"type":"Point"},"properties":{"a":"40.538948","cty":"LEHIGH","id":8829166,"mun":"LOWER MACUNGIE TWP","nc":8,"o":"-75.580314"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.482505,40.611667],"type":"Point"},"properties":{"a":"40.611667","cty":"LEHIGH","id":8829168,"mun":"ALLENTOWN","nc":43,"o":"-75.482505"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.466451,40.594743],"type":"Point"},"properties":{"a":"40.594743","cty":"LEHIGH","id":8829170,"mun":"ALLENTOWN","nc":1,"o":"-75.466451"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.582437,40.539478],"type":"Point"},"properties":{"a":"40.539478","cty":"LEHIGH","id":8829176,"mun":"LOWER MACUNGIE TWP","nc":7,"o":"-75.582437"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.246493,41.38018],"type":"Point"},"properties":{"a":"41.38018","cty":"PIKE","id":8829183,"mun":"PALMYRA TWP","nc":6,"o":"-75.246493"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.092349,40.939911],"type":"Point"},"properties":{"a":"40.939911","cty":"LUZERNE","id":8829184,"mun":"HAZLE TWP","nc":2,"o":"-76.092349"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.893419,40.289294],"type":"Point"},"properties":{"a":"40.289294","cty":"DAUPHIN","id":8829186,"mun":"HARRISBURG","nc":1,"o":"-76.893419"},"type":"Feature"}
 ]}

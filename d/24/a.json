@@ -9,10 +9,10 @@
 {"geometry":{"coordinates":[-71.613634,41.386662],"type":"Point"},"properties":{"a":"41.386662","cty":"WASHINGTON","id":20261067729,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.613634"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.340349,41.748233],"type":"Point"},"properties":{"a":"41.748233","cty":"BRISTOL","id":20261067741,"mun":"BARRINGTON","nc":1,"o":"-71.340349"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.40659,41.84204],"type":"Point"},"properties":{"a":"41.84204","cty":"PROVIDENCE","id":20261067747,"mun":"PROVIDENCE","nc":1,"o":"-71.40659"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.527542,42.003526],"type":"Point"},"properties":{"a":"42.003526","cty":"PROVIDENCE","id":20261067756,"mun":"WOONSOCKET","nc":1,"o":"-71.527542"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.722871,41.771423],"type":"Point"},"properties":{"a":"41.771423","cty":"PROVIDENCE","id":20261067757,"mun":"FOSTER","nc":1,"o":"-71.722871"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.528594,42.003552],"type":"Point"},"properties":{"a":"42.003552","cty":"PROVIDENCE","id":20261067758,"mun":"WOONSOCKET","nc":1,"o":"-71.528594"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.478658,41.758946],"type":"Point"},"properties":{"a":"41.758946","cty":"PROVIDENCE","id":20261067759,"mun":"CRANSTON","nc":1,"o":"-71.478658"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.679708,41.839072],"type":"Point"},"properties":{"a":"41.839072","cty":"PROVIDENCE","id":20261067760,"mun":"SCITUATE","nc":1,"o":"-71.679708"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.478722,41.396429],"type":"Point"},"properties":{"a":"41.396429","cty":"WASHINGTON","id":20261067765,"mun":"NARRAGANSETT","nc":9,"o":"-71.478722"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.478722,41.396429],"type":"Point"},"properties":{"a":"41.396429","cty":"WASHINGTON","id":20261067765,"mun":"NARRAGANSETT","nc":9,"o":"-71.478722"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.455235,41.771944],"type":"Point"},"properties":{"a":"41.771944","cty":"PROVIDENCE","id":20261067767,"mun":"CRANSTON","nc":1,"o":"-71.455235"},"type":"Feature"}
 ]}
