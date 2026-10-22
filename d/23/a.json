@@ -6,7 +6,6 @@
 {"geometry":{"coordinates":[-76.346891,40.650227],"type":"Point"},"properties":{"a":"40.650227","cty":"SCHUYLKILL","id":8829017,"mun":"REILLY TWP","nc":3,"o":"-76.346891"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.80393,40.272406],"type":"Point"},"properties":{"a":"40.272406","cty":"DAUPHIN","id":8829024,"mun":"LOWER PAXTON TWP","nc":12,"o":"-76.80393"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.34447,40.63622],"type":"Point"},"properties":{"a":"40.63622","cty":"NORTHAMPTON","hp":true,"id":8829025,"mun":"BETHLEHEM","nc":126,"ne":{"a":"40.63769","o":"-75.34328"},"o":"-75.34447","sw":{"a":"40.63476","o":"-75.34567"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.76173,41.03571],"type":"Point"},"properties":{"a":"41.03571","cty":"LUZERNE","hp":true,"id":8829037,"mun":"FOSTER TWP","nc":48,"ne":{"a":"41.03664","o":"-75.76071"},"o":"-75.76173","sw":{"a":"41.03477","o":"-75.76275"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.417761,40.634029],"type":"Point"},"properties":{"a":"40.634029","cty":"LEHIGH","id":8829040,"mun":"BETHLEHEM","nc":11,"o":"-75.417761"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.378946,41.015058],"type":"Point"},"properties":{"a":"41.015058","cty":"COLUMBIA","id":8829041,"mun":"SOUTH CENTRE TWP","nc":5,"o":"-76.378946"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.851192,40.259828],"type":"Point"},"properties":{"a":"40.259828","cty":"DAUPHIN","id":8829043,"mun":"HARRISBURG","nc":1,"o":"-76.851192"},"type":"Feature"},
@@ -34,5 +33,13 @@
 {"geometry":{"coordinates":[-75.632355,40.546639],"type":"Point"},"properties":{"a":"40.546639","cty":"LEHIGH","id":8829125,"mun":"UPPER MACUNGIE TWP","nc":5,"o":"-75.632355"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.281359,40.302703],"type":"Point"},"properties":{"a":"40.302703","cty":"BUCKS","id":8829128,"mun":"HILLTOWN TWP","nc":4,"o":"-75.281359"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.555061,41.483338],"type":"Point"},"properties":{"a":"41.483338","cty":"LACKAWANNA","id":8829129,"mun":"JESSUP BORO","nc":5,"o":"-75.555061"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.533597,40.534516],"type":"Point"},"properties":{"a":"40.534516","cty":"LEHIGH","id":8829130,"mun":"LOWER MACUNGIE TWP","nc":4,"o":"-75.533597"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.115456,40.458656],"type":"Point"},"properties":{"a":"40.458656","cty":"PERRY","id":8829131,"mun":"OLIVER TWP","nc":1,"o":"-77.115456"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.535357,40.533531],"type":"Point"},"properties":{"a":"40.533531","cty":"LEHIGH","id":8829132,"mun":"LOWER MACUNGIE TWP","nc":6,"o":"-75.535357"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.532743,40.535976],"type":"Point"},"properties":{"a":"40.535976","cty":"LEHIGH","id":8829133,"mun":"LOWER MACUNGIE TWP","nc":4,"o":"-75.532743"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.705846,41.525023],"type":"Point"},"properties":{"a":"41.525023","cty":"LACKAWANNA","id":8829135,"mun":"WAVERLY TWP","nc":8,"o":"-75.705846"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.51437,40.6611],"type":"Point"},"properties":{"a":"40.6611","cty":"SCHUYLKILL","hp":true,"id":8829136,"mun":"HEGINS TWP","nc":23,"ne":{"a":"40.66595","o":"-76.50446"},"o":"-76.51437","sw":{"a":"40.65625","o":"-76.52428"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.606028,40.897767],"type":"Point"},"properties":{"a":"40.897767","cty":"NORTHUMBERLAND","id":8829139,"mun":"RUSH TWP","nc":5,"o":"-76.606028"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.482505,40.611667],"type":"Point"},"properties":{"a":"40.611667","cty":"LEHIGH","id":8829141,"mun":"ALLENTOWN","nc":43,"o":"-75.482505"},"type":"Feature"},
+{"geometry":{"coordinates":[-74.92121,41.38264],"type":"Point"},"properties":{"a":"41.38264","cty":"PIKE","hp":true,"id":8829142,"mun":"SHOHOLA TWP","nc":9,"ne":{"a":"41.3836","o":"-74.91917"},"o":"-74.92121","sw":{"a":"41.38168","o":"-74.92326"}},"type":"Feature"},
+{"geometry":{"coordinates":[-77.050404,41.272956],"type":"Point"},"properties":{"a":"41.272956","cty":"LYCOMING","id":8829144,"mun":"LOYALSOCK TWP","nc":2,"o":"-77.050404"},"type":"Feature"}
 ]}
