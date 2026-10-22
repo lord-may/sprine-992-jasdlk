@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-68.4415,45.3801],[-68.4396,45.3808],[-68.4415,45.3817],[-68.4436,45.3818],[-68.4462,45.3817],[-68.4512,45.3814],[-68.4503,45.3812],[-68.4415,45.3801]]],"type":"Polygon"},{"coordinates":[-68.44436,45.38108],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"Under Investigation","orig":"Under Investigation"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":null,"cust_a":{"val":25},"etr":"ETR-NULL","etr_confidence":null,"inc_id":"576395-1","n_out":1,"start_time":null,"title":"Area Outage"},"type":"Feature"}
 ]}
