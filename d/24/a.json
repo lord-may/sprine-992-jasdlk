@@ -7,5 +7,11 @@
 {"geometry":{"coordinates":[-71.575181,41.816758],"type":"Point"},"properties":{"a":"41.816758","cty":"PROVIDENCE","id":20261067713,"mun":"SCITUATE","nc":1,"o":"-71.575181"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.435415,41.879016],"type":"Point"},"properties":{"a":"41.879016","cty":"PROVIDENCE","id":20261067714,"mun":"LINCOLN","nc":1,"o":"-71.435415"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.524119,41.676144],"type":"Point"},"properties":{"a":"41.676144","cty":"KENT","id":20261067715,"mun":"WEST WARWICK","nc":1,"o":"-71.524119"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.464719,41.832893],"type":"Point"},"properties":{"a":"41.832893","cty":"PROVIDENCE","id":20261067716,"mun":"PROVIDENCE","nc":1,"o":"-71.464719"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.514965,41.898698],"type":"Point"},"properties":{"a":"41.898698","cty":"PROVIDENCE","id":20261067717,"mun":"SMITHFIELD","nc":1,"o":"-71.514965"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.721242,41.480216],"type":"Point"},"properties":{"a":"41.480216","cty":"WASHINGTON","id":20261067718,"mun":"HOPKINTON","nc":1,"o":"-71.721242"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.423234,41.802328],"type":"Point"},"properties":{"a":"41.802328","cty":"PROVIDENCE","id":20261067719,"mun":"PROVIDENCE","nc":1,"o":"-71.423234"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.40811,41.826385],"type":"Point"},"properties":{"a":"41.826385","cty":"PROVIDENCE","id":20261067720,"mun":"PROVIDENCE","nc":1,"o":"-71.40811"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.371526,41.86546],"type":"Point"},"properties":{"a":"41.86546","cty":"PROVIDENCE","id":20261067721,"mun":"PAWTUCKET","nc":1,"o":"-71.371526"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.448951,41.84334],"type":"Point"},"properties":{"a":"41.84334","cty":"PROVIDENCE","id":20261067722,"mun":"PROVIDENCE","nc":1,"o":"-71.448951"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.441395,41.721827],"type":"Point"},"properties":{"a":"41.721827","cty":"KENT","id":20261067723,"mun":"WARWICK","nc":1,"o":"-71.441395"},"type":"Feature"}
 ]}
