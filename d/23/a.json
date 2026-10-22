@@ -7,5 +7,6 @@
 {"geometry":{"coordinates":[-75.839051,40.075551],"type":"Point"},"properties":{"a":"40.075551","cty":"CHESTER","id":8828983,"mun":"HONEYBROOK TWP","nc":1,"o":"-75.839051"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.087379,41.27873],"type":"Point"},"properties":{"a":"41.27873","cty":"PIKE","id":8828984,"mun":"PORTER TWP","nc":1,"o":"-75.087379"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.373022,40.590574],"type":"Point"},"properties":{"a":"40.590574","cty":"NORTHAMPTON","id":8828985,"mun":"LOWER SAUCON TWP","nc":1,"o":"-75.373022"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.250601,41.363963],"type":"Point"},"properties":{"a":"41.363963","cty":"PIKE","id":8828986,"mun":"PALMYRA TWP","nc":3,"o":"-75.250601"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.250601,41.363963],"type":"Point"},"properties":{"a":"41.363963","cty":"PIKE","id":8828986,"mun":"PALMYRA TWP","nc":3,"o":"-75.250601"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.262362,41.369711],"type":"Point"},"properties":{"a":"41.369711","cty":"PIKE","id":8828990,"mun":"PALMYRA TWP","nc":3,"o":"-75.262362"},"type":"Feature"}
 ]}
