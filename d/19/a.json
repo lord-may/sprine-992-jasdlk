@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-73.399603,44.847616],"type":"Point"},"properties":{"EstRest":"10/23/2026 8:45:00 AM","Outages":171,"cause":"","county":"CLINTON","crewstatus":"DISP ","customers":180,"hamlet":"CHAZY","incidentnumber":"01174M","incidents":1,"level":"street","opco":"NYSEG","street":"LAKE SHORE RD","town":"CHAZY T"},"type":"Feature"},
+{"geometry":{"coordinates":[-73.399603,44.847616],"type":"Point"},"properties":{"EstRest":"10/23/2026 8:45:00 AM","Outages":171,"cause":"","county":"CLINTON","crewstatus":"ONST ","customers":180,"hamlet":"CHAZY","incidentnumber":"01174M","incidents":1,"level":"street","opco":"NYSEG","street":"LAKE SHORE RD","town":"CHAZY T"},"type":"Feature"},
 {"geometry":{"coordinates":[-73.424163,44.837248],"type":"Point"},"properties":{"EstRest":"10/23/2026 8:45:00 AM","Outages":979,"county":"CLINTON","customers":28864,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
