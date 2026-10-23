@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-73.424163,44.837248],"type":"Point"},"properties":{"EstRest":"10/23/2026 8:45:00 AM","Outages":979,"county":"CLINTON","customers":28864,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-73.459289,44.878364],"type":"Point"},"properties":{"EstRest":"10/23/2026 8:45:00 AM","Outages":6,"cause":"","county":"CLINTON","crewstatus":"     ","customers":6,"hamlet":"CHAZY","incidentnumber":"01174M","incidents":1,"level":"street","opco":"NYSEG","street":"BUGBY RD","town":"CHAZY T"},"type":"Feature"},
 {"geometry":{"coordinates":[-73.46782,42.20891],"type":"Point"},"properties":{"EstRest":"","Outages":8,"cause":"Equipment Interruption","county":"COLUMBIA","crewstatus":"DISP ","customers":8,"hamlet":"HILLSDALE","incidentnumber":"01170K","incidents":1,"level":"street","opco":"NYSEG","street":"SHUN TOLL RD","town":"HILLSDALE T"},"type":"Feature"},
 {"geometry":{"coordinates":[-73.46782,42.20891],"type":"Point"},"properties":{"EstRest":"","Outages":8,"county":"COLUMBIA","customers":15380,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
