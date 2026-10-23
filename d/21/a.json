@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.003149,43.719281],"type":"Point"},"properties":{"EstRest":"10/23/2026 8:00:00 AM","Outages":1,"cause":"","county":"CUMBERLAND","crewstatus":"DISP ","customers":3,"hamlet":"HARPSWELL","incidentnumber":"0044IP","incidents":1,"level":"street","opco":"CMP","street":"S END RD","town":"HARPSWELL"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.003149,43.719281],"type":"Point"},"properties":{"EstRest":"10/23/2026 8:00:00 AM","Outages":1,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.003149,43.719281],"type":"Point"},"properties":{"EstRest":"10/23/2026 8:45:00 AM","Outages":3,"cause":"Tree","county":"CUMBERLAND","crewstatus":"ONST ","customers":3,"hamlet":"HARPSWELL","incidentnumber":"0044IR","incidents":1,"level":"street","opco":"CMP","street":"S END RD","town":"HARPSWELL"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.003376,43.720583],"type":"Point"},"properties":{"EstRest":"10/23/2026 8:45:00 AM","Outages":15,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
