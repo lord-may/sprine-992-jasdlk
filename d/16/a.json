@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-77.71561,39.68007],"type":"Point"},"properties":{"cause":{"EN-US":"Pending Investigation","orig":"Pending Investigation"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Preparing for Crew Assessment - Your outage has been reported. Crews will be assigned to investigate.","orig":"Preparing for Crew Assessment"},"cust_a":{"mask":20,"val":19},"etr":"2026-10-23T13:30:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":null,"title":"Area Outage"},"type":"Feature"}
 ]}
