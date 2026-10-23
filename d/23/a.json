@@ -9,5 +9,7 @@
 {"geometry":{"coordinates":[-76.25387,41.098971],"type":"Point"},"properties":{"a":"41.098971","cty":"COLUMBIA","id":8829497,"mun":"BRIAR CREEK TWP","nc":1,"o":"-76.25387"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.165858,41.406337],"type":"Point"},"properties":{"a":"41.406337","cty":"PIKE","id":8829498,"mun":"BLOOMING GROVE TWP","nc":1,"o":"-75.165858"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.279982,40.220593],"type":"Point"},"properties":{"a":"40.220593","cty":"LANCASTER","id":8829499,"mun":"ELIZABETH TWP","nc":2,"o":"-76.279982"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.030197,40.255712],"type":"Point"},"properties":{"a":"40.255712","cty":"CUMBERLAND","id":8829500,"mun":"SILVER SPRING TWP","nc":1,"o":"-77.030197"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.030197,40.255712],"type":"Point"},"properties":{"a":"40.255712","cty":"CUMBERLAND","id":8829500,"mun":"SILVER SPRING TWP","nc":1,"o":"-77.030197"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.466451,40.594743],"type":"Point"},"properties":{"a":"40.594743","cty":"LEHIGH","id":8829504,"mun":"ALLENTOWN","nc":1,"o":"-75.466451"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.394172,41.135809],"type":"Point"},"properties":{"a":"41.135809","cty":"MONROE","id":8829505,"mun":"COOLBAUGH TWP","nc":2,"o":"-75.394172"},"type":"Feature"}
 ]}
