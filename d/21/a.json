@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.485942,44.079377],"type":"Point"},"properties":{"EstRest":"10/23/2026 11:45:00 AM","Outages":5,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.487526,44.081651],"type":"Point"},"properties":{"EstRest":"10/23/2026 11:45:00 AM","Outages":4,"cause":"","county":"OXFORD","crewstatus":"ONST ","customers":4,"hamlet":"OXFORD","incidentnumber":"0044K1","incidents":1,"level":"street","opco":"CMP","street":"LOON LN","town":"OXFORD"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.860275,43.549847],"type":"Point"},"properties":{"EstRest":"10/23/2026 1:00:00 PM","Outages":19,"cause":"","county":"YORK","crewstatus":"DISP ","customers":19,"hamlet":"SHAPLEIGH","incidentnumber":"0044KB","incidents":1,"level":"street","opco":"CMP","street":"21ST ST","town":"SHAPLEIGH"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.863525,43.544684],"type":"Point"},"properties":{"EstRest":"10/23/2026 1:00:00 PM","Outages":49,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
