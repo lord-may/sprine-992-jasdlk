@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.4124,40.997109],"type":"Point"},"properties":{"a":"40.997109","cty":"COLUMBIA","id":8829660,"mun":"MAIN TWP","nc":3,"o":"-76.4124"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.616866,41.012844],"type":"Point"},"properties":{"a":"41.012844","cty":"MONTOUR","id":8829675,"mun":"VALLEY TWP","nc":2,"o":"-76.616866"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.242212,40.528716],"type":"Point"},"properties":{"a":"40.528716","cty":"BUCKS","id":8829729,"mun":"SPRINGFIELD TWP","nc":1,"o":"-75.242212"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.242212,40.528716],"type":"Point"},"properties":{"a":"40.528716","cty":"BUCKS","id":8829729,"mun":"SPRINGFIELD TWP","nc":1,"o":"-75.242212"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.87231,41.2422],"type":"Point"},"properties":{"a":"41.2422","cty":"LUZERNE","hp":true,"id":8829756,"mun":"WILKES-BARRE","nc":340,"ne":{"a":"41.24899","o":"-75.86508"},"o":"-75.87231","sw":{"a":"41.23541","o":"-75.87953"}},"type":"Feature"}
 ]}
