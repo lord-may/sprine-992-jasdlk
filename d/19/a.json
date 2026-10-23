@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-74.586154,41.609858],"type":"Point"},"properties":{"EstRest":"10/23/2026 10:45:00 AM","Outages":109,"county":"SULLIVAN","customers":50281,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-74.586526,41.610546],"type":"Point"},"properties":{"EstRest":"10/23/2026 10:45:00 AM","Outages":14,"cause":"","county":"SULLIVAN","crewstatus":"DISP ","customers":19,"hamlet":"ROCK HILL","incidentnumber":"01174Y","incidents":1,"level":"street","opco":"NYSEG","street":"LAKE SHORE DR W","town":"THOMPSON T"},"type":"Feature"}
 ]}
