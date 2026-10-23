@@ -1,5 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.563083,41.729761],"type":"Point"},"properties":{"a":"41.729761","cty":"PROVIDENCE","id":20261067933,"mun":"COVENTRY","nc":1,"o":"-71.563083"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.400168,41.693234],"type":"Point"},"properties":{"a":"41.693234","cty":"KENT","id":20261067949,"mun":"WARWICK","nc":1,"o":"-71.400168"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.385629,41.545822],"type":"Point"},"properties":{"a":"41.545822","cty":"NEWPORT","id":20261067951,"mun":"JAMESTOWN","nc":9,"o":"-71.385629"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.385629,41.545822],"type":"Point"},"properties":{"a":"41.545822","cty":"NEWPORT","id":20261067951,"mun":"JAMESTOWN","nc":9,"o":"-71.385629"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.186474,41.660841],"type":"Point"},"properties":{"a":"41.660841","cty":"NEWPORT","id":20261067959,"mun":"TIVERTON","nc":1,"o":"-71.186474"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.338358,41.749852],"type":"Point"},"properties":{"a":"41.749852","cty":"BRISTOL","id":20261067960,"mun":"BARRINGTON","nc":1,"o":"-71.338358"},"type":"Feature"}
 ]}
