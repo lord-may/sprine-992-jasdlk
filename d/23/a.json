@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.273006,41.21092],"type":"Point"},"properties":{"a":"41.21092","cty":"MONROE","id":8829421,"mun":"BARRETT TWP","nc":9,"o":"-75.273006"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.244805,41.380138],"type":"Point"},"properties":{"a":"41.380138","cty":"PIKE","id":8829453,"mun":"PALMYRA TWP","nc":5,"o":"-75.244805"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.139739,40.646309],"type":"Point"},"properties":{"a":"40.646309","cty":"SCHUYLKILL","id":8829462,"mun":"NORTH MANHEIM TWP","nc":2,"o":"-76.139739"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.139739,40.646309],"type":"Point"},"properties":{"a":"40.646309","cty":"SCHUYLKILL","id":8829462,"mun":"NORTH MANHEIM TWP","nc":2,"o":"-76.139739"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.896655,41.275154],"type":"Point"},"properties":{"a":"41.275154","cty":"LYCOMING","id":8829479,"mun":"FAIRFIELD TWP","nc":2,"o":"-76.896655"},"type":"Feature"}
 ]}
