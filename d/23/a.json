@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.244805,41.380138],"type":"Point"},"properties":{"a":"41.380138","cty":"PIKE","id":8829453,"mun":"PALMYRA TWP","nc":5,"o":"-75.244805"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.139739,40.646309],"type":"Point"},"properties":{"a":"40.646309","cty":"SCHUYLKILL","id":8829462,"mun":"NORTH MANHEIM TWP","nc":2,"o":"-76.139739"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.154532,40.66621],"type":"Point"},"properties":{"a":"40.66621","cty":"JUNIATA","id":8829480,"mun":"MONROE TWP","nc":2,"o":"-77.154532"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.266815,41.367572],"type":"Point"},"properties":{"a":"41.367572","cty":"PIKE","id":8829481,"mun":"PALMYRA TWP","nc":1,"o":"-75.266815"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.154532,40.66621],"type":"Point"},"properties":{"a":"40.66621","cty":"JUNIATA","id":8829480,"mun":"MONROE TWP","nc":2,"o":"-77.154532"},"type":"Feature"}
 ]}
