@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.154532,40.66621],"type":"Point"},"properties":{"a":"40.66621","cty":"JUNIATA","id":8829480,"mun":"MONROE TWP","nc":2,"o":"-77.154532"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.276513,40.144769],"type":"Point"},"properties":{"a":"40.144769","cty":"LANCASTER","id":8829483,"mun":"WARWICK TWP","nc":3,"o":"-76.276513"},"type":"Feature"}
 ]}
