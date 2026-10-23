@@ -1,11 +1,8 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.2706,41.57525],"type":"Point"},"properties":{"a":"41.57525","cty":"NEWPORT","hp":true,"id":20261067876,"mun":"PORTSMOUTH","nc":13,"ne":{"a":"41.57644","o":"-71.26989"},"o":"-71.2706","sw":{"a":"41.57406","o":"-71.2713"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.259002,41.597015],"type":"Point"},"properties":{"a":"41.597015","cty":"NEWPORT","id":20261067877,"mun":"PORTSMOUTH","nc":1,"o":"-71.259002"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.75968,41.77227],"type":"Point"},"properties":{"a":"41.77227","cty":"PROVIDENCE","hp":true,"id":20261067879,"mun":"FOSTER","nc":4,"ne":{"a":"41.77308","o":"-71.75886"},"o":"-71.75968","sw":{"a":"41.77146","o":"-71.76051"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.348274,41.892622],"type":"Point"},"properties":{"a":"41.892622","cty":"PROVIDENCE","id":20261067884,"mun":"PAWTUCKET","nc":1,"o":"-71.348274"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.425039,41.871494],"type":"Point"},"properties":{"a":"41.871494","cty":"PROVIDENCE","id":20261067885,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.425039"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.452244,41.871089],"type":"Point"},"properties":{"a":"41.871089","cty":"PROVIDENCE","id":20261067888,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.452244"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.261095,41.668468],"type":"Point"},"properties":{"a":"41.668468","cty":"BRISTOL","id":20261067893,"mun":"BRISTOL","nc":1,"o":"-71.261095"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.403137,41.702893],"type":"Point"},"properties":{"a":"41.702893","cty":"KENT","id":20261067894,"mun":"WARWICK","nc":1,"o":"-71.403137"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.279892,41.540053],"type":"Point"},"properties":{"a":"41.540053","cty":"NEWPORT","id":20261067897,"mun":"MIDDLETOWN","nc":1,"o":"-71.279892"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.261095,41.668468],"type":"Point"},"properties":{"a":"41.668468","cty":"BRISTOL","id":20261067893,"mun":"BRISTOL","nc":1,"o":"-71.261095"},"type":"Feature"}
 ]}
