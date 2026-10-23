@@ -1,9 +1,12 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.394718,41.85211],"type":"Point"},"properties":{"a":"41.85211","cty":"PROVIDENCE","id":20261067875,"mun":"PROVIDENCE","nc":1,"o":"-71.394718"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.270544,41.575165],"type":"Point"},"properties":{"a":"41.575165","cty":"NEWPORT","id":20261067876,"mun":"PORTSMOUTH","nc":1,"o":"-71.270544"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.2706,41.57525],"type":"Point"},"properties":{"a":"41.57525","cty":"NEWPORT","hp":true,"id":20261067876,"mun":"PORTSMOUTH","nc":13,"ne":{"a":"41.57644","o":"-71.26989"},"o":"-71.2706","sw":{"a":"41.57406","o":"-71.2713"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.259002,41.597015],"type":"Point"},"properties":{"a":"41.597015","cty":"NEWPORT","id":20261067877,"mun":"PORTSMOUTH","nc":1,"o":"-71.259002"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.405193,41.763803],"type":"Point"},"properties":{"a":"41.763803","cty":"KENT","id":20261067878,"mun":"WARWICK","nc":1,"o":"-71.405193"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.75968,41.77227],"type":"Point"},"properties":{"a":"41.77227","cty":"PROVIDENCE","hp":true,"id":20261067879,"mun":"FOSTER","nc":4,"ne":{"a":"41.77308","o":"-71.75886"},"o":"-71.75968","sw":{"a":"41.77146","o":"-71.76051"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.397416,41.867264],"type":"Point"},"properties":{"a":"41.867264","cty":"PROVIDENCE","id":20261067882,"mun":"PAWTUCKET","nc":1,"o":"-71.397416"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.155994,41.486381],"type":"Point"},"properties":{"a":"41.486381","cty":"NEWPORT","id":20261067883,"mun":"LITTLE COMPTON","nc":2,"o":"-71.155994"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.155994,41.486381],"type":"Point"},"properties":{"a":"41.486381","cty":"NEWPORT","id":20261067883,"mun":"LITTLE COMPTON","nc":2,"o":"-71.155994"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.348274,41.892622],"type":"Point"},"properties":{"a":"41.892622","cty":"PROVIDENCE","id":20261067884,"mun":"PAWTUCKET","nc":1,"o":"-71.348274"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.425039,41.871494],"type":"Point"},"properties":{"a":"41.871494","cty":"PROVIDENCE","id":20261067885,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.425039"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.503662,41.804087],"type":"Point"},"properties":{"a":"41.804087","cty":"PROVIDENCE","id":20261067886,"mun":"JOHNSTON","nc":1,"o":"-71.503662"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.452244,41.871089],"type":"Point"},"properties":{"a":"41.871089","cty":"PROVIDENCE","id":20261067888,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.452244"},"type":"Feature"}
 ]}
