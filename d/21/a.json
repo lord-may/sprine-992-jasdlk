@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.604634,43.182276],"type":"Point"},"properties":{"EstRest":"10/23/2026 6:30:00 PM","Outages":9,"cause":"","county":"YORK","crewstatus":"ONST ","customers":17,"hamlet":"YORK","incidentnumber":"0044LR","incidents":1,"level":"street","opco":"CMP","street":"BAY HAVEN RD","town":"YORK"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.604634,43.182276],"type":"Point"},"properties":{"EstRest":"10/23/2026 6:30:00 PM","Outages":9,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.916079,43.927285],"type":"Point"},"properties":{"EstRest":"10/23/2026 7:15:00 PM","Outages":1,"cause":"","county":"OXFORD","crewstatus":"ENRT ","customers":38,"hamlet":"BROWNFIELD","incidentnumber":"0044LV","incidents":1,"level":"street","opco":"CMP","street":"DUGWAY RD","town":"BROWNFIELD"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.916079,43.927285],"type":"Point"},"properties":{"EstRest":"10/23/2026 7:15:00 PM","Outages":1,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
