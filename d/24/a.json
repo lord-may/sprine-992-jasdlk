@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-71.57107,41.78765],"type":"Point"},"properties":{"a":"41.78765","cty":"PROVIDENCE","hp":true,"id":20261067862,"mun":"JOHNSTON","nc":104,"ne":{"a":"41.79374","o":"-71.55301"},"o":"-71.57107","sw":{"a":"41.78156","o":"-71.58913"}},"type":"Feature"}
 ]}
