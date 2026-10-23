@@ -4,6 +4,6 @@
 {"geometry":{"coordinates":[-76.670701,40.273455],"type":"Point"},"properties":{"a":"40.273455","cty":"DAUPHIN","id":8829402,"mun":"DERRY TWP","nc":8,"o":"-76.670701"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.273006,41.21092],"type":"Point"},"properties":{"a":"41.21092","cty":"MONROE","id":8829421,"mun":"BARRETT TWP","nc":9,"o":"-75.273006"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.133492,40.649651],"type":"Point"},"properties":{"a":"40.649651","cty":"JUNIATA","id":8829443,"mun":"MONROE TWP","nc":3,"o":"-77.133492"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.24519,40.90738],"type":"Point"},"properties":{"a":"40.90738","cty":"UNION","hp":true,"id":8829446,"mun":"HARTLEY TWP","nc":15,"ne":{"a":"40.91388","o":"-77.21936"},"o":"-77.24519","sw":{"a":"40.90089","o":"-77.27102"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.26415,40.142009],"type":"Point"},"properties":{"a":"40.142009","cty":"LANCASTER","id":8829447,"mun":"WARWICK TWP","nc":2,"o":"-76.26415"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.26358,40.14246],"type":"Point"},"properties":{"a":"40.14246","cty":"LANCASTER","hp":true,"id":8829449,"mun":"WARWICK TWP","nc":10,"ne":{"a":"40.1449","o":"-76.25972"},"o":"-76.26358","sw":{"a":"40.14001","o":"-76.26744"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.466451,40.594743],"type":"Point"},"properties":{"a":"40.594743","cty":"LEHIGH","id":8829452,"mun":"ALLENTOWN","nc":1,"o":"-75.466451"},"type":"Feature"}
 ]}
