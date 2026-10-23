@@ -1,7 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.08688,40.09922],"type":"Point"},"properties":{"a":"40.09922","cty":"NA","hp":true,"id":8829282,"mun":"NA","nc":45,"ne":{"a":"40.10144","o":"-76.08432"},"o":"-76.08688","sw":{"a":"40.097","o":"-76.08944"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.273006,41.21092],"type":"Point"},"properties":{"a":"41.21092","cty":"MONROE","id":8829421,"mun":"BARRETT TWP","nc":9,"o":"-75.273006"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.133492,40.649651],"type":"Point"},"properties":{"a":"40.649651","cty":"JUNIATA","id":8829443,"mun":"MONROE TWP","nc":3,"o":"-77.133492"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.26358,40.14246],"type":"Point"},"properties":{"a":"40.14246","cty":"LANCASTER","hp":true,"id":8829449,"mun":"WARWICK TWP","nc":10,"ne":{"a":"40.1449","o":"-76.25972"},"o":"-76.26358","sw":{"a":"40.14001","o":"-76.26744"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.244805,41.380138],"type":"Point"},"properties":{"a":"41.380138","cty":"PIKE","id":8829453,"mun":"PALMYRA TWP","nc":5,"o":"-75.244805"},"type":"Feature"}
 ]}
