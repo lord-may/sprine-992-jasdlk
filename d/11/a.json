@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-73.02615,40.83292],"type":"Point"},"properties":{"cause":{"EN-US":"Pending Investigation","es-US":"Investigación pendiente"},"cluster":false,"comments":null,"crew_icon":true,"crew_status":{"EN-US":"Currently assessing damage","es-US":"Evaluando daños","orig":"Dispatched"},"cust_a":{"mask":5,"val":4},"etr":"ETR-NULL","etrRange":"Tomorrow by 1:00AM","etr_confidence":null,"id":"ES-RED-2005901175","inc_id":null,"n_out":1,"start_time":null,"title":"Area Outage"},"type":"Feature"}
 ]}
