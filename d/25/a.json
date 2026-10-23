@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-72.591464,44.036323],"type":"Point"},"properties":{"active":true,"affectingCustomers":true,"cause":0,"county":"Orange","crew_name":",ROYA-RUSSELL,CHAD","customers_affected":17,"customers_affected_label":"17 Customers","device":"FUSE","etor":"2026-10-23T19:00-04:00","has_etor":1,"incident_id":1016359,"status":"CREW_ASSIGNED","street":"EAST ST","town":"Brookfield","trouble":"NO_POWER"},"type":"Feature"}
+
 ]}
