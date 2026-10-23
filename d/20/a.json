@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.463222,43.223157],"type":"Point"},"properties":{"EstRest":"10/23/2026 8:15:00 PM","Outages":1,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":115,"hamlet":"WEBSTER","incidentnumber":"0117D6","incidents":1,"level":"street","opco":"RGE","street":"HARD RD","town":"WEBSTER"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.463222,43.223157],"type":"Point"},"properties":{"EstRest":"10/23/2026 8:15:00 PM","Outages":1,"county":"MONROE","customers":303507,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
+
 ]}
