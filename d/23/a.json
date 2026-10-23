@@ -3,5 +3,6 @@
 {"geometry":{"coordinates":[-76.616866,41.012844],"type":"Point"},"properties":{"a":"41.012844","cty":"MONTOUR","id":8829675,"mun":"VALLEY TWP","nc":2,"o":"-76.616866"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.160764,40.337961],"type":"Point"},"properties":{"a":"40.337961","cty":"PERRY","id":8829677,"mun":"CARROLL TWP","nc":6,"o":"-77.160764"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.158591,40.337781],"type":"Point"},"properties":{"a":"40.337781","cty":"PERRY","id":8829678,"mun":"CARROLL TWP","nc":33,"o":"-77.158591"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.242212,40.528716],"type":"Point"},"properties":{"a":"40.528716","cty":"BUCKS","id":8829729,"mun":"SPRINGFIELD TWP","nc":1,"o":"-75.242212"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.242212,40.528716],"type":"Point"},"properties":{"a":"40.528716","cty":"BUCKS","id":8829729,"mun":"SPRINGFIELD TWP","nc":1,"o":"-75.242212"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.83195,40.267632],"type":"Point"},"properties":{"a":"40.267632","cty":"DAUPHIN","id":8829740,"mun":"SUSQUEHANNA TWP","nc":1,"o":"-76.83195"},"type":"Feature"}
 ]}
