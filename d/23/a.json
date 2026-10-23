@@ -7,5 +7,7 @@
 {"geometry":{"coordinates":[-77.158591,40.337781],"type":"Point"},"properties":{"a":"40.337781","cty":"PERRY","id":8829678,"mun":"CARROLL TWP","nc":33,"o":"-77.158591"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.83179,40.27428],"type":"Point"},"properties":{"a":"40.27428","cty":"DAUPHIN","hp":true,"id":8829689,"mun":"LOWER PAXTON TWP","nc":897,"ne":{"a":"40.28336","o":"-76.82232"},"o":"-76.83179","sw":{"a":"40.26519","o":"-76.84127"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.825311,40.26521],"type":"Point"},"properties":{"a":"40.26521","cty":"DAUPHIN","id":8829690,"mun":"SWATARA TWP","nc":10,"o":"-76.825311"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.493236,41.005907],"type":"Point"},"properties":{"a":"41.005907","cty":"MONROE","id":8829692,"mun":"TUNKHANNOCK TWP","nc":4,"o":"-75.493236"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.493236,41.005907],"type":"Point"},"properties":{"a":"41.005907","cty":"MONROE","id":8829692,"mun":"TUNKHANNOCK TWP","nc":4,"o":"-75.493236"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.971389,40.564563],"type":"Point"},"properties":{"a":"40.564563","cty":"DAUPHIN","id":8829715,"mun":"UPPER PAXTON TWP","nc":1,"o":"-76.971389"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.49238,40.600606],"type":"Point"},"properties":{"a":"40.600606","cty":"LEHIGH","id":8829716,"mun":"ALLENTOWN","nc":54,"o":"-75.49238"},"type":"Feature"}
 ]}
