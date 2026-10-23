@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-73.248799,44.967942],"type":"Point"},"properties":{"cause":"UNKNOWN","crewAssigned":false,"estimateTime":1792777500000,"id":"849548","nbrOut":1,"timeOff":1792765500000},"type":"Feature"},
-{"geometry":{"coordinates":[-73.349042,44.893762],"type":"Point"},"properties":{"cause":"UNKNOWN","crewAssigned":false,"id":"849552","nbrOut":1,"timeOff":1792773763229},"type":"Feature"},
-{"geometry":{"coordinates":[-73.111851,44.421361],"type":"Point"},"properties":{"cause":"UNKNOWN","crewAssigned":false,"estimateTime":1792785600000,"id":"849554","nbrOut":2,"timeOff":1792774184207},"type":"Feature"}
+{"geometry":{"coordinates":[-73.349042,44.893762],"type":"Point"},"properties":{"cause":"UNKNOWN","crewAssigned":true,"estimateTime":1792784700000,"id":"849552","nbrOut":1,"timeOff":1792773763229},"type":"Feature"},
+{"geometry":{"coordinates":[-73.111851,44.421361],"type":"Point"},"properties":{"cause":"COMPANY INITIATED OUTAGE","crewAssigned":true,"estimateTime":1792785600000,"id":"849554","nbrOut":2,"timeOff":1792773900000},"type":"Feature"}
 ]}
