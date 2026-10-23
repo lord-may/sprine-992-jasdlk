@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-77.287466,42.832408],"type":"Point"},"properties":{"EstRest":"10/23/2026 11:00:00 AM","Outages":1,"cause":"","county":"MONROE","crewstatus":"ONST ","customers":1,"hamlet":"CANANDAIGUA","incidentnumber":"01176A","incidents":1,"level":"street","opco":"RGE","street":"RILEYS RUN","town":"CANANDAIGUA T"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.287466,42.832408],"type":"Point"},"properties":{"EstRest":"10/23/2026 11:00:00 AM","Outages":1,"county":"MONROE","customers":303507,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.298815,42.830218],"type":"Point"},"properties":{"EstRest":"10/23/2026 11:00:00 AM","Outages":19,"cause":"","county":"ONTARIO","crewstatus":"ONST ","customers":19,"hamlet":"CANANDAIGUA","incidentnumber":"01176A","incidents":1,"level":"street","opco":"RGE","street":"HARVEST VW","town":"CANANDAIGUA T"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.315329,42.841541],"type":"Point"},"properties":{"EstRest":"10/23/2026 11:00:00 AM","Outages":666,"county":"ONTARIO","customers":35916,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.295325,42.832686],"type":"Point"},"properties":{"EstRest":"10/23/2026 11:45:00 AM","Outages":918,"county":"ONTARIO","customers":35916,"incidents":2,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
