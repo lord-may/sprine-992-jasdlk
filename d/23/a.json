@@ -13,8 +13,6 @@
 {"geometry":{"coordinates":[-75.33429,40.587162],"type":"Point"},"properties":{"a":"40.587162","cty":"NORTHAMPTON","id":8829589,"mun":"HELLERTOWN BORO","nc":9,"o":"-75.33429"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.357862,40.544425],"type":"Point"},"properties":{"a":"40.544425","cty":"LEHIGH","id":8829599,"mun":"UPPER SAUCON TWP","nc":2,"o":"-75.357862"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.782123,40.342386],"type":"Point"},"properties":{"a":"40.342386","cty":"DAUPHIN","id":8829601,"mun":"LOWER PAXTON TWP","nc":6,"o":"-76.782123"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.88564,40.322699],"type":"Point"},"properties":{"a":"40.322699","cty":"DAUPHIN","id":8829602,"mun":"HARRISBURG","nc":1,"o":"-76.88564"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.765378,40.925752],"type":"Point"},"properties":{"a":"40.925752","cty":"NORTHUMBERLAND","id":8829603,"mun":"POINT TWP","nc":2,"o":"-76.765378"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.396258,41.025254],"type":"Point"},"properties":{"a":"41.025254","cty":"COLUMBIA","id":8829608,"mun":"SCOTT TWP","nc":2,"o":"-76.396258"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.868866,40.205216],"type":"Point"},"properties":{"a":"40.205216","cty":"YORK","id":8829609,"mun":"FAIRVIEW TWP","nc":2,"o":"-76.868866"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.275082,41.35811],"type":"Point"},"properties":{"a":"41.35811","cty":"PIKE","id":8829615,"mun":"PALMYRA TWP","nc":2,"o":"-75.275082"},"type":"Feature"},
@@ -25,5 +23,5 @@
 {"geometry":{"coordinates":[-75.567424,41.550984],"type":"Point"},"properties":{"a":"41.550984","cty":"LACKAWANNA","id":8829643,"mun":"CARBONDALE TWP","nc":3,"o":"-75.567424"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.76619,40.976669],"type":"Point"},"properties":{"a":"40.976669","cty":"CARBON","id":8829644,"mun":"LEHIGH TWP","nc":4,"o":"-75.76619"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.398036,40.474917],"type":"Point"},"properties":{"a":"40.474917","cty":"BUCKS","id":8829647,"mun":"MILFORD TWP","nc":2,"o":"-75.398036"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.634282,40.548609],"type":"Point"},"properties":{"a":"40.548609","cty":"LEHIGH","id":8829651,"mun":"UPPER MACUNGIE TWP","nc":4,"o":"-75.634282"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.956138,40.877257],"type":"Point"},"properties":{"a":"40.877257","cty":"SNYDER","id":8829654,"mun":"JACKSON TWP","nc":1,"o":"-76.956138"},"type":"Feature"}
 ]}
