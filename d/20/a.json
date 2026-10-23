@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-77.463222,43.223157],"type":"Point"},"properties":{"EstRest":"10/23/2026 8:15:00 PM","Outages":1,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":115,"hamlet":"WEBSTER","incidentnumber":"0117D6","incidents":1,"level":"street","opco":"RGE","street":"HARD RD","town":"WEBSTER"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.463222,43.223157],"type":"Point"},"properties":{"EstRest":"10/23/2026 8:15:00 PM","Outages":1,"county":"MONROE","customers":303507,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.40744,43.015546],"type":"Point"},"properties":{"EstRest":"10/23/2026 6:15:00 PM","Outages":6,"cause":"","county":"ONTARIO","crewstatus":"DISP ","customers":68,"hamlet":"VICTOR","incidentnumber":"0117AS","incidents":1,"level":"street","opco":"RGE","street":"COBBLE CREEK RD","town":"VICTOR"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.408471,43.018119],"type":"Point"},"properties":{"EstRest":"10/23/2026 6:15:00 PM","Outages":19,"county":"ONTARIO","customers":35916,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.463222,43.223157],"type":"Point"},"properties":{"EstRest":"10/23/2026 8:15:00 PM","Outages":1,"county":"MONROE","customers":303507,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
