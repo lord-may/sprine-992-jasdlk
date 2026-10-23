@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-70.683451,44.013892],"type":"Point"},"properties":{"EstRest":"10/23/2026 1:15:00 PM","Outages":1,"cause":"","county":"CUMBERLAND","crewstatus":"DISP ","customers":5,"hamlet":"BRIDGTON","incidentnumber":"0044KE","incidents":1,"level":"street","opco":"CMP","street":"CONFORTE HILL RD","town":"BRIDGTON"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.683451,44.013892],"type":"Point"},"properties":{"EstRest":"10/23/2026 1:15:00 PM","Outages":1,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.860275,43.549847],"type":"Point"},"properties":{"EstRest":"10/23/2026 1:00:00 PM","Outages":19,"cause":"","county":"YORK","crewstatus":"DISP ","customers":19,"hamlet":"SHAPLEIGH","incidentnumber":"0044KB","incidents":1,"level":"street","opco":"CMP","street":"21ST ST","town":"SHAPLEIGH"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.860275,43.549847],"type":"Point"},"properties":{"EstRest":"10/23/2026 1:00:00 PM","Outages":19,"cause":"","county":"YORK","crewstatus":"     ","customers":19,"hamlet":"SHAPLEIGH","incidentnumber":"0044KB","incidents":1,"level":"street","opco":"CMP","street":"21ST ST","town":"SHAPLEIGH"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.863525,43.544684],"type":"Point"},"properties":{"EstRest":"10/23/2026 1:00:00 PM","Outages":49,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}

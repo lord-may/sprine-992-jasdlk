@@ -3,7 +3,6 @@
 {"geometry":{"coordinates":[-77.030197,40.255712],"type":"Point"},"properties":{"a":"40.255712","cty":"CUMBERLAND","id":8829500,"mun":"SILVER SPRING TWP","nc":1,"o":"-77.030197"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.256392,40.755519],"type":"Point"},"properties":{"a":"40.755519","cty":"NORTHAMPTON","id":8829508,"mun":"STOCKERTON BORO","nc":10,"o":"-75.256392"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.420314,40.645279],"type":"Point"},"properties":{"a":"40.645279","cty":"LEHIGH","id":8829513,"mun":"BETHLEHEM","nc":25,"o":"-75.420314"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.567559,41.495624],"type":"Point"},"properties":{"a":"41.495624","cty":"LACKAWANNA","id":8829515,"mun":"ARCHBALD BORO","nc":4,"o":"-75.567559"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.41653,40.124695],"type":"Point"},"properties":{"a":"40.124695","cty":"LANCASTER","id":8829517,"mun":"RAPHO TWP","nc":5,"o":"-76.41653"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.239084,40.78128],"type":"Point"},"properties":{"a":"40.78128","cty":"SCHUYLKILL","id":8829518,"mun":"BUTLER TWP","nc":5,"o":"-76.239084"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.932174,40.302128],"type":"Point"},"properties":{"a":"40.302128","cty":"CUMBERLAND","id":8829519,"mun":"EAST PENNSBORO TWP","nc":19,"o":"-76.932174"},"type":"Feature"},
@@ -18,7 +17,6 @@
 {"geometry":{"coordinates":[-75.566637,41.49696],"type":"Point"},"properties":{"a":"41.49696","cty":"LACKAWANNA","id":8829580,"mun":"ARCHBALD BORO","nc":4,"o":"-75.566637"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.765062,40.925274],"type":"Point"},"properties":{"a":"40.925274","cty":"NORTHUMBERLAND","id":8829582,"mun":"POINT TWP","nc":2,"o":"-76.765062"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.33429,40.587162],"type":"Point"},"properties":{"a":"40.587162","cty":"NORTHAMPTON","id":8829589,"mun":"HELLERTOWN BORO","nc":9,"o":"-75.33429"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.25236,40.62356],"type":"Point"},"properties":{"a":"40.62356","cty":"NORTHAMPTON","hp":true,"id":8829590,"mun":"WILLIAMS TWP","nc":32,"ne":{"a":"40.62687","o":"-75.24684"},"o":"-75.25236","sw":{"a":"40.62025","o":"-75.25789"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.469758,40.628466],"type":"Point"},"properties":{"a":"40.628466","cty":"LEHIGH","id":8829596,"mun":"WHITEHALL TWP","nc":2,"o":"-75.469758"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.543492,41.142871],"type":"Point"},"properties":{"a":"41.142871","cty":"MONROE","id":8829598,"mun":"TOBYHANNA TWP","nc":3,"o":"-75.543492"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.357862,40.544425],"type":"Point"},"properties":{"a":"40.544425","cty":"LEHIGH","id":8829599,"mun":"UPPER SAUCON TWP","nc":2,"o":"-75.357862"},"type":"Feature"},
@@ -29,5 +27,7 @@
 {"geometry":{"coordinates":[-76.868866,40.205216],"type":"Point"},"properties":{"a":"40.205216","cty":"YORK","id":8829609,"mun":"FAIRVIEW TWP","nc":2,"o":"-76.868866"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.493188,40.392361],"type":"Point"},"properties":{"a":"40.392361","cty":"MONTGOMERY","id":8829614,"mun":"UPPER HANOVER TWP","nc":19,"o":"-75.493188"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.275082,41.35811],"type":"Point"},"properties":{"a":"41.35811","cty":"PIKE","id":8829615,"mun":"PALMYRA TWP","nc":2,"o":"-75.275082"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.230594,40.784338],"type":"Point"},"properties":{"a":"40.784338","cty":"SCHUYLKILL","id":8829622,"mun":"FRACKVILLE BORO","nc":7,"o":"-76.230594"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.003014,40.294303],"type":"Point"},"properties":{"a":"40.294303","cty":"CUMBERLAND","id":8829626,"mun":"HAMPDEN TWP","nc":2,"o":"-77.003014"},"type":"Feature"},
+{"geometry":{"coordinates":[-74.912143,41.412787],"type":"Point"},"properties":{"a":"41.412787","cty":"PIKE","id":8829632,"mun":"SHOHOLA TWP","nc":1,"o":"-74.912143"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.565724,41.496363],"type":"Point"},"properties":{"a":"41.496363","cty":"LACKAWANNA","id":8829633,"mun":"ARCHBALD BORO","nc":3,"o":"-75.565724"},"type":"Feature"}
 ]}
