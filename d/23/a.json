@@ -4,8 +4,7 @@
 {"geometry":{"coordinates":[-76.670701,40.273455],"type":"Point"},"properties":{"a":"40.273455","cty":"DAUPHIN","id":8829402,"mun":"DERRY TWP","nc":8,"o":"-76.670701"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.713552,40.829233],"type":"Point"},"properties":{"a":"40.829233","cty":"NORTHUMBERLAND","id":8829413,"mun":"ROCKEFELLER TWP","nc":1,"o":"-76.713552"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.399531,41.016022],"type":"Point"},"properties":{"a":"41.016022","cty":"COLUMBIA","id":8829419,"mun":"SCOTT TWP","nc":2,"o":"-76.399531"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.27669,41.21021],"type":"Point"},"properties":{"a":"41.21021","cty":"MONROE","hp":true,"id":8829421,"mun":"BARRETT TWP","nc":13,"ne":{"a":"41.21324","o":"-75.27068"},"o":"-75.27669","sw":{"a":"41.20718","o":"-75.2827"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.273006,41.21092],"type":"Point"},"properties":{"a":"41.21092","cty":"MONROE","id":8829421,"mun":"BARRETT TWP","nc":9,"o":"-75.273006"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.568603,40.136316],"type":"Point"},"properties":{"a":"40.136316","cty":"LANCASTER","id":8829431,"mun":"MOUNT JOY TWP","nc":4,"o":"-76.568603"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.053322,40.625872],"type":"Point"},"properties":{"a":"40.625872","cty":"SCHUYLKILL","id":8829434,"mun":"WEST BRUNSWICK TWP","nc":2,"o":"-76.053322"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.569537,40.135765],"type":"Point"},"properties":{"a":"40.135765","cty":"LANCASTER","id":8829436,"mun":"MOUNT JOY TWP","nc":4,"o":"-76.569537"},"type":"Feature"}
 ]}
