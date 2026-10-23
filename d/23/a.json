@@ -9,5 +9,7 @@
 {"geometry":{"coordinates":[-76.01245,40.31972],"type":"Point"},"properties":{"a":"40.31972","cty":"BERKS","hp":true,"id":8829417,"mun":"SINKING SPRING BORO","nc":195,"ne":{"a":"40.32164","o":"-76.005"},"o":"-76.01245","sw":{"a":"40.31781","o":"-76.01991"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.279016,41.367362],"type":"Point"},"properties":{"a":"41.367362","cty":"PIKE","id":8829418,"mun":"PALMYRA TWP","nc":1,"o":"-75.279016"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.399531,41.016022],"type":"Point"},"properties":{"a":"41.016022","cty":"COLUMBIA","id":8829419,"mun":"SCOTT TWP","nc":2,"o":"-76.399531"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.27669,41.21021],"type":"Point"},"properties":{"a":"41.21021","cty":"MONROE","hp":true,"id":8829421,"mun":"BARRETT TWP","nc":13,"ne":{"a":"41.21324","o":"-75.27068"},"o":"-75.27669","sw":{"a":"41.20718","o":"-75.2827"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.27669,41.21021],"type":"Point"},"properties":{"a":"41.21021","cty":"MONROE","hp":true,"id":8829421,"mun":"BARRETT TWP","nc":13,"ne":{"a":"41.21324","o":"-75.27068"},"o":"-75.27669","sw":{"a":"41.20718","o":"-75.2827"}},"type":"Feature"},
+{"geometry":{"coordinates":[-77.031,40.839415],"type":"Point"},"properties":{"a":"40.839415","cty":"SNYDER","id":8829424,"mun":"CENTRE TWP","nc":2,"o":"-77.031"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.608126,41.023372],"type":"Point"},"properties":{"a":"41.023372","cty":"CARBON","id":8829426,"mun":"KIDDER TWP","nc":3,"o":"-75.608126"},"type":"Feature"}
 ]}
