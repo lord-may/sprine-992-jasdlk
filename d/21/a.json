@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.534017,44.488102],"type":"Point"},"properties":{"EstRest":"10/22/2026 10:00:00 PM","Outages":11,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.535176,44.489058],"type":"Point"},"properties":{"EstRest":"10/22/2026 10:00:00 PM","Outages":8,"cause":"","county":"KENNEBEC","crewstatus":"ONST ","customers":40,"hamlet":"CHINA","incidentnumber":"0044I8","incidents":1,"level":"street","opco":"CMP","street":"WATERVILLE RD","town":"CHINA"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.8263,43.989037],"type":"Point"},"properties":{"EstRest":"10/22/2026 10:00:00 PM","Outages":15,"cause":"","county":"OXFORD","crewstatus":"ONST ","customers":66,"hamlet":"DENMARK","incidentnumber":"0044IC","incidents":1,"level":"street","opco":"CMP","street":"DENMARK RD","town":"DENMARK"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.832932,43.991301],"type":"Point"},"properties":{"EstRest":"10/22/2026 10:00:00 PM","Outages":26,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
