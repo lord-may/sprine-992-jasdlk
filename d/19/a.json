@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-73.406094,42.49445],"type":"Point"},"properties":{"EstRest":"10/23/2026 1:30:00 AM","Outages":9,"county":"COLUMBIA","customers":15380,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-74.997234,42.449807],"type":"Point"},"properties":{"EstRest":"10/23/2026 12:00:00 AM","Outages":71,"county":"OTSEGO","customers":25547,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"}
+{"geometry":{"coordinates":[-74.997234,42.449807],"type":"Point"},"properties":{"EstRest":"10/23/2026 1:00:00 AM","Outages":71,"county":"OTSEGO","customers":25547,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
