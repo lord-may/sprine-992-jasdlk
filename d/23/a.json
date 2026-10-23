@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.276513,40.144769],"type":"Point"},"properties":{"a":"40.144769","cty":"LANCASTER","id":8829483,"mun":"WARWICK TWP","nc":3,"o":"-76.276513"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.488901,40.62271],"type":"Point"},"properties":{"a":"40.62271","cty":"LEHIGH","id":8829488,"mun":"WHITEHALL TWP","nc":11,"o":"-75.488901"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.488901,40.62271],"type":"Point"},"properties":{"a":"40.62271","cty":"LEHIGH","id":8829488,"mun":"WHITEHALL TWP","nc":11,"o":"-75.488901"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.555668,40.701171],"type":"Point"},"properties":{"a":"40.701171","cty":"LEHIGH","id":8829489,"mun":"NORTH WHITEHALL TWP","nc":2,"o":"-75.555668"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.097989,41.618047],"type":"Point"},"properties":{"a":"41.618047","cty":"WAYNE","id":8829490,"mun":"DAMASCUS TWP","nc":2,"o":"-75.097989"},"type":"Feature"}
 ]}

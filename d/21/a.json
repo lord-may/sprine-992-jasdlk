@@ -1,5 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-70.003149,43.719281],"type":"Point"},"properties":{"EstRest":"10/23/2026 8:45:00 AM","Outages":3,"cause":"Tree","county":"CUMBERLAND","crewstatus":"ONST ","customers":3,"hamlet":"HARPSWELL","incidentnumber":"0044IR","incidents":1,"level":"street","opco":"CMP","street":"S END RD","town":"HARPSWELL"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.003376,43.720583],"type":"Point"},"properties":{"EstRest":"10/23/2026 8:45:00 AM","Outages":15,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.967511,44.166159],"type":"Point"},"properties":{"EstRest":"10/23/2026 9:45:00 AM","Outages":17,"county":"KENNEBEC","customers":75925,"incidents":3,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.967511,44.166159],"type":"Point"},"properties":{"EstRest":"10/23/2026 9:45:00 AM","Outages":17,"county":"KENNEBEC","customers":75925,"incidents":3,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.918177,44.095368],"type":"Point"},"properties":{"EstRest":"10/23/2026 9:45:00 AM","Outages":46,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.944968,44.079316],"type":"Point"},"properties":{"EstRest":"10/23/2026 9:45:00 AM","Outages":1,"cause":"","county":"OXFORD","crewstatus":"     ","customers":1,"hamlet":"FRYEBURG","incidentnumber":"0044J0","incidents":1,"level":"street","opco":"CMP","street":"WEBBER DR","town":"FRYEBURG"},"type":"Feature"}
 ]}
