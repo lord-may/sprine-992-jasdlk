@@ -7,6 +7,5 @@
 {"geometry":{"coordinates":[-75.27669,41.21021],"type":"Point"},"properties":{"a":"41.21021","cty":"MONROE","hp":true,"id":8829421,"mun":"BARRETT TWP","nc":13,"ne":{"a":"41.21324","o":"-75.27068"},"o":"-75.27669","sw":{"a":"41.20718","o":"-75.2827"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.568603,40.136316],"type":"Point"},"properties":{"a":"40.136316","cty":"LANCASTER","id":8829431,"mun":"MOUNT JOY TWP","nc":4,"o":"-76.568603"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.053322,40.625872],"type":"Point"},"properties":{"a":"40.625872","cty":"SCHUYLKILL","id":8829434,"mun":"WEST BRUNSWICK TWP","nc":2,"o":"-76.053322"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.569537,40.135765],"type":"Point"},"properties":{"a":"40.135765","cty":"LANCASTER","id":8829436,"mun":"MOUNT JOY TWP","nc":4,"o":"-76.569537"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.374645,40.610252],"type":"Point"},"properties":{"a":"40.610252","cty":"NORTHAMPTON","id":8829437,"mun":"BETHLEHEM","nc":11,"o":"-75.374645"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.569537,40.135765],"type":"Point"},"properties":{"a":"40.135765","cty":"LANCASTER","id":8829436,"mun":"MOUNT JOY TWP","nc":4,"o":"-76.569537"},"type":"Feature"}
 ]}

@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.8263,43.989037],"type":"Point"},"properties":{"EstRest":"10/22/2026 10:00:00 PM","Outages":15,"cause":"","county":"OXFORD","crewstatus":"ONST ","customers":66,"hamlet":"DENMARK","incidentnumber":"0044IC","incidents":1,"level":"street","opco":"CMP","street":"DENMARK RD","town":"DENMARK"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.832932,43.991301],"type":"Point"},"properties":{"EstRest":"10/22/2026 10:00:00 PM","Outages":26,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+
 ]}
