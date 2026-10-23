@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.33429,40.587162],"type":"Point"},"properties":{"a":"40.587162","cty":"NORTHAMPTON","id":8829589,"mun":"HELLERTOWN BORO","nc":9,"o":"-75.33429"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.275082,41.35811],"type":"Point"},"properties":{"a":"41.35811","cty":"PIKE","id":8829615,"mun":"PALMYRA TWP","nc":2,"o":"-75.275082"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.4124,40.997109],"type":"Point"},"properties":{"a":"40.997109","cty":"COLUMBIA","id":8829660,"mun":"MAIN TWP","nc":1,"o":"-76.4124"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.69227,41.513741],"type":"Point"},"properties":{"a":"41.513741","cty":"LACKAWANNA","id":8829669,"mun":"WAVERLY TWP","nc":3,"o":"-75.69227"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.083767,40.441302],"type":"Point"},"properties":{"a":"40.441302","cty":"PERRY","id":8829672,"mun":"MILLER TWP","nc":1,"o":"-77.083767"},"type":"Feature"},
@@ -11,7 +10,8 @@
 {"geometry":{"coordinates":[-76.83179,40.27428],"type":"Point"},"properties":{"a":"40.27428","cty":"DAUPHIN","hp":true,"id":8829689,"mun":"LOWER PAXTON TWP","nc":897,"ne":{"a":"40.28336","o":"-76.82232"},"o":"-76.83179","sw":{"a":"40.26519","o":"-76.84127"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.825311,40.26521],"type":"Point"},"properties":{"a":"40.26521","cty":"DAUPHIN","id":8829690,"mun":"SWATARA TWP","nc":10,"o":"-76.825311"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.493236,41.005907],"type":"Point"},"properties":{"a":"41.005907","cty":"MONROE","id":8829692,"mun":"TUNKHANNOCK TWP","nc":4,"o":"-75.493236"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.843186,40.282239],"type":"Point"},"properties":{"a":"40.282239","cty":"DAUPHIN","id":8829694,"mun":"SUSQUEHANNA TWP","nc":7,"o":"-76.843186"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.849608,40.29121],"type":"Point"},"properties":{"a":"40.29121","cty":"DAUPHIN","id":8829696,"mun":"SUSQUEHANNA TWP","nc":6,"o":"-76.849608"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.837501,40.235036],"type":"Point"},"properties":{"a":"40.235036","cty":"DAUPHIN","id":8829697,"mun":"STEELTON BORO","nc":1,"o":"-76.837501"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.843186,40.282239],"type":"Point"},"properties":{"a":"40.282239","cty":"DAUPHIN","id":8829694,"mun":"SUSQUEHANNA TWP","nc":1,"o":"-76.843186"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.849608,40.29121],"type":"Point"},"properties":{"a":"40.29121","cty":"DAUPHIN","id":8829696,"mun":"SUSQUEHANNA TWP","nc":1,"o":"-76.849608"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.327844,40.662645],"type":"Point"},"properties":{"a":"40.662645","cty":"NORTHAMPTON","id":8829704,"mun":"BETHLEHEM TWP","nc":4,"o":"-75.327844"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.35356,40.62979],"type":"Point"},"properties":{"a":"40.62979","cty":"NORTHAMPTON","id":8829705,"mun":"BETHLEHEM","nc":1,"o":"-75.35356"},"type":"Feature"}
 ]}

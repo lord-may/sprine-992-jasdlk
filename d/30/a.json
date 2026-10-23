@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-73.111851,44.421361],"type":"Point"},"properties":{"cause":"COMPANY INITIATED OUTAGE","crewAssigned":true,"estimateTime":1792785600000,"id":"849554","nbrOut":2,"timeOff":1792773900000},"type":"Feature"}
+
 ]}
