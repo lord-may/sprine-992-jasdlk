@@ -4,7 +4,7 @@
 {"geometry":{"coordinates":[-76.670701,40.273455],"type":"Point"},"properties":{"a":"40.273455","cty":"DAUPHIN","id":8829402,"mun":"DERRY TWP","nc":8,"o":"-76.670701"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.399531,41.016022],"type":"Point"},"properties":{"a":"41.016022","cty":"COLUMBIA","id":8829419,"mun":"SCOTT TWP","nc":2,"o":"-76.399531"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.273006,41.21092],"type":"Point"},"properties":{"a":"41.21092","cty":"MONROE","id":8829421,"mun":"BARRETT TWP","nc":9,"o":"-75.273006"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.568603,40.136316],"type":"Point"},"properties":{"a":"40.136316","cty":"LANCASTER","id":8829431,"mun":"MOUNT JOY TWP","nc":4,"o":"-76.568603"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.569537,40.135765],"type":"Point"},"properties":{"a":"40.135765","cty":"LANCASTER","id":8829436,"mun":"MOUNT JOY TWP","nc":4,"o":"-76.569537"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.902405,41.218195],"type":"Point"},"properties":{"a":"41.218195","cty":"LUZERNE","id":8829442,"mun":"HANOVER TWP","nc":13,"o":"-75.902405"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.133492,40.649651],"type":"Point"},"properties":{"a":"40.649651","cty":"JUNIATA","id":8829443,"mun":"MONROE TWP","nc":3,"o":"-77.133492"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.24519,40.90738],"type":"Point"},"properties":{"a":"40.90738","cty":"UNION","hp":true,"id":8829446,"mun":"HARTLEY TWP","nc":15,"ne":{"a":"40.91388","o":"-77.21936"},"o":"-77.24519","sw":{"a":"40.90089","o":"-77.27102"}},"type":"Feature"}
 ]}
