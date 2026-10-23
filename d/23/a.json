@@ -1,19 +1,18 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.41653,40.124695],"type":"Point"},"properties":{"a":"40.124695","cty":"LANCASTER","id":8829517,"mun":"RAPHO TWP","nc":5,"o":"-76.41653"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.722294,40.713237],"type":"Point"},"properties":{"a":"40.713237","cty":"NORTHUMBERLAND","id":8829543,"mun":"WASHINGTON TWP","nc":2,"o":"-76.722294"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.507566,40.634217],"type":"Point"},"properties":{"a":"40.634217","cty":"LEHIGH","id":8829577,"mun":"WHITEHALL TWP","nc":2,"o":"-75.507566"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.50315,41.69548],"type":"Point"},"properties":{"a":"41.69548","cty":"SUSQUEHANNA","hp":true,"id":8829578,"mun":"CLIFFORD TWP","nc":40,"ne":{"a":"41.69737","o":"-75.50133"},"o":"-75.50315","sw":{"a":"41.69359","o":"-75.50496"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.566637,41.49696],"type":"Point"},"properties":{"a":"41.49696","cty":"LACKAWANNA","id":8829580,"mun":"ARCHBALD BORO","nc":4,"o":"-75.566637"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.33429,40.587162],"type":"Point"},"properties":{"a":"40.587162","cty":"NORTHAMPTON","id":8829589,"mun":"HELLERTOWN BORO","nc":9,"o":"-75.33429"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.357862,40.544425],"type":"Point"},"properties":{"a":"40.544425","cty":"LEHIGH","id":8829599,"mun":"UPPER SAUCON TWP","nc":2,"o":"-75.357862"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.782123,40.342386],"type":"Point"},"properties":{"a":"40.342386","cty":"DAUPHIN","id":8829601,"mun":"LOWER PAXTON TWP","nc":6,"o":"-76.782123"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.275082,41.35811],"type":"Point"},"properties":{"a":"41.35811","cty":"PIKE","id":8829615,"mun":"PALMYRA TWP","nc":2,"o":"-75.275082"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.003014,40.294303],"type":"Point"},"properties":{"a":"40.294303","cty":"CUMBERLAND","id":8829626,"mun":"HAMPDEN TWP","nc":2,"o":"-77.003014"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.565724,41.496363],"type":"Point"},"properties":{"a":"41.496363","cty":"LACKAWANNA","id":8829633,"mun":"ARCHBALD BORO","nc":3,"o":"-75.565724"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.398036,40.474917],"type":"Point"},"properties":{"a":"40.474917","cty":"BUCKS","id":8829647,"mun":"MILFORD TWP","nc":2,"o":"-75.398036"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.4124,40.997109],"type":"Point"},"properties":{"a":"40.997109","cty":"COLUMBIA","id":8829660,"mun":"MAIN TWP","nc":1,"o":"-76.4124"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.69227,41.513741],"type":"Point"},"properties":{"a":"41.513741","cty":"LACKAWANNA","id":8829669,"mun":"WAVERLY TWP","nc":3,"o":"-75.69227"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.083767,40.441302],"type":"Point"},"properties":{"a":"40.441302","cty":"PERRY","id":8829672,"mun":"MILLER TWP","nc":1,"o":"-77.083767"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.205459,40.901589],"type":"Point"},"properties":{"a":"40.901589","cty":"SCHUYLKILL","id":8829674,"mun":"NORTH UNION TWP","nc":1,"o":"-76.205459"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.616866,41.012844],"type":"Point"},"properties":{"a":"41.012844","cty":"MONTOUR","id":8829675,"mun":"VALLEY TWP","nc":2,"o":"-76.616866"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.616866,41.012844],"type":"Point"},"properties":{"a":"41.012844","cty":"MONTOUR","id":8829675,"mun":"VALLEY TWP","nc":2,"o":"-76.616866"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.160764,40.337961],"type":"Point"},"properties":{"a":"40.337961","cty":"PERRY","id":8829677,"mun":"CARROLL TWP","nc":6,"o":"-77.160764"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.158591,40.337781],"type":"Point"},"properties":{"a":"40.337781","cty":"PERRY","id":8829678,"mun":"CARROLL TWP","nc":33,"o":"-77.158591"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.58822,40.16149],"type":"Point"},"properties":{"a":"40.16149","cty":"DAUPHIN","hp":true,"id":8829689,"mun":"LOWER PAXTON TWP","nc":2989,"ne":{"a":"40.29164","o":"-76.31865"},"o":"-76.58822","sw":{"a":"40.03134","o":"-76.85779"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.825311,40.26521],"type":"Point"},"properties":{"a":"40.26521","cty":"DAUPHIN","id":8829690,"mun":"SWATARA TWP","nc":10,"o":"-76.825311"},"type":"Feature"}
 ]}
