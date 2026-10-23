@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-69.78243,43.956915],"type":"Point"},"properties":{"EstRest":"10/23/2026 4:30:00 AM","Outages":1,"cause":"","county":"SAGADAHOC","crewstatus":"DISP ","customers":156,"hamlet":"WOOLWICH","incidentnumber":"0044IN","incidents":1,"level":"street","opco":"CMP","street":"MIDDLE RD","town":"WOOLWICH"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.78243,43.956915],"type":"Point"},"properties":{"EstRest":"10/23/2026 4:30:00 AM","Outages":1,"county":"SAGADAHOC","customers":23026,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
