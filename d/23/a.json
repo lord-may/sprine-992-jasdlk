@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.08688,40.09922],"type":"Point"},"properties":{"a":"40.09922","cty":"NA","hp":true,"id":8829282,"mun":"NA","nc":45,"ne":{"a":"40.10144","o":"-76.08432"},"o":"-76.08688","sw":{"a":"40.097","o":"-76.08944"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.273006,41.21092],"type":"Point"},"properties":{"a":"41.21092","cty":"MONROE","id":8829421,"mun":"BARRETT TWP","nc":9,"o":"-75.273006"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.244805,41.380138],"type":"Point"},"properties":{"a":"41.380138","cty":"PIKE","id":8829453,"mun":"PALMYRA TWP","nc":5,"o":"-75.244805"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.139739,40.646309],"type":"Point"},"properties":{"a":"40.646309","cty":"SCHUYLKILL","id":8829462,"mun":"NORTH MANHEIM TWP","nc":2,"o":"-76.139739"},"type":"Feature"}

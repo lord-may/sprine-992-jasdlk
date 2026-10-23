@@ -1,6 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.501144,43.243871],"type":"Point"},"properties":{"EstRest":"10/23/2026 5:15:00 AM","Outages":579,"county":"MONROE","customers":303507,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.501723,43.241754],"type":"Point"},"properties":{"EstRest":"10/23/2026 5:15:00 AM","Outages":36,"cause":"","county":"MONROE","crewstatus":"     ","customers":56,"hamlet":"WEBSTER","incidentnumber":"011745","incidents":1,"level":"street","opco":"RGE","street":"ADAMS RD","town":"WEBSTER"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.520938,43.237723],"type":"Point"},"properties":{"EstRest":"10/23/2026 5:15:00 AM","Outages":1,"cause":"","county":"WAYNE","crewstatus":"     ","customers":1,"hamlet":"WEBSTER","incidentnumber":"011745","incidents":1,"level":"street","opco":"RGE","street":"LAKE RD","town":"WEBSTER"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.522948,43.237003],"type":"Point"},"properties":{"EstRest":"10/23/2026 5:15:00 AM","Outages":2,"county":"WAYNE","customers":27029,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
+
 ]}
