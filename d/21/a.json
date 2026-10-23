@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.310619,44.449037],"type":"Point"},"properties":{"EstRest":"10/23/2026 1:30:00 AM","Outages":1022,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.313885,44.439377],"type":"Point"},"properties":{"EstRest":"10/23/2026 1:30:00 AM","Outages":1,"cause":"","county":"OXFORD","crewstatus":"ONST ","customers":1,"hamlet":"CANTON","incidentnumber":"0044IJ","incidents":1,"level":"street","opco":"CMP","street":"CANTON RD","town":"CANTON"},"type":"Feature"}
+
 ]}
