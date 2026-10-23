@@ -2,8 +2,8 @@
 {"geometry":{"coordinates":[-75.242212,40.528716],"type":"Point"},"properties":{"a":"40.528716","cty":"BUCKS","id":8829729,"mun":"SPRINGFIELD TWP","nc":1,"o":"-75.242212"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.87231,41.2422],"type":"Point"},"properties":{"a":"41.2422","cty":"LUZERNE","hp":true,"id":8829756,"mun":"WILKES-BARRE","nc":340,"ne":{"a":"41.24899","o":"-75.86508"},"o":"-75.87231","sw":{"a":"41.23541","o":"-75.87953"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.351803,41.151188],"type":"Point"},"properties":{"a":"41.151188","cty":"MONROE","id":8829764,"mun":"COOLBAUGH TWP","nc":2,"o":"-75.351803"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.442231,40.057197],"type":"Point"},"properties":{"a":"40.057197","cty":"LANCASTER","id":8829769,"mun":"WEST HEMPFIELD TWP","nc":4,"o":"-76.442231"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.517212,40.580547],"type":"Point"},"properties":{"a":"40.580547","cty":"LEHIGH","id":8829773,"mun":"SOUTH WHITEHALL TWP","nc":11,"o":"-75.517212"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.868963,41.239196],"type":"Point"},"properties":{"a":"41.239196","cty":"LUZERNE","id":8829779,"mun":"WILKES-BARRE","nc":9,"o":"-75.868963"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.268777,40.400171],"type":"Point"},"properties":{"a":"40.400171","cty":"BUCKS","id":8829782,"mun":"EAST ROCKHILL TWP","nc":1,"o":"-75.268777"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.268777,40.400171],"type":"Point"},"properties":{"a":"40.400171","cty":"BUCKS","id":8829782,"mun":"EAST ROCKHILL TWP","nc":1,"o":"-75.268777"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.38529,41.096339],"type":"Point"},"properties":{"a":"41.096339","cty":"COLUMBIA","id":8829786,"mun":"ORANGE TWP","nc":6,"o":"-76.38529"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.77165,40.81668],"type":"Point"},"properties":{"a":"40.81668","cty":"NORTHUMBERLAND","hp":true,"id":8829788,"mun":"LOWER AUGUSTA TWP","nc":49,"ne":{"a":"40.82036","o":"-76.75748"},"o":"-76.77165","sw":{"a":"40.813","o":"-76.78582"}},"type":"Feature"}
 ]}
