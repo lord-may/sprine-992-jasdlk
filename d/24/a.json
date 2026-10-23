@@ -3,7 +3,6 @@
 {"geometry":{"coordinates":[-71.391643,41.85977],"type":"Point"},"properties":{"a":"41.85977","cty":"PROVIDENCE","id":20261067925,"mun":"PAWTUCKET","nc":1,"o":"-71.391643"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.397209,41.873698],"type":"Point"},"properties":{"a":"41.873698","cty":"PROVIDENCE","id":20261067927,"mun":"PAWTUCKET","nc":1,"o":"-71.397209"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.563083,41.729761],"type":"Point"},"properties":{"a":"41.729761","cty":"PROVIDENCE","id":20261067933,"mun":"COVENTRY","nc":1,"o":"-71.563083"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.371526,41.86546],"type":"Point"},"properties":{"a":"41.86546","cty":"PROVIDENCE","id":20261067935,"mun":"PAWTUCKET","nc":1,"o":"-71.371526"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.434969,41.874867],"type":"Point"},"properties":{"a":"41.874867","cty":"PROVIDENCE","id":20261067939,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.434969"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.392603,41.771349],"type":"Point"},"properties":{"a":"41.771349","cty":"PROVIDENCE","id":20261067941,"mun":"CRANSTON","nc":1,"o":"-71.392603"},"type":"Feature"}
 ]}
