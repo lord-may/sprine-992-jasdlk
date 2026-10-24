@@ -1,7 +1,8 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.276329,43.664807],"type":"Point"},"properties":{"EstRest":"10/24/2026 1:00:00 PM","Outages":20,"county":"CUMBERLAND","customers":182407,"incidents":3,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.214088,43.583981],"type":"Point"},"properties":{"EstRest":"10/24/2026 1:00:00 PM","Outages":21,"county":"CUMBERLAND","customers":182407,"incidents":4,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.298576,44.576392],"type":"Point"},"properties":{"EstRest":"10/24/2026 10:45:00 AM","Outages":4,"cause":"","county":"FRANKLIN","crewstatus":"DISP ","customers":4,"hamlet":"WILTON","incidentnumber":"0044NP","incidents":1,"level":"street","opco":"CMP","street":"SMITH RD","town":"WILTON"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.298576,44.576392],"type":"Point"},"properties":{"EstRest":"10/24/2026 10:45:00 AM","Outages":4,"county":"FRANKLIN","customers":24700,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.080963,44.213672],"type":"Point"},"properties":{"EstRest":"10/24/2026 10:30:00 AM","Outages":41,"county":"KNOX","customers":27251,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.576349,45.262594],"type":"Point"},"properties":{"EstRest":"10/24/2026 10:45:00 AM","Outages":33,"county":"PISCATAQUIS","customers":10243,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.799432,43.228103],"type":"Point"},"properties":{"EstRest":"10/24/2026 10:30:00 AM","Outages":1,"cause":"","county":"YORK","crewstatus":"DISP ","customers":10,"hamlet":"SOUTH BERWICK","incidentnumber":"0044NI","incidents":1,"level":"street","opco":"CMP","street":"WADLEIGH LANE","town":"SOUTH BERWICK"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.799432,43.228103],"type":"Point"},"properties":{"EstRest":"10/24/2026 10:30:00 AM","Outages":2,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.799432,43.228103],"type":"Point"},"properties":{"EstRest":"10/24/2026 11:00:00 AM","Outages":13,"county":"YORK","customers":132723,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
