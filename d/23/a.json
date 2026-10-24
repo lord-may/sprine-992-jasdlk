@@ -1,7 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.33957,40.70556],"type":"Point"},"properties":{"a":"40.70556","cty":"NA","hp":true,"id":8829864,"mun":"NA","nc":290,"ne":{"a":"40.71131","o":"-75.33012"},"o":"-75.33957","sw":{"a":"40.69982","o":"-75.34901"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.425684,40.677329],"type":"Point"},"properties":{"a":"40.677329","cty":"NORTHAMPTON","id":8829932,"mun":"EAST ALLEN TWP","nc":1,"o":"-75.425684"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.505346,40.531505],"type":"Point"},"properties":{"a":"40.531505","cty":"LEHIGH","id":8829949,"mun":"EMMAUS BORO","nc":16,"o":"-75.505346"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.69351,41.510281],"type":"Point"},"properties":{"a":"41.510281","cty":"LACKAWANNA","id":8829965,"mun":"WAVERLY TWP","nc":3,"o":"-75.69351"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.913637,41.238153],"type":"Point"},"properties":{"a":"41.238153","cty":"LUZERNE","id":8829973,"mun":"WILKES-BARRE","nc":1,"o":"-75.913637"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.252812,40.293786],"type":"Point"},"properties":{"a":"40.293786","cty":"PERRY","id":8829981,"mun":"SPRING TWP","nc":1,"o":"-77.252812"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.41389,41.10348],"type":"Point"},"properties":{"a":"41.10348","cty":"COLUMBIA","hp":true,"id":8829982,"mun":"ORANGE TWP","nc":38,"ne":{"a":"41.11254","o":"-76.40461"},"o":"-76.41389","sw":{"a":"41.09442","o":"-76.42316"}},"type":"Feature"}
 ]}
