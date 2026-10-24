@@ -1,12 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-77.008704,40.696326],"type":"Point"},"properties":{"a":"40.696326","cty":"SNYDER","id":8829809,"mun":"PERRY TWP","nc":2,"o":"-77.008704"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.95914,40.24581],"type":"Point"},"properties":{"a":"40.24581","cty":"CUMBERLAND","hp":true,"id":8829821,"mun":"HAMPDEN TWP","nc":651,"ne":{"a":"40.25769","o":"-76.95343"},"o":"-76.95914","sw":{"a":"40.23392","o":"-76.96485"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.9751,40.238452],"type":"Point"},"properties":{"a":"40.238452","cty":"CUMBERLAND","id":8829831,"mun":"HAMPDEN TWP","nc":2,"o":"-76.9751"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.9695,40.245536],"type":"Point"},"properties":{"a":"40.245536","cty":"CUMBERLAND","id":8829835,"mun":"HAMPDEN TWP","nc":3,"o":"-76.9695"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.974262,40.238383],"type":"Point"},"properties":{"a":"40.238383","cty":"CUMBERLAND","id":8829836,"mun":"HAMPDEN TWP","nc":6,"o":"-76.974262"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.982228,40.243342],"type":"Point"},"properties":{"a":"40.243342","cty":"CUMBERLAND","id":8829838,"mun":"HAMPDEN TWP","nc":1,"o":"-76.982228"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.967441,40.245375],"type":"Point"},"properties":{"a":"40.245375","cty":"CUMBERLAND","id":8829841,"mun":"HAMPDEN TWP","nc":5,"o":"-76.967441"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.966621,40.246471],"type":"Point"},"properties":{"a":"40.246471","cty":"CUMBERLAND","id":8829842,"mun":"HAMPDEN TWP","nc":3,"o":"-76.966621"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.977457,40.241178],"type":"Point"},"properties":{"a":"40.241178","cty":"CUMBERLAND","id":8829843,"mun":"HAMPDEN TWP","nc":1,"o":"-76.977457"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.975378,40.240347],"type":"Point"},"properties":{"a":"40.240347","cty":"CUMBERLAND","id":8829844,"mun":"HAMPDEN TWP","nc":3,"o":"-76.975378"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.95914,40.24581],"type":"Point"},"properties":{"a":"40.24581","cty":"CUMBERLAND","hp":true,"id":8829821,"mun":"HAMPDEN TWP","nc":651,"ne":{"a":"40.25769","o":"-76.95343"},"o":"-76.95914","sw":{"a":"40.23392","o":"-76.96485"}},"type":"Feature"}
 ]}
