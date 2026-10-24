@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.055958,43.933402],"type":"Point"},"properties":{"EstRest":"10/24/2026 8:15:00 AM","Outages":2,"cause":"","county":"CUMBERLAND","crewstatus":"     ","customers":88,"hamlet":"BRUNSWICK","incidentnumber":"0044MY","incidents":1,"level":"street","opco":"CMP","street":"DURHAM RD","town":"BRUNSWICK"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.055958,43.933402],"type":"Point"},"properties":{"EstRest":"10/24/2026 8:15:00 AM","Outages":2,"cause":"Equipment Interruption","county":"CUMBERLAND","crewstatus":"ONST ","customers":88,"hamlet":"BRUNSWICK","incidentnumber":"0044MY","incidents":1,"level":"street","opco":"CMP","street":"DURHAM RD","town":"BRUNSWICK"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.055958,43.933402],"type":"Point"},"properties":{"EstRest":"10/24/2026 8:15:00 AM","Outages":2,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
