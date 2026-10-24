@@ -3,6 +3,5 @@
 {"geometry":{"coordinates":[-76.954619,40.2378],"type":"Point"},"properties":{"a":"40.2378","cty":"NA","id":8829821,"mun":"NA","nc":2,"o":"-76.954619"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.509475,41.566135],"type":"Point"},"properties":{"a":"41.566135","cty":"LACKAWANNA","id":8829850,"mun":"CARBONDALE","nc":8,"o":"-75.509475"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.474365,40.609113],"type":"Point"},"properties":{"a":"40.609113","cty":"LEHIGH","id":8829861,"mun":"ALLENTOWN","nc":12,"o":"-75.474365"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.32765,40.70576],"type":"Point"},"properties":{"a":"40.70576","cty":"NORTHAMPTON","hp":true,"id":8829864,"mun":"LOWER NAZARETH TWP","nc":766,"ne":{"a":"40.71667","o":"-75.3063"},"o":"-75.32765","sw":{"a":"40.69484","o":"-75.34901"}},"type":"Feature"},
-{"geometry":{"coordinates":[-77.073369,41.245749],"type":"Point"},"properties":{"a":"41.245749","cty":"LYCOMING","id":8829866,"mun":"OLD LYCOMING TWP","nc":2,"o":"-77.073369"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.32765,40.70576],"type":"Point"},"properties":{"a":"40.70576","cty":"NORTHAMPTON","hp":true,"id":8829864,"mun":"LOWER NAZARETH TWP","nc":766,"ne":{"a":"40.71667","o":"-75.3063"},"o":"-75.32765","sw":{"a":"40.69484","o":"-75.34901"}},"type":"Feature"}
 ]}
