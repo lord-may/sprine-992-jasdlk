@@ -1,11 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.579502,41.848774],"type":"Point"},"properties":{"a":"41.848774","cty":"PROVIDENCE","id":20261068075,"mun":"SCITUATE","nc":1,"o":"-71.579502"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.477871,41.856577],"type":"Point"},"properties":{"a":"41.856577","cty":"PROVIDENCE","id":20261068088,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.477871"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.79781,41.344572],"type":"Point"},"properties":{"a":"41.344572","cty":"WASHINGTON","id":20261068089,"mun":"WESTERLY","nc":1,"o":"-71.79781"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.396961,41.698628],"type":"Point"},"properties":{"a":"41.698628","cty":"KENT","id":20261068097,"mun":"WARWICK","nc":1,"o":"-71.396961"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.385724,41.713514],"type":"Point"},"properties":{"a":"41.713514","cty":"KENT","id":20261068098,"mun":"WARWICK","nc":1,"o":"-71.385724"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.439496,41.70421],"type":"Point"},"properties":{"a":"41.70421","cty":"KENT","id":20261068101,"mun":"WARWICK","nc":1,"o":"-71.439496"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.406373,41.711594],"type":"Point"},"properties":{"a":"41.711594","cty":"KENT","id":20261068103,"mun":"WARWICK","nc":1,"o":"-71.406373"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.410858,41.713541],"type":"Point"},"properties":{"a":"41.713541","cty":"KENT","id":20261068104,"mun":"WARWICK","nc":1,"o":"-71.410858"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.420752,41.702777],"type":"Point"},"properties":{"a":"41.702777","cty":"KENT","id":20261068105,"mun":"WARWICK","nc":1,"o":"-71.420752"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.79781,41.344572],"type":"Point"},"properties":{"a":"41.344572","cty":"WASHINGTON","id":20261068089,"mun":"WESTERLY","nc":1,"o":"-71.79781"},"type":"Feature"}
 ]}
