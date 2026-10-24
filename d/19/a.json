@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-74.558475,42.207239],"type":"Point"},"properties":{"EstRest":"10/23/2026 10:15:00 PM","Outages":3,"cause":"","county":"DELAWARE","crewstatus":"ONST ","customers":20,"hamlet":"DENVER","incidentnumber":"0117DS","incidents":1,"level":"street","opco":"NYSEG","street":"DIMMICK MOUNTAIN RD","town":"MIDDLETOWN T"},"type":"Feature"},
+{"geometry":{"coordinates":[-74.558475,42.207239],"type":"Point"},"properties":{"EstRest":"10/23/2026 10:15:00 PM","Outages":3,"cause":"Equipment Interruption","county":"DELAWARE","crewstatus":"ONST ","customers":20,"hamlet":"DENVER","incidentnumber":"0117DS","incidents":1,"level":"street","opco":"NYSEG","street":"DIMMICK MOUNTAIN RD","town":"MIDDLETOWN T"},"type":"Feature"},
 {"geometry":{"coordinates":[-74.558475,42.207239],"type":"Point"},"properties":{"EstRest":"10/23/2026 10:15:00 PM","Outages":3,"county":"DELAWARE","customers":28314,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
