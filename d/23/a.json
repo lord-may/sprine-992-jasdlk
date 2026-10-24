@@ -1,8 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.33957,40.70556],"type":"Point"},"properties":{"a":"40.70556","cty":"NA","hp":true,"id":8829864,"mun":"NA","nc":290,"ne":{"a":"40.71131","o":"-75.33012"},"o":"-75.33957","sw":{"a":"40.69982","o":"-75.34901"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.821059,40.282189],"type":"Point"},"properties":{"a":"40.282189","cty":"DAUPHIN","id":8829905,"mun":"LOWER PAXTON TWP","nc":19,"o":"-76.821059"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.251103,41.042268],"type":"Point"},"properties":{"a":"41.042268","cty":"CLINTON","id":8829906,"mun":"GREENE TWP","nc":4,"o":"-77.251103"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.20633,40.689719],"type":"Point"},"properties":{"a":"40.689719","cty":"SCHUYLKILL","id":8829919,"mun":"POTTSVILLE","nc":12,"o":"-76.20633"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.159389,41.401643],"type":"Point"},"properties":{"a":"41.401643","cty":"PIKE","id":8829931,"mun":"BLOOMING GROVE TWP","nc":1,"o":"-75.159389"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.425684,40.677329],"type":"Point"},"properties":{"a":"40.677329","cty":"NORTHAMPTON","id":8829932,"mun":"EAST ALLEN TWP","nc":1,"o":"-75.425684"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.904596,41.240185],"type":"Point"},"properties":{"a":"41.240185","cty":"LUZERNE","id":8829934,"mun":"WILKES-BARRE","nc":13,"o":"-75.904596"},"type":"Feature"},

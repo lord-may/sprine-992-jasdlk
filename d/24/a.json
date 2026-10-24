@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.734158,41.846466],"type":"Point"},"properties":{"a":"41.846466","cty":"PROVIDENCE","id":20261068071,"mun":"FOSTER","nc":1,"o":"-71.734158"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.195465,41.463901],"type":"Point"},"properties":{"a":"41.463901","cty":"NEWPORT","id":20261068073,"mun":"LITTLE COMPTON","nc":1,"o":"-71.195465"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.579502,41.848774],"type":"Point"},"properties":{"a":"41.848774","cty":"PROVIDENCE","id":20261068075,"mun":"SCITUATE","nc":1,"o":"-71.579502"},"type":"Feature"}
 ]}
