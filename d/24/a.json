@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.477871,41.856577],"type":"Point"},"properties":{"a":"41.856577","cty":"PROVIDENCE","id":20261068088,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.477871"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.79781,41.344572],"type":"Point"},"properties":{"a":"41.344572","cty":"WASHINGTON","id":20261068089,"mun":"WESTERLY","nc":1,"o":"-71.79781"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.79781,41.344572],"type":"Point"},"properties":{"a":"41.344572","cty":"WASHINGTON","id":20261068089,"mun":"WESTERLY","nc":1,"o":"-71.79781"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.49519,41.56827],"type":"Point"},"properties":{"a":"41.56827","cty":"WASHINGTON","hp":true,"id":20261068113,"mun":"NORTH KINGSTOWN","nc":11,"ne":{"a":"41.56906","o":"-71.49423"},"o":"-71.49519","sw":{"a":"41.56748","o":"-71.49615"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.778146,41.609305],"type":"Point"},"properties":{"a":"41.609305","cty":"KENT","id":20261068114,"mun":"WEST GREENWICH","nc":1,"o":"-71.778146"},"type":"Feature"}
 ]}
