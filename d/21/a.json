@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.196034,43.811826],"type":"Point"},"properties":{"EstRest":"10/23/2026 9:30:00 PM","Outages":2,"county":"CUMBERLAND","customers":182407,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.196034,43.811826],"type":"Point"},"properties":{"EstRest":"10/23/2026 9:30:00 PM","Outages":1,"cause":"","county":"CUMBERLAND","crewstatus":"DISP ","customers":61,"hamlet":"YARMOUTH","incidentnumber":"0044M4","incidents":1,"level":"street","opco":"CMP","street":"RIVERBEND DR","town":"YARMOUTH"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.196034,43.811826],"type":"Point"},"properties":{"EstRest":"10/23/2026 9:30:00 PM","Outages":1,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
