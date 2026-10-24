@@ -5,5 +5,7 @@
 {"geometry":{"coordinates":[-77.065892,40.436092],"type":"Point"},"properties":{"a":"40.436092","cty":"PERRY","id":8829895,"mun":"WHEATFIELD TWP","nc":2,"o":"-77.065892"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.05885,41.298899],"type":"Point"},"properties":{"a":"41.298899","cty":"PIKE","id":8829904,"mun":"BLOOMING GROVE TWP","nc":2,"o":"-75.05885"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.821059,40.282189],"type":"Point"},"properties":{"a":"40.282189","cty":"DAUPHIN","id":8829905,"mun":"LOWER PAXTON TWP","nc":19,"o":"-76.821059"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.251103,41.042268],"type":"Point"},"properties":{"a":"41.042268","cty":"CLINTON","id":8829906,"mun":"GREENE TWP","nc":4,"o":"-77.251103"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.251103,41.042268],"type":"Point"},"properties":{"a":"41.042268","cty":"CLINTON","id":8829906,"mun":"GREENE TWP","nc":4,"o":"-77.251103"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.97758,40.18313],"type":"Point"},"properties":{"a":"40.18313","cty":"CUMBERLAND","hp":true,"id":8829907,"mun":"UPPER ALLEN TWP","nc":14,"ne":{"a":"40.18404","o":"-76.97664"},"o":"-76.97758","sw":{"a":"40.18221","o":"-76.97853"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.060375,41.339035],"type":"Point"},"properties":{"a":"41.339035","cty":"PIKE","id":8829908,"mun":"BLOOMING GROVE TWP","nc":4,"o":"-75.060375"},"type":"Feature"}
 ]}
