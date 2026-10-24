@@ -1,8 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.33957,40.70556],"type":"Point"},"properties":{"a":"40.70556","cty":"NA","hp":true,"id":8829864,"mun":"NA","nc":290,"ne":{"a":"40.71131","o":"-75.33012"},"o":"-75.33957","sw":{"a":"40.69982","o":"-75.34901"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.821059,40.282189],"type":"Point"},"properties":{"a":"40.282189","cty":"DAUPHIN","id":8829905,"mun":"LOWER PAXTON TWP","nc":19,"o":"-76.821059"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.425684,40.677329],"type":"Point"},"properties":{"a":"40.677329","cty":"NORTHAMPTON","id":8829932,"mun":"EAST ALLEN TWP","nc":1,"o":"-75.425684"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.505346,40.531505],"type":"Point"},"properties":{"a":"40.531505","cty":"LEHIGH","id":8829949,"mun":"EMMAUS BORO","nc":16,"o":"-75.505346"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.40643,40.06529],"type":"Point"},"properties":{"a":"40.06529","cty":"LANCASTER","hp":true,"id":8829951,"mun":"WEST HEMPFIELD TWP","nc":42,"ne":{"a":"40.06685","o":"-76.40425"},"o":"-76.40643","sw":{"a":"40.06373","o":"-76.40861"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.69351,41.510281],"type":"Point"},"properties":{"a":"41.510281","cty":"LACKAWANNA","id":8829965,"mun":"WAVERLY TWP","nc":3,"o":"-75.69351"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.69351,41.510281],"type":"Point"},"properties":{"a":"41.510281","cty":"LACKAWANNA","id":8829965,"mun":"WAVERLY TWP","nc":3,"o":"-75.69351"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.913637,41.238153],"type":"Point"},"properties":{"a":"41.238153","cty":"LUZERNE","id":8829973,"mun":"WILKES-BARRE","nc":1,"o":"-75.913637"},"type":"Feature"}
 ]}
