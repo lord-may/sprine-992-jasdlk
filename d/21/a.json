@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-70.048368,43.929228],"type":"Point"},"properties":{"EstRest":"10/24/2026 5:45:00 AM","Outages":26,"cause":"","county":"CUMBERLAND","crewstatus":"ENRT ","customers":88,"hamlet":"BRUNSWICK","incidentnumber":"0044MX","incidents":1,"level":"street","opco":"CMP","street":"DURHAM RD","town":"BRUNSWICK"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.051502,43.928941],"type":"Point"},"properties":{"EstRest":"10/24/2026 5:45:00 AM","Outages":39,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
