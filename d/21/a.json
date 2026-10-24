@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-70.398239,43.798554],"type":"Point"},"properties":{"EstRest":"10/24/2026 7:00:00 PM","Outages":1,"cause":"","county":"CUMBERLAND","crewstatus":"ACKN ","customers":2,"hamlet":"WINDHAM","incidentnumber":"0044PN","incidents":1,"level":"street","opco":"CMP","street":"OUTPOST DR","town":"WINDHAM"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.398239,43.798554],"type":"Point"},"properties":{"EstRest":"10/24/2026 7:00:00 PM","Outages":1,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.398239,43.798554],"type":"Point"},"properties":{"EstRest":"10/24/2026 7:00:00 PM","Outages":1,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.04696,44.212639],"type":"Point"},"properties":{"EstRest":"10/24/2026 7:30:00 PM","Outages":2,"cause":"","county":"KNOX","crewstatus":"     ","customers":3,"hamlet":"CAMDEN","incidentnumber":"0044PQ","incidents":1,"level":"street","opco":"CMP","street":"WATERS EDGE PT","town":"CAMDEN"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.04696,44.212639],"type":"Point"},"properties":{"EstRest":"10/24/2026 7:30:00 PM","Outages":3,"county":"KNOX","customers":27251,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
