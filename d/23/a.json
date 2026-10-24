@@ -11,5 +11,7 @@
 {"geometry":{"coordinates":[-75.877557,41.253295],"type":"Point"},"properties":{"a":"41.253295","cty":"LUZERNE","id":8829933,"mun":"WILKES-BARRE","nc":10,"o":"-75.877557"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.904596,41.240185],"type":"Point"},"properties":{"a":"41.240185","cty":"LUZERNE","id":8829934,"mun":"WILKES-BARRE","nc":13,"o":"-75.904596"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.90798,41.239964],"type":"Point"},"properties":{"a":"41.239964","cty":"LUZERNE","id":8829937,"mun":"WILKES-BARRE","nc":15,"o":"-75.90798"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.860887,41.238857],"type":"Point"},"properties":{"a":"41.238857","cty":"LYCOMING","id":8829938,"mun":"FAIRFIELD TWP","nc":7,"o":"-76.860887"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.860887,41.238857],"type":"Point"},"properties":{"a":"41.238857","cty":"LYCOMING","id":8829938,"mun":"FAIRFIELD TWP","nc":7,"o":"-76.860887"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.264252,41.41752],"type":"Point"},"properties":{"a":"41.41752","cty":"WAYNE","id":8829941,"mun":"PAUPACK TWP","nc":2,"o":"-75.264252"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.066006,40.824805],"type":"Point"},"properties":{"a":"40.824805","cty":"SCHUYLKILL","id":8829946,"mun":"RYAN TWP","nc":2,"o":"-76.066006"},"type":"Feature"}
 ]}
