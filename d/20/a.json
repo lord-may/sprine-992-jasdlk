@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.681739,43.175342],"type":"Point"},"properties":{"EstRest":"10/24/2026 4:00:00 PM","Outages":2,"county":"MONROE","customers":303507,"incidents":2,"level":"county","opco":"RGE"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.659861,43.079141],"type":"Point"},"properties":{"EstRest":"10/24/2026 4:00:00 PM","Outages":1,"cause":"System Upgrade","county":"MONROE","crewstatus":"DISP ","customers":2,"hamlet":"ROCHESTER","incidentnumber":"0117F5","incidents":1,"level":"street","opco":"RGE","street":"HIGHPOWER RD","town":"HENRIETTA"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.659861,43.079141],"type":"Point"},"properties":{"EstRest":"10/24/2026 4:00:00 PM","Outages":1,"county":"MONROE","customers":303507,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
