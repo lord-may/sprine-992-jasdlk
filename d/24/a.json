@@ -1,4 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.734158,41.846466],"type":"Point"},"properties":{"a":"41.846466","cty":"PROVIDENCE","id":20261068071,"mun":"FOSTER","nc":1,"o":"-71.734158"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.579502,41.848774],"type":"Point"},"properties":{"a":"41.848774","cty":"PROVIDENCE","id":20261068075,"mun":"SCITUATE","nc":1,"o":"-71.579502"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.579502,41.848774],"type":"Point"},"properties":{"a":"41.848774","cty":"PROVIDENCE","id":20261068075,"mun":"SCITUATE","nc":1,"o":"-71.579502"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.779875,41.704871],"type":"Point"},"properties":{"a":"41.704871","cty":"KENT","id":20261068078,"mun":"COVENTRY","nc":1,"o":"-71.779875"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.43166,41.766875],"type":"Point"},"properties":{"a":"41.766875","cty":"PROVIDENCE","id":20261068079,"mun":"CRANSTON","nc":1,"o":"-71.43166"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.413045,41.736402],"type":"Point"},"properties":{"a":"41.736402","cty":"KENT","id":20261068080,"mun":"WARWICK","nc":1,"o":"-71.413045"},"type":"Feature"}
 ]}
