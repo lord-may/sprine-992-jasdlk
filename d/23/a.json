@@ -5,5 +5,8 @@
 {"geometry":{"coordinates":[-75.47388,40.55808],"type":"Point"},"properties":{"a":"40.55808","cty":"LEHIGH","hp":true,"id":8830055,"mun":"ALLENTOWN","nc":419,"ne":{"a":"40.56042","o":"-75.47031"},"o":"-75.47388","sw":{"a":"40.55573","o":"-75.47745"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.207385,39.941788],"type":"Point"},"properties":{"a":"39.941788","cty":"LANCASTER","id":8830063,"mun":"STRASBURG TWP","nc":1,"o":"-76.207385"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.786022,41.038917],"type":"Point"},"properties":{"a":"41.038917","cty":"LUZERNE","id":8830065,"mun":"FOSTER TWP","nc":2,"o":"-75.786022"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.004383,40.213102],"type":"Point"},"properties":{"a":"40.213102","cty":"CUMBERLAND","id":8830066,"mun":"MECHANICSBURG BORO","nc":18,"o":"-77.004383"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.965076,40.914404],"type":"Point"},"properties":{"a":"40.914404","cty":"CARBON","id":8830069,"mun":"BANKS TWP","nc":11,"o":"-75.965076"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.51181,41.43452],"type":"Point"},"properties":{"a":"41.43452","cty":"LACKAWANNA","hp":true,"id":8830071,"mun":"JEFFERSON TWP","nc":54,"ne":{"a":"41.43721","o":"-75.50944"},"o":"-75.51181","sw":{"a":"41.43182","o":"-75.51419"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.472877,40.566082],"type":"Point"},"properties":{"a":"40.566082","cty":"LEHIGH","id":8830072,"mun":"ALLENTOWN","nc":13,"o":"-75.472877"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.012736,40.316467],"type":"Point"},"properties":{"a":"40.316467","cty":"BERKS","id":8830075,"mun":"SPRING TWP","nc":68,"o":"-76.012736"},"type":"Feature"}
 ]}
