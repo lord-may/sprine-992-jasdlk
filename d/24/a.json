@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.465986,41.771017],"type":"Point"},"properties":{"a":"41.771017","cty":"PROVIDENCE","id":20261068043,"mun":"CRANSTON","nc":9,"o":"-71.465986"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.19458,41.652575],"type":"Point"},"properties":{"a":"41.652575","cty":"NEWPORT","id":20261068050,"mun":"TIVERTON","nc":1,"o":"-71.19458"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.421025,41.70151],"type":"Point"},"properties":{"a":"41.70151","cty":"KENT","id":20261068051,"mun":"WARWICK","nc":1,"o":"-71.421025"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.778146,41.609305],"type":"Point"},"properties":{"a":"41.609305","cty":"KENT","id":20261068052,"mun":"WEST GREENWICH","nc":1,"o":"-71.778146"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.778146,41.609305],"type":"Point"},"properties":{"a":"41.609305","cty":"KENT","id":20261068052,"mun":"WEST GREENWICH","nc":1,"o":"-71.778146"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.511655,41.888545],"type":"Point"},"properties":{"a":"41.888545","cty":"PROVIDENCE","id":20261068055,"mun":"SMITHFIELD","nc":1,"o":"-71.511655"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.40659,41.84204],"type":"Point"},"properties":{"a":"41.84204","cty":"PROVIDENCE","id":20261068056,"mun":"PROVIDENCE","nc":1,"o":"-71.40659"},"type":"Feature"}
 ]}
