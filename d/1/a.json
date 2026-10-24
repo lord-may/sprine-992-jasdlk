@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-73.76738,40.66028],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"DSP","cust_a":{"val":1},"etr":"2026-10-24T09:00:00-0400","outages":null,"reported_problem":"No Lights","title":"Outage Information"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.84059,40.68742],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"NEW","cust_a":{"val":1},"etr":"ETR-NULL","outages":null,"reported_problem":"No Lights","title":"Outage Information"},"type":"Feature"},
 {"geometry":{"geometries":[{"coordinates":[[[-73.95123,40.59938],[-73.9511,40.59943],[-73.95153,40.60018],[-73.95149,40.5999],[-73.95146,40.59982],[-73.95123,40.59938]]],"type":"Polygon"},{"coordinates":[-73.95133,40.59971],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"ARR","cust_a":{"val":69},"etr":"2026-10-24T17:00:00-0400","outages":null,"reported_problem":"Manhole Problem","title":"Outage Information"},"type":"Feature"}
 ]}

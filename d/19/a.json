@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-73.555923,41.192583],"type":"Point"},"properties":{"EstRest":"10/24/2026 10:00:00 AM","Outages":1,"cause":"","county":"WESTCHESTER","crewstatus":"ENRT ","customers":198,"hamlet":"POUND RIDGE","incidentnumber":"0117FA","incidents":1,"level":"street","opco":"NYSEG","street":"WESTCHESTER AVE","town":"POUNDRIDGE T"},"type":"Feature"},
+{"geometry":{"coordinates":[-73.555923,41.192583],"type":"Point"},"properties":{"EstRest":"10/24/2026 10:00:00 AM","Outages":1,"county":"WESTCHESTER","customers":33722,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
