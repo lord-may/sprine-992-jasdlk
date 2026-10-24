@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-77.008704,40.696326],"type":"Point"},"properties":{"a":"40.696326","cty":"SNYDER","id":8829809,"mun":"PERRY TWP","nc":2,"o":"-77.008704"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.954619,40.2378],"type":"Point"},"properties":{"a":"40.2378","cty":"NA","id":8829821,"mun":"NA","nc":2,"o":"-76.954619"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.509475,41.566135],"type":"Point"},"properties":{"a":"41.566135","cty":"LACKAWANNA","id":8829850,"mun":"CARBONDALE","nc":8,"o":"-75.509475"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.999456,40.285455],"type":"Point"},"properties":{"a":"40.285455","cty":"CUMBERLAND","id":8829857,"mun":"HAMPDEN TWP","nc":1,"o":"-76.999456"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.509475,41.566135],"type":"Point"},"properties":{"a":"41.566135","cty":"LACKAWANNA","id":8829850,"mun":"CARBONDALE","nc":8,"o":"-75.509475"},"type":"Feature"}
 ]}
