@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-70.594972,44.885936],"type":"Point"},"properties":{"EstRest":"10/24/2026 5:30:00 PM","Outages":9,"county":"FRANKLIN","customers":24700,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.597022,44.886145],"type":"Point"},"properties":{"EstRest":"10/24/2026 5:30:00 PM","Outages":6,"cause":"","county":"FRANKLIN","crewstatus":"DISP ","customers":7,"hamlet":"SANDY RIVER PLT","incidentnumber":"0044PK","incidents":1,"level":"street","opco":"CMP","street":"OLD GREENE RD","town":"SANDY RIVER PLT"},"type":"Feature"}
 ]}

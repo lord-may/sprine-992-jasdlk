@@ -1,8 +1,9 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.252812,40.293786],"type":"Point"},"properties":{"a":"40.293786","cty":"PERRY","id":8829981,"mun":"SPRING TWP","nc":1,"o":"-77.252812"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.29185,40.44768],"type":"Point"},"properties":{"a":"40.44768","cty":"BUCKS","hp":true,"id":8829985,"mun":"HAYCOCK TWP","nc":14,"ne":{"a":"40.45113","o":"-75.28955"},"o":"-75.29185","sw":{"a":"40.44422","o":"-75.29415"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.44704,41.08303],"type":"Point"},"properties":{"a":"41.08303","cty":"MONROE","hp":true,"id":8829994,"mun":"TUNKHANNOCK TWP","nc":96,"ne":{"a":"41.09002","o":"-75.4398"},"o":"-75.44704","sw":{"a":"41.07603","o":"-75.45428"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.012736,40.316467],"type":"Point"},"properties":{"a":"40.316467","cty":"BERKS","id":8830001,"mun":"SPRING TWP","nc":68,"o":"-76.012736"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.00941,40.312979],"type":"Point"},"properties":{"a":"40.312979","cty":"BERKS","id":8830003,"mun":"SPRING TWP","nc":18,"o":"-76.00941"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.087426,40.779407],"type":"Point"},"properties":{"a":"40.779407","cty":"SNYDER","id":8830005,"mun":"FRANKLIN TWP","nc":2,"o":"-77.087426"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.087426,40.779407],"type":"Point"},"properties":{"a":"40.779407","cty":"SNYDER","id":8830005,"mun":"FRANKLIN TWP","nc":2,"o":"-77.087426"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.568978,40.559686],"type":"Point"},"properties":{"a":"40.559686","cty":"LEHIGH","id":8830012,"mun":"LOWER MACUNGIE TWP","nc":5,"o":"-75.568978"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.223402,40.616783],"type":"Point"},"properties":{"a":"40.616783","cty":"SCHUYLKILL","id":8830014,"mun":"WAYNE TWP","nc":4,"o":"-76.223402"},"type":"Feature"}
 ]}
