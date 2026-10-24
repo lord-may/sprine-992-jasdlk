@@ -1,6 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.79781,41.344572],"type":"Point"},"properties":{"a":"41.344572","cty":"WASHINGTON","id":20261068089,"mun":"WESTERLY","nc":1,"o":"-71.79781"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.415599,41.853728],"type":"Point"},"properties":{"a":"41.853728","cty":"PROVIDENCE","id":20261068117,"mun":"PROVIDENCE","nc":1,"o":"-71.415599"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.411887,41.712424],"type":"Point"},"properties":{"a":"41.712424","cty":"KENT","id":20261068118,"mun":"WARWICK","nc":1,"o":"-71.411887"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.426093,41.757808],"type":"Point"},"properties":{"a":"41.757808","cty":"KENT","id":20261068119,"mun":"WARWICK","nc":1,"o":"-71.426093"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.79781,41.344572],"type":"Point"},"properties":{"a":"41.344572","cty":"WASHINGTON","id":20261068089,"mun":"WESTERLY","nc":1,"o":"-71.79781"},"type":"Feature"}
 ]}
