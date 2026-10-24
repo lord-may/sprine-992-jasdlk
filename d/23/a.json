@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.77165,40.81668],"type":"Point"},"properties":{"a":"40.81668","cty":"NORTHUMBERLAND","hp":true,"id":8829788,"mun":"LOWER AUGUSTA TWP","nc":49,"ne":{"a":"40.82036","o":"-76.75748"},"o":"-76.77165","sw":{"a":"40.813","o":"-76.78582"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.008704,40.696326],"type":"Point"},"properties":{"a":"40.696326","cty":"SNYDER","id":8829809,"mun":"PERRY TWP","nc":2,"o":"-77.008704"},"type":"Feature"}
 ]}

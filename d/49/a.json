@@ -1,7 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.05093,38.749596],"type":"Point"},"properties":{"dateReceived":"2026-10-23T22:43:00.000Z","id":876623,"latitude":38.7495956,"longitude":-76.05093,"neighborhood":"Corbin Park","problemName":"No Electric","serviceName":"Electric"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.05066,38.749744],"type":"Point"},"properties":{"dateReceived":"2026-10-23T22:50:00.000Z","id":876625,"latitude":38.7497444,"longitude":-76.05066,"neighborhood":"Corbin Park","problemName":"No Electric","serviceName":"Electric"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.05085,38.74963],"type":"Point"},"properties":{"dateReceived":"2026-10-23T23:30:00.000Z","id":876626,"latitude":38.74963,"longitude":-76.05085,"neighborhood":"Corbin Park","problemName":"No Electric","serviceName":"Electric"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.05175,38.749336],"type":"Point"},"properties":{"dateReceived":"2026-10-24T00:15:00.000Z","id":876628,"latitude":38.7493362,"longitude":-76.05175,"neighborhood":"Corbin Park","problemName":"No Electric","serviceName":"Electric"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.05173,38.74908],"type":"Point"},"properties":{"dateReceived":"2026-10-24T00:22:00.000Z","id":876629,"latitude":38.74908,"longitude":-76.05173,"neighborhood":"Corbin Park","problemName":"No Electric","serviceName":"Electric"},"type":"Feature"}
+
 ]}

@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.338358,41.749852],"type":"Point"},"properties":{"a":"41.749852","cty":"BRISTOL","id":20261067960,"mun":"BARRINGTON","nc":1,"o":"-71.338358"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.453687,41.826723],"type":"Point"},"properties":{"a":"41.826723","cty":"PROVIDENCE","id":20261068001,"mun":"PROVIDENCE","nc":1,"o":"-71.453687"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.453687,41.826723],"type":"Point"},"properties":{"a":"41.826723","cty":"PROVIDENCE","id":20261068001,"mun":"PROVIDENCE","nc":1,"o":"-71.453687"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.666098,41.526237],"type":"Point"},"properties":{"a":"41.526237","cty":"WASHINGTON","id":20261068002,"mun":"RICHMOND","nc":1,"o":"-71.666098"},"type":"Feature"}
 ]}
