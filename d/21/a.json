@@ -1,8 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-70.276329,43.664807],"type":"Point"},"properties":{"EstRest":"10/24/2026 1:00:00 PM","Outages":20,"county":"CUMBERLAND","customers":182407,"incidents":3,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.080963,44.213672],"type":"Point"},"properties":{"EstRest":"10/24/2026 10:30:00 AM","Outages":41,"county":"KNOX","customers":27251,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.576349,45.262594],"type":"Point"},"properties":{"EstRest":"10/24/2026 10:00:00 AM","Outages":2,"cause":"","county":"PISCATAQUIS","crewstatus":"DISP ","customers":18,"hamlet":"BLANCHARD","incidentnumber":"0044N8","incidents":1,"level":"street","opco":"CMP","street":"ABBOT RD","town":"BLANCHARD"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.576349,45.262594],"type":"Point"},"properties":{"EstRest":"10/24/2026 10:00:00 AM","Outages":2,"county":"PISCATAQUIS","customers":10243,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.576349,45.262594],"type":"Point"},"properties":{"EstRest":"10/24/2026 10:45:00 AM","Outages":33,"county":"PISCATAQUIS","customers":10243,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.799432,43.228103],"type":"Point"},"properties":{"EstRest":"10/24/2026 10:30:00 AM","Outages":1,"cause":"","county":"YORK","crewstatus":"DISP ","customers":10,"hamlet":"SOUTH BERWICK","incidentnumber":"0044NI","incidents":1,"level":"street","opco":"CMP","street":"WADLEIGH LANE","town":"SOUTH BERWICK"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.799432,43.228103],"type":"Point"},"properties":{"EstRest":"10/24/2026 10:30:00 AM","Outages":2,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
