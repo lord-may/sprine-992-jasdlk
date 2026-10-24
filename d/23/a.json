@@ -2,8 +2,6 @@
 {"geometry":{"coordinates":[-76.954619,40.2378],"type":"Point"},"properties":{"a":"40.2378","cty":"NA","id":8829821,"mun":"NA","nc":2,"o":"-76.954619"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.509475,41.566135],"type":"Point"},"properties":{"a":"41.566135","cty":"LACKAWANNA","id":8829850,"mun":"CARBONDALE","nc":8,"o":"-75.509475"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.33957,40.70556],"type":"Point"},"properties":{"a":"40.70556","cty":"NA","hp":true,"id":8829864,"mun":"NA","nc":290,"ne":{"a":"40.71131","o":"-75.33012"},"o":"-75.33957","sw":{"a":"40.69982","o":"-75.34901"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.83562,40.29049],"type":"Point"},"properties":{"a":"40.29049","cty":"DAUPHIN","hp":true,"id":8829873,"mun":"SUSQUEHANNA TWP","nc":251,"ne":{"a":"40.29355","o":"-76.83141"},"o":"-76.83562","sw":{"a":"40.28744","o":"-76.83983"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.96725,40.38896],"type":"Point"},"properties":{"a":"40.38896","cty":"DAUPHIN","hp":true,"id":8829883,"mun":"MIDDLE PAXTON TWP","nc":22,"ne":{"a":"40.39046","o":"-76.96642"},"o":"-76.96725","sw":{"a":"40.38745","o":"-76.96808"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.84093,40.289937],"type":"Point"},"properties":{"a":"40.289937","cty":"DAUPHIN","id":8829886,"mun":"SUSQUEHANNA TWP","nc":6,"o":"-76.84093"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.325558,40.361857],"type":"Point"},"properties":{"a":"40.361857","cty":"BUCKS","id":8829887,"mun":"WEST ROCKHILL TWP","nc":1,"o":"-75.325558"},"type":"Feature"}
 ]}
