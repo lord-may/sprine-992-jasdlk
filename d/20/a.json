@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.554426,43.113042],"type":"Point"},"properties":{"EstRest":"10/24/2026 12:00:00 AM","Outages":3,"cause":"","county":"MONROE","crewstatus":"     ","customers":41,"hamlet":"ROCHESTER","incidentnumber":"0117EC","incidents":1,"level":"street","opco":"RGE","street":"MAYWOOD DR","town":"BRIGHTON"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.554426,43.113042],"type":"Point"},"properties":{"EstRest":"10/24/2026 12:00:00 AM","Outages":3,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":41,"hamlet":"ROCHESTER","incidentnumber":"0117EC","incidents":1,"level":"street","opco":"RGE","street":"MAYWOOD DR","town":"BRIGHTON"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.554426,43.113042],"type":"Point"},"properties":{"EstRest":"10/24/2026 12:00:00 AM","Outages":7,"county":"MONROE","customers":303507,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}

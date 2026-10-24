@@ -1,3 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.008704,40.696326],"type":"Point"},"properties":{"a":"40.696326","cty":"SNYDER","id":8829809,"mun":"PERRY TWP","nc":2,"o":"-77.008704"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.008704,40.696326],"type":"Point"},"properties":{"a":"40.696326","cty":"SNYDER","id":8829809,"mun":"PERRY TWP","nc":2,"o":"-77.008704"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.95914,40.24581],"type":"Point"},"properties":{"a":"40.24581","cty":"CUMBERLAND","hp":true,"id":8829821,"mun":"HAMPDEN TWP","nc":651,"ne":{"a":"40.25769","o":"-76.95343"},"o":"-76.95914","sw":{"a":"40.23392","o":"-76.96485"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.972705,40.237847],"type":"Point"},"properties":{"a":"40.237847","cty":"CUMBERLAND","id":8829824,"mun":"HAMPDEN TWP","nc":2,"o":"-76.972705"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.9695,40.249728],"type":"Point"},"properties":{"a":"40.249728","cty":"CUMBERLAND","id":8829825,"mun":"HAMPDEN TWP","nc":4,"o":"-76.9695"},"type":"Feature"}
 ]}
