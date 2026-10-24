@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.435815,41.47775],"type":"Point"},"properties":{"a":"41.47775","cty":"WASHINGTON","id":20261068008,"mun":"NARRAGANSETT","nc":1,"o":"-71.435815"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.303796,41.502836],"type":"Point"},"properties":{"a":"41.502836","cty":"NEWPORT","id":20261068009,"mun":"NEWPORT","nc":1,"o":"-71.303796"},"type":"Feature"}
+
 ]}
