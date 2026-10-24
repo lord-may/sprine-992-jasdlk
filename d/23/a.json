@@ -1,12 +1,10 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.33957,40.70556],"type":"Point"},"properties":{"a":"40.70556","cty":"NA","hp":true,"id":8829864,"mun":"NA","nc":290,"ne":{"a":"40.71131","o":"-75.33012"},"o":"-75.33957","sw":{"a":"40.69982","o":"-75.34901"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.05885,41.298899],"type":"Point"},"properties":{"a":"41.298899","cty":"PIKE","id":8829904,"mun":"BLOOMING GROVE TWP","nc":2,"o":"-75.05885"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.821059,40.282189],"type":"Point"},"properties":{"a":"40.282189","cty":"DAUPHIN","id":8829905,"mun":"LOWER PAXTON TWP","nc":19,"o":"-76.821059"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.251103,41.042268],"type":"Point"},"properties":{"a":"41.042268","cty":"CLINTON","id":8829906,"mun":"GREENE TWP","nc":4,"o":"-77.251103"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.060375,41.339035],"type":"Point"},"properties":{"a":"41.339035","cty":"PIKE","id":8829908,"mun":"BLOOMING GROVE TWP","nc":4,"o":"-75.060375"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.490518,40.992168],"type":"Point"},"properties":{"a":"40.992168","cty":"MONROE","id":8829912,"mun":"TUNKHANNOCK TWP","nc":1,"o":"-75.490518"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.20633,40.689719],"type":"Point"},"properties":{"a":"40.689719","cty":"SCHUYLKILL","id":8829919,"mun":"POTTSVILLE","nc":12,"o":"-76.20633"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.514362,40.683417],"type":"Point"},"properties":{"a":"40.683417","cty":"LEHIGH","id":8829923,"mun":"WHITEHALL TWP","nc":5,"o":"-75.514362"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.97123,40.951815],"type":"Point"},"properties":{"a":"40.951815","cty":"LUZERNE","id":8829928,"mun":"HAZLETON","nc":32,"o":"-75.97123"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.159389,41.401643],"type":"Point"},"properties":{"a":"41.401643","cty":"PIKE","id":8829931,"mun":"BLOOMING GROVE TWP","nc":1,"o":"-75.159389"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.425684,40.677329],"type":"Point"},"properties":{"a":"40.677329","cty":"NORTHAMPTON","id":8829932,"mun":"EAST ALLEN TWP","nc":1,"o":"-75.425684"},"type":"Feature"},
