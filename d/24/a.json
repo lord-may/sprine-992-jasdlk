@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.477871,41.856577],"type":"Point"},"properties":{"a":"41.856577","cty":"PROVIDENCE","id":20261068088,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.477871"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.79781,41.344572],"type":"Point"},"properties":{"a":"41.344572","cty":"WASHINGTON","id":20261068089,"mun":"WESTERLY","nc":1,"o":"-71.79781"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.418536,41.705296],"type":"Point"},"properties":{"a":"41.705296","cty":"KENT","id":20261068111,"mun":"WARWICK","nc":1,"o":"-71.418536"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.79781,41.344572],"type":"Point"},"properties":{"a":"41.344572","cty":"WASHINGTON","id":20261068089,"mun":"WESTERLY","nc":1,"o":"-71.79781"},"type":"Feature"}
 ]}
