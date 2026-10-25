@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-73.063626,43.816968],"type":"Point"},"properties":{"active":true,"affectingCustomers":true,"cause":0,"county":"Rutland","crew_name":",MIDD-MURPHYMIDD--MARLEY","customers_affected":27,"customers_affected_label":"27 Customers","device":"FUSE","etor":"2026-10-25T14:00-04:00","has_etor":1,"incident_id":1016440,"status":"CREW_ASSIGNED","street":"PAINT WORKS RD","town":"Brandon","trouble":"NO_POWER"},"type":"Feature"}
+
 ]}
