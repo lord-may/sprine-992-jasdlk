@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.569202,43.458671],"type":"Point"},"properties":{"EstRest":"10/25/2026 12:00:00 AM","Outages":1,"cause":"Equipment Interruption","county":"YORK","crewstatus":"ONST ","customers":1,"hamlet":"ARUNDEL","incidentnumber":"0044Q7","incidents":1,"level":"street","opco":"CMP","street":"PELLETIER WAY","town":"ARUNDEL"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.570476,43.458386],"type":"Point"},"properties":{"EstRest":"10/25/2026 12:00:00 AM","Outages":40,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+
 ]}
