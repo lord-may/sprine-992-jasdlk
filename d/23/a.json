@@ -1,11 +1,8 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.293844,39.966005],"type":"Point"},"properties":{"a":"39.966005","cty":"LANCASTER","id":8830131,"mun":"PEQUEA TWP","nc":2,"o":"-76.293844"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.938605,40.211503],"type":"Point"},"properties":{"a":"40.211503","cty":"CUMBERLAND","id":8830147,"mun":"LOWER ALLEN TWP","nc":2,"o":"-76.938605"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.33371,40.64144],"type":"Point"},"properties":{"a":"40.64144","cty":"NORTHAMPTON","id":8830149,"mun":"BETHLEHEM TWP","nc":9,"o":"-75.33371"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.794795,40.263775],"type":"Point"},"properties":{"a":"40.263775","cty":"DAUPHIN","id":8830156,"mun":"SWATARA TWP","nc":2,"o":"-76.794795"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.475472,40.594801],"type":"Point"},"properties":{"a":"40.594801","cty":"LEHIGH","id":8830157,"mun":"ALLENTOWN","nc":6,"o":"-75.475472"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.241402,40.008113],"type":"Point"},"properties":{"a":"40.008113","cty":"LANCASTER","id":8830158,"mun":"WEST LAMPETER TWP","nc":2,"o":"-76.241402"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.009639,40.217911],"type":"Point"},"properties":{"a":"40.217911","cty":"CUMBERLAND","id":8830172,"mun":"MECHANICSBURG BORO","nc":2,"o":"-77.009639"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.090275,41.308144],"type":"Point"},"properties":{"a":"41.308144","cty":"LYCOMING","id":8830176,"mun":"LYCOMING TWP","nc":1,"o":"-77.090275"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.249134,41.576671],"type":"Point"},"properties":{"a":"41.576671","cty":"WAYNE","id":8830177,"mun":"HONESDALE BORO","nc":1,"o":"-75.249134"},"type":"Feature"}
 ]}

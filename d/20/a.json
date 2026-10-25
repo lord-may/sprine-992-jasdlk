@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-77.480082,43.215125],"type":"Point"},"properties":{"EstRest":"10/25/2026 1:45:00 PM","Outages":28,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":98,"hamlet":"WEBSTER","incidentnumber":"0117KJ","incidents":1,"level":"street","opco":"RGE","street":"HIGHTOWER WAY","town":"WEBSTER"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.480082,43.215125],"type":"Point"},"properties":{"EstRest":"10/25/2026 1:45:00 PM","Outages":28,"county":"MONROE","customers":303507,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.82821,43.293646],"type":"Point"},"properties":{"EstRest":"10/25/2026 11:30:00 AM","Outages":20,"cause":"","county":"WAYNE","crewstatus":"DISP ","customers":36,"hamlet":"WOLCOTT","incidentnumber":"0117LA","incidents":1,"level":"street","opco":"RGE","street":"TOMPKINS POINT RD","town":"WOLCOTT"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.82821,43.293646],"type":"Point"},"properties":{"EstRest":"10/25/2026 11:30:00 AM","Outages":20,"county":"WAYNE","customers":27029,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.480082,43.215125],"type":"Point"},"properties":{"EstRest":"10/25/2026 1:45:00 PM","Outages":28,"county":"MONROE","customers":303507,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}

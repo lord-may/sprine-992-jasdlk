@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.399718,41.867018],"type":"Point"},"properties":{"a":"41.867018","cty":"PROVIDENCE","id":20261068168,"mun":"PAWTUCKET","nc":1,"o":"-71.399718"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.459396,41.723308],"type":"Point"},"properties":{"a":"41.723308","cty":"KENT","id":20261068170,"mun":"WARWICK","nc":1,"o":"-71.459396"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.418915,41.953846],"type":"Point"},"properties":{"a":"41.953846","cty":"PROVIDENCE","id":20261068174,"mun":"CUMBERLAND","nc":11,"o":"-71.418915"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.494475,41.864435],"type":"Point"},"properties":{"a":"41.864435","cty":"PROVIDENCE","id":20261068176,"mun":"JOHNSTON","nc":1,"o":"-71.494475"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.43155,41.75051],"type":"Point"},"properties":{"a":"41.75051","cty":"KENT","hp":true,"id":20261068177,"mun":"WARWICK","nc":79,"ne":{"a":"41.75246","o":"-71.42981"},"o":"-71.43155","sw":{"a":"41.74855","o":"-71.43329"}},"type":"Feature"}
 ]}
