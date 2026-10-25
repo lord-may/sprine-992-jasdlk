@@ -2,5 +2,6 @@
 {"geometry":{"coordinates":[-75.536363,40.959018],"type":"Point"},"properties":{"a":"40.959018","cty":"MONROE","id":8830196,"mun":"PENN FOREST TWP","nc":2,"o":"-75.536363"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.349363,41.666721],"type":"Point"},"properties":{"a":"41.666721","cty":"WAYNE","id":8830202,"mun":"CLINTON TWP","nc":2,"o":"-75.349363"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.053028,41.521492],"type":"Point"},"properties":{"a":"41.521492","cty":"PIKE","id":8830206,"mun":"LACKAWAXEN TWP","nc":1,"o":"-75.053028"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.939821,40.129222],"type":"Point"},"properties":{"a":"40.129222","cty":"LANCASTER","id":8830216,"mun":"CAERNARVON TWP","nc":2,"o":"-75.939821"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.939821,40.129222],"type":"Point"},"properties":{"a":"40.129222","cty":"LANCASTER","id":8830216,"mun":"CAERNARVON TWP","nc":2,"o":"-75.939821"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.502262,41.009762],"type":"Point"},"properties":{"a":"41.009762","cty":"MONROE","id":8830222,"mun":"TUNKHANNOCK TWP","nc":4,"o":"-75.502262"},"type":"Feature"}
 ]}
