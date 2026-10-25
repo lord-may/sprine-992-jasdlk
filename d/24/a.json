@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.253189,41.682716],"type":"Point"},"properties":{"a":"41.682716","cty":"BRISTOL","id":20261068153,"mun":"BRISTOL","nc":12,"o":"-71.253189"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.39973,41.91797],"type":"Point"},"properties":{"a":"41.91797","cty":"PROVIDENCE","hp":true,"id":20261068156,"mun":"CUMBERLAND","nc":97,"ne":{"a":"41.91999","o":"-71.39778"},"o":"-71.39973","sw":{"a":"41.91595","o":"-71.40168"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.453687,41.826723],"type":"Point"},"properties":{"a":"41.826723","cty":"PROVIDENCE","id":20261068161,"mun":"PROVIDENCE","nc":1,"o":"-71.453687"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.453687,41.826723],"type":"Point"},"properties":{"a":"41.826723","cty":"PROVIDENCE","id":20261068161,"mun":"PROVIDENCE","nc":1,"o":"-71.453687"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.362146,41.880293],"type":"Point"},"properties":{"a":"41.880293","cty":"PROVIDENCE","id":20261068162,"mun":"PAWTUCKET","nc":1,"o":"-71.362146"},"type":"Feature"}
 ]}
