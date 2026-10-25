@@ -4,9 +4,10 @@
 {"geometry":{"coordinates":[-76.938605,40.211503],"type":"Point"},"properties":{"a":"40.211503","cty":"CUMBERLAND","id":8830147,"mun":"LOWER ALLEN TWP","nc":2,"o":"-76.938605"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.451245,40.983006],"type":"Point"},"properties":{"a":"40.983006","cty":"MONROE","id":8830148,"mun":"CHESTNUT HILL TWP","nc":2,"o":"-75.451245"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.33371,40.64144],"type":"Point"},"properties":{"a":"40.64144","cty":"NORTHAMPTON","id":8830149,"mun":"BETHLEHEM TWP","nc":9,"o":"-75.33371"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.61779,41.37671],"type":"Point"},"properties":{"a":"41.37671","cty":"LACKAWANNA","hp":true,"id":8830150,"mun":"DUNMORE BORO","nc":14,"ne":{"a":"41.38958","o":"-75.61198"},"o":"-75.61779","sw":{"a":"41.36384","o":"-75.6236"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.63594,40.895474],"type":"Point"},"properties":{"a":"40.895474","cty":"CARBON","id":8830155,"mun":"PENN FOREST TWP","nc":2,"o":"-75.63594"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.794795,40.263775],"type":"Point"},"properties":{"a":"40.263775","cty":"DAUPHIN","id":8830156,"mun":"SWATARA TWP","nc":2,"o":"-76.794795"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.475472,40.594801],"type":"Point"},"properties":{"a":"40.594801","cty":"LEHIGH","id":8830157,"mun":"ALLENTOWN","nc":6,"o":"-75.475472"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.241402,40.008113],"type":"Point"},"properties":{"a":"40.008113","cty":"LANCASTER","id":8830158,"mun":"WEST LAMPETER TWP","nc":2,"o":"-76.241402"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.241402,40.008113],"type":"Point"},"properties":{"a":"40.008113","cty":"LANCASTER","id":8830158,"mun":"WEST LAMPETER TWP","nc":2,"o":"-76.241402"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.287658,40.058188],"type":"Point"},"properties":{"a":"40.058188","cty":"LANCASTER","id":8830170,"mun":"MANHEIM TWP","nc":10,"o":"-76.287658"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.009639,40.217911],"type":"Point"},"properties":{"a":"40.217911","cty":"CUMBERLAND","id":8830172,"mun":"MECHANICSBURG BORO","nc":2,"o":"-77.009639"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.893622,40.285602],"type":"Point"},"properties":{"a":"40.285602","cty":"DAUPHIN","id":8830173,"mun":"HARRISBURG","nc":16,"o":"-76.893622"},"type":"Feature"}
 ]}
