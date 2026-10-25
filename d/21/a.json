@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-70.852188,43.494029],"type":"Point"},"properties":{"EstRest":"10/25/2026 10:00:00 AM","Outages":30,"cause":"","county":"YORK","crewstatus":"DISP ","customers":32,"hamlet":"SHAPLEIGH","incidentnumber":"0044QH","incidents":1,"level":"street","opco":"CMP","street":"30TH ST","town":"SHAPLEIGH"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.861662,43.49057],"type":"Point"},"properties":{"EstRest":"10/25/2026 10:00:00 AM","Outages":83,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}

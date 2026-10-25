@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-73.83764,40.70306],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"NEW","cust_a":{"val":1},"etr":"ETR-NULL","outages":null,"reported_problem":"Partial Outage","title":"Outage Information"},"type":"Feature"},
+{"geometry":{"coordinates":[-73.75154,40.65531],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"NEW","cust_a":{"val":1},"etr":"ETR-NULL","outages":null,"reported_problem":"Partial Outage","title":"Outage Information"},"type":"Feature"},
 {"geometry":{"coordinates":[-73.84465,40.82983],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"DSP","cust_a":{"val":1},"etr":"2026-10-25T09:30:00-0400","outages":null,"reported_problem":"Partial Outage","title":"Outage Information"},"type":"Feature"}
 ]}
