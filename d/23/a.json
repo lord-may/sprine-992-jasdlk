@@ -4,6 +4,5 @@
 {"geometry":{"coordinates":[-76.012736,40.316467],"type":"Point"},"properties":{"a":"40.316467","cty":"BERKS","id":8830075,"mun":"SPRING TWP","nc":68,"o":"-76.012736"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.357828,40.115075],"type":"Point"},"properties":{"a":"40.115075","cty":"CUMBERLAND","id":8830090,"mun":"PENN TWP","nc":2,"o":"-77.357828"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.825944,41.289985],"type":"Point"},"properties":{"a":"41.289985","cty":"LUZERNE","id":8830092,"mun":"PLAINS TWP","nc":17,"o":"-75.825944"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.198035,40.630188],"type":"Point"},"properties":{"a":"40.630188","cty":"SCHUYLKILL","id":8830097,"mun":"CRESSONA BORO","nc":16,"o":"-76.198035"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.191431,40.208147],"type":"Point"},"properties":{"a":"40.208147","cty":"CUMBERLAND","id":8830098,"mun":"CARLISLE BORO","nc":1,"o":"-77.191431"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.846479,41.288668],"type":"Point"},"properties":{"a":"41.288668","cty":"LUZERNE","id":8830101,"mun":"PLAINS TWP","nc":14,"o":"-75.846479"},"type":"Feature"}
 ]}
