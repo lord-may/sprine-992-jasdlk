@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.536363,40.959018],"type":"Point"},"properties":{"a":"40.959018","cty":"MONROE","id":8830196,"mun":"PENN FOREST TWP","nc":2,"o":"-75.536363"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.612821,40.580554],"type":"Point"},"properties":{"a":"40.580554","cty":"LEHIGH","id":8830197,"mun":"UPPER MACUNGIE TWP","nc":2,"o":"-75.612821"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.349363,41.666721],"type":"Point"},"properties":{"a":"41.666721","cty":"WAYNE","id":8830202,"mun":"CLINTON TWP","nc":2,"o":"-75.349363"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.526866,40.623535],"type":"Point"},"properties":{"a":"40.623535","cty":"LEHIGH","id":8830204,"mun":"SOUTH WHITEHALL TWP","nc":1,"o":"-75.526866"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.053028,41.521492],"type":"Point"},"properties":{"a":"41.521492","cty":"PIKE","id":8830206,"mun":"LACKAWAXEN TWP","nc":1,"o":"-75.053028"},"type":"Feature"},
