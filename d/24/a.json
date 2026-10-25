@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.362146,41.880293],"type":"Point"},"properties":{"a":"41.880293","cty":"PROVIDENCE","id":20261068162,"mun":"PAWTUCKET","nc":1,"o":"-71.362146"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.399718,41.867018],"type":"Point"},"properties":{"a":"41.867018","cty":"PROVIDENCE","id":20261068163,"mun":"PAWTUCKET","nc":1,"o":"-71.399718"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.303796,41.502836],"type":"Point"},"properties":{"a":"41.502836","cty":"NEWPORT","id":20261068166,"mun":"NEWPORT","nc":1,"o":"-71.303796"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.303796,41.502836],"type":"Point"},"properties":{"a":"41.502836","cty":"NEWPORT","id":20261068166,"mun":"NEWPORT","nc":1,"o":"-71.303796"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.399718,41.867018],"type":"Point"},"properties":{"a":"41.867018","cty":"PROVIDENCE","id":20261068168,"mun":"PAWTUCKET","nc":1,"o":"-71.399718"},"type":"Feature"}
 ]}

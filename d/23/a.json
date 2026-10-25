@@ -8,5 +8,7 @@
 {"geometry":{"coordinates":[-75.63594,40.895474],"type":"Point"},"properties":{"a":"40.895474","cty":"CARBON","id":8830155,"mun":"PENN FOREST TWP","nc":2,"o":"-75.63594"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.794795,40.263775],"type":"Point"},"properties":{"a":"40.263775","cty":"DAUPHIN","id":8830156,"mun":"SWATARA TWP","nc":2,"o":"-76.794795"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.475472,40.594801],"type":"Point"},"properties":{"a":"40.594801","cty":"LEHIGH","id":8830157,"mun":"ALLENTOWN","nc":6,"o":"-75.475472"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.241402,40.008113],"type":"Point"},"properties":{"a":"40.008113","cty":"LANCASTER","id":8830158,"mun":"WEST LAMPETER TWP","nc":2,"o":"-76.241402"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.241402,40.008113],"type":"Point"},"properties":{"a":"40.008113","cty":"LANCASTER","id":8830158,"mun":"WEST LAMPETER TWP","nc":2,"o":"-76.241402"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.466948,41.125968],"type":"Point"},"properties":{"a":"41.125968","cty":"CLINTON","id":8830164,"mun":"FLEMINGTON BORO","nc":4,"o":"-77.466948"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.287658,40.058188],"type":"Point"},"properties":{"a":"40.058188","cty":"LANCASTER","id":8830165,"mun":"MANHEIM TWP","nc":10,"o":"-76.287658"},"type":"Feature"}
 ]}
