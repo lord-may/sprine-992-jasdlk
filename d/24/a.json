@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.596235,41.670442],"type":"Point"},"properties":{"a":"41.670442","cty":"KENT","id":20261068196,"mun":"COVENTRY","nc":18,"o":"-71.596235"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.455172,41.826465],"type":"Point"},"properties":{"a":"41.826465","cty":"PROVIDENCE","id":20261068201,"mun":"PROVIDENCE","nc":1,"o":"-71.455172"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.428156,41.634557],"type":"Point"},"properties":{"a":"41.634557","cty":"WASHINGTON","id":20261068203,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.428156"},"type":"Feature"}
 ]}
