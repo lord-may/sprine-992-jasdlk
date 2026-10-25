@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.286276,43.998745],"type":"Point"},"properties":{"EstRest":"10/24/2026 11:15:00 PM","Outages":1,"cause":"","county":"CUMBERLAND","crewstatus":"DISP ","customers":46,"hamlet":"NEW GLOUCESTER","incidentnumber":"0044QB","incidents":1,"level":"street","opco":"CMP","street":"PEACOCK HILL RD","town":"NEW GLOUCESTER"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.286276,43.998745],"type":"Point"},"properties":{"EstRest":"10/24/2026 11:15:00 PM","Outages":1,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.569202,43.458671],"type":"Point"},"properties":{"EstRest":"10/25/2026 12:00:00 AM","Outages":1,"cause":"Equipment Interruption","county":"YORK","crewstatus":"ONST ","customers":1,"hamlet":"ARUNDEL","incidentnumber":"0044Q7","incidents":1,"level":"street","opco":"CMP","street":"PELLETIER WAY","town":"ARUNDEL"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.570476,43.458386],"type":"Point"},"properties":{"EstRest":"10/25/2026 12:00:00 AM","Outages":40,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
