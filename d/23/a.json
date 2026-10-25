@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.012736,40.316467],"type":"Point"},"properties":{"a":"40.316467","cty":"BERKS","id":8830075,"mun":"SPRING TWP","nc":22,"o":"-76.012736"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.825944,41.289985],"type":"Point"},"properties":{"a":"41.289985","cty":"LUZERNE","id":8830092,"mun":"PLAINS TWP","nc":17,"o":"-75.825944"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.439977,41.491062],"type":"Point"},"properties":{"a":"41.491062","cty":"WAYNE","id":8830124,"mun":"SOUTH CANAAN TWP","nc":1,"o":"-75.439977"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.825944,41.289985],"type":"Point"},"properties":{"a":"41.289985","cty":"LUZERNE","id":8830092,"mun":"PLAINS TWP","nc":17,"o":"-75.825944"},"type":"Feature"}
 ]}
