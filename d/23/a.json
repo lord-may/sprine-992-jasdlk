@@ -3,7 +3,8 @@
 {"geometry":{"coordinates":[-76.893622,40.285602],"type":"Point"},"properties":{"a":"40.285602","cty":"DAUPHIN","id":8830179,"mun":"HARRISBURG","nc":16,"o":"-76.893622"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.38271,41.12491],"type":"Point"},"properties":{"a":"41.12491","cty":"MONROE","hp":true,"id":8830187,"mun":"COOLBAUGH TWP","nc":12,"ne":{"a":"41.12628","o":"-75.3805"},"o":"-75.38271","sw":{"a":"41.12353","o":"-75.38491"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.334481,40.64137],"type":"Point"},"properties":{"a":"40.64137","cty":"NORTHAMPTON","id":8830188,"mun":"BETHLEHEM TWP","nc":2,"o":"-75.334481"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.869718,40.280334],"type":"Point"},"properties":{"a":"40.280334","cty":"DAUPHIN","id":8830192,"mun":"SUSQUEHANNA TWP","nc":1,"o":"-76.869718"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.287658,40.058188],"type":"Point"},"properties":{"a":"40.058188","cty":"LANCASTER","id":8830195,"mun":"MANHEIM TWP","nc":10,"o":"-76.287658"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.536363,40.959018],"type":"Point"},"properties":{"a":"40.959018","cty":"MONROE","id":8830196,"mun":"PENN FOREST TWP","nc":2,"o":"-75.536363"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.536363,40.959018],"type":"Point"},"properties":{"a":"40.959018","cty":"MONROE","id":8830196,"mun":"PENN FOREST TWP","nc":2,"o":"-75.536363"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.612821,40.580554],"type":"Point"},"properties":{"a":"40.580554","cty":"LEHIGH","id":8830197,"mun":"UPPER MACUNGIE TWP","nc":2,"o":"-75.612821"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.477581,41.402211],"type":"Point"},"properties":{"a":"41.402211","cty":"LACKAWANNA","id":8830199,"mun":"JEFFERSON TWP","nc":2,"o":"-75.477581"},"type":"Feature"}
 ]}
