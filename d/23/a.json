@@ -1,12 +1,10 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.293844,39.966005],"type":"Point"},"properties":{"a":"39.966005","cty":"LANCASTER","id":8830131,"mun":"PEQUEA TWP","nc":2,"o":"-76.293844"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.359363,41.389982],"type":"Point"},"properties":{"a":"41.389982","cty":"WAYNE","id":8830136,"mun":"SALEM TWP","nc":1,"o":"-75.359363"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.86039,40.149773],"type":"Point"},"properties":{"a":"40.149773","cty":"YORK","id":8830146,"mun":"FAIRVIEW TWP","nc":2,"o":"-76.86039"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.938605,40.211503],"type":"Point"},"properties":{"a":"40.211503","cty":"CUMBERLAND","id":8830147,"mun":"LOWER ALLEN TWP","nc":2,"o":"-76.938605"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.451245,40.983006],"type":"Point"},"properties":{"a":"40.983006","cty":"MONROE","id":8830148,"mun":"CHESTNUT HILL TWP","nc":2,"o":"-75.451245"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.33371,40.64144],"type":"Point"},"properties":{"a":"40.64144","cty":"NORTHAMPTON","id":8830149,"mun":"BETHLEHEM TWP","nc":9,"o":"-75.33371"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.61779,41.37671],"type":"Point"},"properties":{"a":"41.37671","cty":"LACKAWANNA","hp":true,"id":8830150,"mun":"DUNMORE BORO","nc":14,"ne":{"a":"41.38958","o":"-75.61198"},"o":"-75.61779","sw":{"a":"41.36384","o":"-75.6236"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.97082,40.974894],"type":"Point"},"properties":{"a":"40.974894","cty":"LUZERNE","id":8830151,"mun":"HAZLE TWP","nc":4,"o":"-75.97082"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.906477,41.004682],"type":"Point"},"properties":{"a":"41.004682","cty":"LUZERNE","id":8830152,"mun":"HAZLE TWP","nc":2,"o":"-75.906477"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.423828,40.637989],"type":"Point"},"properties":{"a":"40.637989","cty":"LEHIGH","id":8830153,"mun":"BETHLEHEM","nc":11,"o":"-75.423828"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.423828,40.637989],"type":"Point"},"properties":{"a":"40.637989","cty":"LEHIGH","id":8830153,"mun":"BETHLEHEM","nc":11,"o":"-75.423828"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.63594,40.895474],"type":"Point"},"properties":{"a":"40.895474","cty":"CARBON","id":8830155,"mun":"PENN FOREST TWP","nc":2,"o":"-75.63594"},"type":"Feature"}
 ]}
