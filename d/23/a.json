@@ -1,7 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.502262,41.009762],"type":"Point"},"properties":{"a":"41.009762","cty":"MONROE","id":8830222,"mun":"TUNKHANNOCK TWP","nc":4,"o":"-75.502262"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.332931,41.376681],"type":"Point"},"properties":{"a":"41.376681","cty":"WAYNE","id":8830228,"mun":"SALEM TWP","nc":2,"o":"-75.332931"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.51731,40.96913],"type":"Point"},"properties":{"a":"40.96913","cty":"MONROE","hp":true,"id":8830248,"mun":"POLK TWP","nc":98,"ne":{"a":"40.97348","o":"-75.51218"},"o":"-75.51731","sw":{"a":"40.96477","o":"-75.52244"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.860395,40.248356],"type":"Point"},"properties":{"a":"40.248356","cty":"DAUPHIN","id":8830249,"mun":"HARRISBURG","nc":5,"o":"-76.860395"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.979554,40.2047],"type":"Point"},"properties":{"a":"40.2047","cty":"CUMBERLAND","id":8830264,"mun":"UPPER ALLEN TWP","nc":12,"o":"-76.979554"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.860395,40.248356],"type":"Point"},"properties":{"a":"40.248356","cty":"DAUPHIN","id":8830249,"mun":"HARRISBURG","nc":5,"o":"-76.860395"},"type":"Feature"}
 ]}
