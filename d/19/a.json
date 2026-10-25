@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-78.315506,42.737684],"type":"Point"},"properties":{"EstRest":"10/25/2026 5:15:00 PM","Outages":1,"cause":"","county":"WYOMING","crewstatus":"     ","customers":42,"hamlet":"VARYSBURG","incidentnumber":"0117ML","incidents":1,"level":"street","opco":"NYSEG","street":"CENTERLINE RD","town":"SHELDON T"},"type":"Feature"},
+{"geometry":{"coordinates":[-78.315506,42.737684],"type":"Point"},"properties":{"EstRest":"10/25/2026 5:15:00 PM","Outages":1,"county":"WYOMING","customers":12294,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
