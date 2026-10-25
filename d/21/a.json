@@ -1,4 +1,8 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-70.328483,44.062694],"type":"Point"},"properties":{"EstRest":"10/25/2026 10:15:00 AM","Outages":129,"county":"ANDROSCOGGIN","customers":59602,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.351604,44.071716],"type":"Point"},"properties":{"EstRest":"10/25/2026 10:15:00 AM","Outages":29,"cause":"","county":"ANDROSCOGGIN","crewstatus":"ENRT ","customers":83,"hamlet":"POLAND","incidentnumber":"0044QK","incidents":1,"level":"street","opco":"CMP","street":"BAILEY HILL RD","town":"POLAND"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.3637,44.374528],"type":"Point"},"properties":{"EstRest":"10/25/2026 10:15:00 AM","Outages":6,"cause":"","county":"WALDO","crewstatus":"DISP ","customers":6,"hamlet":"LIBERTY","incidentnumber":"0044QN","incidents":1,"level":"street","opco":"CMP","street":"KAGER MOUNTAIN RD","town":"LIBERTY"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.364996,44.376448],"type":"Point"},"properties":{"EstRest":"10/25/2026 10:15:00 AM","Outages":8,"county":"WALDO","customers":26703,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.852188,43.494029],"type":"Point"},"properties":{"EstRest":"10/25/2026 10:00:00 AM","Outages":30,"cause":"","county":"YORK","crewstatus":"DISP ","customers":32,"hamlet":"SHAPLEIGH","incidentnumber":"0044QH","incidents":1,"level":"street","opco":"CMP","street":"30TH ST","town":"SHAPLEIGH"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.861662,43.49057],"type":"Point"},"properties":{"EstRest":"10/25/2026 10:00:00 AM","Outages":83,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}

@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-76.909587,42.020673],"type":"Point"},"properties":{"EstRest":"10/25/2026 10:45:00 AM","Outages":1,"cause":"","county":"CHEMUNG","crewstatus":"     ","customers":61,"hamlet":"PINE CITY","incidentnumber":"0117KI","incidents":1,"level":"street","opco":"NYSEG","street":"SAGETOWN RD","town":"SOUTHPORT T"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.909587,42.020673],"type":"Point"},"properties":{"EstRest":"10/25/2026 10:45:00 AM","Outages":1,"county":"CHEMUNG","customers":39910,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
