@@ -1,8 +1,10 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.293844,39.966005],"type":"Point"},"properties":{"a":"39.966005","cty":"LANCASTER","id":8830131,"mun":"PEQUEA TWP","nc":2,"o":"-76.293844"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.33371,40.64144],"type":"Point"},"properties":{"a":"40.64144","cty":"NORTHAMPTON","id":8830149,"mun":"BETHLEHEM TWP","nc":9,"o":"-75.33371"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.794795,40.263775],"type":"Point"},"properties":{"a":"40.263775","cty":"DAUPHIN","id":8830156,"mun":"SWATARA TWP","nc":2,"o":"-76.794795"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.475472,40.594801],"type":"Point"},"properties":{"a":"40.594801","cty":"LEHIGH","id":8830157,"mun":"ALLENTOWN","nc":6,"o":"-75.475472"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.009639,40.217911],"type":"Point"},"properties":{"a":"40.217911","cty":"CUMBERLAND","id":8830172,"mun":"MECHANICSBURG BORO","nc":2,"o":"-77.009639"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.249134,41.576671],"type":"Point"},"properties":{"a":"41.576671","cty":"WAYNE","id":8830177,"mun":"HONESDALE BORO","nc":1,"o":"-75.249134"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.249134,41.576671],"type":"Point"},"properties":{"a":"41.576671","cty":"WAYNE","id":8830177,"mun":"HONESDALE BORO","nc":1,"o":"-75.249134"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.893622,40.285602],"type":"Point"},"properties":{"a":"40.285602","cty":"DAUPHIN","id":8830179,"mun":"HARRISBURG","nc":16,"o":"-76.893622"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.81322,40.283821],"type":"Point"},"properties":{"a":"40.283821","cty":"DAUPHIN","id":8830181,"mun":"LOWER PAXTON TWP","nc":4,"o":"-76.81322"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.76056,40.91341],"type":"Point"},"properties":{"a":"40.91341","cty":"NORTHUMBERLAND","hp":true,"id":8830183,"mun":"POINT TWP","nc":33,"ne":{"a":"40.91443","o":"-76.75836"},"o":"-76.76056","sw":{"a":"40.91239","o":"-76.76276"}},"type":"Feature"}
 ]}
