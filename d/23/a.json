@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.293844,39.966005],"type":"Point"},"properties":{"a":"39.966005","cty":"LANCASTER","id":8830131,"mun":"PEQUEA TWP","nc":2,"o":"-76.293844"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.012736,40.316467],"type":"Point"},"properties":{"a":"40.316467","cty":"BERKS","id":8830133,"mun":"SPRING TWP","nc":22,"o":"-76.012736"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.36003,41.39216],"type":"Point"},"properties":{"a":"41.39216","cty":"WAYNE","hp":true,"id":8830136,"mun":"SALEM TWP","nc":59,"ne":{"a":"41.39599","o":"-75.35685"},"o":"-75.36003","sw":{"a":"41.38834","o":"-75.36321"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.332931,41.376681],"type":"Point"},"properties":{"a":"41.376681","cty":"WAYNE","id":8830137,"mun":"SALEM TWP","nc":2,"o":"-75.332931"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.36003,41.39216],"type":"Point"},"properties":{"a":"41.39216","cty":"WAYNE","hp":true,"id":8830136,"mun":"SALEM TWP","nc":59,"ne":{"a":"41.39599","o":"-75.35685"},"o":"-75.36003","sw":{"a":"41.38834","o":"-75.36321"}},"type":"Feature"}
 ]}
