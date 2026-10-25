@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.430281,41.735072],"type":"Point"},"properties":{"a":"41.735072","cty":"KENT","id":20261068191,"mun":"WARWICK","nc":8,"o":"-71.430281"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.59591,41.67004],"type":"Point"},"properties":{"a":"41.67004","cty":"KENT","hp":true,"id":20261068196,"mun":"COVENTRY","nc":39,"ne":{"a":"41.67086","o":"-71.59511"},"o":"-71.59591","sw":{"a":"41.66922","o":"-71.59671"}},"type":"Feature"}
+{"geometry":{"coordinates":[-71.596235,41.670442],"type":"Point"},"properties":{"a":"41.670442","cty":"KENT","id":20261068196,"mun":"COVENTRY","nc":18,"o":"-71.596235"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.389754,41.830787],"type":"Point"},"properties":{"a":"41.830787","cty":"PROVIDENCE","id":20261068197,"mun":"PROVIDENCE","nc":1,"o":"-71.389754"},"type":"Feature"}
 ]}

@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.475472,40.594801],"type":"Point"},"properties":{"a":"40.594801","cty":"LEHIGH","id":8830157,"mun":"ALLENTOWN","nc":6,"o":"-75.475472"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.334481,40.64137],"type":"Point"},"properties":{"a":"40.64137","cty":"NORTHAMPTON","id":8830188,"mun":"BETHLEHEM TWP","nc":2,"o":"-75.334481"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.536363,40.959018],"type":"Point"},"properties":{"a":"40.959018","cty":"MONROE","id":8830196,"mun":"PENN FOREST TWP","nc":2,"o":"-75.536363"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.612821,40.580554],"type":"Point"},"properties":{"a":"40.580554","cty":"LEHIGH","id":8830197,"mun":"UPPER MACUNGIE TWP","nc":2,"o":"-75.612821"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.477581,41.402211],"type":"Point"},"properties":{"a":"41.402211","cty":"LACKAWANNA","id":8830199,"mun":"JEFFERSON TWP","nc":2,"o":"-75.477581"},"type":"Feature"},
