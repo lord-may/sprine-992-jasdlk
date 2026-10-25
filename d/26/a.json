@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.538487,43.58513],"type":"Point"},"properties":{"id":"594698","nbrOut":1,"timeOff":1792934463779},"type":"Feature"},
-{"geometry":{"geometries":[{"coordinates":[[[-71.546231,43.55646],[-71.544003,43.556473],[-71.545378,43.56243],[-71.553768,43.565567],[-71.552313,43.563139],[-71.546545,43.556499],[-71.546231,43.55646]]],"type":"Polygon"},{"coordinates":[-71.548028,43.56088],"type":"Point"}],"type":"GeometryCollection"},"properties":{"id":"594699","nbrOut":8,"timeOff":1792934281972},"type":"Feature"}
+{"geometry":{"geometries":[{"coordinates":[[[-71.546231,43.55646],[-71.544003,43.556473],[-71.545378,43.56243],[-71.553768,43.565567],[-71.552313,43.563139],[-71.546545,43.556499],[-71.546231,43.55646]]],"type":"Polygon"},{"coordinates":[-71.548028,43.56088],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"There is a crew enroute to the outage affecting your area. Estimated time of restoration is not yet available.","id":"594699","nbrOut":8,"timeOff":1792934281972},"type":"Feature"},
+{"geometry":{"coordinates":[-71.200658,43.812767],"type":"Point"},"properties":{"id":"594700","nbrOut":1,"timeOff":1792935338572},"type":"Feature"},
+{"geometry":{"coordinates":[-71.541892,43.586907],"type":"Point"},"properties":{"id":"594701","nbrOut":1,"timeOff":1792935749571},"type":"Feature"}
 ]}
