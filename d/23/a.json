@@ -1,5 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.293844,39.966005],"type":"Point"},"properties":{"a":"39.966005","cty":"LANCASTER","id":8830131,"mun":"PEQUEA TWP","nc":2,"o":"-76.293844"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.012736,40.316467],"type":"Point"},"properties":{"a":"40.316467","cty":"BERKS","id":8830133,"mun":"SPRING TWP","nc":22,"o":"-76.012736"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.359363,41.389982],"type":"Point"},"properties":{"a":"41.389982","cty":"WAYNE","id":8830136,"mun":"SALEM TWP","nc":1,"o":"-75.359363"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.359363,41.389982],"type":"Point"},"properties":{"a":"41.389982","cty":"WAYNE","id":8830136,"mun":"SALEM TWP","nc":1,"o":"-75.359363"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.27132,40.28001],"type":"Point"},"properties":{"a":"40.28001","cty":"LEBANON","hp":true,"id":8830142,"mun":"HEIDELBERG TWP","nc":58,"ne":{"a":"40.28533","o":"-76.26197"},"o":"-76.27132","sw":{"a":"40.27468","o":"-76.28067"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.81322,40.283821],"type":"Point"},"properties":{"a":"40.283821","cty":"DAUPHIN","id":8830143,"mun":"LOWER PAXTON TWP","nc":4,"o":"-76.81322"},"type":"Feature"}
 ]}
