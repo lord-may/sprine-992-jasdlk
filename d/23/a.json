@@ -4,5 +4,5 @@
 {"geometry":{"coordinates":[-75.51731,40.96913],"type":"Point"},"properties":{"a":"40.96913","cty":"MONROE","hp":true,"id":8830248,"mun":"POLK TWP","nc":98,"ne":{"a":"40.97348","o":"-75.51218"},"o":"-75.51731","sw":{"a":"40.96477","o":"-75.52244"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.860395,40.248356],"type":"Point"},"properties":{"a":"40.248356","cty":"DAUPHIN","id":8830249,"mun":"HARRISBURG","nc":5,"o":"-76.860395"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.535142,40.960833],"type":"Point"},"properties":{"a":"40.960833","cty":"MONROE","id":8830250,"mun":"PENN FOREST TWP","nc":2,"o":"-75.535142"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.742634,40.32839],"type":"Point"},"properties":{"a":"40.32839","cty":"DAUPHIN","id":8830258,"mun":"WEST HANOVER TWP","nc":2,"o":"-76.742634"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.208992,40.24344],"type":"Point"},"properties":{"a":"40.24344","cty":"LANCASTER","id":8830261,"mun":"WEST COCALICO TWP","nc":3,"o":"-76.208992"},"type":"Feature"}
 ]}
