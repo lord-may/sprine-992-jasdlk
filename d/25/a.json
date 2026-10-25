@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-73.235579,44.382265],"type":"Point"},"properties":{"active":true,"affectingCustomers":true,"cause":0,"county":"Chittenden","crew_name":"","customers_affected":50,"customers_affected_label":"50 Customers","device":"FUSE","has_etor":0,"incident_id":1016461,"status":"CREATED","street":"HARBOR RD","town":"Shelburne","trouble":"NO_POWER"},"type":"Feature"}
+{"geometry":{"coordinates":[-73.235579,44.382265],"type":"Point"},"properties":{"active":true,"affectingCustomers":true,"cause":0,"county":"Chittenden","crew_name":",COLC-HURLEYCOLC-STEVENS","customers_affected":50,"customers_affected_label":"50 Customers","device":"FUSE","etor":"2026-10-25T21:00-04:00","has_etor":1,"incident_id":1016461,"status":"CREW_ASSIGNED","street":"HARBOR RD","town":"Shelburne","trouble":"NO_POWER"},"type":"Feature"}
 ]}
