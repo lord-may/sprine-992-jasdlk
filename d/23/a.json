@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.012736,40.316467],"type":"Point"},"properties":{"a":"40.316467","cty":"BERKS","id":8830075,"mun":"SPRING TWP","nc":22,"o":"-76.012736"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.181714,40.260645],"type":"Point"},"properties":{"a":"40.260645","cty":"LANCASTER","id":8830126,"mun":"WEST COCALICO TWP","nc":1,"o":"-76.181714"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.012736,40.316467],"type":"Point"},"properties":{"a":"40.316467","cty":"BERKS","id":8830075,"mun":"SPRING TWP","nc":22,"o":"-76.012736"},"type":"Feature"}
 ]}
