@@ -2,5 +2,7 @@
 {"geometry":{"coordinates":[-76.293844,39.966005],"type":"Point"},"properties":{"a":"39.966005","cty":"LANCASTER","id":8830131,"mun":"PEQUEA TWP","nc":2,"o":"-76.293844"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.359363,41.389982],"type":"Point"},"properties":{"a":"41.389982","cty":"WAYNE","id":8830136,"mun":"SALEM TWP","nc":1,"o":"-75.359363"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.27132,40.28001],"type":"Point"},"properties":{"a":"40.28001","cty":"LEBANON","hp":true,"id":8830142,"mun":"HEIDELBERG TWP","nc":58,"ne":{"a":"40.28533","o":"-76.26197"},"o":"-76.27132","sw":{"a":"40.27468","o":"-76.28067"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.86039,40.149773],"type":"Point"},"properties":{"a":"40.149773","cty":"YORK","id":8830146,"mun":"FAIRVIEW TWP","nc":2,"o":"-76.86039"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.86039,40.149773],"type":"Point"},"properties":{"a":"40.149773","cty":"YORK","id":8830146,"mun":"FAIRVIEW TWP","nc":2,"o":"-76.86039"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.938605,40.211503],"type":"Point"},"properties":{"a":"40.211503","cty":"CUMBERLAND","id":8830147,"mun":"LOWER ALLEN TWP","nc":2,"o":"-76.938605"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.451245,40.983006],"type":"Point"},"properties":{"a":"40.983006","cty":"MONROE","id":8830148,"mun":"CHESTNUT HILL TWP","nc":2,"o":"-75.451245"},"type":"Feature"}
 ]}

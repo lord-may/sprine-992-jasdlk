@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.48239,43.216873],"type":"Point"},"properties":{"EstRest":"10/25/2026 10:45:00 AM","Outages":39,"cause":"","county":"MONROE","crewstatus":"     ","customers":98,"hamlet":"WEBSTER","incidentnumber":"0117KJ","incidents":1,"level":"street","opco":"RGE","street":"HIGHTOWER WAY","town":"WEBSTER"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.48239,43.216873],"type":"Point"},"properties":{"EstRest":"10/25/2026 10:45:00 AM","Outages":39,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":98,"hamlet":"WEBSTER","incidentnumber":"0117KJ","incidents":1,"level":"street","opco":"RGE","street":"HIGHTOWER WAY","town":"WEBSTER"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.48239,43.216873],"type":"Point"},"properties":{"EstRest":"10/25/2026 10:45:00 AM","Outages":39,"county":"MONROE","customers":303507,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
