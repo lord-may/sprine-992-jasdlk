@@ -3,6 +3,7 @@
 {"geometry":{"coordinates":[-75.939821,40.129222],"type":"Point"},"properties":{"a":"40.129222","cty":"LANCASTER","id":8830216,"mun":"CAERNARVON TWP","nc":2,"o":"-75.939821"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.502262,41.009762],"type":"Point"},"properties":{"a":"41.009762","cty":"MONROE","id":8830222,"mun":"TUNKHANNOCK TWP","nc":4,"o":"-75.502262"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.332931,41.376681],"type":"Point"},"properties":{"a":"41.376681","cty":"WAYNE","id":8830228,"mun":"SALEM TWP","nc":2,"o":"-75.332931"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.51576,40.95054],"type":"Point"},"properties":{"a":"40.95054","cty":"MONROE","hp":true,"id":8830248,"mun":"POLK TWP","nc":1326,"ne":{"a":"40.97436","o":"-75.48918"},"o":"-75.51576","sw":{"a":"40.92672","o":"-75.54234"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.860395,40.248356],"type":"Point"},"properties":{"a":"40.248356","cty":"DAUPHIN","id":8830249,"mun":"HARRISBURG","nc":5,"o":"-76.860395"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.51576,40.95054],"type":"Point"},"properties":{"a":"40.95054","cty":"MONROE","hp":true,"id":8830248,"mun":"POLK TWP","nc":820,"ne":{"a":"40.97436","o":"-75.48918"},"o":"-75.51576","sw":{"a":"40.92672","o":"-75.54234"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.860395,40.248356],"type":"Point"},"properties":{"a":"40.248356","cty":"DAUPHIN","id":8830249,"mun":"HARRISBURG","nc":5,"o":"-76.860395"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.535142,40.960833],"type":"Point"},"properties":{"a":"40.960833","cty":"MONROE","id":8830250,"mun":"PENN FOREST TWP","nc":2,"o":"-75.535142"},"type":"Feature"}
 ]}
