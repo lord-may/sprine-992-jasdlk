@@ -2,5 +2,5 @@
 {"geometry":{"coordinates":[-75.51731,40.96913],"type":"Point"},"properties":{"a":"40.96913","cty":"MONROE","hp":true,"id":8830248,"mun":"POLK TWP","nc":98,"ne":{"a":"40.97348","o":"-75.51218"},"o":"-75.51731","sw":{"a":"40.96477","o":"-75.52244"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.860395,40.248356],"type":"Point"},"properties":{"a":"40.248356","cty":"DAUPHIN","id":8830249,"mun":"HARRISBURG","nc":5,"o":"-76.860395"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.68193,41.379911],"type":"Point"},"properties":{"a":"41.379911","cty":"LACKAWANNA","id":8830283,"mun":"SCRANTON","nc":9,"o":"-75.68193"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.668581,41.424531],"type":"Point"},"properties":{"a":"41.424531","cty":"LACKAWANNA","id":8830284,"mun":"SCRANTON","nc":11,"o":"-75.668581"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.45334,40.74245],"type":"Point"},"properties":{"a":"40.74245","cty":"NORTHAMPTON","hp":true,"id":8830289,"mun":"MOORE TWP","nc":216,"ne":{"a":"40.75941","o":"-75.43612"},"o":"-75.45334","sw":{"a":"40.72549","o":"-75.47056"}},"type":"Feature"}
 ]}
