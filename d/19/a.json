@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-74.702662,42.140969],"type":"Point"},"properties":{"EstRest":"10/26/2026 7:45:00 PM","Outages":2,"cause":"","county":"DELAWARE","crewstatus":"     ","customers":14,"hamlet":"MARGARETVILLE","incidentnumber":"0117X0","incidents":1,"level":"street","opco":"NYSEG","street":"JONES HOLLOW RD","town":"MIDDLETOWN T"},"type":"Feature"},
+{"geometry":{"coordinates":[-74.702662,42.140969],"type":"Point"},"properties":{"EstRest":"10/26/2026 7:45:00 PM","Outages":2,"county":"DELAWARE","customers":28314,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
