@@ -3,5 +3,6 @@
 {"geometry":{"coordinates":[-71.304337,41.490334],"type":"Point"},"properties":{"a":"41.490334","cty":"NEWPORT","id":20261068286,"mun":"NEWPORT","nc":14,"o":"-71.304337"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.488566,41.890475],"type":"Point"},"properties":{"a":"41.890475","cty":"PROVIDENCE","id":20261068310,"mun":"SMITHFIELD","nc":4,"o":"-71.488566"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.430585,41.734309],"type":"Point"},"properties":{"a":"41.734309","cty":"KENT","id":20261068329,"mun":"WARWICK","nc":19,"o":"-71.430585"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.430281,41.735072],"type":"Point"},"properties":{"a":"41.735072","cty":"KENT","id":20261068339,"mun":"WARWICK","nc":1,"o":"-71.430281"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.430281,41.735072],"type":"Point"},"properties":{"a":"41.735072","cty":"KENT","id":20261068339,"mun":"WARWICK","nc":1,"o":"-71.430281"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.260109,41.715997],"type":"Point"},"properties":{"a":"41.715997","cty":"BRISTOL","id":20261068346,"mun":"WARREN","nc":1,"o":"-71.260109"},"type":"Feature"}
 ]}
