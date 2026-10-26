@@ -3,11 +3,11 @@
 {"geometry":{"coordinates":[-76.97351,40.23936],"type":"Point"},"properties":{"a":"40.23936","cty":"CUMBERLAND","hp":true,"id":8830684,"mun":"HAMPDEN TWP","nc":601,"ne":{"a":"40.2428","o":"-76.96957"},"o":"-76.97351","sw":{"a":"40.23593","o":"-76.97746"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.730955,41.564418],"type":"Point"},"properties":{"a":"41.564418","cty":"LACKAWANNA","id":8830694,"mun":"NORTH ABINGTON TWP","nc":1,"o":"-75.730955"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.32865,41.217336],"type":"Point"},"properties":{"a":"41.217336","cty":"CLINTON","id":8830711,"mun":"PINE CREEK TWP","nc":1,"o":"-77.32865"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.272509,40.106129],"type":"Point"},"properties":{"a":"40.106129","cty":"LANCASTER","id":8830713,"mun":"MANHEIM TWP","nc":1,"o":"-76.272509"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.921023,40.227549],"type":"Point"},"properties":{"a":"40.227549","cty":"CUMBERLAND","id":8830721,"mun":"LOWER ALLEN TWP","nc":7,"o":"-76.921023"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.966811,40.245126],"type":"Point"},"properties":{"a":"40.245126","cty":"CUMBERLAND","id":8830725,"mun":"HAMPDEN TWP","nc":3,"o":"-76.966811"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.411767,40.794427],"type":"Point"},"properties":{"a":"40.794427","cty":"NORTHUMBERLAND","id":8830729,"mun":"MOUNT CARMEL TWP","nc":1,"o":"-76.411767"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.974133,40.243099],"type":"Point"},"properties":{"a":"40.243099","cty":"CUMBERLAND","id":8830730,"mun":"HAMPDEN TWP","nc":2,"o":"-76.974133"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.96878,40.25057],"type":"Point"},"properties":{"a":"40.25057","cty":"CUMBERLAND","hp":true,"id":8830734,"mun":"HAMPDEN TWP","nc":367,"ne":{"a":"40.25908","o":"-76.96359"},"o":"-76.96878","sw":{"a":"40.24206","o":"-76.97397"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.97108,40.238259],"type":"Point"},"properties":{"a":"40.238259","cty":"CUMBERLAND","id":8830735,"mun":"HAMPDEN TWP","nc":1,"o":"-76.97108"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.97108,40.238259],"type":"Point"},"properties":{"a":"40.238259","cty":"CUMBERLAND","id":8830735,"mun":"HAMPDEN TWP","nc":1,"o":"-76.97108"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.96719,40.24464],"type":"Point"},"properties":{"a":"40.24464","cty":"CUMBERLAND","hp":true,"id":8830739,"mun":"HAMPDEN TWP","nc":30,"ne":{"a":"40.24602","o":"-76.96446"},"o":"-76.96719","sw":{"a":"40.24326","o":"-76.96992"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.847069,41.009594],"type":"Point"},"properties":{"a":"41.009594","cty":"NORTHUMBERLAND","id":8830740,"mun":"MILTON BORO","nc":8,"o":"-76.847069"},"type":"Feature"}
 ]}

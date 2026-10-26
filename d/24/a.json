@@ -1,8 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.389646,41.829121],"type":"Point"},"properties":{"a":"41.829121","cty":"PROVIDENCE","id":20261068408,"mun":"PROVIDENCE","nc":1,"o":"-71.389646"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.477472,41.935548],"type":"Point"},"properties":{"a":"41.935548","cty":"PROVIDENCE","id":20261068442,"mun":"LINCOLN","nc":1,"o":"-71.477472"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.410224,41.803893],"type":"Point"},"properties":{"a":"41.803893","cty":"PROVIDENCE","id":20261068443,"mun":"PROVIDENCE","nc":1,"o":"-71.410224"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.499162,41.868032],"type":"Point"},"properties":{"a":"41.868032","cty":"PROVIDENCE","id":20261068444,"mun":"JOHNSTON","nc":1,"o":"-71.499162"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.578748,41.688323],"type":"Point"},"properties":{"a":"41.688323","cty":"KENT","id":20261068445,"mun":"COVENTRY","nc":1,"o":"-71.578748"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.45626,41.829727],"type":"Point"},"properties":{"a":"41.829727","cty":"PROVIDENCE","id":20261068446,"mun":"PROVIDENCE","nc":1,"o":"-71.45626"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.578748,41.688323],"type":"Point"},"properties":{"a":"41.688323","cty":"KENT","id":20261068445,"mun":"COVENTRY","nc":1,"o":"-71.578748"},"type":"Feature"}
 ]}
