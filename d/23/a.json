@@ -1,5 +1,9 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.694034,41.082134],"type":"Point"},"properties":{"a":"41.082134","cty":"CARBON","id":8830658,"mun":"KIDDER TWP","nc":4,"o":"-75.694034"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.716428,40.708527],"type":"Point"},"properties":{"a":"40.708527","cty":"LEHIGH","id":8830666,"mun":"HEIDELBERG TWP","nc":1,"o":"-75.716428"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.495728,41.578909],"type":"Point"},"properties":{"a":"41.578909","cty":"LACKAWANNA","id":8830675,"mun":"CARBONDALE","nc":18,"o":"-75.495728"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.9723,40.24415],"type":"Point"},"properties":{"a":"40.24415","cty":"CUMBERLAND","hp":true,"id":8830684,"mun":"HAMPDEN TWP","nc":2515,"ne":{"a":"40.25908","o":"-76.95343"},"o":"-76.9723","sw":{"a":"40.22923","o":"-76.99117"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.34914,40.03078],"type":"Point"},"properties":{"a":"40.03078","cty":"LANCASTER","hp":true,"id":8830693,"mun":"MANOR TWP","nc":2072,"ne":{"a":"40.03866","o":"-76.33108"},"o":"-76.34914","sw":{"a":"40.0229","o":"-76.36721"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.730955,41.564418],"type":"Point"},"properties":{"a":"41.564418","cty":"LACKAWANNA","id":8830694,"mun":"NORTH ABINGTON TWP","nc":1,"o":"-75.730955"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.005891,40.879772],"type":"Point"},"properties":{"a":"40.879772","cty":"SCHUYLKILL","id":8830697,"mun":"KLINE TWP","nc":3,"o":"-76.005891"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.31362,40.17261],"type":"Point"},"properties":{"a":"40.17261","cty":"CUMBERLAND","hp":true,"id":8830701,"mun":"WEST PENNSBORO TWP","nc":33,"ne":{"a":"40.17616","o":"-77.30733"},"o":"-77.31362","sw":{"a":"40.16907","o":"-77.31991"}},"type":"Feature"}
 ]}
