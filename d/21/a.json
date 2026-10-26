@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-70.785831,43.440165],"type":"Point"},"properties":{"EstRest":"10/26/2026 5:45:00 AM","Outages":3,"cause":"","county":"YORK","crewstatus":"DISP ","customers":10,"hamlet":"SANFORD","incidentnumber":"0044SY","incidents":1,"level":"street","opco":"CMP","street":"DOUGLAS ST","town":"SANFORD"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.785831,43.440165],"type":"Point"},"properties":{"EstRest":"10/26/2026 5:45:00 AM","Outages":8,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.409306,40.122389],"type":"Point"},"properties":{"a":"40.122389","cty":"CUMBERLAND","id":8830329,"mun":"NORTH NEWTON TWP","nc":1,"o":"-77.409306"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.073369,41.245749],"type":"Point"},"properties":{"a":"41.245749","cty":"LYCOMING","id":8830330,"mun":"OLD LYCOMING TWP","nc":2,"o":"-77.073369"},"type":"Feature"}
 ]}
