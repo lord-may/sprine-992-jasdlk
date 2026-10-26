@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.488871,40.678556],"type":"Point"},"properties":{"a":"40.678556","cty":"NORTHAMPTON","id":8830397,"mun":"NORTHAMPTON BORO","nc":29,"o":"-75.488871"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.32349,40.75977],"type":"Point"},"properties":{"a":"40.75977","cty":"NORTHAMPTON","hp":true,"id":8830562,"mun":"BUSHKILL TWP","nc":15,"ne":{"a":"40.76047","o":"-75.32229"},"o":"-75.32349","sw":{"a":"40.75908","o":"-75.32468"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.300816,40.382771],"type":"Point"},"properties":{"a":"40.382771","cty":"BUCKS","id":8830624,"mun":"EAST ROCKHILL TWP","nc":1,"o":"-75.300816"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.859173,40.07152],"type":"Point"},"properties":{"a":"40.07152","cty":"CHESTER","id":8830627,"mun":"HONEYBROOK TWP","nc":2,"o":"-75.859173"},"type":"Feature"}
 ]}
