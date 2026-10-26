@@ -1,8 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-74.741384,42.03624],"type":"Point"},"properties":{"EstRest":"10/26/2026 4:15:00 PM","Outages":1,"cause":"Animal","county":"DELAWARE","crewstatus":"CMPL ","customers":1,"hamlet":"LIVINGSTON MANOR","incidentnumber":"0117UI","incidents":1,"level":"street","opco":"NYSEG","street":"TURNWOOD RD","town":"HARDENBURGH T"},"type":"Feature"},
-{"geometry":{"coordinates":[-74.745318,42.037019],"type":"Point"},"properties":{"EstRest":"10/26/2026 4:15:00 PM","Outages":5,"county":"DELAWARE","customers":28314,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.298999,42.512706],"type":"Point"},"properties":{"EstRest":"10/26/2026 6:00:00 PM","Outages":95,"county":"TOMPKINS","customers":49504,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.300995,42.520806],"type":"Point"},"properties":{"EstRest":"10/26/2026 6:00:00 PM","Outages":24,"cause":"","county":"TOMPKINS","crewstatus":"ONST ","customers":24,"hamlet":"FREEVILLE","incidentnumber":"0117VW","incidents":1,"level":"street","opco":"NYSEG","street":"NORTH RD","town":"DRYDEN T"},"type":"Feature"},
-{"geometry":{"coordinates":[-74.745318,42.037019],"type":"Point"},"properties":{"EstRest":"10/26/2026 4:15:00 PM","Outages":1,"cause":"Animal","county":"ULSTER","crewstatus":"CMPL ","customers":1,"hamlet":"LIVINGSTON MANOR","incidentnumber":"0117UI","incidents":1,"level":"street","opco":"NYSEG","street":"LITTLE POND RD","town":"ANDES T"},"type":"Feature"},
-{"geometry":{"coordinates":[-74.745318,42.037019],"type":"Point"},"properties":{"EstRest":"10/26/2026 4:15:00 PM","Outages":1,"county":"ULSTER","customers":5407,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+
 ]}
