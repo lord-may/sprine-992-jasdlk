@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-79.586189,41.776883],[-79.584491,41.778022],[-79.608126,41.783662],[-79.609365,41.783341],[-79.594166,41.778605],[-79.586189,41.776883]]],"type":"Polygon"},{"coordinates":[-79.595621,41.779971],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Investigating","crewAssigned":true,"id":"336766","nbrOut":12,"planned":false,"timeOff":1792965995859},"type":"Feature"}
+
 ]}
