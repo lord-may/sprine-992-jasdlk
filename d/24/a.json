@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.43164,41.823544],"type":"Point"},"properties":{"a":"41.823544","cty":"PROVIDENCE","id":20261068282,"mun":"PROVIDENCE","nc":23,"o":"-71.43164"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.304337,41.490334],"type":"Point"},"properties":{"a":"41.490334","cty":"NEWPORT","id":20261068286,"mun":"NEWPORT","nc":14,"o":"-71.304337"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.73191,41.708522],"type":"Point"},"properties":{"a":"41.708522","cty":"KENT","id":20261068292,"mun":"COVENTRY","nc":1,"o":"-71.73191"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.73191,41.708522],"type":"Point"},"properties":{"a":"41.708522","cty":"KENT","id":20261068292,"mun":"COVENTRY","nc":1,"o":"-71.73191"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.488566,41.890475],"type":"Point"},"properties":{"a":"41.890475","cty":"PROVIDENCE","id":20261068310,"mun":"SMITHFIELD","nc":4,"o":"-71.488566"},"type":"Feature"}
 ]}
