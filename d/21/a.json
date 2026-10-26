@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-70.178777,43.911739],"type":"Point"},"properties":{"EstRest":"10/26/2026 2:15:00 AM","Outages":1,"cause":"","county":"CUMBERLAND","crewstatus":"DISP ","customers":7,"hamlet":"POWNAL","incidentnumber":"0044SX","incidents":1,"level":"street","opco":"CMP","street":"MINOT RD","town":"POWNAL"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.178777,43.911739],"type":"Point"},"properties":{"EstRest":"10/26/2026 2:15:00 AM","Outages":1,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}

@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.51731,40.96913],"type":"Point"},"properties":{"a":"40.96913","cty":"MONROE","hp":true,"id":8830248,"mun":"POLK TWP","nc":98,"ne":{"a":"40.97348","o":"-75.51218"},"o":"-75.51731","sw":{"a":"40.96477","o":"-75.52244"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.51472,40.970479],"type":"Point"},"properties":{"a":"40.970479","cty":"MONROE","id":8830248,"mun":"POLK TWP","nc":2,"o":"-75.51472"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.28036,39.98353],"type":"Point"},"properties":{"a":"39.98353","cty":"LANCASTER","hp":true,"id":8830307,"mun":"PEQUEA TWP","nc":394,"ne":{"a":"39.99288","o":"-76.27152"},"o":"-76.28036","sw":{"a":"39.97417","o":"-76.28921"}},"type":"Feature"}
 ]}
