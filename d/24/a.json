@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.188973,41.618377],"type":"Point"},"properties":{"a":"41.618377","cty":"NEWPORT","id":20261068270,"mun":"TIVERTON","nc":14,"o":"-71.188973"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.417026,41.797604],"type":"Point"},"properties":{"a":"41.797604","cty":"PROVIDENCE","id":20261068272,"mun":"PROVIDENCE","nc":15,"o":"-71.417026"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.35187,41.7654],"type":"Point"},"properties":{"a":"41.7654","cty":"PROVIDENCE","id":20261068273,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.35187"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.462596,41.9762],"type":"Point"},"properties":{"a":"41.9762","cty":"PROVIDENCE","id":20261068279,"mun":"CUMBERLAND","nc":1,"o":"-71.462596"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.389453,41.869709],"type":"Point"},"properties":{"a":"41.869709","cty":"PROVIDENCE","id":20261068281,"mun":"PAWTUCKET","nc":1,"o":"-71.389453"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.43164,41.823544],"type":"Point"},"properties":{"a":"41.823544","cty":"PROVIDENCE","id":20261068282,"mun":"PROVIDENCE","nc":23,"o":"-71.43164"},"type":"Feature"}
 ]}
