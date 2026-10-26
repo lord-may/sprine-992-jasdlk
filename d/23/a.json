@@ -3,7 +3,6 @@
 {"geometry":{"coordinates":[-77.197354,40.210016],"type":"Point"},"properties":{"a":"40.210016","cty":"CUMBERLAND","id":8830447,"mun":"CARLISLE BORO","nc":2,"o":"-77.197354"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.59772,41.16733],"type":"Point"},"properties":{"a":"41.16733","cty":"LYCOMING","hp":true,"id":8830468,"mun":"MORELAND TWP","nc":18,"ne":{"a":"41.17337","o":"-76.59053"},"o":"-76.59772","sw":{"a":"41.16128","o":"-76.6049"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.181223,40.245956],"type":"Point"},"properties":{"a":"40.245956","cty":"CUMBERLAND","id":8830470,"mun":"NORTH MIDDLETON TWP","nc":9,"o":"-77.181223"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.830591,41.246679],"type":"Point"},"properties":{"a":"41.246679","cty":"LUZERNE","id":8830500,"mun":"PLAINS TWP","nc":7,"o":"-75.830591"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.982632,40.957198],"type":"Point"},"properties":{"a":"40.957198","cty":"LUZERNE","id":8830514,"mun":"HAZLETON","nc":12,"o":"-75.982632"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.327747,41.120895],"type":"Point"},"properties":{"a":"41.120895","cty":"COLUMBIA","id":8830516,"mun":"FISHING CREEK TWP","nc":1,"o":"-76.327747"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.51734,40.81968],"type":"Point"},"properties":{"a":"40.81968","cty":"CARBON","hp":true,"id":8830539,"mun":"LOWER TOWAMENSING TWP","nc":4,"ne":{"a":"40.82241","o":"-75.51621"},"o":"-75.51734","sw":{"a":"40.81696","o":"-75.51848"}},"type":"Feature"},
@@ -13,7 +12,6 @@
 {"geometry":{"coordinates":[-76.324906,41.083327],"type":"Point"},"properties":{"a":"41.083327","cty":"COLUMBIA","id":8830565,"mun":"NORTH CENTRE TWP","nc":4,"o":"-76.324906"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.513143,40.515152],"type":"Point"},"properties":{"a":"40.515152","cty":"LEHIGH","id":8830570,"mun":"UPPER MILFORD TWP","nc":1,"o":"-75.513143"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.534443,40.808445],"type":"Point"},"properties":{"a":"40.808445","cty":"CARBON","id":8830574,"mun":"LOWER TOWAMENSING TWP","nc":1,"o":"-75.534443"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.180497,41.014509],"type":"Point"},"properties":{"a":"41.014509","cty":"MONROE","id":8830584,"mun":"EAST STROUDSBURG BORO","nc":12,"o":"-75.180497"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.781729,40.858607],"type":"Point"},"properties":{"a":"40.858607","cty":"NORTHUMBERLAND","id":8830585,"mun":"UPPER AUGUSTA TWP","nc":17,"o":"-76.781729"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.921023,40.227549],"type":"Point"},"properties":{"a":"40.227549","cty":"CUMBERLAND","id":8830588,"mun":"LOWER ALLEN TWP","nc":7,"o":"-76.921023"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.611536,40.063087],"type":"Point"},"properties":{"a":"40.063087","cty":"LANCASTER","id":8830597,"mun":"EAST DONEGAL TWP","nc":11,"o":"-76.611536"},"type":"Feature"}
 ]}
