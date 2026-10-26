@@ -1,8 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.488871,40.678556],"type":"Point"},"properties":{"a":"40.678556","cty":"NORTHAMPTON","id":8830397,"mun":"NORTHAMPTON BORO","nc":29,"o":"-75.488871"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.300816,40.382771],"type":"Point"},"properties":{"a":"40.382771","cty":"BUCKS","id":8830624,"mun":"EAST ROCKHILL TWP","nc":1,"o":"-75.300816"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.859173,40.07152],"type":"Point"},"properties":{"a":"40.07152","cty":"CHESTER","id":8830627,"mun":"HONEYBROOK TWP","nc":2,"o":"-75.859173"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.932206,40.284989],"type":"Point"},"properties":{"a":"40.284989","cty":"CUMBERLAND","id":8830643,"mun":"EAST PENNSBORO TWP","nc":9,"o":"-76.932206"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.084109,40.427876],"type":"Point"},"properties":{"a":"40.427876","cty":"PERRY","id":8830647,"mun":"WHEATFIELD TWP","nc":7,"o":"-77.084109"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.694034,41.082134],"type":"Point"},"properties":{"a":"41.082134","cty":"CARBON","id":8830658,"mun":"KIDDER TWP","nc":4,"o":"-75.694034"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.716428,40.708527],"type":"Point"},"properties":{"a":"40.708527","cty":"LEHIGH","id":8830666,"mun":"HEIDELBERG TWP","nc":1,"o":"-75.716428"},"type":"Feature"}
