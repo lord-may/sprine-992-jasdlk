@@ -1,4 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.43164,41.823544],"type":"Point"},"properties":{"a":"41.823544","cty":"PROVIDENCE","id":20261068282,"mun":"PROVIDENCE","nc":23,"o":"-71.43164"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.304337,41.490334],"type":"Point"},"properties":{"a":"41.490334","cty":"NEWPORT","id":20261068286,"mun":"NEWPORT","nc":14,"o":"-71.304337"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.304337,41.490334],"type":"Point"},"properties":{"a":"41.490334","cty":"NEWPORT","id":20261068286,"mun":"NEWPORT","nc":14,"o":"-71.304337"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.399367,41.730205],"type":"Point"},"properties":{"a":"41.730205","cty":"KENT","id":20261068291,"mun":"WARWICK","nc":1,"o":"-71.399367"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.73191,41.708522],"type":"Point"},"properties":{"a":"41.708522","cty":"KENT","id":20261068292,"mun":"COVENTRY","nc":1,"o":"-71.73191"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.303413,41.495528],"type":"Point"},"properties":{"a":"41.495528","cty":"NEWPORT","id":20261068295,"mun":"NEWPORT","nc":1,"o":"-71.303413"},"type":"Feature"}
 ]}
