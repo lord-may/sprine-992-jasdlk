@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.43074,41.73421],"type":"Point"},"properties":{"a":"41.73421","cty":"KENT","hp":true,"id":20261068227,"mun":"WARWICK","nc":65,"ne":{"a":"41.73592","o":"-71.42948"},"o":"-71.43074","sw":{"a":"41.7325","o":"-71.432"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.454472,41.6037],"type":"Point"},"properties":{"a":"41.6037","cty":"WASHINGTON","id":20261068233,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.454472"},"type":"Feature"}
+
 ]}
