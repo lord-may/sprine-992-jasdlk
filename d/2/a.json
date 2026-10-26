@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-73.92489,41.0711],"type":"Point"},"properties":{"cause":"Under Investigation","cluster":false,"cust_a":{"val":1},"etr":"2026-10-26T09:39:50-0400","inc_id":"560691","title":"Outage Information"},"type":"Feature"},
 {"geometry":{"coordinates":[-73.99512,41.09741],"type":"Point"},"properties":{"cause":"Under Investigation","cluster":false,"cust_a":{"val":1},"etr":"ETR-NULL","inc_id":"559372","title":"Outage Information"},"type":"Feature"},
-{"geometry":{"coordinates":[-74.11482,41.10428],"type":"Point"},"properties":{"cluster":false,"cust_a":{"val":2},"etr":"2026-10-26T09:53:27-0400","inc_id":"560692","title":"Outage Information"},"type":"Feature"},
-{"geometry":{"geometries":[{"coordinates":[[[-74.37954,41.18391],[-74.37896,41.18443],[-74.37855,41.18523],[-74.37755,41.18737],[-74.37595,41.19116],[-74.37645,41.19149],[-74.37675,41.19162],[-74.37853,41.19193],[-74.38132,41.18699],[-74.381,41.186],[-74.37954,41.18391]]],"type":"Polygon"},{"coordinates":[-74.37876,41.18825],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cluster":false,"cust_a":{"val":80},"etr":"2026-10-26T10:24:33-0400","inc_id":"560693","title":"Outage Information"},"type":"Feature"}
+{"geometry":{"coordinates":[-74.11482,41.10428],"type":"Point"},"properties":{"cluster":false,"cust_a":{"val":2},"etr":"2026-10-26T09:53:27-0400","inc_id":"560692","title":"Outage Information"},"type":"Feature"}
 ]}

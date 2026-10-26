@@ -1,3 +1,9 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.440345,41.729091],"type":"Point"},"properties":{"a":"41.729091","cty":"KENT","id":20261068243,"mun":"WARWICK","nc":21,"o":"-71.440345"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.440345,41.729091],"type":"Point"},"properties":{"a":"41.729091","cty":"KENT","id":20261068243,"mun":"WARWICK","nc":1,"o":"-71.440345"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.188973,41.618377],"type":"Point"},"properties":{"a":"41.618377","cty":"NEWPORT","id":20261068262,"mun":"TIVERTON","nc":14,"o":"-71.188973"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.440345,41.729091],"type":"Point"},"properties":{"a":"41.729091","cty":"KENT","id":20261068265,"mun":"WARWICK","nc":1,"o":"-71.440345"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.440345,41.729091],"type":"Point"},"properties":{"a":"41.729091","cty":"KENT","id":20261068266,"mun":"WARWICK","nc":1,"o":"-71.440345"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.440345,41.729091],"type":"Point"},"properties":{"a":"41.729091","cty":"KENT","id":20261068267,"mun":"WARWICK","nc":1,"o":"-71.440345"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.440345,41.729091],"type":"Point"},"properties":{"a":"41.729091","cty":"KENT","id":20261068268,"mun":"WARWICK","nc":1,"o":"-71.440345"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.440345,41.729091],"type":"Point"},"properties":{"a":"41.729091","cty":"KENT","id":20261068269,"mun":"WARWICK","nc":1,"o":"-71.440345"},"type":"Feature"}
 ]}

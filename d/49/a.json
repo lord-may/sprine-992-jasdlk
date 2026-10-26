@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-76.071526,38.750176],"type":"Point"},"properties":{"dateReceived":"2026-10-26T13:06:00.000Z","id":876663,"latitude":38.7501755,"longitude":-76.0715256,"neighborhood":"The Greens","problemName":"No Electric","serviceName":"Electric"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.071526,38.750176],"type":"Point"},"properties":{"dateReceived":"2026-10-26T13:06:00.000Z","id":876664,"latitude":38.7501755,"longitude":-76.0715256,"neighborhood":"The Greens","problemName":"No Electric","serviceName":"Electric"},"type":"Feature"}
 ]}
