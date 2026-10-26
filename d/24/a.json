@@ -3,5 +3,6 @@
 {"geometry":{"coordinates":[-71.304337,41.490334],"type":"Point"},"properties":{"a":"41.490334","cty":"NEWPORT","id":20261068286,"mun":"NEWPORT","nc":14,"o":"-71.304337"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.488566,41.890475],"type":"Point"},"properties":{"a":"41.890475","cty":"PROVIDENCE","id":20261068310,"mun":"SMITHFIELD","nc":4,"o":"-71.488566"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.293816,41.726192],"type":"Point"},"properties":{"a":"41.726192","cty":"BRISTOL","id":20261068352,"mun":"BARRINGTON","nc":1,"o":"-71.293816"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.69049,41.502149],"type":"Point"},"properties":{"a":"41.502149","cty":"WASHINGTON","id":20261068353,"mun":"RICHMOND","nc":1,"o":"-71.69049"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.69049,41.502149],"type":"Point"},"properties":{"a":"41.502149","cty":"WASHINGTON","id":20261068353,"mun":"RICHMOND","nc":1,"o":"-71.69049"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.499625,42.007679],"type":"Point"},"properties":{"a":"42.007679","cty":"PROVIDENCE","id":20261068357,"mun":"WOONSOCKET","nc":18,"o":"-71.499625"},"type":"Feature"}
 ]}
