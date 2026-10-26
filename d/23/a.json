@@ -6,10 +6,8 @@
 {"geometry":{"coordinates":[-75.982632,40.957198],"type":"Point"},"properties":{"a":"40.957198","cty":"LUZERNE","id":8830514,"mun":"HAZLETON","nc":12,"o":"-75.982632"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.51734,40.81968],"type":"Point"},"properties":{"a":"40.81968","cty":"CARBON","hp":true,"id":8830539,"mun":"LOWER TOWAMENSING TWP","nc":4,"ne":{"a":"40.82241","o":"-75.51621"},"o":"-75.51734","sw":{"a":"40.81696","o":"-75.51848"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.32349,40.75977],"type":"Point"},"properties":{"a":"40.75977","cty":"NORTHAMPTON","hp":true,"id":8830562,"mun":"BUSHKILL TWP","nc":15,"ne":{"a":"40.76047","o":"-75.32229"},"o":"-75.32349","sw":{"a":"40.75908","o":"-75.32468"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.232345,40.183534],"type":"Point"},"properties":{"a":"40.183534","cty":"LANCASTER","id":8830564,"mun":"EPHRATA TWP","nc":1,"o":"-76.232345"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.513143,40.515152],"type":"Point"},"properties":{"a":"40.515152","cty":"LEHIGH","id":8830570,"mun":"UPPER MILFORD TWP","nc":1,"o":"-75.513143"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.534443,40.808445],"type":"Point"},"properties":{"a":"40.808445","cty":"CARBON","id":8830574,"mun":"LOWER TOWAMENSING TWP","nc":1,"o":"-75.534443"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.781729,40.858607],"type":"Point"},"properties":{"a":"40.858607","cty":"NORTHUMBERLAND","id":8830585,"mun":"UPPER AUGUSTA TWP","nc":17,"o":"-76.781729"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.375081,40.623034],"type":"Point"},"properties":{"a":"40.623034","cty":"NORTHAMPTON","id":8830601,"mun":"BETHLEHEM","nc":27,"o":"-75.375081"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.533981,40.025522],"type":"Point"},"properties":{"a":"40.025522","cty":"YORK","id":8830608,"mun":"WRIGHTSVILLE BORO","nc":9,"o":"-76.533981"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.533981,40.025522],"type":"Point"},"properties":{"a":"40.025522","cty":"YORK","id":8830608,"mun":"WRIGHTSVILLE BORO","nc":9,"o":"-76.533981"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.832078,41.31914],"type":"Point"},"properties":{"a":"41.31914","cty":"LUZERNE","id":8830614,"mun":"EXETER BORO","nc":14,"o":"-75.832078"},"type":"Feature"}
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-73.061333,43.357374],"type":"Point"},"properties":{"active":true,"affectingCustomers":true,"cause":123,"county":"Rutland","crew_name":",RUTL-DOUGLAS","customers_affected":44,"customers_affected_label":"44 Customers","device":"DYNAMIC_PROTECTIVE_DEVICE","etor":"2026-10-26T15:05:29-04:00","has_etor":1,"incident_id":1016526,"status":"CREW_ASSIGNED","street":"OLD OTIS RD","town":"Danby","trouble":"NO_POWER"},"type":"Feature"}
+
 ]}
