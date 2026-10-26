@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.084109,40.427876],"type":"Point"},"properties":{"a":"40.427876","cty":"PERRY","id":8830647,"mun":"WHEATFIELD TWP","nc":7,"o":"-77.084109"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.694034,41.082134],"type":"Point"},"properties":{"a":"41.082134","cty":"CARBON","id":8830658,"mun":"KIDDER TWP","nc":4,"o":"-75.694034"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.716428,40.708527],"type":"Point"},"properties":{"a":"40.708527","cty":"LEHIGH","id":8830666,"mun":"HEIDELBERG TWP","nc":1,"o":"-75.716428"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.716428,40.708527],"type":"Point"},"properties":{"a":"40.708527","cty":"LEHIGH","id":8830666,"mun":"HEIDELBERG TWP","nc":1,"o":"-75.716428"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.495728,41.578909],"type":"Point"},"properties":{"a":"41.578909","cty":"LACKAWANNA","id":8830675,"mun":"CARBONDALE","nc":18,"o":"-75.495728"},"type":"Feature"}
 ]}
