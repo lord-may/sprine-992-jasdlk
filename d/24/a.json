@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.43074,41.73421],"type":"Point"},"properties":{"a":"41.73421","cty":"KENT","hp":true,"id":20261068227,"mun":"WARWICK","nc":65,"ne":{"a":"41.73592","o":"-71.42948"},"o":"-71.43074","sw":{"a":"41.7325","o":"-71.432"}},"type":"Feature"}
+{"geometry":{"coordinates":[-71.43074,41.73421],"type":"Point"},"properties":{"a":"41.73421","cty":"KENT","hp":true,"id":20261068227,"mun":"WARWICK","nc":65,"ne":{"a":"41.73592","o":"-71.42948"},"o":"-71.43074","sw":{"a":"41.7325","o":"-71.432"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.39137,41.759683],"type":"Point"},"properties":{"a":"41.759683","cty":"KENT","id":20261068230,"mun":"WARWICK","nc":1,"o":"-71.39137"},"type":"Feature"}
 ]}
