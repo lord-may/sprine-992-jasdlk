@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-76.28532,43.29868],[-76.28496,43.29945],[-76.29016,43.30982],[-76.29118,43.30906],[-76.2912,43.30684],[-76.2911,43.30593],[-76.28909,43.30263],[-76.28757,43.30101],[-76.28532,43.29868]]],"type":"Polygon"},{"coordinates":[-76.28863,43.30445],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"Under Investigation","ES-ES":"Bajo Investigación","orig":"Null"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Unassigned","ES-ES":"Sin Asignar","orig":"Unassigned"},"cust_a":{"val":20},"etr":"2026-10-26T13:30:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-10-26T09:52:20Z","title":"Area Outage","town":"Schroeppel"},"type":"Feature"}
 ]}
