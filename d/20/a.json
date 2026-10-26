@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-77.594702,43.238514],"type":"Point"},"properties":{"EstRest":"10/26/2026 12:15:00 PM","Outages":1,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":138,"hamlet":"ROCHESTER","incidentnumber":"0117QF","incidents":1,"level":"street","opco":"RGE","street":"WASHINGTON AVE","town":"IRONDEQUOIT"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.594702,43.238514],"type":"Point"},"properties":{"EstRest":"10/26/2026 12:15:00 PM","Outages":18,"county":"MONROE","customers":303507,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.252105,42.856666],"type":"Point"},"properties":{"EstRest":"10/26/2026 11:00:00 AM","Outages":2,"cause":"","county":"ONTARIO","crewstatus":"DISP ","customers":166,"hamlet":"CANANDAIGUA","incidentnumber":"0117Q0","incidents":1,"level":"street","opco":"RGE","street":"ROUTE 364","town":"CANANDAIGUA T"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.252105,42.856666],"type":"Point"},"properties":{"EstRest":"10/26/2026 11:00:00 AM","Outages":2,"county":"ONTARIO","customers":35916,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.594702,43.238514],"type":"Point"},"properties":{"EstRest":"10/26/2026 12:15:00 PM","Outages":18,"county":"MONROE","customers":303507,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
