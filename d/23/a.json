@@ -1,17 +1,13 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.46342,40.38717],"type":"Point"},"properties":{"a":"40.38717","cty":"MONTGOMERY","hp":true,"id":8830391,"mun":"UPPER HANOVER TWP","nc":80,"ne":{"a":"40.39371","o":"-75.45603"},"o":"-75.46342","sw":{"a":"40.38063","o":"-75.47082"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.74917,40.86333],"type":"Point"},"properties":{"a":"40.86333","cty":"NORTHUMBERLAND","hp":true,"id":8830393,"mun":"UPPER AUGUSTA TWP","nc":21,"ne":{"a":"40.86443","o":"-76.74677"},"o":"-76.74917","sw":{"a":"40.86223","o":"-76.75157"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.488871,40.678556],"type":"Point"},"properties":{"a":"40.678556","cty":"NORTHAMPTON","id":8830397,"mun":"NORTHAMPTON BORO","nc":29,"o":"-75.488871"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.838708,40.253165],"type":"Point"},"properties":{"a":"40.253165","cty":"DAUPHIN","id":8830410,"mun":"SWATARA TWP","nc":2,"o":"-76.838708"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.566101,41.496597],"type":"Point"},"properties":{"a":"41.496597","cty":"LACKAWANNA","id":8830415,"mun":"ARCHBALD BORO","nc":0,"o":"-75.566101"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.076703,40.909827],"type":"Point"},"properties":{"a":"40.909827","cty":"UNION","id":8830433,"mun":"LIMESTONE TWP","nc":3,"o":"-77.076703"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.947797,40.279691],"type":"Point"},"properties":{"a":"40.279691","cty":"CUMBERLAND","id":8830446,"mun":"EAST PENNSBORO TWP","nc":2,"o":"-76.947797"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.197354,40.210016],"type":"Point"},"properties":{"a":"40.210016","cty":"CUMBERLAND","id":8830447,"mun":"CARLISLE BORO","nc":2,"o":"-77.197354"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.59772,41.16733],"type":"Point"},"properties":{"a":"41.16733","cty":"LYCOMING","hp":true,"id":8830468,"mun":"MORELAND TWP","nc":18,"ne":{"a":"41.17337","o":"-76.59053"},"o":"-76.59772","sw":{"a":"41.16128","o":"-76.6049"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.181223,40.245956],"type":"Point"},"properties":{"a":"40.245956","cty":"CUMBERLAND","id":8830470,"mun":"NORTH MIDDLETON TWP","nc":9,"o":"-77.181223"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.830591,41.246679],"type":"Point"},"properties":{"a":"41.246679","cty":"LUZERNE","id":8830500,"mun":"PLAINS TWP","nc":7,"o":"-75.830591"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.241758,40.751845],"type":"Point"},"properties":{"a":"40.751845","cty":"NORTHAMPTON","id":8830502,"mun":"FORKS TWP","nc":2,"o":"-75.241758"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.605913,41.054724],"type":"Point"},"properties":{"a":"41.054724","cty":"CARBON","id":8830503,"mun":"KIDDER TWP","nc":2,"o":"-75.605913"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.149303,40.309223],"type":"Point"},"properties":{"a":"40.309223","cty":"PERRY","id":8830506,"mun":"CARROLL TWP","nc":3,"o":"-77.149303"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.390204,40.077136],"type":"Point"},"properties":{"a":"40.077136","cty":"LANCASTER","id":8830507,"mun":"EAST HEMPFIELD TWP","nc":4,"o":"-76.390204"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.632017,40.546129],"type":"Point"},"properties":{"a":"40.546129","cty":"LEHIGH","id":8830509,"mun":"UPPER MACUNGIE TWP","nc":6,"o":"-75.632017"},"type":"Feature"},
@@ -22,5 +18,6 @@
 {"geometry":{"coordinates":[-75.39938,40.63634],"type":"Point"},"properties":{"a":"40.63634","cty":"LEHIGH","hp":true,"id":8830523,"mun":"BETHLEHEM","nc":35,"ne":{"a":"40.63771","o":"-75.39916"},"o":"-75.39938","sw":{"a":"40.63497","o":"-75.3996"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.51734,40.81968],"type":"Point"},"properties":{"a":"40.81968","cty":"CARBON","hp":true,"id":8830539,"mun":"LOWER TOWAMENSING TWP","nc":4,"ne":{"a":"40.82241","o":"-75.51621"},"o":"-75.51734","sw":{"a":"40.81696","o":"-75.51848"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.324225,41.670786],"type":"Point"},"properties":{"a":"41.670786","cty":"WAYNE","id":8830544,"mun":"DYBERRY TWP","nc":3,"o":"-75.324225"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.370658,40.574358],"type":"Point"},"properties":{"a":"40.574358","cty":"NORTHAMPTON","id":8830556,"mun":"LOWER SAUCON TWP","nc":3,"o":"-75.370658"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.541434,40.590802],"type":"Point"},"properties":{"a":"40.590802","cty":"SCHUYLKILL","id":8830560,"mun":"PORTER TWP","nc":5,"o":"-76.541434"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.32349,40.75977],"type":"Point"},"properties":{"a":"40.75977","cty":"NORTHAMPTON","hp":true,"id":8830562,"mun":"BUSHKILL TWP","nc":15,"ne":{"a":"40.76047","o":"-75.32229"},"o":"-75.32349","sw":{"a":"40.75908","o":"-75.32468"}},"type":"Feature"}
 ]}
