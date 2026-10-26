@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-78.571345,42.811432],"type":"Point"},"properties":{"EstRest":"10/25/2026 11:15:00 PM","Outages":104,"county":"ERIE","customers":157686,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-78.576664,42.822816],"type":"Point"},"properties":{"EstRest":"10/25/2026 11:15:00 PM","Outages":37,"cause":"","county":"ERIE","crewstatus":"DISP ","customers":37,"hamlet":"EAST AURORA","incidentnumber":"0117NT","incidents":1,"level":"street","opco":"NYSEG","street":"STOLLE RD","town":"MARILLA T"},"type":"Feature"}
+
 ]}
