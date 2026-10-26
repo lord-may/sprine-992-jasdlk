@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-73.619058,41.399621],"type":"Point"},"properties":{"EstRest":"10/26/2026 4:00:00 AM","Outages":12,"cause":"Equipment Interruption","county":"PUTNAM","crewstatus":"CMPL ","customers":187,"hamlet":"BREWSTER","incidentnumber":"0117OD","incidents":1,"level":"street","opco":"NYSEG","street":"N MAIN ST","town":"BREWSTER V"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.619058,41.399621],"type":"Point"},"properties":{"EstRest":"10/26/2026 4:00:00 AM","Outages":12,"county":"PUTNAM","customers":39572,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+
 ]}
