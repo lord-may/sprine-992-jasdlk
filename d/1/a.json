@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-73.83074,40.70679],[-73.82985,40.70726],[-73.83026,40.70737],[-73.83087,40.70682],[-73.83074,40.70679]]],"type":"Polygon"},{"coordinates":[-73.83037,40.7071],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"DSP","cust_a":{"val":4},"etr":"2026-10-26T00:30:00-0400","outages":null,"reported_problem":"No Lights","title":"Outage Information"},"type":"Feature"}
+{"geometry":{"geometries":[{"coordinates":[[[-73.83074,40.70679],[-73.82985,40.70726],[-73.83026,40.70737],[-73.83087,40.70682],[-73.83074,40.70679]]],"type":"Polygon"},{"coordinates":[-73.83037,40.7071],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"DSP","cust_a":{"val":4},"etr":"ETR-EXP","outages":null,"reported_problem":"No Lights","title":"Outage Information"},"type":"Feature"}
 ]}
