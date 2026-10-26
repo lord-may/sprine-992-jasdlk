@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.51472,40.970479],"type":"Point"},"properties":{"a":"40.970479","cty":"MONROE","id":8830248,"mun":"POLK TWP","nc":2,"o":"-75.51472"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.2839,39.98611],"type":"Point"},"properties":{"a":"39.98611","cty":"LANCASTER","hp":true,"id":8830307,"mun":"PEQUEA TWP","nc":53,"ne":{"a":"39.98906","o":"-76.27859"},"o":"-76.2839","sw":{"a":"39.98316","o":"-76.28921"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.819085,40.290432],"type":"Point"},"properties":{"a":"40.290432","cty":"DAUPHIN","id":8830324,"mun":"LOWER PAXTON TWP","nc":13,"o":"-76.819085"},"type":"Feature"}
 ]}
