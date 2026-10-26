@@ -7,7 +7,14 @@
 {"geometry":{"coordinates":[-77.339447,40.129369],"type":"Point"},"properties":{"a":"40.129369","cty":"CUMBERLAND","id":8830356,"mun":"PENN TWP","nc":2,"o":"-77.339447"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.520048,40.613754],"type":"Point"},"properties":{"a":"40.613754","cty":"SCHUYLKILL","id":8830357,"mun":"PORTER TWP","nc":1,"o":"-76.520048"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.157329,41.402194],"type":"Point"},"properties":{"a":"41.402194","cty":"PIKE","id":8830361,"mun":"BLOOMING GROVE TWP","nc":2,"o":"-75.157329"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.149497,40.132142],"type":"Point"},"properties":{"a":"40.132142","cty":"LANCASTER","id":8830364,"mun":"WEST EARL TWP","nc":10,"o":"-76.149497"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.26187,41.423335],"type":"Point"},"properties":{"a":"41.423335","cty":"WAYNE","id":8830365,"mun":"PAUPACK TWP","nc":3,"o":"-75.26187"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.900027,40.242791],"type":"Point"},"properties":{"a":"40.242791","cty":"CUMBERLAND","id":8830369,"mun":"LEMOYNE BORO","nc":12,"o":"-76.900027"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.477856,40.513245],"type":"Point"},"properties":{"a":"40.513245","cty":"LEHIGH","id":8830372,"mun":"UPPER MILFORD TWP","nc":2,"o":"-75.477856"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.251061,41.05544],"type":"Point"},"properties":{"a":"41.05544","cty":"COLUMBIA","id":8830374,"mun":"BERWICK BORO","nc":25,"o":"-76.251061"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.450182,40.061659],"type":"Point"},"properties":{"a":"40.061659","cty":"LANCASTER","id":8830380,"mun":"WEST HEMPFIELD TWP","nc":1,"o":"-76.450182"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.900027,40.242791],"type":"Point"},"properties":{"a":"40.242791","cty":"CUMBERLAND","id":8830382,"mun":"LEMOYNE BORO","nc":12,"o":"-76.900027"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.706539,40.319817],"type":"Point"},"properties":{"a":"40.319817","cty":"DAUPHIN","id":8830385,"mun":"WEST HANOVER TWP","nc":5,"o":"-76.706539"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.650999,41.493015],"type":"Point"},"properties":{"a":"41.493015","cty":"LACKAWANNA","id":8830388,"mun":"SCOTT TWP","nc":4,"o":"-75.650999"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.481927,40.662121],"type":"Point"},"properties":{"a":"40.662121","cty":"NORTHAMPTON","id":8830389,"mun":"NORTH CATASAUQUA BORO","nc":3,"o":"-75.481927"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.46342,40.38717],"type":"Point"},"properties":{"a":"40.38717","cty":"MONTGOMERY","hp":true,"id":8830391,"mun":"UPPER HANOVER TWP","nc":80,"ne":{"a":"40.39371","o":"-75.45603"},"o":"-75.46342","sw":{"a":"40.38063","o":"-75.47082"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.241206,40.78878],"type":"Point"},"properties":{"a":"40.78878","cty":"SCHUYLKILL","id":8830392,"mun":"GILBERTON BORO","nc":1,"o":"-76.241206"},"type":"Feature"}
 ]}
