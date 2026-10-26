@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.596235,41.670442],"type":"Point"},"properties":{"a":"41.670442","cty":"KENT","id":20261068196,"mun":"COVENTRY","nc":18,"o":"-71.596235"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.6593,41.769765],"type":"Point"},"properties":{"a":"41.769765","cty":"PROVIDENCE","id":20261068208,"mun":"SCITUATE","nc":1,"o":"-71.6593"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.6593,41.769765],"type":"Point"},"properties":{"a":"41.769765","cty":"PROVIDENCE","id":20261068208,"mun":"SCITUATE","nc":1,"o":"-71.6593"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.403954,41.85217],"type":"Point"},"properties":{"a":"41.85217","cty":"PROVIDENCE","id":20261068215,"mun":"PROVIDENCE","nc":1,"o":"-71.403954"},"type":"Feature"}
 ]}

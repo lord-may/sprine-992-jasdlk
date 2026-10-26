@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.51731,40.96913],"type":"Point"},"properties":{"a":"40.96913","cty":"MONROE","hp":true,"id":8830248,"mun":"POLK TWP","nc":98,"ne":{"a":"40.97348","o":"-75.51218"},"o":"-75.51731","sw":{"a":"40.96477","o":"-75.52244"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.26309,40.37485],"type":"Point"},"properties":{"a":"40.37485","cty":"BUCKS","hp":true,"id":8830293,"mun":"HILLTOWN TWP","nc":18,"ne":{"a":"40.3773","o":"-75.26065"},"o":"-75.26309","sw":{"a":"40.37239","o":"-75.26552"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.51731,40.96913],"type":"Point"},"properties":{"a":"40.96913","cty":"MONROE","hp":true,"id":8830248,"mun":"POLK TWP","nc":98,"ne":{"a":"40.97348","o":"-75.51218"},"o":"-75.51731","sw":{"a":"40.96477","o":"-75.52244"}},"type":"Feature"}
 ]}
