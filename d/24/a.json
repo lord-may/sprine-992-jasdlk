@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.54723,41.8572],"type":"Point"},"properties":{"a":"41.8572","cty":"PROVIDENCE","hp":true,"id":20261068386,"mun":"JOHNSTON","nc":14,"ne":{"a":"41.85966","o":"-71.54524"},"o":"-71.54723","sw":{"a":"41.85475","o":"-71.54921"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.520365,42.003576],"type":"Point"},"properties":{"a":"42.003576","cty":"PROVIDENCE","id":20261068392,"mun":"WOONSOCKET","nc":1,"o":"-71.520365"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.450643,41.795399],"type":"Point"},"properties":{"a":"41.795399","cty":"PROVIDENCE","id":20261068393,"mun":"CRANSTON","nc":1,"o":"-71.450643"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.549526,41.854096],"type":"Point"},"properties":{"a":"41.854096","cty":"PROVIDENCE","id":20261068395,"mun":"JOHNSTON","nc":1,"o":"-71.549526"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.549526,41.854096],"type":"Point"},"properties":{"a":"41.854096","cty":"PROVIDENCE","id":20261068395,"mun":"JOHNSTON","nc":1,"o":"-71.549526"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.39757,41.870592],"type":"Point"},"properties":{"a":"41.870592","cty":"PROVIDENCE","id":20261068399,"mun":"PAWTUCKET","nc":1,"o":"-71.39757"},"type":"Feature"}
 ]}
