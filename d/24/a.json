@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.389646,41.829121],"type":"Point"},"properties":{"a":"41.829121","cty":"PROVIDENCE","id":20261068408,"mun":"PROVIDENCE","nc":1,"o":"-71.389646"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.269415,41.682791],"type":"Point"},"properties":{"a":"41.682791","cty":"BRISTOL","id":20261068410,"mun":"BRISTOL","nc":1,"o":"-71.269415"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.421348,41.777503],"type":"Point"},"properties":{"a":"41.777503","cty":"PROVIDENCE","id":20261068438,"mun":"PROVIDENCE","nc":1,"o":"-71.421348"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.494019,42.00837],"type":"Point"},"properties":{"a":"42.00837","cty":"PROVIDENCE","id":20261068439,"mun":"WOONSOCKET","nc":1,"o":"-71.494019"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.578748,41.688323],"type":"Point"},"properties":{"a":"41.688323","cty":"KENT","id":20261068441,"mun":"COVENTRY","nc":1,"o":"-71.578748"},"type":"Feature"}
 ]}

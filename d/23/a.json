@@ -1,10 +1,8 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.716428,40.708527],"type":"Point"},"properties":{"a":"40.708527","cty":"LEHIGH","id":8830666,"mun":"HEIDELBERG TWP","nc":1,"o":"-75.716428"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.96545,40.2465],"type":"Point"},"properties":{"a":"40.2465","cty":"CUMBERLAND","hp":true,"id":8830684,"mun":"HAMPDEN TWP","nc":1985,"ne":{"a":"40.25908","o":"-76.95343"},"o":"-76.96545","sw":{"a":"40.23392","o":"-76.97746"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.3569,40.03076],"type":"Point"},"properties":{"a":"40.03076","cty":"LANCASTER","hp":true,"id":8830693,"mun":"MANOR TWP","nc":57,"ne":{"a":"40.03249","o":"-76.35426"},"o":"-76.3569","sw":{"a":"40.02904","o":"-76.35954"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.97053,40.2475],"type":"Point"},"properties":{"a":"40.2475","cty":"CUMBERLAND","hp":true,"id":8830684,"mun":"HAMPDEN TWP","nc":1180,"ne":{"a":"40.25908","o":"-76.96359"},"o":"-76.97053","sw":{"a":"40.23593","o":"-76.97746"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.730955,41.564418],"type":"Point"},"properties":{"a":"41.564418","cty":"LACKAWANNA","id":8830694,"mun":"NORTH ABINGTON TWP","nc":1,"o":"-75.730955"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.31362,40.17261],"type":"Point"},"properties":{"a":"40.17261","cty":"CUMBERLAND","hp":true,"id":8830701,"mun":"WEST PENNSBORO TWP","nc":33,"ne":{"a":"40.17616","o":"-77.30733"},"o":"-77.31362","sw":{"a":"40.16907","o":"-77.31991"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.356742,40.030669],"type":"Point"},"properties":{"a":"40.030669","cty":"LANCASTER","id":8830702,"mun":"MANOR TWP","nc":6,"o":"-76.356742"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.32865,41.217336],"type":"Point"},"properties":{"a":"41.217336","cty":"CLINTON","id":8830711,"mun":"PINE CREEK TWP","nc":1,"o":"-77.32865"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.272509,40.106129],"type":"Point"},"properties":{"a":"40.106129","cty":"LANCASTER","id":8830713,"mun":"MANHEIM TWP","nc":1,"o":"-76.272509"},"type":"Feature"}
 ]}
