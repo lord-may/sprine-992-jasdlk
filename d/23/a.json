@@ -1,12 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.488871,40.678556],"type":"Point"},"properties":{"a":"40.678556","cty":"NORTHAMPTON","id":8830397,"mun":"NORTHAMPTON BORO","nc":29,"o":"-75.488871"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.197354,40.210016],"type":"Point"},"properties":{"a":"40.210016","cty":"CUMBERLAND","id":8830447,"mun":"CARLISLE BORO","nc":2,"o":"-77.197354"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.181223,40.245956],"type":"Point"},"properties":{"a":"40.245956","cty":"CUMBERLAND","id":8830470,"mun":"NORTH MIDDLETON TWP","nc":9,"o":"-77.181223"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.982632,40.957198],"type":"Point"},"properties":{"a":"40.957198","cty":"LUZERNE","id":8830514,"mun":"HAZLETON","nc":12,"o":"-75.982632"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.32349,40.75977],"type":"Point"},"properties":{"a":"40.75977","cty":"NORTHAMPTON","hp":true,"id":8830562,"mun":"BUSHKILL TWP","nc":15,"ne":{"a":"40.76047","o":"-75.32229"},"o":"-75.32349","sw":{"a":"40.75908","o":"-75.32468"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.832078,41.31914],"type":"Point"},"properties":{"a":"41.31914","cty":"LUZERNE","id":8830614,"mun":"EXETER BORO","nc":14,"o":"-75.832078"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.370658,40.574358],"type":"Point"},"properties":{"a":"40.574358","cty":"NORTHAMPTON","id":8830622,"mun":"LOWER SAUCON TWP","nc":3,"o":"-75.370658"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.300816,40.382771],"type":"Point"},"properties":{"a":"40.382771","cty":"BUCKS","id":8830624,"mun":"EAST ROCKHILL TWP","nc":1,"o":"-75.300816"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.31891,40.634944],"type":"Point"},"properties":{"a":"40.634944","cty":"NORTHAMPTON","id":8830625,"mun":"BETHLEHEM TWP","nc":2,"o":"-75.31891"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.859173,40.07152],"type":"Point"},"properties":{"a":"40.07152","cty":"CHESTER","id":8830627,"mun":"HONEYBROOK TWP","nc":2,"o":"-75.859173"},"type":"Feature"}
 ]}

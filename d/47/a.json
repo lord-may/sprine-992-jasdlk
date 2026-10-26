@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-67.27572,45.184642],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":22,"customersOutNow":22,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-26T15:01:27.877-04:00","outageName":"FUSE-655","outagePoint":{"lat":45.18464166666622,"lng":-67.27572018846897},"outageRecID":"2026-10-26-0426","outageStartTime":"2026-10-26T15:01:20-04:00","outageWorkStatus":"","streetsAffected":["GERMAIN ST","GERMAIN ST APT 1","GERMAIN ST APT 2","WASHINGTON ST","WINTER ST"],"verified":true},"type":"Feature"}
+
 ]}
