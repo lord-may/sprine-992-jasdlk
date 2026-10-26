@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-71.32143,42.58244],[-71.32117,42.58284],[-71.32093,42.58346],[-71.326,42.59011],[-71.32755,42.59066],[-71.32846,42.59076],[-71.33031,42.59048],[-71.33387,42.58653],[-71.33369,42.58592],[-71.33327,42.58574],[-71.33271,42.58551],[-71.32157,42.58246],[-71.32143,42.58244]]],"type":"Polygon"},{"coordinates":[-71.32745,42.58668],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"Under Investigation","ES-ES":"Bajo Investigación","orig":"Null"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Unassigned","ES-ES":"Sin Asignar","orig":"Unassigned"},"cust_a":{"val":191},"etr":"2026-10-26T12:45:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-10-26T10:32:03Z","title":"Area Outage","town":"Chelmsford"},"type":"Feature"}
+
 ]}

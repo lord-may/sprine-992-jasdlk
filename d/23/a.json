@@ -3,5 +3,7 @@
 {"geometry":{"coordinates":[-76.77165,40.81668],"type":"Point"},"properties":{"a":"40.81668","cty":"NORTHUMBERLAND","hp":true,"id":8830338,"mun":"LOWER AUGUSTA TWP","nc":49,"ne":{"a":"40.82036","o":"-76.75748"},"o":"-76.77165","sw":{"a":"40.813","o":"-76.78582"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.078444,40.315417],"type":"Point"},"properties":{"a":"40.315417","cty":"BERKS","id":8830343,"mun":"SOUTH HEIDELBERG TWP","nc":4,"o":"-76.078444"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.440591,40.61748],"type":"Point"},"properties":{"a":"40.61748","cty":"LEHIGH","id":8830344,"mun":"ALLENTOWN","nc":12,"o":"-75.440591"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.187522,40.207505],"type":"Point"},"properties":{"a":"40.207505","cty":"CUMBERLAND","id":8830345,"mun":"CARLISLE BORO","nc":1,"o":"-77.187522"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.187522,40.207505],"type":"Point"},"properties":{"a":"40.207505","cty":"CUMBERLAND","id":8830345,"mun":"CARLISLE BORO","nc":1,"o":"-77.187522"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.972141,40.564442],"type":"Point"},"properties":{"a":"40.564442","cty":"DAUPHIN","id":8830349,"mun":"UPPER PAXTON TWP","nc":1,"o":"-76.972141"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.900027,40.242791],"type":"Point"},"properties":{"a":"40.242791","cty":"CUMBERLAND","id":8830353,"mun":"LEMOYNE BORO","nc":12,"o":"-76.900027"},"type":"Feature"}
 ]}
