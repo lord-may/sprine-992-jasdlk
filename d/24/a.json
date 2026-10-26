@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-71.430281,41.735072],"type":"Point"},"properties":{"a":"41.735072","cty":"KENT","id":20261068234,"mun":"WARWICK","nc":8,"o":"-71.430281"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.430585,41.734309],"type":"Point"},"properties":{"a":"41.734309","cty":"KENT","id":20261068235,"mun":"WARWICK","nc":1,"o":"-71.430585"},"type":"Feature"}
 ]}
