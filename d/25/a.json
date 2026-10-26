@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-72.799548,43.633185],"type":"Point"},"properties":{"active":true,"affectingCustomers":true,"cause":123,"county":"Rutland","crew_name":",RUTL- JOHNSON","customers_affected":2,"customers_affected_label":"2 Customers","device":"SWITCH","etor":"2026-10-26T10:00-04:00","has_etor":1,"incident_id":1016467,"status":"CREW_ASSIGNED","street":"KILLINGTON RD","town":"Killington","trouble":"NO_POWER"},"type":"Feature"}
 ]}
