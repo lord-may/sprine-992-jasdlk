@@ -13,9 +13,7 @@
 {"geometry":{"coordinates":[-76.838708,40.253165],"type":"Point"},"properties":{"a":"40.253165","cty":"DAUPHIN","id":8830410,"mun":"SWATARA TWP","nc":2,"o":"-76.838708"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.566101,41.496597],"type":"Point"},"properties":{"a":"41.496597","cty":"LACKAWANNA","id":8830415,"mun":"ARCHBALD BORO","nc":0,"o":"-75.566101"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.322216,40.31435],"type":"Point"},"properties":{"a":"40.31435","cty":"MONTGOMERY","id":8830417,"mun":"SOUDERTON BORO","nc":14,"o":"-75.322216"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.24029,41.26768],"type":"Point"},"properties":{"a":"41.26768","cty":"PIKE","hp":true,"id":8830418,"mun":"GREENE TWP","nc":22,"ne":{"a":"41.26952","o":"-75.23808"},"o":"-75.24029","sw":{"a":"41.26584","o":"-75.2425"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.884128,40.22476],"type":"Point"},"properties":{"a":"40.22476","cty":"CUMBERLAND","id":8830423,"mun":"NEW CUMBERLAND BORO","nc":4,"o":"-76.884128"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.110782,40.037712],"type":"Point"},"properties":{"a":"40.037712","cty":"LANCASTER","id":8830426,"mun":"LEACOCK TWP","nc":2,"o":"-76.110782"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.960772,40.566018],"type":"Point"},"properties":{"a":"40.566018","cty":"DAUPHIN","id":8830430,"mun":"UPPER PAXTON TWP","nc":3,"o":"-76.960772"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.386625,40.618451],"type":"Point"},"properties":{"a":"40.618451","cty":"LEHIGH","id":8830432,"mun":"BETHLEHEM","nc":18,"o":"-75.386625"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.076703,40.909827],"type":"Point"},"properties":{"a":"40.909827","cty":"UNION","id":8830433,"mun":"LIMESTONE TWP","nc":3,"o":"-77.076703"},"type":"Feature"},
@@ -27,5 +25,12 @@
 {"geometry":{"coordinates":[-76.244601,40.08579],"type":"Point"},"properties":{"a":"40.08579","cty":"LANCASTER","id":8830450,"mun":"UPPER LEACOCK TWP","nc":9,"o":"-76.244601"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.59772,41.16733],"type":"Point"},"properties":{"a":"41.16733","cty":"LYCOMING","hp":true,"id":8830468,"mun":"MORELAND TWP","nc":18,"ne":{"a":"41.17337","o":"-76.59053"},"o":"-76.59772","sw":{"a":"41.16128","o":"-76.6049"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.181223,40.245956],"type":"Point"},"properties":{"a":"40.245956","cty":"CUMBERLAND","id":8830470,"mun":"NORTH MIDDLETON TWP","nc":9,"o":"-77.181223"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.20483,41.050227],"type":"Point"},"properties":{"a":"41.050227","cty":"CLINTON","id":8830479,"mun":"GREENE TWP","nc":1,"o":"-77.20483"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.20483,41.050227],"type":"Point"},"properties":{"a":"41.050227","cty":"CLINTON","id":8830479,"mun":"GREENE TWP","nc":1,"o":"-77.20483"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.602845,40.750933],"type":"Point"},"properties":{"a":"40.750933","cty":"NORTHUMBERLAND","id":8830484,"mun":"WEST CAMERON TWP","nc":2,"o":"-76.602845"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.905668,40.825481],"type":"Point"},"properties":{"a":"40.825481","cty":"SCHUYLKILL","id":8830485,"mun":"COALDALE BORO","nc":19,"o":"-75.905668"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.574187,40.967607],"type":"Point"},"properties":{"a":"40.967607","cty":"MONTOUR","id":8830490,"mun":"MAHONING TWP","nc":11,"o":"-76.574187"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.889607,40.283145],"type":"Point"},"properties":{"a":"40.283145","cty":"DAUPHIN","id":8830491,"mun":"HARRISBURG","nc":17,"o":"-76.889607"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.880522,40.118626],"type":"Point"},"properties":{"a":"40.118626","cty":"CHESTER","id":8830493,"mun":"HONEYBROOK TWP","nc":1,"o":"-75.880522"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.218529,40.983053],"type":"Point"},"properties":{"a":"40.983053","cty":"MONROE","id":8830494,"mun":"STROUD TWP","nc":5,"o":"-75.218529"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.715353,41.401467],"type":"Point"},"properties":{"a":"41.401467","cty":"LACKAWANNA","id":8830495,"mun":"TAYLOR BORO","nc":7,"o":"-75.715353"},"type":"Feature"}
 ]}
