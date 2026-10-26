@@ -6,7 +6,6 @@
 {"geometry":{"coordinates":[-77.181223,40.245956],"type":"Point"},"properties":{"a":"40.245956","cty":"CUMBERLAND","id":8830470,"mun":"NORTH MIDDLETON TWP","nc":9,"o":"-77.181223"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.830591,41.246679],"type":"Point"},"properties":{"a":"41.246679","cty":"LUZERNE","id":8830500,"mun":"PLAINS TWP","nc":7,"o":"-75.830591"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.241758,40.751845],"type":"Point"},"properties":{"a":"40.751845","cty":"NORTHAMPTON","id":8830502,"mun":"FORKS TWP","nc":2,"o":"-75.241758"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.390204,40.077136],"type":"Point"},"properties":{"a":"40.077136","cty":"LANCASTER","id":8830507,"mun":"EAST HEMPFIELD TWP","nc":4,"o":"-76.390204"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.632017,40.546129],"type":"Point"},"properties":{"a":"40.546129","cty":"LEHIGH","id":8830509,"mun":"UPPER MACUNGIE TWP","nc":6,"o":"-75.632017"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.00903,40.89047],"type":"Point"},"properties":{"a":"40.89047","cty":"SCHUYLKILL","hp":true,"id":8830513,"mun":"KLINE TWP","nc":29,"ne":{"a":"40.89163","o":"-76.00531"},"o":"-76.00903","sw":{"a":"40.88932","o":"-76.01275"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.982632,40.957198],"type":"Point"},"properties":{"a":"40.957198","cty":"LUZERNE","id":8830514,"mun":"HAZLETON","nc":12,"o":"-75.982632"},"type":"Feature"},
@@ -17,5 +16,6 @@
 {"geometry":{"coordinates":[-75.32349,40.75977],"type":"Point"},"properties":{"a":"40.75977","cty":"NORTHAMPTON","hp":true,"id":8830562,"mun":"BUSHKILL TWP","nc":15,"ne":{"a":"40.76047","o":"-75.32229"},"o":"-75.32349","sw":{"a":"40.75908","o":"-75.32468"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.232345,40.183534],"type":"Point"},"properties":{"a":"40.183534","cty":"LANCASTER","id":8830564,"mun":"EPHRATA TWP","nc":1,"o":"-76.232345"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.324906,41.083327],"type":"Point"},"properties":{"a":"41.083327","cty":"COLUMBIA","id":8830565,"mun":"NORTH CENTRE TWP","nc":4,"o":"-76.324906"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.513143,40.515152],"type":"Point"},"properties":{"a":"40.515152","cty":"LEHIGH","id":8830570,"mun":"UPPER MILFORD TWP","nc":3,"o":"-75.513143"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.513143,40.515152],"type":"Point"},"properties":{"a":"40.515152","cty":"LEHIGH","id":8830570,"mun":"UPPER MILFORD TWP","nc":3,"o":"-75.513143"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.534443,40.808445],"type":"Point"},"properties":{"a":"40.808445","cty":"CARBON","id":8830574,"mun":"LOWER TOWAMENSING TWP","nc":1,"o":"-75.534443"},"type":"Feature"}
 ]}
