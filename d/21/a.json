@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.389712,43.657704],"type":"Point"},"properties":{"EstRest":"10/27/2026 2:30:00 PM","Outages":108,"county":"CUMBERLAND","customers":182407,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.295696,44.352373],"type":"Point"},"properties":{"EstRest":"10/27/2026 3:15:00 PM","Outages":33,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.301295,44.356449],"type":"Point"},"properties":{"EstRest":"10/27/2026 3:15:00 PM","Outages":9,"cause":"","county":"OXFORD","crewstatus":"     ","customers":9,"hamlet":"HARTFORD","incidentnumber":"00450B","incidents":1,"level":"street","opco":"CMP","street":"PRATT HILL RD","town":"HARTFORD"},"type":"Feature"}
 ]}

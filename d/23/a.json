@@ -27,5 +27,7 @@
 {"geometry":{"coordinates":[-76.891004,41.075432],"type":"Point"},"properties":{"a":"41.075432","cty":"UNION","id":8831002,"mun":"WHITE DEER TWP","nc":6,"o":"-76.891004"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.841242,41.08597],"type":"Point"},"properties":{"a":"41.08597","cty":"LUZERNE","id":8831004,"mun":"DENNISON TWP","nc":2,"o":"-75.841242"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.586337,41.344264],"type":"Point"},"properties":{"a":"41.344264","cty":"LACKAWANNA","id":8831006,"mun":"ROARING BROOK TWP","nc":2,"o":"-75.586337"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.401155,40.646575],"type":"Point"},"properties":{"a":"40.646575","cty":"NORTHAMPTON","id":8831008,"mun":"HANOVER TWP","nc":3,"o":"-75.401155"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.401155,40.646575],"type":"Point"},"properties":{"a":"40.646575","cty":"NORTHAMPTON","id":8831008,"mun":"HANOVER TWP","nc":3,"o":"-75.401155"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.273927,40.662842],"type":"Point"},"properties":{"a":"40.662842","cty":"NORTHAMPTON","id":8831010,"mun":"BETHLEHEM TWP","nc":16,"o":"-75.273927"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.05885,41.298899],"type":"Point"},"properties":{"a":"41.298899","cty":"PIKE","id":8831011,"mun":"BLOOMING GROVE TWP","nc":2,"o":"-75.05885"},"type":"Feature"}
 ]}
