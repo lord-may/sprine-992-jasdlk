@@ -7,12 +7,11 @@
 {"geometry":{"coordinates":[-75.841242,41.08597],"type":"Point"},"properties":{"a":"41.08597","cty":"LUZERNE","id":8831004,"mun":"DENNISON TWP","nc":2,"o":"-75.841242"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.46306,40.86007],"type":"Point"},"properties":{"a":"40.86007","cty":"COLUMBIA","hp":true,"id":8831017,"mun":"CLEVELAND TWP","nc":38,"ne":{"a":"40.87114","o":"-76.45309"},"o":"-76.46306","sw":{"a":"40.84899","o":"-76.47303"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.370658,40.574358],"type":"Point"},"properties":{"a":"40.574358","cty":"NORTHAMPTON","id":8831019,"mun":"LOWER SAUCON TWP","nc":3,"o":"-75.370658"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.82576,41.5664],"type":"Point"},"properties":{"a":"41.5664","cty":"WYOMING","hp":true,"id":8831024,"mun":"CLINTON TWP","nc":310,"ne":{"a":"41.58651","o":"-75.79862"},"o":"-75.82576","sw":{"a":"41.5463","o":"-75.85291"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.452026,41.362819],"type":"Point"},"properties":{"a":"41.362819","cty":"LACKAWANNA","id":8831035,"mun":"MADISON TWP","nc":1,"o":"-75.452026"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.78625,40.35512],"type":"Point"},"properties":{"a":"40.35512","cty":"DAUPHIN","id":8831044,"mun":"LOWER PAXTON TWP","nc":2,"o":"-76.78625"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.239962,40.321126],"type":"Point"},"properties":{"a":"40.321126","cty":"PERRY","id":8831056,"mun":"SPRING TWP","nc":1,"o":"-77.239962"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.848455,40.11456],"type":"Point"},"properties":{"a":"40.11456","cty":"CHESTER","id":8831057,"mun":"WEST NANTMEAL TWP","nc":1,"o":"-75.848455"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.82169,40.56234],"type":"Point"},"properties":{"a":"40.56234","cty":"DAUPHIN","hp":true,"id":8831064,"mun":"WASHINGTON TWP","nc":55,"ne":{"a":"40.56993","o":"-76.81748"},"o":"-76.82169","sw":{"a":"40.55476","o":"-76.82591"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.719279,40.499358],"type":"Point"},"properties":{"a":"40.499358","cty":"DAUPHIN","id":8831070,"mun":"JEFFERSON TWP","nc":2,"o":"-76.719279"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.195113,40.17848],"type":"Point"},"properties":{"a":"40.17848","cty":"LANCASTER","id":8831074,"mun":"EPHRATA BORO","nc":10,"o":"-76.195113"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.0904,41.588301],"type":"Point"},"properties":{"a":"41.588301","cty":"WAYNE","id":8831082,"mun":"BERLIN TWP","nc":1,"o":"-75.0904"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.634619,40.144461],"type":"Point"},"properties":{"a":"40.144461","cty":"LANCASTER","id":8831083,"mun":"WEST DONEGAL TWP","nc":1,"o":"-76.634619"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.837702,41.582952],"type":"Point"},"properties":{"a":"41.582952","cty":"WYOMING","id":8831088,"mun":"CLINTON TWP","nc":3,"o":"-75.837702"},"type":"Feature"}
 ]}
