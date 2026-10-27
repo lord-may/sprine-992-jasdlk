@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-77.489905,43.105254],"type":"Point"},"properties":{"EstRest":"10/27/2026 11:00:00 AM","Outages":10,"cause":"System Upgrade","county":"MONROE","crewstatus":"DISP ","customers":60,"hamlet":"EAST ROCHESTER","incidentnumber":"01180K","incidents":1,"level":"street","opco":"RGE","street":"FAIRPORT RD","town":"PITTSFORD"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.489905,43.105254],"type":"Point"},"properties":{"EstRest":"10/27/2026 11:00:00 AM","Outages":11,"county":"MONROE","customers":303507,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.489905,43.105254],"type":"Point"},"properties":{"EstRest":"10/27/2026 11:00:00 AM","Outages":11,"county":"MONROE","customers":303507,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.35705,43.240931],"type":"Point"},"properties":{"EstRest":"10/27/2026 12:15:00 PM","Outages":1,"cause":"","county":"WAYNE","crewstatus":"     ","customers":83,"hamlet":"ONTARIO","incidentnumber":"01181G","incidents":1,"level":"street","opco":"RGE","street":"BERG RD","town":"ONTARIO"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.35705,43.240931],"type":"Point"},"properties":{"EstRest":"10/27/2026 12:15:00 PM","Outages":1,"county":"WAYNE","customers":27029,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
