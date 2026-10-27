@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-70.390913,43.655942],"type":"Point"},"properties":{"EstRest":"10/27/2026 10:15:00 AM","Outages":1,"cause":"","county":"CUMBERLAND","crewstatus":"     ","customers":3,"hamlet":"WESTBROOK","incidentnumber":"0044YD","incidents":1,"level":"street","opco":"CMP","street":"WHITEHALL WAY","town":"WESTBROOK"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.390913,43.655942],"type":"Point"},"properties":{"EstRest":"10/27/2026 10:15:00 AM","Outages":1,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
