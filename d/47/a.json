@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-67.773105,45.18345],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-27T11:41:37.897-04:00","outageName":"F4545-67","outagePoint":{"lat":45.18345049999999,"lng":-67.77310549999997},"outageRecID":"2026-10-27-0438","outageStartTime":"2026-10-27T10:43:40-04:00","outageWorkStatus":"","streetsAffected":["TOWER RD"],"verified":true},"type":"Feature"}
+
 ]}

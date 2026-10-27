@@ -1,6 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.751082,43.081656],"type":"Point"},"properties":{"EstRest":"10/27/2026 1:15:00 PM","Outages":1,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":16,"hamlet":"SCOTTSVILLE","incidentnumber":"011820","incidents":1,"level":"street","opco":"RGE","street":"BROOK RD","town":"CHILI"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.751082,43.081656],"type":"Point"},"properties":{"EstRest":"10/27/2026 1:15:00 PM","Outages":1,"county":"MONROE","customers":303507,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.35705,43.240931],"type":"Point"},"properties":{"EstRest":"10/27/2026 12:15:00 PM","Outages":1,"cause":"","county":"WAYNE","crewstatus":"DISP ","customers":83,"hamlet":"ONTARIO","incidentnumber":"01181G","incidents":1,"level":"street","opco":"RGE","street":"BERG RD","town":"ONTARIO"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.35705,43.240931],"type":"Point"},"properties":{"EstRest":"10/27/2026 12:15:00 PM","Outages":1,"county":"WAYNE","customers":27029,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
+
 ]}
