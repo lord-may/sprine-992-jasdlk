@@ -1,3 +1,7 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.630586,44.554985],"type":"Point"},"properties":{"EstRest":"10/27/2026 6:00:00 PM","Outages":71,"county":"KENNEBEC","customers":75925,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.270818,43.655441],"type":"Point"},"properties":{"EstRest":"10/27/2026 7:45:00 PM","Outages":45,"cause":"","county":"CUMBERLAND","crewstatus":"     ","customers":304,"hamlet":"PORTLAND","incidentnumber":"00451K","incidents":1,"level":"street","opco":"CMP","street":"SHERMAN ST","town":"PORTLAND"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.270818,43.655441],"type":"Point"},"properties":{"EstRest":"10/27/2026 7:45:00 PM","Outages":56,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.630586,44.554985],"type":"Point"},"properties":{"EstRest":"10/27/2026 6:00:00 PM","Outages":71,"county":"KENNEBEC","customers":75925,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.041323,44.950064],"type":"Point"},"properties":{"EstRest":"10/27/2026 7:45:00 PM","Outages":1,"cause":"","county":"SOMERSET","crewstatus":"DISP ","customers":19,"hamlet":"NEW PORTLAND","incidentnumber":"00451I","incidents":1,"level":"street","opco":"CMP","street":"GEORGE COLE RD","town":"NEW PORTLAND"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.041323,44.950064],"type":"Point"},"properties":{"EstRest":"10/27/2026 7:45:00 PM","Outages":1,"county":"SOMERSET","customers":31730,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
