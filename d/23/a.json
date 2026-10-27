@@ -6,5 +6,7 @@
 {"geometry":{"coordinates":[-76.966811,40.245126],"type":"Point"},"properties":{"a":"40.245126","cty":"CUMBERLAND","id":8830725,"mun":"HAMPDEN TWP","nc":3,"o":"-76.966811"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.974133,40.243099],"type":"Point"},"properties":{"a":"40.243099","cty":"CUMBERLAND","id":8830730,"mun":"HAMPDEN TWP","nc":2,"o":"-76.974133"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.96878,40.25057],"type":"Point"},"properties":{"a":"40.25057","cty":"CUMBERLAND","hp":true,"id":8830734,"mun":"HAMPDEN TWP","nc":367,"ne":{"a":"40.25908","o":"-76.96359"},"o":"-76.96878","sw":{"a":"40.24206","o":"-76.97397"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.97108,40.238259],"type":"Point"},"properties":{"a":"40.238259","cty":"CUMBERLAND","id":8830735,"mun":"HAMPDEN TWP","nc":1,"o":"-76.97108"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.97108,40.238259],"type":"Point"},"properties":{"a":"40.238259","cty":"CUMBERLAND","id":8830735,"mun":"HAMPDEN TWP","nc":1,"o":"-76.97108"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.334358,41.375839],"type":"Point"},"properties":{"a":"41.375839","cty":"WAYNE","id":8830743,"mun":"SALEM TWP","nc":7,"o":"-75.334358"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.932432,40.958899],"type":"Point"},"properties":{"a":"40.958899","cty":"LUZERNE","id":8830745,"mun":"HAZLE TWP","nc":10,"o":"-75.932432"},"type":"Feature"}
 ]}

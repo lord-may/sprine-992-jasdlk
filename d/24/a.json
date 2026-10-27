@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.499162,41.868032],"type":"Point"},"properties":{"a":"41.868032","cty":"PROVIDENCE","id":20261068444,"mun":"JOHNSTON","nc":1,"o":"-71.499162"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.578748,41.688323],"type":"Point"},"properties":{"a":"41.688323","cty":"KENT","id":20261068445,"mun":"COVENTRY","nc":1,"o":"-71.578748"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.499162,41.868032],"type":"Point"},"properties":{"a":"41.868032","cty":"PROVIDENCE","id":20261068444,"mun":"JOHNSTON","nc":1,"o":"-71.499162"},"type":"Feature"}
 ]}

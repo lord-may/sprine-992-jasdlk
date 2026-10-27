@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.863773,44.473406],"type":"Point"},"properties":{"EstRest":"10/26/2026 9:45:00 PM","Outages":1,"cause":"","county":"OXFORD","crewstatus":"DISP ","customers":101,"hamlet":"NEWRY","incidentnumber":"0044XN","incidents":1,"level":"street","opco":"CMP","street":"N PEAK CONDO LN","town":"NEWRY"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.863773,44.473406],"type":"Point"},"properties":{"EstRest":"10/26/2026 9:45:00 PM","Outages":1,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.130269,43.979669],"type":"Point"},"properties":{"EstRest":"10/26/2026 10:00:00 PM","Outages":1,"cause":"","county":"ANDROSCOGGIN","crewstatus":"ENRT ","customers":139,"hamlet":"DURHAM","incidentnumber":"0044XP","incidents":1,"level":"street","opco":"CMP","street":"ROYALSBOROUGH RD","town":"DURHAM"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.130269,43.979669],"type":"Point"},"properties":{"EstRest":"10/26/2026 10:00:00 PM","Outages":1,"county":"ANDROSCOGGIN","customers":59602,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
