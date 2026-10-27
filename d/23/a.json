@@ -1,8 +1,8 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.716428,40.708527],"type":"Point"},"properties":{"a":"40.708527","cty":"LEHIGH","id":8830666,"mun":"HEIDELBERG TWP","nc":1,"o":"-75.716428"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.97351,40.23936],"type":"Point"},"properties":{"a":"40.23936","cty":"CUMBERLAND","hp":true,"id":8830684,"mun":"HAMPDEN TWP","nc":601,"ne":{"a":"40.2428","o":"-76.96957"},"o":"-76.97351","sw":{"a":"40.23593","o":"-76.97746"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.730955,41.564418],"type":"Point"},"properties":{"a":"41.564418","cty":"LACKAWANNA","id":8830694,"mun":"NORTH ABINGTON TWP","nc":1,"o":"-75.730955"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.334358,41.375839],"type":"Point"},"properties":{"a":"41.375839","cty":"WAYNE","id":8830743,"mun":"SALEM TWP","nc":7,"o":"-75.334358"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.202148,40.630052],"type":"Point"},"properties":{"a":"40.630052","cty":"SCHUYLKILL","id":8830750,"mun":"CRESSONA BORO","nc":1,"o":"-76.202148"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.534736,41.294528],"type":"Point"},"properties":{"a":"41.294528","cty":"LACKAWANNA","id":8830754,"mun":"COVINGTON TWP","nc":1,"o":"-75.534736"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.534736,41.294528],"type":"Point"},"properties":{"a":"41.294528","cty":"LACKAWANNA","id":8830754,"mun":"COVINGTON TWP","nc":1,"o":"-75.534736"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.335066,40.553745],"type":"Point"},"properties":{"a":"40.553745","cty":"NORTHAMPTON","id":8830755,"mun":"LOWER SAUCON TWP","nc":12,"o":"-75.335066"},"type":"Feature"}
 ]}
