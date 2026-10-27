@@ -1,4 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.959099,41.25589],"type":"Point"},"properties":{"a":"41.25589","cty":"LYCOMING","id":8830762,"mun":"LOYALSOCK TWP","nc":10,"o":"-76.959099"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.407443,40.074647],"type":"Point"},"properties":{"a":"40.074647","cty":"CUMBERLAND","id":8830765,"mun":"SOUTH NEWTON TWP","nc":2,"o":"-77.407443"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.407443,40.074647],"type":"Point"},"properties":{"a":"40.074647","cty":"CUMBERLAND","id":8830765,"mun":"SOUTH NEWTON TWP","nc":2,"o":"-77.407443"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.441622,41.23608],"type":"Point"},"properties":{"a":"41.23608","cty":"COLUMBIA","id":8830774,"mun":"JACKSON TWP","nc":1,"o":"-76.441622"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.809901,41.253337],"type":"Point"},"properties":{"a":"41.253337","cty":"LUZERNE","id":8830775,"mun":"PLAINS TWP","nc":1,"o":"-75.809901"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.094492,40.142084],"type":"Point"},"properties":{"a":"40.142084","cty":"LANCASTER","id":8830776,"mun":"EARL TWP","nc":1,"o":"-76.094492"},"type":"Feature"}
 ]}
