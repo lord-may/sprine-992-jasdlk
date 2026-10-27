@@ -1,7 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.836959,42.113173],"type":"Point"},"properties":{"EstRest":"10/27/2026 10:00:00 PM","Outages":1,"cause":"","county":"BROOME","crewstatus":"DISP ","customers":73,"hamlet":"BINGHAMTON","incidentnumber":"01187K","incidents":1,"level":"street","opco":"NYSEG","street":"VICTORIA DR","town":"KIRKWOOD T"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.836959,42.113173],"type":"Point"},"properties":{"EstRest":"10/27/2026 10:00:00 PM","Outages":1,"county":"BROOME","customers":91444,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.562445,42.9438],"type":"Point"},"properties":{"EstRest":"10/27/2026 9:00:10 PM","Outages":402,"county":"CAYUGA","customers":32356,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.562605,42.941753],"type":"Point"},"properties":{"EstRest":"10/27/2026 9:00:10 PM","Outages":402,"county":"CAYUGA","customers":32356,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-78.18134,42.833757],"type":"Point"},"properties":{"EstRest":"10/27/2026 9:00:00 PM","Outages":1,"cause":"","county":"WYOMING","crewstatus":"DISP ","customers":10,"hamlet":"WARSAW","incidentnumber":"01185X","incidents":1,"level":"street","opco":"NYSEG","street":"DALE RD","town":"MIDDLEBURY T"},"type":"Feature"},
 {"geometry":{"coordinates":[-78.18134,42.833757],"type":"Point"},"properties":{"EstRest":"10/27/2026 9:00:00 PM","Outages":2,"county":"WYOMING","customers":12294,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}

@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.704899,43.125993],"type":"Point"},"properties":{"EstRest":"10/27/2026 9:30:00 PM","Outages":183,"county":"MONROE","customers":303507,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.704899,43.125993],"type":"Point"},"properties":{"EstRest":"10/27/2026 9:30:00 PM","Outages":61,"cause":"","county":"MONROE","crewstatus":"     ","customers":172,"hamlet":"ROCHESTER","incidentnumber":"01187Q","incidents":1,"level":"street","opco":"RGE","street":"WESTSIDE DR","town":"GATES"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.704899,43.125993],"type":"Point"},"properties":{"EstRest":"10/27/2026 7:15:00 PM","Outages":2,"cause":"Equipment Interruption","county":"MONROE","crewstatus":"ONST ","customers":204,"hamlet":"ROCHESTER","incidentnumber":"01187Q","incidents":1,"level":"street","opco":"RGE","street":"CHILI AVE","town":"GATES"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.709107,43.124858],"type":"Point"},"properties":{"EstRest":"10/27/2026 7:15:00 PM","Outages":183,"county":"MONROE","customers":303507,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
