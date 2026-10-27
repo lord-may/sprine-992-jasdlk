@@ -1,5 +1,7 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.293897,44.364915],"type":"Point"},"properties":{"EstRest":"10/27/2026 4:00:00 PM","Outages":34,"county":"OXFORD","customers":44086,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.294425,44.35934],"type":"Point"},"properties":{"EstRest":"10/27/2026 4:00:00 PM","Outages":34,"county":"OXFORD","customers":44086,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.780176,43.93847],"type":"Point"},"properties":{"EstRest":"10/27/2026 3:45:00 PM","Outages":1,"cause":"","county":"SAGADAHOC","crewstatus":"DISP ","customers":42,"hamlet":"WOOLWICH","incidentnumber":"00450D","incidents":1,"level":"street","opco":"CMP","street":"NEQUASSET RD","town":"WOOLWICH"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.780176,43.93847],"type":"Point"},"properties":{"EstRest":"10/27/2026 3:45:00 PM","Outages":1,"county":"SAGADAHOC","customers":23026,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.780176,43.93847],"type":"Point"},"properties":{"EstRest":"10/27/2026 3:45:00 PM","Outages":1,"county":"SAGADAHOC","customers":23026,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.718634,44.756924],"type":"Point"},"properties":{"EstRest":"10/27/2026 4:30:00 PM","Outages":1,"cause":"","county":"SOMERSET","crewstatus":"     ","customers":6,"hamlet":"SKOWHEGAN","incidentnumber":"00450R","incidents":1,"level":"street","opco":"CMP","street":"GREEN ST","town":"SKOWHEGAN"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.718634,44.756924],"type":"Point"},"properties":{"EstRest":"10/27/2026 4:30:00 PM","Outages":1,"county":"SOMERSET","customers":31730,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
