@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-73.238325,44.964688],[-73.23554,44.966512],[-73.233716,44.969054],[-73.237633,44.965469],[-73.238325,44.964688]]],"type":"Polygon"},{"coordinates":[-73.235962,44.966703],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"COMPANY INITIATED OUTAGE","comment":"Power is out so our crews can perform necessary maintenance. Thank you for your patience.","crewAssigned":true,"estimateTime":1793127600000,"id":"849614","nbrOut":5,"timeOff":1793106000000},"type":"Feature"},
 {"geometry":{"coordinates":[-73.267268,44.865175],"type":"Point"},"properties":{"cause":"COMPANY INITIATED OUTAGE","crewAssigned":true,"estimateTime":1793128500000,"id":"849616","nbrOut":1,"timeOff":1793117744000},"type":"Feature"}
 ]}

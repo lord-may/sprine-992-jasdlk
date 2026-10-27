@@ -14,5 +14,10 @@
 {"geometry":{"coordinates":[-75.82576,41.5664],"type":"Point"},"properties":{"a":"41.5664","cty":"WYOMING","hp":true,"id":8831024,"mun":"CLINTON TWP","nc":310,"ne":{"a":"41.58651","o":"-75.79862"},"o":"-75.82576","sw":{"a":"41.5463","o":"-75.85291"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.566993,41.549382],"type":"Point"},"properties":{"a":"41.549382","cty":"LACKAWANNA","id":8831027,"mun":"CARBONDALE TWP","nc":4,"o":"-75.566993"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.124024,40.278614],"type":"Point"},"properties":{"a":"40.278614","cty":"LANCASTER","id":8831029,"mun":"WEST COCALICO TWP","nc":1,"o":"-76.124024"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.452026,41.362819],"type":"Point"},"properties":{"a":"41.362819","cty":"LACKAWANNA","id":8831035,"mun":"MADISON TWP","nc":1,"o":"-75.452026"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.452026,41.362819],"type":"Point"},"properties":{"a":"41.362819","cty":"LACKAWANNA","id":8831035,"mun":"MADISON TWP","nc":1,"o":"-75.452026"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.781729,40.858607],"type":"Point"},"properties":{"a":"40.858607","cty":"NORTHUMBERLAND","id":8831039,"mun":"UPPER AUGUSTA TWP","nc":17,"o":"-76.781729"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.385674,40.62701],"type":"Point"},"properties":{"a":"40.62701","cty":"SCHUYLKILL","id":8831041,"mun":"TREMONT BORO","nc":9,"o":"-76.385674"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.78625,40.35512],"type":"Point"},"properties":{"a":"40.35512","cty":"DAUPHIN","id":8831044,"mun":"LOWER PAXTON TWP","nc":2,"o":"-76.78625"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.312186,40.276438],"type":"Point"},"properties":{"a":"40.276438","cty":"MONTGOMERY","id":8831045,"mun":"HATFIELD TWP","nc":19,"o":"-75.312186"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.181223,40.245956],"type":"Point"},"properties":{"a":"40.245956","cty":"CUMBERLAND","id":8831046,"mun":"NORTH MIDDLETON TWP","nc":9,"o":"-77.181223"},"type":"Feature"}
 ]}
