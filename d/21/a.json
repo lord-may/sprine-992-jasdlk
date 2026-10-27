@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.295696,44.352373],"type":"Point"},"properties":{"EstRest":"10/27/2026 3:15:00 PM","Outages":33,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.301295,44.356449],"type":"Point"},"properties":{"EstRest":"10/27/2026 3:15:00 PM","Outages":9,"cause":"","county":"OXFORD","crewstatus":"DISP ","customers":9,"hamlet":"HARTFORD","incidentnumber":"00450B","incidents":1,"level":"street","opco":"CMP","street":"PRATT HILL RD","town":"HARTFORD"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.293897,44.364915],"type":"Point"},"properties":{"EstRest":"10/27/2026 4:00:00 PM","Outages":34,"county":"OXFORD","customers":44086,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.780176,43.93847],"type":"Point"},"properties":{"EstRest":"10/27/2026 3:45:00 PM","Outages":1,"cause":"","county":"SAGADAHOC","crewstatus":"DISP ","customers":42,"hamlet":"WOOLWICH","incidentnumber":"00450D","incidents":1,"level":"street","opco":"CMP","street":"NEQUASSET RD","town":"WOOLWICH"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.780176,43.93847],"type":"Point"},"properties":{"EstRest":"10/27/2026 3:45:00 PM","Outages":1,"county":"SAGADAHOC","customers":23026,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
