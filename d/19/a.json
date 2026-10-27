@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.845899,42.582346],"type":"Point"},"properties":{"EstRest":"10/27/2026 4:30:00 AM","Outages":7,"cause":"","county":"SENECA","crewstatus":"     ","customers":9,"hamlet":"LODI","incidentnumber":"0117YM","incidents":1,"level":"street","opco":"NYSEG","street":"N MILLER RD","town":"LODI T"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.845899,42.582346],"type":"Point"},"properties":{"EstRest":"10/27/2026 4:30:00 AM","Outages":7,"cause":"","county":"SENECA","crewstatus":"ENRT ","customers":9,"hamlet":"LODI","incidentnumber":"0117YM","incidents":1,"level":"street","opco":"NYSEG","street":"N MILLER RD","town":"LODI T"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.845899,42.582346],"type":"Point"},"properties":{"EstRest":"10/27/2026 4:30:00 AM","Outages":7,"county":"SENECA","customers":17803,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
