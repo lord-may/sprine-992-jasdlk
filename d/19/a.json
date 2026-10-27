@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.885677,42.512426],"type":"Point"},"properties":{"EstRest":"10/27/2026 12:30:00 AM","Outages":16,"county":"ALLEGANY","customers":4115,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.917415,42.517507],"type":"Point"},"properties":{"EstRest":"10/27/2026 12:30:00 AM","Outages":2,"cause":"","county":"ALLEGANY","crewstatus":"DISP ","customers":2,"hamlet":"SWAIN","incidentnumber":"0117YF","incidents":1,"level":"street","opco":"NYSEG","street":"DELUDE RD","town":"GROVE T"},"type":"Feature"}
+
 ]}
