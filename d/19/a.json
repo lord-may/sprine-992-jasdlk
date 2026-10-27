@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-78.79773,42.89753],"type":"Point"},"properties":{"EstRest":"10/27/2026 6:40:00 AM","Outages":19,"cause":"","county":"ERIE","crewstatus":"DISP ","customers":106,"hamlet":"BUFFALO","incidentnumber":"0117YU","incidents":1,"level":"street","opco":"NYSEG","street":"ATLANTIC AVE","town":"SLOAN V"},"type":"Feature"},
-{"geometry":{"coordinates":[-78.79773,42.89753],"type":"Point"},"properties":{"EstRest":"10/27/2026 6:40:00 AM","Outages":19,"county":"ERIE","customers":157686,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.545383,41.274315],"type":"Point"},"properties":{"EstRest":"10/27/2026 4:45:00 AM","Outages":3,"cause":"","county":"WESTCHESTER","crewstatus":"ONST ","customers":10,"hamlet":"SOUTH SALEM","incidentnumber":"0117YQ","incidents":1,"level":"street","opco":"NYSEG","street":"WOODWAY RD","town":"LEWISBORO T"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.545383,41.274315],"type":"Point"},"properties":{"EstRest":"10/27/2026 4:45:00 AM","Outages":3,"county":"WESTCHESTER","customers":33722,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+{"geometry":{"coordinates":[-78.79773,42.89753],"type":"Point"},"properties":{"EstRest":"10/27/2026 6:40:00 AM","Outages":19,"county":"ERIE","customers":157686,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
