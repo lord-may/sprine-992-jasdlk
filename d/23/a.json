@@ -6,5 +6,13 @@
 {"geometry":{"coordinates":[-76.845892,40.273122],"type":"Point"},"properties":{"a":"40.273122","cty":"DAUPHIN","id":8830792,"mun":"PENBROOK BORO","nc":3,"o":"-76.845892"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.154919,40.16253],"type":"Point"},"properties":{"a":"40.16253","cty":"LANCASTER","id":8830793,"mun":"EPHRATA TWP","nc":1,"o":"-76.154919"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.372044,40.095114],"type":"Point"},"properties":{"a":"40.095114","cty":"LANCASTER","id":8830797,"mun":"EAST HEMPFIELD TWP","nc":1,"o":"-76.372044"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.345597,40.887394],"type":"Point"},"properties":{"a":"40.887394","cty":"COLUMBIA","id":8830798,"mun":"ROARING CREEK TWP","nc":1,"o":"-76.345597"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.345597,40.887394],"type":"Point"},"properties":{"a":"40.887394","cty":"COLUMBIA","id":8830798,"mun":"ROARING CREEK TWP","nc":1,"o":"-76.345597"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.347363,40.6318],"type":"Point"},"properties":{"a":"40.6318","cty":"NORTHAMPTON","id":8830799,"mun":"BETHLEHEM","nc":13,"o":"-75.347363"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.564689,40.78628],"type":"Point"},"properties":{"a":"40.78628","cty":"NORTHUMBERLAND","id":8830802,"mun":"COAL TWP","nc":33,"o":"-76.564689"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.079933,40.281241],"type":"Point"},"properties":{"a":"40.281241","cty":"BERKS","id":8830804,"mun":"SPRING TWP","nc":2,"o":"-76.079933"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.29836,39.91166],"type":"Point"},"properties":{"a":"39.91166","cty":"LANCASTER","hp":true,"id":8830807,"mun":"MARTIC TWP","nc":61,"ne":{"a":"39.91323","o":"-76.28925"},"o":"-76.29836","sw":{"a":"39.91009","o":"-76.30746"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.82837,40.28607],"type":"Point"},"properties":{"a":"40.28607","cty":"DAUPHIN","id":8830808,"mun":"SUSQUEHANNA TWP","nc":10,"o":"-76.82837"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.305257,39.907628],"type":"Point"},"properties":{"a":"39.907628","cty":"LANCASTER","id":8830810,"mun":"MARTIC TWP","nc":3,"o":"-76.305257"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.495671,40.888807],"type":"Point"},"properties":{"a":"40.888807","cty":"MONROE","id":8830811,"mun":"POLK TWP","nc":1,"o":"-75.495671"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.376708,40.040131],"type":"Point"},"properties":{"a":"40.040131","cty":"LANCASTER","id":8830813,"mun":"MANOR TWP","nc":12,"o":"-76.376708"},"type":"Feature"}
 ]}
