@@ -2,5 +2,6 @@
 {"geometry":{"coordinates":[-75.398584,40.661675],"type":"Point"},"properties":{"a":"40.661675","cty":"NORTHAMPTON","id":8830759,"mun":"HANOVER TWP","nc":3,"o":"-75.398584"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.959099,41.25589],"type":"Point"},"properties":{"a":"41.25589","cty":"LYCOMING","id":8830762,"mun":"LOYALSOCK TWP","nc":10,"o":"-76.959099"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.407443,40.074647],"type":"Point"},"properties":{"a":"40.074647","cty":"CUMBERLAND","id":8830765,"mun":"SOUTH NEWTON TWP","nc":2,"o":"-77.407443"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.073369,41.245749],"type":"Point"},"properties":{"a":"41.245749","cty":"LYCOMING","id":8830767,"mun":"OLD LYCOMING TWP","nc":2,"o":"-77.073369"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.073369,41.245749],"type":"Point"},"properties":{"a":"41.245749","cty":"LYCOMING","id":8830767,"mun":"OLD LYCOMING TWP","nc":2,"o":"-77.073369"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.222418,40.184633],"type":"Point"},"properties":{"a":"40.184633","cty":"CUMBERLAND","id":8830769,"mun":"SOUTH MIDDLETON TWP","nc":3,"o":"-77.222418"},"type":"Feature"}
 ]}
