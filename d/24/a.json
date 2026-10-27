@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-71.6001,41.36565],"type":"Point"},"properties":{"a":"41.36565","cty":"WASHINGTON","hp":true,"id":20261068461,"mun":"SOUTH KINGSTOWN","nc":11,"ne":{"a":"41.36634","o":"-71.59956"},"o":"-71.6001","sw":{"a":"41.36497","o":"-71.60064"}},"type":"Feature"}
 ]}

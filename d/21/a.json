@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.282188,43.628737],"type":"Point"},"properties":{"EstRest":"10/27/2026 6:15:00 AM","Outages":1,"cause":"Equipment Interruption","county":"CUMBERLAND","crewstatus":"ONST ","customers":849,"hamlet":"SOUTH PORTLAND","incidentnumber":"0044Y3","incidents":1,"level":"street","opco":"CMP","street":"BROADWAY","town":"SOUTH PORTLAND"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.282188,43.628737],"type":"Point"},"properties":{"EstRest":"10/27/2026 6:15:00 AM","Outages":1,"cause":"Equipment Interruption","county":"CUMBERLAND","crewstatus":"CNCL ","customers":849,"hamlet":"SOUTH PORTLAND","incidentnumber":"0044Y3","incidents":1,"level":"street","opco":"CMP","street":"BROADWAY","town":"SOUTH PORTLAND"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.282188,43.628737],"type":"Point"},"properties":{"EstRest":"10/27/2026 6:15:00 AM","Outages":1,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
