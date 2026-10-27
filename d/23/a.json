@@ -4,5 +4,6 @@
 {"geometry":{"coordinates":[-75.809901,41.253337],"type":"Point"},"properties":{"a":"41.253337","cty":"LUZERNE","id":8830775,"mun":"PLAINS TWP","nc":1,"o":"-75.809901"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.094492,40.142084],"type":"Point"},"properties":{"a":"40.142084","cty":"LANCASTER","id":8830776,"mun":"EARL TWP","nc":1,"o":"-76.094492"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.358914,40.040565],"type":"Point"},"properties":{"a":"40.040565","cty":"LANCASTER","id":8830780,"mun":"EAST HEMPFIELD TWP","nc":2,"o":"-76.358914"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.330723,40.308623],"type":"Point"},"properties":{"a":"40.308623","cty":"MONTGOMERY","id":8830782,"mun":"SOUDERTON BORO","nc":5,"o":"-75.330723"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.410822,40.056604],"type":"Point"},"properties":{"a":"40.056604","cty":"LANCASTER","id":8830783,"mun":"WEST HEMPFIELD TWP","nc":2,"o":"-76.410822"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.202148,40.630052],"type":"Point"},"properties":{"a":"40.630052","cty":"SCHUYLKILL","id":8830785,"mun":"CRESSONA BORO","nc":1,"o":"-76.202148"},"type":"Feature"}
 ]}
