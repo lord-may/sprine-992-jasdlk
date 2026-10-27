@@ -1,16 +1,13 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.803273,40.270971],"type":"Point"},"properties":{"a":"40.270971","cty":"DAUPHIN","id":8830821,"mun":"LOWER PAXTON TWP","nc":9,"o":"-76.803273"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.372769,40.675878],"type":"Point"},"properties":{"a":"40.675878","cty":"NORTHAMPTON","id":8830892,"mun":"BETHLEHEM TWP","nc":1,"o":"-75.372769"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.136625,40.945018],"type":"Point"},"properties":{"a":"40.945018","cty":"UNION","id":8830993,"mun":"LEWIS TWP","nc":1,"o":"-77.136625"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.46306,40.86007],"type":"Point"},"properties":{"a":"40.86007","cty":"COLUMBIA","hp":true,"id":8831017,"mun":"CLEVELAND TWP","nc":38,"ne":{"a":"40.87114","o":"-76.45309"},"o":"-76.46306","sw":{"a":"40.84899","o":"-76.47303"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.370658,40.574358],"type":"Point"},"properties":{"a":"40.574358","cty":"NORTHAMPTON","id":8831019,"mun":"LOWER SAUCON TWP","nc":3,"o":"-75.370658"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.239962,40.321126],"type":"Point"},"properties":{"a":"40.321126","cty":"PERRY","id":8831056,"mun":"SPRING TWP","nc":1,"o":"-77.239962"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.848455,40.11456],"type":"Point"},"properties":{"a":"40.11456","cty":"CHESTER","id":8831057,"mun":"WEST NANTMEAL TWP","nc":1,"o":"-75.848455"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.0904,41.588301],"type":"Point"},"properties":{"a":"41.588301","cty":"WAYNE","id":8831082,"mun":"BERLIN TWP","nc":1,"o":"-75.0904"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.77165,40.81668],"type":"Point"},"properties":{"a":"40.81668","cty":"NORTHUMBERLAND","hp":true,"id":8831097,"mun":"LOWER AUGUSTA TWP","nc":49,"ne":{"a":"40.82036","o":"-76.75748"},"o":"-76.77165","sw":{"a":"40.813","o":"-76.78582"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.897323,41.249642],"type":"Point"},"properties":{"a":"41.249642","cty":"LYCOMING","id":8831100,"mun":"FAIRFIELD TWP","nc":2,"o":"-76.897323"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.90001,40.219536],"type":"Point"},"properties":{"a":"40.219536","cty":"YORK","id":8831102,"mun":"FAIRVIEW TWP","nc":5,"o":"-76.90001"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.31688,40.2699],"type":"Point"},"properties":{"a":"40.2699","cty":"LEBANON","hp":true,"id":8831103,"mun":"HEIDELBERG TWP","nc":190,"ne":{"a":"40.28598","o":"-76.2955"},"o":"-76.31688","sw":{"a":"40.25382","o":"-76.33826"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.123092,40.008602],"type":"Point"},"properties":{"a":"40.008602","cty":"LANCASTER","id":8831106,"mun":"PARADISE TWP","nc":9,"o":"-76.123092"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.477652,40.606955],"type":"Point"},"properties":{"a":"40.606955","cty":"LEHIGH","id":8831108,"mun":"ALLENTOWN","nc":13,"o":"-75.477652"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.327325,40.262237],"type":"Point"},"properties":{"a":"40.262237","cty":"LEBANON","id":8831111,"mun":"HEIDELBERG TWP","nc":1,"o":"-76.327325"},"type":"Feature"}
 ]}
