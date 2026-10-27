@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.6001,41.36565],"type":"Point"},"properties":{"a":"41.36565","cty":"WASHINGTON","hp":true,"id":20261068461,"mun":"SOUTH KINGSTOWN","nc":11,"ne":{"a":"41.36634","o":"-71.59956"},"o":"-71.6001","sw":{"a":"41.36497","o":"-71.60064"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.592611,41.415685],"type":"Point"},"properties":{"a":"41.415685","cty":"WASHINGTON","id":20261068462,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.592611"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.387446,41.749573],"type":"Point"},"properties":{"a":"41.749573","cty":"KENT","id":20261068463,"mun":"WARWICK","nc":1,"o":"-71.387446"},"type":"Feature"}
 ]}

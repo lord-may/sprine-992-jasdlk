@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-70.158067,44.184859],"type":"Point"},"properties":{"EstRest":"10/27/2026 9:45:00 AM","Outages":11,"cause":"","county":"ANDROSCOGGIN","crewstatus":"ONST ","customers":91,"hamlet":"GREENE","incidentnumber":"0044Y8","incidents":1,"level":"street","opco":"CMP","street":"ROUTE 202","town":"GREENE"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.158067,44.184859],"type":"Point"},"properties":{"EstRest":"10/27/2026 9:45:00 AM","Outages":11,"county":"ANDROSCOGGIN","customers":59602,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
