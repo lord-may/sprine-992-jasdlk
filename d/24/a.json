@@ -1,3 +1,7 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.343279,41.859571],"type":"Point"},"properties":{"a":"41.859571","cty":"PROVIDENCE","id":20261068465,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.343279"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.343279,41.859571],"type":"Point"},"properties":{"a":"41.859571","cty":"PROVIDENCE","id":20261068465,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.343279"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.23647,41.70137],"type":"Point"},"properties":{"a":"41.70137","cty":"BRISTOL","hp":true,"id":20261068468,"mun":"WARREN","nc":63,"ne":{"a":"41.70248","o":"-71.23307"},"o":"-71.23647","sw":{"a":"41.70026","o":"-71.23987"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.402563,41.844368],"type":"Point"},"properties":{"a":"41.844368","cty":"PROVIDENCE","id":20261068470,"mun":"PROVIDENCE","nc":46,"o":"-71.402563"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.495404,41.859754],"type":"Point"},"properties":{"a":"41.859754","cty":"PROVIDENCE","id":20261068472,"mun":"JOHNSTON","nc":12,"o":"-71.495404"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.39757,41.870592],"type":"Point"},"properties":{"a":"41.870592","cty":"PROVIDENCE","id":20261068473,"mun":"PAWTUCKET","nc":1,"o":"-71.39757"},"type":"Feature"}
 ]}
