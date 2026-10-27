@@ -1,3 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.723538,43.55273],"type":"Point"},"properties":{"EstRest":"10/27/2026 5:30:00 PM","Outages":103,"county":"YORK","customers":132723,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.898119,43.877946],"type":"Point"},"properties":{"EstRest":"10/27/2026 6:00:00 PM","Outages":132,"county":"CUMBERLAND","customers":182407,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.630586,44.554985],"type":"Point"},"properties":{"EstRest":"10/27/2026 6:00:00 PM","Outages":71,"county":"KENNEBEC","customers":75925,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.669447,43.300667],"type":"Point"},"properties":{"EstRest":"10/27/2026 5:30:00 PM","Outages":32,"cause":"","county":"YORK","crewstatus":"DISP ","customers":49,"hamlet":"WELLS","incidentnumber":"004511","incidents":1,"level":"street","opco":"CMP","street":"CHENEY WOODS RD","town":"WELLS"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.669447,43.300667],"type":"Point"},"properties":{"EstRest":"10/27/2026 5:30:00 PM","Outages":32,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
