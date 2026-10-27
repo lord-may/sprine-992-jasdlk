@@ -2,7 +2,6 @@
 {"geometry":{"coordinates":[-76.803273,40.270971],"type":"Point"},"properties":{"a":"40.270971","cty":"DAUPHIN","id":8830821,"mun":"LOWER PAXTON TWP","nc":9,"o":"-76.803273"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.372769,40.675878],"type":"Point"},"properties":{"a":"40.675878","cty":"NORTHAMPTON","id":8830892,"mun":"BETHLEHEM TWP","nc":1,"o":"-75.372769"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.631286,40.54508],"type":"Point"},"properties":{"a":"40.54508","cty":"LEHIGH","id":8830920,"mun":"UPPER MACUNGIE TWP","nc":17,"o":"-75.631286"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.360371,41.293542],"type":"Point"},"properties":{"a":"41.293542","cty":"WAYNE","id":8830947,"mun":"DREHER TWP","nc":1,"o":"-75.360371"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.136625,40.945018],"type":"Point"},"properties":{"a":"40.945018","cty":"UNION","id":8830993,"mun":"LEWIS TWP","nc":1,"o":"-77.136625"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.891004,41.075432],"type":"Point"},"properties":{"a":"41.075432","cty":"UNION","id":8831002,"mun":"WHITE DEER TWP","nc":6,"o":"-76.891004"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.841242,41.08597],"type":"Point"},"properties":{"a":"41.08597","cty":"LUZERNE","id":8831004,"mun":"DENNISON TWP","nc":2,"o":"-75.841242"},"type":"Feature"},
@@ -16,7 +15,11 @@
 {"geometry":{"coordinates":[-76.78625,40.35512],"type":"Point"},"properties":{"a":"40.35512","cty":"DAUPHIN","id":8831044,"mun":"LOWER PAXTON TWP","nc":2,"o":"-76.78625"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.002204,40.313297],"type":"Point"},"properties":{"a":"40.313297","cty":"BERKS","id":8831052,"mun":"SPRING TWP","nc":2,"o":"-76.002204"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.320181,41.00183],"type":"Point"},"properties":{"a":"41.00183","cty":"COLUMBIA","id":8831053,"mun":"MIFFLIN TWP","nc":1,"o":"-76.320181"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.655846,41.391288],"type":"Point"},"properties":{"a":"41.391288","cty":"LACKAWANNA","id":8831054,"mun":"SCRANTON","nc":9,"o":"-75.655846"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.239962,40.321126],"type":"Point"},"properties":{"a":"40.321126","cty":"PERRY","id":8831056,"mun":"SPRING TWP","nc":1,"o":"-77.239962"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.848455,40.11456],"type":"Point"},"properties":{"a":"40.11456","cty":"CHESTER","id":8831057,"mun":"WEST NANTMEAL TWP","nc":1,"o":"-75.848455"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.848455,40.11456],"type":"Point"},"properties":{"a":"40.11456","cty":"CHESTER","id":8831057,"mun":"WEST NANTMEAL TWP","nc":1,"o":"-75.848455"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.82169,40.56234],"type":"Point"},"properties":{"a":"40.56234","cty":"DAUPHIN","hp":true,"id":8831064,"mun":"WASHINGTON TWP","nc":55,"ne":{"a":"40.56993","o":"-76.81748"},"o":"-76.82169","sw":{"a":"40.55476","o":"-76.82591"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.758005,40.486868],"type":"Point"},"properties":{"a":"40.486868","cty":"DAUPHIN","id":8831065,"mun":"JEFFERSON TWP","nc":1,"o":"-76.758005"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.811228,40.457438],"type":"Point"},"properties":{"a":"40.457438","cty":"DAUPHIN","id":8831067,"mun":"WAYNE TWP","nc":1,"o":"-76.811228"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.802724,40.469658],"type":"Point"},"properties":{"a":"40.469658","cty":"DAUPHIN","id":8831068,"mun":"WAYNE TWP","nc":3,"o":"-76.802724"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.834129,40.544344],"type":"Point"},"properties":{"a":"40.544344","cty":"DAUPHIN","id":8831069,"mun":"WASHINGTON TWP","nc":4,"o":"-76.834129"},"type":"Feature"}
 ]}
