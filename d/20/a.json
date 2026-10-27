@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-77.709107,43.124858],"type":"Point"},"properties":{"EstRest":"10/27/2026 7:45:00 PM","Outages":579,"county":"MONROE","customers":303507,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.728474,43.125558],"type":"Point"},"properties":{"EstRest":"10/27/2026 7:45:00 PM","Outages":4,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":152,"hamlet":"ROCHESTER","incidentnumber":"01186T","incidents":1,"level":"street","opco":"RGE","street":"WESTSIDE DR","town":"CHILI"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.728474,43.125558],"type":"Point"},"properties":{"EstRest":"10/27/2026 7:45:00 PM","Outages":4,"cause":"","county":"MONROE","crewstatus":"ONST ","customers":152,"hamlet":"ROCHESTER","incidentnumber":"01186T","incidents":1,"level":"street","opco":"RGE","street":"WESTSIDE DR","town":"CHILI"},"type":"Feature"}
 ]}

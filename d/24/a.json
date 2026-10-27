@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.430018,41.837386],"type":"Point"},"properties":{"a":"41.837386","cty":"PROVIDENCE","id":20261068633,"mun":"PROVIDENCE","nc":1,"o":"-71.430018"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.430018,41.837386],"type":"Point"},"properties":{"a":"41.837386","cty":"PROVIDENCE","id":20261068633,"mun":"PROVIDENCE","nc":1,"o":"-71.430018"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.139787,41.62811],"type":"Point"},"properties":{"a":"41.62811","cty":"NEWPORT","id":20261068635,"mun":"TIVERTON","nc":1,"o":"-71.139787"},"type":"Feature"}
 ]}
