@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.805778,43.217601],"type":"Point"},"properties":{"EstRest":"10/27/2026 3:30:00 PM","Outages":7,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":327,"hamlet":"SPENCERPORT","incidentnumber":"01184B","incidents":1,"level":"street","opco":"RGE","street":"RIDGE RD W","town":"PARMA"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.805778,43.217601],"type":"Point"},"properties":{"EstRest":"10/27/2026 3:30:00 PM","Outages":7,"county":"MONROE","customers":303507,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
+
 ]}
