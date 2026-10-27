@@ -1,7 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.309853,41.500084],"type":"Point"},"properties":{"a":"41.500084","cty":"NEWPORT","id":20261068488,"mun":"NEWPORT","nc":26,"o":"-71.309853"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.236543,41.700767],"type":"Point"},"properties":{"a":"41.700767","cty":"BRISTOL","id":20261068528,"mun":"WARREN","nc":13,"o":"-71.236543"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.777612,41.345982],"type":"Point"},"properties":{"a":"41.345982","cty":"WASHINGTON","id":20261068533,"mun":"WESTERLY","nc":1,"o":"-71.777612"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.668485,41.57817],"type":"Point"},"properties":{"a":"41.57817","cty":"WASHINGTON","id":20261068552,"mun":"EXETER","nc":1,"o":"-71.668485"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.652167,41.713893],"type":"Point"},"properties":{"a":"41.713893","cty":"KENT","id":20261068556,"mun":"COVENTRY","nc":1,"o":"-71.652167"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.653363,41.713846],"type":"Point"},"properties":{"a":"41.713846","cty":"KENT","id":20261068556,"mun":"COVENTRY","nc":1,"o":"-71.653363"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.311478,41.477476],"type":"Point"},"properties":{"a":"41.477476","cty":"NEWPORT","id":20261068559,"mun":"NEWPORT","nc":1,"o":"-71.311478"},"type":"Feature"}
 ]}
