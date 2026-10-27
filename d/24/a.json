@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.39455,41.87098],"type":"Point"},"properties":{"a":"41.87098","cty":"PROVIDENCE","id":20261068636,"mun":"PAWTUCKET","nc":1,"o":"-71.39455"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.427752,41.840917],"type":"Point"},"properties":{"a":"41.840917","cty":"PROVIDENCE","id":20261068637,"mun":"PROVIDENCE","nc":1,"o":"-71.427752"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.139787,41.62811],"type":"Point"},"properties":{"a":"41.62811","cty":"NEWPORT","id":20261068638,"mun":"TIVERTON","nc":1,"o":"-71.139787"},"type":"Feature"}
 ]}

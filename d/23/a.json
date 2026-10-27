@@ -1,8 +1,7 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.372769,40.675878],"type":"Point"},"properties":{"a":"40.675878","cty":"NORTHAMPTON","id":8830892,"mun":"BETHLEHEM TWP","nc":1,"o":"-75.372769"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.46306,40.86007],"type":"Point"},"properties":{"a":"40.86007","cty":"COLUMBIA","hp":true,"id":8831017,"mun":"CLEVELAND TWP","nc":38,"ne":{"a":"40.87114","o":"-76.45309"},"o":"-76.46306","sw":{"a":"40.84899","o":"-76.47303"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.239962,40.321126],"type":"Point"},"properties":{"a":"40.321126","cty":"PERRY","id":8831056,"mun":"SPRING TWP","nc":1,"o":"-77.239962"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.77165,40.81668],"type":"Point"},"properties":{"a":"40.81668","cty":"NORTHUMBERLAND","hp":true,"id":8831097,"mun":"LOWER AUGUSTA TWP","nc":49,"ne":{"a":"40.82036","o":"-76.75748"},"o":"-76.77165","sw":{"a":"40.813","o":"-76.78582"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.18683,41.406754],"type":"Point"},"properties":{"a":"41.406754","cty":"PIKE","id":8831112,"mun":"PALMYRA TWP","nc":2,"o":"-75.18683"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.930635,40.281871],"type":"Point"},"properties":{"a":"40.281871","cty":"CUMBERLAND","id":8831122,"mun":"EAST PENNSBORO TWP","nc":12,"o":"-76.930635"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.930635,40.281871],"type":"Point"},"properties":{"a":"40.281871","cty":"CUMBERLAND","id":8831122,"mun":"EAST PENNSBORO TWP","nc":12,"o":"-76.930635"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.272318,41.079058],"type":"Point"},"properties":{"a":"41.079058","cty":"MONROE","id":8831123,"mun":"POCONO TWP","nc":4,"o":"-75.272318"},"type":"Feature"}
 ]}
