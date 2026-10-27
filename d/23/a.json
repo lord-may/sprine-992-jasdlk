@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.335066,40.553745],"type":"Point"},"properties":{"a":"40.553745","cty":"NORTHAMPTON","id":8830755,"mun":"LOWER SAUCON TWP","nc":12,"o":"-75.335066"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.81706,41.11414],"type":"Point"},"properties":{"a":"41.11414","cty":"NORTHUMBERLAND","hp":true,"id":8830756,"mun":"DELAWARE TWP","nc":11,"ne":{"a":"41.11538","o":"-76.8136"},"o":"-76.81706","sw":{"a":"41.1129","o":"-76.82052"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.85228,40.117284],"type":"Point"},"properties":{"a":"40.117284","cty":"CHESTER","id":8830757,"mun":"HONEYBROOK TWP","nc":13,"o":"-75.85228"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.397725,40.662002],"type":"Point"},"properties":{"a":"40.662002","cty":"NORTHAMPTON","id":8830759,"mun":"HANOVER TWP","nc":9,"o":"-75.397725"},"type":"Feature"},
