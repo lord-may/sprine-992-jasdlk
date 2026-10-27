@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.309853,41.500084],"type":"Point"},"properties":{"a":"41.500084","cty":"NEWPORT","id":20261068488,"mun":"NEWPORT","nc":26,"o":"-71.309853"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.426172,41.972168],"type":"Point"},"properties":{"a":"41.972168","cty":"PROVIDENCE","id":20261068582,"mun":"CUMBERLAND","nc":1,"o":"-71.426172"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.600015,41.365726],"type":"Point"},"properties":{"a":"41.365726","cty":"WASHINGTON","id":20261068584,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.600015"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.309425,41.500243],"type":"Point"},"properties":{"a":"41.500243","cty":"NEWPORT","id":20261068599,"mun":"NEWPORT","nc":1,"o":"-71.309425"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.752199,41.812381],"type":"Point"},"properties":{"a":"41.812381","cty":"PROVIDENCE","id":20261068613,"mun":"FOSTER","nc":1,"o":"-71.752199"},"type":"Feature"}
 ]}
