@@ -1,3 +1,6 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-77.942711,42.527887],"type":"Point"},"properties":{"EstRest":"10/27/2026 12:30:00 AM","Outages":1,"cause":"","county":"ALLEGANY","crewstatus":"DISP ","customers":1,"hamlet":"DALTON","incidentnumber":"0117Y7","incidents":1,"level":"street","opco":"RGE","street":"OLD STATE RD","town":"NUNDA"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.942711,42.527887],"type":"Point"},"properties":{"EstRest":"10/27/2026 12:30:00 AM","Outages":1,"county":"ALLEGANY","customers":11171,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.916334,42.524759],"type":"Point"},"properties":{"EstRest":"10/27/2026 12:30:00 AM","Outages":16,"cause":"","county":"LIVINGSTON","crewstatus":"DISP ","customers":16,"hamlet":"DALTON","incidentnumber":"0117Y7","incidents":1,"level":"street","opco":"RGE","street":"SNYDER RD","town":"NUNDA"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.924294,42.525471],"type":"Point"},"properties":{"EstRest":"10/27/2026 12:30:00 AM","Outages":29,"county":"LIVINGSTON","customers":6501,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
