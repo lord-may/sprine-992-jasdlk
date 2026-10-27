@@ -3,5 +3,7 @@
 {"geometry":{"coordinates":[-71.23647,41.70137],"type":"Point"},"properties":{"a":"41.70137","cty":"BRISTOL","hp":true,"id":20261068468,"mun":"WARREN","nc":63,"ne":{"a":"41.70248","o":"-71.23307"},"o":"-71.23647","sw":{"a":"41.70026","o":"-71.23987"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.153783,41.533204],"type":"Point"},"properties":{"a":"41.533204","cty":"NEWPORT","id":20261068483,"mun":"LITTLE COMPTON","nc":1,"o":"-71.153783"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.635514,41.679158],"type":"Point"},"properties":{"a":"41.679158","cty":"KENT","id":20261068484,"mun":"COVENTRY","nc":1,"o":"-71.635514"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.247319,41.588197],"type":"Point"},"properties":{"a":"41.588197","cty":"NEWPORT","id":20261068485,"mun":"PORTSMOUTH","nc":1,"o":"-71.247319"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.247319,41.588197],"type":"Point"},"properties":{"a":"41.588197","cty":"NEWPORT","id":20261068485,"mun":"PORTSMOUTH","nc":1,"o":"-71.247319"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.309853,41.500084],"type":"Point"},"properties":{"a":"41.500084","cty":"NEWPORT","id":20261068488,"mun":"NEWPORT","nc":26,"o":"-71.309853"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.79781,41.344572],"type":"Point"},"properties":{"a":"41.344572","cty":"WASHINGTON","id":20261068490,"mun":"WESTERLY","nc":1,"o":"-71.79781"},"type":"Feature"}
 ]}
