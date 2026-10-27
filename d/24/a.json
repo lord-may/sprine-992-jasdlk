@@ -1,10 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.343279,41.859571],"type":"Point"},"properties":{"a":"41.859571","cty":"PROVIDENCE","id":20261068465,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.343279"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.23647,41.70137],"type":"Point"},"properties":{"a":"41.70137","cty":"BRISTOL","hp":true,"id":20261068468,"mun":"WARREN","nc":63,"ne":{"a":"41.70248","o":"-71.23307"},"o":"-71.23647","sw":{"a":"41.70026","o":"-71.23987"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.495404,41.859754],"type":"Point"},"properties":{"a":"41.859754","cty":"PROVIDENCE","id":20261068472,"mun":"JOHNSTON","nc":12,"o":"-71.495404"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.39757,41.870592],"type":"Point"},"properties":{"a":"41.870592","cty":"PROVIDENCE","id":20261068473,"mun":"PAWTUCKET","nc":1,"o":"-71.39757"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.567736,41.910784],"type":"Point"},"properties":{"a":"41.910784","cty":"PROVIDENCE","id":20261068476,"mun":"SMITHFIELD","nc":1,"o":"-71.567736"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.422049,41.832292],"type":"Point"},"properties":{"a":"41.832292","cty":"PROVIDENCE","id":20261068477,"mun":"PROVIDENCE","nc":1,"o":"-71.422049"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.402968,41.925832],"type":"Point"},"properties":{"a":"41.925832","cty":"PROVIDENCE","id":20261068478,"mun":"CUMBERLAND","nc":1,"o":"-71.402968"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.386074,41.857544],"type":"Point"},"properties":{"a":"41.857544","cty":"PROVIDENCE","id":20261068479,"mun":"PAWTUCKET","nc":1,"o":"-71.386074"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.153783,41.533204],"type":"Point"},"properties":{"a":"41.533204","cty":"NEWPORT","id":20261068483,"mun":"LITTLE COMPTON","nc":1,"o":"-71.153783"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.635514,41.679158],"type":"Point"},"properties":{"a":"41.679158","cty":"KENT","id":20261068484,"mun":"COVENTRY","nc":1,"o":"-71.635514"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.247319,41.588197],"type":"Point"},"properties":{"a":"41.588197","cty":"NEWPORT","id":20261068485,"mun":"PORTSMOUTH","nc":1,"o":"-71.247319"},"type":"Feature"}
 ]}

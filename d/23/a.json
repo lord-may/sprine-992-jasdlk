@@ -13,6 +13,10 @@
 {"geometry":{"coordinates":[-76.29836,39.91166],"type":"Point"},"properties":{"a":"39.91166","cty":"LANCASTER","hp":true,"id":8830807,"mun":"MARTIC TWP","nc":61,"ne":{"a":"39.91323","o":"-76.28925"},"o":"-76.29836","sw":{"a":"39.91009","o":"-76.30746"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.82837,40.28607],"type":"Point"},"properties":{"a":"40.28607","cty":"DAUPHIN","id":8830808,"mun":"SUSQUEHANNA TWP","nc":10,"o":"-76.82837"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.305257,39.907628],"type":"Point"},"properties":{"a":"39.907628","cty":"LANCASTER","id":8830810,"mun":"MARTIC TWP","nc":3,"o":"-76.305257"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.495671,40.888807],"type":"Point"},"properties":{"a":"40.888807","cty":"MONROE","id":8830811,"mun":"POLK TWP","nc":1,"o":"-75.495671"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.376708,40.040131],"type":"Point"},"properties":{"a":"40.040131","cty":"LANCASTER","id":8830813,"mun":"MANOR TWP","nc":12,"o":"-76.376708"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.021105,40.51208],"type":"Point"},"properties":{"a":"40.51208","cty":"PERRY","id":8830819,"mun":"BUFFALO TWP","nc":1,"o":"-77.021105"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.294339,40.538413],"type":"Point"},"properties":{"a":"40.538413","cty":"BUCKS","id":8830820,"mun":"SPRINGFIELD TWP","nc":2,"o":"-75.294339"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.803273,40.270971],"type":"Point"},"properties":{"a":"40.270971","cty":"DAUPHIN","id":8830821,"mun":"LOWER PAXTON TWP","nc":9,"o":"-76.803273"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.116167,41.14845],"type":"Point"},"properties":{"a":"41.14845","cty":"LYCOMING","id":8830824,"mun":"LIMESTONE TWP","nc":1,"o":"-77.116167"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.055823,41.300895],"type":"Point"},"properties":{"a":"41.300895","cty":"PIKE","id":8830825,"mun":"BLOOMING GROVE TWP","nc":3,"o":"-75.055823"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.06879,41.50784],"type":"Point"},"properties":{"a":"41.50784","cty":"PIKE","hp":true,"id":8830826,"mun":"LACKAWAXEN TWP","nc":34,"ne":{"a":"41.51056","o":"-75.06777"},"o":"-75.06879","sw":{"a":"41.50511","o":"-75.06981"}},"type":"Feature"}
 ]}

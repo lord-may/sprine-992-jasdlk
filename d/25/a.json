@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-72.122688,44.010359],"type":"Point"},"properties":{"active":true,"affectingCustomers":true,"cause":0,"county":"Orange","crew_name":",STJA-HELSTEIN ","customers_affected":1,"customers_affected_label":"1 Customer","device":"SERVICE","etor":"2026-10-27T12:00-04:00","has_etor":1,"incident_id":1016577,"status":"CREW_ASSIGNED","street":"FARR LN","town":"Bradford","trouble":"NO_POWER"},"type":"Feature"},
+{"geometry":{"coordinates":[-72.386159,43.75258],"type":"Point"},"properties":{"active":true,"affectingCustomers":true,"cause":0,"county":"Windsor","crew_name":",WRJ-LISTER","customers_affected":1,"customers_affected_label":"1 Customer","device":"SERVICE","etor":"2026-10-27T12:00-04:00","has_etor":1,"incident_id":1016578,"status":"CREW_ASSIGNED","street":"TIGERTOWN RD","town":"Norwich","trouble":"NO_POWER"},"type":"Feature"}
 ]}

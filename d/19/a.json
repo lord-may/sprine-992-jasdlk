@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.498704,43.020511],"type":"Point"},"properties":{"EstRest":"10/27/2026 10:45:00 AM","Outages":26,"cause":"","county":"CAYUGA","crewstatus":"DISP ","customers":26,"hamlet":"WEEDSPORT","incidentnumber":"0117ZN","incidents":1,"level":"street","opco":"NYSEG","street":"OAKLEAF DR","town":"BRUTUS T"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.498704,43.020511],"type":"Point"},"properties":{"EstRest":"10/27/2026 10:45:00 AM","Outages":37,"county":"CAYUGA","customers":32356,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.497025,43.020752],"type":"Point"},"properties":{"EstRest":"10/27/2026 9:15:00 AM","Outages":77,"county":"CAYUGA","customers":32356,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.498704,43.020511],"type":"Point"},"properties":{"EstRest":"10/27/2026 9:15:00 AM","Outages":26,"cause":"","county":"CAYUGA","crewstatus":"DISP ","customers":26,"hamlet":"WEEDSPORT","incidentnumber":"0117ZT","incidents":1,"level":"street","opco":"NYSEG","street":"OAKLEAF DR","town":"BRUTUS T"},"type":"Feature"}
 ]}
