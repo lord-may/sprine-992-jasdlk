@@ -10,7 +10,6 @@
 {"geometry":{"coordinates":[-77.029199,41.240567],"type":"Point"},"properties":{"a":"41.240567","cty":"LYCOMING","id":8830833,"mun":"WILLIAMSPORT","nc":17,"o":"-77.029199"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.97089,41.03349],"type":"Point"},"properties":{"a":"41.03349","cty":"LUZERNE","hp":true,"id":8830838,"mun":"BUTLER TWP","nc":20,"ne":{"a":"41.03564","o":"-75.96839"},"o":"-75.97089","sw":{"a":"41.03135","o":"-75.97339"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.047704,40.66791],"type":"Point"},"properties":{"a":"40.66791","cty":"SCHUYLKILL","id":8830839,"mun":"EAST BRUNSWICK TWP","nc":1,"o":"-76.047704"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.771732,40.909775],"type":"Point"},"properties":{"a":"40.909775","cty":"NORTHUMBERLAND","id":8830842,"mun":"POINT TWP","nc":5,"o":"-76.771732"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.846826,41.015758],"type":"Point"},"properties":{"a":"41.015758","cty":"NORTHUMBERLAND","id":8830844,"mun":"MILTON BORO","nc":18,"o":"-76.846826"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.418856,40.632918],"type":"Point"},"properties":{"a":"40.632918","cty":"LEHIGH","id":8830849,"mun":"BETHLEHEM","nc":16,"o":"-75.418856"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.407782,40.919922],"type":"Point"},"properties":{"a":"40.919922","cty":"MONROE","id":8830852,"mun":"CHESTNUT HILL TWP","nc":3,"o":"-75.407782"},"type":"Feature"},
@@ -31,10 +30,14 @@
 {"geometry":{"coordinates":[-75.425266,41.088248],"type":"Point"},"properties":{"a":"41.088248","cty":"MONROE","id":8830898,"mun":"TOBYHANNA TWP","nc":3,"o":"-75.425266"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.115379,40.80803],"type":"Point"},"properties":{"a":"40.80803","cty":"SNYDER","id":8830900,"mun":"CENTRE TWP","nc":1,"o":"-77.115379"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.573681,41.557593],"type":"Point"},"properties":{"a":"41.557593","cty":"LACKAWANNA","id":8830901,"mun":"SCOTT TWP","nc":2,"o":"-75.573681"},"type":"Feature"},
-{"geometry":{"coordinates":[-74.905443,41.457685],"type":"Point"},"properties":{"a":"41.457685","cty":"PIKE","id":8830902,"mun":"SHOHOLA TWP","nc":2,"o":"-74.905443"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.453874,41.366297],"type":"Point"},"properties":{"a":"41.366297","cty":"LACKAWANNA","id":8830904,"mun":"MADISON TWP","nc":4,"o":"-75.453874"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.304171,40.667373],"type":"Point"},"properties":{"a":"40.667373","cty":"NORTHAMPTON","id":8830911,"mun":"BETHLEHEM TWP","nc":3,"o":"-75.304171"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.387811,40.618048],"type":"Point"},"properties":{"a":"40.618048","cty":"LEHIGH","id":8830912,"mun":"BETHLEHEM","nc":16,"o":"-75.387811"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.408352,40.9882],"type":"Point"},"properties":{"a":"40.9882","cty":"COLUMBIA","id":8830918,"mun":"MAIN TWP","nc":2,"o":"-76.408352"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.631286,40.54508],"type":"Point"},"properties":{"a":"40.54508","cty":"LEHIGH","id":8830920,"mun":"UPPER MACUNGIE TWP","nc":17,"o":"-75.631286"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.631286,40.54508],"type":"Point"},"properties":{"a":"40.54508","cty":"LEHIGH","id":8830920,"mun":"UPPER MACUNGIE TWP","nc":17,"o":"-75.631286"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.038497,41.518023],"type":"Point"},"properties":{"a":"41.518023","cty":"PIKE","id":8830925,"mun":"LACKAWAXEN TWP","nc":2,"o":"-75.038497"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.829667,41.246527],"type":"Point"},"properties":{"a":"41.246527","cty":"LUZERNE","id":8830927,"mun":"PLAINS TWP","nc":8,"o":"-75.829667"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.31796,41.001013],"type":"Point"},"properties":{"a":"41.001013","cty":"COLUMBIA","id":8830929,"mun":"MIFFLIN TWP","nc":1,"o":"-76.31796"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.615041,40.968937],"type":"Point"},"properties":{"a":"40.968937","cty":"MONTOUR","id":8830931,"mun":"DANVILLE BORO","nc":1,"o":"-76.615041"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.591679,40.637847],"type":"Point"},"properties":{"a":"40.637847","cty":"LEHIGH","id":8830935,"mun":"NORTH WHITEHALL TWP","nc":7,"o":"-75.591679"},"type":"Feature"}
 ]}

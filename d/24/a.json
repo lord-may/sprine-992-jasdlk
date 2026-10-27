@@ -1,11 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.343279,41.859571],"type":"Point"},"properties":{"a":"41.859571","cty":"PROVIDENCE","id":20261068465,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.343279"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.309853,41.500084],"type":"Point"},"properties":{"a":"41.500084","cty":"NEWPORT","id":20261068488,"mun":"NEWPORT","nc":26,"o":"-71.309853"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.236543,41.700767],"type":"Point"},"properties":{"a":"41.700767","cty":"BRISTOL","id":20261068528,"mun":"WARREN","nc":13,"o":"-71.236543"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.777612,41.345982],"type":"Point"},"properties":{"a":"41.345982","cty":"WASHINGTON","id":20261068533,"mun":"WESTERLY","nc":1,"o":"-71.777612"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.404684,41.934134],"type":"Point"},"properties":{"a":"41.934134","cty":"PROVIDENCE","id":20261068538,"mun":"CUMBERLAND","nc":1,"o":"-71.404684"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.477472,41.935548],"type":"Point"},"properties":{"a":"41.935548","cty":"PROVIDENCE","id":20261068541,"mun":"LINCOLN","nc":1,"o":"-71.477472"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.433376,41.801877],"type":"Point"},"properties":{"a":"41.801877","cty":"PROVIDENCE","id":20261068544,"mun":"PROVIDENCE","nc":1,"o":"-71.433376"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.51865,41.7608],"type":"Point"},"properties":{"a":"41.7608","cty":"PROVIDENCE","hp":true,"id":20261068546,"mun":"CRANSTON","nc":4,"ne":{"a":"41.76158","o":"-71.5179"},"o":"-71.51865","sw":{"a":"41.76003","o":"-71.5194"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.508123,42.010717],"type":"Point"},"properties":{"a":"42.010717","cty":"PROVIDENCE","id":20261068548,"mun":"WOONSOCKET","nc":1,"o":"-71.508123"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.668485,41.57817],"type":"Point"},"properties":{"a":"41.57817","cty":"WASHINGTON","id":20261068552,"mun":"EXETER","nc":1,"o":"-71.668485"},"type":"Feature"}
 ]}
