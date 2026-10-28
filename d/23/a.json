@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.54378,41.267257],"type":"Point"},"properties":{"a":"41.267257","cty":"LYCOMING","id":8831173,"mun":"FRANKLIN TWP","nc":1,"o":"-76.54378"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.82467,40.28121],"type":"Point"},"properties":{"a":"40.28121","cty":"DAUPHIN","hp":true,"id":8831175,"mun":"SUSQUEHANNA TWP","nc":17,"ne":{"a":"40.28203","o":"-76.82294"},"o":"-76.82467","sw":{"a":"40.2804","o":"-76.8264"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.123092,40.008602],"type":"Point"},"properties":{"a":"40.008602","cty":"LANCASTER","id":8831176,"mun":"PARADISE TWP","nc":9,"o":"-76.123092"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.82467,40.28121],"type":"Point"},"properties":{"a":"40.28121","cty":"DAUPHIN","hp":true,"id":8831175,"mun":"SUSQUEHANNA TWP","nc":17,"ne":{"a":"40.28203","o":"-76.82294"},"o":"-76.82467","sw":{"a":"40.2804","o":"-76.8264"}},"type":"Feature"}
 ]}
