@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.897325,43.786481],"type":"Point"},"properties":{"EstRest":"10/27/2026 9:30:00 PM","Outages":1,"cause":"","county":"CUMBERLAND","crewstatus":"ONST ","customers":2,"hamlet":"HARPSWELL","incidentnumber":"00451O","incidents":1,"level":"street","opco":"CMP","street":"RIDLEY COVE RD","town":"HARPSWELL"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.897325,43.786481],"type":"Point"},"properties":{"EstRest":"10/27/2026 9:30:00 PM","Outages":1,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+
 ]}
