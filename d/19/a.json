@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.544953,42.882417],"type":"Point"},"properties":{"EstRest":"10/28/2026 9:15:00 PM","Outages":1,"cause":"","county":"CAYUGA","crewstatus":"DISP ","customers":265,"hamlet":"AUBURN","incidentnumber":"0118IO","incidents":1,"level":"street","opco":"NYSEG","street":"W LAKE RD","town":"FLEMING T"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.544953,42.882417],"type":"Point"},"properties":{"EstRest":"10/28/2026 9:15:00 PM","Outages":1,"county":"CAYUGA","customers":32356,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.544953,42.882417],"type":"Point"},"properties":{"EstRest":"10/28/2026 9:15:00 PM","Outages":1,"county":"CAYUGA","customers":32356,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-74.732788,42.356135],"type":"Point"},"properties":{"EstRest":"10/28/2026 11:00:00 PM","Outages":4,"cause":"","county":"DELAWARE","crewstatus":"DISP ","customers":69,"hamlet":"SOUTH KORTRIGHT","incidentnumber":"0118J5","incidents":1,"level":"street","opco":"NYSEG","street":"BETTY BROOK RD","town":"KORTRIGHT T"},"type":"Feature"},
+{"geometry":{"coordinates":[-74.732788,42.356135],"type":"Point"},"properties":{"EstRest":"10/28/2026 11:00:00 PM","Outages":4,"county":"DELAWARE","customers":28314,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}

@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.26416,41.36672],"type":"Point"},"properties":{"a":"41.36672","cty":"PIKE","hp":true,"id":8831537,"mun":"PALMYRA TWP","nc":191,"ne":{"a":"41.37056","o":"-75.25835"},"o":"-75.26416","sw":{"a":"41.36287","o":"-75.26997"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.019678,41.49958],"type":"Point"},"properties":{"a":"41.49958","cty":"PIKE","id":8831545,"mun":"LACKAWAXEN TWP","nc":2,"o":"-75.019678"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.211281,41.161976],"type":"Point"},"properties":{"a":"41.161976","cty":"MONROE","id":8831549,"mun":"PRICE TWP","nc":2,"o":"-75.211281"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.319913,41.124763],"type":"Point"},"properties":{"a":"41.124763","cty":"MONROE","id":8831566,"mun":"PARADISE TWP","nc":1,"o":"-75.319913"},"type":"Feature"}
 ]}
