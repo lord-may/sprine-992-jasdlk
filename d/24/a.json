@@ -1,5 +1,8 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.655828,41.913622],"type":"Point"},"properties":{"a":"41.913622","cty":"PROVIDENCE","id":20261068675,"mun":"GLOCESTER","nc":12,"o":"-71.655828"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.431661,41.823639],"type":"Point"},"properties":{"a":"41.823639","cty":"PROVIDENCE","id":20261068687,"mun":"PROVIDENCE","nc":37,"o":"-71.431661"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.708544,41.437665],"type":"Point"},"properties":{"a":"41.437665","cty":"WASHINGTON","id":20261068688,"mun":"RICHMOND","nc":7,"o":"-71.708544"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.708544,41.437665],"type":"Point"},"properties":{"a":"41.437665","cty":"WASHINGTON","id":20261068688,"mun":"RICHMOND","nc":7,"o":"-71.708544"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.51869,41.69304],"type":"Point"},"properties":{"a":"41.69304","cty":"KENT","hp":true,"id":20261068691,"mun":"WEST WARWICK","nc":163,"ne":{"a":"41.6954","o":"-71.51696"},"o":"-71.51869","sw":{"a":"41.69067","o":"-71.52043"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.185671,41.665752],"type":"Point"},"properties":{"a":"41.665752","cty":"NEWPORT","id":20261068693,"mun":"TIVERTON","nc":1,"o":"-71.185671"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.47543,41.972174],"type":"Point"},"properties":{"a":"41.972174","cty":"PROVIDENCE","id":20261068694,"mun":"LINCOLN","nc":1,"o":"-71.47543"},"type":"Feature"}
 ]}
