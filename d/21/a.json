@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.929962,44.515515],"type":"Point"},"properties":{"EstRest":"10/28/2026 2:00:00 AM","Outages":1,"cause":"","county":"KENNEBEC","crewstatus":"DISP ","customers":28,"hamlet":"ROME","incidentnumber":"004520","incidents":1,"level":"street","opco":"CMP","street":"WATSON POND RD","town":"ROME"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.929962,44.515515],"type":"Point"},"properties":{"EstRest":"10/28/2026 2:00:00 AM","Outages":1,"cause":"","county":"KENNEBEC","crewstatus":"ONST ","customers":28,"hamlet":"ROME","incidentnumber":"004520","incidents":1,"level":"street","opco":"CMP","street":"WATSON POND RD","town":"ROME"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.929962,44.515515],"type":"Point"},"properties":{"EstRest":"10/28/2026 2:00:00 AM","Outages":1,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
