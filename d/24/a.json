@@ -1,7 +1,8 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.431661,41.823639],"type":"Point"},"properties":{"a":"41.823639","cty":"PROVIDENCE","id":20261068687,"mun":"PROVIDENCE","nc":37,"o":"-71.431661"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.462266,41.649714],"type":"Point"},"properties":{"a":"41.649714","cty":"KENT","id":20261068715,"mun":"EAST GREENWICH","nc":9,"o":"-71.462266"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.30617,41.496019],"type":"Point"},"properties":{"a":"41.496019","cty":"NEWPORT","id":20261068719,"mun":"NEWPORT","nc":31,"o":"-71.30617"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.401634,41.708873],"type":"Point"},"properties":{"a":"41.708873","cty":"KENT","id":20261068737,"mun":"WARWICK","nc":4,"o":"-71.401634"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.40408,41.709584],"type":"Point"},"properties":{"a":"41.709584","cty":"KENT","id":20261068741,"mun":"WARWICK","nc":1,"o":"-71.40408"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.315413,41.492097],"type":"Point"},"properties":{"a":"41.492097","cty":"NEWPORT","id":20261068743,"mun":"NEWPORT","nc":19,"o":"-71.315413"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.315518,41.493097],"type":"Point"},"properties":{"a":"41.493097","cty":"NEWPORT","id":20261068745,"mun":"NEWPORT","nc":26,"o":"-71.315518"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.315227,41.491552],"type":"Point"},"properties":{"a":"41.491552","cty":"NEWPORT","id":20261068746,"mun":"NEWPORT","nc":1,"o":"-71.315227"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.311608,41.495066],"type":"Point"},"properties":{"a":"41.495066","cty":"NEWPORT","id":20261068747,"mun":"NEWPORT","nc":31,"o":"-71.311608"},"type":"Feature"}
 ]}
