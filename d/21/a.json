@@ -7,5 +7,5 @@
 {"geometry":{"coordinates":[-70.410819,44.270782],"type":"Point"},"properties":{"EstRest":"10/28/2026 4:15:00 PM","Outages":2,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.798756,43.887051],"type":"Point"},"properties":{"EstRest":"10/28/2026 3:45:00 PM","Outages":7,"county":"SAGADAHOC","customers":23026,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.80065,43.8856],"type":"Point"},"properties":{"EstRest":"10/28/2026 3:45:00 PM","Outages":5,"cause":"","county":"SAGADAHOC","crewstatus":"ENRT ","customers":5,"hamlet":"ARROWSIC","incidentnumber":"00455J","incidents":1,"level":"street","opco":"CMP","street":"MEADOW RD","town":"ARROWSIC"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.940493,43.336605],"type":"Point"},"properties":{"EstRest":"10/28/2026 3:45:00 PM","Outages":88,"county":"YORK","customers":132723,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.940493,43.336605],"type":"Point"},"properties":{"EstRest":"10/28/2026 5:00:00 PM","Outages":88,"county":"YORK","customers":132723,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
