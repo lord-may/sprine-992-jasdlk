@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-69.858709,44.647263],"type":"Point"},"properties":{"EstRest":"10/27/2026 11:30:00 PM","Outages":1,"cause":"","county":"SOMERSET","crewstatus":"DISP ","customers":39,"hamlet":"SMITHFIELD","incidentnumber":"00451X","incidents":1,"level":"street","opco":"CMP","street":"N SHORE DR","town":"SMITHFIELD"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.858709,44.647263],"type":"Point"},"properties":{"EstRest":"10/27/2026 11:30:00 PM","Outages":1,"county":"SOMERSET","customers":31730,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.847032,43.304099],"type":"Point"},"properties":{"EstRest":"10/27/2026 11:15:00 PM","Outages":1,"cause":"","county":"YORK","crewstatus":"     ","customers":112,"hamlet":"BERWICK","incidentnumber":"00451W","incidents":1,"level":"street","opco":"CMP","street":"CRANBERRY MEADOW RD","town":"BERWICK"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.847032,43.304099],"type":"Point"},"properties":{"EstRest":"10/27/2026 11:15:00 PM","Outages":1,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
