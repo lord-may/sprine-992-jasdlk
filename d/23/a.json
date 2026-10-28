@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.370658,40.574358],"type":"Point"},"properties":{"a":"40.574358","cty":"NORTHAMPTON","id":8831172,"mun":"LOWER SAUCON TWP","nc":3,"o":"-75.370658"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.547024,41.264894],"type":"Point"},"properties":{"a":"41.264894","cty":"LYCOMING","id":8831173,"mun":"FRANKLIN TWP","nc":6,"o":"-76.547024"},"type":"Feature"}
 ]}
