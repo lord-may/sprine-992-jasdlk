@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.490518,40.992168],"type":"Point"},"properties":{"a":"40.992168","cty":"MONROE","id":8831135,"mun":"TUNKHANNOCK TWP","nc":1,"o":"-75.490518"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.655846,41.391288],"type":"Point"},"properties":{"a":"41.391288","cty":"LACKAWANNA","id":8831136,"mun":"SCRANTON","nc":9,"o":"-75.655846"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.652142,41.40352],"type":"Point"},"properties":{"a":"41.40352","cty":"LACKAWANNA","id":8831138,"mun":"SCRANTON","nc":1,"o":"-75.652142"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.4282,41.49635],"type":"Point"},"properties":{"a":"41.49635","cty":"WAYNE","hp":true,"id":8831145,"mun":"SOUTH CANAAN TWP","nc":13,"ne":{"a":"41.49815","o":"-75.42627"},"o":"-75.4282","sw":{"a":"41.49455","o":"-75.43013"}},"type":"Feature"}
 ]}
