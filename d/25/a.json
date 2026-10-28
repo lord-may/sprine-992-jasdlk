@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-73.1643,44.45419],"type":"Point"},"properties":{"active":true,"affectingCustomers":true,"cause":0,"county":"Chittenden","crew_name":"","customers_affected":80,"customers_affected_label":"80 Customers","device":"FUSE","has_etor":0,"incident_id":1016716,"status":"CREATED","street":"HINESBURG RD","town":"South Burlington","trouble":"NO_POWER"},"type":"Feature"}
+{"geometry":{"coordinates":[-73.1643,44.45419],"type":"Point"},"properties":{"active":true,"affectingCustomers":true,"cause":0,"county":"Chittenden","crew_name":",COLC-CARDINALCOLC-JENKINS","customers_affected":80,"customers_affected_label":"80 Customers","device":"FUSE","etor":"2026-10-28T22:00-04:00","has_etor":1,"incident_id":1016716,"status":"CREW_ASSIGNED","street":"HINESBURG RD","town":"South Burlington","trouble":"NO_POWER"},"type":"Feature"}
 ]}
