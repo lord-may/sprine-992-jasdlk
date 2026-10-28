@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.544953,42.882417],"type":"Point"},"properties":{"EstRest":"10/28/2026 9:15:00 PM","Outages":1,"cause":"","county":"CAYUGA","crewstatus":"DISP ","customers":265,"hamlet":"AUBURN","incidentnumber":"0118IO","incidents":1,"level":"street","opco":"NYSEG","street":"W LAKE RD","town":"FLEMING T"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.544953,42.882417],"type":"Point"},"properties":{"EstRest":"10/28/2026 9:15:00 PM","Outages":1,"county":"CAYUGA","customers":32356,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.60685,42.146208],"type":"Point"},"properties":{"EstRest":"10/28/2026 8:45:00 PM","Outages":9,"county":"COLUMBIA","customers":15380,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.608046,42.144789],"type":"Point"},"properties":{"EstRest":"10/28/2026 8:45:00 PM","Outages":8,"cause":"","county":"COLUMBIA","crewstatus":"DISP ","customers":28,"hamlet":"CRARYVILLE","incidentnumber":"0118IB","incidents":1,"level":"street","opco":"NYSEG","street":"GOLF COURSE RD","town":"COPAKE T"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.544953,42.882417],"type":"Point"},"properties":{"EstRest":"10/28/2026 9:15:00 PM","Outages":1,"county":"CAYUGA","customers":32356,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
