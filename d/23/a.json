@@ -1,11 +1,10 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.362292,40.643218],"type":"Point"},"properties":{"a":"40.643218","cty":"NORTHAMPTON","id":8831328,"mun":"BETHLEHEM","nc":6,"o":"-75.362292"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.406934,41.007958],"type":"Point"},"properties":{"a":"41.007958","cty":"COLUMBIA","id":8831368,"mun":"SCOTT TWP","nc":1,"o":"-76.406934"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.607514,40.855747],"type":"Point"},"properties":{"a":"40.855747","cty":"CARBON","id":8831451,"mun":"TOWAMENSING TWP","nc":1,"o":"-75.607514"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.130309,39.738427],"type":"Point"},"properties":{"a":"39.738427","cty":"LANCASTER","id":8831494,"mun":"FULTON TWP","nc":1,"o":"-76.130309"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.308722,40.661171],"type":"Point"},"properties":{"a":"40.661171","cty":"NORTHAMPTON","id":8831505,"mun":"BETHLEHEM TWP","nc":1,"o":"-75.308722"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.351903,40.646242],"type":"Point"},"properties":{"a":"40.646242","cty":"NORTHAMPTON","id":8831506,"mun":"BETHLEHEM","nc":4,"o":"-75.351903"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.284205,41.395057],"type":"Point"},"properties":{"a":"41.395057","cty":"WAYNE","id":8831518,"mun":"PAUPACK TWP","nc":3,"o":"-75.284205"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.684288,41.404095],"type":"Point"},"properties":{"a":"41.404095","cty":"LACKAWANNA","id":8831519,"mun":"SCRANTON","nc":5,"o":"-75.684288"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.179625,40.246546],"type":"Point"},"properties":{"a":"40.246546","cty":"CUMBERLAND","id":8831523,"mun":"NORTH MIDDLETON TWP","nc":12,"o":"-77.179625"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.669247,41.394515],"type":"Point"},"properties":{"a":"41.394515","cty":"LACKAWANNA","id":8831525,"mun":"SCRANTON","nc":18,"o":"-75.669247"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.558848,41.170214],"type":"Point"},"properties":{"a":"41.170214","cty":"MONROE","id":8831529,"mun":"COOLBAUGH TWP","nc":3,"o":"-75.558848"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.26416,41.36672],"type":"Point"},"properties":{"a":"41.36672","cty":"PIKE","hp":true,"id":8831537,"mun":"PALMYRA TWP","nc":191,"ne":{"a":"41.37056","o":"-75.25835"},"o":"-75.26416","sw":{"a":"41.36287","o":"-75.26997"}},"type":"Feature"}
 ]}
