@@ -1,7 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-70.057035,44.135397],"type":"Point"},"properties":{"EstRest":"10/29/2026 12:00:00 AM","Outages":1,"cause":"Equipment Interruption","county":"ANDROSCOGGIN","crewstatus":"ONST ","customers":16,"hamlet":"WALES","incidentnumber":"00453P","incidents":1,"level":"street","opco":"CMP","street":"SCHOOL RD","town":"WALES"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.057035,44.135397],"type":"Point"},"properties":{"EstRest":"10/29/2026 12:00:00 AM","Outages":1,"county":"ANDROSCOGGIN","customers":59602,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[0,0],"type":"Point"},"properties":{"EstRest":"10/28/2026 6:15:00 PM","Outages":1,"cause":"","county":"KENNEBEC","crewstatus":"DISP ","customers":90,"hamlet":"AUGUSTA","incidentnumber":"00456A","incidents":1,"level":"street","opco":"CMP","street":"SPARROW DR","town":"AUGUSTA"},"type":"Feature"},
-{"geometry":{"coordinates":[0,0],"type":"Point"},"properties":{"EstRest":"10/28/2026 6:15:00 PM","Outages":1,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.715752,43.148348],"type":"Point"},"properties":{"EstRest":"10/28/2026 7:15:00 PM","Outages":6,"county":"YORK","customers":132723,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
