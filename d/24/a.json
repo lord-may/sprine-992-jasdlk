@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.655828,41.913622],"type":"Point"},"properties":{"a":"41.913622","cty":"PROVIDENCE","id":20261068675,"mun":"GLOCESTER","nc":12,"o":"-71.655828"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.364699,41.552492],"type":"Point"},"properties":{"a":"41.552492","cty":"NEWPORT","id":20261068681,"mun":"JAMESTOWN","nc":1,"o":"-71.364699"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.537115,41.679315],"type":"Point"},"properties":{"a":"41.679315","cty":"KENT","id":20261068683,"mun":"COVENTRY","nc":1,"o":"-71.537115"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.431661,41.823639],"type":"Point"},"properties":{"a":"41.823639","cty":"PROVIDENCE","id":20261068687,"mun":"PROVIDENCE","nc":37,"o":"-71.431661"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.708544,41.437665],"type":"Point"},"properties":{"a":"41.437665","cty":"WASHINGTON","id":20261068688,"mun":"RICHMOND","nc":7,"o":"-71.708544"},"type":"Feature"}
 ]}
