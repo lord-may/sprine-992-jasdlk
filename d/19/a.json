@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-78.698387,42.76898],"type":"Point"},"properties":{"EstRest":"10/28/2026 2:35:00 AM","Outages":6,"cause":"","county":"ERIE","crewstatus":"DISP ","customers":84,"hamlet":"ORCHARD PARK","incidentnumber":"01188K","incidents":1,"level":"street","opco":"NYSEG","street":"E QUAKER ST","town":"ORCHARD PAR T"},"type":"Feature"},
+{"geometry":{"coordinates":[-78.698387,42.76898],"type":"Point"},"properties":{"EstRest":"10/28/2026 2:35:00 AM","Outages":8,"county":"ERIE","customers":157686,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
