@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.601309,41.848119],"type":"Point"},"properties":{"a":"41.848119","cty":"PROVIDENCE","id":20261068667,"mun":"SCITUATE","nc":1,"o":"-71.601309"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.655828,41.913622],"type":"Point"},"properties":{"a":"41.913622","cty":"PROVIDENCE","id":20261068675,"mun":"GLOCESTER","nc":12,"o":"-71.655828"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.453687,41.826723],"type":"Point"},"properties":{"a":"41.826723","cty":"PROVIDENCE","id":20261068677,"mun":"PROVIDENCE","nc":1,"o":"-71.453687"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.364699,41.552492],"type":"Point"},"properties":{"a":"41.552492","cty":"NEWPORT","id":20261068681,"mun":"JAMESTOWN","nc":1,"o":"-71.364699"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.537115,41.679315],"type":"Point"},"properties":{"a":"41.679315","cty":"KENT","id":20261068683,"mun":"COVENTRY","nc":1,"o":"-71.537115"},"type":"Feature"}
 ]}
