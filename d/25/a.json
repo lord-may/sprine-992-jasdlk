@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-72.569146,44.253762],"type":"Point"},"properties":{"active":true,"affectingCustomers":true,"cause":0,"county":"Washington","crew_name":",MONT-JOHNSON","customers_affected":15,"customers_affected_label":"15 Customers","device":"TRANSFORMER","etor":"2026-10-28T18:00-04:00","has_etor":1,"incident_id":1016698,"status":"CREW_ASSIGNED","street":"FOSTER ST","town":"Montpelier","trouble":"NO_POWER"},"type":"Feature"},
-{"geometry":{"coordinates":[-72.186886,43.842621],"type":"Point"},"properties":{"active":true,"affectingCustomers":true,"cause":0,"county":"Orange","crew_name":",WRJ-LISTER","customers_affected":4,"customers_affected_label":"4 Customers","device":"FUSE","etor":"2026-10-28T17:00-04:00","has_etor":1,"incident_id":1016701,"status":"CREW_ASSIGNED","street":"CIDER MILL RD","town":"Thetford","trouble":"NO_POWER"},"type":"Feature"}
+
 ]}
