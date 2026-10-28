@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.601309,41.848119],"type":"Point"},"properties":{"a":"41.848119","cty":"PROVIDENCE","id":20261068667,"mun":"SCITUATE","nc":1,"o":"-71.601309"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.601309,41.848119],"type":"Point"},"properties":{"a":"41.848119","cty":"PROVIDENCE","id":20261068667,"mun":"SCITUATE","nc":1,"o":"-71.601309"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.357707,41.763649],"type":"Point"},"properties":{"a":"41.763649","cty":"PROVIDENCE","id":20261068674,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.357707"},"type":"Feature"}
 ]}

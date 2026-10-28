@@ -14,5 +14,13 @@
 {"geometry":{"coordinates":[-76.421116,40.129006],"type":"Point"},"properties":{"a":"40.129006","cty":"LANCASTER","id":8831226,"mun":"RAPHO TWP","nc":1,"o":"-76.421116"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.257131,40.755578],"type":"Point"},"properties":{"a":"40.755578","cty":"NORTHAMPTON","id":8831228,"mun":"STOCKERTON BORO","nc":8,"o":"-75.257131"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.774007,40.908194],"type":"Point"},"properties":{"a":"40.908194","cty":"NORTHUMBERLAND","id":8831229,"mun":"POINT TWP","nc":2,"o":"-76.774007"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.028388,40.164379],"type":"Point"},"properties":{"a":"40.164379","cty":"LANCASTER","id":8831230,"mun":"EAST EARL TWP","nc":1,"o":"-76.028388"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.028388,40.164379],"type":"Point"},"properties":{"a":"40.164379","cty":"LANCASTER","id":8831230,"mun":"EAST EARL TWP","nc":1,"o":"-76.028388"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.508436,40.415014],"type":"Point"},"properties":{"a":"40.415014","cty":"MONTGOMERY","id":8831231,"mun":"UPPER HANOVER TWP","nc":3,"o":"-75.508436"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.142635,40.36109],"type":"Point"},"properties":{"a":"40.36109","cty":"BERKS","id":8831233,"mun":"HEIDELBERG TWP","nc":1,"o":"-76.142635"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.764587,40.989032],"type":"Point"},"properties":{"a":"40.989032","cty":"MONTOUR","id":8831234,"mun":"LIBERTY TWP","nc":1,"o":"-76.764587"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.717081,41.380273],"type":"Point"},"properties":{"a":"41.380273","cty":"LACKAWANNA","id":8831240,"mun":"TAYLOR BORO","nc":9,"o":"-75.717081"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.802225,40.272491],"type":"Point"},"properties":{"a":"40.272491","cty":"DAUPHIN","id":8831241,"mun":"LOWER PAXTON TWP","nc":3,"o":"-76.802225"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.319157,41.419876],"type":"Point"},"properties":{"a":"41.419876","cty":"WAYNE","id":8831242,"mun":"SALEM TWP","nc":2,"o":"-75.319157"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.344201,40.64003],"type":"Point"},"properties":{"a":"40.64003","cty":"NORTHAMPTON","id":8831243,"mun":"BETHLEHEM","nc":17,"o":"-75.344201"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.695264,41.399183],"type":"Point"},"properties":{"a":"41.399183","cty":"LACKAWANNA","id":8831244,"mun":"TAYLOR BORO","nc":16,"o":"-75.695264"},"type":"Feature"}
 ]}
