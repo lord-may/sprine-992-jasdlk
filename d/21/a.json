@@ -1,5 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-70.057035,44.135397],"type":"Point"},"properties":{"EstRest":"10/29/2026 12:00:00 AM","Outages":1,"cause":"Equipment Interruption","county":"ANDROSCOGGIN","crewstatus":"ONST ","customers":16,"hamlet":"WALES","incidentnumber":"00453P","incidents":1,"level":"street","opco":"CMP","street":"SCHOOL RD","town":"WALES"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.057035,44.135397],"type":"Point"},"properties":{"EstRest":"10/29/2026 12:00:00 AM","Outages":1,"county":"ANDROSCOGGIN","customers":59602,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.173085,44.077774],"type":"Point"},"properties":{"EstRest":"10/28/2026 7:45:00 PM","Outages":2,"cause":"","county":"KNOX","crewstatus":"DISP ","customers":7,"hamlet":"THOMASTON","incidentnumber":"00456I","incidents":1,"level":"street","opco":"CMP","street":"FISH ST","town":"THOMASTON"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.173085,44.077774],"type":"Point"},"properties":{"EstRest":"10/28/2026 7:45:00 PM","Outages":5,"county":"KNOX","customers":27251,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.715752,43.148348],"type":"Point"},"properties":{"EstRest":"10/28/2026 7:15:00 PM","Outages":6,"county":"YORK","customers":132723,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
