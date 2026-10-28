@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-71.77197,42.55271],[-71.76927,42.55302],[-71.76753,42.55377],[-71.76776,42.55486],[-71.76999,42.55914],[-71.77136,42.559],[-71.77256,42.55863],[-71.77615,42.55617],[-71.77197,42.55271]]],"type":"Polygon"},{"coordinates":[-71.77143,42.55578],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"Vehicle Incident","ES-ES":"Incidente Con Un Vehículo","orig":"Vehicle"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Assigned","ES-ES":"Asignado","orig":"Assigned"},"cust_a":{"val":300},"etr":"2026-10-28T10:00:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-10-27T20:32:56Z","title":"Area Outage","town":"Leominster"},"type":"Feature"}
+
 ]}
