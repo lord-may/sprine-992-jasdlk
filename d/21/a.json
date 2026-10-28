@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-70.040184,44.179467],"type":"Point"},"properties":{"EstRest":"10/28/2026 9:00:00 AM","Outages":10,"cause":"","county":"ANDROSCOGGIN","crewstatus":"DISP ","customers":10,"hamlet":"WALES","incidentnumber":"004525","incidents":1,"level":"street","opco":"CMP","street":"STARLIGHT DR","town":"WALES"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.040794,44.186562],"type":"Point"},"properties":{"EstRest":"10/28/2026 9:00:00 AM","Outages":68,"county":"ANDROSCOGGIN","customers":59602,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.04016,44.18876],"type":"Point"},"properties":{"EstRest":"10/28/2026 9:00:00 AM","Outages":7,"cause":"","county":"KENNEBEC","crewstatus":"DISP ","customers":49,"hamlet":"MONMOUTH","incidentnumber":"004525","incidents":1,"level":"street","opco":"CMP","street":"WARREN RD","town":"MONMOUTH"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.04016,44.18876],"type":"Point"},"properties":{"EstRest":"10/28/2026 9:00:00 AM","Outages":7,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.896945,44.224924],"type":"Point"},"properties":{"EstRest":"10/28/2026 9:30:00 AM","Outages":8,"county":"KENNEBEC","customers":75925,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
