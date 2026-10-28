@@ -5,9 +5,8 @@
 {"geometry":{"coordinates":[-76.118217,40.343403],"type":"Point"},"properties":{"a":"40.343403","cty":"BERKS","id":8831359,"mun":"SOUTH HEIDELBERG TWP","nc":4,"o":"-76.118217"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.406934,41.007958],"type":"Point"},"properties":{"a":"41.007958","cty":"COLUMBIA","id":8831368,"mun":"SCOTT TWP","nc":1,"o":"-76.406934"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.961676,40.255655],"type":"Point"},"properties":{"a":"40.255655","cty":"CUMBERLAND","id":8831417,"mun":"HAMPDEN TWP","nc":5,"o":"-76.961676"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.595717,41.095413],"type":"Point"},"properties":{"a":"41.095413","cty":"MONROE","id":8831420,"mun":"TOBYHANNA TWP","nc":4,"o":"-75.595717"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.289961,41.657439],"type":"Point"},"properties":{"a":"41.657439","cty":"WAYNE","id":8831423,"mun":"DYBERRY TWP","nc":1,"o":"-75.289961"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.607514,40.855747],"type":"Point"},"properties":{"a":"40.855747","cty":"CARBON","id":8831451,"mun":"TOWAMENSING TWP","nc":1,"o":"-75.607514"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.326441,40.19992],"type":"Point"},"properties":{"a":"40.19992","cty":"CUMBERLAND","id":8831458,"mun":"WEST PENNSBORO TWP","nc":2,"o":"-77.326441"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.681283,41.410234],"type":"Point"},"properties":{"a":"41.410234","cty":"LACKAWANNA","id":8831486,"mun":"SCRANTON","nc":10,"o":"-75.681283"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.130309,39.738427],"type":"Point"},"properties":{"a":"39.738427","cty":"LANCASTER","id":8831494,"mun":"FULTON TWP","nc":1,"o":"-76.130309"},"type":"Feature"}
 ]}
