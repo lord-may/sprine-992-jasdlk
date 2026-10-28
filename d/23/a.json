@@ -5,5 +5,14 @@
 {"geometry":{"coordinates":[-76.257476,40.152922],"type":"Point"},"properties":{"a":"40.152922","cty":"LANCASTER","id":8831199,"mun":"WARWICK TWP","nc":1,"o":"-76.257476"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.819435,40.23789],"type":"Point"},"properties":{"a":"40.23789","cty":"DAUPHIN","id":8831200,"mun":"SWATARA TWP","nc":2,"o":"-76.819435"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.8697,40.83477],"type":"Point"},"properties":{"a":"40.83477","cty":"SNYDER","hp":true,"id":8831207,"mun":"MONROE TWP","nc":28,"ne":{"a":"40.83817","o":"-76.86817"},"o":"-76.8697","sw":{"a":"40.83136","o":"-76.87124"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.299089,41.045035],"type":"Point"},"properties":{"a":"41.045035","cty":"MONROE","id":8831213,"mun":"POCONO TWP","nc":3,"o":"-75.299089"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.299089,41.045035],"type":"Point"},"properties":{"a":"41.045035","cty":"MONROE","id":8831213,"mun":"POCONO TWP","nc":3,"o":"-75.299089"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.508162,40.415339],"type":"Point"},"properties":{"a":"40.415339","cty":"MONTGOMERY","id":8831215,"mun":"UPPER HANOVER TWP","nc":4,"o":"-75.508162"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.571146,40.54594],"type":"Point"},"properties":{"a":"40.54594","cty":"LEHIGH","id":8831217,"mun":"LOWER MACUNGIE TWP","nc":2,"o":"-75.571146"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.257998,40.755225],"type":"Point"},"properties":{"a":"40.755225","cty":"NORTHAMPTON","id":8831219,"mun":"STOCKERTON BORO","nc":4,"o":"-75.257998"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.472825,40.612435],"type":"Point"},"properties":{"a":"40.612435","cty":"LEHIGH","id":8831222,"mun":"ALLENTOWN","nc":1,"o":"-75.472825"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.119291,39.86474],"type":"Point"},"properties":{"a":"39.86474","cty":"LANCASTER","id":8831224,"mun":"COLERAIN TWP","nc":1,"o":"-76.119291"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.421116,40.129006],"type":"Point"},"properties":{"a":"40.129006","cty":"LANCASTER","id":8831226,"mun":"RAPHO TWP","nc":1,"o":"-76.421116"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.257131,40.755578],"type":"Point"},"properties":{"a":"40.755578","cty":"NORTHAMPTON","id":8831228,"mun":"STOCKERTON BORO","nc":8,"o":"-75.257131"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.774007,40.908194],"type":"Point"},"properties":{"a":"40.908194","cty":"NORTHUMBERLAND","id":8831229,"mun":"POINT TWP","nc":2,"o":"-76.774007"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.028388,40.164379],"type":"Point"},"properties":{"a":"40.164379","cty":"LANCASTER","id":8831230,"mun":"EAST EARL TWP","nc":1,"o":"-76.028388"},"type":"Feature"}
 ]}
