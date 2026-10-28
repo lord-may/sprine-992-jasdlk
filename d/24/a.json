@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.140891,41.492878],"type":"Point"},"properties":{"a":"41.492878","cty":"NEWPORT","id":20261068799,"mun":"LITTLE COMPTON","nc":1,"o":"-71.140891"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.140891,41.492878],"type":"Point"},"properties":{"a":"41.492878","cty":"NEWPORT","id":20261068799,"mun":"LITTLE COMPTON","nc":1,"o":"-71.140891"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.448731,41.859491],"type":"Point"},"properties":{"a":"41.859491","cty":"PROVIDENCE","id":20261068800,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.448731"},"type":"Feature"}
 ]}
