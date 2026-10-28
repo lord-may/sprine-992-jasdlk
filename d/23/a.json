@@ -9,6 +9,5 @@
 {"geometry":{"coordinates":[-75.289961,41.657439],"type":"Point"},"properties":{"a":"41.657439","cty":"WAYNE","id":8831423,"mun":"DYBERRY TWP","nc":1,"o":"-75.289961"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.607514,40.855747],"type":"Point"},"properties":{"a":"40.855747","cty":"CARBON","id":8831451,"mun":"TOWAMENSING TWP","nc":1,"o":"-75.607514"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.326441,40.19992],"type":"Point"},"properties":{"a":"40.19992","cty":"CUMBERLAND","id":8831458,"mun":"WEST PENNSBORO TWP","nc":2,"o":"-77.326441"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.29631,41.57425],"type":"Point"},"properties":{"a":"41.57425","cty":"WAYNE","hp":true,"id":8831473,"mun":"HONESDALE BORO","nc":570,"ne":{"a":"41.60231","o":"-75.26968"},"o":"-75.29631","sw":{"a":"41.54619","o":"-75.32293"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.280178,41.631125],"type":"Point"},"properties":{"a":"41.631125","cty":"WAYNE","id":8831476,"mun":"DYBERRY TWP","nc":1,"o":"-75.280178"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.681283,41.410234],"type":"Point"},"properties":{"a":"41.410234","cty":"LACKAWANNA","id":8831486,"mun":"SCRANTON","nc":10,"o":"-75.681283"},"type":"Feature"}
 ]}
