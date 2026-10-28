@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-77.34864,43.225832],"type":"Point"},"properties":{"EstRest":"10/28/2026 1:00:00 PM","Outages":5,"cause":"","county":"WAYNE","crewstatus":"     ","customers":254,"hamlet":"ONTARIO","incidentnumber":"0118BN","incidents":1,"level":"street","opco":"RGE","street":"ROUTE 104","town":"ONTARIO"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.34864,43.225832],"type":"Point"},"properties":{"EstRest":"10/28/2026 1:00:00 PM","Outages":5,"county":"WAYNE","customers":27029,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
