@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-73.95691,40.61678],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"NEW","cust_a":{"val":1},"etr":"2026-10-28T07:30:00-0400","outages":null,"reported_problem":"Partial Outage","title":"Outage Information"},"type":"Feature"}
+{"geometry":{"coordinates":[-73.95692,40.61682],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"DSP","cust_a":{"val":2},"etr":"2026-10-28T07:30:00-0400","outages":null,"reported_problem":null,"title":"Outage Information"},"type":"Feature"}
 ]}
