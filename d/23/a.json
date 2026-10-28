@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.4282,41.49635],"type":"Point"},"properties":{"a":"41.49635","cty":"WAYNE","hp":true,"id":8831145,"mun":"SOUTH CANAAN TWP","nc":13,"ne":{"a":"41.49815","o":"-75.42627"},"o":"-75.4282","sw":{"a":"41.49455","o":"-75.43013"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.433575,40.632594],"type":"Point"},"properties":{"a":"40.632594","cty":"LEHIGH","id":8831158,"mun":"ALLENTOWN","nc":8,"o":"-75.433575"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.123092,40.008602],"type":"Point"},"properties":{"a":"40.008602","cty":"LANCASTER","id":8831163,"mun":"PARADISE TWP","nc":9,"o":"-76.123092"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.123092,40.008602],"type":"Point"},"properties":{"a":"40.008602","cty":"LANCASTER","id":8831163,"mun":"PARADISE TWP","nc":9,"o":"-76.123092"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.23536,40.788039],"type":"Point"},"properties":{"a":"40.788039","cty":"SCHUYLKILL","id":8831164,"mun":"FRACKVILLE BORO","nc":1,"o":"-76.23536"},"type":"Feature"}
 ]}
