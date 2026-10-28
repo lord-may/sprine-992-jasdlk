@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-73.592945,42.150549],"type":"Point"},"properties":{"EstRest":"10/28/2026 9:45:00 AM","Outages":11,"cause":"","county":"COLUMBIA","crewstatus":"DISP ","customers":23,"hamlet":"CRARYVILLE","incidentnumber":"011894","incidents":1,"level":"street","opco":"NYSEG","street":"BIRCH HILL RD","town":"COPAKE T"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.593193,42.14969],"type":"Point"},"properties":{"EstRest":"10/28/2026 9:45:00 AM","Outages":32,"county":"COLUMBIA","customers":15380,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+{"geometry":{"coordinates":[-73.593193,42.14969],"type":"Point"},"properties":{"EstRest":"10/28/2026 9:45:00 AM","Outages":32,"county":"COLUMBIA","customers":15380,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.653588,42.523397],"type":"Point"},"properties":{"EstRest":"10/28/2026 11:15:00 AM","Outages":1,"cause":"","county":"TOMPKINS","crewstatus":"     ","customers":7,"hamlet":"TRUMANSBURG","incidentnumber":"01189F","incidents":1,"level":"street","opco":"NYSEG","street":"DURLING RD","town":"ULYSSES T"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.653588,42.523397],"type":"Point"},"properties":{"EstRest":"10/28/2026 11:15:00 AM","Outages":1,"county":"TOMPKINS","customers":49504,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
