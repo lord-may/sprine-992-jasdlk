@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-78.239402,42.598525],"type":"Point"},"properties":{"EstRest":"10/29/2026 5:00:00 PM","Outages":1,"cause":"","county":"WYOMING","crewstatus":"DISP ","customers":1,"hamlet":"BLISS","incidentnumber":"0118QM","incidents":1,"level":"street","opco":"RGE","street":"GARY RD","town":"EAGLE"},"type":"Feature"},
+{"geometry":{"coordinates":[-78.239402,42.598525],"type":"Point"},"properties":{"EstRest":"10/29/2026 5:00:00 PM","Outages":1,"county":"WYOMING","customers":1200,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
