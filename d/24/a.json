@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.249651,41.537609],"type":"Point"},"properties":{"a":"41.537609","cty":"NEWPORT","id":20261068831,"mun":"PORTSMOUTH","nc":9,"o":"-71.249651"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.249651,41.537609],"type":"Point"},"properties":{"a":"41.537609","cty":"NEWPORT","id":20261068831,"mun":"PORTSMOUTH","nc":9,"o":"-71.249651"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.399271,41.81991],"type":"Point"},"properties":{"a":"41.81991","cty":"PROVIDENCE","id":20261068857,"mun":"PROVIDENCE","nc":1,"o":"-71.399271"},"type":"Feature"}
 ]}
