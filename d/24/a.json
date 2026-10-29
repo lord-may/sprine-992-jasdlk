@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.700404,41.354722],"type":"Point"},"properties":{"a":"41.354722","cty":"WASHINGTON","id":20261068810,"mun":"CHARLESTOWN","nc":1,"o":"-71.700404"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.582678,41.998758],"type":"Point"},"properties":{"a":"41.998758","cty":"PROVIDENCE","id":20261068819,"mun":"NORTH SMITHFIELD","nc":1,"o":"-71.582678"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.700404,41.354722],"type":"Point"},"properties":{"a":"41.354722","cty":"WASHINGTON","id":20261068810,"mun":"CHARLESTOWN","nc":1,"o":"-71.700404"},"type":"Feature"}
 ]}
