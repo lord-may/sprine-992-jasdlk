@@ -3,6 +3,5 @@
 {"geometry":{"coordinates":[-69.957443,43.831681],"type":"Point"},"properties":{"EstRest":"","Outages":2,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.302861,44.838962],"type":"Point"},"properties":{"EstRest":"10/29/2026 2:30:00 PM","Outages":10,"county":"FRANKLIN","customers":24700,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.322164,44.83792],"type":"Point"},"properties":{"EstRest":"10/29/2026 2:30:00 PM","Outages":8,"cause":"","county":"FRANKLIN","crewstatus":"ONST ","customers":20,"hamlet":"PHILLIPS","incidentnumber":"0045AN","incidents":1,"level":"street","opco":"CMP","street":"PARLIN RD","town":"PHILLIPS"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.876887,43.421447],"type":"Point"},"properties":{"EstRest":"10/29/2026 1:30:00 PM","Outages":1,"cause":"","county":"YORK","crewstatus":"DISP ","customers":4,"hamlet":"LEBANON","incidentnumber":"0045A1","incidents":1,"level":"street","opco":"CMP","street":"MAGNUM LN","town":"LEBANON"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.876887,43.421447],"type":"Point"},"properties":{"EstRest":"10/29/2026 1:30:00 PM","Outages":1,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.876887,43.421447],"type":"Point"},"properties":{"EstRest":"10/29/2026 3:00:00 PM","Outages":2,"county":"YORK","customers":132723,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
