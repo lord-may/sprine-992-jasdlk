@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-78.09224,42.053759],"type":"Point"},"properties":{"EstRest":"10/29/2026 12:30:00 AM","Outages":1,"cause":"","county":"ALLEGANY","crewstatus":"ENRT ","customers":12,"hamlet":"BOLIVAR","incidentnumber":"0118JK","incidents":1,"level":"street","opco":"RGE","street":"CALIFORNIA HOL RD","town":"BOLIVAR"},"type":"Feature"},
+{"geometry":{"coordinates":[-78.09224,42.053759],"type":"Point"},"properties":{"EstRest":"10/29/2026 12:30:00 AM","Outages":1,"cause":"","county":"ALLEGANY","crewstatus":"ONST ","customers":12,"hamlet":"BOLIVAR","incidentnumber":"0118JK","incidents":1,"level":"street","opco":"RGE","street":"CALIFORNIA HOL RD","town":"BOLIVAR"},"type":"Feature"},
 {"geometry":{"coordinates":[-78.09224,42.053759],"type":"Point"},"properties":{"EstRest":"10/29/2026 12:30:00 AM","Outages":1,"county":"ALLEGANY","customers":11171,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
