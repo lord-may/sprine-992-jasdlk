@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.427827,42.646981],"type":"Point"},"properties":{"EstRest":"10/28/2026 11:45:00 PM","Outages":7,"cause":"","county":"ONTARIO","crewstatus":"     ","customers":7,"hamlet":"NAPLES","incidentnumber":"0118JI","incidents":1,"level":"street","opco":"NYSEG","street":"DAVIS RD","town":"NAPLES T"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.435505,42.647429],"type":"Point"},"properties":{"EstRest":"10/28/2026 11:45:00 PM","Outages":9,"county":"ONTARIO","customers":18381,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.427827,42.646981],"type":"Point"},"properties":{"EstRest":"10/28/2026 11:45:00 PM","Outages":7,"cause":"","county":"ONTARIO","crewstatus":"ENRT ","customers":7,"hamlet":"NAPLES","incidentnumber":"0118JI","incidents":1,"level":"street","opco":"NYSEG","street":"DAVIS RD","town":"NAPLES T"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.435505,42.647429],"type":"Point"},"properties":{"EstRest":"10/28/2026 11:45:00 PM","Outages":9,"county":"ONTARIO","customers":18381,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.256762,42.569612],"type":"Point"},"properties":{"EstRest":"10/29/2026 12:15:00 AM","Outages":23,"county":"OTSEGO","customers":25547,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.265076,42.581188],"type":"Point"},"properties":{"EstRest":"10/29/2026 12:15:00 AM","Outages":4,"cause":"","county":"OTSEGO","crewstatus":"DISP ","customers":4,"hamlet":"NEW BERLIN","incidentnumber":"0118JJ","incidents":1,"level":"street","opco":"NYSEG","street":"PINE TREE RD","town":"PITTSFIELD T"},"type":"Feature"}
 ]}
