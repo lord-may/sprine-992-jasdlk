@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.124928,40.908318],"type":"Point"},"properties":{"a":"40.908318","cty":"SCHUYLKILL","id":8831970,"mun":"EAST UNION TWP","nc":1,"o":"-76.124928"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.98933,40.68568],"type":"Point"},"properties":{"a":"40.68568","cty":"SCHUYLKILL","hp":true,"id":8831982,"mun":"EAST BRUNSWICK TWP","nc":876,"ne":{"a":"40.71474","o":"-75.92209"},"o":"-75.98933","sw":{"a":"40.65662","o":"-76.05657"}},"type":"Feature"},
-{"geometry":{"coordinates":[-74.92578,41.37002],"type":"Point"},"properties":{"a":"41.37002","cty":"PIKE","id":8831995,"mun":"DINGMAN TWP","nc":2,"o":"-74.92578"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.462689,41.398331],"type":"Point"},"properties":{"a":"41.398331","cty":"LACKAWANNA","id":8831996,"mun":"JEFFERSON TWP","nc":3,"o":"-75.462689"},"type":"Feature"}
 ]}
