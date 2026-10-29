@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.430488,40.624891],"type":"Point"},"properties":{"a":"40.624891","cty":"LEHIGH","id":8831668,"mun":"ALLENTOWN","nc":15,"o":"-75.430488"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.477087,41.251193],"type":"Point"},"properties":{"a":"41.251193","cty":"COLUMBIA","id":8831824,"mun":"JORDAN TWP","nc":1,"o":"-76.477087"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.47984,41.25436],"type":"Point"},"properties":{"a":"41.25436","cty":"LYCOMING","hp":true,"id":8831824,"mun":"JORDAN TWP","nc":10,"ne":{"a":"41.25784","o":"-76.47479"},"o":"-76.47984","sw":{"a":"41.25089","o":"-76.48489"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.59529,41.094961],"type":"Point"},"properties":{"a":"41.094961","cty":"MONROE","id":8831845,"mun":"TOBYHANNA TWP","nc":6,"o":"-75.59529"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.560075,40.595054],"type":"Point"},"properties":{"a":"40.595054","cty":"LEHIGH","id":8831878,"mun":"SOUTH WHITEHALL TWP","nc":1,"o":"-75.560075"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.460027,40.611799],"type":"Point"},"properties":{"a":"40.611799","cty":"LEHIGH","id":8831879,"mun":"ALLENTOWN","nc":1,"o":"-75.460027"},"type":"Feature"},
@@ -9,10 +9,7 @@
 {"geometry":{"coordinates":[-77.139994,40.686947],"type":"Point"},"properties":{"a":"40.686947","cty":"SNYDER","id":8831892,"mun":"WEST PERRY TWP","nc":2,"o":"-77.139994"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.8672,40.26304],"type":"Point"},"properties":{"a":"40.26304","cty":"DAUPHIN","hp":true,"id":8831899,"mun":"HARRISBURG","nc":803,"ne":{"a":"40.26551","o":"-76.86286"},"o":"-76.8672","sw":{"a":"40.26058","o":"-76.87153"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.614831,41.2097],"type":"Point"},"properties":{"a":"41.2097","cty":"LACKAWANNA","id":8831901,"mun":"THORNHURST TWP","nc":1,"o":"-75.614831"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.483952,41.253875],"type":"Point"},"properties":{"a":"41.253875","cty":"LYCOMING","id":8831914,"mun":"JORDAN TWP","nc":1,"o":"-76.483952"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.705329,41.499102],"type":"Point"},"properties":{"a":"41.499102","cty":"LACKAWANNA","id":8831915,"mun":"CLARKS SUMMIT BORO","nc":6,"o":"-75.705329"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.520247,41.117968],"type":"Point"},"properties":{"a":"41.117968","cty":"CLINTON","id":8831921,"mun":"BALD EAGLE TWP","nc":1,"o":"-77.520247"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.059128,41.288037],"type":"Point"},"properties":{"a":"41.288037","cty":"LYCOMING","id":8831926,"mun":"OLD LYCOMING TWP","nc":1,"o":"-77.059128"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.464716,40.581709],"type":"Point"},"properties":{"a":"40.581709","cty":"LEHIGH","id":8831927,"mun":"ALLENTOWN","nc":18,"o":"-75.464716"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.534966,40.582267],"type":"Point"},"properties":{"a":"40.582267","cty":"SCHUYLKILL","id":8831928,"mun":"PORTER TWP","nc":1,"o":"-76.534966"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.059128,41.288037],"type":"Point"},"properties":{"a":"41.288037","cty":"LYCOMING","id":8831926,"mun":"OLD LYCOMING TWP","nc":1,"o":"-77.059128"},"type":"Feature"}
 ]}
