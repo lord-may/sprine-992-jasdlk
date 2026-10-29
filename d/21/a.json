@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-69.957443,43.831681],"type":"Point"},"properties":{"EstRest":"10/29/2026 7:30:00 AM","Outages":2,"cause":"Equipment Interruption","county":"CUMBERLAND","crewstatus":"ONST ","customers":2,"hamlet":"HARPSWELL","incidentnumber":"004575","incidents":1,"level":"street","opco":"CMP","street":"SMOKEHOUSE RD","town":"HARPSWELL"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.957443,43.831681],"type":"Point"},"properties":{"EstRest":"10/29/2026 7:30:00 AM","Outages":2,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.957443,43.831681],"type":"Point"},"properties":{"EstRest":"10/29/2026 7:30:00 AM","Outages":2,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.449695,44.814174],"type":"Point"},"properties":{"EstRest":"10/29/2026 9:00:00 AM","Outages":12,"cause":"","county":"SOMERSET","crewstatus":"DISP ","customers":12,"hamlet":"PITTSFIELD","incidentnumber":"00457D","incidents":1,"level":"street","opco":"CMP","street":"POOLER RD","town":"PITTSFIELD"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.472035,44.817982],"type":"Point"},"properties":{"EstRest":"10/29/2026 9:00:00 AM","Outages":164,"county":"SOMERSET","customers":31730,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
