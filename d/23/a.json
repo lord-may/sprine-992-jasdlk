@@ -5,7 +5,5 @@
 {"geometry":{"coordinates":[-75.705329,41.499102],"type":"Point"},"properties":{"a":"41.499102","cty":"LACKAWANNA","id":8831915,"mun":"CLARKS SUMMIT BORO","nc":6,"o":"-75.705329"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.330559,41.053636],"type":"Point"},"properties":{"a":"41.053636","cty":"MONROE","id":8831949,"mun":"POCONO TWP","nc":2,"o":"-75.330559"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.665905,40.889121],"type":"Point"},"properties":{"a":"40.889121","cty":"CARBON","id":8831952,"mun":"PENN FOREST TWP","nc":1,"o":"-75.665905"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.867867,40.262427],"type":"Point"},"properties":{"a":"40.262427","cty":"DAUPHIN","id":8831958,"mun":"HARRISBURG","nc":40,"o":"-76.867867"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.868705,40.263198],"type":"Point"},"properties":{"a":"40.263198","cty":"DAUPHIN","id":8831959,"mun":"HARRISBURG","nc":4,"o":"-76.868705"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.867354,40.262363],"type":"Point"},"properties":{"a":"40.262363","cty":"DAUPHIN","id":8831960,"mun":"HARRISBURG","nc":1,"o":"-76.867354"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.604916,40.150204],"type":"Point"},"properties":{"a":"40.150204","cty":"LANCASTER","id":8831964,"mun":"ELIZABETHTOWN BORO","nc":17,"o":"-76.604916"},"type":"Feature"}
 ]}
