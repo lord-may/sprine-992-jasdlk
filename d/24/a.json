@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.513862,42.007195],"type":"Point"},"properties":{"a":"42.007195","cty":"PROVIDENCE","id":20261068951,"mun":"WOONSOCKET","nc":1,"o":"-71.513862"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.270682,41.731662],"type":"Point"},"properties":{"a":"41.731662","cty":"BRISTOL","id":20261068952,"mun":"WARREN","nc":1,"o":"-71.270682"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.363239,41.778201],"type":"Point"},"properties":{"a":"41.778201","cty":"PROVIDENCE","id":20261068953,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.363239"},"type":"Feature"}
 ]}
