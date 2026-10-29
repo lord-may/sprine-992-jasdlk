@@ -1,7 +1,8 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.47984,41.25436],"type":"Point"},"properties":{"a":"41.25436","cty":"LYCOMING","hp":true,"id":8831824,"mun":"JORDAN TWP","nc":10,"ne":{"a":"41.25784","o":"-76.47479"},"o":"-76.47984","sw":{"a":"41.25089","o":"-76.48489"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.614831,41.2097],"type":"Point"},"properties":{"a":"41.2097","cty":"LACKAWANNA","id":8831901,"mun":"THORNHURST TWP","nc":1,"o":"-75.614831"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.705329,41.499102],"type":"Point"},"properties":{"a":"41.499102","cty":"LACKAWANNA","id":8831915,"mun":"CLARKS SUMMIT BORO","nc":6,"o":"-75.705329"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.330559,41.053636],"type":"Point"},"properties":{"a":"41.053636","cty":"MONROE","id":8831949,"mun":"POCONO TWP","nc":2,"o":"-75.330559"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.192273,40.169047],"type":"Point"},"properties":{"a":"40.169047","cty":"LANCASTER","id":8831965,"mun":"EPHRATA TWP","nc":6,"o":"-76.192273"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.124928,40.908318],"type":"Point"},"properties":{"a":"40.908318","cty":"SCHUYLKILL","id":8831970,"mun":"EAST UNION TWP","nc":1,"o":"-76.124928"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.609304,40.698664],"type":"Point"},"properties":{"a":"40.698664","cty":"LEHIGH","id":8831972,"mun":"NORTH WHITEHALL TWP","nc":9,"o":"-75.609304"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.99106,40.68939],"type":"Point"},"properties":{"a":"40.68939","cty":"SCHUYLKILL","hp":true,"id":8831973,"mun":"EAST BRUNSWICK TWP","nc":583,"ne":{"a":"40.71474","o":"-75.92988"},"o":"-75.99106","sw":{"a":"40.66404","o":"-76.05224"}},"type":"Feature"}
 ]}
