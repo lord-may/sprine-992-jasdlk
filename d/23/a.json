@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.26416,41.36672],"type":"Point"},"properties":{"a":"41.36672","cty":"PIKE","hp":true,"id":8831537,"mun":"PALMYRA TWP","nc":191,"ne":{"a":"41.37056","o":"-75.25835"},"o":"-75.26416","sw":{"a":"41.36287","o":"-75.26997"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.667863,40.867626],"type":"Point"},"properties":{"a":"40.867626","cty":"NORTHUMBERLAND","id":8831581,"mun":"SNYDERTOWN BORO","nc":1,"o":"-76.667863"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.245448,41.427598],"type":"Point"},"properties":{"a":"41.427598","cty":"WAYNE","id":8831589,"mun":"PAUPACK TWP","nc":2,"o":"-75.245448"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.417376,40.907138],"type":"Point"},"properties":{"a":"40.907138","cty":"COLUMBIA","id":8831592,"mun":"LOCUST TWP","nc":1,"o":"-76.417376"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.245448,41.427598],"type":"Point"},"properties":{"a":"41.427598","cty":"WAYNE","id":8831589,"mun":"PAUPACK TWP","nc":2,"o":"-75.245448"},"type":"Feature"}
 ]}
