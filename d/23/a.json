@@ -17,14 +17,12 @@
 {"geometry":{"coordinates":[-76.757303,40.931039],"type":"Point"},"properties":{"a":"40.931039","cty":"NORTHUMBERLAND","id":8831680,"mun":"POINT TWP","nc":5,"o":"-76.757303"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.373354,40.610372],"type":"Point"},"properties":{"a":"40.610372","cty":"NORTHAMPTON","id":8831684,"mun":"BETHLEHEM","nc":13,"o":"-75.373354"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.431316,40.624812],"type":"Point"},"properties":{"a":"40.624812","cty":"LEHIGH","id":8831685,"mun":"ALLENTOWN","nc":15,"o":"-75.431316"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.968494,40.964007],"type":"Point"},"properties":{"a":"40.964007","cty":"LUZERNE","id":8831687,"mun":"HAZLETON","nc":27,"o":"-75.968494"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.44744,41.005491],"type":"Point"},"properties":{"a":"41.005491","cty":"COLUMBIA","id":8831702,"mun":"BLOOMSBURG","nc":12,"o":"-76.44744"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.196311,41.461058],"type":"Point"},"properties":{"a":"41.461058","cty":"WAYNE","id":8831703,"mun":"PAUPACK TWP","nc":2,"o":"-75.196311"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.7219,40.72037],"type":"Point"},"properties":{"a":"40.72037","cty":"NORTHUMBERLAND","hp":true,"id":8831706,"mun":"WASHINGTON TWP","nc":4,"ne":{"a":"40.72112","o":"-76.72065"},"o":"-76.7219","sw":{"a":"40.71962","o":"-76.72315"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.610113,41.470313],"type":"Point"},"properties":{"a":"41.470313","cty":"LACKAWANNA","id":8831707,"mun":"DICKSON CITY BORO","nc":4,"o":"-75.610113"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.361132,41.293421],"type":"Point"},"properties":{"a":"41.293421","cty":"WAYNE","id":8831709,"mun":"DREHER TWP","nc":2,"o":"-75.361132"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.632402,40.547438],"type":"Point"},"properties":{"a":"40.547438","cty":"LEHIGH","id":8831711,"mun":"UPPER MACUNGIE TWP","nc":1,"o":"-75.632402"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.417167,40.167896],"type":"Point"},"properties":{"a":"40.167896","cty":"CUMBERLAND","id":8831712,"mun":"NORTH NEWTON TWP","nc":2,"o":"-77.417167"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.047621,40.942345],"type":"Point"},"properties":{"a":"40.942345","cty":"UNION","id":8831724,"mun":"WEST BUFFALO TWP","nc":1,"o":"-77.047621"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.457445,40.980502],"type":"Point"},"properties":{"a":"40.980502","cty":"MONROE","id":8831725,"mun":"CHESTNUT HILL TWP","nc":1,"o":"-75.457445"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.825789,41.314356],"type":"Point"},"properties":{"a":"41.314356","cty":"LUZERNE","id":8831727,"mun":"EXETER BORO","nc":13,"o":"-75.825789"},"type":"Feature"},
@@ -41,5 +39,9 @@
 {"geometry":{"coordinates":[-75.525406,41.054429],"type":"Point"},"properties":{"a":"41.054429","cty":"MONROE","id":8831772,"mun":"TUNKHANNOCK TWP","nc":2,"o":"-75.525406"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.153857,40.990189],"type":"Point"},"properties":{"a":"40.990189","cty":"LUZERNE","id":8831773,"mun":"BLACK CREEK TWP","nc":1,"o":"-76.153857"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.355961,41.048934],"type":"Point"},"properties":{"a":"41.048934","cty":"COLUMBIA","id":8831774,"mun":"NORTH CENTRE TWP","nc":2,"o":"-76.355961"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.333201,40.324992],"type":"Point"},"properties":{"a":"40.324992","cty":"MONTGOMERY","id":8831775,"mun":"TELFORD BORO","nc":13,"o":"-75.333201"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.333201,40.324992],"type":"Point"},"properties":{"a":"40.324992","cty":"MONTGOMERY","id":8831775,"mun":"TELFORD BORO","nc":13,"o":"-75.333201"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.291419,40.16554],"type":"Point"},"properties":{"a":"40.16554","cty":"LANCASTER","id":8831778,"mun":"WARWICK TWP","nc":12,"o":"-76.291419"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.236241,40.855614],"type":"Point"},"properties":{"a":"40.855614","cty":"SCHUYLKILL","id":8831779,"mun":"UNION TWP","nc":3,"o":"-76.236241"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.040212,41.085403],"type":"Point"},"properties":{"a":"41.085403","cty":"LUZERNE","id":8831780,"mun":"DORRANCE TWP","nc":1,"o":"-76.040212"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.472085,40.651747],"type":"Point"},"properties":{"a":"40.651747","cty":"LEHIGH","id":8831781,"mun":"CATASAUQUA BORO","nc":19,"o":"-75.472085"},"type":"Feature"}
 ]}
