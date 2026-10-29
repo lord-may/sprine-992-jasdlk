@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.588725,43.137713],"type":"Point"},"properties":{"EstRest":"10/29/2026 5:30:00 AM","Outages":38,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":143,"hamlet":"ROCHESTER","incidentnumber":"0118KJ","incidents":1,"level":"street","opco":"RGE","street":"FIELD ST","town":"ROCHESTER"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.590355,43.138393],"type":"Point"},"properties":{"EstRest":"10/29/2026 5:30:00 AM","Outages":182,"county":"MONROE","customers":303507,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
+
 ]}
