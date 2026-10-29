@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.470584,43.68756],"type":"Point"},"properties":{"id":"594772","nbrOut":1,"timeOff":1793296721414},"type":"Feature"}
+{"geometry":{"coordinates":[-71.470584,43.68756],"type":"Point"},"properties":{"comment":"There is a crew enroute to the outage affecting your area. Estimated time of restoration is not yet available.","id":"594772","nbrOut":1,"timeOff":1793296721414},"type":"Feature"},
+{"geometry":{"geometries":[{"coordinates":[[[-71.493751,43.649547],[-71.49553,43.651094],[-71.495764,43.650789],[-71.495467,43.650399],[-71.494371,43.649814],[-71.493751,43.649547]]],"type":"Polygon"},{"coordinates":[-71.494982,43.650379],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"There is a crew enroute to the outage affecting your area. Estimated time of restoration is not yet available.","estimateTime":1793302200000,"id":"594773","nbrOut":10,"timeOff":1793296925243},"type":"Feature"},
+{"geometry":{"coordinates":[-71.299356,43.474078],"type":"Point"},"properties":{"comment":"There is a crew enroute to the outage affecting your area. Estimated time of restoration is not yet available.","id":"594774","nbrOut":1,"timeOff":1793297498966},"type":"Feature"}
 ]}
