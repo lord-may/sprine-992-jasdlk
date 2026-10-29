@@ -15,5 +15,15 @@
 {"geometry":{"coordinates":[-77.203335,40.804287],"type":"Point"},"properties":{"a":"40.804287","cty":"SNYDER","id":8831650,"mun":"ADAMS TWP","nc":9,"o":"-77.203335"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.805195,40.271235],"type":"Point"},"properties":{"a":"40.271235","cty":"DAUPHIN","id":8831651,"mun":"LOWER PAXTON TWP","nc":5,"o":"-76.805195"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.415714,40.631391],"type":"Point"},"properties":{"a":"40.631391","cty":"LEHIGH","id":8831652,"mun":"BETHLEHEM","nc":11,"o":"-75.415714"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.993325,41.246664],"type":"Point"},"properties":{"a":"41.246664","cty":"LYCOMING","id":8831655,"mun":"WILLIAMSPORT","nc":2,"o":"-76.993325"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.993325,41.246664],"type":"Point"},"properties":{"a":"41.246664","cty":"LYCOMING","id":8831655,"mun":"WILLIAMSPORT","nc":2,"o":"-76.993325"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.245076,41.051978],"type":"Point"},"properties":{"a":"41.051978","cty":"COLUMBIA","id":8831657,"mun":"BERWICK BORO","nc":7,"o":"-76.245076"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.305967,40.998185],"type":"Point"},"properties":{"a":"40.998185","cty":"COLUMBIA","id":8831658,"mun":"MIFFLIN TWP","nc":2,"o":"-76.305967"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.326308,40.653889],"type":"Point"},"properties":{"a":"40.653889","cty":"NORTHAMPTON","id":8831660,"mun":"BETHLEHEM TWP","nc":2,"o":"-75.326308"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.238454,41.056627],"type":"Point"},"properties":{"a":"41.056627","cty":"MONROE","id":8831662,"mun":"POCONO TWP","nc":1,"o":"-75.238454"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.20925,41.048256],"type":"Point"},"properties":{"a":"41.048256","cty":"CLINTON","id":8831663,"mun":"GREENE TWP","nc":5,"o":"-77.20925"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.098639,40.622247],"type":"Point"},"properties":{"a":"40.622247","cty":"SCHUYLKILL","id":8831664,"mun":"WEST BRUNSWICK TWP","nc":1,"o":"-76.098639"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.692179,41.394628],"type":"Point"},"properties":{"a":"41.394628","cty":"LACKAWANNA","id":8831665,"mun":"TAYLOR BORO","nc":1,"o":"-75.692179"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.135404,39.905143],"type":"Point"},"properties":{"a":"39.905143","cty":"LANCASTER","id":8831667,"mun":"EDEN TWP","nc":2,"o":"-76.135404"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.430488,40.624891],"type":"Point"},"properties":{"a":"40.624891","cty":"LEHIGH","id":8831668,"mun":"ALLENTOWN","nc":15,"o":"-75.430488"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.758282,41.042443],"type":"Point"},"properties":{"a":"41.042443","cty":"CARBON","id":8831669,"mun":"KIDDER TWP","nc":3,"o":"-75.758282"},"type":"Feature"}
 ]}
