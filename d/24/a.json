@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.249651,41.537609],"type":"Point"},"properties":{"a":"41.537609","cty":"NEWPORT","id":20261068831,"mun":"PORTSMOUTH","nc":9,"o":"-71.249651"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.399271,41.81991],"type":"Point"},"properties":{"a":"41.81991","cty":"PROVIDENCE","id":20261068857,"mun":"PROVIDENCE","nc":1,"o":"-71.399271"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.698155,41.890004],"type":"Point"},"properties":{"a":"41.890004","cty":"PROVIDENCE","id":20261068860,"mun":"GLOCESTER","nc":1,"o":"-71.698155"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.391643,41.85977],"type":"Point"},"properties":{"a":"41.85977","cty":"PROVIDENCE","id":20261068863,"mun":"PAWTUCKET","nc":1,"o":"-71.391643"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.387336,41.755173],"type":"Point"},"properties":{"a":"41.755173","cty":"KENT","id":20261068865,"mun":"WARWICK","nc":1,"o":"-71.387336"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.364233,41.787441],"type":"Point"},"properties":{"a":"41.787441","cty":"PROVIDENCE","id":20261068866,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.364233"},"type":"Feature"}
 ]}
