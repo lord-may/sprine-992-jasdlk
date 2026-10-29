@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.393812,41.863543],"type":"Point"},"properties":{"a":"41.863543","cty":"PROVIDENCE","id":20261068828,"mun":"PAWTUCKET","nc":1,"o":"-71.393812"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.249651,41.537609],"type":"Point"},"properties":{"a":"41.537609","cty":"NEWPORT","id":20261068831,"mun":"PORTSMOUTH","nc":9,"o":"-71.249651"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.480989,41.392065],"type":"Point"},"properties":{"a":"41.392065","cty":"WASHINGTON","id":20261068836,"mun":"NARRAGANSETT","nc":1,"o":"-71.480989"},"type":"Feature"}
 ]}
