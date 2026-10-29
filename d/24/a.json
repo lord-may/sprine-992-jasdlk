@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.249651,41.537609],"type":"Point"},"properties":{"a":"41.537609","cty":"NEWPORT","id":20261068831,"mun":"PORTSMOUTH","nc":9,"o":"-71.249651"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.315518,41.493097],"type":"Point"},"properties":{"a":"41.493097","cty":"NEWPORT","id":20261068841,"mun":"NEWPORT","nc":26,"o":"-71.315518"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.391927,41.82232],"type":"Point"},"properties":{"a":"41.82232","cty":"PROVIDENCE","id":20261068842,"mun":"PROVIDENCE","nc":66,"o":"-71.391927"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.315518,41.493097],"type":"Point"},"properties":{"a":"41.493097","cty":"NEWPORT","id":20261068849,"mun":"NEWPORT","nc":1,"o":"-71.315518"},"type":"Feature"}
 ]}
