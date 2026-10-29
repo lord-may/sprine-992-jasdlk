@@ -2,5 +2,6 @@
 {"geometry":{"coordinates":[-76.15794,40.092772],"type":"Point"},"properties":{"a":"40.092772","cty":"LANCASTER","id":8831613,"mun":"UPPER LEACOCK TWP","nc":19,"o":"-76.15794"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.069941,41.111704],"type":"Point"},"properties":{"a":"41.111704","cty":"LYCOMING","id":8831619,"mun":"WASHINGTON TWP","nc":1,"o":"-77.069941"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.359852,41.010093],"type":"Point"},"properties":{"a":"41.010093","cty":"MONROE","id":8831620,"mun":"JACKSON TWP","nc":1,"o":"-75.359852"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.064006,41.33847],"type":"Point"},"properties":{"a":"41.33847","cty":"PIKE","id":8831621,"mun":"BLOOMING GROVE TWP","nc":1,"o":"-75.064006"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.064006,41.33847],"type":"Point"},"properties":{"a":"41.33847","cty":"PIKE","id":8831621,"mun":"BLOOMING GROVE TWP","nc":1,"o":"-75.064006"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.599031,40.143813],"type":"Point"},"properties":{"a":"40.143813","cty":"LANCASTER","id":8831631,"mun":"ELIZABETHTOWN BORO","nc":3,"o":"-76.599031"},"type":"Feature"}
 ]}
