@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.249651,41.537609],"type":"Point"},"properties":{"a":"41.537609","cty":"NEWPORT","id":20261068831,"mun":"PORTSMOUTH","nc":9,"o":"-71.249651"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.391996,41.718448],"type":"Point"},"properties":{"a":"41.718448","cty":"KENT","id":20261068876,"mun":"WARWICK","nc":1,"o":"-71.391996"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.301097,41.524862],"type":"Point"},"properties":{"a":"41.524862","cty":"NEWPORT","id":20261068878,"mun":"MIDDLETOWN","nc":15,"o":"-71.301097"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.300429,41.525425],"type":"Point"},"properties":{"a":"41.525425","cty":"NEWPORT","id":20261068879,"mun":"MIDDLETOWN","nc":1,"o":"-71.300429"},"type":"Feature"}
 ]}
