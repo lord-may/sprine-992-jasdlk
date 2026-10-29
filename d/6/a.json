@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-76.22452,42.94734],"type":"Point"},"properties":{"cause":{"EN-US":"Under Investigation","ES-ES":"Bajo Investigación","orig":"Null"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Unassigned","ES-ES":"Sin Asignar","orig":"Unassigned"},"cust_a":{"mask":5,"val":4},"etr":"2026-10-29T12:45:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-10-29T09:10:03Z","title":"Area Outage","town":"Onondaga"},"type":"Feature"}
 ]}
