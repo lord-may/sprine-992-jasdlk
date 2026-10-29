@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.414421,43.833682],"type":"Point"},"properties":{"comment":"The outage affecting your area is caused by an Equipment Failure. Crews are on scene making repairs. Estimated time of restoration is 2:00 PM","estimateTime":1793296800000,"id":"594771","nbrOut":1,"timeOff":1793291044379},"type":"Feature"}
+
 ]}
