@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.306496,43.9027],"type":"Point"},"properties":{"EstRest":"10/29/2026 3:45:00 PM","Outages":3,"county":"CUMBERLAND","customers":182407,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.957443,43.831681],"type":"Point"},"properties":{"EstRest":"","Outages":2,"cause":"Equipment Interruption","county":"CUMBERLAND","crewstatus":"ONST ","customers":2,"hamlet":"HARPSWELL","incidentnumber":"004575","incidents":1,"level":"street","opco":"CMP","street":"SMOKEHOUSE RD","town":"HARPSWELL"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.957443,43.831681],"type":"Point"},"properties":{"EstRest":"","Outages":2,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.302872,44.468965],"type":"Point"},"properties":{"EstRest":"10/29/2026 4:00:00 PM","Outages":1,"cause":"","county":"OXFORD","crewstatus":"ENRT ","customers":59,"hamlet":"CANTON","incidentnumber":"0045B8","incidents":1,"level":"street","opco":"CMP","street":"CANTON POINT RD","town":"CANTON"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.302872,44.468965],"type":"Point"},"properties":{"EstRest":"10/29/2026 4:00:00 PM","Outages":1,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}

@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.300429,41.525425],"type":"Point"},"properties":{"a":"41.525425","cty":"NEWPORT","id":20261068879,"mun":"MIDDLETOWN","nc":1,"o":"-71.300429"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.423197,41.846577],"type":"Point"},"properties":{"a":"41.846577","cty":"PROVIDENCE","id":20261068911,"mun":"PROVIDENCE","nc":1,"o":"-71.423197"},"type":"Feature"}
+
 ]}
