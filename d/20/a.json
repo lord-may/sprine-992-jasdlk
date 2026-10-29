@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-78.186921,42.284438],"type":"Point"},"properties":{"EstRest":"10/29/2026 4:15:00 AM","Outages":1,"cause":"","county":"ALLEGANY","crewstatus":"     ","customers":21,"hamlet":"BELFAST","incidentnumber":"0118KB","incidents":1,"level":"street","opco":"RGE","street":"RAMSEY RD","town":"BELFAST"},"type":"Feature"},
-{"geometry":{"coordinates":[-78.186921,42.284438],"type":"Point"},"properties":{"EstRest":"10/29/2026 4:15:00 AM","Outages":1,"county":"ALLEGANY","customers":11171,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
+
 ]}

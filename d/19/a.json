@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.435505,42.647429],"type":"Point"},"properties":{"EstRest":"10/29/2026 2:15:00 AM","Outages":11,"county":"ONTARIO","customers":18381,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.467856,42.634921],"type":"Point"},"properties":{"EstRest":"10/29/2026 2:15:00 AM","Outages":2,"cause":"","county":"ONTARIO","crewstatus":"ENRT ","customers":64,"hamlet":"NAPLES","incidentnumber":"0118K5","incidents":1,"level":"street","opco":"NYSEG","street":"COUNTY ROAD 36","town":"NAPLES T"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.467856,42.634921],"type":"Point"},"properties":{"EstRest":"10/29/2026 2:15:00 AM","Outages":2,"county":"ONTARIO","customers":18381,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
