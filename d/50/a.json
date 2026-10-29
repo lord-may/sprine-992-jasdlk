@@ -10,5 +10,6 @@
 {"geometry":{"coordinates":[-70.893612,42.252789],"type":"Point"},"properties":{},"type":"Feature"},
 {"geometry":{"coordinates":[-70.893629,42.252692],"type":"Point"},"properties":{},"type":"Feature"},
 {"geometry":{"coordinates":[-70.893682,42.252366],"type":"Point"},"properties":{},"type":"Feature"},
-{"geometry":{"coordinates":[-70.893849,42.252909],"type":"Point"},"properties":{},"type":"Feature"}
+{"geometry":{"coordinates":[-70.893849,42.252909],"type":"Point"},"properties":{},"type":"Feature"},
+{"geometry":{"coordinates":[-70.893908,42.245217],"type":"Point"},"properties":{},"type":"Feature"}
 ]}
