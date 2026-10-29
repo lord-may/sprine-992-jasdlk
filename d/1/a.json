@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-73.72914,40.65426],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"NEW","cust_a":{"val":1},"etr":"ETR-NULL","outages":null,"reported_problem":"No Lights","title":"Outage Information"},"type":"Feature"},
 {"geometry":{"coordinates":[-73.76181,40.69107],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"DSP","cust_a":{"val":1},"etr":"2026-10-28T21:30:00-0400","outages":null,"reported_problem":"Partial Outage","title":"Outage Information"},"type":"Feature"},
 {"geometry":{"coordinates":[-73.86059,40.70616],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"DSP","cust_a":{"val":2},"etr":"2026-10-28T22:00:00-0400","outages":null,"reported_problem":"Burning Wires","title":"Outage Information"},"type":"Feature"},
 {"geometry":{"coordinates":[-73.97006,40.69441],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"DSP","cust_a":{"val":1},"etr":"2026-10-28T23:30:00-0400","outages":null,"reported_problem":"Partial Outage","title":"Outage Information"},"type":"Feature"},
