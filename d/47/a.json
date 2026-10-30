@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-67.285837,45.185452],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":25,"customersOutNow":25,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-30T07:47:03.17-04:00","outageName":"FUSE-948","outagePoint":{"lat":45.18545241310722,"lng":-67.2858374999997},"outageRecID":"2026-10-30-0480","outageStartTime":"2026-10-30T07:40:19-04:00","outageWorkStatus":"","streetsAffected":["MONROE ST","PRICE ST","PRICE ST APT 1","PRICE ST APT 2","PRICE ST APT 3","PRICE ST APT 4","PRICE ST APT 5","PRICE ST APT 6","PRICE ST APT 7","PRICE ST APT 8"],"verified":true},"type":"Feature"}
 ]}

@@ -4,5 +4,6 @@
 {"geometry":{"coordinates":[-75.308722,40.661171],"type":"Point"},"properties":{"a":"40.661171","cty":"NORTHAMPTON","id":8832037,"mun":"BETHLEHEM TWP","nc":1,"o":"-75.308722"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.17958,40.99164],"type":"Point"},"properties":{"a":"40.99164","cty":"MONROE","hp":true,"id":8832041,"mun":"EAST STROUDSBURG BORO","nc":11,"ne":{"a":"40.99236","o":"-75.17888"},"o":"-75.17958","sw":{"a":"40.99092","o":"-75.18027"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.740992,40.91602],"type":"Point"},"properties":{"a":"40.91602","cty":"NORTHUMBERLAND","id":8832043,"mun":"POINT TWP","nc":1,"o":"-76.740992"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.24779,41.425727],"type":"Point"},"properties":{"a":"41.425727","cty":"WAYNE","id":8832045,"mun":"PAUPACK TWP","nc":4,"o":"-75.24779"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.24779,41.425727],"type":"Point"},"properties":{"a":"41.425727","cty":"WAYNE","id":8832045,"mun":"PAUPACK TWP","nc":4,"o":"-75.24779"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.28554,41.02262],"type":"Point"},"properties":{"a":"41.02262","cty":"MONROE","hp":true,"id":8832047,"mun":"POCONO TWP","nc":47,"ne":{"a":"41.02535","o":"-75.28328"},"o":"-75.28554","sw":{"a":"41.01989","o":"-75.2878"}},"type":"Feature"}
 ]}

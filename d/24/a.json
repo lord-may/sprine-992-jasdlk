@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.283094,41.729531],"type":"Point"},"properties":{"a":"41.729531","cty":"BRISTOL","id":20261068975,"mun":"WARREN","nc":17,"o":"-71.283094"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.537575,41.373732],"type":"Point"},"properties":{"a":"41.373732","cty":"WASHINGTON","id":20261068978,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.537575"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.414019,41.742027],"type":"Point"},"properties":{"a":"41.742027","cty":"KENT","id":20261068980,"mun":"WARWICK","nc":1,"o":"-71.414019"},"type":"Feature"}
 ]}
