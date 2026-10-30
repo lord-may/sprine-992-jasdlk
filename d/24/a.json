@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.537575,41.373732],"type":"Point"},"properties":{"a":"41.373732","cty":"WASHINGTON","id":20261068985,"mun":"SOUTH KINGSTOWN","nc":2,"o":"-71.537575"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.53033,41.69489],"type":"Point"},"properties":{"a":"41.69489","cty":"KENT","hp":true,"id":20261068988,"mun":"WEST WARWICK","nc":41,"ne":{"a":"41.69622","o":"-71.52959"},"o":"-71.53033","sw":{"a":"41.69356","o":"-71.53107"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.395489,41.836557],"type":"Point"},"properties":{"a":"41.836557","cty":"PROVIDENCE","id":20261068994,"mun":"PROVIDENCE","nc":1,"o":"-71.395489"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.333405,41.751469],"type":"Point"},"properties":{"a":"41.751469","cty":"BRISTOL","id":20261068995,"mun":"BARRINGTON","nc":1,"o":"-71.333405"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.53033,41.69489],"type":"Point"},"properties":{"a":"41.69489","cty":"KENT","hp":true,"id":20261068988,"mun":"WEST WARWICK","nc":41,"ne":{"a":"41.69622","o":"-71.52959"},"o":"-71.53033","sw":{"a":"41.69356","o":"-71.53107"}},"type":"Feature"}
 ]}
