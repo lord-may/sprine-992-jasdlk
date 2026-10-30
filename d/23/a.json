@@ -12,5 +12,7 @@
 {"geometry":{"coordinates":[-76.94209,40.54823],"type":"Point"},"properties":{"a":"40.54823","cty":"DAUPHIN","hp":true,"id":8832069,"mun":"UPPER PAXTON TWP","nc":50,"ne":{"a":"40.54976","o":"-76.93958"},"o":"-76.94209","sw":{"a":"40.5467","o":"-76.9446"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.578078,40.967486],"type":"Point"},"properties":{"a":"40.967486","cty":"MONTOUR","id":8832071,"mun":"MAHONING TWP","nc":39,"o":"-76.578078"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.30071,41.182846],"type":"Point"},"properties":{"a":"41.182846","cty":"CLINTON","id":8832072,"mun":"PINE CREEK TWP","nc":1,"o":"-77.30071"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.42347,40.644217],"type":"Point"},"properties":{"a":"40.644217","cty":"LEHIGH","id":8832073,"mun":"BETHLEHEM","nc":15,"o":"-75.42347"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.65097,40.93872],"type":"Point"},"properties":{"a":"40.93872","cty":"CARBON","hp":true,"id":8832075,"mun":"PENN FOREST TWP","nc":35,"ne":{"a":"40.94038","o":"-75.64745"},"o":"-75.65097","sw":{"a":"40.93707","o":"-75.65448"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.058296,39.901746],"type":"Point"},"properties":{"a":"39.901746","cty":"LANCASTER","id":8832076,"mun":"BART TWP","nc":2,"o":"-76.058296"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.322517,40.372704],"type":"Point"},"properties":{"a":"40.372704","cty":"BUCKS","id":8832081,"mun":"WEST ROCKHILL TWP","nc":3,"o":"-75.322517"},"type":"Feature"}
 ]}

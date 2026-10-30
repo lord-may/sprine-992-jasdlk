@@ -1,4 +1,8 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.40075,41.71762],"type":"Point"},"properties":{"a":"41.71762","cty":"KENT","id":20261068983,"mun":"WARWICK","nc":1,"o":"-71.40075"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.537575,41.373732],"type":"Point"},"properties":{"a":"41.373732","cty":"WASHINGTON","id":20261068985,"mun":"SOUTH KINGSTOWN","nc":2,"o":"-71.537575"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.537575,41.373732],"type":"Point"},"properties":{"a":"41.373732","cty":"WASHINGTON","id":20261068985,"mun":"SOUTH KINGSTOWN","nc":2,"o":"-71.537575"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.433077,41.472654],"type":"Point"},"properties":{"a":"41.472654","cty":"WASHINGTON","id":20261068986,"mun":"NARRAGANSETT","nc":1,"o":"-71.433077"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.53033,41.69489],"type":"Point"},"properties":{"a":"41.69489","cty":"KENT","hp":true,"id":20261068988,"mun":"WEST WARWICK","nc":41,"ne":{"a":"41.69622","o":"-71.52959"},"o":"-71.53033","sw":{"a":"41.69356","o":"-71.53107"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.526121,41.694505],"type":"Point"},"properties":{"a":"41.694505","cty":"KENT","id":20261068990,"mun":"WEST WARWICK","nc":1,"o":"-71.526121"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.462411,41.536908],"type":"Point"},"properties":{"a":"41.536908","cty":"WASHINGTON","id":20261068991,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.462411"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.395847,41.777434],"type":"Point"},"properties":{"a":"41.777434","cty":"PROVIDENCE","id":20261068992,"mun":"CRANSTON","nc":1,"o":"-71.395847"},"type":"Feature"}
 ]}

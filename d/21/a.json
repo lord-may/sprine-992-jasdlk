@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.673828,43.839482],"type":"Point"},"properties":{"EstRest":"10/30/2026 9:45:00 AM","Outages":1,"cause":"","county":"CUMBERLAND","crewstatus":"ACKN ","customers":48,"hamlet":"BALDWIN","incidentnumber":"0045CU","incidents":1,"level":"street","opco":"CMP","street":"BRIDGTON RD","town":"BALDWIN"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.673828,43.839482],"type":"Point"},"properties":{"EstRest":"10/30/2026 9:45:00 AM","Outages":1,"cause":"","county":"CUMBERLAND","crewstatus":"ENRT ","customers":48,"hamlet":"BALDWIN","incidentnumber":"0045CU","incidents":1,"level":"street","opco":"CMP","street":"BRIDGTON RD","town":"BALDWIN"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.673828,43.839482],"type":"Point"},"properties":{"EstRest":"10/30/2026 9:45:00 AM","Outages":1,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.915799,43.393247],"type":"Point"},"properties":{"EstRest":"10/30/2026 10:30:00 AM","Outages":80,"county":"YORK","customers":132723,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.874131,43.297862],"type":"Point"},"properties":{"EstRest":"10/30/2026 10:45:00 AM","Outages":81,"county":"YORK","customers":132723,"incidents":3,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
