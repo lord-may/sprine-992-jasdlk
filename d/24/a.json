@@ -2,5 +2,8 @@
 {"geometry":{"coordinates":[-71.537575,41.373732],"type":"Point"},"properties":{"a":"41.373732","cty":"WASHINGTON","id":20261068985,"mun":"SOUTH KINGSTOWN","nc":2,"o":"-71.537575"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.526752,41.450283],"type":"Point"},"properties":{"a":"41.450283","cty":"WASHINGTON","id":20261069032,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.526752"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.729952,41.522205],"type":"Point"},"properties":{"a":"41.522205","cty":"WASHINGTON","id":20261069034,"mun":"HOPKINTON","nc":5,"o":"-71.729952"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.4619,41.610095],"type":"Point"},"properties":{"a":"41.610095","cty":"WASHINGTON","id":20261069058,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.4619"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.4619,41.610095],"type":"Point"},"properties":{"a":"41.610095","cty":"WASHINGTON","id":20261069058,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.4619"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.578748,41.688323],"type":"Point"},"properties":{"a":"41.688323","cty":"KENT","id":20261069064,"mun":"COVENTRY","nc":1,"o":"-71.578748"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.375936,41.821818],"type":"Point"},"properties":{"a":"41.821818","cty":"PROVIDENCE","id":20261069065,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.375936"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.811893,41.360409],"type":"Point"},"properties":{"a":"41.360409","cty":"WASHINGTON","id":20261069067,"mun":"WESTERLY","nc":1,"o":"-71.811893"},"type":"Feature"}
 ]}

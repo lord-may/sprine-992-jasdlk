@@ -11,9 +11,7 @@
 {"geometry":{"coordinates":[-76.015055,40.062131],"type":"Point"},"properties":{"a":"40.062131","cty":"LANCASTER","id":8832147,"mun":"SALISBURY TWP","nc":1,"o":"-76.015055"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.570507,41.493771],"type":"Point"},"properties":{"a":"41.493771","cty":"LACKAWANNA","id":8832149,"mun":"ARCHBALD BORO","nc":2,"o":"-75.570507"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.44381,40.5724],"type":"Point"},"properties":{"a":"40.5724","cty":"JUNIATA","hp":true,"id":8832154,"mun":"MILFORD TWP","nc":7,"ne":{"a":"40.57372","o":"-77.43785"},"o":"-77.44381","sw":{"a":"40.57107","o":"-77.44976"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.35256,40.58773],"type":"Point"},"properties":{"a":"40.58773","cty":"NORTHAMPTON","hp":true,"id":8832161,"mun":"FREEMANSBURG BORO","nc":10,"ne":{"a":"40.62889","o":"-75.33793"},"o":"-76.35256","sw":{"a":"40.54657","o":"-77.36718"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.79156,40.28401],"type":"Point"},"properties":{"a":"40.28401","cty":"DAUPHIN","hp":true,"id":8832162,"mun":"LOWER PAXTON TWP","nc":147,"ne":{"a":"40.28476","o":"-76.78988"},"o":"-76.79156","sw":{"a":"40.28325","o":"-76.79325"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.004129,41.151494],"type":"Point"},"properties":{"a":"41.151494","cty":"LUZERNE","id":8832171,"mun":"SLOCUM TWP","nc":2,"o":"-76.004129"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.765741,40.919809],"type":"Point"},"properties":{"a":"40.919809","cty":"NORTHUMBERLAND","id":8832175,"mun":"POINT TWP","nc":4,"o":"-76.765741"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.54634,41.06736],"type":"Point"},"properties":{"a":"41.06736","cty":"COLUMBIA","hp":true,"id":8832187,"mun":"MADISON TWP","nc":10,"ne":{"a":"41.07101","o":"-76.54438"},"o":"-76.54634","sw":{"a":"41.0637","o":"-76.54829"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.344797,40.637958],"type":"Point"},"properties":{"a":"40.637958","cty":"NORTHAMPTON","id":8832191,"mun":"BETHLEHEM","nc":12,"o":"-75.344797"},"type":"Feature"},
@@ -21,6 +19,8 @@
 {"geometry":{"coordinates":[-75.277315,41.555215],"type":"Point"},"properties":{"a":"41.555215","cty":"WAYNE","id":8832195,"mun":"CHERRY RIDGE TWP","nc":1,"o":"-75.277315"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.551966,41.654163],"type":"Point"},"properties":{"a":"41.654163","cty":"SUSQUEHANNA","id":8832200,"mun":"CLIFFORD TWP","nc":7,"o":"-75.551966"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.806298,40.285857],"type":"Point"},"properties":{"a":"40.285857","cty":"DAUPHIN","id":8832205,"mun":"LOWER PAXTON TWP","nc":10,"o":"-76.806298"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.864586,40.258482],"type":"Point"},"properties":{"a":"40.258482","cty":"DAUPHIN","id":8832218,"mun":"HARRISBURG","nc":1,"o":"-76.864586"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.03477,41.480091],"type":"Point"},"properties":{"a":"41.480091","cty":"PIKE","id":8832219,"mun":"LACKAWAXEN TWP","nc":2,"o":"-75.03477"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.033089,41.479854],"type":"Point"},"properties":{"a":"41.479854","cty":"PIKE","id":8832219,"mun":"LACKAWAXEN TWP","nc":3,"o":"-75.033089"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.98849,41.13944],"type":"Point"},"properties":{"a":"41.13944","cty":"LUZERNE","hp":true,"id":8832225,"mun":"DORRANCE TWP","nc":50,"ne":{"a":"41.1454","o":"-75.9797"},"o":"-75.98849","sw":{"a":"41.13347","o":"-75.99728"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.35906,41.18822],"type":"Point"},"properties":{"a":"41.18822","cty":"MONROE","hp":true,"id":8832227,"mun":"COOLBAUGH TWP","nc":69,"ne":{"a":"41.19062","o":"-75.35704"},"o":"-75.35906","sw":{"a":"41.18582","o":"-75.36107"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.518341,40.577175],"type":"Point"},"properties":{"a":"40.577175","cty":"LEHIGH","id":8832231,"mun":"SOUTH WHITEHALL TWP","nc":5,"o":"-75.518341"},"type":"Feature"}
 ]}
