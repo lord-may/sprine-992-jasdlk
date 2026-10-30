@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.551966,41.654163],"type":"Point"},"properties":{"a":"41.654163","cty":"SUSQUEHANNA","id":8832200,"mun":"CLIFFORD TWP","nc":7,"o":"-75.551966"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.4043,41.33858],"type":"Point"},"properties":{"a":"41.33858","cty":"WAYNE","hp":true,"id":8832278,"mun":"STERLING TWP","nc":13,"ne":{"a":"41.33953","o":"-75.4003"},"o":"-75.4043","sw":{"a":"41.33764","o":"-75.40831"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.16538,41.61626],"type":"Point"},"properties":{"a":"41.61626","cty":"WAYNE","hp":true,"id":8832292,"mun":"BERLIN TWP","nc":6,"ne":{"a":"41.61834","o":"-75.16152"},"o":"-75.16538","sw":{"a":"41.61418","o":"-75.16923"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.158766,41.744857],"type":"Point"},"properties":{"a":"41.744857","cty":"WAYNE","id":8832302,"mun":"DAMASCUS TWP","nc":4,"o":"-75.158766"},"type":"Feature"},
@@ -10,6 +9,7 @@
 {"geometry":{"coordinates":[-75.203,41.526862],"type":"Point"},"properties":{"a":"41.526862","cty":"WAYNE","id":8832325,"mun":"TEXAS TWP","nc":1,"o":"-75.203"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.690699,40.756056],"type":"Point"},"properties":{"a":"40.756056","cty":"LEHIGH","id":8832327,"mun":"WASHINGTON TWP","nc":3,"o":"-75.690699"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.691788,40.760028],"type":"Point"},"properties":{"a":"40.760028","cty":"LEHIGH","id":8832332,"mun":"WASHINGTON TWP","nc":1,"o":"-75.691788"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.92157,40.93142],"type":"Point"},"properties":{"a":"40.93142","cty":"CARBON","id":8832336,"mun":"BANKS TWP","nc":1,"o":"-75.92157"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.557609,41.174985],"type":"Point"},"properties":{"a":"41.174985","cty":"MONROE","id":8832340,"mun":"COOLBAUGH TWP","nc":2,"o":"-75.557609"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.557609,41.174985],"type":"Point"},"properties":{"a":"41.174985","cty":"MONROE","id":8832340,"mun":"COOLBAUGH TWP","nc":2,"o":"-75.557609"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.459508,41.105419],"type":"Point"},"properties":{"a":"41.105419","cty":"MONROE","id":8832343,"mun":"TOBYHANNA TWP","nc":5,"o":"-75.459508"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.069656,40.281164],"type":"Point"},"properties":{"a":"40.281164","cty":"CUMBERLAND","id":8832346,"mun":"SILVER SPRING TWP","nc":1,"o":"-77.069656"},"type":"Feature"}
 ]}
