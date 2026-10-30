@@ -2,5 +2,11 @@
 {"geometry":{"coordinates":[-75.551966,41.654163],"type":"Point"},"properties":{"a":"41.654163","cty":"SUSQUEHANNA","id":8832200,"mun":"CLIFFORD TWP","nc":7,"o":"-75.551966"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.299369,41.025893],"type":"Point"},"properties":{"a":"41.025893","cty":"MONROE","id":8832276,"mun":"POCONO TWP","nc":1,"o":"-75.299369"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.4043,41.33858],"type":"Point"},"properties":{"a":"41.33858","cty":"WAYNE","hp":true,"id":8832278,"mun":"STERLING TWP","nc":13,"ne":{"a":"41.33953","o":"-75.4003"},"o":"-75.4043","sw":{"a":"41.33764","o":"-75.40831"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.166308,41.616643],"type":"Point"},"properties":{"a":"41.616643","cty":"WAYNE","id":8832292,"mun":"BERLIN TWP","nc":3,"o":"-75.166308"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.166308,41.616643],"type":"Point"},"properties":{"a":"41.616643","cty":"WAYNE","id":8832292,"mun":"BERLIN TWP","nc":3,"o":"-75.166308"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.299759,40.051766],"type":"Point"},"properties":{"a":"40.051766","cty":"LANCASTER","id":8832300,"mun":"LANCASTER","nc":1,"o":"-76.299759"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.158766,41.744857],"type":"Point"},"properties":{"a":"41.744857","cty":"WAYNE","id":8832302,"mun":"DAMASCUS TWP","nc":4,"o":"-75.158766"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.579685,40.853916],"type":"Point"},"properties":{"a":"40.853916","cty":"CARBON","id":8832304,"mun":"TOWAMENSING TWP","nc":2,"o":"-75.579685"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.25987,41.32528],"type":"Point"},"properties":{"a":"41.32528","cty":"PIKE","hp":true,"id":8832307,"mun":"GREENE TWP","nc":30,"ne":{"a":"41.33052","o":"-75.25302"},"o":"-75.25987","sw":{"a":"41.32004","o":"-75.26673"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.161522,41.614181],"type":"Point"},"properties":{"a":"41.614181","cty":"WAYNE","id":8832309,"mun":"BERLIN TWP","nc":1,"o":"-75.161522"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.869387,40.268223],"type":"Point"},"properties":{"a":"40.268223","cty":"DAUPHIN","id":8832310,"mun":"HARRISBURG","nc":1,"o":"-76.869387"},"type":"Feature"}
 ]}
