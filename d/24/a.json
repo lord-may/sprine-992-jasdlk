@@ -1,6 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.537575,41.373732],"type":"Point"},"properties":{"a":"41.373732","cty":"WASHINGTON","id":20261068985,"mun":"SOUTH KINGSTOWN","nc":2,"o":"-71.537575"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.242607,41.522658],"type":"Point"},"properties":{"a":"41.522658","cty":"NEWPORT","id":20261069001,"mun":"PORTSMOUTH","nc":1,"o":"-71.242607"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.456192,41.430381],"type":"Point"},"properties":{"a":"41.430381","cty":"WASHINGTON","id":20261069003,"mun":"NARRAGANSETT","nc":1,"o":"-71.456192"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.485076,41.711905],"type":"Point"},"properties":{"a":"41.711905","cty":"KENT","id":20261069004,"mun":"WARWICK","nc":1,"o":"-71.485076"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.485076,41.711905],"type":"Point"},"properties":{"a":"41.711905","cty":"KENT","id":20261069004,"mun":"WARWICK","nc":1,"o":"-71.485076"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.228801,41.641643],"type":"Point"},"properties":{"a":"41.641643","cty":"NEWPORT","id":20261069005,"mun":"PORTSMOUTH","nc":1,"o":"-71.228801"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.401405,41.929358],"type":"Point"},"properties":{"a":"41.929358","cty":"PROVIDENCE","id":20261069008,"mun":"CUMBERLAND","nc":1,"o":"-71.401405"},"type":"Feature"}
 ]}

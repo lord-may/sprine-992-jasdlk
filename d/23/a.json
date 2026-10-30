@@ -9,7 +9,6 @@
 {"geometry":{"coordinates":[-76.578078,40.967486],"type":"Point"},"properties":{"a":"40.967486","cty":"MONTOUR","id":8832071,"mun":"MAHONING TWP","nc":39,"o":"-76.578078"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.30071,41.182846],"type":"Point"},"properties":{"a":"41.182846","cty":"CLINTON","id":8832072,"mun":"PINE CREEK TWP","nc":1,"o":"-77.30071"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.65097,40.93872],"type":"Point"},"properties":{"a":"40.93872","cty":"CARBON","hp":true,"id":8832075,"mun":"PENN FOREST TWP","nc":35,"ne":{"a":"40.94038","o":"-75.64745"},"o":"-75.65097","sw":{"a":"40.93707","o":"-75.65448"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.058296,39.901746],"type":"Point"},"properties":{"a":"39.901746","cty":"LANCASTER","id":8832076,"mun":"BART TWP","nc":2,"o":"-76.058296"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.414746,40.632396],"type":"Point"},"properties":{"a":"40.632396","cty":"LEHIGH","id":8832084,"mun":"BETHLEHEM","nc":12,"o":"-75.414746"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.394697,40.56255],"type":"Point"},"properties":{"a":"40.56255","cty":"SCHUYLKILL","id":8832085,"mun":"PINE GROVE TWP","nc":10,"o":"-76.394697"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.277462,41.557082],"type":"Point"},"properties":{"a":"41.557082","cty":"WAYNE","id":8832089,"mun":"CHERRY RIDGE TWP","nc":2,"o":"-75.277462"},"type":"Feature"},
@@ -21,9 +20,12 @@
 {"geometry":{"coordinates":[-75.54264,41.49104],"type":"Point"},"properties":{"a":"41.49104","cty":"LACKAWANNA","hp":true,"id":8832105,"mun":"ARCHBALD BORO","nc":12,"ne":{"a":"41.49184","o":"-75.54192"},"o":"-75.54264","sw":{"a":"41.49025","o":"-75.54336"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.910319,41.231598],"type":"Point"},"properties":{"a":"41.231598","cty":"LUZERNE","id":8832106,"mun":"WILKES-BARRE","nc":16,"o":"-75.910319"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.39086,40.61811],"type":"Point"},"properties":{"a":"40.61811","cty":"LEHIGH","hp":true,"id":8832107,"mun":"BETHLEHEM","nc":28,"ne":{"a":"40.61901","o":"-75.39065"},"o":"-75.39086","sw":{"a":"40.61721","o":"-75.39107"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.982117,41.253234],"type":"Point"},"properties":{"a":"41.253234","cty":"LYCOMING","id":8832112,"mun":"LOYALSOCK TWP","nc":8,"o":"-76.982117"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.26773,41.67606],"type":"Point"},"properties":{"a":"41.67606","cty":"WAYNE","hp":true,"id":8832118,"mun":"LEBANON TWP","nc":55,"ne":{"a":"41.69004","o":"-75.25652"},"o":"-75.26773","sw":{"a":"41.66209","o":"-75.27895"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.579287,40.966748],"type":"Point"},"properties":{"a":"40.966748","cty":"MONTOUR","id":8832120,"mun":"MAHONING TWP","nc":20,"o":"-76.579287"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.569594,41.495409],"type":"Point"},"properties":{"a":"41.495409","cty":"LACKAWANNA","id":8832121,"mun":"ARCHBALD BORO","nc":2,"o":"-75.569594"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.578366,40.785782],"type":"Point"},"properties":{"a":"40.785782","cty":"NORTHUMBERLAND","id":8832124,"mun":"COAL TWP","nc":21,"o":"-76.578366"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.578366,40.785782],"type":"Point"},"properties":{"a":"40.785782","cty":"NORTHUMBERLAND","id":8832124,"mun":"COAL TWP","nc":21,"o":"-76.578366"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.104014,40.222842],"type":"Point"},"properties":{"a":"40.222842","cty":"LANCASTER","id":8832126,"mun":"EAST COCALICO TWP","nc":17,"o":"-76.104014"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.48878,41.00698],"type":"Point"},"properties":{"a":"41.00698","cty":"MONROE","hp":true,"id":8832129,"mun":"TUNKHANNOCK TWP","nc":28,"ne":{"a":"41.00793","o":"-75.4853"},"o":"-75.48878","sw":{"a":"41.00604","o":"-75.49225"}},"type":"Feature"},
+{"geometry":{"coordinates":[-77.047615,40.93946],"type":"Point"},"properties":{"a":"40.93946","cty":"UNION","id":8832131,"mun":"WEST BUFFALO TWP","nc":2,"o":"-77.047615"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.278563,40.719394],"type":"Point"},"properties":{"a":"40.719394","cty":"SCHUYLKILL","id":8832133,"mun":"CASS TWP","nc":13,"o":"-76.278563"},"type":"Feature"}
 ]}

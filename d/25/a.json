@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-72.879125,42.957985],"type":"Point"},"properties":{"active":true,"affectingCustomers":true,"cause":0,"county":"Windham","crew_name":",WILM-BUDROW","customers_affected":2,"customers_affected_label":"2 Customers","device":"SERVICE","etor":"2026-10-30T13:00-04:00","has_etor":1,"incident_id":1016894,"status":"CREW_ASSIGNED","street":"MOUNTAINVIEW LOOP","town":"Dover","trouble":"NO_POWER"},"type":"Feature"}
 ]}
