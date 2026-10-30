@@ -4,5 +4,5 @@
 {"geometry":{"coordinates":[-71.729952,41.522205],"type":"Point"},"properties":{"a":"41.522205","cty":"WASHINGTON","id":20261069034,"mun":"HOPKINTON","nc":5,"o":"-71.729952"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.527,41.91154],"type":"Point"},"properties":{"a":"41.91154","cty":"PROVIDENCE","hp":true,"id":20261069046,"mun":"SMITHFIELD","nc":26,"ne":{"a":"41.91362","o":"-71.52478"},"o":"-71.527","sw":{"a":"41.90946","o":"-71.52921"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.578748,41.688323],"type":"Point"},"properties":{"a":"41.688323","cty":"KENT","id":20261069049,"mun":"COVENTRY","nc":1,"o":"-71.578748"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.418162,41.805415],"type":"Point"},"properties":{"a":"41.805415","cty":"PROVIDENCE","id":20261069052,"mun":"PROVIDENCE","nc":1,"o":"-71.418162"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.514468,41.435278],"type":"Point"},"properties":{"a":"41.435278","cty":"WASHINGTON","id":20261069056,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.514468"},"type":"Feature"}
 ]}
