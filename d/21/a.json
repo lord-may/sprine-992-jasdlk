@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-68.913902,44.257257],"type":"Point"},"properties":{"EstRest":"10/29/2026 8:30:00 PM","Outages":1,"cause":"","county":"WALDO","crewstatus":"ENRT ","customers":5,"hamlet":"ISLESBORO","incidentnumber":"0045CD","incidents":1,"level":"street","opco":"CMP","street":"JETTY RD","town":"ISLESBORO"},"type":"Feature"},
-{"geometry":{"coordinates":[-68.913902,44.257257],"type":"Point"},"properties":{"EstRest":"10/29/2026 8:30:00 PM","Outages":1,"county":"WALDO","customers":26703,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-68.913902,44.257257],"type":"Point"},"properties":{"EstRest":"10/29/2026 10:30:00 PM","Outages":1,"cause":"","county":"WALDO","crewstatus":"ENRT ","customers":5,"hamlet":"ISLESBORO","incidentnumber":"0045CD","incidents":1,"level":"street","opco":"CMP","street":"JETTY RD","town":"ISLESBORO"},"type":"Feature"},
+{"geometry":{"coordinates":[-68.913902,44.257257],"type":"Point"},"properties":{"EstRest":"10/29/2026 10:30:00 PM","Outages":1,"county":"WALDO","customers":26703,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
