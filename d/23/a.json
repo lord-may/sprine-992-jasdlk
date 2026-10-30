@@ -4,11 +4,11 @@
 {"geometry":{"coordinates":[-75.25987,41.32528],"type":"Point"},"properties":{"a":"41.32528","cty":"PIKE","hp":true,"id":8832307,"mun":"GREENE TWP","nc":30,"ne":{"a":"41.33052","o":"-75.25302"},"o":"-75.25987","sw":{"a":"41.32004","o":"-75.26673"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.34327,40.16009],"type":"Point"},"properties":{"a":"40.16009","cty":"CUMBERLAND","hp":true,"id":8832319,"mun":"WEST PENNSBORO TWP","nc":8,"ne":{"a":"40.16134","o":"-77.34213"},"o":"-77.34327","sw":{"a":"40.15885","o":"-77.34441"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.203,41.526862],"type":"Point"},"properties":{"a":"41.526862","cty":"WAYNE","id":8832325,"mun":"TEXAS TWP","nc":1,"o":"-75.203"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.690699,40.756056],"type":"Point"},"properties":{"a":"40.756056","cty":"LEHIGH","id":8832327,"mun":"WASHINGTON TWP","nc":3,"o":"-75.690699"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.691788,40.760028],"type":"Point"},"properties":{"a":"40.760028","cty":"LEHIGH","id":8832332,"mun":"WASHINGTON TWP","nc":1,"o":"-75.691788"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.69273,40.75816],"type":"Point"},"properties":{"a":"40.75816","cty":"LEHIGH","hp":true,"id":8832327,"mun":"WASHINGTON TWP","nc":7,"ne":{"a":"40.76011","o":"-75.69016"},"o":"-75.69273","sw":{"a":"40.7562","o":"-75.69529"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.557609,41.174985],"type":"Point"},"properties":{"a":"41.174985","cty":"MONROE","id":8832340,"mun":"COOLBAUGH TWP","nc":2,"o":"-75.557609"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.459508,41.105419],"type":"Point"},"properties":{"a":"41.105419","cty":"MONROE","id":8832343,"mun":"TOBYHANNA TWP","nc":5,"o":"-75.459508"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.27785,41.09341],"type":"Point"},"properties":{"a":"41.09341","cty":"MONROE","hp":true,"id":8832350,"mun":"POCONO TWP","nc":41,"ne":{"a":"41.10074","o":"-75.26799"},"o":"-75.27785","sw":{"a":"41.08607","o":"-75.28771"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.846642,40.938357],"type":"Point"},"properties":{"a":"40.938357","cty":"CARBON","id":8832356,"mun":"PACKER TWP","nc":3,"o":"-75.846642"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.264573,40.451622],"type":"Point"},"properties":{"a":"40.451622","cty":"BUCKS","id":8832358,"mun":"HAYCOCK TWP","nc":1,"o":"-75.264573"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.779273,41.313055],"type":"Point"},"properties":{"a":"41.313055","cty":"LUZERNE","id":8832361,"mun":"PITTSTON TWP","nc":1,"o":"-75.779273"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.40752,41.093],"type":"Point"},"properties":{"a":"41.093","cty":"MONROE","hp":true,"id":8832363,"mun":"TOBYHANNA TWP","nc":64,"ne":{"a":"41.09572","o":"-75.40092"},"o":"-75.40752","sw":{"a":"41.09029","o":"-75.41412"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.46002,41.12514],"type":"Point"},"properties":{"a":"41.12514","cty":"MONROE","hp":true,"id":8832364,"mun":"TOBYHANNA TWP","nc":34,"ne":{"a":"41.12817","o":"-75.45806"},"o":"-75.46002","sw":{"a":"41.12212","o":"-75.46198"}},"type":"Feature"}
 ]}
