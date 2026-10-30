@@ -17,7 +17,6 @@
 {"geometry":{"coordinates":[-76.35256,40.58773],"type":"Point"},"properties":{"a":"40.58773","cty":"NORTHAMPTON","hp":true,"id":8832161,"mun":"FREEMANSBURG BORO","nc":10,"ne":{"a":"40.62889","o":"-75.33793"},"o":"-76.35256","sw":{"a":"40.54657","o":"-77.36718"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.79156,40.28401],"type":"Point"},"properties":{"a":"40.28401","cty":"DAUPHIN","hp":true,"id":8832162,"mun":"LOWER PAXTON TWP","nc":147,"ne":{"a":"40.28476","o":"-76.78988"},"o":"-76.79156","sw":{"a":"40.28325","o":"-76.79325"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.004129,41.151494],"type":"Point"},"properties":{"a":"41.151494","cty":"LUZERNE","id":8832171,"mun":"SLOCUM TWP","nc":2,"o":"-76.004129"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.577793,40.786315],"type":"Point"},"properties":{"a":"40.786315","cty":"NORTHUMBERLAND","id":8832172,"mun":"COAL TWP","nc":14,"o":"-76.577793"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.765741,40.919809],"type":"Point"},"properties":{"a":"40.919809","cty":"NORTHUMBERLAND","id":8832175,"mun":"POINT TWP","nc":4,"o":"-76.765741"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.525399,40.985702],"type":"Point"},"properties":{"a":"40.985702","cty":"CARBON","id":8832180,"mun":"PENN FOREST TWP","nc":4,"o":"-75.525399"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.395985,40.947051],"type":"Point"},"properties":{"a":"40.947051","cty":"MONROE","id":8832183,"mun":"CHESTNUT HILL TWP","nc":2,"o":"-75.395985"},"type":"Feature"},
@@ -25,5 +24,6 @@
 {"geometry":{"coordinates":[-75.344797,40.637958],"type":"Point"},"properties":{"a":"40.637958","cty":"NORTHAMPTON","id":8832191,"mun":"BETHLEHEM","nc":12,"o":"-75.344797"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.990183,41.140845],"type":"Point"},"properties":{"a":"41.140845","cty":"LUZERNE","id":8832194,"mun":"DORRANCE TWP","nc":2,"o":"-75.990183"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.277315,41.555215],"type":"Point"},"properties":{"a":"41.555215","cty":"WAYNE","id":8832195,"mun":"CHERRY RIDGE TWP","nc":1,"o":"-75.277315"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.305669,40.045896],"type":"Point"},"properties":{"a":"40.045896","cty":"LANCASTER","id":8832199,"mun":"LANCASTER","nc":1,"o":"-76.305669"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.551966,41.654163],"type":"Point"},"properties":{"a":"41.654163","cty":"SUSQUEHANNA","id":8832200,"mun":"CLIFFORD TWP","nc":7,"o":"-75.551966"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.534069,40.704937],"type":"Point"},"properties":{"a":"40.704937","cty":"LEHIGH","id":8832202,"mun":"NORTH WHITEHALL TWP","nc":4,"o":"-75.534069"},"type":"Feature"}
 ]}

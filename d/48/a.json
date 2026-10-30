@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-72.067991,41.523362],"type":"Point"},"properties":{"ADDRESS":"419 EAST MAIN ST, NORWICH, CT, 06360","CUSTOMER_COUNT":2,"DEVICE_OID":177057,"FACILITY_ID":null,"FEEDER_ID":"623","GDB_GEOMATTR_DATA":"","ID":45121,"INCIDENT_ID":50303,"OBJECTID":7861,"ORIG_FID":null,"REGION":1,"RxOID":177057,"TIME_OUTAGE":"10/21/2026 04:31 PM","TIME_RESTORED_EST":"Is still under review"},"type":"Feature"}
+
 ]}
