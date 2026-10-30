@@ -18,5 +18,9 @@
 {"geometry":{"coordinates":[-76.890883,40.978526],"type":"Point"},"properties":{"a":"40.978526","cty":"UNION","id":8832099,"mun":"KELLY TWP","nc":1,"o":"-76.890883"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.98165,41.25611],"type":"Point"},"properties":{"a":"41.25611","cty":"LYCOMING","hp":true,"id":8832100,"mun":"LOYALSOCK TWP","nc":141,"ne":{"a":"41.25849","o":"-76.97998"},"o":"-76.98165","sw":{"a":"41.25374","o":"-76.98332"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.216516,40.350664],"type":"Point"},"properties":{"a":"40.350664","cty":"BUCKS","id":8832101,"mun":"HILLTOWN TWP","nc":2,"o":"-75.216516"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.225486,40.347586],"type":"Point"},"properties":{"a":"40.347586","cty":"BUCKS","id":8832103,"mun":"HILLTOWN TWP","nc":2,"o":"-75.225486"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.225486,40.347586],"type":"Point"},"properties":{"a":"40.347586","cty":"BUCKS","id":8832103,"mun":"HILLTOWN TWP","nc":2,"o":"-75.225486"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.54264,41.49104],"type":"Point"},"properties":{"a":"41.49104","cty":"LACKAWANNA","hp":true,"id":8832105,"mun":"ARCHBALD BORO","nc":12,"ne":{"a":"41.49184","o":"-75.54192"},"o":"-75.54264","sw":{"a":"41.49025","o":"-75.54336"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.910319,41.231598],"type":"Point"},"properties":{"a":"41.231598","cty":"LUZERNE","id":8832106,"mun":"WILKES-BARRE","nc":16,"o":"-75.910319"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.39086,40.61811],"type":"Point"},"properties":{"a":"40.61811","cty":"LEHIGH","hp":true,"id":8832107,"mun":"BETHLEHEM","nc":28,"ne":{"a":"40.61901","o":"-75.39065"},"o":"-75.39086","sw":{"a":"40.61721","o":"-75.39107"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.982117,41.253234],"type":"Point"},"properties":{"a":"41.253234","cty":"LYCOMING","id":8832112,"mun":"LOYALSOCK TWP","nc":8,"o":"-76.982117"},"type":"Feature"}
 ]}
