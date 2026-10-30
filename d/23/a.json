@@ -12,8 +12,8 @@
 {"geometry":{"coordinates":[-75.201614,41.362372],"type":"Point"},"properties":{"a":"41.362372","cty":"PIKE","id":8832370,"mun":"PALMYRA TWP","nc":3,"o":"-75.201614"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.328026,40.519883],"type":"Point"},"properties":{"a":"40.519883","cty":"BUCKS","id":8832372,"mun":"SPRINGFIELD TWP","nc":1,"o":"-75.328026"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.272833,41.187988],"type":"Point"},"properties":{"a":"41.187988","cty":"MONROE","id":8832393,"mun":"BARRETT TWP","nc":3,"o":"-75.272833"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.375371,41.101025],"type":"Point"},"properties":{"a":"41.101025","cty":"COLUMBIA","id":8832396,"mun":"FISHING CREEK TWP","nc":3,"o":"-76.375371"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.23491,41.39019],"type":"Point"},"properties":{"a":"41.39019","cty":"PIKE","hp":true,"id":8832404,"mun":"PALMYRA TWP","nc":47,"ne":{"a":"41.3932","o":"-75.22772"},"o":"-75.23491","sw":{"a":"41.38718","o":"-75.24211"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.312859,41.102005],"type":"Point"},"properties":{"a":"41.102005","cty":"MONROE","id":8832408,"mun":"PARADISE TWP","nc":1,"o":"-75.312859"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.142401,40.596507],"type":"Point"},"properties":{"a":"40.596507","cty":"JUNIATA","id":8832409,"mun":"GREENWOOD TWP","nc":2,"o":"-77.142401"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.142401,40.596507],"type":"Point"},"properties":{"a":"40.596507","cty":"JUNIATA","id":8832409,"mun":"GREENWOOD TWP","nc":2,"o":"-77.142401"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.478183,41.253288],"type":"Point"},"properties":{"a":"41.253288","cty":"LACKAWANNA","id":8832412,"mun":"CLIFTON TWP","nc":4,"o":"-75.478183"},"type":"Feature"}
 ]}
