@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.98933,40.68568],"type":"Point"},"properties":{"a":"40.68568","cty":"SCHUYLKILL","hp":true,"id":8831982,"mun":"EAST BRUNSWICK TWP","nc":876,"ne":{"a":"40.71474","o":"-75.92209"},"o":"-75.98933","sw":{"a":"40.65662","o":"-76.05657"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.80623,40.54892],"type":"Point"},"properties":{"a":"40.54892","cty":"DAUPHIN","hp":true,"id":8832007,"mun":"WASHINGTON TWP","nc":33,"ne":{"a":"40.54991","o":"-76.80364"},"o":"-76.80623","sw":{"a":"40.54793","o":"-76.80882"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.394733,40.419104],"type":"Point"},"properties":{"a":"40.419104","cty":"BUCKS","id":8832010,"mun":"MILFORD TWP","nc":2,"o":"-75.394733"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.464716,40.581709],"type":"Point"},"properties":{"a":"40.581709","cty":"LEHIGH","id":8832014,"mun":"ALLENTOWN","nc":18,"o":"-75.464716"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.394733,40.419104],"type":"Point"},"properties":{"a":"40.419104","cty":"BUCKS","id":8832010,"mun":"MILFORD TWP","nc":2,"o":"-75.394733"},"type":"Feature"}
 ]}
