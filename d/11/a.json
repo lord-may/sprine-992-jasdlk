@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-73.57552,40.75439],"type":"Point"},"properties":{"cause":{"EN-US":"Damage to Utility Equipment","es-US":"Daño a equipo de servicios públicos","orig":"100102115"},"cluster":false,"comments":null,"crew_icon":true,"crew_status":{"EN-US":"Restoration in Progress","es-US":"Restauración en progreso","orig":"Cleared"},"cust_a":{"mask":5,"val":4},"etr":"ETR-NULL","etrRange":"Updating Estimate","etr_confidence":null,"id":"CN-BLUE-2005904325","inc_id":null,"n_out":1,"start_time":null,"title":"Area Outage"},"type":"Feature"}
+
 ]}
