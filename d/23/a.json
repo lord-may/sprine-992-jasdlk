@@ -3,7 +3,6 @@
 {"geometry":{"coordinates":[-76.085436,40.664161],"type":"Point"},"properties":{"a":"40.664161","cty":"SCHUYLKILL","id":8832036,"mun":"WEST BRUNSWICK TWP","nc":1,"o":"-76.085436"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.308722,40.661171],"type":"Point"},"properties":{"a":"40.661171","cty":"NORTHAMPTON","id":8832037,"mun":"BETHLEHEM TWP","nc":1,"o":"-75.308722"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.17958,40.99164],"type":"Point"},"properties":{"a":"40.99164","cty":"MONROE","hp":true,"id":8832041,"mun":"EAST STROUDSBURG BORO","nc":11,"ne":{"a":"40.99236","o":"-75.17888"},"o":"-75.17958","sw":{"a":"40.99092","o":"-75.18027"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.368987,40.43548],"type":"Point"},"properties":{"a":"40.43548","cty":"BUCKS","id":8832042,"mun":"MILFORD TWP","nc":6,"o":"-75.368987"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.740992,40.91602],"type":"Point"},"properties":{"a":"40.91602","cty":"NORTHUMBERLAND","id":8832043,"mun":"POINT TWP","nc":1,"o":"-76.740992"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.992895,40.315563],"type":"Point"},"properties":{"a":"40.315563","cty":"BERKS","id":8832044,"mun":"SPRING TWP","nc":2,"o":"-75.992895"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.24779,41.425727],"type":"Point"},"properties":{"a":"41.425727","cty":"WAYNE","id":8832045,"mun":"PAUPACK TWP","nc":4,"o":"-75.24779"},"type":"Feature"}
 ]}
