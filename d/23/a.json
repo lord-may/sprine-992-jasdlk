@@ -9,5 +9,7 @@
 {"geometry":{"coordinates":[-77.343261,40.160696],"type":"Point"},"properties":{"a":"40.160696","cty":"CUMBERLAND","id":8832319,"mun":"WEST PENNSBORO TWP","nc":2,"o":"-77.343261"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.139341,40.686227],"type":"Point"},"properties":{"a":"40.686227","cty":"SNYDER","id":8832320,"mun":"WEST PERRY TWP","nc":2,"o":"-77.139341"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.231496,40.464925],"type":"Point"},"properties":{"a":"40.464925","cty":"PERRY","id":8832321,"mun":"JUNIATA TWP","nc":3,"o":"-77.231496"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.20632,41.52294],"type":"Point"},"properties":{"a":"41.52294","cty":"WAYNE","hp":true,"id":8832325,"mun":"TEXAS TWP","nc":108,"ne":{"a":"41.5291","o":"-75.20163"},"o":"-75.20632","sw":{"a":"41.51678","o":"-75.21102"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.203,41.526862],"type":"Point"},"properties":{"a":"41.526862","cty":"WAYNE","id":8832325,"mun":"TEXAS TWP","nc":1,"o":"-75.203"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.690699,40.756056],"type":"Point"},"properties":{"a":"40.756056","cty":"LEHIGH","id":8832327,"mun":"WASHINGTON TWP","nc":3,"o":"-75.690699"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.691788,40.760028],"type":"Point"},"properties":{"a":"40.760028","cty":"LEHIGH","id":8832332,"mun":"WASHINGTON TWP","nc":1,"o":"-75.691788"},"type":"Feature"}
 ]}
