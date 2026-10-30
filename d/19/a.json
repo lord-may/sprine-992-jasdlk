@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-75.090173,42.168404],"type":"Point"},"properties":{"EstRest":"10/30/2026 5:00:00 AM","Outages":39,"cause":"","county":"DELAWARE","crewstatus":"DISP ","customers":47,"hamlet":"WALTON","incidentnumber":"0118TO","incidents":1,"level":"street","opco":"NYSEG","street":"MARVIN HOLLOW RD","town":"WALTON T"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.100358,42.163578],"type":"Point"},"properties":{"EstRest":"10/30/2026 5:00:00 AM","Outages":54,"county":"DELAWARE","customers":28314,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
