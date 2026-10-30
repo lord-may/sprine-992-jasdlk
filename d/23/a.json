@@ -13,6 +13,8 @@
 {"geometry":{"coordinates":[-75.201614,41.362372],"type":"Point"},"properties":{"a":"41.362372","cty":"PIKE","id":8832370,"mun":"PALMYRA TWP","nc":3,"o":"-75.201614"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.328026,40.519883],"type":"Point"},"properties":{"a":"40.519883","cty":"BUCKS","id":8832372,"mun":"SPRINGFIELD TWP","nc":1,"o":"-75.328026"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.272833,41.187988],"type":"Point"},"properties":{"a":"41.187988","cty":"MONROE","id":8832393,"mun":"BARRETT TWP","nc":3,"o":"-75.272833"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.36197,41.105547],"type":"Point"},"properties":{"a":"41.105547","cty":"COLUMBIA","id":8832395,"mun":"FISHING CREEK TWP","nc":2,"o":"-76.36197"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.375371,41.101025],"type":"Point"},"properties":{"a":"41.101025","cty":"COLUMBIA","id":8832396,"mun":"FISHING CREEK TWP","nc":3,"o":"-76.375371"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.375371,41.101025],"type":"Point"},"properties":{"a":"41.101025","cty":"COLUMBIA","id":8832396,"mun":"FISHING CREEK TWP","nc":3,"o":"-76.375371"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.351374,41.10873],"type":"Point"},"properties":{"a":"41.10873","cty":"COLUMBIA","id":8832401,"mun":"FISHING CREEK TWP","nc":2,"o":"-76.351374"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.360449,41.111723],"type":"Point"},"properties":{"a":"41.111723","cty":"COLUMBIA","id":8832403,"mun":"FISHING CREEK TWP","nc":2,"o":"-76.360449"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.23491,41.39019],"type":"Point"},"properties":{"a":"41.39019","cty":"PIKE","hp":true,"id":8832404,"mun":"PALMYRA TWP","nc":47,"ne":{"a":"41.3932","o":"-75.22772"},"o":"-75.23491","sw":{"a":"41.38718","o":"-75.24211"}},"type":"Feature"}
 ]}

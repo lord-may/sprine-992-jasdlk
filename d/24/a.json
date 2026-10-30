@@ -2,6 +2,5 @@
 {"geometry":{"coordinates":[-71.58194,41.57407],"type":"Point"},"properties":{"a":"41.57407","cty":"WASHINGTON","hp":true,"id":20261069152,"mun":"EXETER","nc":931,"ne":{"a":"41.60842","o":"-71.52981"},"o":"-71.58194","sw":{"a":"41.53972","o":"-71.63407"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.615794,41.539196],"type":"Point"},"properties":{"a":"41.539196","cty":"WASHINGTON","id":20261069169,"mun":"EXETER","nc":1,"o":"-71.615794"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.374656,41.4991],"type":"Point"},"properties":{"a":"41.4991","cty":"NEWPORT","id":20261069182,"mun":"JAMESTOWN","nc":1,"o":"-71.374656"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.494889,42.00873],"type":"Point"},"properties":{"a":"42.00873","cty":"PROVIDENCE","id":20261069183,"mun":"WOONSOCKET","nc":1,"o":"-71.494889"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.791598,41.425752],"type":"Point"},"properties":{"a":"41.425752","cty":"WASHINGTON","id":20261069184,"mun":"HOPKINTON","nc":1,"o":"-71.791598"},"type":"Feature"}
 ]}
