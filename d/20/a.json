@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-78.256492,42.381313],"type":"Point"},"properties":{"EstRest":"10/30/2026 6:00:00 AM","Outages":1,"cause":"","county":"ALLEGANY","crewstatus":"     ","customers":6,"hamlet":"RUSHFORD","incidentnumber":"0118TP","incidents":1,"level":"street","opco":"RGE","street":"HARDYS CORNERS RD","town":"RUSHFORD"},"type":"Feature"},
-{"geometry":{"coordinates":[-78.256492,42.381313],"type":"Point"},"properties":{"EstRest":"10/30/2026 6:00:00 AM","Outages":1,"county":"ALLEGANY","customers":11171,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.72202,43.288256],"type":"Point"},"properties":{"EstRest":"10/30/2026 6:00:00 AM","Outages":55,"county":"MONROE","customers":303507,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.729798,43.288892],"type":"Point"},"properties":{"EstRest":"10/30/2026 6:00:00 AM","Outages":45,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":45,"hamlet":"HILTON","incidentnumber":"0118TR","incidents":1,"level":"street","opco":"RGE","street":"HASKINS LA S","town":"GREECE"},"type":"Feature"}
 ]}
