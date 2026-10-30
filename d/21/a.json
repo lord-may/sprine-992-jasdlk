@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-70.187315,44.938638],"type":"Point"},"properties":{"EstRest":"10/30/2026 4:00:00 PM","Outages":2,"cause":"","county":"FRANKLIN","crewstatus":"ENRT ","customers":39,"hamlet":"KINGFIELD","incidentnumber":"0045F1","incidents":1,"level":"street","opco":"CMP","street":"SALEM RD","town":"KINGFIELD"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.187315,44.938638],"type":"Point"},"properties":{"EstRest":"10/30/2026 4:00:00 PM","Outages":2,"county":"FRANKLIN","customers":24700,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.242141,45.188296],"type":"Point"},"properties":{"EstRest":"10/30/2026 3:15:00 PM","Outages":6,"cause":"","county":"PISCATAQUIS","crewstatus":"ENRT ","customers":20,"hamlet":"DOVER-FOXCROFT","incidentnumber":"0045ES","incidents":1,"level":"street","opco":"CMP","street":"DWELLEY AVE","town":"DOVER-FOXCROFT"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.242141,45.188296],"type":"Point"},"properties":{"EstRest":"10/30/2026 3:15:00 PM","Outages":6,"county":"PISCATAQUIS","customers":10243,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.187315,44.938638],"type":"Point"},"properties":{"EstRest":"10/30/2026 4:00:00 PM","Outages":2,"county":"FRANKLIN","customers":24700,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
