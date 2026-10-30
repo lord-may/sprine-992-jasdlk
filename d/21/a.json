@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.892579,44.229994],"type":"Point"},"properties":{"EstRest":"10/29/2026 8:30:00 PM","Outages":1,"cause":"Equipment Interruption","county":"OXFORD","crewstatus":"DISP ","customers":3,"hamlet":"LOVELL","incidentnumber":"0045CE","incidents":1,"level":"street","opco":"CMP","street":"AYER LN","town":"LOVELL"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.892579,44.229994],"type":"Point"},"properties":{"EstRest":"10/29/2026 8:30:00 PM","Outages":1,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-68.913902,44.257257],"type":"Point"},"properties":{"EstRest":"10/29/2026 8:30:00 PM","Outages":1,"cause":"","county":"WALDO","crewstatus":"ENRT ","customers":5,"hamlet":"ISLESBORO","incidentnumber":"0045CD","incidents":1,"level":"street","opco":"CMP","street":"JETTY RD","town":"ISLESBORO"},"type":"Feature"},
 {"geometry":{"coordinates":[-68.913902,44.257257],"type":"Point"},"properties":{"EstRest":"10/29/2026 8:30:00 PM","Outages":1,"county":"WALDO","customers":26703,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
