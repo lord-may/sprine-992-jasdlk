@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.355989,41.214815],"type":"Point"},"properties":{"a":"41.214815","cty":"MONROE","id":8832035,"mun":"COOLBAUGH TWP","nc":1,"o":"-75.355989"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.17958,40.99164],"type":"Point"},"properties":{"a":"40.99164","cty":"MONROE","hp":true,"id":8832041,"mun":"EAST STROUDSBURG BORO","nc":11,"ne":{"a":"40.99236","o":"-75.17888"},"o":"-75.17958","sw":{"a":"40.99092","o":"-75.18027"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.61952,40.55722],"type":"Point"},"properties":{"a":"40.55722","cty":"LEHIGH","hp":true,"id":8832052,"mun":"UPPER MACUNGIE TWP","nc":10,"ne":{"a":"40.55828","o":"-75.61794"},"o":"-75.61952","sw":{"a":"40.55616","o":"-75.62109"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.427523,40.649279],"type":"Point"},"properties":{"a":"40.649279","cty":"LEHIGH","id":8832053,"mun":"BETHLEHEM","nc":1,"o":"-75.427523"},"type":"Feature"},
@@ -22,5 +21,9 @@
 {"geometry":{"coordinates":[-75.54264,41.49104],"type":"Point"},"properties":{"a":"41.49104","cty":"LACKAWANNA","hp":true,"id":8832105,"mun":"ARCHBALD BORO","nc":12,"ne":{"a":"41.49184","o":"-75.54192"},"o":"-75.54264","sw":{"a":"41.49025","o":"-75.54336"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.910319,41.231598],"type":"Point"},"properties":{"a":"41.231598","cty":"LUZERNE","id":8832106,"mun":"WILKES-BARRE","nc":16,"o":"-75.910319"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.39086,40.61811],"type":"Point"},"properties":{"a":"40.61811","cty":"LEHIGH","hp":true,"id":8832107,"mun":"BETHLEHEM","nc":28,"ne":{"a":"40.61901","o":"-75.39065"},"o":"-75.39086","sw":{"a":"40.61721","o":"-75.39107"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.982117,41.253234],"type":"Point"},"properties":{"a":"41.253234","cty":"LYCOMING","id":8832112,"mun":"LOYALSOCK TWP","nc":8,"o":"-76.982117"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.982117,41.253234],"type":"Point"},"properties":{"a":"41.253234","cty":"LYCOMING","id":8832112,"mun":"LOYALSOCK TWP","nc":8,"o":"-76.982117"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.26773,41.67606],"type":"Point"},"properties":{"a":"41.67606","cty":"WAYNE","hp":true,"id":8832118,"mun":"LEBANON TWP","nc":55,"ne":{"a":"41.69004","o":"-75.25652"},"o":"-75.26773","sw":{"a":"41.66209","o":"-75.27895"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.579287,40.966748],"type":"Point"},"properties":{"a":"40.966748","cty":"MONTOUR","id":8832120,"mun":"MAHONING TWP","nc":20,"o":"-76.579287"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.569594,41.495409],"type":"Point"},"properties":{"a":"41.495409","cty":"LACKAWANNA","id":8832121,"mun":"ARCHBALD BORO","nc":2,"o":"-75.569594"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.578366,40.785782],"type":"Point"},"properties":{"a":"40.785782","cty":"NORTHUMBERLAND","id":8832124,"mun":"COAL TWP","nc":21,"o":"-76.578366"},"type":"Feature"}
 ]}
