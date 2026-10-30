@@ -1,10 +1,9 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.537575,41.373732],"type":"Point"},"properties":{"a":"41.373732","cty":"WASHINGTON","id":20261068985,"mun":"SOUTH KINGSTOWN","nc":2,"o":"-71.537575"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.8245,41.379933],"type":"Point"},"properties":{"a":"41.379933","cty":"WASHINGTON","id":20261069020,"mun":"WESTERLY","nc":1,"o":"-71.8245"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.395847,41.777434],"type":"Point"},"properties":{"a":"41.777434","cty":"PROVIDENCE","id":20261069022,"mun":"CRANSTON","nc":1,"o":"-71.395847"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.428045,41.585765],"type":"Point"},"properties":{"a":"41.585765","cty":"WASHINGTON","id":20261069026,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.428045"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.578748,41.688323],"type":"Point"},"properties":{"a":"41.688323","cty":"KENT","id":20261069027,"mun":"COVENTRY","nc":1,"o":"-71.578748"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.55393,41.82142],"type":"Point"},"properties":{"a":"41.82142","cty":"PROVIDENCE","hp":true,"id":20261069031,"mun":"JOHNSTON","nc":10,"ne":{"a":"41.82219","o":"-71.55298"},"o":"-71.55393","sw":{"a":"41.82064","o":"-71.55488"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.526752,41.450283],"type":"Point"},"properties":{"a":"41.450283","cty":"WASHINGTON","id":20261069032,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.526752"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.729952,41.522205],"type":"Point"},"properties":{"a":"41.522205","cty":"WASHINGTON","id":20261069034,"mun":"HOPKINTON","nc":5,"o":"-71.729952"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.729952,41.522205],"type":"Point"},"properties":{"a":"41.522205","cty":"WASHINGTON","id":20261069034,"mun":"HOPKINTON","nc":5,"o":"-71.729952"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.438021,41.809387],"type":"Point"},"properties":{"a":"41.809387","cty":"PROVIDENCE","id":20261069040,"mun":"PROVIDENCE","nc":1,"o":"-71.438021"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.457544,41.932901],"type":"Point"},"properties":{"a":"41.932901","cty":"PROVIDENCE","id":20261069041,"mun":"LINCOLN","nc":1,"o":"-71.457544"},"type":"Feature"}
 ]}
