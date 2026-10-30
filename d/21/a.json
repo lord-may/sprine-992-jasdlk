@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.846323,44.504009],"type":"Point"},"properties":{"EstRest":"10/30/2026 1:00:00 AM","Outages":2,"cause":"","county":"OXFORD","crewstatus":"DISP ","customers":43,"hamlet":"NEWRY","incidentnumber":"0045CM","incidents":1,"level":"street","opco":"CMP","street":"DOUGLASS RD","town":"NEWRY"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.846323,44.504009],"type":"Point"},"properties":{"EstRest":"10/30/2026 1:00:00 AM","Outages":2,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+
 ]}
