@@ -9,7 +9,6 @@
 {"geometry":{"coordinates":[-75.26773,41.67606],"type":"Point"},"properties":{"a":"41.67606","cty":"WAYNE","hp":true,"id":8832118,"mun":"LEBANON TWP","nc":55,"ne":{"a":"41.69004","o":"-75.25652"},"o":"-75.26773","sw":{"a":"41.66209","o":"-75.27895"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.047615,40.93946],"type":"Point"},"properties":{"a":"40.93946","cty":"UNION","id":8832131,"mun":"WEST BUFFALO TWP","nc":2,"o":"-77.047615"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.278563,40.719394],"type":"Point"},"properties":{"a":"40.719394","cty":"SCHUYLKILL","id":8832133,"mun":"CASS TWP","nc":13,"o":"-76.278563"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.811309,40.721513],"type":"Point"},"properties":{"a":"40.721513","cty":"SCHUYLKILL","id":8832138,"mun":"WEST PENN TWP","nc":1,"o":"-75.811309"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.177199,41.455593],"type":"Point"},"properties":{"a":"41.455593","cty":"PIKE","id":8832141,"mun":"PALMYRA TWP","nc":3,"o":"-75.177199"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.615276,41.47223],"type":"Point"},"properties":{"a":"41.47223","cty":"LACKAWANNA","id":8832145,"mun":"DICKSON CITY BORO","nc":4,"o":"-75.615276"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.015055,40.062131],"type":"Point"},"properties":{"a":"40.062131","cty":"LANCASTER","id":8832147,"mun":"SALISBURY TWP","nc":1,"o":"-76.015055"},"type":"Feature"},
@@ -19,9 +18,12 @@
 {"geometry":{"coordinates":[-76.79156,40.28401],"type":"Point"},"properties":{"a":"40.28401","cty":"DAUPHIN","hp":true,"id":8832162,"mun":"LOWER PAXTON TWP","nc":147,"ne":{"a":"40.28476","o":"-76.78988"},"o":"-76.79156","sw":{"a":"40.28325","o":"-76.79325"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.004129,41.151494],"type":"Point"},"properties":{"a":"41.151494","cty":"LUZERNE","id":8832171,"mun":"SLOCUM TWP","nc":2,"o":"-76.004129"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.577793,40.786315],"type":"Point"},"properties":{"a":"40.786315","cty":"NORTHUMBERLAND","id":8832172,"mun":"COAL TWP","nc":14,"o":"-76.577793"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.317451,41.525146],"type":"Point"},"properties":{"a":"41.525146","cty":"WAYNE","id":8832174,"mun":"CHERRY RIDGE TWP","nc":2,"o":"-75.317451"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.765741,40.919809],"type":"Point"},"properties":{"a":"40.919809","cty":"NORTHUMBERLAND","id":8832175,"mun":"POINT TWP","nc":4,"o":"-76.765741"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.525399,40.985702],"type":"Point"},"properties":{"a":"40.985702","cty":"CARBON","id":8832180,"mun":"PENN FOREST TWP","nc":4,"o":"-75.525399"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.395985,40.947051],"type":"Point"},"properties":{"a":"40.947051","cty":"MONROE","id":8832183,"mun":"CHESTNUT HILL TWP","nc":2,"o":"-75.395985"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.54634,41.06736],"type":"Point"},"properties":{"a":"41.06736","cty":"COLUMBIA","hp":true,"id":8832187,"mun":"MADISON TWP","nc":10,"ne":{"a":"41.07101","o":"-76.54438"},"o":"-76.54634","sw":{"a":"41.0637","o":"-76.54829"}},"type":"Feature"}
+{"geometry":{"coordinates":[-76.54634,41.06736],"type":"Point"},"properties":{"a":"41.06736","cty":"COLUMBIA","hp":true,"id":8832187,"mun":"MADISON TWP","nc":10,"ne":{"a":"41.07101","o":"-76.54438"},"o":"-76.54634","sw":{"a":"41.0637","o":"-76.54829"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.344797,40.637958],"type":"Point"},"properties":{"a":"40.637958","cty":"NORTHAMPTON","id":8832191,"mun":"BETHLEHEM","nc":12,"o":"-75.344797"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.990183,41.140845],"type":"Point"},"properties":{"a":"41.140845","cty":"LUZERNE","id":8832194,"mun":"DORRANCE TWP","nc":2,"o":"-75.990183"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.277315,41.555215],"type":"Point"},"properties":{"a":"41.555215","cty":"WAYNE","id":8832195,"mun":"CHERRY RIDGE TWP","nc":1,"o":"-75.277315"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.305669,40.045896],"type":"Point"},"properties":{"a":"40.045896","cty":"LANCASTER","id":8832199,"mun":"LANCASTER","nc":1,"o":"-76.305669"},"type":"Feature"}
 ]}
