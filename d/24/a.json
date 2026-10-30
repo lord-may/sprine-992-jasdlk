@@ -1,9 +1,7 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.615794,41.539196],"type":"Point"},"properties":{"a":"41.539196","cty":"WASHINGTON","id":20261069169,"mun":"EXETER","nc":1,"o":"-71.615794"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.374656,41.4991],"type":"Point"},"properties":{"a":"41.4991","cty":"NEWPORT","id":20261069182,"mun":"JAMESTOWN","nc":1,"o":"-71.374656"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.791598,41.425752],"type":"Point"},"properties":{"a":"41.425752","cty":"WASHINGTON","id":20261069184,"mun":"HOPKINTON","nc":1,"o":"-71.791598"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.450643,41.795399],"type":"Point"},"properties":{"a":"41.795399","cty":"PROVIDENCE","id":20261069188,"mun":"CRANSTON","nc":1,"o":"-71.450643"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.566192,41.56251],"type":"Point"},"properties":{"a":"41.56251","cty":"WASHINGTON","id":20261069189,"mun":"EXETER","nc":1,"o":"-71.566192"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.372308,41.891154],"type":"Point"},"properties":{"a":"41.891154","cty":"PROVIDENCE","id":20261069191,"mun":"PAWTUCKET","nc":1,"o":"-71.372308"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.570893,41.555611],"type":"Point"},"properties":{"a":"41.555611","cty":"WASHINGTON","id":20261069192,"mun":"EXETER","nc":1,"o":"-71.570893"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.533593,41.581291],"type":"Point"},"properties":{"a":"41.581291","cty":"WASHINGTON","id":20261069194,"mun":"EXETER","nc":1,"o":"-71.533593"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.448471,41.814598],"type":"Point"},"properties":{"a":"41.814598","cty":"PROVIDENCE","id":20261069195,"mun":"PROVIDENCE","nc":22,"o":"-71.448471"},"type":"Feature"}
 ]}
