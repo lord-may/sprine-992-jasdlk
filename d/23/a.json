@@ -1,11 +1,10 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.79156,40.28401],"type":"Point"},"properties":{"a":"40.28401","cty":"DAUPHIN","hp":true,"id":8832162,"mun":"LOWER PAXTON TWP","nc":147,"ne":{"a":"40.28476","o":"-76.78988"},"o":"-76.79156","sw":{"a":"40.28325","o":"-76.79325"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.990183,41.140845],"type":"Point"},"properties":{"a":"41.140845","cty":"LUZERNE","id":8832194,"mun":"DORRANCE TWP","nc":2,"o":"-75.990183"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.551966,41.654163],"type":"Point"},"properties":{"a":"41.654163","cty":"SUSQUEHANNA","id":8832200,"mun":"CLIFFORD TWP","nc":7,"o":"-75.551966"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.45249,41.35684],"type":"Point"},"properties":{"a":"41.35684","cty":"LACKAWANNA","hp":true,"id":8832236,"mun":"MADISON TWP","nc":58,"ne":{"a":"41.36329","o":"-75.44202"},"o":"-75.45249","sw":{"a":"41.35039","o":"-75.46297"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.35699,41.24442],"type":"Point"},"properties":{"a":"41.24442","cty":"WAYNE","hp":true,"id":8832255,"mun":"DREHER TWP","nc":18,"ne":{"a":"41.24784","o":"-75.3537"},"o":"-75.35699","sw":{"a":"41.24101","o":"-75.36027"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.299369,41.025893],"type":"Point"},"properties":{"a":"41.025893","cty":"MONROE","id":8832276,"mun":"POCONO TWP","nc":1,"o":"-75.299369"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.4043,41.33858],"type":"Point"},"properties":{"a":"41.33858","cty":"WAYNE","hp":true,"id":8832278,"mun":"STERLING TWP","nc":13,"ne":{"a":"41.33953","o":"-75.4003"},"o":"-75.4043","sw":{"a":"41.33764","o":"-75.40831"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.255916,40.357308],"type":"Point"},"properties":{"a":"40.357308","cty":"LEBANON","id":8832284,"mun":"RICHLAND BORO","nc":1,"o":"-76.255916"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.464716,40.581709],"type":"Point"},"properties":{"a":"40.581709","cty":"LEHIGH","id":8832285,"mun":"ALLENTOWN","nc":18,"o":"-75.464716"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.464716,40.581709],"type":"Point"},"properties":{"a":"40.581709","cty":"LEHIGH","id":8832285,"mun":"ALLENTOWN","nc":18,"o":"-75.464716"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.168531,41.616178],"type":"Point"},"properties":{"a":"41.616178","cty":"WAYNE","id":8832292,"mun":"BERLIN TWP","nc":1,"o":"-75.168531"},"type":"Feature"}
 ]}
