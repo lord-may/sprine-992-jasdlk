@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-76.633611,42.857596],"type":"Point"},"properties":{"EstRest":"10/30/2026 9:45:00 AM","Outages":8,"county":"CAYUGA","customers":32356,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.645019,42.861119],"type":"Point"},"properties":{"EstRest":"10/30/2026 9:45:00 AM","Outages":3,"cause":"","county":"CAYUGA","crewstatus":"DISP ","customers":3,"hamlet":"CAYUGA","incidentnumber":"0118TX","incidents":1,"level":"street","opco":"NYSEG","street":"WALDRON RD","town":"SPRINGPORT T"},"type":"Feature"}
 ]}
