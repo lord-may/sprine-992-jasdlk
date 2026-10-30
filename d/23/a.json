@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.355989,41.214815],"type":"Point"},"properties":{"a":"41.214815","cty":"MONROE","id":8832035,"mun":"COOLBAUGH TWP","nc":1,"o":"-75.355989"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.085436,40.664161],"type":"Point"},"properties":{"a":"40.664161","cty":"SCHUYLKILL","id":8832036,"mun":"WEST BRUNSWICK TWP","nc":1,"o":"-76.085436"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.308722,40.661171],"type":"Point"},"properties":{"a":"40.661171","cty":"NORTHAMPTON","id":8832037,"mun":"BETHLEHEM TWP","nc":1,"o":"-75.308722"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.308722,40.661171],"type":"Point"},"properties":{"a":"40.661171","cty":"NORTHAMPTON","id":8832037,"mun":"BETHLEHEM TWP","nc":1,"o":"-75.308722"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.99783,40.702685],"type":"Point"},"properties":{"a":"40.702685","cty":"SCHUYLKILL","id":8832038,"mun":"EAST BRUNSWICK TWP","nc":4,"o":"-75.99783"},"type":"Feature"}
 ]}
