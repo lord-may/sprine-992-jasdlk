@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-73.17332,44.467721],"type":"Point"},"properties":{"active":true,"affectingCustomers":true,"cause":0,"county":"Chittenden","crew_name":",COLC-MONTGOMERYCOLC-JENKINS","customers_affected":903,"customers_affected_label":"903 Customers","device":"PRIMARY_SPAN","etor":"2026-10-31T11:00-04:00","has_etor":1,"incident_id":1016971,"status":"CREW_ASSIGNED","street":"WHITE ST","town":"South Burlington","trouble":"NO_POWER"},"type":"Feature"}
+
 ]}
