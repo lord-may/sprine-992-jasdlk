@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-75.779001,42.009111],"type":"Point"},"properties":{"EstRest":"10/31/2026 8:00:00 AM","Outages":208,"cause":"","county":"BROOME","crewstatus":"DISP ","customers":503,"hamlet":"CONKLIN","incidentnumber":"011932","incidents":1,"level":"street","opco":"NYSEG","street":"CONKLIN RD","town":"CONKLIN T"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.782798,42.008379],"type":"Point"},"properties":{"EstRest":"10/31/2026 8:00:00 AM","Outages":213,"county":"BROOME","customers":91444,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
