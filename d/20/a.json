@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-77.2829,42.85085],"type":"Point"},"properties":{"EstRest":"10/31/2026 4:30:00 PM","Outages":1,"cause":"","county":"ONTARIO","crewstatus":"DISP ","customers":53,"hamlet":"CANANDAIGUA","incidentnumber":"01194V","incidents":1,"level":"street","opco":"RGE","street":"BUTLER RD","town":"CANANDAIGUA T"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.2829,42.85085],"type":"Point"},"properties":{"EstRest":"10/31/2026 4:30:00 PM","Outages":7,"county":"ONTARIO","customers":35916,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.333645,43.139573],"type":"Point"},"properties":{"EstRest":"10/31/2026 4:00:00 PM","Outages":4,"cause":"","county":"WAYNE","crewstatus":"DISP ","customers":69,"hamlet":"MACEDON","incidentnumber":"01194S","incidents":1,"level":"street","opco":"RGE","street":"WALWORTH PENFLD RD","town":"WALWORTH"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.333645,43.139573],"type":"Point"},"properties":{"EstRest":"10/31/2026 4:00:00 PM","Outages":4,"county":"WAYNE","customers":27029,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
