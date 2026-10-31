@@ -1,7 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.258087,41.329546],"type":"Point"},"properties":{"a":"41.329546","cty":"PIKE","id":8832307,"mun":"GREENE TWP","nc":2,"o":"-75.258087"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.25474,41.32861],"type":"Point"},"properties":{"a":"41.32861","cty":"PIKE","hp":true,"id":8832587,"mun":"GREENE TWP","nc":12,"ne":{"a":"41.33052","o":"-75.25302"},"o":"-75.25474","sw":{"a":"41.32671","o":"-75.25646"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.78268,41.20817],"type":"Point"},"properties":{"a":"41.20817","cty":"LYCOMING","hp":true,"id":8832596,"mun":"MUNCY CREEK TWP","nc":46,"ne":{"a":"41.20944","o":"-76.78099"},"o":"-76.78268","sw":{"a":"41.2069","o":"-76.78437"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.78286,41.20539],"type":"Point"},"properties":{"a":"41.20539","cty":"LYCOMING","hp":true,"id":8832596,"mun":"MUNCY CREEK TWP","nc":673,"ne":{"a":"41.20944","o":"-76.77716"},"o":"-76.78286","sw":{"a":"41.20134","o":"-76.78856"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.76336,41.04894],"type":"Point"},"properties":{"a":"41.04894","cty":"CARBON","hp":true,"id":8832604,"mun":"KIDDER TWP","nc":34,"ne":{"a":"41.05578","o":"-75.75746"},"o":"-75.76336","sw":{"a":"41.0421","o":"-75.76925"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.25332,40.86165],"type":"Point"},"properties":{"a":"40.86165","cty":"UNION","hp":true,"id":8832606,"mun":"HARTLEY TWP","nc":12,"ne":{"a":"40.86284","o":"-77.25058"},"o":"-77.25332","sw":{"a":"40.86046","o":"-77.25607"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.212918,40.330895],"type":"Point"},"properties":{"a":"40.330895","cty":"BUCKS","id":8832616,"mun":"HILLTOWN TWP","nc":1,"o":"-75.212918"},"type":"Feature"},
@@ -10,6 +10,5 @@
 {"geometry":{"coordinates":[-76.879,40.226232],"type":"Point"},"properties":{"a":"40.226232","cty":"CUMBERLAND","id":8832627,"mun":"NEW CUMBERLAND BORO","nc":6,"o":"-76.879"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.557609,41.174985],"type":"Point"},"properties":{"a":"41.174985","cty":"MONROE","id":8832637,"mun":"COOLBAUGH TWP","nc":2,"o":"-75.557609"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.490347,40.546921],"type":"Point"},"properties":{"a":"40.546921","cty":"LEHIGH","id":8832640,"mun":"EMMAUS BORO","nc":4,"o":"-75.490347"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.257352,41.155454],"type":"Point"},"properties":{"a":"41.155454","cty":"MONROE","id":8832642,"mun":"BARRETT TWP","nc":1,"o":"-75.257352"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.78286,41.20461],"type":"Point"},"properties":{"a":"41.20461","cty":"LYCOMING","hp":true,"id":8832647,"mun":"MUNCY CREEK TWP","nc":627,"ne":{"a":"41.20788","o":"-76.77716"},"o":"-76.78286","sw":{"a":"41.20134","o":"-76.78856"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.257352,41.155454],"type":"Point"},"properties":{"a":"41.155454","cty":"MONROE","id":8832642,"mun":"BARRETT TWP","nc":1,"o":"-75.257352"},"type":"Feature"}
 ]}
