@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.492715,43.983265],"type":"Point"},"properties":{"EstRest":"10/31/2026 10:00:00 AM","Outages":1,"cause":"Tree","county":"CUMBERLAND","crewstatus":"ONST ","customers":1,"hamlet":"CASCO","incidentnumber":"0045H9","incidents":1,"level":"street","opco":"CMP","street":"COFFEE PD TERR RD","town":"CASCO"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.495619,43.979037],"type":"Point"},"properties":{"EstRest":"10/31/2026 10:00:00 AM","Outages":68,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.495655,43.974844],"type":"Point"},"properties":{"EstRest":"10/31/2026 10:00:00 AM","Outages":68,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.495699,43.97536],"type":"Point"},"properties":{"EstRest":"10/31/2026 10:00:00 AM","Outages":16,"cause":"Tree","county":"CUMBERLAND","crewstatus":"ONST ","customers":16,"hamlet":"CASCO","incidentnumber":"0045H9","incidents":1,"level":"street","opco":"CMP","street":"COFFEE PD TERR","town":"CASCO"},"type":"Feature"}
 ]}
