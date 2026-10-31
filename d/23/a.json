@@ -3,5 +3,9 @@
 {"geometry":{"coordinates":[-75.459508,41.105419],"type":"Point"},"properties":{"a":"41.105419","cty":"MONROE","id":8832343,"mun":"TOBYHANNA TWP","nc":5,"o":"-75.459508"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.27785,41.09593],"type":"Point"},"properties":{"a":"41.09593","cty":"MONROE","hp":true,"id":8832350,"mun":"PARADISE TWP","nc":29,"ne":{"a":"41.10074","o":"-75.26799"},"o":"-75.27785","sw":{"a":"41.09112","o":"-75.28771"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.312859,41.102005],"type":"Point"},"properties":{"a":"41.102005","cty":"MONROE","id":8832408,"mun":"PARADISE TWP","nc":1,"o":"-75.312859"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.73657,41.37705],"type":"Point"},"properties":{"a":"41.37705","cty":"LACKAWANNA","hp":true,"id":8832459,"mun":"OLD FORGE BORO","nc":878,"ne":{"a":"41.38251","o":"-75.73086"},"o":"-75.73657","sw":{"a":"41.37158","o":"-75.74228"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.73657,41.37705],"type":"Point"},"properties":{"a":"41.37705","cty":"LACKAWANNA","hp":true,"id":8832459,"mun":"OLD FORGE BORO","nc":878,"ne":{"a":"41.38251","o":"-75.73086"},"o":"-75.73657","sw":{"a":"41.37158","o":"-75.74228"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.604571,40.568409],"type":"Point"},"properties":{"a":"40.568409","cty":"LEHIGH","id":8832482,"mun":"UPPER MACUNGIE TWP","nc":2,"o":"-75.604571"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.840502,40.258979],"type":"Point"},"properties":{"a":"40.258979","cty":"DAUPHIN","id":8832484,"mun":"HARRISBURG","nc":15,"o":"-76.840502"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.367317,40.60898],"type":"Point"},"properties":{"a":"40.60898","cty":"NORTHAMPTON","id":8832486,"mun":"BETHLEHEM","nc":20,"o":"-75.367317"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.458553,40.393744],"type":"Point"},"properties":{"a":"40.393744","cty":"MONTGOMERY","id":8832487,"mun":"UPPER HANOVER TWP","nc":1,"o":"-75.458553"},"type":"Feature"}
 ]}
