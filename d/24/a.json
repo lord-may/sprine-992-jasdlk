@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.421681,41.490782],"type":"Point"},"properties":{"a":"41.490782","cty":"WASHINGTON","id":20261069242,"mun":"NARRAGANSETT","nc":1,"o":"-71.421681"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.315227,41.491552],"type":"Point"},"properties":{"a":"41.491552","cty":"NEWPORT","id":20261069244,"mun":"NEWPORT","nc":16,"o":"-71.315227"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.439835,41.817892],"type":"Point"},"properties":{"a":"41.817892","cty":"PROVIDENCE","id":20261069249,"mun":"PROVIDENCE","nc":1,"o":"-71.439835"},"type":"Feature"}
 ]}
