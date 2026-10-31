@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-68.10514,45.364985],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":14,"customersOutNow":14,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-31T13:15:35.33-04:00","outageName":"F94010-84","outagePoint":{"lat":45.364985000000004,"lng":-68.10514},"outageRecID":"2026-10-31-0495","outageStartTime":"2026-10-31T11:38:26-04:00","outageWorkStatus":"","streetsAffected":["MOORES RD"],"verified":true},"type":"Feature"}
+
 ]}
