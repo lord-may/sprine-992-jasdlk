@@ -3,5 +3,6 @@
 {"geometry":{"coordinates":[-70.497489,43.971389],"type":"Point"},"properties":{"EstRest":"","Outages":7,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.89485,44.201526],"type":"Point"},"properties":{"EstRest":"10/31/2026 4:45:00 PM","Outages":1,"cause":"","county":"OXFORD","crewstatus":"ENRT ","customers":13,"hamlet":"LOVELL","incidentnumber":"0045J8","incidents":1,"level":"street","opco":"CMP","street":"CAMP MUDJEKEEWIS RD","town":"LOVELL"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.89485,44.201526],"type":"Point"},"properties":{"EstRest":"10/31/2026 4:45:00 PM","Outages":1,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.869495,43.412339],"type":"Point"},"properties":{"EstRest":"10/31/2026 5:30:00 PM","Outages":46,"county":"YORK","customers":132723,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.646415,43.110752],"type":"Point"},"properties":{"EstRest":"10/31/2026 4:45:00 PM","Outages":1,"cause":"","county":"YORK","crewstatus":"ENRT ","customers":27,"hamlet":"YORK","incidentnumber":"0045IQ","incidents":1,"level":"street","opco":"CMP","street":"GODFREY COVE RD","town":"YORK"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.646415,43.110752],"type":"Point"},"properties":{"EstRest":"10/31/2026 4:45:00 PM","Outages":1,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
