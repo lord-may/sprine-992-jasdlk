@@ -1,11 +1,11 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.25987,41.32528],"type":"Point"},"properties":{"a":"41.32528","cty":"PIKE","hp":true,"id":8832307,"mun":"GREENE TWP","nc":30,"ne":{"a":"41.33052","o":"-75.25302"},"o":"-75.25987","sw":{"a":"41.32004","o":"-75.26673"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.69273,40.75816],"type":"Point"},"properties":{"a":"40.75816","cty":"LEHIGH","hp":true,"id":8832327,"mun":"WASHINGTON TWP","nc":7,"ne":{"a":"40.76011","o":"-75.69016"},"o":"-75.69273","sw":{"a":"40.7562","o":"-75.69529"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.459508,41.105419],"type":"Point"},"properties":{"a":"41.105419","cty":"MONROE","id":8832343,"mun":"TOBYHANNA TWP","nc":5,"o":"-75.459508"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.27785,41.09593],"type":"Point"},"properties":{"a":"41.09593","cty":"MONROE","hp":true,"id":8832350,"mun":"PARADISE TWP","nc":29,"ne":{"a":"41.10074","o":"-75.26799"},"o":"-75.27785","sw":{"a":"41.09112","o":"-75.28771"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.201614,41.362372],"type":"Point"},"properties":{"a":"41.362372","cty":"PIKE","id":8832370,"mun":"PALMYRA TWP","nc":3,"o":"-75.201614"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.312859,41.102005],"type":"Point"},"properties":{"a":"41.102005","cty":"MONROE","id":8832408,"mun":"PARADISE TWP","nc":1,"o":"-75.312859"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.470084,41.342832],"type":"Point"},"properties":{"a":"41.342832","cty":"LACKAWANNA","id":8832427,"mun":"MADISON TWP","nc":1,"o":"-75.470084"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.69159,41.13835],"type":"Point"},"properties":{"a":"41.13835","cty":"MONTOUR","hp":true,"id":8832435,"mun":"ANTHONY TWP","nc":502,"ne":{"a":"41.17486","o":"-76.63225"},"o":"-76.69159","sw":{"a":"41.10184","o":"-76.75092"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.40469,41.373925],"type":"Point"},"properties":{"a":"41.373925","cty":"WAYNE","id":8832445,"mun":"SALEM TWP","nc":2,"o":"-75.40469"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.40469,41.373925],"type":"Point"},"properties":{"a":"41.373925","cty":"WAYNE","id":8832445,"mun":"SALEM TWP","nc":2,"o":"-75.40469"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.40731,41.36863],"type":"Point"},"properties":{"a":"41.36863","cty":"WAYNE","hp":true,"id":8832453,"mun":"STERLING TWP","nc":95,"ne":{"a":"41.38234","o":"-75.39476"},"o":"-75.40731","sw":{"a":"41.35491","o":"-75.41985"}},"type":"Feature"}
 ]}
