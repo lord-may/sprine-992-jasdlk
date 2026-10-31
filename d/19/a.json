@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-73.406094,42.49445],"type":"Point"},"properties":{"EstRest":"10/31/2026 12:15:00 AM","Outages":10,"county":"COLUMBIA","customers":15380,"incidents":3,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-73.406094,42.49445],"type":"Point"},"properties":{"EstRest":"10/31/2026 12:15:00 AM","Outages":4,"county":"COLUMBIA","customers":15380,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.084988,41.877167],"type":"Point"},"properties":{"EstRest":"10/31/2026 1:30:00 AM","Outages":1,"cause":"","county":"SULLIVAN","crewstatus":"DISP ","customers":1,"hamlet":"LONG EDDY","incidentnumber":"01192Q","incidents":1,"level":"street","opco":"NYSEG","street":"JOHNSTON RD","town":"FREMONT T"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.095409,41.860115],"type":"Point"},"properties":{"EstRest":"10/31/2026 1:30:00 AM","Outages":7,"county":"SULLIVAN","customers":50281,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
