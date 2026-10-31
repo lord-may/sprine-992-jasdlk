@@ -5,5 +5,7 @@
 {"geometry":{"coordinates":[-71.348501,41.880828],"type":"Point"},"properties":{"a":"41.880828","cty":"PROVIDENCE","id":20261069237,"mun":"PAWTUCKET","nc":17,"o":"-71.348501"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.519266,41.998911],"type":"Point"},"properties":{"a":"41.998911","cty":"PROVIDENCE","id":20261069239,"mun":"WOONSOCKET","nc":1,"o":"-71.519266"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.458616,42.014385],"type":"Point"},"properties":{"a":"42.014385","cty":"PROVIDENCE","id":20261069240,"mun":"WOONSOCKET","nc":1,"o":"-71.458616"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.421681,41.490782],"type":"Point"},"properties":{"a":"41.490782","cty":"WASHINGTON","id":20261069242,"mun":"NARRAGANSETT","nc":1,"o":"-71.421681"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.421681,41.490782],"type":"Point"},"properties":{"a":"41.490782","cty":"WASHINGTON","id":20261069242,"mun":"NARRAGANSETT","nc":1,"o":"-71.421681"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.315227,41.491552],"type":"Point"},"properties":{"a":"41.491552","cty":"NEWPORT","id":20261069244,"mun":"NEWPORT","nc":16,"o":"-71.315227"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.522322,41.99184],"type":"Point"},"properties":{"a":"41.99184","cty":"PROVIDENCE","id":20261069245,"mun":"WOONSOCKET","nc":1,"o":"-71.522322"},"type":"Feature"}
 ]}
