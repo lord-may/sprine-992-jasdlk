@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.25987,41.32528],"type":"Point"},"properties":{"a":"41.32528","cty":"PIKE","hp":true,"id":8832307,"mun":"GREENE TWP","nc":30,"ne":{"a":"41.33052","o":"-75.25302"},"o":"-75.25987","sw":{"a":"41.32004","o":"-75.26673"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.25555,41.32861],"type":"Point"},"properties":{"a":"41.32861","cty":"PIKE","hp":true,"id":8832307,"mun":"GREENE TWP","nc":14,"ne":{"a":"41.33052","o":"-75.25302"},"o":"-75.25555","sw":{"a":"41.32671","o":"-75.25809"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.459508,41.105419],"type":"Point"},"properties":{"a":"41.105419","cty":"MONROE","id":8832343,"mun":"TOBYHANNA TWP","nc":5,"o":"-75.459508"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.27785,41.09593],"type":"Point"},"properties":{"a":"41.09593","cty":"MONROE","hp":true,"id":8832350,"mun":"PARADISE TWP","nc":29,"ne":{"a":"41.10074","o":"-75.26799"},"o":"-75.27785","sw":{"a":"41.09112","o":"-75.28771"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.201614,41.362372],"type":"Point"},"properties":{"a":"41.362372","cty":"PIKE","id":8832370,"mun":"PALMYRA TWP","nc":3,"o":"-75.201614"},"type":"Feature"},
@@ -7,6 +7,5 @@
 {"geometry":{"coordinates":[-76.66877,41.13048],"type":"Point"},"properties":{"a":"41.13048","cty":"NA","hp":true,"id":8832435,"mun":"NA","nc":122,"ne":{"a":"41.15449","o":"-76.63225"},"o":"-76.66877","sw":{"a":"41.10647","o":"-76.70529"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.40469,41.373925],"type":"Point"},"properties":{"a":"41.373925","cty":"WAYNE","id":8832445,"mun":"SALEM TWP","nc":2,"o":"-75.40469"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.40731,41.36863],"type":"Point"},"properties":{"a":"41.36863","cty":"WAYNE","hp":true,"id":8832453,"mun":"STERLING TWP","nc":95,"ne":{"a":"41.38234","o":"-75.39476"},"o":"-75.40731","sw":{"a":"41.35491","o":"-75.41985"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.780074,40.826644],"type":"Point"},"properties":{"a":"40.826644","cty":"CARBON","id":8832456,"mun":"MAHONING TWP","nc":5,"o":"-75.780074"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.737513,41.37304],"type":"Point"},"properties":{"a":"41.37304","cty":"LACKAWANNA","id":8832457,"mun":"OLD FORGE BORO","nc":25,"o":"-75.737513"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.74278,41.37049],"type":"Point"},"properties":{"a":"41.37049","cty":"LACKAWANNA","hp":true,"id":8832459,"mun":"OLD FORGE BORO","nc":2342,"ne":{"a":"41.38316","o":"-75.72394"},"o":"-75.74278","sw":{"a":"41.35781","o":"-75.76163"}},"type":"Feature"}
 ]}
