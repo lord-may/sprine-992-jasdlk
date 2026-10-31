@@ -11,5 +11,8 @@
 {"geometry":{"coordinates":[-75.987401,40.958419],"type":"Point"},"properties":{"a":"40.958419","cty":"LUZERNE","id":8832574,"mun":"HAZLETON","nc":19,"o":"-75.987401"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.491397,40.558243],"type":"Point"},"properties":{"a":"40.558243","cty":"LEHIGH","id":8832575,"mun":"ALLENTOWN","nc":5,"o":"-75.491397"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.262386,39.97603],"type":"Point"},"properties":{"a":"39.97603","cty":"LANCASTER","id":8832578,"mun":"WEST LAMPETER TWP","nc":2,"o":"-76.262386"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.21701,40.295199],"type":"Point"},"properties":{"a":"40.295199","cty":"LEBANON","id":8832582,"mun":"MILLCREEK TWP","nc":2,"o":"-76.21701"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.21701,40.295199],"type":"Point"},"properties":{"a":"40.295199","cty":"LEBANON","id":8832582,"mun":"MILLCREEK TWP","nc":2,"o":"-76.21701"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.490347,40.546921],"type":"Point"},"properties":{"a":"40.546921","cty":"LEHIGH","id":8832584,"mun":"EMMAUS BORO","nc":4,"o":"-75.490347"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.745323,40.274584],"type":"Point"},"properties":{"a":"40.274584","cty":"DAUPHIN","id":8832585,"mun":"SOUTH HANOVER TWP","nc":3,"o":"-76.745323"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.25474,41.32861],"type":"Point"},"properties":{"a":"41.32861","cty":"PIKE","hp":true,"id":8832587,"mun":"GREENE TWP","nc":12,"ne":{"a":"41.33052","o":"-75.25302"},"o":"-75.25474","sw":{"a":"41.32671","o":"-75.25646"}},"type":"Feature"}
 ]}

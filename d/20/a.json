@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-77.333645,43.139573],"type":"Point"},"properties":{"EstRest":"10/31/2026 4:00:00 PM","Outages":4,"cause":"","county":"WAYNE","crewstatus":"     ","customers":69,"hamlet":"MACEDON","incidentnumber":"01194S","incidents":1,"level":"street","opco":"RGE","street":"WALWORTH PENFLD RD","town":"WALWORTH"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.333645,43.139573],"type":"Point"},"properties":{"EstRest":"10/31/2026 4:00:00 PM","Outages":4,"county":"WAYNE","customers":27029,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
