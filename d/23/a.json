@@ -1,7 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.4043,41.33858],"type":"Point"},"properties":{"a":"41.33858","cty":"WAYNE","hp":true,"id":8832278,"mun":"STERLING TWP","nc":13,"ne":{"a":"41.33953","o":"-75.4003"},"o":"-75.4043","sw":{"a":"41.33764","o":"-75.40831"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.25987,41.32528],"type":"Point"},"properties":{"a":"41.32528","cty":"PIKE","hp":true,"id":8832307,"mun":"GREENE TWP","nc":30,"ne":{"a":"41.33052","o":"-75.25302"},"o":"-75.25987","sw":{"a":"41.32004","o":"-75.26673"}},"type":"Feature"},
-{"geometry":{"coordinates":[-77.34327,40.16009],"type":"Point"},"properties":{"a":"40.16009","cty":"CUMBERLAND","hp":true,"id":8832319,"mun":"WEST PENNSBORO TWP","nc":8,"ne":{"a":"40.16134","o":"-77.34213"},"o":"-77.34327","sw":{"a":"40.15885","o":"-77.34441"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.203,41.526862],"type":"Point"},"properties":{"a":"41.526862","cty":"WAYNE","id":8832325,"mun":"TEXAS TWP","nc":1,"o":"-75.203"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.69273,40.75816],"type":"Point"},"properties":{"a":"40.75816","cty":"LEHIGH","hp":true,"id":8832327,"mun":"WASHINGTON TWP","nc":7,"ne":{"a":"40.76011","o":"-75.69016"},"o":"-75.69273","sw":{"a":"40.7562","o":"-75.69529"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.557609,41.174985],"type":"Point"},"properties":{"a":"41.174985","cty":"MONROE","id":8832340,"mun":"COOLBAUGH TWP","nc":2,"o":"-75.557609"},"type":"Feature"},
@@ -12,7 +11,6 @@
 {"geometry":{"coordinates":[-75.272833,41.187988],"type":"Point"},"properties":{"a":"41.187988","cty":"MONROE","id":8832393,"mun":"BARRETT TWP","nc":3,"o":"-75.272833"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.312859,41.102005],"type":"Point"},"properties":{"a":"41.102005","cty":"MONROE","id":8832408,"mun":"PARADISE TWP","nc":1,"o":"-75.312859"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.142401,40.596507],"type":"Point"},"properties":{"a":"40.596507","cty":"JUNIATA","id":8832409,"mun":"GREENWOOD TWP","nc":2,"o":"-77.142401"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.74128,41.49436],"type":"Point"},"properties":{"a":"41.49436","cty":"LACKAWANNA","hp":true,"id":8832415,"mun":"GLENBURN TWP","nc":62,"ne":{"a":"41.49984","o":"-75.73597"},"o":"-75.74128","sw":{"a":"41.48888","o":"-75.74659"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.614598,41.473188],"type":"Point"},"properties":{"a":"41.473188","cty":"LACKAWANNA","id":8832422,"mun":"DICKSON CITY BORO","nc":7,"o":"-75.614598"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.369832,41.457575],"type":"Point"},"properties":{"a":"41.457575","cty":"WAYNE","id":8832424,"mun":"LAKE TWP","nc":2,"o":"-75.369832"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.614598,41.473188],"type":"Point"},"properties":{"a":"41.473188","cty":"LACKAWANNA","id":8832422,"mun":"DICKSON CITY BORO","nc":1,"o":"-75.614598"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.470084,41.342832],"type":"Point"},"properties":{"a":"41.342832","cty":"LACKAWANNA","id":8832427,"mun":"MADISON TWP","nc":1,"o":"-75.470084"},"type":"Feature"}
 ]}
