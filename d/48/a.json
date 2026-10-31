@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-72.057626,41.601236],"type":"Point"},"properties":{"ADDRESS":"1 BALTIC RD, NORWICH, CT, 06360","CUSTOMER_COUNT":289,"DEVICE_OID":3197,"FACILITY_ID":"FUS-15","FEEDER_ID":"625","GDB_GEOMATTR_DATA":"","ID":45150,"INCIDENT_ID":50341,"OBJECTID":7862,"ORIG_FID":null,"REGION":4,"RxOID":3197,"TIME_OUTAGE":"10/31/2026 05:33 PM","TIME_RESTORED_EST":"Is still under review"},"type":"Feature"}
 ]}
