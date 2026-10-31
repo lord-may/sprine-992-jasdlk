@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.348501,41.880828],"type":"Point"},"properties":{"a":"41.880828","cty":"PROVIDENCE","id":20261069237,"mun":"PAWTUCKET","nc":17,"o":"-71.348501"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.421681,41.490782],"type":"Point"},"properties":{"a":"41.490782","cty":"WASHINGTON","id":20261069242,"mun":"NARRAGANSETT","nc":1,"o":"-71.421681"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.315227,41.491552],"type":"Point"},"properties":{"a":"41.491552","cty":"NEWPORT","id":20261069244,"mun":"NEWPORT","nc":16,"o":"-71.315227"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.46675,42.013333],"type":"Point"},"properties":{"a":"42.013333","cty":"PROVIDENCE","id":20261069246,"mun":"WOONSOCKET","nc":1,"o":"-71.46675"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.315227,41.491552],"type":"Point"},"properties":{"a":"41.491552","cty":"NEWPORT","id":20261069244,"mun":"NEWPORT","nc":16,"o":"-71.315227"},"type":"Feature"}
 ]}
