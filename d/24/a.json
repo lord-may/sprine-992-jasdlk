@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-71.458464,41.819578],"type":"Point"},"properties":{"a":"41.819578","cty":"PROVIDENCE","id":20261069255,"mun":"PROVIDENCE","nc":49,"o":"-71.458464"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.405613,41.731007],"type":"Point"},"properties":{"a":"41.731007","cty":"KENT","id":20261069256,"mun":"WARWICK","nc":1,"o":"-71.405613"},"type":"Feature"}
 ]}

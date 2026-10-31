@@ -8,11 +8,9 @@
 {"geometry":{"coordinates":[-75.24328,41.36255],"type":"Point"},"properties":{"a":"41.36255","cty":"PIKE","hp":true,"id":8832517,"mun":"PALMYRA TWP","nc":12,"ne":{"a":"41.36435","o":"-75.24098"},"o":"-75.24328","sw":{"a":"41.36075","o":"-75.24558"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.39097,40.57055],"type":"Point"},"properties":{"a":"40.57055","cty":"JUNIATA","hp":true,"id":8832541,"mun":"FERMANAGH TWP","nc":20,"ne":{"a":"40.5715","o":"-77.38966"},"o":"-77.39097","sw":{"a":"40.56961","o":"-77.39228"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.100149,40.29837],"type":"Point"},"properties":{"a":"40.29837","cty":"BERKS","id":8832546,"mun":"SOUTH HEIDELBERG TWP","nc":2,"o":"-76.100149"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.481814,41.423496],"type":"Point"},"properties":{"a":"41.423496","cty":"LACKAWANNA","id":8832549,"mun":"JEFFERSON TWP","nc":1,"o":"-75.481814"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.12253,41.49619],"type":"Point"},"properties":{"a":"41.49619","cty":"PIKE","hp":true,"id":8832550,"mun":"LACKAWAXEN TWP","nc":7,"ne":{"a":"41.49784","o":"-75.12159"},"o":"-75.12253","sw":{"a":"41.49454","o":"-75.12347"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.790983,40.863446],"type":"Point"},"properties":{"a":"40.863446","cty":"NORTHUMBERLAND","id":8832562,"mun":"UPPER AUGUSTA TWP","nc":1,"o":"-76.790983"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.48962,40.55558],"type":"Point"},"properties":{"a":"40.55558","cty":"LEHIGH","hp":true,"id":8832568,"mun":"NA","nc":4,"ne":{"a":"40.55634","o":"-75.48906"},"o":"-75.48962","sw":{"a":"40.55482","o":"-75.49018"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.656192,40.706257],"type":"Point"},"properties":{"a":"40.706257","cty":"NORTHUMBERLAND","id":8832570,"mun":"UPPER MAHANOY TWP","nc":1,"o":"-76.656192"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.987401,40.958419],"type":"Point"},"properties":{"a":"40.958419","cty":"LUZERNE","id":8832574,"mun":"HAZLETON","nc":19,"o":"-75.987401"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.491397,40.558243],"type":"Point"},"properties":{"a":"40.558243","cty":"LEHIGH","id":8832575,"mun":"ALLENTOWN","nc":5,"o":"-75.491397"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.491397,40.558243],"type":"Point"},"properties":{"a":"40.558243","cty":"LEHIGH","id":8832575,"mun":"ALLENTOWN","nc":5,"o":"-75.491397"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.262386,39.97603],"type":"Point"},"properties":{"a":"39.97603","cty":"LANCASTER","id":8832578,"mun":"WEST LAMPETER TWP","nc":2,"o":"-76.262386"},"type":"Feature"}
 ]}
