@@ -1,8 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-73.406094,42.49445],"type":"Point"},"properties":{"EstRest":"10/30/2026 11:00:00 PM","Outages":14,"county":"COLUMBIA","customers":15380,"incidents":4,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-73.406094,42.49445],"type":"Point"},"properties":{"EstRest":"10/30/2026 11:00:00 PM","Outages":11,"county":"COLUMBIA","customers":15380,"incidents":3,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-74.799537,42.02387],"type":"Point"},"properties":{"EstRest":"10/30/2026 9:15:00 PM","Outages":13,"county":"DELAWARE","customers":28314,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-74.805963,42.031357],"type":"Point"},"properties":{"EstRest":"10/30/2026 9:15:00 PM","Outages":4,"cause":"","county":"DELAWARE","crewstatus":"DISP ","customers":4,"hamlet":"LIVINGSTON MANOR","incidentnumber":"01191Q","incidents":1,"level":"street","opco":"NYSEG","street":"MARY SMITH HILL RD","town":"ANDES T"},"type":"Feature"},
-{"geometry":{"coordinates":[-74.70178,41.762452],"type":"Point"},"properties":{"EstRest":"10/30/2026 9:45:00 PM","Outages":84,"county":"SULLIVAN","customers":50281,"incidents":3,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.346457,42.592902],"type":"Point"},"properties":{"EstRest":"10/30/2026 9:00:00 PM","Outages":3,"county":"YATES","customers":11951,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.34744,42.587692],"type":"Point"},"properties":{"EstRest":"10/30/2026 9:00:00 PM","Outages":1,"cause":"","county":"YATES","crewstatus":"ONST ","customers":1,"hamlet":"NAPLES","incidentnumber":"01190Y","incidents":1,"level":"street","opco":"NYSEG","street":"CHAPMAN RD","town":"ITALY T"},"type":"Feature"}
+{"geometry":{"coordinates":[-74.781684,41.604394],"type":"Point"},"properties":{"EstRest":"10/30/2026 9:45:00 PM","Outages":16,"county":"SULLIVAN","customers":50281,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
