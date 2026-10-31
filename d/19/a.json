@@ -1,3 +1,6 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-76.582717,42.920674],"type":"Point"},"properties":{"EstRest":"10/31/2026 12:15:00 PM","Outages":6,"cause":"","county":"CAYUGA","crewstatus":"DISP ","customers":22,"hamlet":"AUBURN","incidentnumber":"01193J","incidents":1,"level":"street","opco":"NYSEG","street":"DEXTER AVE","town":"AUBURN C"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.582717,42.920674],"type":"Point"},"properties":{"EstRest":"10/31/2026 12:15:00 PM","Outages":9,"county":"CAYUGA","customers":32356,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-73.679094,42.186369],"type":"Point"},"properties":{"EstRest":"10/31/2026 12:15:00 PM","Outages":3,"cause":"","county":"COLUMBIA","crewstatus":"     ","customers":46,"hamlet":"CRARYVILLE","incidentnumber":"01193K","incidents":1,"level":"street","opco":"NYSEG","street":"SNYDERTOWN RD","town":"CLAVERACK T"},"type":"Feature"},
+{"geometry":{"coordinates":[-73.679094,42.186369],"type":"Point"},"properties":{"EstRest":"10/31/2026 12:15:00 PM","Outages":4,"county":"COLUMBIA","customers":15380,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}

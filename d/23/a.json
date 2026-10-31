@@ -15,8 +15,6 @@
 {"geometry":{"coordinates":[-75.988243,40.959413],"type":"Point"},"properties":{"a":"40.959413","cty":"LUZERNE","id":8832505,"mun":"HAZLETON","nc":1,"o":"-75.988243"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.890828,40.269253],"type":"Point"},"properties":{"a":"40.269253","cty":"DAUPHIN","id":8832507,"mun":"HARRISBURG","nc":32,"o":"-76.890828"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.367865,40.611262],"type":"Point"},"properties":{"a":"40.611262","cty":"NORTHAMPTON","id":8832512,"mun":"BETHLEHEM","nc":1,"o":"-75.367865"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.08906,41.245464],"type":"Point"},"properties":{"a":"41.245464","cty":"PIKE","id":8832514,"mun":"PORTER TWP","nc":5,"o":"-75.08906"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.104122,41.230978],"type":"Point"},"properties":{"a":"41.230978","cty":"PIKE","id":8832516,"mun":"PORTER TWP","nc":5,"o":"-75.104122"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.24328,41.36255],"type":"Point"},"properties":{"a":"41.36255","cty":"PIKE","hp":true,"id":8832517,"mun":"PALMYRA TWP","nc":12,"ne":{"a":"41.36435","o":"-75.24098"},"o":"-75.24328","sw":{"a":"41.36075","o":"-75.24558"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.319973,40.03126],"type":"Point"},"properties":{"a":"40.03126","cty":"LANCASTER","id":8832518,"mun":"LANCASTER","nc":15,"o":"-76.319973"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.09156,41.23986],"type":"Point"},"properties":{"a":"41.23986","cty":"PIKE","hp":true,"id":8832514,"mun":"PORTER TWP","nc":89,"ne":{"a":"41.24987","o":"-75.07675"},"o":"-75.09156","sw":{"a":"41.22986","o":"-75.10636"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.24328,41.36255],"type":"Point"},"properties":{"a":"41.36255","cty":"PIKE","hp":true,"id":8832517,"mun":"PALMYRA TWP","nc":12,"ne":{"a":"41.36435","o":"-75.24098"},"o":"-75.24328","sw":{"a":"41.36075","o":"-75.24558"}},"type":"Feature"}
 ]}
