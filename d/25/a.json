@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-73.236225,42.77428],"type":"Point"},"properties":{"active":true,"affectingCustomers":true,"cause":0,"county":"Bennington","crew_name":"","customers_affected":1,"customers_affected_label":"1 Customer","device":"SERVICE","has_etor":0,"incident_id":1016948,"status":"CREATED","street":"BURRINGTON RD","town":"Pownal","trouble":"NO_POWER"},"type":"Feature"}
+{"geometry":{"coordinates":[-73.236225,42.77428],"type":"Point"},"properties":{"active":true,"affectingCustomers":true,"cause":0,"county":"Bennington","crew_name":",SUND-HUGHES","customers_affected":1,"customers_affected_label":"1 Customer","device":"SERVICE","etor":"2026-10-31T10:00-04:00","has_etor":1,"incident_id":1016948,"status":"CREW_ASSIGNED","street":"BURRINGTON RD","town":"Pownal","trouble":"NO_POWER"},"type":"Feature"}
 ]}
