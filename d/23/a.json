@@ -10,6 +10,5 @@
 {"geometry":{"coordinates":[-75.328026,40.519883],"type":"Point"},"properties":{"a":"40.519883","cty":"BUCKS","id":8832372,"mun":"SPRINGFIELD TWP","nc":1,"o":"-75.328026"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.312859,41.102005],"type":"Point"},"properties":{"a":"41.102005","cty":"MONROE","id":8832408,"mun":"PARADISE TWP","nc":1,"o":"-75.312859"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.614598,41.473188],"type":"Point"},"properties":{"a":"41.473188","cty":"LACKAWANNA","id":8832422,"mun":"DICKSON CITY BORO","nc":1,"o":"-75.614598"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.470084,41.342832],"type":"Point"},"properties":{"a":"41.342832","cty":"LACKAWANNA","id":8832427,"mun":"MADISON TWP","nc":1,"o":"-75.470084"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.408312,41.09339],"type":"Point"},"properties":{"a":"41.09339","cty":"MONROE","id":8832430,"mun":"TOBYHANNA TWP","nc":1,"o":"-75.408312"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.470084,41.342832],"type":"Point"},"properties":{"a":"41.342832","cty":"LACKAWANNA","id":8832427,"mun":"MADISON TWP","nc":1,"o":"-75.470084"},"type":"Feature"}
 ]}
