@@ -11,5 +11,7 @@
 {"geometry":{"coordinates":[-76.900566,40.230721],"type":"Point"},"properties":{"a":"40.230721","cty":"CUMBERLAND","id":8832605,"mun":"LOWER ALLEN TWP","nc":6,"o":"-76.900566"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.25332,40.86165],"type":"Point"},"properties":{"a":"40.86165","cty":"UNION","hp":true,"id":8832606,"mun":"HARTLEY TWP","nc":12,"ne":{"a":"40.86284","o":"-77.25058"},"o":"-77.25332","sw":{"a":"40.86046","o":"-77.25607"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.942826,40.240376],"type":"Point"},"properties":{"a":"40.240376","cty":"CUMBERLAND","id":8832607,"mun":"HAMPDEN TWP","nc":17,"o":"-76.942826"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.313917,41.25963],"type":"Point"},"properties":{"a":"41.25963","cty":"PIKE","id":8832609,"mun":"GREENE TWP","nc":3,"o":"-75.313917"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.313917,41.25963],"type":"Point"},"properties":{"a":"41.25963","cty":"PIKE","id":8832609,"mun":"GREENE TWP","nc":3,"o":"-75.313917"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.772159,40.271344],"type":"Point"},"properties":{"a":"40.271344","cty":"DAUPHIN","id":8832612,"mun":"SWATARA TWP","nc":4,"o":"-76.772159"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.567196,41.340337],"type":"Point"},"properties":{"a":"41.340337","cty":"LACKAWANNA","id":8832613,"mun":"SPRING BROOK TWP","nc":3,"o":"-75.567196"},"type":"Feature"}
 ]}
