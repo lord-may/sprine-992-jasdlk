@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-77.724414,43.107789],"type":"Point"},"properties":{"EstRest":"10/31/2026 11:45:00 AM","Outages":3,"cause":"","county":"MONROE","crewstatus":"     ","customers":57,"hamlet":"ROCHESTER","incidentnumber":"01193H","incidents":1,"level":"street","opco":"RGE","street":"RED BUD RD","town":"CHILI"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.724414,43.107789],"type":"Point"},"properties":{"EstRest":"10/31/2026 11:45:00 AM","Outages":6,"county":"MONROE","customers":303507,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}

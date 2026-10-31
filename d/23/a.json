@@ -6,7 +6,6 @@
 {"geometry":{"coordinates":[-75.73667,41.37292],"type":"Point"},"properties":{"a":"41.37292","cty":"NA","hp":true,"id":8832459,"mun":"NA","nc":90,"ne":{"a":"41.37377","o":"-75.7351"},"o":"-75.73667","sw":{"a":"41.37207","o":"-75.73825"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.604571,40.568409],"type":"Point"},"properties":{"a":"40.568409","cty":"LEHIGH","id":8832482,"mun":"UPPER MACUNGIE TWP","nc":2,"o":"-75.604571"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.840502,40.258979],"type":"Point"},"properties":{"a":"40.258979","cty":"DAUPHIN","id":8832484,"mun":"HARRISBURG","nc":15,"o":"-76.840502"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.367317,40.60898],"type":"Point"},"properties":{"a":"40.60898","cty":"NORTHAMPTON","id":8832486,"mun":"BETHLEHEM","nc":20,"o":"-75.367317"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.458553,40.393744],"type":"Point"},"properties":{"a":"40.393744","cty":"MONTGOMERY","id":8832487,"mun":"UPPER HANOVER TWP","nc":1,"o":"-75.458553"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.25418,40.58536],"type":"Point"},"properties":{"a":"40.58536","cty":"NORTHAMPTON","hp":true,"id":8832495,"mun":"LOWER SAUCON TWP","nc":7,"ne":{"a":"40.58697","o":"-75.25178"},"o":"-75.25418","sw":{"a":"40.58376","o":"-75.25657"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.333838,40.642242],"type":"Point"},"properties":{"a":"40.642242","cty":"NORTHAMPTON","id":8832497,"mun":"BETHLEHEM TWP","nc":9,"o":"-75.333838"},"type":"Feature"},
@@ -14,5 +13,10 @@
 {"geometry":{"coordinates":[-76.848619,40.964889],"type":"Point"},"properties":{"a":"40.964889","cty":"NORTHUMBERLAND","id":8832500,"mun":"WEST CHILLISQUAQUE TWP","nc":3,"o":"-76.848619"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.745323,40.274584],"type":"Point"},"properties":{"a":"40.274584","cty":"DAUPHIN","id":8832502,"mun":"SOUTH HANOVER TWP","nc":3,"o":"-76.745323"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.988243,40.959413],"type":"Point"},"properties":{"a":"40.959413","cty":"LUZERNE","id":8832505,"mun":"HAZLETON","nc":1,"o":"-75.988243"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.890828,40.269253],"type":"Point"},"properties":{"a":"40.269253","cty":"DAUPHIN","id":8832507,"mun":"HARRISBURG","nc":32,"o":"-76.890828"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.890828,40.269253],"type":"Point"},"properties":{"a":"40.269253","cty":"DAUPHIN","id":8832507,"mun":"HARRISBURG","nc":32,"o":"-76.890828"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.367865,40.611262],"type":"Point"},"properties":{"a":"40.611262","cty":"NORTHAMPTON","id":8832512,"mun":"BETHLEHEM","nc":1,"o":"-75.367865"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.08906,41.245464],"type":"Point"},"properties":{"a":"41.245464","cty":"PIKE","id":8832514,"mun":"PORTER TWP","nc":5,"o":"-75.08906"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.104122,41.230978],"type":"Point"},"properties":{"a":"41.230978","cty":"PIKE","id":8832516,"mun":"PORTER TWP","nc":5,"o":"-75.104122"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.24328,41.36255],"type":"Point"},"properties":{"a":"41.36255","cty":"PIKE","hp":true,"id":8832517,"mun":"PALMYRA TWP","nc":12,"ne":{"a":"41.36435","o":"-75.24098"},"o":"-75.24328","sw":{"a":"41.36075","o":"-75.24558"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.319973,40.03126],"type":"Point"},"properties":{"a":"40.03126","cty":"LANCASTER","id":8832518,"mun":"LANCASTER","nc":15,"o":"-76.319973"},"type":"Feature"}
 ]}
