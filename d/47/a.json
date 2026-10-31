@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-68.086237,45.553112],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-31T14:27:33.39-04:00","outageName":"F94025-84","outagePoint":{"lat":45.55311239838461,"lng":-68.0862369853568},"outageRecID":"2026-10-31-0497","outageStartTime":"2026-10-31T13:06:01-04:00","outageWorkStatus":"","streetsAffected":["CENTER ST"],"verified":true},"type":"Feature"}
+
 ]}
