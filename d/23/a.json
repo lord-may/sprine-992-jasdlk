@@ -4,5 +4,6 @@
 {"geometry":{"coordinates":[-75.27785,41.09593],"type":"Point"},"properties":{"a":"41.09593","cty":"MONROE","hp":true,"id":8832350,"mun":"PARADISE TWP","nc":29,"ne":{"a":"41.10074","o":"-75.26799"},"o":"-75.27785","sw":{"a":"41.09112","o":"-75.28771"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.312859,41.102005],"type":"Point"},"properties":{"a":"41.102005","cty":"MONROE","id":8832408,"mun":"PARADISE TWP","nc":1,"o":"-75.312859"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.69159,41.13835],"type":"Point"},"properties":{"a":"41.13835","cty":"MONTOUR","hp":true,"id":8832435,"mun":"ANTHONY TWP","nc":502,"ne":{"a":"41.17486","o":"-76.63225"},"o":"-76.69159","sw":{"a":"41.10184","o":"-76.75092"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.73657,41.37705],"type":"Point"},"properties":{"a":"41.37705","cty":"LACKAWANNA","hp":true,"id":8832459,"mun":"OLD FORGE BORO","nc":878,"ne":{"a":"41.38251","o":"-75.73086"},"o":"-75.73657","sw":{"a":"41.37158","o":"-75.74228"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.73657,41.37705],"type":"Point"},"properties":{"a":"41.37705","cty":"LACKAWANNA","hp":true,"id":8832459,"mun":"OLD FORGE BORO","nc":878,"ne":{"a":"41.38251","o":"-75.73086"},"o":"-75.73657","sw":{"a":"41.37158","o":"-75.74228"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.651867,41.405421],"type":"Point"},"properties":{"a":"41.405421","cty":"LACKAWANNA","id":8832471,"mun":"SCRANTON","nc":1,"o":"-75.651867"},"type":"Feature"}
 ]}
