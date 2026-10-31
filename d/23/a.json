@@ -3,15 +3,17 @@
 {"geometry":{"coordinates":[-75.27785,41.09593],"type":"Point"},"properties":{"a":"41.09593","cty":"MONROE","hp":true,"id":8832350,"mun":"PARADISE TWP","nc":29,"ne":{"a":"41.10074","o":"-75.26799"},"o":"-75.27785","sw":{"a":"41.09112","o":"-75.28771"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.73667,41.37292],"type":"Point"},"properties":{"a":"41.37292","cty":"NA","hp":true,"id":8832459,"mun":"NA","nc":90,"ne":{"a":"41.37377","o":"-75.7351"},"o":"-75.73667","sw":{"a":"41.37207","o":"-75.73825"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.24328,41.36255],"type":"Point"},"properties":{"a":"41.36255","cty":"PIKE","hp":true,"id":8832517,"mun":"PALMYRA TWP","nc":12,"ne":{"a":"41.36435","o":"-75.24098"},"o":"-75.24328","sw":{"a":"41.36075","o":"-75.24558"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.100149,40.29837],"type":"Point"},"properties":{"a":"40.29837","cty":"BERKS","id":8832546,"mun":"SOUTH HEIDELBERG TWP","nc":2,"o":"-76.100149"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.12253,41.49619],"type":"Point"},"properties":{"a":"41.49619","cty":"PIKE","hp":true,"id":8832550,"mun":"LACKAWAXEN TWP","nc":7,"ne":{"a":"41.49784","o":"-75.12159"},"o":"-75.12253","sw":{"a":"41.49454","o":"-75.12347"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.987401,40.958419],"type":"Point"},"properties":{"a":"40.958419","cty":"LUZERNE","id":8832574,"mun":"HAZLETON","nc":19,"o":"-75.987401"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.262386,39.97603],"type":"Point"},"properties":{"a":"39.97603","cty":"LANCASTER","id":8832578,"mun":"WEST LAMPETER TWP","nc":2,"o":"-76.262386"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.21701,40.295199],"type":"Point"},"properties":{"a":"40.295199","cty":"LEBANON","id":8832582,"mun":"MILLCREEK TWP","nc":2,"o":"-76.21701"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.21701,40.295199],"type":"Point"},"properties":{"a":"40.295199","cty":"LEBANON","id":8832582,"mun":"MILLCREEK TWP","nc":1,"o":"-76.21701"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.745323,40.274584],"type":"Point"},"properties":{"a":"40.274584","cty":"DAUPHIN","id":8832585,"mun":"SOUTH HANOVER TWP","nc":3,"o":"-76.745323"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.25474,41.32861],"type":"Point"},"properties":{"a":"41.32861","cty":"PIKE","hp":true,"id":8832587,"mun":"GREENE TWP","nc":12,"ne":{"a":"41.33052","o":"-75.25302"},"o":"-75.25474","sw":{"a":"41.32671","o":"-75.25646"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.368987,40.43548],"type":"Point"},"properties":{"a":"40.43548","cty":"BUCKS","id":8832588,"mun":"MILFORD TWP","nc":6,"o":"-75.368987"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.496327,40.400747],"type":"Point"},"properties":{"a":"40.400747","cty":"MONTGOMERY","id":8832589,"mun":"UPPER HANOVER TWP","nc":18,"o":"-75.496327"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.313917,41.25963],"type":"Point"},"properties":{"a":"41.25963","cty":"PIKE","id":8832590,"mun":"GREENE TWP","nc":3,"o":"-75.313917"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.011267,41.244143],"type":"Point"},"properties":{"a":"41.244143","cty":"LYCOMING","id":8832591,"mun":"WILLIAMSPORT","nc":17,"o":"-77.011267"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.011267,41.244143],"type":"Point"},"properties":{"a":"41.244143","cty":"LYCOMING","id":8832591,"mun":"WILLIAMSPORT","nc":17,"o":"-77.011267"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.100149,40.29837],"type":"Point"},"properties":{"a":"40.29837","cty":"BERKS","id":8832592,"mun":"SOUTH HEIDELBERG TWP","nc":2,"o":"-76.100149"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.76681,41.03921],"type":"Point"},"properties":{"a":"41.03921","cty":"LYCOMING","hp":true,"id":8832596,"mun":"MUNCY CREEK TWP","nc":1706,"ne":{"a":"41.20944","o":"-76.72234"},"o":"-76.76681","sw":{"a":"40.86899","o":"-76.81128"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.975877,40.958965],"type":"Point"},"properties":{"a":"40.958965","cty":"LUZERNE","id":8832597,"mun":"HAZLETON","nc":17,"o":"-75.975877"},"type":"Feature"}
 ]}
