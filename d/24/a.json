@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.458464,41.819578],"type":"Point"},"properties":{"a":"41.819578","cty":"PROVIDENCE","id":20261069262,"mun":"PROVIDENCE","nc":1,"o":"-71.458464"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.829179,41.382906],"type":"Point"},"properties":{"a":"41.382906","cty":"WASHINGTON","id":20261069263,"mun":"WESTERLY","nc":1,"o":"-71.829179"},"type":"Feature"}
 ]}
