@@ -7,8 +7,8 @@
 {"geometry":{"coordinates":[-75.459508,41.105419],"type":"Point"},"properties":{"a":"41.105419","cty":"MONROE","id":8832343,"mun":"TOBYHANNA TWP","nc":5,"o":"-75.459508"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.27785,41.09593],"type":"Point"},"properties":{"a":"41.09593","cty":"MONROE","hp":true,"id":8832350,"mun":"PARADISE TWP","nc":29,"ne":{"a":"41.10074","o":"-75.26799"},"o":"-75.27785","sw":{"a":"41.09112","o":"-75.28771"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.201614,41.362372],"type":"Point"},"properties":{"a":"41.362372","cty":"PIKE","id":8832370,"mun":"PALMYRA TWP","nc":3,"o":"-75.201614"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.328026,40.519883],"type":"Point"},"properties":{"a":"40.519883","cty":"BUCKS","id":8832372,"mun":"SPRINGFIELD TWP","nc":1,"o":"-75.328026"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.312859,41.102005],"type":"Point"},"properties":{"a":"41.102005","cty":"MONROE","id":8832408,"mun":"PARADISE TWP","nc":1,"o":"-75.312859"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.470084,41.342832],"type":"Point"},"properties":{"a":"41.342832","cty":"LACKAWANNA","id":8832427,"mun":"MADISON TWP","nc":1,"o":"-75.470084"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.69159,41.13153],"type":"Point"},"properties":{"a":"41.13153","cty":"MONTOUR","hp":true,"id":8832435,"mun":"ANTHONY TWP","nc":531,"ne":{"a":"41.17486","o":"-76.63225"},"o":"-76.69159","sw":{"a":"41.0882","o":"-76.75092"}},"type":"Feature"}
+{"geometry":{"coordinates":[-76.69159,41.13153],"type":"Point"},"properties":{"a":"41.13153","cty":"MONTOUR","hp":true,"id":8832435,"mun":"ANTHONY TWP","nc":531,"ne":{"a":"41.17486","o":"-76.63225"},"o":"-76.69159","sw":{"a":"41.0882","o":"-76.75092"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.408312,41.09339],"type":"Point"},"properties":{"a":"41.09339","cty":"MONROE","id":8832436,"mun":"TOBYHANNA TWP","nc":3,"o":"-75.408312"},"type":"Feature"}
 ]}
