@@ -10,5 +10,5 @@
 {"geometry":{"coordinates":[-75.312859,41.102005],"type":"Point"},"properties":{"a":"41.102005","cty":"MONROE","id":8832408,"mun":"PARADISE TWP","nc":1,"o":"-75.312859"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.470084,41.342832],"type":"Point"},"properties":{"a":"41.342832","cty":"LACKAWANNA","id":8832427,"mun":"MADISON TWP","nc":1,"o":"-75.470084"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.69159,41.13153],"type":"Point"},"properties":{"a":"41.13153","cty":"MONTOUR","hp":true,"id":8832435,"mun":"ANTHONY TWP","nc":531,"ne":{"a":"41.17486","o":"-76.63225"},"o":"-76.69159","sw":{"a":"41.0882","o":"-76.75092"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.408312,41.09339],"type":"Point"},"properties":{"a":"41.09339","cty":"MONROE","id":8832436,"mun":"TOBYHANNA TWP","nc":3,"o":"-75.408312"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.20632,41.52294],"type":"Point"},"properties":{"a":"41.52294","cty":"WAYNE","hp":true,"id":8832438,"mun":"TEXAS TWP","nc":107,"ne":{"a":"41.5291","o":"-75.20163"},"o":"-75.20632","sw":{"a":"41.51678","o":"-75.21102"}},"type":"Feature"}
 ]}
