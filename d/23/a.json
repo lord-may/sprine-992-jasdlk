@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.258087,41.329546],"type":"Point"},"properties":{"a":"41.329546","cty":"PIKE","id":8832307,"mun":"GREENE TWP","nc":2,"o":"-75.258087"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.78286,41.20539],"type":"Point"},"properties":{"a":"41.20539","cty":"LYCOMING","hp":true,"id":8832596,"mun":"MUNCY CREEK TWP","nc":673,"ne":{"a":"41.20944","o":"-76.77716"},"o":"-76.78286","sw":{"a":"41.20134","o":"-76.78856"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.76336,41.04894],"type":"Point"},"properties":{"a":"41.04894","cty":"CARBON","hp":true,"id":8832604,"mun":"KIDDER TWP","nc":34,"ne":{"a":"41.05578","o":"-75.75746"},"o":"-75.76336","sw":{"a":"41.0421","o":"-75.76925"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.212918,40.330895],"type":"Point"},"properties":{"a":"40.330895","cty":"BUCKS","id":8832616,"mun":"HILLTOWN TWP","nc":1,"o":"-75.212918"},"type":"Feature"},
@@ -9,6 +8,6 @@
 {"geometry":{"coordinates":[-75.257352,41.155454],"type":"Point"},"properties":{"a":"41.155454","cty":"MONROE","id":8832642,"mun":"BARRETT TWP","nc":1,"o":"-75.257352"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.460259,40.644843],"type":"Point"},"properties":{"a":"40.644843","cty":"LEHIGH","id":8832649,"mun":"CATASAUQUA BORO","nc":2,"o":"-75.460259"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.42427,40.122979],"type":"Point"},"properties":{"a":"40.122979","cty":"CUMBERLAND","id":8832650,"mun":"NORTH NEWTON TWP","nc":1,"o":"-77.42427"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.005519,40.20213],"type":"Point"},"properties":{"a":"40.20213","cty":"CUMBERLAND","id":8832651,"mun":"UPPER ALLEN TWP","nc":2,"o":"-77.005519"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.066861,41.514427],"type":"Point"},"properties":{"a":"41.514427","cty":"PIKE","id":8832652,"mun":"LACKAWAXEN TWP","nc":2,"o":"-75.066861"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.066861,41.514427],"type":"Point"},"properties":{"a":"41.514427","cty":"PIKE","id":8832652,"mun":"LACKAWAXEN TWP","nc":2,"o":"-75.066861"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.983674,40.968389],"type":"Point"},"properties":{"a":"40.968389","cty":"LUZERNE","id":8832657,"mun":"HAZLETON","nc":1,"o":"-75.983674"},"type":"Feature"}
 ]}
