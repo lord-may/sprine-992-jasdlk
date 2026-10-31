@@ -4,5 +4,5 @@
 {"geometry":{"coordinates":[-75.38895,40.405557],"type":"Point"},"properties":{"a":"40.405557","cty":"BUCKS","id":8832622,"mun":"MILFORD TWP","nc":1,"o":"-75.38895"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.257352,41.155454],"type":"Point"},"properties":{"a":"41.155454","cty":"MONROE","id":8832642,"mun":"BARRETT TWP","nc":1,"o":"-75.257352"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.42427,40.122979],"type":"Point"},"properties":{"a":"40.122979","cty":"CUMBERLAND","id":8832650,"mun":"NORTH NEWTON TWP","nc":1,"o":"-77.42427"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.066861,41.514427],"type":"Point"},"properties":{"a":"41.514427","cty":"PIKE","id":8832652,"mun":"LACKAWAXEN TWP","nc":2,"o":"-75.066861"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.63537,41.12125],"type":"Point"},"properties":{"a":"41.12125","cty":"MONROE","hp":true,"id":8832670,"mun":"TOBYHANNA TWP","nc":23,"ne":{"a":"41.12454","o":"-75.62396"},"o":"-75.63537","sw":{"a":"41.11795","o":"-75.64678"}},"type":"Feature"}
 ]}

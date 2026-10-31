@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-72.122058,41.512818],"type":"Point"},"properties":{"ADDRESS":"214 LAURA BLVD, NORWICH, CT, 06360","CUSTOMER_COUNT":95,"DEVICE_OID":2460,"FACILITY_ID":"FUS-H593","FEEDER_ID":"515","GDB_GEOMATTR_DATA":"","ID":45153,"INCIDENT_ID":50344,"OBJECTID":7866,"ORIG_FID":null,"REGION":2,"RxOID":2460,"TIME_OUTAGE":"10/31/2026 05:44 PM","TIME_RESTORED_EST":"Is still under review"},"type":"Feature"}
+
 ]}
