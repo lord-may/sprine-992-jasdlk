@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-70.87967,42.08217],[-70.87901,42.08221],[-70.8787,42.08224],[-70.87836,42.08229],[-70.87816,42.08267],[-70.87864,42.0826],[-70.87936,42.0825],[-70.88002,42.0824],[-70.87967,42.08217]]],"type":"Polygon"},{"coordinates":[-70.87902,42.08239],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"Vehicle Incident","ES-ES":"Incidente Con Un Vehículo","orig":"Vehicle"},"cluster":false,"comments":null,"crew_icon":true,"crew_status":{"EN-US":"Arrived","ES-ES":"Llegó","orig":"Arrived"},"cust_a":{"val":9},"etr":"2026-10-31T14:00:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-10-31T10:04:44Z","title":"Area Outage","town":"Hanson"},"type":"Feature"}
 ]}
