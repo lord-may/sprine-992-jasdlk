@@ -12,5 +12,7 @@
 {"geometry":{"coordinates":[-75.333838,40.642242],"type":"Point"},"properties":{"a":"40.642242","cty":"NORTHAMPTON","id":8832497,"mun":"BETHLEHEM TWP","nc":9,"o":"-75.333838"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.84425,41.257782],"type":"Point"},"properties":{"a":"41.257782","cty":"LUZERNE","id":8832498,"mun":"WILKES-BARRE","nc":17,"o":"-75.84425"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.197679,40.991941],"type":"Point"},"properties":{"a":"40.991941","cty":"MONROE","id":8832499,"mun":"STROUD TWP","nc":8,"o":"-75.197679"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.848619,40.964889],"type":"Point"},"properties":{"a":"40.964889","cty":"NORTHUMBERLAND","id":8832500,"mun":"WEST CHILLISQUAQUE TWP","nc":3,"o":"-76.848619"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.848619,40.964889],"type":"Point"},"properties":{"a":"40.964889","cty":"NORTHUMBERLAND","id":8832500,"mun":"WEST CHILLISQUAQUE TWP","nc":3,"o":"-76.848619"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.745323,40.274584],"type":"Point"},"properties":{"a":"40.274584","cty":"DAUPHIN","id":8832502,"mun":"SOUTH HANOVER TWP","nc":3,"o":"-76.745323"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.988243,40.959413],"type":"Point"},"properties":{"a":"40.959413","cty":"LUZERNE","id":8832505,"mun":"HAZLETON","nc":1,"o":"-75.988243"},"type":"Feature"}
 ]}
