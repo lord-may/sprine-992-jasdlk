@@ -4,5 +4,5 @@
 {"geometry":{"coordinates":[-75.27785,41.09593],"type":"Point"},"properties":{"a":"41.09593","cty":"MONROE","hp":true,"id":8832350,"mun":"PARADISE TWP","nc":29,"ne":{"a":"41.10074","o":"-75.26799"},"o":"-75.27785","sw":{"a":"41.09112","o":"-75.28771"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.312859,41.102005],"type":"Point"},"properties":{"a":"41.102005","cty":"MONROE","id":8832408,"mun":"PARADISE TWP","nc":1,"o":"-75.312859"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.73657,41.37705],"type":"Point"},"properties":{"a":"41.37705","cty":"LACKAWANNA","hp":true,"id":8832459,"mun":"OLD FORGE BORO","nc":878,"ne":{"a":"41.38251","o":"-75.73086"},"o":"-75.73657","sw":{"a":"41.37158","o":"-75.74228"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.408312,41.09339],"type":"Point"},"properties":{"a":"41.09339","cty":"MONROE","id":8832477,"mun":"TOBYHANNA TWP","nc":3,"o":"-75.408312"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.73346,41.203483],"type":"Point"},"properties":{"a":"41.203483","cty":"LYCOMING","id":8832479,"mun":"MUNCY CREEK TWP","nc":8,"o":"-76.73346"},"type":"Feature"}
 ]}
