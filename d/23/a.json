@@ -16,5 +16,9 @@
 {"geometry":{"coordinates":[-76.890828,40.269253],"type":"Point"},"properties":{"a":"40.269253","cty":"DAUPHIN","id":8832507,"mun":"HARRISBURG","nc":32,"o":"-76.890828"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.367865,40.611262],"type":"Point"},"properties":{"a":"40.611262","cty":"NORTHAMPTON","id":8832512,"mun":"BETHLEHEM","nc":1,"o":"-75.367865"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.09156,41.23986],"type":"Point"},"properties":{"a":"41.23986","cty":"PIKE","hp":true,"id":8832514,"mun":"PORTER TWP","nc":89,"ne":{"a":"41.24987","o":"-75.07675"},"o":"-75.09156","sw":{"a":"41.22986","o":"-75.10636"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.24328,41.36255],"type":"Point"},"properties":{"a":"41.36255","cty":"PIKE","hp":true,"id":8832517,"mun":"PALMYRA TWP","nc":12,"ne":{"a":"41.36435","o":"-75.24098"},"o":"-75.24328","sw":{"a":"41.36075","o":"-75.24558"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.24328,41.36255],"type":"Point"},"properties":{"a":"41.36255","cty":"PIKE","hp":true,"id":8832517,"mun":"PALMYRA TWP","nc":12,"ne":{"a":"41.36435","o":"-75.24098"},"o":"-75.24328","sw":{"a":"41.36075","o":"-75.24558"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.514362,40.683417],"type":"Point"},"properties":{"a":"40.683417","cty":"LEHIGH","id":8832527,"mun":"WHITEHALL TWP","nc":5,"o":"-75.514362"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.835848,40.15936],"type":"Point"},"properties":{"a":"40.15936","cty":"YORK","id":8832528,"mun":"FAIRVIEW TWP","nc":3,"o":"-76.835848"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.287816,39.974431],"type":"Point"},"properties":{"a":"39.974431","cty":"LANCASTER","id":8832529,"mun":"PEQUEA TWP","nc":2,"o":"-76.287816"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.735225,41.375957],"type":"Point"},"properties":{"a":"41.375957","cty":"LACKAWANNA","id":8832530,"mun":"OLD FORGE BORO","nc":7,"o":"-75.735225"},"type":"Feature"}
 ]}
