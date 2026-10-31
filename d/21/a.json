@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.975006,43.700534],"type":"Point"},"properties":{"EstRest":"10/31/2026 3:45:00 AM","Outages":169,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.977829,43.700076],"type":"Point"},"properties":{"EstRest":"10/31/2026 3:45:00 AM","Outages":4,"cause":"","county":"YORK","crewstatus":"DISP ","customers":4,"hamlet":"PARSONSFIELD","incidentnumber":"0045H7","incidents":1,"level":"street","opco":"CMP","street":"FRANKS PL","town":"PARSONSFIELD"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.91113,43.674864],"type":"Point"},"properties":{"EstRest":"10/31/2026 3:45:00 AM","Outages":169,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.960456,43.689101],"type":"Point"},"properties":{"EstRest":"10/31/2026 3:45:00 AM","Outages":20,"cause":"","county":"YORK","crewstatus":"ONST ","customers":25,"hamlet":"PARSONSFIELD","incidentnumber":"0045H7","incidents":1,"level":"street","opco":"CMP","street":"LOST MILE RD","town":"PARSONSFIELD"},"type":"Feature"}
 ]}
