@@ -1,7 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.446685,41.837068],"type":"Point"},"properties":{"a":"41.837068","cty":"PROVIDENCE","id":20261069215,"mun":"PROVIDENCE","nc":1,"o":"-71.446685"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.427813,41.789396],"type":"Point"},"properties":{"a":"41.789396","cty":"PROVIDENCE","id":20261069217,"mun":"PROVIDENCE","nc":1,"o":"-71.427813"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.796447,41.430949],"type":"Point"},"properties":{"a":"41.430949","cty":"WASHINGTON","id":20261069222,"mun":"HOPKINTON","nc":5,"o":"-71.796447"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.49079,41.493899],"type":"Point"},"properties":{"a":"41.493899","cty":"WASHINGTON","id":20261069223,"mun":"SOUTH KINGSTOWN","nc":6,"o":"-71.49079"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.664037,41.726326],"type":"Point"},"properties":{"a":"41.726326","cty":"KENT","id":20261069224,"mun":"COVENTRY","nc":1,"o":"-71.664037"},"type":"Feature"}
 ]}
