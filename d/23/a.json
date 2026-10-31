@@ -9,6 +9,9 @@
 {"geometry":{"coordinates":[-75.737396,41.547221],"type":"Point"},"properties":{"a":"41.547221","cty":"LACKAWANNA","id":8832620,"mun":"DALTON BORO","nc":1,"o":"-75.737396"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.38895,40.405557],"type":"Point"},"properties":{"a":"40.405557","cty":"BUCKS","id":8832622,"mun":"MILFORD TWP","nc":1,"o":"-75.38895"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.879,40.226232],"type":"Point"},"properties":{"a":"40.226232","cty":"CUMBERLAND","id":8832627,"mun":"NEW CUMBERLAND BORO","nc":6,"o":"-76.879"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.33786,41.52705],"type":"Point"},"properties":{"a":"41.52705","cty":"WAYNE","hp":true,"id":8832632,"mun":"SOUTH CANAAN TWP","nc":39,"ne":{"a":"41.5368","o":"-75.32809"},"o":"-75.33786","sw":{"a":"41.5173","o":"-75.34763"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.783832,41.205557],"type":"Point"},"properties":{"a":"41.205557","cty":"LYCOMING","id":8832635,"mun":"MUNCY CREEK TWP","nc":9,"o":"-76.783832"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.783832,41.205557],"type":"Point"},"properties":{"a":"41.205557","cty":"LYCOMING","id":8832635,"mun":"MUNCY CREEK TWP","nc":9,"o":"-76.783832"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.369102,40.005743],"type":"Point"},"properties":{"a":"40.005743","cty":"LANCASTER","id":8832636,"mun":"MANOR TWP","nc":3,"o":"-76.369102"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.557609,41.174985],"type":"Point"},"properties":{"a":"41.174985","cty":"MONROE","id":8832637,"mun":"COOLBAUGH TWP","nc":2,"o":"-75.557609"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.798992,40.259208],"type":"Point"},"properties":{"a":"40.259208","cty":"DAUPHIN","id":8832638,"mun":"SWATARA TWP","nc":1,"o":"-76.798992"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.490347,40.546921],"type":"Point"},"properties":{"a":"40.546921","cty":"LEHIGH","id":8832640,"mun":"EMMAUS BORO","nc":4,"o":"-75.490347"},"type":"Feature"}
 ]}
