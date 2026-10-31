@@ -1,7 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.258087,41.329546],"type":"Point"},"properties":{"a":"41.329546","cty":"PIKE","id":8832307,"mun":"GREENE TWP","nc":2,"o":"-75.258087"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.25474,41.32861],"type":"Point"},"properties":{"a":"41.32861","cty":"PIKE","hp":true,"id":8832587,"mun":"GREENE TWP","nc":12,"ne":{"a":"41.33052","o":"-75.25302"},"o":"-75.25474","sw":{"a":"41.32671","o":"-75.25646"}},"type":"Feature"},
-{"geometry":{"coordinates":[-77.011267,41.244143],"type":"Point"},"properties":{"a":"41.244143","cty":"LYCOMING","id":8832591,"mun":"WILLIAMSPORT","nc":17,"o":"-77.011267"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.76681,41.03921],"type":"Point"},"properties":{"a":"41.03921","cty":"LYCOMING","hp":true,"id":8832596,"mun":"MUNCY CREEK TWP","nc":1706,"ne":{"a":"41.20944","o":"-76.72234"},"o":"-76.76681","sw":{"a":"40.86899","o":"-76.81128"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.975877,40.958965],"type":"Point"},"properties":{"a":"40.958965","cty":"LUZERNE","id":8832597,"mun":"HAZLETON","nc":17,"o":"-75.975877"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.76336,41.04894],"type":"Point"},"properties":{"a":"41.04894","cty":"CARBON","hp":true,"id":8832604,"mun":"KIDDER TWP","nc":34,"ne":{"a":"41.05578","o":"-75.75746"},"o":"-75.76336","sw":{"a":"41.0421","o":"-75.76925"}},"type":"Feature"},
@@ -12,5 +11,6 @@
 {"geometry":{"coordinates":[-75.737396,41.547221],"type":"Point"},"properties":{"a":"41.547221","cty":"LACKAWANNA","id":8832620,"mun":"DALTON BORO","nc":1,"o":"-75.737396"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.38895,40.405557],"type":"Point"},"properties":{"a":"40.405557","cty":"BUCKS","id":8832622,"mun":"MILFORD TWP","nc":1,"o":"-75.38895"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.367677,40.002944],"type":"Point"},"properties":{"a":"40.002944","cty":"LANCASTER","id":8832623,"mun":"MANOR TWP","nc":9,"o":"-76.367677"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.879,40.226232],"type":"Point"},"properties":{"a":"40.226232","cty":"CUMBERLAND","id":8832627,"mun":"NEW CUMBERLAND BORO","nc":6,"o":"-76.879"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.879,40.226232],"type":"Point"},"properties":{"a":"40.226232","cty":"CUMBERLAND","id":8832627,"mun":"NEW CUMBERLAND BORO","nc":6,"o":"-76.879"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.369102,40.005743],"type":"Point"},"properties":{"a":"40.005743","cty":"LANCASTER","id":8832630,"mun":"MANOR TWP","nc":3,"o":"-76.369102"},"type":"Feature"}
 ]}
