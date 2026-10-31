@@ -6,11 +6,13 @@
 {"geometry":{"coordinates":[-75.69273,40.75816],"type":"Point"},"properties":{"a":"40.75816","cty":"LEHIGH","hp":true,"id":8832327,"mun":"WASHINGTON TWP","nc":7,"ne":{"a":"40.76011","o":"-75.69016"},"o":"-75.69273","sw":{"a":"40.7562","o":"-75.69529"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.557609,41.174985],"type":"Point"},"properties":{"a":"41.174985","cty":"MONROE","id":8832340,"mun":"COOLBAUGH TWP","nc":2,"o":"-75.557609"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.459508,41.105419],"type":"Point"},"properties":{"a":"41.105419","cty":"MONROE","id":8832343,"mun":"TOBYHANNA TWP","nc":5,"o":"-75.459508"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.27785,41.09341],"type":"Point"},"properties":{"a":"41.09341","cty":"MONROE","hp":true,"id":8832350,"mun":"POCONO TWP","nc":41,"ne":{"a":"41.10074","o":"-75.26799"},"o":"-75.27785","sw":{"a":"41.08607","o":"-75.28771"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.27785,41.09593],"type":"Point"},"properties":{"a":"41.09593","cty":"MONROE","hp":true,"id":8832350,"mun":"PARADISE TWP","nc":29,"ne":{"a":"41.10074","o":"-75.26799"},"o":"-75.27785","sw":{"a":"41.09112","o":"-75.28771"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.201614,41.362372],"type":"Point"},"properties":{"a":"41.362372","cty":"PIKE","id":8832370,"mun":"PALMYRA TWP","nc":3,"o":"-75.201614"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.328026,40.519883],"type":"Point"},"properties":{"a":"40.519883","cty":"BUCKS","id":8832372,"mun":"SPRINGFIELD TWP","nc":1,"o":"-75.328026"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.272833,41.187988],"type":"Point"},"properties":{"a":"41.187988","cty":"MONROE","id":8832393,"mun":"BARRETT TWP","nc":3,"o":"-75.272833"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.312859,41.102005],"type":"Point"},"properties":{"a":"41.102005","cty":"MONROE","id":8832408,"mun":"PARADISE TWP","nc":1,"o":"-75.312859"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.142401,40.596507],"type":"Point"},"properties":{"a":"40.596507","cty":"JUNIATA","id":8832409,"mun":"GREENWOOD TWP","nc":2,"o":"-77.142401"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.74128,41.49436],"type":"Point"},"properties":{"a":"41.49436","cty":"LACKAWANNA","hp":true,"id":8832415,"mun":"GLENBURN TWP","nc":62,"ne":{"a":"41.49984","o":"-75.73597"},"o":"-75.74128","sw":{"a":"41.48888","o":"-75.74659"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.74128,41.49436],"type":"Point"},"properties":{"a":"41.49436","cty":"LACKAWANNA","hp":true,"id":8832415,"mun":"GLENBURN TWP","nc":62,"ne":{"a":"41.49984","o":"-75.73597"},"o":"-75.74128","sw":{"a":"41.48888","o":"-75.74659"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.614598,41.473188],"type":"Point"},"properties":{"a":"41.473188","cty":"LACKAWANNA","id":8832422,"mun":"DICKSON CITY BORO","nc":7,"o":"-75.614598"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.369832,41.457575],"type":"Point"},"properties":{"a":"41.457575","cty":"WAYNE","id":8832424,"mun":"LAKE TWP","nc":2,"o":"-75.369832"},"type":"Feature"}
 ]}
