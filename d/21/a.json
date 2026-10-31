@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-68.942191,44.537753],"type":"Point"},"properties":{"EstRest":"10/31/2026 3:00:00 AM","Outages":14,"county":"WALDO","customers":26703,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-68.942191,44.537753],"type":"Point"},"properties":{"EstRest":"10/31/2026 3:00:00 AM","Outages":1,"cause":"","county":"WALDO","crewstatus":"ENRT ","customers":8,"hamlet":"SEARSPORT","incidentnumber":"0045H1","incidents":1,"level":"street","opco":"CMP","street":"NICKELS RD","town":"SEARSPORT"},"type":"Feature"},
+{"geometry":{"coordinates":[-68.942191,44.537753],"type":"Point"},"properties":{"EstRest":"10/31/2026 3:00:00 AM","Outages":1,"county":"WALDO","customers":26703,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.91113,43.674864],"type":"Point"},"properties":{"EstRest":"10/31/2026 3:45:00 AM","Outages":169,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.960456,43.689101],"type":"Point"},"properties":{"EstRest":"10/31/2026 3:45:00 AM","Outages":20,"cause":"","county":"YORK","crewstatus":"     ","customers":25,"hamlet":"PARSONSFIELD","incidentnumber":"0045H7","incidents":1,"level":"street","opco":"CMP","street":"LOST MILE RD","town":"PARSONSFIELD"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.960456,43.689101],"type":"Point"},"properties":{"EstRest":"10/31/2026 3:45:00 AM","Outages":20,"cause":"","county":"YORK","crewstatus":"DISP ","customers":25,"hamlet":"PARSONSFIELD","incidentnumber":"0045H7","incidents":1,"level":"street","opco":"CMP","street":"LOST MILE RD","town":"PARSONSFIELD"},"type":"Feature"}
 ]}
