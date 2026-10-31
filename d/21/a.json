@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-70.356887,43.74443],"type":"Point"},"properties":{"EstRest":"10/31/2026 10:00:00 AM","Outages":79,"county":"CUMBERLAND","customers":182407,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-68.88512,44.466114],"type":"Point"},"properties":{"EstRest":"10/31/2026 9:15:00 AM","Outages":1,"cause":"","county":"WALDO","crewstatus":"ENRT ","customers":3,"hamlet":"SEARSPORT","incidentnumber":"0045HD","incidents":1,"level":"street","opco":"CMP","street":"SEARS ISLAND RD","town":"SEARSPORT"},"type":"Feature"},
-{"geometry":{"coordinates":[-68.88512,44.466114],"type":"Point"},"properties":{"EstRest":"10/31/2026 9:15:00 AM","Outages":1,"county":"WALDO","customers":26703,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.386268,44.25273],"type":"Point"},"properties":{"EstRest":"10/31/2026 9:45:00 AM","Outages":2,"cause":"","county":"KNOX","crewstatus":"     ","customers":2,"hamlet":"WASHINGTON","incidentnumber":"0045HI","incidents":1,"level":"street","opco":"CMP","street":"OVERLOCK RIDGE RD","town":"WASHINGTON"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.389354,44.254775],"type":"Point"},"properties":{"EstRest":"10/31/2026 9:45:00 AM","Outages":15,"county":"KNOX","customers":27251,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-68.88512,44.466114],"type":"Point"},"properties":{"EstRest":"10/31/2026 9:45:00 AM","Outages":3,"county":"WALDO","customers":26703,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
