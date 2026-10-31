@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-67.338396,45.12363],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":5,"customersOutNow":5,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-31T10:13:59.98-04:00","outageName":"F52020-64","outagePoint":{"lat":45.12362999999979,"lng":-67.33839649999976},"outageRecID":"2026-10-31-0493","outageStartTime":"2026-10-31T10:13:46-04:00","outageWorkStatus":"","streetsAffected":["BROOK ST","US HWY 1"],"verified":true},"type":"Feature"}
+
 ]}
