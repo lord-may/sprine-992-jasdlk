@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.369156,41.827801],"type":"Point"},"properties":{"a":"41.827801","cty":"PROVIDENCE","id":20261069273,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.369156"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.243966,41.608116],"type":"Point"},"properties":{"a":"41.608116","cty":"NEWPORT","id":20261069274,"mun":"PORTSMOUTH","nc":8,"o":"-71.243966"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.422232,41.793054],"type":"Point"},"properties":{"a":"41.793054","cty":"PROVIDENCE","id":20261069277,"mun":"PROVIDENCE","nc":1,"o":"-71.422232"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.456309,41.653553],"type":"Point"},"properties":{"a":"41.653553","cty":"KENT","id":20261069279,"mun":"EAST GREENWICH","nc":1,"o":"-71.456309"},"type":"Feature"}
 ]}
