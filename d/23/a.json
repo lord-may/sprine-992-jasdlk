@@ -8,10 +8,10 @@
 {"geometry":{"coordinates":[-76.840502,40.258979],"type":"Point"},"properties":{"a":"40.258979","cty":"DAUPHIN","id":8832484,"mun":"HARRISBURG","nc":15,"o":"-76.840502"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.367317,40.60898],"type":"Point"},"properties":{"a":"40.60898","cty":"NORTHAMPTON","id":8832486,"mun":"BETHLEHEM","nc":20,"o":"-75.367317"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.458553,40.393744],"type":"Point"},"properties":{"a":"40.393744","cty":"MONTGOMERY","id":8832487,"mun":"UPPER HANOVER TWP","nc":1,"o":"-75.458553"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.737427,41.375274],"type":"Point"},"properties":{"a":"41.375274","cty":"LACKAWANNA","id":8832488,"mun":"OLD FORGE BORO","nc":1,"o":"-75.737427"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.736724,41.380774],"type":"Point"},"properties":{"a":"41.380774","cty":"LACKAWANNA","id":8832489,"mun":"OLD FORGE BORO","nc":5,"o":"-75.736724"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.737883,41.373291],"type":"Point"},"properties":{"a":"41.373291","cty":"LACKAWANNA","id":8832490,"mun":"OLD FORGE BORO","nc":15,"o":"-75.737883"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.741583,41.37441],"type":"Point"},"properties":{"a":"41.37441","cty":"LACKAWANNA","id":8832491,"mun":"OLD FORGE BORO","nc":1,"o":"-75.741583"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.929349,40.26098],"type":"Point"},"properties":{"a":"40.26098","cty":"CUMBERLAND","id":8832492,"mun":"EAST PENNSBORO TWP","nc":1,"o":"-76.929349"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.254559,40.586599],"type":"Point"},"properties":{"a":"40.586599","cty":"NORTHAMPTON","id":8832493,"mun":"WILLIAMS TWP","nc":2,"o":"-75.254559"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.25418,40.58536],"type":"Point"},"properties":{"a":"40.58536","cty":"NORTHAMPTON","hp":true,"id":8832495,"mun":"LOWER SAUCON TWP","nc":7,"ne":{"a":"40.58697","o":"-75.25178"},"o":"-75.25418","sw":{"a":"40.58376","o":"-75.25657"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.408312,41.09339],"type":"Point"},"properties":{"a":"41.09339","cty":"MONROE","id":8832496,"mun":"TOBYHANNA TWP","nc":3,"o":"-75.408312"},"type":"Feature"}
 ]}

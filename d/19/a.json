@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-73.7381,41.640297],"type":"Point"},"properties":{"EstRest":"10/31/2026 10:45:00 AM","Outages":133,"county":"DUTCHESS","customers":16337,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-73.742268,41.645211],"type":"Point"},"properties":{"EstRest":"10/31/2026 10:45:00 AM","Outages":4,"cause":"","county":"DUTCHESS","crewstatus":"DISP ","customers":4,"hamlet":"LAGRANGEVILLE","incidentnumber":"01193A","incidents":1,"level":"street","opco":"NYSEG","street":"TEN JEN ACRES","town":"BEEKMAN T"},"type":"Feature"}
 ]}
