@@ -4,12 +4,10 @@
 {"geometry":{"coordinates":[-75.27785,41.09593],"type":"Point"},"properties":{"a":"41.09593","cty":"MONROE","hp":true,"id":8832350,"mun":"PARADISE TWP","nc":29,"ne":{"a":"41.10074","o":"-75.26799"},"o":"-75.27785","sw":{"a":"41.09112","o":"-75.28771"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.73667,41.37292],"type":"Point"},"properties":{"a":"41.37292","cty":"NA","hp":true,"id":8832459,"mun":"NA","nc":90,"ne":{"a":"41.37377","o":"-75.7351"},"o":"-75.73667","sw":{"a":"41.37207","o":"-75.73825"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.604571,40.568409],"type":"Point"},"properties":{"a":"40.568409","cty":"LEHIGH","id":8832482,"mun":"UPPER MACUNGIE TWP","nc":2,"o":"-75.604571"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.988243,40.959413],"type":"Point"},"properties":{"a":"40.959413","cty":"LUZERNE","id":8832505,"mun":"HAZLETON","nc":1,"o":"-75.988243"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.367865,40.611262],"type":"Point"},"properties":{"a":"40.611262","cty":"NORTHAMPTON","id":8832512,"mun":"BETHLEHEM","nc":1,"o":"-75.367865"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.09156,41.23986],"type":"Point"},"properties":{"a":"41.23986","cty":"PIKE","hp":true,"id":8832514,"mun":"PORTER TWP","nc":89,"ne":{"a":"41.24987","o":"-75.07675"},"o":"-75.09156","sw":{"a":"41.22986","o":"-75.10636"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.24328,41.36255],"type":"Point"},"properties":{"a":"41.36255","cty":"PIKE","hp":true,"id":8832517,"mun":"PALMYRA TWP","nc":12,"ne":{"a":"41.36435","o":"-75.24098"},"o":"-75.24328","sw":{"a":"41.36075","o":"-75.24558"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.59735,40.635333],"type":"Point"},"properties":{"a":"40.635333","cty":"SCHUYLKILL","id":8832532,"mun":"HUBLEY TWP","nc":2,"o":"-76.59735"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.342609,40.176376],"type":"Point"},"properties":{"a":"40.176376","cty":"LANCASTER","id":8832536,"mun":"PENN TWP","nc":2,"o":"-76.342609"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.39097,40.57055],"type":"Point"},"properties":{"a":"40.57055","cty":"JUNIATA","hp":true,"id":8832541,"mun":"FERMANAGH TWP","nc":20,"ne":{"a":"40.5715","o":"-77.38966"},"o":"-77.39097","sw":{"a":"40.56961","o":"-77.39228"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.737217,40.803399],"type":"Point"},"properties":{"a":"40.803399","cty":"NORTHUMBERLAND","id":8832542,"mun":"ROCKEFELLER TWP","nc":2,"o":"-76.737217"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.100149,40.29837],"type":"Point"},"properties":{"a":"40.29837","cty":"BERKS","id":8832546,"mun":"SOUTH HEIDELBERG TWP","nc":2,"o":"-76.100149"},"type":"Feature"},
@@ -20,9 +18,8 @@
 {"geometry":{"coordinates":[-76.790983,40.863446],"type":"Point"},"properties":{"a":"40.863446","cty":"NORTHUMBERLAND","id":8832562,"mun":"UPPER AUGUSTA TWP","nc":1,"o":"-76.790983"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.336599,40.642283],"type":"Point"},"properties":{"a":"40.642283","cty":"NORTHAMPTON","id":8832563,"mun":"BETHLEHEM TWP","nc":6,"o":"-75.336599"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.527723,40.561675],"type":"Point"},"properties":{"a":"40.561675","cty":"LEHIGH","id":8832564,"mun":"LOWER MACUNGIE TWP","nc":2,"o":"-75.527723"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.737424,41.347158],"type":"Point"},"properties":{"a":"41.347158","cty":"LUZERNE","id":8832565,"mun":"DURYEA BORO","nc":1,"o":"-75.737424"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.745323,40.274584],"type":"Point"},"properties":{"a":"40.274584","cty":"DAUPHIN","id":8832566,"mun":"SOUTH HANOVER TWP","nc":3,"o":"-76.745323"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.488437,40.558161],"type":"Point"},"properties":{"a":"40.558161","cty":"LEHIGH","id":8832567,"mun":"ALLENTOWN","nc":7,"o":"-75.488437"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.48962,40.55558],"type":"Point"},"properties":{"a":"40.55558","cty":"LEHIGH","hp":true,"id":8832568,"mun":"NA","nc":4,"ne":{"a":"40.55634","o":"-75.48906"},"o":"-75.48962","sw":{"a":"40.55482","o":"-75.49018"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.656192,40.706257],"type":"Point"},"properties":{"a":"40.706257","cty":"NORTHUMBERLAND","id":8832570,"mun":"UPPER MAHANOY TWP","nc":1,"o":"-76.656192"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.656192,40.706257],"type":"Point"},"properties":{"a":"40.706257","cty":"NORTHUMBERLAND","id":8832570,"mun":"UPPER MAHANOY TWP","nc":1,"o":"-76.656192"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.772159,40.271344],"type":"Point"},"properties":{"a":"40.271344","cty":"DAUPHIN","id":8832571,"mun":"SWATARA TWP","nc":4,"o":"-76.772159"},"type":"Feature"}
 ]}
