@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-73.406094,42.49445],"type":"Point"},"properties":{"EstRest":"10/31/2026 1:30:00 AM","Outages":1,"cause":"","county":"COLUMBIA","crewstatus":"DISP ","customers":3,"hamlet":"NEW LEBANON","incidentnumber":"01192H","incidents":1,"level":"street","opco":"NYSEG","street":"DYMOND RD","town":"NEW LEBANON T"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.406094,42.49445],"type":"Point"},"properties":{"EstRest":"10/31/2026 1:30:00 AM","Outages":1,"county":"COLUMBIA","customers":15380,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+
 ]}

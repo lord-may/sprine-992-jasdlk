@@ -5,7 +5,5 @@
 {"geometry":{"coordinates":[-75.201614,41.362372],"type":"Point"},"properties":{"a":"41.362372","cty":"PIKE","id":8832370,"mun":"PALMYRA TWP","nc":3,"o":"-75.201614"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.312859,41.102005],"type":"Point"},"properties":{"a":"41.102005","cty":"MONROE","id":8832408,"mun":"PARADISE TWP","nc":1,"o":"-75.312859"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.66877,41.13048],"type":"Point"},"properties":{"a":"41.13048","cty":"NA","hp":true,"id":8832435,"mun":"NA","nc":122,"ne":{"a":"41.15449","o":"-76.63225"},"o":"-76.66877","sw":{"a":"41.10647","o":"-76.70529"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.40469,41.373925],"type":"Point"},"properties":{"a":"41.373925","cty":"WAYNE","id":8832445,"mun":"SALEM TWP","nc":2,"o":"-75.40469"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.40731,41.36863],"type":"Point"},"properties":{"a":"41.36863","cty":"WAYNE","hp":true,"id":8832453,"mun":"STERLING TWP","nc":95,"ne":{"a":"41.38234","o":"-75.39476"},"o":"-75.40731","sw":{"a":"41.35491","o":"-75.41985"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.73657,41.37705],"type":"Point"},"properties":{"a":"41.37705","cty":"LACKAWANNA","hp":true,"id":8832459,"mun":"OLD FORGE BORO","nc":877,"ne":{"a":"41.38251","o":"-75.73086"},"o":"-75.73657","sw":{"a":"41.37158","o":"-75.74228"}},"type":"Feature"}
 ]}
