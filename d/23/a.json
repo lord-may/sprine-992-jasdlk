@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.76336,41.04894],"type":"Point"},"properties":{"a":"41.04894","cty":"CARBON","hp":true,"id":8832604,"mun":"KIDDER TWP","nc":34,"ne":{"a":"41.05578","o":"-75.75746"},"o":"-75.76336","sw":{"a":"41.0421","o":"-75.76925"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.212918,40.330895],"type":"Point"},"properties":{"a":"40.330895","cty":"BUCKS","id":8832616,"mun":"HILLTOWN TWP","nc":1,"o":"-75.212918"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.42427,40.122979],"type":"Point"},"properties":{"a":"40.122979","cty":"CUMBERLAND","id":8832650,"mun":"NORTH NEWTON TWP","nc":1,"o":"-77.42427"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.63537,41.12125],"type":"Point"},"properties":{"a":"41.12125","cty":"MONROE","hp":true,"id":8832670,"mun":"TOBYHANNA TWP","nc":23,"ne":{"a":"41.12454","o":"-75.62396"},"o":"-75.63537","sw":{"a":"41.11795","o":"-75.64678"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.63537,41.12125],"type":"Point"},"properties":{"a":"41.12125","cty":"MONROE","hp":true,"id":8832670,"mun":"TOBYHANNA TWP","nc":23,"ne":{"a":"41.12454","o":"-75.62396"},"o":"-75.63537","sw":{"a":"41.11795","o":"-75.64678"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.772159,40.271344],"type":"Point"},"properties":{"a":"40.271344","cty":"DAUPHIN","id":8832676,"mun":"SWATARA TWP","nc":4,"o":"-76.772159"},"type":"Feature"}
 ]}
