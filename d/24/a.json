@@ -1,7 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.430771,41.472558],"type":"Point"},"properties":{"a":"41.472558","cty":"WASHINGTON","id":20261069420,"mun":"NARRAGANSETT","nc":7,"o":"-71.430771"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.25046,41.68248],"type":"Point"},"properties":{"a":"41.68248","cty":"BRISTOL","hp":true,"id":20261069426,"mun":"BRISTOL","nc":271,"ne":{"a":"41.68499","o":"-71.2409"},"o":"-71.25046","sw":{"a":"41.67998","o":"-71.26001"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.242168,41.681828],"type":"Point"},"properties":{"a":"41.681828","cty":"BRISTOL","id":20261069428,"mun":"BRISTOL","nc":1,"o":"-71.242168"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.472607,41.78578],"type":"Point"},"properties":{"a":"41.78578","cty":"PROVIDENCE","id":20261069441,"mun":"CRANSTON","nc":1,"o":"-71.472607"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.522667,41.960591],"type":"Point"},"properties":{"a":"41.960591","cty":"PROVIDENCE","id":20261069444,"mun":"NORTH SMITHFIELD","nc":1,"o":"-71.522667"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.522667,41.960591],"type":"Point"},"properties":{"a":"41.960591","cty":"PROVIDENCE","id":20261069444,"mun":"NORTH SMITHFIELD","nc":1,"o":"-71.522667"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.255015,41.683193],"type":"Point"},"properties":{"a":"41.683193","cty":"BRISTOL","id":20261069446,"mun":"BRISTOL","nc":1,"o":"-71.255015"},"type":"Feature"}
 ]}

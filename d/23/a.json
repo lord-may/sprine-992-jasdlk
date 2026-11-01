@@ -1,12 +1,7 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.436375,40.990114],"type":"Point"},"properties":{"a":"40.990114","cty":"MONROE","id":8832782,"mun":"CHESTNUT HILL TWP","nc":2,"o":"-75.436375"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.08955,40.823994],"type":"Point"},"properties":{"a":"40.823994","cty":"SNYDER","id":8832783,"mun":"CENTRE TWP","nc":1,"o":"-77.08955"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.274513,40.495416],"type":"Point"},"properties":{"a":"40.495416","cty":"BUCKS","id":8832793,"mun":"HAYCOCK TWP","nc":1,"o":"-75.274513"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.322889,39.955665],"type":"Point"},"properties":{"a":"39.955665","cty":"LANCASTER","id":8832794,"mun":"PEQUEA TWP","nc":1,"o":"-76.322889"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.294573,40.047981],"type":"Point"},"properties":{"a":"40.047981","cty":"LANCASTER","id":8832796,"mun":"LANCASTER","nc":4,"o":"-76.294573"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.547387,41.144704],"type":"Point"},"properties":{"a":"41.144704","cty":"MONROE","id":8832798,"mun":"TOBYHANNA TWP","nc":2,"o":"-75.547387"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.079902,41.347848],"type":"Point"},"properties":{"a":"41.347848","cty":"LYCOMING","id":8832804,"mun":"HEPBURN TWP","nc":1,"o":"-77.079902"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.230545,41.029906],"type":"Point"},"properties":{"a":"41.029906","cty":"MONROE","id":8832805,"mun":"STROUD TWP","nc":3,"o":"-75.230545"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.204551,41.528937],"type":"Point"},"properties":{"a":"41.528937","cty":"WAYNE","id":8832808,"mun":"TEXAS TWP","nc":1,"o":"-75.204551"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.017627,40.210172],"type":"Point"},"properties":{"a":"40.210172","cty":"CUMBERLAND","id":8832809,"mun":"MECHANICSBURG BORO","nc":14,"o":"-77.017627"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.204551,41.528937],"type":"Point"},"properties":{"a":"41.528937","cty":"WAYNE","id":8832808,"mun":"TEXAS TWP","nc":1,"o":"-75.204551"},"type":"Feature"}
 ]}
