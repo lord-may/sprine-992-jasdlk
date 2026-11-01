@@ -1,10 +1,13 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.196338,40.023315],"type":"Point"},"properties":{"a":"40.023315","cty":"LANCASTER","id":8832684,"mun":"EAST LAMPETER TWP","nc":1,"o":"-76.196338"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.181199,40.075655],"type":"Point"},"properties":{"a":"40.075655","cty":"LANCASTER","id":8832707,"mun":"UPPER LEACOCK TWP","nc":2,"o":"-76.181199"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.582398,40.148253],"type":"Point"},"properties":{"a":"40.148253","cty":"LANCASTER","id":8832708,"mun":"ELIZABETHTOWN BORO","nc":3,"o":"-76.582398"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.208727,40.332856],"type":"Point"},"properties":{"a":"40.332856","cty":"BUCKS","id":8832714,"mun":"NEW BRITAIN TWP","nc":1,"o":"-75.208727"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.047255,40.11693],"type":"Point"},"properties":{"a":"40.11693","cty":"LANCASTER","id":8832715,"mun":"EAST EARL TWP","nc":3,"o":"-76.047255"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.288415,40.050142],"type":"Point"},"properties":{"a":"40.050142","cty":"LANCASTER","id":8832716,"mun":"LANCASTER","nc":6,"o":"-76.288415"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.283417,40.044463],"type":"Point"},"properties":{"a":"40.044463","cty":"LANCASTER","id":8832717,"mun":"NA","nc":2,"o":"-76.283417"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.571529,40.555618],"type":"Point"},"properties":{"a":"40.555618","cty":"DAUPHIN","id":8832719,"mun":"RUSH TWP","nc":1,"o":"-76.571529"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.571529,40.555618],"type":"Point"},"properties":{"a":"40.555618","cty":"DAUPHIN","id":8832719,"mun":"RUSH TWP","nc":1,"o":"-76.571529"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.567279,40.962351],"type":"Point"},"properties":{"a":"40.962351","cty":"MONTOUR","id":8832723,"mun":"MAHONING TWP","nc":1,"o":"-76.567279"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.313917,41.25963],"type":"Point"},"properties":{"a":"41.25963","cty":"PIKE","id":8832724,"mun":"GREENE TWP","nc":3,"o":"-75.313917"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.54392,40.86396],"type":"Point"},"properties":{"a":"40.86396","cty":"NORTHUMBERLAND","hp":true,"id":8832725,"mun":"RALPHO TWP","nc":31,"ne":{"a":"40.86553","o":"-76.54262"},"o":"-76.54392","sw":{"a":"40.86238","o":"-76.54521"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.565536,40.744964],"type":"Point"},"properties":{"a":"40.744964","cty":"NORTHAMPTON","id":8832727,"mun":"LEHIGH TWP","nc":8,"o":"-75.565536"},"type":"Feature"}
 ]}
