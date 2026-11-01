@@ -4,5 +4,6 @@
 {"geometry":{"coordinates":[-71.436995,41.862149],"type":"Point"},"properties":{"a":"41.862149","cty":"PROVIDENCE","id":20261069364,"mun":"NORTH PROVIDENCE","nc":94,"o":"-71.436995"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.242629,41.617425],"type":"Point"},"properties":{"a":"41.617425","cty":"NEWPORT","id":20261069366,"mun":"PORTSMOUTH","nc":15,"o":"-71.242629"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.405701,41.7737],"type":"Point"},"properties":{"a":"41.7737","cty":"PROVIDENCE","id":20261069368,"mun":"CRANSTON","nc":1,"o":"-71.405701"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.424616,41.866928],"type":"Point"},"properties":{"a":"41.866928","cty":"PROVIDENCE","id":20261069378,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.424616"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.373419,41.871864],"type":"Point"},"properties":{"a":"41.871864","cty":"PROVIDENCE","id":20261069386,"mun":"PAWTUCKET","nc":14,"o":"-71.373419"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.486125,41.792886],"type":"Point"},"properties":{"a":"41.792886","cty":"PROVIDENCE","id":20261069388,"mun":"CRANSTON","nc":1,"o":"-71.486125"},"type":"Feature"}
 ]}

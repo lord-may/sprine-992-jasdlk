@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-73.269396,43.456644],"type":"Point"},"properties":{"EstRest":"11/1/2026 7:00:00 AM","Outages":227,"county":"WASHINGTON","customers":6326,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.304571,43.46753],"type":"Point"},"properties":{"EstRest":"11/1/2026 7:00:00 AM","Outages":2,"cause":"","county":"WASHINGTON","crewstatus":"ONST ","customers":2,"hamlet":"GRANVILLE","incidentnumber":"011974","incidents":1,"level":"street","opco":"NYSEG","street":"DEKALB ROAD","town":"GRANVILLE T"},"type":"Feature"},
 {"geometry":{"coordinates":[-73.720943,41.280235],"type":"Point"},"properties":{"EstRest":"11/1/2026 7:45:00 AM","Outages":1,"cause":"","county":"WESTCHESTER","crewstatus":"DISP ","customers":49,"hamlet":"KATONAH","incidentnumber":"011977","incidents":1,"level":"street","opco":"NYSEG","street":"ROUTE 35","town":"SOMERS T"},"type":"Feature"},
 {"geometry":{"coordinates":[-73.720943,41.280235],"type":"Point"},"properties":{"EstRest":"11/1/2026 7:45:00 AM","Outages":2,"county":"WESTCHESTER","customers":33722,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
