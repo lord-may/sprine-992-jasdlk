@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-73.8642,40.95455],[-73.86388,40.95579],[-73.86415,40.95516],[-73.8642,40.95503],[-73.8642,40.95455]]],"type":"Polygon"},{"coordinates":[-73.86409,40.95513],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"DSP","cust_a":{"val":5},"etr":"ETR-NULL","outages":null,"reported_problem":"No Lights","title":"Outage Information"},"type":"Feature"}
+{"geometry":{"coordinates":[-73.8626,40.95688],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"DSP","cust_a":{"val":2},"etr":"2026-11-01T05:30:00-0500","outages":null,"reported_problem":"No Lights","title":"Outage Information"},"type":"Feature"}
 ]}
