@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.196338,40.023315],"type":"Point"},"properties":{"a":"40.023315","cty":"LANCASTER","id":8832684,"mun":"EAST LAMPETER TWP","nc":1,"o":"-76.196338"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.567279,40.962351],"type":"Point"},"properties":{"a":"40.962351","cty":"MONTOUR","id":8832723,"mun":"MAHONING TWP","nc":1,"o":"-76.567279"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.54392,40.86396],"type":"Point"},"properties":{"a":"40.86396","cty":"NORTHUMBERLAND","hp":true,"id":8832725,"mun":"RALPHO TWP","nc":31,"ne":{"a":"40.86553","o":"-76.54262"},"o":"-76.54392","sw":{"a":"40.86238","o":"-76.54521"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.411568,40.630647],"type":"Point"},"properties":{"a":"40.630647","cty":"LEHIGH","id":8832729,"mun":"BETHLEHEM","nc":12,"o":"-75.411568"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.390635,40.071961],"type":"Point"},"properties":{"a":"40.071961","cty":"LANCASTER","id":8832730,"mun":"EAST HEMPFIELD TWP","nc":4,"o":"-76.390635"},"type":"Feature"},
@@ -14,5 +13,7 @@
 {"geometry":{"coordinates":[-75.614307,40.578566],"type":"Point"},"properties":{"a":"40.578566","cty":"LEHIGH","id":8832754,"mun":"UPPER MACUNGIE TWP","nc":1,"o":"-75.614307"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.23168,40.08804],"type":"Point"},"properties":{"a":"40.08804","cty":"LANCASTER","hp":true,"id":8832756,"mun":"UPPER LEACOCK TWP","nc":17,"ne":{"a":"40.08957","o":"-76.22834"},"o":"-76.23168","sw":{"a":"40.08651","o":"-76.23503"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.442371,40.154952],"type":"Point"},"properties":{"a":"40.154952","cty":"CUMBERLAND","id":8832757,"mun":"NORTH NEWTON TWP","nc":5,"o":"-77.442371"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.953983,40.725754],"type":"Point"},"properties":{"a":"40.725754","cty":"SCHUYLKILL","id":8832763,"mun":"WEST PENN TWP","nc":2,"o":"-75.953983"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.953983,40.725754],"type":"Point"},"properties":{"a":"40.725754","cty":"SCHUYLKILL","id":8832763,"mun":"WEST PENN TWP","nc":2,"o":"-75.953983"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.609469,40.971266],"type":"Point"},"properties":{"a":"40.971266","cty":"MONTOUR","id":8832771,"mun":"MAHONING TWP","nc":10,"o":"-76.609469"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.538637,40.959804],"type":"Point"},"properties":{"a":"40.959804","cty":"MONROE","id":8832772,"mun":"PENN FOREST TWP","nc":2,"o":"-75.538637"},"type":"Feature"}
 ]}

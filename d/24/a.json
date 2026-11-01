@@ -2,5 +2,6 @@
 {"geometry":{"coordinates":[-71.464248,41.56399],"type":"Point"},"properties":{"a":"41.56399","cty":"WASHINGTON","id":20261069414,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.464248"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.391327,41.870969],"type":"Point"},"properties":{"a":"41.870969","cty":"PROVIDENCE","id":20261069417,"mun":"PAWTUCKET","nc":1,"o":"-71.391327"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.521842,41.702506],"type":"Point"},"properties":{"a":"41.702506","cty":"KENT","id":20261069418,"mun":"WEST WARWICK","nc":1,"o":"-71.521842"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.430771,41.472558],"type":"Point"},"properties":{"a":"41.472558","cty":"WASHINGTON","id":20261069420,"mun":"NARRAGANSETT","nc":7,"o":"-71.430771"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.430771,41.472558],"type":"Point"},"properties":{"a":"41.472558","cty":"WASHINGTON","id":20261069420,"mun":"NARRAGANSETT","nc":7,"o":"-71.430771"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.427813,41.789396],"type":"Point"},"properties":{"a":"41.789396","cty":"PROVIDENCE","id":20261069424,"mun":"PROVIDENCE","nc":1,"o":"-71.427813"},"type":"Feature"}
 ]}
