@@ -3,6 +3,5 @@
 {"geometry":{"coordinates":[-75.547387,41.144704],"type":"Point"},"properties":{"a":"41.144704","cty":"MONROE","id":8832798,"mun":"TOBYHANNA TWP","nc":2,"o":"-75.547387"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.079902,41.347848],"type":"Point"},"properties":{"a":"41.347848","cty":"LYCOMING","id":8832804,"mun":"HEPBURN TWP","nc":1,"o":"-77.079902"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.036817,41.527558],"type":"Point"},"properties":{"a":"41.527558","cty":"PIKE","id":8832819,"mun":"LACKAWAXEN TWP","nc":1,"o":"-75.036817"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.565256,41.146592],"type":"Point"},"properties":{"a":"41.146592","cty":"MONROE","id":8832821,"mun":"TOBYHANNA TWP","nc":3,"o":"-75.565256"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.517624,41.428493],"type":"Point"},"properties":{"a":"41.428493","cty":"LACKAWANNA","id":8832822,"mun":"JEFFERSON TWP","nc":2,"o":"-75.517624"},"type":"Feature"}
 ]}
