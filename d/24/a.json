@@ -1,3 +1,24 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-71.42242,41.8712],"type":"Point"},"properties":{"a":"41.8712","cty":"PROVIDENCE","hp":true,"id":20261069300,"mun":"NORTH PROVIDENCE","nc":344,"ne":{"a":"41.87573","o":"-71.41925"},"o":"-71.42242","sw":{"a":"41.86668","o":"-71.42559"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.43719,41.86293],"type":"Point"},"properties":{"a":"41.86293","cty":"PROVIDENCE","hp":true,"id":20261069302,"mun":"NORTH PROVIDENCE","nc":45,"ne":{"a":"41.86384","o":"-71.43484"},"o":"-71.43719","sw":{"a":"41.86202","o":"-71.43954"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.44144,41.87129],"type":"Point"},"properties":{"a":"41.87129","cty":"PROVIDENCE","hp":true,"id":20261069303,"mun":"NORTH PROVIDENCE","nc":419,"ne":{"a":"41.87567","o":"-71.43244"},"o":"-71.44144","sw":{"a":"41.86691","o":"-71.45044"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.439862,41.866904],"type":"Point"},"properties":{"a":"41.866904","cty":"PROVIDENCE","id":20261069305,"mun":"NORTH PROVIDENCE","nc":14,"o":"-71.439862"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.4347,41.87037],"type":"Point"},"properties":{"a":"41.87037","cty":"PROVIDENCE","hp":true,"id":20261069306,"mun":"NORTH PROVIDENCE","nc":121,"ne":{"a":"41.87216","o":"-71.43178"},"o":"-71.4347","sw":{"a":"41.86858","o":"-71.43762"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.4322,41.8651],"type":"Point"},"properties":{"a":"41.8651","cty":"PROVIDENCE","hp":true,"id":20261069307,"mun":"NORTH PROVIDENCE","nc":191,"ne":{"a":"41.86879","o":"-71.43064"},"o":"-71.4322","sw":{"a":"41.86141","o":"-71.43376"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.439704,41.866168],"type":"Point"},"properties":{"a":"41.866168","cty":"PROVIDENCE","id":20261069309,"mun":"NORTH PROVIDENCE","nc":14,"o":"-71.439704"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.42634,41.87458],"type":"Point"},"properties":{"a":"41.87458","cty":"PROVIDENCE","hp":true,"id":20261069310,"mun":"NORTH PROVIDENCE","nc":83,"ne":{"a":"41.87755","o":"-71.42454"},"o":"-71.42634","sw":{"a":"41.87161","o":"-71.42814"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.438805,41.864972],"type":"Point"},"properties":{"a":"41.864972","cty":"PROVIDENCE","id":20261069314,"mun":"NORTH PROVIDENCE","nc":23,"o":"-71.438805"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.425625,41.870985],"type":"Point"},"properties":{"a":"41.870985","cty":"PROVIDENCE","id":20261069315,"mun":"NORTH PROVIDENCE","nc":21,"o":"-71.425625"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.43764,41.863757],"type":"Point"},"properties":{"a":"41.863757","cty":"PROVIDENCE","id":20261069316,"mun":"NORTH PROVIDENCE","nc":21,"o":"-71.43764"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.43505,41.862025],"type":"Point"},"properties":{"a":"41.862025","cty":"PROVIDENCE","id":20261069320,"mun":"NORTH PROVIDENCE","nc":14,"o":"-71.43505"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.434,41.87433],"type":"Point"},"properties":{"a":"41.87433","cty":"PROVIDENCE","hp":true,"id":20261069326,"mun":"NORTH PROVIDENCE","nc":99,"ne":{"a":"41.87651","o":"-71.42891"},"o":"-71.434","sw":{"a":"41.87216","o":"-71.43909"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.43897,41.87107],"type":"Point"},"properties":{"a":"41.87107","cty":"PROVIDENCE","hp":true,"id":20261069330,"mun":"NORTH PROVIDENCE","nc":21,"ne":{"a":"41.87223","o":"-71.4379"},"o":"-71.43897","sw":{"a":"41.8699","o":"-71.44004"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.434517,41.868012],"type":"Point"},"properties":{"a":"41.868012","cty":"PROVIDENCE","id":20261069332,"mun":"NORTH PROVIDENCE","nc":8,"o":"-71.434517"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.438353,41.864393],"type":"Point"},"properties":{"a":"41.864393","cty":"PROVIDENCE","id":20261069334,"mun":"NORTH PROVIDENCE","nc":22,"o":"-71.438353"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.429035,41.868461],"type":"Point"},"properties":{"a":"41.868461","cty":"PROVIDENCE","id":20261069339,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.429035"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.425965,41.869968],"type":"Point"},"properties":{"a":"41.869968","cty":"PROVIDENCE","id":20261069340,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.425965"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.427447,41.87022],"type":"Point"},"properties":{"a":"41.87022","cty":"PROVIDENCE","id":20261069341,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.427447"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.434549,41.868723],"type":"Point"},"properties":{"a":"41.868723","cty":"PROVIDENCE","id":20261069343,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.434549"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.428088,41.869941],"type":"Point"},"properties":{"a":"41.869941","cty":"PROVIDENCE","id":20261069352,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.428088"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.421263,41.868708],"type":"Point"},"properties":{"a":"41.868708","cty":"PROVIDENCE","id":20261069363,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.421263"},"type":"Feature"}
 ]}

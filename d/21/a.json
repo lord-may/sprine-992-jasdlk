@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-70.497489,43.971389],"type":"Point"},"properties":{"EstRest":"","Outages":2,"cause":"Tree","county":"CUMBERLAND","crewstatus":"     ","customers":16,"hamlet":"CASCO","incidentnumber":"0045I8","incidents":1,"level":"street","opco":"CMP","street":"COFFEE PD TERR","town":"CASCO"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.497489,43.971389],"type":"Point"},"properties":{"EstRest":"","Outages":7,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.736842,44.246786],"type":"Point"},"properties":{"EstRest":"11/1/2026 8:00:00 AM","Outages":1,"cause":"","county":"KENNEBEC","crewstatus":"DISP ","customers":37,"hamlet":"CHELSEA","incidentnumber":"0045JT","incidents":1,"level":"street","opco":"CMP","street":"COLLINS RD","town":"CHELSEA"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.736842,44.246786],"type":"Point"},"properties":{"EstRest":"11/1/2026 8:00:00 AM","Outages":1,"cause":"","county":"KENNEBEC","crewstatus":"ENRT ","customers":37,"hamlet":"CHELSEA","incidentnumber":"0045JT","incidents":1,"level":"street","opco":"CMP","street":"COLLINS RD","town":"CHELSEA"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.736842,44.246786],"type":"Point"},"properties":{"EstRest":"11/1/2026 8:00:00 AM","Outages":1,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
