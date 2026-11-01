@@ -10,13 +10,9 @@
 {"geometry":{"coordinates":[-76.869387,40.268223],"type":"Point"},"properties":{"a":"40.268223","cty":"DAUPHIN","id":8832740,"mun":"HARRISBURG","nc":1,"o":"-76.869387"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.913103,40.102437],"type":"Point"},"properties":{"a":"40.102437","cty":"CHESTER","id":8832741,"mun":"HONEYBROOK TWP","nc":2,"o":"-75.913103"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.396284,40.646146],"type":"Point"},"properties":{"a":"40.646146","cty":"NORTHAMPTON","id":8832742,"mun":"HANOVER TWP","nc":2,"o":"-75.396284"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.611027,41.667045],"type":"Point"},"properties":{"a":"41.667045","cty":"SUSQUEHANNA","id":8832743,"mun":"CLIFFORD TWP","nc":1,"o":"-75.611027"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.739666,41.359744],"type":"Point"},"properties":{"a":"41.359744","cty":"LACKAWANNA","id":8832753,"mun":"OLD FORGE BORO","nc":12,"o":"-75.739666"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.614307,40.578566],"type":"Point"},"properties":{"a":"40.578566","cty":"LEHIGH","id":8832754,"mun":"UPPER MACUNGIE TWP","nc":1,"o":"-75.614307"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.23168,40.08804],"type":"Point"},"properties":{"a":"40.08804","cty":"LANCASTER","hp":true,"id":8832756,"mun":"UPPER LEACOCK TWP","nc":17,"ne":{"a":"40.08957","o":"-76.22834"},"o":"-76.23168","sw":{"a":"40.08651","o":"-76.23503"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.442371,40.154952],"type":"Point"},"properties":{"a":"40.154952","cty":"CUMBERLAND","id":8832757,"mun":"NORTH NEWTON TWP","nc":5,"o":"-77.442371"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.010445,41.238568],"type":"Point"},"properties":{"a":"41.238568","cty":"LYCOMING","id":8832759,"mun":"WILLIAMSPORT","nc":18,"o":"-77.010445"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.772237,40.314632],"type":"Point"},"properties":{"a":"40.314632","cty":"DAUPHIN","id":8832761,"mun":"LOWER PAXTON TWP","nc":1,"o":"-76.772237"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.371362,40.619753],"type":"Point"},"properties":{"a":"40.619753","cty":"NORTHAMPTON","id":8832762,"mun":"BETHLEHEM","nc":9,"o":"-75.371362"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.953983,40.725754],"type":"Point"},"properties":{"a":"40.725754","cty":"SCHUYLKILL","id":8832763,"mun":"WEST PENN TWP","nc":2,"o":"-75.953983"},"type":"Feature"}
 ]}

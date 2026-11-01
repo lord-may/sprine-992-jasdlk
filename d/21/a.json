@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.045111,44.123024],"type":"Point"},"properties":{"EstRest":"11/1/2026 12:45:00 PM","Outages":123,"county":"ANDROSCOGGIN","customers":59602,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.031884,44.11798],"type":"Point"},"properties":{"EstRest":"11/1/2026 12:45:00 PM","Outages":2,"cause":"","county":"ANDROSCOGGIN","crewstatus":"ENRT ","customers":2,"hamlet":"SABATTUS","incidentnumber":"0045LU","incidents":1,"level":"street","opco":"CMP","street":"MOONLIGHT DR","town":"SABATTUS"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.045111,44.123024],"type":"Point"},"properties":{"EstRest":"11/1/2026 12:45:00 PM","Outages":119,"county":"ANDROSCOGGIN","customers":59602,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.497489,43.971389],"type":"Point"},"properties":{"EstRest":"","Outages":2,"cause":"Tree","county":"CUMBERLAND","crewstatus":"DISP ","customers":16,"hamlet":"CASCO","incidentnumber":"0045I8","incidents":1,"level":"street","opco":"CMP","street":"COFFEE PD TERR","town":"CASCO"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.497489,43.971389],"type":"Point"},"properties":{"EstRest":"","Outages":7,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.091908,44.596956],"type":"Point"},"properties":{"EstRest":"11/1/2026 11:15:00 AM","Outages":2,"county":"WALDO","customers":26703,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.497489,43.971389],"type":"Point"},"properties":{"EstRest":"","Outages":7,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
