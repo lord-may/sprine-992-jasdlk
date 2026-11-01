@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.39293,43.502803],"type":"Point"},"properties":{"EstRest":"11/1/2026 5:15:00 PM","Outages":1,"cause":"","county":"YORK","crewstatus":"ONST ","customers":20,"hamlet":"OLD ORCHARD BEACH","incidentnumber":"0045M9","incidents":1,"level":"street","opco":"CMP","street":"MASS AVE","town":"OLD ORCHARD BEACH"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.39293,43.502803],"type":"Point"},"properties":{"EstRest":"11/1/2026 5:15:00 PM","Outages":1,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+
 ]}
