@@ -6,5 +6,7 @@
 {"geometry":{"coordinates":[-75.396284,40.646146],"type":"Point"},"properties":{"a":"40.646146","cty":"NORTHAMPTON","id":8832742,"mun":"HANOVER TWP","nc":2,"o":"-75.396284"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.442371,40.154952],"type":"Point"},"properties":{"a":"40.154952","cty":"CUMBERLAND","id":8832757,"mun":"NORTH NEWTON TWP","nc":5,"o":"-77.442371"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.953983,40.725754],"type":"Point"},"properties":{"a":"40.725754","cty":"SCHUYLKILL","id":8832763,"mun":"WEST PENN TWP","nc":2,"o":"-75.953983"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.304503,41.165376],"type":"Point"},"properties":{"a":"41.165376","cty":"COLUMBIA","id":8832777,"mun":"FISHING CREEK TWP","nc":1,"o":"-76.304503"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.304503,41.165376],"type":"Point"},"properties":{"a":"41.165376","cty":"COLUMBIA","id":8832777,"mun":"FISHING CREEK TWP","nc":1,"o":"-76.304503"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.780278,40.901951],"type":"Point"},"properties":{"a":"40.901951","cty":"NORTHUMBERLAND","id":8832778,"mun":"POINT TWP","nc":1,"o":"-76.780278"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.399443,40.640757],"type":"Point"},"properties":{"a":"40.640757","cty":"NORTHAMPTON","id":8832779,"mun":"HANOVER TWP","nc":5,"o":"-75.399443"},"type":"Feature"}
 ]}
