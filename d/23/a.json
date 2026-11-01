@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.63537,41.12125],"type":"Point"},"properties":{"a":"41.12125","cty":"MONROE","hp":true,"id":8832670,"mun":"TOBYHANNA TWP","nc":23,"ne":{"a":"41.12454","o":"-75.62396"},"o":"-75.63537","sw":{"a":"41.11795","o":"-75.64678"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.196338,40.023315],"type":"Point"},"properties":{"a":"40.023315","cty":"LANCASTER","id":8832684,"mun":"EAST LAMPETER TWP","nc":1,"o":"-76.196338"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.946912,40.368161],"type":"Point"},"properties":{"a":"40.368161","cty":"DAUPHIN","id":8832687,"mun":"MIDDLE PAXTON TWP","nc":3,"o":"-76.946912"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.196338,40.023315],"type":"Point"},"properties":{"a":"40.023315","cty":"LANCASTER","id":8832684,"mun":"EAST LAMPETER TWP","nc":1,"o":"-76.196338"},"type":"Feature"}
 ]}
