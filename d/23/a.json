@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.196338,40.023315],"type":"Point"},"properties":{"a":"40.023315","cty":"LANCASTER","id":8832684,"mun":"EAST LAMPETER TWP","nc":1,"o":"-76.196338"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.283417,40.044463],"type":"Point"},"properties":{"a":"40.044463","cty":"LANCASTER","id":8832717,"mun":"NA","nc":2,"o":"-76.283417"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.567279,40.962351],"type":"Point"},"properties":{"a":"40.962351","cty":"MONTOUR","id":8832723,"mun":"MAHONING TWP","nc":1,"o":"-76.567279"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.54392,40.86396],"type":"Point"},"properties":{"a":"40.86396","cty":"NORTHUMBERLAND","hp":true,"id":8832725,"mun":"RALPHO TWP","nc":31,"ne":{"a":"40.86553","o":"-76.54262"},"o":"-76.54392","sw":{"a":"40.86238","o":"-76.54521"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.565536,40.744964],"type":"Point"},"properties":{"a":"40.744964","cty":"NORTHAMPTON","id":8832727,"mun":"LEHIGH TWP","nc":8,"o":"-75.565536"},"type":"Feature"},
@@ -10,10 +9,11 @@
 {"geometry":{"coordinates":[-76.222024,39.91629],"type":"Point"},"properties":{"a":"39.91629","cty":"LANCASTER","id":8832733,"mun":"PROVIDENCE TWP","nc":2,"o":"-76.222024"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.416946,40.683215],"type":"Point"},"properties":{"a":"40.683215","cty":"NORTHAMPTON","id":8832734,"mun":"EAST ALLEN TWP","nc":1,"o":"-75.416946"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.397723,40.530815],"type":"Point"},"properties":{"a":"40.530815","cty":"LEHIGH","id":8832735,"mun":"UPPER SAUCON TWP","nc":7,"o":"-75.397723"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.780278,40.901951],"type":"Point"},"properties":{"a":"40.901951","cty":"NORTHUMBERLAND","id":8832737,"mun":"POINT TWP","nc":1,"o":"-76.780278"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.869387,40.268223],"type":"Point"},"properties":{"a":"40.268223","cty":"DAUPHIN","id":8832740,"mun":"HARRISBURG","nc":1,"o":"-76.869387"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.913103,40.102437],"type":"Point"},"properties":{"a":"40.102437","cty":"CHESTER","id":8832741,"mun":"HONEYBROOK TWP","nc":2,"o":"-75.913103"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.396284,40.646146],"type":"Point"},"properties":{"a":"40.646146","cty":"NORTHAMPTON","id":8832742,"mun":"HANOVER TWP","nc":2,"o":"-75.396284"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.611027,41.667045],"type":"Point"},"properties":{"a":"41.667045","cty":"SUSQUEHANNA","id":8832743,"mun":"CLIFFORD TWP","nc":1,"o":"-75.611027"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.949298,41.325205],"type":"Point"},"properties":{"a":"41.325205","cty":"LYCOMING","id":8832744,"mun":"ELDRED TWP","nc":1,"o":"-76.949298"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.949298,41.325205],"type":"Point"},"properties":{"a":"41.325205","cty":"LYCOMING","id":8832744,"mun":"ELDRED TWP","nc":1,"o":"-76.949298"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.666303,41.394658],"type":"Point"},"properties":{"a":"41.394658","cty":"LACKAWANNA","id":8832751,"mun":"SCRANTON","nc":1,"o":"-75.666303"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.739666,41.359744],"type":"Point"},"properties":{"a":"41.359744","cty":"LACKAWANNA","id":8832753,"mun":"OLD FORGE BORO","nc":12,"o":"-75.739666"},"type":"Feature"}
 ]}
