@@ -1,10 +1,8 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.43719,41.86293],"type":"Point"},"properties":{"a":"41.86293","cty":"PROVIDENCE","hp":true,"id":20261069302,"mun":"NORTH PROVIDENCE","nc":45,"ne":{"a":"41.86384","o":"-71.43484"},"o":"-71.43719","sw":{"a":"41.86202","o":"-71.43954"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.43484,41.88933],"type":"Point"},"properties":{"a":"41.88933","cty":"PROVIDENCE","hp":true,"id":20261069303,"mun":"NORTH PROVIDENCE","nc":2900,"ne":{"a":"41.91725","o":"-71.41925"},"o":"-71.43484","sw":{"a":"41.86141","o":"-71.45044"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.43505,41.862025],"type":"Point"},"properties":{"a":"41.862025","cty":"PROVIDENCE","id":20261069320,"mun":"NORTH PROVIDENCE","nc":14,"o":"-71.43505"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.436995,41.862149],"type":"Point"},"properties":{"a":"41.862149","cty":"PROVIDENCE","id":20261069364,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.436995"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.436995,41.862149],"type":"Point"},"properties":{"a":"41.862149","cty":"PROVIDENCE","id":20261069364,"mun":"NORTH PROVIDENCE","nc":94,"o":"-71.436995"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.242629,41.617425],"type":"Point"},"properties":{"a":"41.617425","cty":"NEWPORT","id":20261069366,"mun":"PORTSMOUTH","nc":15,"o":"-71.242629"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.405701,41.7737],"type":"Point"},"properties":{"a":"41.7737","cty":"PROVIDENCE","id":20261069368,"mun":"CRANSTON","nc":1,"o":"-71.405701"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.752478,41.612693],"type":"Point"},"properties":{"a":"41.612693","cty":"KENT","id":20261069370,"mun":"WEST GREENWICH","nc":1,"o":"-71.752478"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.477871,41.856577],"type":"Point"},"properties":{"a":"41.856577","cty":"PROVIDENCE","id":20261069376,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.477871"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.424616,41.866928],"type":"Point"},"properties":{"a":"41.866928","cty":"PROVIDENCE","id":20261069378,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.424616"},"type":"Feature"}
 ]}
