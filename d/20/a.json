@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-78.149669,42.523203],"type":"Point"},"properties":{"EstRest":"11/1/2026 10:30:00 AM","Outages":1,"cause":"","county":"WYOMING","crewstatus":"     ","customers":1,"hamlet":"FILLMORE","incidentnumber":"011976","incidents":1,"level":"street","opco":"RGE","street":"DOWD RD","town":"PIKE"},"type":"Feature"},
+{"geometry":{"coordinates":[-78.149669,42.523203],"type":"Point"},"properties":{"EstRest":"11/1/2026 10:30:00 AM","Outages":1,"county":"WYOMING","customers":1200,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
