@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.196338,40.023315],"type":"Point"},"properties":{"a":"40.023315","cty":"LANCASTER","id":8832684,"mun":"EAST LAMPETER TWP","nc":1,"o":"-76.196338"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.400817,40.566628],"type":"Point"},"properties":{"a":"40.566628","cty":"SCHUYLKILL","id":8832697,"mun":"PINE GROVE TWP","nc":3,"o":"-76.400817"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.196338,40.023315],"type":"Point"},"properties":{"a":"40.023315","cty":"LANCASTER","id":8832684,"mun":"EAST LAMPETER TWP","nc":1,"o":"-76.196338"},"type":"Feature"}
 ]}
