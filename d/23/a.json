@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.196338,40.023315],"type":"Point"},"properties":{"a":"40.023315","cty":"LANCASTER","id":8832684,"mun":"EAST LAMPETER TWP","nc":1,"o":"-76.196338"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.047255,40.11693],"type":"Point"},"properties":{"a":"40.11693","cty":"LANCASTER","id":8832715,"mun":"EAST EARL TWP","nc":3,"o":"-76.047255"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.288415,40.050142],"type":"Point"},"properties":{"a":"40.050142","cty":"LANCASTER","id":8832716,"mun":"LANCASTER","nc":6,"o":"-76.288415"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.283417,40.044463],"type":"Point"},"properties":{"a":"40.044463","cty":"LANCASTER","id":8832717,"mun":"NA","nc":2,"o":"-76.283417"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.571529,40.555618],"type":"Point"},"properties":{"a":"40.555618","cty":"DAUPHIN","id":8832719,"mun":"RUSH TWP","nc":1,"o":"-76.571529"},"type":"Feature"},
@@ -12,5 +11,6 @@
 {"geometry":{"coordinates":[-76.235493,40.674616],"type":"Point"},"properties":{"a":"40.674616","cty":"SCHUYLKILL","id":8832732,"mun":"POTTSVILLE","nc":8,"o":"-76.235493"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.222024,39.91629],"type":"Point"},"properties":{"a":"39.91629","cty":"LANCASTER","id":8832733,"mun":"PROVIDENCE TWP","nc":2,"o":"-76.222024"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.416946,40.683215],"type":"Point"},"properties":{"a":"40.683215","cty":"NORTHAMPTON","id":8832734,"mun":"EAST ALLEN TWP","nc":1,"o":"-75.416946"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.397723,40.530815],"type":"Point"},"properties":{"a":"40.530815","cty":"LEHIGH","id":8832735,"mun":"UPPER SAUCON TWP","nc":7,"o":"-75.397723"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.397723,40.530815],"type":"Point"},"properties":{"a":"40.530815","cty":"LEHIGH","id":8832735,"mun":"UPPER SAUCON TWP","nc":7,"o":"-75.397723"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.780278,40.901951],"type":"Point"},"properties":{"a":"40.901951","cty":"NORTHUMBERLAND","id":8832737,"mun":"POINT TWP","nc":1,"o":"-76.780278"},"type":"Feature"}
 ]}
