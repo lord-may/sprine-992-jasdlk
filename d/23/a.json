@@ -1,7 +1,7 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.322889,39.955665],"type":"Point"},"properties":{"a":"39.955665","cty":"LANCASTER","id":8832794,"mun":"PEQUEA TWP","nc":1,"o":"-76.322889"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.547387,41.144704],"type":"Point"},"properties":{"a":"41.144704","cty":"MONROE","id":8832798,"mun":"TOBYHANNA TWP","nc":2,"o":"-75.547387"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.079902,41.347848],"type":"Point"},"properties":{"a":"41.347848","cty":"LYCOMING","id":8832804,"mun":"HEPBURN TWP","nc":1,"o":"-77.079902"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.036817,41.527558],"type":"Point"},"properties":{"a":"41.527558","cty":"PIKE","id":8832819,"mun":"LACKAWAXEN TWP","nc":1,"o":"-75.036817"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.517624,41.428493],"type":"Point"},"properties":{"a":"41.428493","cty":"LACKAWANNA","id":8832822,"mun":"JEFFERSON TWP","nc":2,"o":"-75.517624"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.517624,41.428493],"type":"Point"},"properties":{"a":"41.428493","cty":"LACKAWANNA","id":8832822,"mun":"JEFFERSON TWP","nc":2,"o":"-75.517624"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.237727,40.986169],"type":"Point"},"properties":{"a":"40.986169","cty":"MONROE","id":8832828,"mun":"STROUD TWP","nc":2,"o":"-75.237727"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.877517,41.168315],"type":"Point"},"properties":{"a":"41.168315","cty":"LUZERNE","id":8832829,"mun":"FAIRVIEW TWP","nc":3,"o":"-75.877517"},"type":"Feature"}
 ]}
