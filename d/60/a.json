@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-79.98409,40.55719],"type":"Point"},"properties":{"additionalProperties":[{"property":"jobNumber","value":"Job.26.11.01.00047"},{"property":"zips","value":["15101"]},{"property":"counties","value":["ALLEGHENY"]},{"property":"municipalities","value":["ALLISON PARK"]}],"cause":"Under Investigation","etrTime":1793579400000,"id":2241898,"identifier":"Job.26.11.01.00047_6ae7a9a39efcc0655819b9e2","lastUpdatedTime":1793568616000,"latitude":40.55719,"longitude":-79.98409,"numPeople":1,"startTime":1793567136000,"status":"Awaiting Dispatch","title":"Outage"},"type":"Feature"}
+
 ]}
