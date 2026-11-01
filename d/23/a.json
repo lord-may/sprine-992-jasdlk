@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.196338,40.023315],"type":"Point"},"properties":{"a":"40.023315","cty":"LANCASTER","id":8832684,"mun":"EAST LAMPETER TWP","nc":1,"o":"-76.196338"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.33417,40.76325],"type":"Point"},"properties":{"a":"40.76325","cty":"SCHUYLKILL","hp":true,"id":8832690,"mun":"BUTLER TWP","nc":51,"ne":{"a":"40.76867","o":"-76.33015"},"o":"-76.33417","sw":{"a":"40.75784","o":"-76.33819"}},"type":"Feature"}
+{"geometry":{"coordinates":[-76.196338,40.023315],"type":"Point"},"properties":{"a":"40.023315","cty":"LANCASTER","id":8832684,"mun":"EAST LAMPETER TWP","nc":1,"o":"-76.196338"},"type":"Feature"}
 ]}
