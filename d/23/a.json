@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-77.079902,41.347848],"type":"Point"},"properties":{"a":"41.347848","cty":"LYCOMING","id":8832804,"mun":"HEPBURN TWP","nc":1,"o":"-77.079902"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.427523,40.649279],"type":"Point"},"properties":{"a":"40.649279","cty":"LEHIGH","id":8832834,"mun":"BETHLEHEM","nc":1,"o":"-75.427523"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.02121,40.243284],"type":"Point"},"properties":{"a":"40.243284","cty":"CUMBERLAND","id":8832847,"mun":"SILVER SPRING TWP","nc":5,"o":"-77.02121"},"type":"Feature"}
 ]}
