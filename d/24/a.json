@@ -6,5 +6,6 @@
 {"geometry":{"coordinates":[-71.486125,41.792886],"type":"Point"},"properties":{"a":"41.792886","cty":"PROVIDENCE","id":20261069388,"mun":"CRANSTON","nc":6,"o":"-71.486125"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.35822,41.79895],"type":"Point"},"properties":{"a":"41.79895","cty":"PROVIDENCE","hp":true,"id":20261069401,"mun":"EAST PROVIDENCE","nc":113,"ne":{"a":"41.80016","o":"-71.35389"},"o":"-71.35822","sw":{"a":"41.79773","o":"-71.36255"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.37819,41.668641],"type":"Point"},"properties":{"a":"41.668641","cty":"KENT","id":20261069403,"mun":"WARWICK","nc":1,"o":"-71.37819"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.641735,41.816211],"type":"Point"},"properties":{"a":"41.816211","cty":"PROVIDENCE","id":20261069405,"mun":"SCITUATE","nc":1,"o":"-71.641735"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.641735,41.816211],"type":"Point"},"properties":{"a":"41.816211","cty":"PROVIDENCE","id":20261069405,"mun":"SCITUATE","nc":1,"o":"-71.641735"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.448379,41.659109],"type":"Point"},"properties":{"a":"41.659109","cty":"KENT","id":20261069407,"mun":"EAST GREENWICH","nc":1,"o":"-71.448379"},"type":"Feature"}
 ]}
