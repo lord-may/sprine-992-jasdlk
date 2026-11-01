@@ -7,5 +7,8 @@
 {"geometry":{"coordinates":[-75.419037,40.683116],"type":"Point"},"properties":{"a":"40.683116","cty":"NORTHAMPTON","id":8832789,"mun":"EAST ALLEN TWP","nc":1,"o":"-75.419037"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.392725,40.055223],"type":"Point"},"properties":{"a":"40.055223","cty":"LANCASTER","id":8832791,"mun":"EAST HEMPFIELD TWP","nc":5,"o":"-76.392725"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.274513,40.495416],"type":"Point"},"properties":{"a":"40.495416","cty":"BUCKS","id":8832793,"mun":"HAYCOCK TWP","nc":1,"o":"-75.274513"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.322889,39.955665],"type":"Point"},"properties":{"a":"39.955665","cty":"LANCASTER","id":8832794,"mun":"PEQUEA TWP","nc":1,"o":"-76.322889"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.322889,39.955665],"type":"Point"},"properties":{"a":"39.955665","cty":"LANCASTER","id":8832794,"mun":"PEQUEA TWP","nc":1,"o":"-76.322889"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.294573,40.047981],"type":"Point"},"properties":{"a":"40.047981","cty":"LANCASTER","id":8832796,"mun":"LANCASTER","nc":4,"o":"-76.294573"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.041982,40.254627],"type":"Point"},"properties":{"a":"40.254627","cty":"CUMBERLAND","id":8832797,"mun":"SILVER SPRING TWP","nc":2,"o":"-77.041982"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.547387,41.144704],"type":"Point"},"properties":{"a":"41.144704","cty":"MONROE","id":8832798,"mun":"TOBYHANNA TWP","nc":2,"o":"-75.547387"},"type":"Feature"}
 ]}
