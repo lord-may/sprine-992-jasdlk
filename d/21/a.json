@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-70.460307,43.891163],"type":"Point"},"properties":{"EstRest":"11/1/2026 6:00:00 PM","Outages":1,"cause":"","county":"CUMBERLAND","crewstatus":"ACKN ","customers":204,"hamlet":"RAYMOND","incidentnumber":"0045MD","incidents":1,"level":"street","opco":"CMP","street":"WEBBS MILLS RD","town":"RAYMOND"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.460307,43.891163],"type":"Point"},"properties":{"EstRest":"11/1/2026 6:00:00 PM","Outages":1,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
