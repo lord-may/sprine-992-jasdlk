@@ -4,10 +4,7 @@
 {"geometry":{"coordinates":[-76.869387,40.268223],"type":"Point"},"properties":{"a":"40.268223","cty":"DAUPHIN","id":8832740,"mun":"HARRISBURG","nc":1,"o":"-76.869387"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.913103,40.102437],"type":"Point"},"properties":{"a":"40.102437","cty":"CHESTER","id":8832741,"mun":"HONEYBROOK TWP","nc":2,"o":"-75.913103"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.396284,40.646146],"type":"Point"},"properties":{"a":"40.646146","cty":"NORTHAMPTON","id":8832742,"mun":"HANOVER TWP","nc":2,"o":"-75.396284"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.614307,40.578566],"type":"Point"},"properties":{"a":"40.578566","cty":"LEHIGH","id":8832754,"mun":"UPPER MACUNGIE TWP","nc":1,"o":"-75.614307"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.23168,40.08804],"type":"Point"},"properties":{"a":"40.08804","cty":"LANCASTER","hp":true,"id":8832756,"mun":"UPPER LEACOCK TWP","nc":17,"ne":{"a":"40.08957","o":"-76.22834"},"o":"-76.23168","sw":{"a":"40.08651","o":"-76.23503"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.442371,40.154952],"type":"Point"},"properties":{"a":"40.154952","cty":"CUMBERLAND","id":8832757,"mun":"NORTH NEWTON TWP","nc":5,"o":"-77.442371"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.953983,40.725754],"type":"Point"},"properties":{"a":"40.725754","cty":"SCHUYLKILL","id":8832763,"mun":"WEST PENN TWP","nc":2,"o":"-75.953983"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.787577,41.062131],"type":"Point"},"properties":{"a":"41.062131","cty":"LUZERNE","id":8832776,"mun":"WHITE HAVEN BORO","nc":3,"o":"-75.787577"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.304503,41.165376],"type":"Point"},"properties":{"a":"41.165376","cty":"COLUMBIA","id":8832777,"mun":"FISHING CREEK TWP","nc":1,"o":"-76.304503"},"type":"Feature"}
 ]}
