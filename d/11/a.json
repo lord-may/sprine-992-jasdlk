@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-72.06793,41.00996],"type":"Point"},"properties":{"cause":{"EN-US":"Pending Investigation","es-US":"Investigación pendiente"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{},"cust_a":{"mask":5,"val":4},"etr":"ETR-NULL","etrRange":"Today by 8:15PM","etr_confidence":null,"id":"ES-GREEN-2005907239","inc_id":null,"n_out":1,"start_time":null,"title":"Area Outage"},"type":"Feature"}
 ]}
