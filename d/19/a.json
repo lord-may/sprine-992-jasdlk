@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-78.745895,42.856692],"type":"Point"},"properties":{"EstRest":"11/1/2026 10:45:00 AM","Outages":15,"county":"ERIE","customers":157686,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-78.745895,42.856692],"type":"Point"},"properties":{"EstRest":"11/1/2026 10:45:00 AM","Outages":7,"cause":"","county":"ERIE","crewstatus":"     ","customers":543,"hamlet":"BUFFALO","incidentnumber":"01197B","incidents":1,"level":"street","opco":"NYSEG","street":"CLINTON ST","town":"WEST SENECA T"},"type":"Feature"}
 ]}
