@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.675036,41.418209],"type":"Point"},"properties":{"a":"41.418209","cty":"LACKAWANNA","id":8832853,"mun":"SCRANTON","nc":20,"o":"-75.675036"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.675036,41.418209],"type":"Point"},"properties":{"a":"41.418209","cty":"LACKAWANNA","id":8832853,"mun":"SCRANTON","nc":20,"o":"-75.675036"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.085801,40.791841],"type":"Point"},"properties":{"a":"40.791841","cty":"SCHUYLKILL","id":8832860,"mun":"RYAN TWP","nc":2,"o":"-76.085801"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.877517,41.168315],"type":"Point"},"properties":{"a":"41.168315","cty":"LUZERNE","id":8832861,"mun":"FAIRVIEW TWP","nc":3,"o":"-75.877517"},"type":"Feature"}
 ]}
