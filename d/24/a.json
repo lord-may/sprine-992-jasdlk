@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.374132,41.865834],"type":"Point"},"properties":{"a":"41.865834","cty":"PROVIDENCE","id":20261069475,"mun":"PAWTUCKET","nc":1,"o":"-71.374132"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.39572,41.92866],"type":"Point"},"properties":{"a":"41.92866","cty":"PROVIDENCE","hp":true,"id":20261069478,"mun":"CUMBERLAND","nc":69,"ne":{"a":"41.93054","o":"-71.39385"},"o":"-71.39572","sw":{"a":"41.92678","o":"-71.39759"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.555014,41.525053],"type":"Point"},"properties":{"a":"41.525053","cty":"WASHINGTON","id":20261069481,"mun":"EXETER","nc":17,"o":"-71.555014"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.555014,41.525053],"type":"Point"},"properties":{"a":"41.525053","cty":"WASHINGTON","id":20261069481,"mun":"EXETER","nc":17,"o":"-71.555014"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.257685,41.594807],"type":"Point"},"properties":{"a":"41.594807","cty":"NEWPORT","id":20261069486,"mun":"PORTSMOUTH","nc":1,"o":"-71.257685"},"type":"Feature"}
 ]}

@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-76.997585,42.103667],"type":"Point"},"properties":{"EstRest":"11/2/2026 10:45:00 AM","Outages":6,"cause":"","county":"STEUBEN","crewstatus":"DISP ","customers":23,"hamlet":"CORNING","incidentnumber":"0119BI","incidents":1,"level":"street","opco":"NYSEG","street":"BROWN HOLLOW RD","town":"CORNING T"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.997585,42.103667],"type":"Point"},"properties":{"EstRest":"11/2/2026 10:45:00 AM","Outages":6,"county":"STEUBEN","customers":42828,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
