@@ -1,10 +1,10 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.868989,40.784868],"type":"Point"},"properties":{"a":"40.784868","cty":"SNYDER","id":8832968,"mun":"PENN TWP","nc":20,"o":"-76.868989"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.221945,40.315982],"type":"Point"},"properties":{"a":"40.315982","cty":"LEBANON","id":8833119,"mun":"MILLCREEK TWP","nc":1,"o":"-76.221945"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.85723,40.11025],"type":"Point"},"properties":{"a":"40.11025","cty":"CHESTER","hp":true,"id":8833182,"mun":"HONEYBROOK TWP","nc":24,"ne":{"a":"40.1122","o":"-75.85504"},"o":"-75.85723","sw":{"a":"40.10831","o":"-75.85943"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.810278,40.311818],"type":"Point"},"properties":{"a":"40.311818","cty":"DAUPHIN","id":8833200,"mun":"LOWER PAXTON TWP","nc":4,"o":"-76.810278"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.369046,40.388223],"type":"Point"},"properties":{"a":"40.388223","cty":"PERRY","id":8833210,"mun":"SAVILLE TWP","nc":1,"o":"-77.369046"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.51604,41.11577],"type":"Point"},"properties":{"a":"41.11577","cty":"MONROE","hp":true,"id":8833265,"mun":"TOBYHANNA TWP","nc":9,"ne":{"a":"41.11652","o":"-75.51438"},"o":"-75.51604","sw":{"a":"41.11501","o":"-75.51771"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.572083,40.521311],"type":"Point"},"properties":{"a":"40.521311","cty":"LEHIGH","id":8833269,"mun":"LOWER MACUNGIE TWP","nc":16,"o":"-75.572083"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.313917,41.25963],"type":"Point"},"properties":{"a":"41.25963","cty":"PIKE","id":8833270,"mun":"GREENE TWP","nc":3,"o":"-75.313917"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.313917,41.25963],"type":"Point"},"properties":{"a":"41.25963","cty":"PIKE","id":8833270,"mun":"GREENE TWP","nc":3,"o":"-75.313917"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.208942,41.174261],"type":"Point"},"properties":{"a":"41.174261","cty":"MONROE","id":8833276,"mun":"BARRETT TWP","nc":3,"o":"-75.208942"},"type":"Feature"}
 ]}
