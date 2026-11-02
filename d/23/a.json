@@ -25,7 +25,12 @@
 {"geometry":{"coordinates":[-75.963281,40.063915],"type":"Point"},"properties":{"a":"40.063915","cty":"LANCASTER","id":8832978,"mun":"SALISBURY TWP","nc":1,"o":"-75.963281"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.966022,41.337387],"type":"Point"},"properties":{"a":"41.337387","cty":"LYCOMING","id":8832980,"mun":"ELDRED TWP","nc":2,"o":"-76.966022"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.034834,40.23097],"type":"Point"},"properties":{"a":"40.23097","cty":"LANCASTER","id":8832984,"mun":"BRECKNOCK TWP","nc":1,"o":"-76.034834"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.282864,40.22123],"type":"Point"},"properties":{"a":"40.22123","cty":"LANCASTER","id":8832986,"mun":"ELIZABETH TWP","nc":3,"o":"-76.282864"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.846831,40.278593],"type":"Point"},"properties":{"a":"40.278593","cty":"DAUPHIN","id":8832988,"mun":"PENBROOK BORO","nc":1,"o":"-76.846831"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.879674,40.986043],"type":"Point"},"properties":{"a":"40.986043","cty":"UNION","id":8832990,"mun":"KELLY TWP","nc":3,"o":"-76.879674"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.879674,40.986043],"type":"Point"},"properties":{"a":"40.986043","cty":"UNION","id":8832990,"mun":"KELLY TWP","nc":3,"o":"-76.879674"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.364601,40.956557],"type":"Point"},"properties":{"a":"40.956557","cty":"COLUMBIA","id":8832992,"mun":"MAIN TWP","nc":1,"o":"-76.364601"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.496811,41.009959],"type":"Point"},"properties":{"a":"41.009959","cty":"MONROE","id":8832993,"mun":"TUNKHANNOCK TWP","nc":1,"o":"-75.496811"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.198549,41.459306],"type":"Point"},"properties":{"a":"41.459306","cty":"WAYNE","id":8832997,"mun":"PAUPACK TWP","nc":6,"o":"-75.198549"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.56626,40.587238],"type":"Point"},"properties":{"a":"40.587238","cty":"SCHUYLKILL","id":8832998,"mun":"PORTER TWP","nc":10,"o":"-76.56626"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.225263,40.196642],"type":"Point"},"properties":{"a":"40.196642","cty":"CUMBERLAND","id":8832999,"mun":"CARLISLE BORO","nc":1,"o":"-77.225263"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.3124,40.101271],"type":"Point"},"properties":{"a":"40.101271","cty":"LANCASTER","id":8833001,"mun":"MANHEIM TWP","nc":4,"o":"-76.3124"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.526577,41.053422],"type":"Point"},"properties":{"a":"41.053422","cty":"MONROE","id":8833003,"mun":"TUNKHANNOCK TWP","nc":1,"o":"-75.526577"},"type":"Feature"}
 ]}
