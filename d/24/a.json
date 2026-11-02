@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.82767,41.36465],"type":"Point"},"properties":{"a":"41.36465","cty":"WASHINGTON","hp":true,"id":20261069466,"mun":"WESTERLY","nc":32,"ne":{"a":"41.3658","o":"-71.8264"},"o":"-71.82767","sw":{"a":"41.3635","o":"-71.82894"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.401162,41.787143],"type":"Point"},"properties":{"a":"41.787143","cty":"PROVIDENCE","id":20261069468,"mun":"PROVIDENCE","nc":1,"o":"-71.401162"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.506908,41.756083],"type":"Point"},"properties":{"a":"41.756083","cty":"PROVIDENCE","id":20261069470,"mun":"CRANSTON","nc":12,"o":"-71.506908"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.401162,41.787143],"type":"Point"},"properties":{"a":"41.787143","cty":"PROVIDENCE","id":20261069471,"mun":"PROVIDENCE","nc":1,"o":"-71.401162"},"type":"Feature"}
 ]}
