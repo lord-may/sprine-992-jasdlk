@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.205519,44.469701],"type":"Point"},"properties":{"EstRest":"11/2/2026 2:15:00 AM","Outages":2,"cause":"","county":"ANDROSCOGGIN","crewstatus":"     ","customers":2,"hamlet":"LIVERMORE","incidentnumber":"0045N2","incidents":1,"level":"street","opco":"CMP","street":"HYDE RD","town":"LIVERMORE"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.205519,44.469701],"type":"Point"},"properties":{"EstRest":"11/2/2026 2:15:00 AM","Outages":2,"cause":"","county":"ANDROSCOGGIN","crewstatus":"DISP ","customers":2,"hamlet":"LIVERMORE","incidentnumber":"0045N2","incidents":1,"level":"street","opco":"CMP","street":"HYDE RD","town":"LIVERMORE"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.20902,44.471278],"type":"Point"},"properties":{"EstRest":"11/2/2026 2:15:00 AM","Outages":8,"county":"ANDROSCOGGIN","customers":59602,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
