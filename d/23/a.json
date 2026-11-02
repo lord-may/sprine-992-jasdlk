@@ -3,11 +3,9 @@
 {"geometry":{"coordinates":[-77.277435,40.72082],"type":"Point"},"properties":{"a":"40.72082","cty":"SNYDER","id":8832901,"mun":"WEST BEAVER TWP","nc":1,"o":"-77.277435"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.14956,40.66755],"type":"Point"},"properties":{"a":"40.66755","cty":"SCHUYLKILL","hp":true,"id":8832913,"mun":"NORTH MANHEIM TWP","nc":21,"ne":{"a":"40.66961","o":"-76.14328"},"o":"-76.14956","sw":{"a":"40.66548","o":"-76.15584"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.481956,40.625889],"type":"Point"},"properties":{"a":"40.625889","cty":"LEHIGH","id":8832921,"mun":"WHITEHALL TWP","nc":22,"o":"-75.481956"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.954904,40.332564],"type":"Point"},"properties":{"a":"40.332564","cty":"BERKS","id":8832924,"mun":"WYOMISSING BORO","nc":2,"o":"-75.954904"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.746926,41.063161],"type":"Point"},"properties":{"a":"41.063161","cty":"CARBON","id":8832926,"mun":"KIDDER TWP","nc":2,"o":"-75.746926"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.513624,41.006499],"type":"Point"},"properties":{"a":"41.006499","cty":"COLUMBIA","id":8832934,"mun":"HEMLOCK TWP","nc":2,"o":"-76.513624"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.81044,41.28897],"type":"Point"},"properties":{"a":"41.28897","cty":"LUZERNE","hp":true,"id":8832937,"mun":"LAFLIN BORO","nc":125,"ne":{"a":"41.29118","o":"-75.80083"},"o":"-75.81044","sw":{"a":"41.28676","o":"-75.82006"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.473812,40.081427],"type":"Point"},"properties":{"a":"40.081427","cty":"LANCASTER","id":8832944,"mun":"RAPHO TWP","nc":3,"o":"-76.473812"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.243337,41.378937],"type":"Point"},"properties":{"a":"41.378937","cty":"PIKE","id":8832951,"mun":"PALMYRA TWP","nc":2,"o":"-75.243337"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.34723,40.63587],"type":"Point"},"properties":{"a":"40.63587","cty":"NORTHAMPTON","hp":true,"id":8832958,"mun":"BETHLEHEM","nc":50,"ne":{"a":"40.63704","o":"-75.34601"},"o":"-75.34723","sw":{"a":"40.63469","o":"-75.34845"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.520846,41.339146],"type":"Point"},"properties":{"a":"41.339146","cty":"LACKAWANNA","id":8832960,"mun":"MOSCOW BORO","nc":39,"o":"-75.520846"},"type":"Feature"},
@@ -29,6 +27,8 @@
 {"geometry":{"coordinates":[-75.259038,40.49208],"type":"Point"},"properties":{"a":"40.49208","cty":"BUCKS","id":8833023,"mun":"HAYCOCK TWP","nc":2,"o":"-75.259038"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.268811,40.278971],"type":"Point"},"properties":{"a":"40.278971","cty":"LEBANON","id":8833026,"mun":"HEIDELBERG TWP","nc":1,"o":"-76.268811"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.042817,40.933053],"type":"Point"},"properties":{"a":"40.933053","cty":"UNION","id":8833027,"mun":"WEST BUFFALO TWP","nc":3,"o":"-77.042817"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.874719,40.825181],"type":"Point"},"properties":{"a":"40.825181","cty":"CARBON","id":8833028,"mun":"SUMMIT HILL BORO","nc":1,"o":"-75.874719"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.384895,40.609812],"type":"Point"},"properties":{"a":"40.609812","cty":"NORTHAMPTON","id":8833034,"mun":"BETHLEHEM","nc":1,"o":"-75.384895"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.647687,41.404929],"type":"Point"},"properties":{"a":"41.404929","cty":"LACKAWANNA","id":8833037,"mun":"SCRANTON","nc":1,"o":"-75.647687"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.402875,41.011401],"type":"Point"},"properties":{"a":"41.011401","cty":"COLUMBIA","id":8833038,"mun":"SCOTT TWP","nc":8,"o":"-76.402875"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.377145,41.712969],"type":"Point"},"properties":{"a":"41.712969","cty":"WAYNE","id":8833047,"mun":"MOUNT PLEASANT TWP","nc":1,"o":"-75.377145"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.96508,40.999678],"type":"Point"},"properties":{"a":"40.999678","cty":"LUZERNE","id":8833048,"mun":"HAZLE TWP","nc":3,"o":"-75.96508"},"type":"Feature"}
 ]}
