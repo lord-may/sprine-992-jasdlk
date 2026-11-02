@@ -2,5 +2,6 @@
 {"geometry":{"coordinates":[-75.201851,41.151688],"type":"Point"},"properties":{"a":"41.151688","cty":"MONROE","id":8832876,"mun":"PRICE TWP","nc":1,"o":"-75.201851"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.427523,40.649279],"type":"Point"},"properties":{"a":"40.649279","cty":"LEHIGH","id":8832877,"mun":"BETHLEHEM","nc":1,"o":"-75.427523"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.0655,40.09814],"type":"Point"},"properties":{"a":"40.09814","cty":"LANCASTER","hp":true,"id":8832883,"mun":"EARL TWP","nc":158,"ne":{"a":"40.1008","o":"-76.06277"},"o":"-76.0655","sw":{"a":"40.09548","o":"-76.06823"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.099612,40.099404],"type":"Point"},"properties":{"a":"40.099404","cty":"LANCASTER","id":8832884,"mun":"EARL TWP","nc":15,"o":"-76.099612"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.772159,40.271344],"type":"Point"},"properties":{"a":"40.271344","cty":"DAUPHIN","id":8832886,"mun":"SWATARA TWP","nc":4,"o":"-76.772159"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.149654,40.315561],"type":"Point"},"properties":{"a":"40.315561","cty":"BERKS","id":8832887,"mun":"SOUTH HEIDELBERG TWP","nc":2,"o":"-76.149654"},"type":"Feature"}
 ]}
