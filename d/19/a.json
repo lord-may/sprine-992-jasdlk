@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-74.914827,42.834723],"type":"Point"},"properties":{"EstRest":"11/2/2026 7:00:00 AM","Outages":1,"cause":"","county":"HERKIMER","crewstatus":"     ","customers":11,"hamlet":"RICHFIELD SPRINGS","incidentnumber":"0119AS","incidents":1,"level":"street","opco":"NYSEG","street":"HOKE RD","town":"WARREN T"},"type":"Feature"},
+{"geometry":{"coordinates":[-74.914827,42.834723],"type":"Point"},"properties":{"EstRest":"11/2/2026 7:00:00 AM","Outages":1,"county":"HERKIMER","customers":1934,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
