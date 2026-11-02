@@ -1,6 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.959924,43.895565],"type":"Point"},"properties":{"EstRest":"11/2/2026 4:45:00 PM","Outages":4,"cause":"","county":"CUMBERLAND","crewstatus":"ONST ","customers":11,"hamlet":"BRUNSWICK","incidentnumber":"0045R0","incidents":1,"level":"street","opco":"CMP","street":"BLUEBERRY LN","town":"BRUNSWICK"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.960212,43.896274],"type":"Point"},"properties":{"EstRest":"11/2/2026 4:45:00 PM","Outages":40,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.903965,43.849615],"type":"Point"},"properties":{"EstRest":"11/2/2026 4:15:00 PM","Outages":1,"cause":"","county":"OXFORD","crewstatus":"ENRT ","customers":52,"hamlet":"PORTER","incidentnumber":"0045QS","incidents":1,"level":"street","opco":"CMP","street":"PORTERFIELD RD","town":"PORTER"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.903965,43.849615],"type":"Point"},"properties":{"EstRest":"11/2/2026 4:15:00 PM","Outages":1,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.563785,43.937247],"type":"Point"},"properties":{"EstRest":"11/2/2026 5:15:00 PM","Outages":4,"county":"CUMBERLAND","customers":182407,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}

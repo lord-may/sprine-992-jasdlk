@@ -1,13 +1,22 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.304896,41.482661],"type":"Point"},"properties":{"a":"41.482661","cty":"NEWPORT","id":20261069489,"mun":"NEWPORT","nc":15,"o":"-71.304896"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.374847,41.503893],"type":"Point"},"properties":{"a":"41.503893","cty":"NEWPORT","id":20261069499,"mun":"JAMESTOWN","nc":7,"o":"-71.374847"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.374807,41.503879],"type":"Point"},"properties":{"a":"41.503879","cty":"NEWPORT","id":20261069500,"mun":"JAMESTOWN","nc":9,"o":"-71.374807"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.39968,41.81674],"type":"Point"},"properties":{"a":"41.81674","cty":"PROVIDENCE","hp":true,"id":20261069502,"mun":"PROVIDENCE","nc":21,"ne":{"a":"41.81788","o":"-71.39698"},"o":"-71.39968","sw":{"a":"41.81561","o":"-71.40239"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.72193,41.6744],"type":"Point"},"properties":{"a":"41.6744","cty":"KENT","hp":true,"id":20261069531,"mun":"COVENTRY","nc":108,"ne":{"a":"41.68967","o":"-71.69425"},"o":"-71.72193","sw":{"a":"41.65914","o":"-71.7496"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.571578,41.860816],"type":"Point"},"properties":{"a":"41.860816","cty":"PROVIDENCE","id":20261069542,"mun":"SMITHFIELD","nc":1,"o":"-71.571578"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.692658,41.831857],"type":"Point"},"properties":{"a":"41.831857","cty":"PROVIDENCE","id":20261069552,"mun":"FOSTER","nc":3,"o":"-71.692658"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.341925,41.89789],"type":"Point"},"properties":{"a":"41.89789","cty":"PROVIDENCE","id":20261069555,"mun":"PAWTUCKET","nc":1,"o":"-71.341925"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.506255,41.714055],"type":"Point"},"properties":{"a":"41.714055","cty":"KENT","id":20261069573,"mun":"WEST WARWICK","nc":1,"o":"-71.506255"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.28444,41.53848],"type":"Point"},"properties":{"a":"41.53848","cty":"NEWPORT","hp":true,"id":20261069576,"mun":"MIDDLETOWN","nc":168,"ne":{"a":"41.54204","o":"-71.28024"},"o":"-71.28444","sw":{"a":"41.53491","o":"-71.28864"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.310357,41.495237],"type":"Point"},"properties":{"a":"41.495237","cty":"NEWPORT","id":20261069580,"mun":"NEWPORT","nc":1,"o":"-71.310357"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.288431,41.540804],"type":"Point"},"properties":{"a":"41.540804","cty":"NEWPORT","id":20261069576,"mun":"MIDDLETOWN","nc":1,"o":"-71.288431"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.310357,41.495237],"type":"Point"},"properties":{"a":"41.495237","cty":"NEWPORT","id":20261069580,"mun":"NEWPORT","nc":1,"o":"-71.310357"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.280581,41.537339],"type":"Point"},"properties":{"a":"41.537339","cty":"NEWPORT","id":20261069586,"mun":"MIDDLETOWN","nc":36,"o":"-71.280581"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.286712,41.539786],"type":"Point"},"properties":{"a":"41.539786","cty":"NEWPORT","id":20261069588,"mun":"MIDDLETOWN","nc":1,"o":"-71.286712"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.286466,41.540592],"type":"Point"},"properties":{"a":"41.540592","cty":"NEWPORT","id":20261069593,"mun":"MIDDLETOWN","nc":1,"o":"-71.286466"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.286466,41.540592],"type":"Point"},"properties":{"a":"41.540592","cty":"NEWPORT","id":20261069594,"mun":"MIDDLETOWN","nc":1,"o":"-71.286466"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.286073,41.54193],"type":"Point"},"properties":{"a":"41.54193","cty":"NEWPORT","id":20261069595,"mun":"MIDDLETOWN","nc":1,"o":"-71.286073"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.286466,41.540592],"type":"Point"},"properties":{"a":"41.540592","cty":"NEWPORT","id":20261069596,"mun":"MIDDLETOWN","nc":1,"o":"-71.286466"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.286466,41.540592],"type":"Point"},"properties":{"a":"41.540592","cty":"NEWPORT","id":20261069597,"mun":"MIDDLETOWN","nc":1,"o":"-71.286466"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.286073,41.54193],"type":"Point"},"properties":{"a":"41.54193","cty":"NEWPORT","id":20261069598,"mun":"MIDDLETOWN","nc":1,"o":"-71.286073"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.286466,41.540592],"type":"Point"},"properties":{"a":"41.540592","cty":"NEWPORT","id":20261069599,"mun":"MIDDLETOWN","nc":1,"o":"-71.286466"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.286466,41.540592],"type":"Point"},"properties":{"a":"41.540592","cty":"NEWPORT","id":20261069600,"mun":"MIDDLETOWN","nc":1,"o":"-71.286466"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.286073,41.54193],"type":"Point"},"properties":{"a":"41.54193","cty":"NEWPORT","id":20261069601,"mun":"MIDDLETOWN","nc":1,"o":"-71.286073"},"type":"Feature"}
 ]}
