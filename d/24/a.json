@@ -4,5 +4,6 @@
 {"geometry":{"coordinates":[-71.478425,41.833825],"type":"Point"},"properties":{"a":"41.833825","cty":"PROVIDENCE","id":20261069609,"mun":"JOHNSTON","nc":1,"o":"-71.478425"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.362436,41.839696],"type":"Point"},"properties":{"a":"41.839696","cty":"PROVIDENCE","id":20261069610,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.362436"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.494475,41.864435],"type":"Point"},"properties":{"a":"41.864435","cty":"PROVIDENCE","id":20261069614,"mun":"JOHNSTON","nc":1,"o":"-71.494475"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.389932,41.888657],"type":"Point"},"properties":{"a":"41.888657","cty":"PROVIDENCE","id":20261069615,"mun":"CENTRAL FALLS","nc":42,"o":"-71.389932"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.389932,41.888657],"type":"Point"},"properties":{"a":"41.888657","cty":"PROVIDENCE","id":20261069615,"mun":"CENTRAL FALLS","nc":42,"o":"-71.389932"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.450192,41.47722],"type":"Point"},"properties":{"a":"41.47722","cty":"WASHINGTON","id":20261069618,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.450192"},"type":"Feature"}
 ]}

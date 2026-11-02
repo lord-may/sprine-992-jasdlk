@@ -9,6 +9,7 @@
 {"geometry":{"coordinates":[-75.853461,40.112656],"type":"Point"},"properties":{"a":"40.112656","cty":"CHESTER","id":8833211,"mun":"HONEYBROOK TWP","nc":1,"o":"-75.853461"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.565256,41.146592],"type":"Point"},"properties":{"a":"41.146592","cty":"MONROE","id":8833223,"mun":"TOBYHANNA TWP","nc":3,"o":"-75.565256"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.517212,40.580547],"type":"Point"},"properties":{"a":"40.580547","cty":"LEHIGH","id":8833231,"mun":"SOUTH WHITEHALL TWP","nc":11,"o":"-75.517212"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.272168,41.201393],"type":"Point"},"properties":{"a":"41.201393","cty":"LYCOMING","id":8833250,"mun":"JERSEY SHORE BORO","nc":1,"o":"-77.272168"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.801422,40.328287],"type":"Point"},"properties":{"a":"40.328287","cty":"DAUPHIN","id":8833252,"mun":"LOWER PAXTON TWP","nc":3,"o":"-76.801422"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.801422,40.328287],"type":"Point"},"properties":{"a":"40.328287","cty":"DAUPHIN","id":8833252,"mun":"LOWER PAXTON TWP","nc":3,"o":"-76.801422"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.246051,41.053186],"type":"Point"},"properties":{"a":"41.053186","cty":"COLUMBIA","id":8833256,"mun":"BERWICK BORO","nc":13,"o":"-76.246051"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.572083,40.521311],"type":"Point"},"properties":{"a":"40.521311","cty":"LEHIGH","id":8833257,"mun":"LOWER MACUNGIE TWP","nc":16,"o":"-75.572083"},"type":"Feature"}
 ]}
