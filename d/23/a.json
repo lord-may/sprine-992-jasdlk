@@ -28,5 +28,7 @@
 {"geometry":{"coordinates":[-75.271442,40.560854],"type":"Point"},"properties":{"a":"40.560854","cty":"BUCKS","id":8833088,"mun":"SPRINGFIELD TWP","nc":1,"o":"-75.271442"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.062831,41.296863],"type":"Point"},"properties":{"a":"41.296863","cty":"PIKE","id":8833089,"mun":"BLOOMING GROVE TWP","nc":2,"o":"-75.062831"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.258646,40.300318],"type":"Point"},"properties":{"a":"40.300318","cty":"LEBANON","id":8833092,"mun":"HEIDELBERG TWP","nc":1,"o":"-76.258646"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.740007,41.36588],"type":"Point"},"properties":{"a":"41.36588","cty":"LACKAWANNA","id":8833093,"mun":"OLD FORGE BORO","nc":1,"o":"-75.740007"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.740007,41.36588],"type":"Point"},"properties":{"a":"41.36588","cty":"LACKAWANNA","id":8833093,"mun":"OLD FORGE BORO","nc":1,"o":"-75.740007"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.138664,40.811717],"type":"Point"},"properties":{"a":"40.811717","cty":"SCHUYLKILL","id":8833095,"mun":"MAHANOY TWP","nc":1,"o":"-76.138664"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.993954,40.961726],"type":"Point"},"properties":{"a":"40.961726","cty":"LUZERNE","id":8833101,"mun":"WEST HAZLETON BORO","nc":7,"o":"-75.993954"},"type":"Feature"}
 ]}
