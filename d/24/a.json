@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.39968,41.81674],"type":"Point"},"properties":{"a":"41.81674","cty":"PROVIDENCE","hp":true,"id":20261069502,"mun":"PROVIDENCE","nc":21,"ne":{"a":"41.81788","o":"-71.39698"},"o":"-71.39968","sw":{"a":"41.81561","o":"-71.40239"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.72193,41.6744],"type":"Point"},"properties":{"a":"41.6744","cty":"KENT","hp":true,"id":20261069531,"mun":"COVENTRY","nc":108,"ne":{"a":"41.68967","o":"-71.69425"},"o":"-71.72193","sw":{"a":"41.65914","o":"-71.7496"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.28465,41.53841],"type":"Point"},"properties":{"a":"41.53841","cty":"NEWPORT","hp":true,"id":20261069576,"mun":"MIDDLETOWN","nc":87,"ne":{"a":"41.54191","o":"-71.28065"},"o":"-71.28465","sw":{"a":"41.53491","o":"-71.28864"}},"type":"Feature"}
+{"geometry":{"coordinates":[-71.203348,41.598278],"type":"Point"},"properties":{"a":"41.598278","cty":"NEWPORT","id":20261069608,"mun":"TIVERTON","nc":1,"o":"-71.203348"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.478425,41.833825],"type":"Point"},"properties":{"a":"41.833825","cty":"PROVIDENCE","id":20261069609,"mun":"JOHNSTON","nc":1,"o":"-71.478425"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.362436,41.839696],"type":"Point"},"properties":{"a":"41.839696","cty":"PROVIDENCE","id":20261069610,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.362436"},"type":"Feature"}
 ]}
