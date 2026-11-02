@@ -18,9 +18,6 @@
 {"geometry":{"coordinates":[-75.85723,40.11025],"type":"Point"},"properties":{"a":"40.11025","cty":"CHESTER","hp":true,"id":8833182,"mun":"HONEYBROOK TWP","nc":24,"ne":{"a":"40.1122","o":"-75.85504"},"o":"-75.85723","sw":{"a":"40.10831","o":"-75.85943"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.339532,41.293384],"type":"Point"},"properties":{"a":"41.293384","cty":"WAYNE","id":8833184,"mun":"DREHER TWP","nc":1,"o":"-75.339532"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.412133,40.603553],"type":"Point"},"properties":{"a":"40.603553","cty":"JUNIATA","id":8833190,"mun":"FERMANAGH TWP","nc":1,"o":"-77.412133"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.80945,41.35969],"type":"Point"},"properties":{"a":"41.35969","cty":"LUZERNE","hp":true,"id":8833196,"mun":"EXETER TWP","nc":14,"ne":{"a":"41.36073","o":"-75.80918"},"o":"-75.80945","sw":{"a":"41.35864","o":"-75.80972"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.853461,40.112656],"type":"Point"},"properties":{"a":"40.112656","cty":"CHESTER","id":8833197,"mun":"HONEYBROOK TWP","nc":3,"o":"-75.853461"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.641436,40.850435],"type":"Point"},"properties":{"a":"40.850435","cty":"NORTHUMBERLAND","id":8833199,"mun":"SHAMOKIN TWP","nc":1,"o":"-76.641436"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.810278,40.311818],"type":"Point"},"properties":{"a":"40.311818","cty":"DAUPHIN","id":8833200,"mun":"LOWER PAXTON TWP","nc":4,"o":"-76.810278"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.255916,40.357308],"type":"Point"},"properties":{"a":"40.357308","cty":"LEBANON","id":8833203,"mun":"RICHLAND BORO","nc":1,"o":"-76.255916"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.609474,40.815195],"type":"Point"},"properties":{"a":"40.815195","cty":"NORTHUMBERLAND","id":8833208,"mun":"SHAMOKIN TWP","nc":2,"o":"-76.609474"},"type":"Feature"}
 ]}
