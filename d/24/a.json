@@ -8,6 +8,5 @@
 {"geometry":{"coordinates":[-71.692658,41.831857],"type":"Point"},"properties":{"a":"41.831857","cty":"PROVIDENCE","id":20261069552,"mun":"FOSTER","nc":3,"o":"-71.692658"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.341925,41.89789],"type":"Point"},"properties":{"a":"41.89789","cty":"PROVIDENCE","id":20261069555,"mun":"PAWTUCKET","nc":1,"o":"-71.341925"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.310357,41.495237],"type":"Point"},"properties":{"a":"41.495237","cty":"NEWPORT","id":20261069556,"mun":"NEWPORT","nc":1,"o":"-71.310357"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.310104,41.494362],"type":"Point"},"properties":{"a":"41.494362","cty":"NEWPORT","id":20261069557,"mun":"NEWPORT","nc":1,"o":"-71.310104"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.57978,41.84983],"type":"Point"},"properties":{"a":"41.84983","cty":"PROVIDENCE","hp":true,"id":20261069561,"mun":"SCITUATE","nc":30,"ne":{"a":"41.85133","o":"-71.5776"},"o":"-71.57978","sw":{"a":"41.84833","o":"-71.58196"}},"type":"Feature"}
+{"geometry":{"coordinates":[-71.310104,41.494362],"type":"Point"},"properties":{"a":"41.494362","cty":"NEWPORT","id":20261069557,"mun":"NEWPORT","nc":1,"o":"-71.310104"},"type":"Feature"}
 ]}
