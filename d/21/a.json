@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.563785,43.937247],"type":"Point"},"properties":{"EstRest":"11/2/2026 5:15:00 PM","Outages":4,"county":"CUMBERLAND","customers":182407,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.563785,43.937247],"type":"Point"},"properties":{"EstRest":"11/2/2026 5:15:00 PM","Outages":4,"county":"CUMBERLAND","customers":182407,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.590011,44.964401],"type":"Point"},"properties":{"EstRest":"11/2/2026 5:30:00 PM","Outages":21,"cause":"","county":"SOMERSET","crewstatus":"     ","customers":21,"hamlet":"HARMONY","incidentnumber":"0045RA","incidents":1,"level":"street","opco":"CMP","street":"CARSON HILL RD","town":"HARMONY"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.590011,44.964401],"type":"Point"},"properties":{"EstRest":"11/2/2026 5:30:00 PM","Outages":21,"county":"SOMERSET","customers":31730,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
