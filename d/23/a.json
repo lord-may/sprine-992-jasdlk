@@ -9,10 +9,8 @@
 {"geometry":{"coordinates":[-75.259038,40.49208],"type":"Point"},"properties":{"a":"40.49208","cty":"BUCKS","id":8833023,"mun":"HAYCOCK TWP","nc":2,"o":"-75.259038"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.96508,40.999678],"type":"Point"},"properties":{"a":"40.999678","cty":"LUZERNE","id":8833048,"mun":"HAZLE TWP","nc":3,"o":"-75.96508"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.389256,40.618951],"type":"Point"},"properties":{"a":"40.618951","cty":"LEHIGH","id":8833063,"mun":"BETHLEHEM","nc":17,"o":"-75.389256"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.526198,41.053755],"type":"Point"},"properties":{"a":"41.053755","cty":"MONROE","id":8833067,"mun":"TUNKHANNOCK TWP","nc":1,"o":"-75.526198"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.938185,40.366904],"type":"Point"},"properties":{"a":"40.366904","cty":"DAUPHIN","id":8833068,"mun":"MIDDLE PAXTON TWP","nc":1,"o":"-76.938185"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.512412,41.564011],"type":"Point"},"properties":{"a":"41.564011","cty":"LACKAWANNA","id":8833070,"mun":"CARBONDALE","nc":9,"o":"-75.512412"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.11818,40.280326],"type":"Point"},"properties":{"a":"40.280326","cty":"LANCASTER","id":8833071,"mun":"WEST COCALICO TWP","nc":3,"o":"-76.11818"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.984079,41.143778],"type":"Point"},"properties":{"a":"41.143778","cty":"LUZERNE","id":8833076,"mun":"DORRANCE TWP","nc":4,"o":"-75.984079"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.266743,40.278726],"type":"Point"},"properties":{"a":"40.278726","cty":"LEBANON","id":8833081,"mun":"HEIDELBERG TWP","nc":1,"o":"-76.266743"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.260412,40.30047],"type":"Point"},"properties":{"a":"40.30047","cty":"LEBANON","id":8833086,"mun":"HEIDELBERG TWP","nc":1,"o":"-76.260412"},"type":"Feature"},
@@ -24,5 +22,9 @@
 {"geometry":{"coordinates":[-75.834383,41.246357],"type":"Point"},"properties":{"a":"41.246357","cty":"LUZERNE","id":8833113,"mun":"PLAINS TWP","nc":5,"o":"-75.834383"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.390571,41.01707],"type":"Point"},"properties":{"a":"41.01707","cty":"COLUMBIA","id":8833114,"mun":"SCOTT TWP","nc":3,"o":"-76.390571"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.221945,40.315982],"type":"Point"},"properties":{"a":"40.315982","cty":"LEBANON","id":8833119,"mun":"MILLCREEK TWP","nc":1,"o":"-76.221945"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.46635,41.43306],"type":"Point"},"properties":{"a":"41.43306","cty":"LACKAWANNA","hp":true,"id":8833125,"mun":"JEFFERSON TWP","nc":135,"ne":{"a":"41.43714","o":"-75.45046"},"o":"-75.46635","sw":{"a":"41.42898","o":"-75.48224"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.46635,41.43306],"type":"Point"},"properties":{"a":"41.43306","cty":"LACKAWANNA","hp":true,"id":8833125,"mun":"JEFFERSON TWP","nc":135,"ne":{"a":"41.43714","o":"-75.45046"},"o":"-75.46635","sw":{"a":"41.42898","o":"-75.48224"}},"type":"Feature"},
+{"geometry":{"coordinates":[-77.180553,40.299217],"type":"Point"},"properties":{"a":"40.299217","cty":"PERRY","id":8833129,"mun":"CARROLL TWP","nc":3,"o":"-77.180553"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.992842,40.312891],"type":"Point"},"properties":{"a":"40.312891","cty":"BERKS","id":8833134,"mun":"SPRING TWP","nc":1,"o":"-75.992842"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.593488,40.581418],"type":"Point"},"properties":{"a":"40.581418","cty":"LEHIGH","id":8833137,"mun":"UPPER MACUNGIE TWP","nc":5,"o":"-75.593488"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.016281,41.146364],"type":"Point"},"properties":{"a":"41.146364","cty":"LUZERNE","id":8833139,"mun":"SLOCUM TWP","nc":1,"o":"-76.016281"},"type":"Feature"}
 ]}
