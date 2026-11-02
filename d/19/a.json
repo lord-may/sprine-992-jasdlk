@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-73.557739,41.460902],"type":"Point"},"properties":{"EstRest":"11/1/2026 7:30:00 PM","Outages":1,"cause":"","county":"PUTNAM","crewstatus":"CNCL ","customers":84,"hamlet":"PATTERSON","incidentnumber":"0119AC","incidents":1,"level":"street","opco":"NYSEG","street":"E BRANCH RD","town":"PATTERSON T"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.557739,41.460902],"type":"Point"},"properties":{"EstRest":"11/1/2026 7:30:00 PM","Outages":1,"county":"PUTNAM","customers":39569,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-78.44799,42.727556],"type":"Point"},"properties":{"EstRest":"11/1/2026 8:40:00 PM","Outages":2,"cause":"","county":"WYOMING","crewstatus":"DISP ","customers":62,"hamlet":"STRYKERSVILLE","incidentnumber":"0119AA","incidents":1,"level":"street","opco":"NYSEG","street":"DUTCH HOLLOW RD","town":"SHELDON T"},"type":"Feature"},
 {"geometry":{"coordinates":[-78.44799,42.727556],"type":"Point"},"properties":{"EstRest":"11/1/2026 8:40:00 PM","Outages":2,"county":"WYOMING","customers":12291,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
