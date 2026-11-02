@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.079902,41.347848],"type":"Point"},"properties":{"a":"41.347848","cty":"LYCOMING","id":8832804,"mun":"HEPBURN TWP","nc":1,"o":"-77.079902"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.675036,41.418209],"type":"Point"},"properties":{"a":"41.418209","cty":"LACKAWANNA","id":8832853,"mun":"SCRANTON","nc":20,"o":"-75.675036"},"type":"Feature"}
 ]}
