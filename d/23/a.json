@@ -8,6 +8,5 @@
 {"geometry":{"coordinates":[-76.801422,40.328287],"type":"Point"},"properties":{"a":"40.328287","cty":"DAUPHIN","id":8833252,"mun":"LOWER PAXTON TWP","nc":3,"o":"-76.801422"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.51604,41.11577],"type":"Point"},"properties":{"a":"41.11577","cty":"MONROE","hp":true,"id":8833265,"mun":"TOBYHANNA TWP","nc":9,"ne":{"a":"41.11652","o":"-75.51438"},"o":"-75.51604","sw":{"a":"41.11501","o":"-75.51771"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.572083,40.521311],"type":"Point"},"properties":{"a":"40.521311","cty":"LEHIGH","id":8833269,"mun":"LOWER MACUNGIE TWP","nc":16,"o":"-75.572083"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.313917,41.25963],"type":"Point"},"properties":{"a":"41.25963","cty":"PIKE","id":8833270,"mun":"GREENE TWP","nc":3,"o":"-75.313917"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.255916,40.357308],"type":"Point"},"properties":{"a":"40.357308","cty":"LEBANON","id":8833272,"mun":"RICHLAND BORO","nc":1,"o":"-76.255916"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.313917,41.25963],"type":"Point"},"properties":{"a":"41.25963","cty":"PIKE","id":8833270,"mun":"GREENE TWP","nc":3,"o":"-75.313917"},"type":"Feature"}
 ]}

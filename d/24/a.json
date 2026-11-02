@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.39968,41.81674],"type":"Point"},"properties":{"a":"41.81674","cty":"PROVIDENCE","hp":true,"id":20261069502,"mun":"PROVIDENCE","nc":21,"ne":{"a":"41.81788","o":"-71.39698"},"o":"-71.39968","sw":{"a":"41.81561","o":"-71.40239"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.478425,41.833825],"type":"Point"},"properties":{"a":"41.833825","cty":"PROVIDENCE","id":20261069609,"mun":"JOHNSTON","nc":1,"o":"-71.478425"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.712068,41.681055],"type":"Point"},"properties":{"a":"41.681055","cty":"KENT","id":20261069619,"mun":"COVENTRY","nc":1,"o":"-71.712068"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.513639,41.753315],"type":"Point"},"properties":{"a":"41.753315","cty":"PROVIDENCE","id":20261069623,"mun":"CRANSTON","nc":1,"o":"-71.513639"},"type":"Feature"}
 ]}
