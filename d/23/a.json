@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.085801,40.791841],"type":"Point"},"properties":{"a":"40.791841","cty":"SCHUYLKILL","id":8832860,"mun":"RYAN TWP","nc":2,"o":"-76.085801"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.203026,40.692386],"type":"Point"},"properties":{"a":"40.692386","cty":"SCHUYLKILL","id":8832862,"mun":"POTTSVILLE","nc":14,"o":"-76.203026"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.202004,40.692599],"type":"Point"},"properties":{"a":"40.692599","cty":"SCHUYLKILL","id":8832874,"mun":"POTTSVILLE","nc":13,"o":"-76.202004"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.202004,40.692599],"type":"Point"},"properties":{"a":"40.692599","cty":"SCHUYLKILL","id":8832874,"mun":"POTTSVILLE","nc":1,"o":"-76.202004"},"type":"Feature"}
 ]}
