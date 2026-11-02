@@ -1,15 +1,14 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.868989,40.784868],"type":"Point"},"properties":{"a":"40.784868","cty":"SNYDER","id":8832968,"mun":"PENN TWP","nc":20,"o":"-76.868989"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.686196,41.441676],"type":"Point"},"properties":{"a":"41.441676","cty":"LACKAWANNA","id":8833016,"mun":"SCRANTON","nc":2,"o":"-75.686196"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.96508,40.999678],"type":"Point"},"properties":{"a":"40.999678","cty":"LUZERNE","id":8833048,"mun":"HAZLE TWP","nc":3,"o":"-75.96508"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.740007,41.36588],"type":"Point"},"properties":{"a":"41.36588","cty":"LACKAWANNA","id":8833093,"mun":"OLD FORGE BORO","nc":1,"o":"-75.740007"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.221945,40.315982],"type":"Point"},"properties":{"a":"40.315982","cty":"LEBANON","id":8833119,"mun":"MILLCREEK TWP","nc":1,"o":"-76.221945"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.180553,40.299217],"type":"Point"},"properties":{"a":"40.299217","cty":"PERRY","id":8833129,"mun":"CARROLL TWP","nc":3,"o":"-77.180553"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.992842,40.312891],"type":"Point"},"properties":{"a":"40.312891","cty":"BERKS","id":8833134,"mun":"SPRING TWP","nc":1,"o":"-75.992842"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.016281,41.146364],"type":"Point"},"properties":{"a":"41.146364","cty":"LUZERNE","id":8833139,"mun":"SLOCUM TWP","nc":1,"o":"-76.016281"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.85723,40.11025],"type":"Point"},"properties":{"a":"40.11025","cty":"CHESTER","hp":true,"id":8833182,"mun":"HONEYBROOK TWP","nc":24,"ne":{"a":"40.1122","o":"-75.85504"},"o":"-75.85723","sw":{"a":"40.10831","o":"-75.85943"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.810278,40.311818],"type":"Point"},"properties":{"a":"40.311818","cty":"DAUPHIN","id":8833200,"mun":"LOWER PAXTON TWP","nc":4,"o":"-76.810278"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.369046,40.388223],"type":"Point"},"properties":{"a":"40.388223","cty":"PERRY","id":8833210,"mun":"SAVILLE TWP","nc":1,"o":"-77.369046"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.853461,40.112656],"type":"Point"},"properties":{"a":"40.112656","cty":"CHESTER","id":8833211,"mun":"HONEYBROOK TWP","nc":1,"o":"-75.853461"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.565256,41.146592],"type":"Point"},"properties":{"a":"41.146592","cty":"MONROE","id":8833223,"mun":"TOBYHANNA TWP","nc":3,"o":"-75.565256"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.565256,41.146592],"type":"Point"},"properties":{"a":"41.146592","cty":"MONROE","id":8833223,"mun":"TOBYHANNA TWP","nc":3,"o":"-75.565256"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.517212,40.580547],"type":"Point"},"properties":{"a":"40.580547","cty":"LEHIGH","id":8833231,"mun":"SOUTH WHITEHALL TWP","nc":11,"o":"-75.517212"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.448563,41.127263],"type":"Point"},"properties":{"a":"41.127263","cty":"CLINTON","id":8833233,"mun":"LOCK HAVEN","nc":5,"o":"-77.448563"},"type":"Feature"}
 ]}
