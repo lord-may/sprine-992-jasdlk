@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-70.478889,44.143973],"type":"Point"},"properties":{"EstRest":"11/2/2026 8:15:00 AM","Outages":1,"cause":"","county":"OXFORD","crewstatus":"     ","customers":1,"hamlet":"NORWAY","incidentnumber":"0045N4","incidents":1,"level":"street","opco":"CMP","street":"MAIN ST","town":"NORWAY"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.478889,44.143973],"type":"Point"},"properties":{"EstRest":"11/2/2026 8:15:00 AM","Outages":1,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
