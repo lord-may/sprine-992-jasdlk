@@ -1,8 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.201851,41.151688],"type":"Point"},"properties":{"a":"41.151688","cty":"MONROE","id":8832876,"mun":"PRICE TWP","nc":1,"o":"-75.201851"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.149654,40.315561],"type":"Point"},"properties":{"a":"40.315561","cty":"BERKS","id":8832887,"mun":"SOUTH HEIDELBERG TWP","nc":2,"o":"-76.149654"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.626834,41.066486],"type":"Point"},"properties":{"a":"41.066486","cty":"CARBON","id":8832890,"mun":"KIDDER TWP","nc":2,"o":"-75.626834"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.603424,40.661733],"type":"Point"},"properties":{"a":"40.661733","cty":"LEHIGH","id":8832896,"mun":"NORTH WHITEHALL TWP","nc":9,"o":"-75.603424"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.700221,40.259882],"type":"Point"},"properties":{"a":"40.259882","cty":"DAUPHIN","id":8832900,"mun":"HUMMELSTOWN BORO","nc":8,"o":"-76.700221"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.277435,40.72082],"type":"Point"},"properties":{"a":"40.72082","cty":"SNYDER","id":8832901,"mun":"WEST BEAVER TWP","nc":1,"o":"-77.277435"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.548489,40.789727],"type":"Point"},"properties":{"a":"40.789727","cty":"NORTHUMBERLAND","id":8832905,"mun":"COAL TWP","nc":15,"o":"-76.548489"},"type":"Feature"},
@@ -18,5 +15,7 @@
 {"geometry":{"coordinates":[-76.271552,40.277847],"type":"Point"},"properties":{"a":"40.277847","cty":"LEBANON","id":8832931,"mun":"HEIDELBERG TWP","nc":1,"o":"-76.271552"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.513624,41.006499],"type":"Point"},"properties":{"a":"41.006499","cty":"COLUMBIA","id":8832934,"mun":"HEMLOCK TWP","nc":2,"o":"-76.513624"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.472479,40.864581],"type":"Point"},"properties":{"a":"40.864581","cty":"MONROE","id":8832935,"mun":"ELDRED TWP","nc":2,"o":"-75.472479"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.81044,41.28897],"type":"Point"},"properties":{"a":"41.28897","cty":"LUZERNE","hp":true,"id":8832937,"mun":"LAFLIN BORO","nc":125,"ne":{"a":"41.29118","o":"-75.80083"},"o":"-75.81044","sw":{"a":"41.28676","o":"-75.82006"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.81044,41.28897],"type":"Point"},"properties":{"a":"41.28897","cty":"LUZERNE","hp":true,"id":8832937,"mun":"LAFLIN BORO","nc":125,"ne":{"a":"41.29118","o":"-75.80083"},"o":"-75.81044","sw":{"a":"41.28676","o":"-75.82006"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.473812,40.081427],"type":"Point"},"properties":{"a":"40.081427","cty":"LANCASTER","id":8832944,"mun":"RAPHO TWP","nc":3,"o":"-76.473812"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.267437,40.300987],"type":"Point"},"properties":{"a":"40.300987","cty":"LEBANON","id":8832946,"mun":"HEIDELBERG TWP","nc":1,"o":"-76.267437"},"type":"Feature"}
 ]}

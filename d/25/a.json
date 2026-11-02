@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-72.586469,43.648428],"type":"Point"},"properties":{"active":true,"affectingCustomers":true,"cause":0,"county":"Windsor","crew_name":",ROYA-FLOYD","customers_affected":2,"customers_affected_label":"2 Customers","device":"FUSE","etor":"2026-11-02T11:00-05:00","has_etor":1,"incident_id":1017227,"status":"CREW_ASSIGNED","street":"N BRIDGEWATER RD","town":"Bridgewater","trouble":"NO_POWER"},"type":"Feature"},
 {"geometry":{"coordinates":[-72.152471,43.906429],"type":"Point"},"properties":{"active":true,"affectingCustomers":true,"cause":0,"county":"Orange","crew_name":",WRJ-POULINWRJ-DECKER","customers_affected":88,"customers_affected_label":"88 Customers","device":"PRIMARY_SPAN","etor":"2026-11-02T12:00-05:00","has_etor":1,"incident_id":1017242,"status":"CREW_ASSIGNED","street":"LAKE MOREY RD","town":"Fairlee","trouble":"NO_POWER"},"type":"Feature"}
 ]}
