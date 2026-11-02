@@ -5,10 +5,8 @@
 {"geometry":{"coordinates":[-76.868989,40.784868],"type":"Point"},"properties":{"a":"40.784868","cty":"SNYDER","id":8832968,"mun":"PENN TWP","nc":20,"o":"-76.868989"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.879674,40.986043],"type":"Point"},"properties":{"a":"40.986043","cty":"UNION","id":8832990,"mun":"KELLY TWP","nc":3,"o":"-76.879674"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.686196,41.441676],"type":"Point"},"properties":{"a":"41.441676","cty":"LACKAWANNA","id":8833016,"mun":"SCRANTON","nc":2,"o":"-75.686196"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.259038,40.49208],"type":"Point"},"properties":{"a":"40.49208","cty":"BUCKS","id":8833023,"mun":"HAYCOCK TWP","nc":2,"o":"-75.259038"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.96508,40.999678],"type":"Point"},"properties":{"a":"40.999678","cty":"LUZERNE","id":8833048,"mun":"HAZLE TWP","nc":3,"o":"-75.96508"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.512412,41.564011],"type":"Point"},"properties":{"a":"41.564011","cty":"LACKAWANNA","id":8833070,"mun":"CARBONDALE","nc":9,"o":"-75.512412"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.266743,40.278726],"type":"Point"},"properties":{"a":"40.278726","cty":"LEBANON","id":8833081,"mun":"HEIDELBERG TWP","nc":1,"o":"-76.266743"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.740007,41.36588],"type":"Point"},"properties":{"a":"41.36588","cty":"LACKAWANNA","id":8833093,"mun":"OLD FORGE BORO","nc":1,"o":"-75.740007"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.378804,41.709098],"type":"Point"},"properties":{"a":"41.709098","cty":"WAYNE","id":8833109,"mun":"MOUNT PLEASANT TWP","nc":1,"o":"-75.378804"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.834383,41.246357],"type":"Point"},"properties":{"a":"41.246357","cty":"LUZERNE","id":8833113,"mun":"PLAINS TWP","nc":5,"o":"-75.834383"},"type":"Feature"},
@@ -20,8 +18,8 @@
 {"geometry":{"coordinates":[-76.11751,40.280463],"type":"Point"},"properties":{"a":"40.280463","cty":"LANCASTER","id":8833146,"mun":"WEST COCALICO TWP","nc":2,"o":"-76.11751"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.728733,41.446767],"type":"Point"},"properties":{"a":"41.446767","cty":"LACKAWANNA","id":8833147,"mun":"NEWTON TWP","nc":2,"o":"-75.728733"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.102692,40.997463],"type":"Point"},"properties":{"a":"40.997463","cty":"LUZERNE","id":8833151,"mun":"SUGARLOAF TWP","nc":5,"o":"-76.102692"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.93663,41.32401],"type":"Point"},"properties":{"a":"41.32401","cty":"LYCOMING","hp":true,"id":8833154,"mun":"ELDRED TWP","nc":26,"ne":{"a":"41.32596","o":"-76.93403"},"o":"-76.93663","sw":{"a":"41.32207","o":"-76.93923"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.570725,40.805146],"type":"Point"},"properties":{"a":"40.805146","cty":"NORTHUMBERLAND","id":8833168,"mun":"COAL TWP","nc":1,"o":"-76.570725"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.60759,40.83076],"type":"Point"},"properties":{"a":"40.83076","cty":"NORTHUMBERLAND","hp":true,"id":8833171,"mun":"SHAMOKIN TWP","nc":1546,"ne":{"a":"40.8694","o":"-76.5157"},"o":"-76.60759","sw":{"a":"40.79212","o":"-76.69948"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.602474,40.877431],"type":"Point"},"properties":{"a":"40.877431","cty":"NORTHUMBERLAND","id":8833173,"mun":"SHAMOKIN TWP","nc":2,"o":"-76.602474"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.85723,40.11025],"type":"Point"},"properties":{"a":"40.11025","cty":"CHESTER","hp":true,"id":8833182,"mun":"HONEYBROOK TWP","nc":24,"ne":{"a":"40.1122","o":"-75.85504"},"o":"-75.85723","sw":{"a":"40.10831","o":"-75.85943"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.495588,40.037941],"type":"Point"},"properties":{"a":"40.037941","cty":"LANCASTER","id":8833183,"mun":"COLUMBIA BORO","nc":12,"o":"-76.495588"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.339532,41.293384],"type":"Point"},"properties":{"a":"41.293384","cty":"WAYNE","id":8833184,"mun":"DREHER TWP","nc":1,"o":"-75.339532"},"type":"Feature"}
 ]}
