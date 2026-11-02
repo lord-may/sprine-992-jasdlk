@@ -3,9 +3,7 @@
 {"geometry":{"coordinates":[-76.700221,40.259882],"type":"Point"},"properties":{"a":"40.259882","cty":"DAUPHIN","id":8832900,"mun":"HUMMELSTOWN BORO","nc":8,"o":"-76.700221"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.277435,40.72082],"type":"Point"},"properties":{"a":"40.72082","cty":"SNYDER","id":8832901,"mun":"WEST BEAVER TWP","nc":1,"o":"-77.277435"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.548489,40.789727],"type":"Point"},"properties":{"a":"40.789727","cty":"NORTHUMBERLAND","id":8832905,"mun":"COAL TWP","nc":15,"o":"-76.548489"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.255464,40.148883],"type":"Point"},"properties":{"a":"40.148883","cty":"LANCASTER","id":8832912,"mun":"WARWICK TWP","nc":8,"o":"-76.255464"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.14956,40.66755],"type":"Point"},"properties":{"a":"40.66755","cty":"SCHUYLKILL","hp":true,"id":8832913,"mun":"NORTH MANHEIM TWP","nc":21,"ne":{"a":"40.66961","o":"-76.14328"},"o":"-76.14956","sw":{"a":"40.66548","o":"-76.15584"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.069759,39.895857],"type":"Point"},"properties":{"a":"39.895857","cty":"LANCASTER","id":8832915,"mun":"BART TWP","nc":1,"o":"-76.069759"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.481956,40.625889],"type":"Point"},"properties":{"a":"40.625889","cty":"LEHIGH","id":8832921,"mun":"WHITEHALL TWP","nc":22,"o":"-75.481956"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.562702,40.99308],"type":"Point"},"properties":{"a":"40.99308","cty":"CARBON","id":8832922,"mun":"PENN FOREST TWP","nc":1,"o":"-75.562702"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.954904,40.332564],"type":"Point"},"properties":{"a":"40.332564","cty":"BERKS","id":8832924,"mun":"WYOMISSING BORO","nc":2,"o":"-75.954904"},"type":"Feature"},
@@ -17,5 +15,12 @@
 {"geometry":{"coordinates":[-75.472479,40.864581],"type":"Point"},"properties":{"a":"40.864581","cty":"MONROE","id":8832935,"mun":"ELDRED TWP","nc":2,"o":"-75.472479"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.81044,41.28897],"type":"Point"},"properties":{"a":"41.28897","cty":"LUZERNE","hp":true,"id":8832937,"mun":"LAFLIN BORO","nc":125,"ne":{"a":"41.29118","o":"-75.80083"},"o":"-75.81044","sw":{"a":"41.28676","o":"-75.82006"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.473812,40.081427],"type":"Point"},"properties":{"a":"40.081427","cty":"LANCASTER","id":8832944,"mun":"RAPHO TWP","nc":3,"o":"-76.473812"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.267437,40.300987],"type":"Point"},"properties":{"a":"40.300987","cty":"LEBANON","id":8832946,"mun":"HEIDELBERG TWP","nc":1,"o":"-76.267437"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.267437,40.300987],"type":"Point"},"properties":{"a":"40.300987","cty":"LEBANON","id":8832946,"mun":"HEIDELBERG TWP","nc":1,"o":"-76.267437"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.264889,40.300882],"type":"Point"},"properties":{"a":"40.300882","cty":"LEBANON","id":8832950,"mun":"HEIDELBERG TWP","nc":1,"o":"-76.264889"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.243337,41.378937],"type":"Point"},"properties":{"a":"41.378937","cty":"PIKE","id":8832951,"mun":"PALMYRA TWP","nc":2,"o":"-75.243337"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.34723,40.63587],"type":"Point"},"properties":{"a":"40.63587","cty":"NORTHAMPTON","hp":true,"id":8832958,"mun":"BETHLEHEM","nc":50,"ne":{"a":"40.63704","o":"-75.34601"},"o":"-75.34723","sw":{"a":"40.63469","o":"-75.34845"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.6185,40.82518],"type":"Point"},"properties":{"a":"40.82518","cty":"CARBON","hp":true,"id":8832959,"mun":"LOWER TOWAMENSING TWP","nc":20,"ne":{"a":"40.82725","o":"-75.61267"},"o":"-75.6185","sw":{"a":"40.8231","o":"-75.62433"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.520846,41.339146],"type":"Point"},"properties":{"a":"41.339146","cty":"LACKAWANNA","id":8832960,"mun":"MOSCOW BORO","nc":39,"o":"-75.520846"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.700931,40.260556],"type":"Point"},"properties":{"a":"40.260556","cty":"DAUPHIN","id":8832962,"mun":"HUMMELSTOWN BORO","nc":2,"o":"-76.700931"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.772159,40.271344],"type":"Point"},"properties":{"a":"40.271344","cty":"DAUPHIN","id":8832965,"mun":"SWATARA TWP","nc":4,"o":"-76.772159"},"type":"Feature"}
 ]}
