@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-73.819259,41.301353],"type":"Point"},"properties":{"EstRest":"11/2/2026 2:10:00 AM","Outages":8,"cause":"","county":"WESTCHESTER","crewstatus":"DISP ","customers":37,"hamlet":"YORKTOWN HEIGHTS","incidentnumber":"0119AQ","incidents":1,"level":"street","opco":"NYSEG","street":"STRANG BLVD","town":"YORKTOWN T"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.819259,41.301353],"type":"Point"},"properties":{"EstRest":"11/2/2026 2:10:00 AM","Outages":8,"county":"WESTCHESTER","customers":33728,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+
 ]}
