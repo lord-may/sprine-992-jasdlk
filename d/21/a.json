@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-68.97447,44.522548],"type":"Point"},"properties":{"EstRest":"11/1/2026 10:30:00 PM","Outages":1,"cause":"","county":"WALDO","crewstatus":"DISP ","customers":18,"hamlet":"SWANVILLE","incidentnumber":"0045MX","incidents":1,"level":"street","opco":"CMP","street":"HARRIMAN RD","town":"SWANVILLE"},"type":"Feature"},
-{"geometry":{"coordinates":[-68.97447,44.522548],"type":"Point"},"properties":{"EstRest":"11/1/2026 10:30:00 PM","Outages":1,"county":"WALDO","customers":26703,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+
 ]}
