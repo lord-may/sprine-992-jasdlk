@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-74.65107,41.40245],"type":"Point"},"properties":{"cause":"Under Investigation","cluster":false,"cust_a":{"val":1},"etr":"2026-11-02T10:00:00-0500","inc_id":"561585","title":"Outage Information"},"type":"Feature"}
+{"geometry":{"coordinates":[-74.65107,41.40245],"type":"Point"},"properties":{"cause":"Under Investigation","cluster":false,"cust_a":{"val":1},"etr":"2026-11-02T10:00:00-0500","inc_id":"561585","title":"Outage Information"},"type":"Feature"},
+{"geometry":{"geometries":[{"coordinates":[[[-74.25122,41.10676],[-74.24708,41.10742],[-74.24693,41.10791],[-74.24969,41.10775],[-74.25063,41.10748],[-74.25129,41.10715],[-74.25122,41.10676]]],"type":"Polygon"},{"coordinates":[-74.24917,41.1074],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Tree(s) Involved","cluster":false,"cust_a":{"val":20},"etr":"2026-11-02T00:20:40-0500","inc_id":"561608","title":"Outage Information"},"type":"Feature"}
 ]}
