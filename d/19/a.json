@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-73.525386,41.23005],"type":"Point"},"properties":{"EstRest":"11/2/2026 7:45:00 PM","Outages":44,"county":"WESTCHESTER","customers":33728,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"}
+{"geometry":{"coordinates":[-73.522304,41.233052],"type":"Point"},"properties":{"EstRest":"11/2/2026 7:45:00 PM","Outages":11,"cause":"","county":"WESTCHESTER","crewstatus":"ACKN ","customers":11,"hamlet":"SOUTH SALEM","incidentnumber":"0119J9","incidents":1,"level":"street","opco":"NYSEG","street":"BEAVER POND RD","town":"LEWISBORO T"},"type":"Feature"},
+{"geometry":{"coordinates":[-73.525386,41.23005],"type":"Point"},"properties":{"EstRest":"11/2/2026 7:45:00 PM","Outages":42,"county":"WESTCHESTER","customers":33728,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
