@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-77.455278,42.965889],"type":"Point"},"properties":{"EstRest":"11/2/2026 11:00:00 AM","Outages":2,"cause":"","county":"ONTARIO","crewstatus":"DISP ","customers":32,"hamlet":"VICTOR","incidentnumber":"0119C7","incidents":1,"level":"street","opco":"RGE","street":"MALONE RD","town":"VICTOR"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.455278,42.965889],"type":"Point"},"properties":{"EstRest":"11/2/2026 11:00:00 AM","Outages":2,"county":"ONTARIO","customers":35928,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
