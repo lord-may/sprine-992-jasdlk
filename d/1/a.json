@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-73.81475,40.68824],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"NEW","cust_a":{"val":1},"etr":"2026-11-02T00:30:00-0500","outages":null,"reported_problem":"Partial Outage","title":"Outage Information"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.81801,40.68538],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"DSP","cust_a":{"val":1},"etr":"2026-11-01T23:30:00-0500","outages":null,"reported_problem":null,"title":"Outage Information"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.91044,40.61119],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"NEW","cust_a":{"val":1},"etr":"2026-11-01T23:30:00-0500","outages":null,"reported_problem":"Partial Outage","title":"Outage Information"},"type":"Feature"}
+{"geometry":{"coordinates":[-73.81801,40.68538],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"DSP","cust_a":{"val":1},"etr":"2026-11-01T23:30:00-0500","outages":null,"reported_problem":null,"title":"Outage Information"},"type":"Feature"}
 ]}
