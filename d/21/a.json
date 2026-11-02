@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-70.330301,44.418306],"type":"Point"},"properties":{"EstRest":"11/1/2026 8:15:00 PM","Outages":18,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.33181,44.423541],"type":"Point"},"properties":{"EstRest":"11/1/2026 8:15:00 PM","Outages":10,"cause":"","county":"OXFORD","crewstatus":"DISP ","customers":10,"hamlet":"HARTFORD","incidentnumber":"0045MT","incidents":1,"level":"street","opco":"CMP","street":"HODGE HILL DR","town":"HARTFORD"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.33181,44.423541],"type":"Point"},"properties":{"EstRest":"11/1/2026 8:15:00 PM","Outages":10,"cause":"","county":"OXFORD","crewstatus":"ONST ","customers":10,"hamlet":"HARTFORD","incidentnumber":"0045MT","incidents":1,"level":"street","opco":"CMP","street":"HODGE HILL DR","town":"HARTFORD"},"type":"Feature"}
 ]}
