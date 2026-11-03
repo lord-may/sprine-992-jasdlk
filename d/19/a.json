@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-73.607337,42.150909],"type":"Point"},"properties":{"EstRest":"11/3/2026 9:45:00 AM","Outages":1,"cause":"","county":"COLUMBIA","crewstatus":"     ","customers":1,"hamlet":"CRARYVILLE- NY","incidentnumber":"0119KV","incidents":1,"level":"street","opco":"NYSEG","street":"GOLF COURSE RD","town":"TAGHKANIC T"},"type":"Feature"},
+{"geometry":{"coordinates":[-73.608094,42.152532],"type":"Point"},"properties":{"EstRest":"11/3/2026 9:45:00 AM","Outages":9,"county":"COLUMBIA","customers":15375,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
