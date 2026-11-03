@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.131038,44.033532],"type":"Point"},"properties":{"EstRest":"11/3/2026 12:30:00 AM","Outages":1,"cause":"","county":"KNOX","crewstatus":"ENRT ","customers":61,"hamlet":"SOUTH THOMASTON","incidentnumber":"0045S9","incidents":1,"level":"street","opco":"CMP","street":"WATERMAN BEACH RD","town":"SOUTH THOMASTON"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.131038,44.033532],"type":"Point"},"properties":{"EstRest":"11/3/2026 12:30:00 AM","Outages":1,"county":"KNOX","customers":27251,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+
 ]}

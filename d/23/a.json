@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.83474,40.16017],"type":"Point"},"properties":{"a":"40.16017","cty":"YORK","hp":true,"id":8833303,"mun":"FAIRVIEW TWP","nc":20,"ne":{"a":"40.16105","o":"-76.83363"},"o":"-76.83474","sw":{"a":"40.15929","o":"-76.83585"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.335533,40.693278],"type":"Point"},"properties":{"a":"40.693278","cty":"NORTHAMPTON","id":8833309,"mun":"LOWER NAZARETH TWP","nc":11,"o":"-75.335533"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.353145,41.211191],"type":"Point"},"properties":{"a":"41.211191","cty":"MONROE","id":8833315,"mun":"COOLBAUGH TWP","nc":3,"o":"-75.353145"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.883412,40.832878],"type":"Point"},"properties":{"a":"40.832878","cty":"CARBON","id":8833317,"mun":"LANSFORD BORO","nc":19,"o":"-75.883412"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.353145,41.211191],"type":"Point"},"properties":{"a":"41.211191","cty":"MONROE","id":8833315,"mun":"COOLBAUGH TWP","nc":3,"o":"-75.353145"},"type":"Feature"}
 ]}
