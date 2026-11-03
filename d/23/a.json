@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.221945,40.315982],"type":"Point"},"properties":{"a":"40.315982","cty":"LEBANON","id":8833119,"mun":"MILLCREEK TWP","nc":1,"o":"-76.221945"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.810278,40.311818],"type":"Point"},"properties":{"a":"40.311818","cty":"DAUPHIN","id":8833200,"mun":"LOWER PAXTON TWP","nc":4,"o":"-76.810278"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.51604,41.11577],"type":"Point"},"properties":{"a":"41.11577","cty":"MONROE","hp":true,"id":8833265,"mun":"TOBYHANNA TWP","nc":9,"ne":{"a":"41.11652","o":"-75.51438"},"o":"-75.51604","sw":{"a":"41.11501","o":"-75.51771"}},"type":"Feature"}
 ]}

@@ -1,7 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.39968,41.81674],"type":"Point"},"properties":{"a":"41.81674","cty":"PROVIDENCE","hp":true,"id":20261069502,"mun":"PROVIDENCE","nc":21,"ne":{"a":"41.81788","o":"-71.39698"},"o":"-71.39968","sw":{"a":"41.81561","o":"-71.40239"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.513639,41.753315],"type":"Point"},"properties":{"a":"41.753315","cty":"PROVIDENCE","id":20261069623,"mun":"CRANSTON","nc":1,"o":"-71.513639"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.146328,41.641338],"type":"Point"},"properties":{"a":"41.641338","cty":"NEWPORT","id":20261069629,"mun":"TIVERTON","nc":1,"o":"-71.146328"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.483333,42.015837],"type":"Point"},"properties":{"a":"42.015837","cty":"PROVIDENCE","id":20261069631,"mun":"WOONSOCKET","nc":1,"o":"-71.483333"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.430938,41.775853],"type":"Point"},"properties":{"a":"41.775853","cty":"PROVIDENCE","id":20261069633,"mun":"CRANSTON","nc":1,"o":"-71.430938"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.39968,41.81674],"type":"Point"},"properties":{"a":"41.81674","cty":"PROVIDENCE","hp":true,"id":20261069502,"mun":"PROVIDENCE","nc":21,"ne":{"a":"41.81788","o":"-71.39698"},"o":"-71.39968","sw":{"a":"41.81561","o":"-71.40239"}},"type":"Feature"}
 ]}
