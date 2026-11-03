@@ -4,6 +4,6 @@
 {"geometry":{"coordinates":[-76.36953,40.22568],"type":"Point"},"properties":{"a":"40.22568","cty":"LANCASTER","hp":true,"id":8833578,"mun":"PENN TWP","nc":8,"ne":{"a":"40.22751","o":"-76.3633"},"o":"-76.36953","sw":{"a":"40.22385","o":"-76.37576"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.903155,41.245753],"type":"Point"},"properties":{"a":"41.245753","cty":"LYCOMING","id":8833630,"mun":"MONTOURSVILLE BORO","nc":2,"o":"-76.903155"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.196754,41.105745],"type":"Point"},"properties":{"a":"41.105745","cty":"LUZERNE","id":8833648,"mun":"SALEM TWP","nc":3,"o":"-76.196754"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.794845,40.264191],"type":"Point"},"properties":{"a":"40.264191","cty":"DAUPHIN","id":8833687,"mun":"SWATARA TWP","nc":2,"o":"-76.794845"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.4499,41.12563],"type":"Point"},"properties":{"a":"41.12563","cty":"MONROE","hp":true,"id":8833694,"mun":"TOBYHANNA TWP","nc":31,"ne":{"a":"41.12706","o":"-75.44756"},"o":"-75.4499","sw":{"a":"41.12421","o":"-75.45224"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.4499,41.12563],"type":"Point"},"properties":{"a":"41.12563","cty":"MONROE","hp":true,"id":8833694,"mun":"TOBYHANNA TWP","nc":31,"ne":{"a":"41.12706","o":"-75.44756"},"o":"-75.4499","sw":{"a":"41.12421","o":"-75.45224"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.710846,40.776998],"type":"Point"},"properties":{"a":"40.776998","cty":"CARBON","id":8833697,"mun":"EAST PENN TWP","nc":3,"o":"-75.710846"},"type":"Feature"}
 ]}
