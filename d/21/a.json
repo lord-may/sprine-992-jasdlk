@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.274489,43.705388],"type":"Point"},"properties":{"EstRest":"11/3/2026 2:00:00 PM","Outages":72,"county":"CUMBERLAND","customers":182407,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.310802,43.962874],"type":"Point"},"properties":{"EstRest":"11/3/2026 2:00:00 PM","Outages":1,"cause":"","county":"KNOX","crewstatus":"     ","customers":20,"hamlet":"CUSHING","incidentnumber":"0045VC","incidents":1,"level":"street","opco":"CMP","street":"DAVIS POINT RD","town":"CUSHING"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.310802,43.962874],"type":"Point"},"properties":{"EstRest":"11/3/2026 2:00:00 PM","Outages":1,"county":"KNOX","customers":27251,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.313457,43.639752],"type":"Point"},"properties":{"EstRest":"11/3/2026 2:15:00 PM","Outages":73,"county":"CUMBERLAND","customers":182407,"incidents":3,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.882084,44.300615],"type":"Point"},"properties":{"EstRest":"11/3/2026 2:15:00 PM","Outages":1,"cause":"","county":"KENNEBEC","crewstatus":"DISP ","customers":129,"hamlet":"MANCHESTER","incidentnumber":"0045VG","incidents":1,"level":"street","opco":"CMP","street":"POND RD","town":"MANCHESTER"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.882084,44.300615],"type":"Point"},"properties":{"EstRest":"11/3/2026 2:15:00 PM","Outages":1,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
