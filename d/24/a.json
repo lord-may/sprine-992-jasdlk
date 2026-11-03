@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.420389,41.835441],"type":"Point"},"properties":{"a":"41.835441","cty":"PROVIDENCE","id":20261069730,"mun":"PROVIDENCE","nc":1,"o":"-71.420389"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.536195,41.677076],"type":"Point"},"properties":{"a":"41.677076","cty":"KENT","id":20261069758,"mun":"COVENTRY","nc":1,"o":"-71.536195"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.575498,41.988586],"type":"Point"},"properties":{"a":"41.988586","cty":"PROVIDENCE","id":20261069759,"mun":"NORTH SMITHFIELD","nc":1,"o":"-71.575498"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.408478,41.877528],"type":"Point"},"properties":{"a":"41.877528","cty":"PROVIDENCE","id":20261069761,"mun":"PAWTUCKET","nc":1,"o":"-71.408478"},"type":"Feature"}
 ]}
