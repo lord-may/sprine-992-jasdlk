@@ -2,7 +2,6 @@
 {"geometry":{"coordinates":[-75.29125,40.65639],"type":"Point"},"properties":{"a":"40.65639","cty":"NORTHAMPTON","hp":true,"id":8833329,"mun":"BETHLEHEM TWP","nc":20,"ne":{"a":"40.66012","o":"-75.29002"},"o":"-75.29125","sw":{"a":"40.65266","o":"-75.29249"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.538318,40.751809],"type":"Point"},"properties":{"a":"40.751809","cty":"NORTHUMBERLAND","id":8833348,"mun":"EAST CAMERON TWP","nc":1,"o":"-76.538318"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.3742,40.58101],"type":"Point"},"properties":{"a":"40.58101","cty":"NORTHAMPTON","hp":true,"id":8833354,"mun":"LOWER SAUCON TWP","nc":21,"ne":{"a":"40.58215","o":"-75.37154"},"o":"-75.3742","sw":{"a":"40.57986","o":"-75.37686"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.267854,41.011914],"type":"Point"},"properties":{"a":"41.011914","cty":"MONROE","id":8833356,"mun":"STROUD TWP","nc":9,"o":"-75.267854"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.082816,40.244247],"type":"Point"},"properties":{"a":"40.244247","cty":"LANCASTER","id":8833357,"mun":"EAST COCALICO TWP","nc":1,"o":"-76.082816"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.043793,41.324526],"type":"Point"},"properties":{"a":"41.324526","cty":"PIKE","id":8833358,"mun":"BLOOMING GROVE TWP","nc":2,"o":"-75.043793"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.842046,40.333519],"type":"Point"},"properties":{"a":"40.333519","cty":"DAUPHIN","id":8833359,"mun":"LOWER PAXTON TWP","nc":1,"o":"-76.842046"},"type":"Feature"},
@@ -10,5 +9,8 @@
 {"geometry":{"coordinates":[-76.585491,40.846567],"type":"Point"},"properties":{"a":"40.846567","cty":"NORTHUMBERLAND","id":8833361,"mun":"SHAMOKIN TWP","nc":1,"o":"-76.585491"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.545455,40.545125],"type":"Point"},"properties":{"a":"40.545125","cty":"LEHIGH","id":8833362,"mun":"LOWER MACUNGIE TWP","nc":2,"o":"-75.545455"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.779039,40.323232],"type":"Point"},"properties":{"a":"40.323232","cty":"DAUPHIN","id":8833365,"mun":"LOWER PAXTON TWP","nc":1,"o":"-76.779039"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.640671,40.850607],"type":"Point"},"properties":{"a":"40.850607","cty":"CARBON","id":8833368,"mun":"FRANKLIN TWP","nc":1,"o":"-75.640671"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.82655,40.26268],"type":"Point"},"properties":{"a":"40.26268","cty":"DAUPHIN","hp":true,"id":8833374,"mun":"SWATARA TWP","nc":171,"ne":{"a":"40.26573","o":"-76.82203"},"o":"-76.82655","sw":{"a":"40.25962","o":"-76.83107"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.666551,41.400522],"type":"Point"},"properties":{"a":"41.400522","cty":"LACKAWANNA","id":8833376,"mun":"SCRANTON","nc":14,"o":"-75.666551"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.606413,41.308056],"type":"Point"},"properties":{"a":"41.308056","cty":"LACKAWANNA","id":8833377,"mun":"SPRING BROOK TWP","nc":3,"o":"-75.606413"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.28865,41.35246],"type":"Point"},"properties":{"a":"41.35246","cty":"PIKE","hp":true,"id":8833380,"mun":"GREENE TWP","nc":21,"ne":{"a":"41.35526","o":"-75.28603"},"o":"-75.28865","sw":{"a":"41.34966","o":"-75.29128"}},"type":"Feature"}
 ]}
