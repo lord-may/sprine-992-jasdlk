@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-69.721123,43.985987],"type":"Point"},"properties":{"EstRest":"11/2/2026 10:30:00 PM","Outages":22,"county":"SAGADAHOC","customers":23026,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.734996,43.989361],"type":"Point"},"properties":{"EstRest":"11/2/2026 10:30:00 PM","Outages":5,"cause":"Equipment Interruption","county":"SAGADAHOC","crewstatus":"ONST ","customers":5,"hamlet":"WOOLWICH","incidentnumber":"0045S3","incidents":1,"level":"street","opco":"CMP","street":"SANDY RIDGE DR","town":"WOOLWICH"},"type":"Feature"}
 ]}
