@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.83474,40.16017],"type":"Point"},"properties":{"a":"40.16017","cty":"YORK","hp":true,"id":8833303,"mun":"FAIRVIEW TWP","nc":20,"ne":{"a":"40.16105","o":"-76.83363"},"o":"-76.83474","sw":{"a":"40.15929","o":"-76.83585"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.335533,40.693278],"type":"Point"},"properties":{"a":"40.693278","cty":"NORTHAMPTON","id":8833309,"mun":"LOWER NAZARETH TWP","nc":11,"o":"-75.335533"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.130043,40.155058],"type":"Point"},"properties":{"a":"40.155058","cty":"LANCASTER","id":8833322,"mun":"EARL TWP","nc":1,"o":"-76.130043"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.13428,40.17076],"type":"Point"},"properties":{"a":"40.17076","cty":"LANCASTER","hp":true,"id":8833323,"mun":"EPHRATA TWP","nc":333,"ne":{"a":"40.19217","o":"-76.11757"},"o":"-76.13428","sw":{"a":"40.14935","o":"-76.15099"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.30112,40.64902],"type":"Point"},"properties":{"a":"40.64902","cty":"NORTHAMPTON","hp":true,"id":8833329,"mun":"BETHLEHEM TWP","nc":1833,"ne":{"a":"40.66616","o":"-75.28325"},"o":"-75.30112","sw":{"a":"40.63189","o":"-75.31899"}},"type":"Feature"}
 ]}
