@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.29125,40.65639],"type":"Point"},"properties":{"a":"40.65639","cty":"NORTHAMPTON","hp":true,"id":8833329,"mun":"BETHLEHEM TWP","nc":20,"ne":{"a":"40.66012","o":"-75.29002"},"o":"-75.29125","sw":{"a":"40.65266","o":"-75.29249"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.17718,41.02153],"type":"Point"},"properties":{"a":"41.02153","cty":"LUZERNE","hp":true,"id":8833345,"mun":"NESCOPECK TWP","nc":12,"ne":{"a":"41.02642","o":"-76.17258"},"o":"-76.17718","sw":{"a":"41.01664","o":"-76.18178"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.538318,40.751809],"type":"Point"},"properties":{"a":"40.751809","cty":"NORTHUMBERLAND","id":8833348,"mun":"EAST CAMERON TWP","nc":1,"o":"-76.538318"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.3742,40.58101],"type":"Point"},"properties":{"a":"40.58101","cty":"NORTHAMPTON","hp":true,"id":8833354,"mun":"LOWER SAUCON TWP","nc":21,"ne":{"a":"40.58215","o":"-75.37154"},"o":"-75.3742","sw":{"a":"40.57986","o":"-75.37686"}},"type":"Feature"}
 ]}
