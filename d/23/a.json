@@ -1,11 +1,9 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.457987,41.001039],"type":"Point"},"properties":{"a":"41.001039","cty":"COLUMBIA","id":8833454,"mun":"BLOOMSBURG","nc":2,"o":"-76.457987"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.790301,40.864535],"type":"Point"},"properties":{"a":"40.864535","cty":"NORTHUMBERLAND","id":8833462,"mun":"UPPER AUGUSTA TWP","nc":24,"o":"-76.790301"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.789584,40.86385],"type":"Point"},"properties":{"a":"40.86385","cty":"NORTHUMBERLAND","id":8833470,"mun":"UPPER AUGUSTA TWP","nc":21,"o":"-76.789584"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.891617,40.975873],"type":"Point"},"properties":{"a":"40.975873","cty":"UNION","id":8833569,"mun":"KELLY TWP","nc":9,"o":"-76.891617"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.36953,40.22568],"type":"Point"},"properties":{"a":"40.22568","cty":"LANCASTER","hp":true,"id":8833578,"mun":"PENN TWP","nc":8,"ne":{"a":"40.22751","o":"-76.3633"},"o":"-76.36953","sw":{"a":"40.22385","o":"-76.37576"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.903155,41.245753],"type":"Point"},"properties":{"a":"41.245753","cty":"LYCOMING","id":8833630,"mun":"MONTOURSVILLE BORO","nc":2,"o":"-76.903155"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.196754,41.105745],"type":"Point"},"properties":{"a":"41.105745","cty":"LUZERNE","id":8833648,"mun":"SALEM TWP","nc":3,"o":"-76.196754"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.577851,41.089143],"type":"Point"},"properties":{"a":"41.089143","cty":"COLUMBIA","id":8833653,"mun":"MADISON TWP","nc":6,"o":"-76.577851"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.523964,41.37443],"type":"Point"},"properties":{"a":"41.37443","cty":"LACKAWANNA","id":8833654,"mun":"ROARING BROOK TWP","nc":1,"o":"-75.523964"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.794845,40.264191],"type":"Point"},"properties":{"a":"40.264191","cty":"DAUPHIN","id":8833687,"mun":"SWATARA TWP","nc":2,"o":"-76.794845"},"type":"Feature"}
 ]}
