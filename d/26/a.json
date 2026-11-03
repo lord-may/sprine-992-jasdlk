@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-71.685281,43.706428],[-71.685317,43.706655],[-71.69156,43.72749],[-71.71285,43.729677],[-71.713937,43.72601],[-71.690222,43.707622],[-71.688973,43.706941],[-71.685281,43.706428]]],"type":"Polygon"},{"coordinates":[-71.698028,43.720264],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"The outage affecting your area is caused by an Equipment Failure. Crews are on scene making repairs. Estimated time of restoration is 10:45 am","estimateTime":1793720700000,"id":"594924","nbrOut":40,"timeOff":1793710359924},"type":"Feature"}
+
 ]}

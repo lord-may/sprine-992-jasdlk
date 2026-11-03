@@ -4,7 +4,6 @@
 {"geometry":{"coordinates":[-71.457667,41.828023],"type":"Point"},"properties":{"a":"41.828023","cty":"PROVIDENCE","id":20261069683,"mun":"PROVIDENCE","nc":1,"o":"-71.457667"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.303693,41.52682],"type":"Point"},"properties":{"a":"41.52682","cty":"NEWPORT","id":20261069685,"mun":"MIDDLETOWN","nc":20,"o":"-71.303693"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.42656,41.838571],"type":"Point"},"properties":{"a":"41.838571","cty":"PROVIDENCE","id":20261069686,"mun":"PROVIDENCE","nc":1,"o":"-71.42656"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.529204,41.470208],"type":"Point"},"properties":{"a":"41.470208","cty":"WASHINGTON","id":20261069689,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.529204"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.400714,41.87697],"type":"Point"},"properties":{"a":"41.87697","cty":"PROVIDENCE","id":20261069692,"mun":"PAWTUCKET","nc":1,"o":"-71.400714"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.469712,41.828928],"type":"Point"},"properties":{"a":"41.828928","cty":"PROVIDENCE","id":20261069694,"mun":"JOHNSTON","nc":1,"o":"-71.469712"},"type":"Feature"}
 ]}
