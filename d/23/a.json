@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.335533,40.693278],"type":"Point"},"properties":{"a":"40.693278","cty":"NORTHAMPTON","id":8833309,"mun":"LOWER NAZARETH TWP","nc":11,"o":"-75.335533"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.13623,40.15571],"type":"Point"},"properties":{"a":"40.15571","cty":"LANCASTER","hp":true,"id":8833323,"mun":"WEST EARL TWP","nc":100,"ne":{"a":"40.16208","o":"-76.1259"},"o":"-76.13623","sw":{"a":"40.14935","o":"-76.14656"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.30112,40.64902],"type":"Point"},"properties":{"a":"40.64902","cty":"NORTHAMPTON","hp":true,"id":8833329,"mun":"BETHLEHEM TWP","nc":1833,"ne":{"a":"40.66616","o":"-75.28325"},"o":"-75.30112","sw":{"a":"40.63189","o":"-75.31899"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.29599,40.6589],"type":"Point"},"properties":{"a":"40.6589","cty":"NORTHAMPTON","hp":true,"id":8833329,"mun":"BETHLEHEM TWP","nc":333,"ne":{"a":"40.66616","o":"-75.29002"},"o":"-75.29599","sw":{"a":"40.65165","o":"-75.30196"}},"type":"Feature"}
 ]}
