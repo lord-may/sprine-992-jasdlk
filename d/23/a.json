@@ -3,7 +3,6 @@
 {"geometry":{"coordinates":[-76.538318,40.751809],"type":"Point"},"properties":{"a":"40.751809","cty":"NORTHUMBERLAND","id":8833348,"mun":"EAST CAMERON TWP","nc":1,"o":"-76.538318"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.538637,40.959804],"type":"Point"},"properties":{"a":"40.959804","cty":"MONROE","id":8833360,"mun":"PENN FOREST TWP","nc":2,"o":"-75.538637"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.779039,40.323232],"type":"Point"},"properties":{"a":"40.323232","cty":"DAUPHIN","id":8833365,"mun":"LOWER PAXTON TWP","nc":1,"o":"-76.779039"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.666551,41.400522],"type":"Point"},"properties":{"a":"41.400522","cty":"LACKAWANNA","id":8833376,"mun":"SCRANTON","nc":14,"o":"-75.666551"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.28889,41.34971],"type":"Point"},"properties":{"a":"41.34971","cty":"PIKE","hp":true,"id":8833380,"mun":"GREENE TWP","nc":24,"ne":{"a":"41.35526","o":"-75.28325"},"o":"-75.28889","sw":{"a":"41.34415","o":"-75.29453"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.459023,40.573354],"type":"Point"},"properties":{"a":"40.573354","cty":"JUNIATA","id":8833393,"mun":"MILFORD TWP","nc":3,"o":"-77.459023"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.275208,40.719837],"type":"Point"},"properties":{"a":"40.719837","cty":"SCHUYLKILL","id":8833395,"mun":"CASS TWP","nc":18,"o":"-76.275208"},"type":"Feature"},
@@ -41,10 +40,12 @@
 {"geometry":{"coordinates":[-76.118723,40.780871],"type":"Point"},"properties":{"a":"40.780871","cty":"SCHUYLKILL","id":8833491,"mun":"RYAN TWP","nc":9,"o":"-76.118723"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.398413,40.604535],"type":"Point"},"properties":{"a":"40.604535","cty":"LEHIGH","id":8833492,"mun":"FOUNTAIN HILL BORO","nc":27,"o":"-75.398413"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.458933,40.613654],"type":"Point"},"properties":{"a":"40.613654","cty":"LEHIGH","id":8833493,"mun":"ALLENTOWN","nc":26,"o":"-75.458933"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.4765,40.85211],"type":"Point"},"properties":{"a":"40.85211","cty":"MONROE","hp":true,"id":8833495,"mun":"ELDRED TWP","nc":32,"ne":{"a":"40.85565","o":"-75.47436"},"o":"-75.4765","sw":{"a":"40.84858","o":"-75.47865"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.335645,40.586091],"type":"Point"},"properties":{"a":"40.586091","cty":"NORTHAMPTON","id":8833496,"mun":"HELLERTOWN BORO","nc":8,"o":"-75.335645"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.992952,40.961194],"type":"Point"},"properties":{"a":"40.961194","cty":"LUZERNE","id":8833499,"mun":"WEST HAZLETON BORO","nc":20,"o":"-75.992952"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.528527,41.051746],"type":"Point"},"properties":{"a":"41.051746","cty":"MONROE","id":8833501,"mun":"TUNKHANNOCK TWP","nc":1,"o":"-75.528527"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.296441,40.06019],"type":"Point"},"properties":{"a":"40.06019","cty":"LANCASTER","id":8833502,"mun":"MANHEIM TWP","nc":17,"o":"-76.296441"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.847132,40.267145],"type":"Point"},"properties":{"a":"40.267145","cty":"DAUPHIN","id":8833504,"mun":"HARRISBURG","nc":1,"o":"-76.847132"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.930654,40.334693],"type":"Point"},"properties":{"a":"40.334693","cty":"PERRY","id":8833506,"mun":"MARYSVILLE BORO","nc":9,"o":"-76.930654"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.579685,40.853916],"type":"Point"},"properties":{"a":"40.853916","cty":"CARBON","id":8833507,"mun":"TOWAMENSING TWP","nc":2,"o":"-75.579685"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.48107,40.386381],"type":"Point"},"properties":{"a":"40.386381","cty":"MONTGOMERY","id":8833508,"mun":"UPPER HANOVER TWP","nc":6,"o":"-75.48107"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.537846,41.712596],"type":"Point"},"properties":{"a":"41.712596","cty":"SUSQUEHANNA","id":8833511,"mun":"HERRICK TWP","nc":1,"o":"-75.537846"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.521265,40.372193],"type":"Point"},"properties":{"a":"40.372193","cty":"MONTGOMERY","id":8833512,"mun":"UPPER HANOVER TWP","nc":1,"o":"-75.521265"},"type":"Feature"}
 ]}
