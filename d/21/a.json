@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-68.78759,44.630648],"type":"Point"},"properties":{"EstRest":"11/3/2026 4:15:00 AM","Outages":35,"cause":"","county":"HANCOCK","crewstatus":"ENRT ","customers":86,"hamlet":"BUCKSPORT","incidentnumber":"0045SA","incidents":1,"level":"street","opco":"CMP","street":"SILVER LAKE RD","town":"BUCKSPORT"},"type":"Feature"},
+{"geometry":{"coordinates":[-68.78759,44.630648],"type":"Point"},"properties":{"EstRest":"11/3/2026 4:15:00 AM","Outages":35,"cause":"","county":"HANCOCK","crewstatus":"ONST ","customers":86,"hamlet":"BUCKSPORT","incidentnumber":"0045SA","incidents":1,"level":"street","opco":"CMP","street":"SILVER LAKE RD","town":"BUCKSPORT"},"type":"Feature"},
 {"geometry":{"coordinates":[-68.81206,44.627214],"type":"Point"},"properties":{"EstRest":"11/3/2026 4:15:00 AM","Outages":80,"county":"HANCOCK","customers":6519,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
