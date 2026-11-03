@@ -17,13 +17,15 @@
 {"geometry":{"coordinates":[-76.388332,41.014842],"type":"Point"},"properties":{"a":"41.014842","cty":"COLUMBIA","id":8833391,"mun":"SCOTT TWP","nc":2,"o":"-76.388332"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.459023,40.573354],"type":"Point"},"properties":{"a":"40.573354","cty":"JUNIATA","id":8833393,"mun":"MILFORD TWP","nc":3,"o":"-77.459023"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.275208,40.719837],"type":"Point"},"properties":{"a":"40.719837","cty":"SCHUYLKILL","id":8833395,"mun":"CASS TWP","nc":18,"o":"-76.275208"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.056793,41.296485],"type":"Point"},"properties":{"a":"41.296485","cty":"LYCOMING","id":8833396,"mun":"LYCOMING TWP","nc":3,"o":"-77.056793"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.495212,41.392106],"type":"Point"},"properties":{"a":"41.392106","cty":"LACKAWANNA","id":8833397,"mun":"JEFFERSON TWP","nc":3,"o":"-75.495212"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.324751,40.653601],"type":"Point"},"properties":{"a":"40.653601","cty":"NORTHAMPTON","id":8833401,"mun":"BETHLEHEM TWP","nc":4,"o":"-75.324751"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.365182,40.678675],"type":"Point"},"properties":{"a":"40.678675","cty":"NORTHAMPTON","id":8833406,"mun":"BETHLEHEM TWP","nc":1,"o":"-75.365182"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.496228,40.379423],"type":"Point"},"properties":{"a":"40.379423","cty":"MONTGOMERY","id":8833407,"mun":"UPPER HANOVER TWP","nc":1,"o":"-75.496228"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.541875,40.770728],"type":"Point"},"properties":{"a":"40.770728","cty":"NORTHAMPTON","id":8833408,"mun":"LEHIGH TWP","nc":2,"o":"-75.541875"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.32071,41.06957],"type":"Point"},"properties":{"a":"41.06957","cty":"COLUMBIA","hp":true,"id":8833419,"mun":"BRIAR CREEK BORO","nc":1410,"ne":{"a":"41.09571","o":"-76.2497"},"o":"-76.32071","sw":{"a":"41.04343","o":"-76.39172"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.28263,41.06916],"type":"Point"},"properties":{"a":"41.06916","cty":"COLUMBIA","hp":true,"id":8833419,"mun":"BRIAR CREEK BORO","nc":507,"ne":{"a":"41.09359","o":"-76.2497"},"o":"-76.28263","sw":{"a":"41.04472","o":"-76.31555"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.770855,40.267617],"type":"Point"},"properties":{"a":"40.267617","cty":"DAUPHIN","id":8833420,"mun":"SWATARA TWP","nc":3,"o":"-76.770855"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.801696,41.194431],"type":"Point"},"properties":{"a":"41.194431","cty":"LYCOMING","id":8833423,"mun":"MUNCY CREEK TWP","nc":2,"o":"-76.801696"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.801696,41.194431],"type":"Point"},"properties":{"a":"41.194431","cty":"LYCOMING","id":8833423,"mun":"MUNCY CREEK TWP","nc":2,"o":"-76.801696"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.032764,41.149291],"type":"Point"},"properties":{"a":"41.149291","cty":"LUZERNE","id":8833425,"mun":"SLOCUM TWP","nc":4,"o":"-76.032764"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.266992,41.332348],"type":"Point"},"properties":{"a":"41.332348","cty":"PIKE","id":8833427,"mun":"GREENE TWP","nc":1,"o":"-75.266992"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.521248,40.942581],"type":"Point"},"properties":{"a":"40.942581","cty":"MONROE","id":8833429,"mun":"POLK TWP","nc":2,"o":"-75.521248"},"type":"Feature"}
 ]}
