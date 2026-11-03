@@ -2,5 +2,11 @@
 {"geometry":{"coordinates":[-75.29125,40.65639],"type":"Point"},"properties":{"a":"40.65639","cty":"NORTHAMPTON","hp":true,"id":8833329,"mun":"BETHLEHEM TWP","nc":20,"ne":{"a":"40.66012","o":"-75.29002"},"o":"-75.29125","sw":{"a":"40.65266","o":"-75.29249"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.538318,40.751809],"type":"Point"},"properties":{"a":"40.751809","cty":"NORTHUMBERLAND","id":8833348,"mun":"EAST CAMERON TWP","nc":1,"o":"-76.538318"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.3742,40.58101],"type":"Point"},"properties":{"a":"40.58101","cty":"NORTHAMPTON","hp":true,"id":8833354,"mun":"LOWER SAUCON TWP","nc":21,"ne":{"a":"40.58215","o":"-75.37154"},"o":"-75.3742","sw":{"a":"40.57986","o":"-75.37686"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.267854,41.011914],"type":"Point"},"properties":{"a":"41.011914","cty":"MONROE","id":8833356,"mun":"STROUD TWP","nc":9,"o":"-75.267854"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.267854,41.011914],"type":"Point"},"properties":{"a":"41.011914","cty":"MONROE","id":8833356,"mun":"STROUD TWP","nc":9,"o":"-75.267854"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.082816,40.244247],"type":"Point"},"properties":{"a":"40.244247","cty":"LANCASTER","id":8833357,"mun":"EAST COCALICO TWP","nc":1,"o":"-76.082816"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.043793,41.324526],"type":"Point"},"properties":{"a":"41.324526","cty":"PIKE","id":8833358,"mun":"BLOOMING GROVE TWP","nc":2,"o":"-75.043793"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.842046,40.333519],"type":"Point"},"properties":{"a":"40.333519","cty":"DAUPHIN","id":8833359,"mun":"LOWER PAXTON TWP","nc":1,"o":"-76.842046"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.538637,40.959804],"type":"Point"},"properties":{"a":"40.959804","cty":"MONROE","id":8833360,"mun":"PENN FOREST TWP","nc":2,"o":"-75.538637"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.585491,40.846567],"type":"Point"},"properties":{"a":"40.846567","cty":"NORTHUMBERLAND","id":8833361,"mun":"SHAMOKIN TWP","nc":1,"o":"-76.585491"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.545455,40.545125],"type":"Point"},"properties":{"a":"40.545125","cty":"LEHIGH","id":8833362,"mun":"LOWER MACUNGIE TWP","nc":2,"o":"-75.545455"},"type":"Feature"}
 ]}
