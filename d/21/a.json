@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-68.851175,44.483657],"type":"Point"},"properties":{"EstRest":"11/3/2026 8:15:00 AM","Outages":82,"county":"WALDO","customers":26703,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-68.853185,44.485917],"type":"Point"},"properties":{"EstRest":"11/3/2026 8:15:00 AM","Outages":18,"cause":"","county":"WALDO","crewstatus":"     ","customers":19,"hamlet":"STOCKTON SPRINGS","incidentnumber":"0045SE","incidents":1,"level":"street","opco":"CMP","street":"STATION ST","town":"STOCKTON SPRINGS"},"type":"Feature"}
 ]}
