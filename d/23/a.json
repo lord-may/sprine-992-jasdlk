@@ -1,17 +1,11 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.365182,40.678675],"type":"Point"},"properties":{"a":"40.678675","cty":"NORTHAMPTON","id":8833406,"mun":"BETHLEHEM TWP","nc":1,"o":"-75.365182"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.937409,40.068246],"type":"Point"},"properties":{"a":"40.068246","cty":"CHESTER","id":8833453,"mun":"SALISBURY TWP","nc":6,"o":"-75.937409"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.457987,41.001039],"type":"Point"},"properties":{"a":"41.001039","cty":"COLUMBIA","id":8833454,"mun":"BLOOMSBURG","nc":2,"o":"-76.457987"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.790301,40.864535],"type":"Point"},"properties":{"a":"40.864535","cty":"NORTHUMBERLAND","id":8833462,"mun":"UPPER AUGUSTA TWP","nc":24,"o":"-76.790301"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.820389,40.260622],"type":"Point"},"properties":{"a":"40.260622","cty":"DAUPHIN","id":8833469,"mun":"SWATARA TWP","nc":2,"o":"-76.820389"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.789584,40.86385],"type":"Point"},"properties":{"a":"40.86385","cty":"NORTHUMBERLAND","id":8833470,"mun":"UPPER AUGUSTA TWP","nc":21,"o":"-76.789584"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.847682,41.019713],"type":"Point"},"properties":{"a":"41.019713","cty":"NORTHUMBERLAND","id":8833483,"mun":"MILTON BORO","nc":8,"o":"-76.847682"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.528527,41.051746],"type":"Point"},"properties":{"a":"41.051746","cty":"MONROE","id":8833501,"mun":"TUNKHANNOCK TWP","nc":1,"o":"-75.528527"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.365201,40.957232],"type":"Point"},"properties":{"a":"40.957232","cty":"COLUMBIA","id":8833514,"mun":"MAIN TWP","nc":1,"o":"-76.365201"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.256557,40.300205],"type":"Point"},"properties":{"a":"40.300205","cty":"LEBANON","id":8833551,"mun":"HEIDELBERG TWP","nc":1,"o":"-76.256557"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.283915,40.790573],"type":"Point"},"properties":{"a":"40.790573","cty":"SCHUYLKILL","id":8833561,"mun":"BUTLER TWP","nc":8,"o":"-76.283915"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.268331,40.279016],"type":"Point"},"properties":{"a":"40.279016","cty":"LEBANON","id":8833563,"mun":"HEIDELBERG TWP","nc":2,"o":"-76.268331"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.776499,40.90596],"type":"Point"},"properties":{"a":"40.90596","cty":"NORTHUMBERLAND","id":8833565,"mun":"POINT TWP","nc":0,"o":"-76.776499"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.891617,40.975873],"type":"Point"},"properties":{"a":"40.975873","cty":"UNION","id":8833569,"mun":"KELLY TWP","nc":9,"o":"-76.891617"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.831714,41.245904],"type":"Point"},"properties":{"a":"41.245904","cty":"LUZERNE","id":8833571,"mun":"PLAINS TWP","nc":2,"o":"-75.831714"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.833305,41.246178],"type":"Point"},"properties":{"a":"41.246178","cty":"LUZERNE","id":8833572,"mun":"PLAINS TWP","nc":4,"o":"-75.833305"},"type":"Feature"},
@@ -22,5 +16,6 @@
 {"geometry":{"coordinates":[-77.035171,41.222657],"type":"Point"},"properties":{"a":"41.222657","cty":"LYCOMING","id":8833598,"mun":"DUBOISTOWN BORO","nc":5,"o":"-77.035171"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.012374,41.148181],"type":"Point"},"properties":{"a":"41.148181","cty":"LUZERNE","id":8833607,"mun":"SLOCUM TWP","nc":2,"o":"-76.012374"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.041407,41.240661],"type":"Point"},"properties":{"a":"41.240661","cty":"LYCOMING","id":8833608,"mun":"WILLIAMSPORT","nc":13,"o":"-77.041407"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.547639,40.789751],"type":"Point"},"properties":{"a":"40.789751","cty":"NORTHUMBERLAND","id":8833612,"mun":"COAL TWP","nc":25,"o":"-76.547639"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.547639,40.789751],"type":"Point"},"properties":{"a":"40.789751","cty":"NORTHUMBERLAND","id":8833612,"mun":"COAL TWP","nc":25,"o":"-76.547639"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.480043,40.596275],"type":"Point"},"properties":{"a":"40.596275","cty":"LEHIGH","id":8833617,"mun":"ALLENTOWN","nc":6,"o":"-75.480043"},"type":"Feature"}
 ]}
