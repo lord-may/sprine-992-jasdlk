@@ -16,8 +16,10 @@
 {"geometry":{"coordinates":[-76.012374,41.148181],"type":"Point"},"properties":{"a":"41.148181","cty":"LUZERNE","id":8833607,"mun":"SLOCUM TWP","nc":2,"o":"-76.012374"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.547639,40.789751],"type":"Point"},"properties":{"a":"40.789751","cty":"NORTHUMBERLAND","id":8833612,"mun":"COAL TWP","nc":25,"o":"-76.547639"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.623753,40.545603],"type":"Point"},"properties":{"a":"40.545603","cty":"LEHIGH","id":8833623,"mun":"UPPER MACUNGIE TWP","nc":7,"o":"-75.623753"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.869336,40.269551],"type":"Point"},"properties":{"a":"40.269551","cty":"DAUPHIN","id":8833625,"mun":"HARRISBURG","nc":10,"o":"-76.869336"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.373051,40.060941],"type":"Point"},"properties":{"a":"40.060941","cty":"LANCASTER","id":8833628,"mun":"EAST HEMPFIELD TWP","nc":4,"o":"-76.373051"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.869336,40.269551],"type":"Point"},"properties":{"a":"40.269551","cty":"DAUPHIN","id":8833625,"mun":"HARRISBURG","nc":1,"o":"-76.869336"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.531913,40.679888],"type":"Point"},"properties":{"a":"40.679888","cty":"LEHIGH","id":8833629,"mun":"WHITEHALL TWP","nc":10,"o":"-75.531913"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.903155,41.245753],"type":"Point"},"properties":{"a":"41.245753","cty":"LYCOMING","id":8833630,"mun":"MONTOURSVILLE BORO","nc":2,"o":"-76.903155"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.903155,41.245753],"type":"Point"},"properties":{"a":"41.245753","cty":"LYCOMING","id":8833630,"mun":"MONTOURSVILLE BORO","nc":2,"o":"-76.903155"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.470379,41.431569],"type":"Point"},"properties":{"a":"41.431569","cty":"LACKAWANNA","id":8833633,"mun":"JEFFERSON TWP","nc":1,"o":"-75.470379"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.537846,41.712596],"type":"Point"},"properties":{"a":"41.712596","cty":"SUSQUEHANNA","id":8833635,"mun":"HERRICK TWP","nc":1,"o":"-75.537846"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.261366,40.300602],"type":"Point"},"properties":{"a":"40.300602","cty":"LEBANON","id":8833637,"mun":"HEIDELBERG TWP","nc":2,"o":"-76.261366"},"type":"Feature"}
 ]}
