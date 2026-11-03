@@ -7,7 +7,6 @@
 {"geometry":{"coordinates":[-76.842046,40.333519],"type":"Point"},"properties":{"a":"40.333519","cty":"DAUPHIN","id":8833359,"mun":"LOWER PAXTON TWP","nc":1,"o":"-76.842046"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.538637,40.959804],"type":"Point"},"properties":{"a":"40.959804","cty":"MONROE","id":8833360,"mun":"PENN FOREST TWP","nc":2,"o":"-75.538637"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.585491,40.846567],"type":"Point"},"properties":{"a":"40.846567","cty":"NORTHUMBERLAND","id":8833361,"mun":"SHAMOKIN TWP","nc":1,"o":"-76.585491"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.545455,40.545125],"type":"Point"},"properties":{"a":"40.545125","cty":"LEHIGH","id":8833362,"mun":"LOWER MACUNGIE TWP","nc":2,"o":"-75.545455"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.779039,40.323232],"type":"Point"},"properties":{"a":"40.323232","cty":"DAUPHIN","id":8833365,"mun":"LOWER PAXTON TWP","nc":1,"o":"-76.779039"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.8271,40.26355],"type":"Point"},"properties":{"a":"40.26355","cty":"DAUPHIN","hp":true,"id":8833374,"mun":"SWATARA TWP","nc":135,"ne":{"a":"40.26573","o":"-76.82314"},"o":"-76.8271","sw":{"a":"40.26137","o":"-76.83107"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.666551,41.400522],"type":"Point"},"properties":{"a":"41.400522","cty":"LACKAWANNA","id":8833376,"mun":"SCRANTON","nc":14,"o":"-75.666551"},"type":"Feature"},
@@ -26,6 +25,9 @@
 {"geometry":{"coordinates":[-76.770855,40.267617],"type":"Point"},"properties":{"a":"40.267617","cty":"DAUPHIN","id":8833420,"mun":"SWATARA TWP","nc":3,"o":"-76.770855"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.801696,41.194431],"type":"Point"},"properties":{"a":"41.194431","cty":"LYCOMING","id":8833423,"mun":"MUNCY CREEK TWP","nc":2,"o":"-76.801696"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.032764,41.149291],"type":"Point"},"properties":{"a":"41.149291","cty":"LUZERNE","id":8833425,"mun":"SLOCUM TWP","nc":4,"o":"-76.032764"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.266992,41.332348],"type":"Point"},"properties":{"a":"41.332348","cty":"PIKE","id":8833427,"mun":"GREENE TWP","nc":1,"o":"-75.266992"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.521248,40.942581],"type":"Point"},"properties":{"a":"40.942581","cty":"MONROE","id":8833429,"mun":"POLK TWP","nc":2,"o":"-75.521248"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.521248,40.942581],"type":"Point"},"properties":{"a":"40.942581","cty":"MONROE","id":8833429,"mun":"POLK TWP","nc":2,"o":"-75.521248"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.274792,41.331837],"type":"Point"},"properties":{"a":"41.331837","cty":"PIKE","id":8833433,"mun":"GREENE TWP","nc":4,"o":"-75.274792"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.382922,40.925708],"type":"Point"},"properties":{"a":"40.925708","cty":"MONROE","id":8833434,"mun":"CHESTNUT HILL TWP","nc":3,"o":"-75.382922"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.029813,40.560619],"type":"Point"},"properties":{"a":"40.560619","cty":"PERRY","id":8833438,"mun":"LIVERPOOL TWP","nc":1,"o":"-77.029813"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.815064,41.235965],"type":"Point"},"properties":{"a":"41.235965","cty":"LYCOMING","id":8833444,"mun":"MUNCY TWP","nc":1,"o":"-76.815064"},"type":"Feature"}
 ]}
