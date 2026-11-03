@@ -1,10 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.891617,40.975873],"type":"Point"},"properties":{"a":"40.975873","cty":"UNION","id":8833569,"mun":"KELLY TWP","nc":9,"o":"-76.891617"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.196754,41.105745],"type":"Point"},"properties":{"a":"41.105745","cty":"LUZERNE","id":8833648,"mun":"SALEM TWP","nc":3,"o":"-76.196754"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.933517,41.065231],"type":"Point"},"properties":{"a":"41.065231","cty":"LUZERNE","id":8833701,"mun":"BUTLER TWP","nc":1,"o":"-75.933517"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.539617,39.994078],"type":"Point"},"properties":{"a":"39.994078","cty":"YORK","id":8833702,"mun":"LOWER WINDSOR TWP","nc":1,"o":"-76.539617"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.18881,40.37321],"type":"Point"},"properties":{"a":"40.37321","cty":"PERRY","hp":true,"id":8833703,"mun":"CARROLL TWP","nc":7,"ne":{"a":"40.37502","o":"-77.18676"},"o":"-77.18881","sw":{"a":"40.3714","o":"-77.19086"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.277322,40.239843],"type":"Point"},"properties":{"a":"40.239843","cty":"LANCASTER","id":8833708,"mun":"CLAY TWP","nc":2,"o":"-76.277322"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.500047,40.464873],"type":"Point"},"properties":{"a":"40.464873","cty":"LEHIGH","id":8833712,"mun":"LOWER MILFORD TWP","nc":2,"o":"-75.500047"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.428617,40.009097],"type":"Point"},"properties":{"a":"40.009097","cty":"LANCASTER","id":8833713,"mun":"MANOR TWP","nc":4,"o":"-76.428617"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.232852,40.782773],"type":"Point"},"properties":{"a":"40.782773","cty":"SCHUYLKILL","id":8833714,"mun":"FRACKVILLE BORO","nc":1,"o":"-76.232852"},"type":"Feature"}
 ]}

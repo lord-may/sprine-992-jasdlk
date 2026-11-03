@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.99596,44.289641],"type":"Point"},"properties":{"EstRest":"11/3/2026 6:30:00 PM","Outages":2,"cause":"Equipment Interruption","county":"KENNEBEC","crewstatus":"ONST ","customers":13,"hamlet":"WINTHROP","incidentnumber":"0045X4","incidents":1,"level":"street","opco":"CMP","street":"ALDEN RD","town":"WINTHROP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.99596,44.289641],"type":"Point"},"properties":{"EstRest":"11/3/2026 6:30:00 PM","Outages":2,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+
 ]}
