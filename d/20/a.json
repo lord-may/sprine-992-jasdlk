@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.69552,43.041524],"type":"Point"},"properties":{"EstRest":"","Outages":1,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":348,"hamlet":"WEST HENRIETTA","incidentnumber":"0119J1","incidents":1,"level":"street","opco":"RGE","street":"EAST RIVER RD","town":"HENRIETTA"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.69552,43.041524],"type":"Point"},"properties":{"EstRest":"","Outages":1,"county":"MONROE","customers":303529,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
+
 ]}
