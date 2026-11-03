@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-69.564393,44.088073],"type":"Point"},"properties":{"EstRest":"11/3/2026 12:15:00 AM","Outages":1,"cause":"","county":"LINCOLN","crewstatus":"ENRT ","customers":1,"hamlet":"NEWCASTLE","incidentnumber":"0045S7","incidents":1,"level":"street","opco":"CMP","street":"BIRCH RD","town":"NEWCASTLE"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.564393,44.088073],"type":"Point"},"properties":{"EstRest":"11/3/2026 12:15:00 AM","Outages":1,"county":"LINCOLN","customers":29091,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}

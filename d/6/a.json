@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-78.82821,42.86957],"type":"Point"},"properties":{"cause":{"EN-US":"Under Investigation","ES-ES":"Bajo Investigación","orig":"Null"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Assigned","ES-ES":"Asignado","orig":"Assigned"},"cust_a":{"mask":5,"val":4},"etr":"2026-11-03T05:00:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-11-03T01:24:05Z","title":"Area Outage","town":"Buffalo"},"type":"Feature"}
+
 ]}
