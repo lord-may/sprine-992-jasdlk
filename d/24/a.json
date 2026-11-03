@@ -2,5 +2,6 @@
 {"geometry":{"coordinates":[-71.316073,41.488561],"type":"Point"},"properties":{"a":"41.488561","cty":"NEWPORT","id":20261069652,"mun":"NEWPORT","nc":12,"o":"-71.316073"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.316302,41.489452],"type":"Point"},"properties":{"a":"41.489452","cty":"NEWPORT","id":20261069656,"mun":"NEWPORT","nc":71,"o":"-71.316302"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.492045,41.868849],"type":"Point"},"properties":{"a":"41.868849","cty":"PROVIDENCE","id":20261069659,"mun":"NORTH PROVIDENCE","nc":17,"o":"-71.492045"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.492213,41.869088],"type":"Point"},"properties":{"a":"41.869088","cty":"PROVIDENCE","id":20261069660,"mun":"NORTH PROVIDENCE","nc":22,"o":"-71.492213"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.492213,41.869088],"type":"Point"},"properties":{"a":"41.869088","cty":"PROVIDENCE","id":20261069660,"mun":"NORTH PROVIDENCE","nc":22,"o":"-71.492213"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.460437,41.878885],"type":"Point"},"properties":{"a":"41.878885","cty":"PROVIDENCE","id":20261069663,"mun":"LINCOLN","nc":1,"o":"-71.460437"},"type":"Feature"}
 ]}
