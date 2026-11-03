@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.29125,40.65639],"type":"Point"},"properties":{"a":"40.65639","cty":"NORTHAMPTON","hp":true,"id":8833329,"mun":"BETHLEHEM TWP","nc":20,"ne":{"a":"40.66012","o":"-75.29002"},"o":"-75.29125","sw":{"a":"40.65266","o":"-75.29249"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.686196,41.441676],"type":"Point"},"properties":{"a":"41.441676","cty":"LACKAWANNA","id":8833343,"mun":"SCRANTON","nc":2,"o":"-75.686196"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.29125,40.65639],"type":"Point"},"properties":{"a":"40.65639","cty":"NORTHAMPTON","hp":true,"id":8833329,"mun":"BETHLEHEM TWP","nc":20,"ne":{"a":"40.66012","o":"-75.29002"},"o":"-75.29125","sw":{"a":"40.65266","o":"-75.29249"}},"type":"Feature"}
 ]}
