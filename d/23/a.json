@@ -16,5 +16,8 @@
 {"geometry":{"coordinates":[-76.903564,40.352427],"type":"Point"},"properties":{"a":"40.352427","cty":"DAUPHIN","id":8833388,"mun":"MIDDLE PAXTON TWP","nc":1,"o":"-76.903564"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.388332,41.014842],"type":"Point"},"properties":{"a":"41.014842","cty":"COLUMBIA","id":8833391,"mun":"SCOTT TWP","nc":2,"o":"-76.388332"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.459023,40.573354],"type":"Point"},"properties":{"a":"40.573354","cty":"JUNIATA","id":8833393,"mun":"MILFORD TWP","nc":3,"o":"-77.459023"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.275208,40.719837],"type":"Point"},"properties":{"a":"40.719837","cty":"SCHUYLKILL","id":8833395,"mun":"CASS TWP","nc":18,"o":"-76.275208"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.275208,40.719837],"type":"Point"},"properties":{"a":"40.719837","cty":"SCHUYLKILL","id":8833395,"mun":"CASS TWP","nc":18,"o":"-76.275208"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.056793,41.296485],"type":"Point"},"properties":{"a":"41.296485","cty":"LYCOMING","id":8833396,"mun":"LYCOMING TWP","nc":3,"o":"-77.056793"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.495212,41.392106],"type":"Point"},"properties":{"a":"41.392106","cty":"LACKAWANNA","id":8833397,"mun":"JEFFERSON TWP","nc":3,"o":"-75.495212"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.324751,40.653601],"type":"Point"},"properties":{"a":"40.653601","cty":"NORTHAMPTON","id":8833401,"mun":"BETHLEHEM TWP","nc":4,"o":"-75.324751"},"type":"Feature"}
 ]}
