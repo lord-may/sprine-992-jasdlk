@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-72.72023,41.61645],"type":"Point"},"properties":{"cause":"PLAN","cluster":false,"cust_a":{"masked":true,"val":4},"etr":"2026-11-30T18:15:00-0500","inc_id":"W6128219-0","start":"2026-08-19T13:00:49-0400","title":"Outage Information"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.52264,42.22798],"type":"Point"},"properties":{"cause":"OPER","cluster":false,"cust_a":{"val":21},"etr":"2026-11-03T03:15:00-0500","inc_id":"E1541805-0","start":"2026-11-03T01:16:35-0500","title":"Outage Information"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.44956,42.968],"type":"Point"},"properties":{"cluster":false,"cust_a":{"masked":true,"val":4},"etr":"2026-11-03T03:30:00-0500","inc_id":"W6134778-0","start":"2026-11-03T01:30:30-0500","title":"Outage Information"},"type":"Feature"}
 ]}
