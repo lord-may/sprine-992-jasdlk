@@ -1,7 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.197771,43.801807],"type":"Point"},"properties":{"EstRest":"11/3/2026 9:15:00 AM","Outages":2,"cause":"","county":"CUMBERLAND","crewstatus":"DISP ","customers":40,"hamlet":"YARMOUTH","incidentnumber":"0045SX","incidents":1,"level":"street","opco":"CMP","street":"HILLSIDE ST","town":"YARMOUTH"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.197796,43.802831],"type":"Point"},"properties":{"EstRest":"11/3/2026 9:15:00 AM","Outages":15,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.52695,44.193495],"type":"Point"},"properties":{"EstRest":"11/3/2026 10:00:00 AM","Outages":24,"county":"OXFORD","customers":44086,"incidents":4,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.9551,43.994171],"type":"Point"},"properties":{"EstRest":"11/3/2026 10:15:00 AM","Outages":155,"county":"SAGADAHOC","customers":23026,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.822958,43.169114],"type":"Point"},"properties":{"EstRest":"11/3/2026 9:45:00 AM","Outages":28,"county":"YORK","customers":132723,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.822958,43.169114],"type":"Point"},"properties":{"EstRest":"11/3/2026 10:30:00 AM","Outages":9,"county":"YORK","customers":132723,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
