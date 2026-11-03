@@ -8,5 +8,7 @@
 {"geometry":{"coordinates":[-76.842046,40.333519],"type":"Point"},"properties":{"a":"40.333519","cty":"DAUPHIN","id":8833359,"mun":"LOWER PAXTON TWP","nc":1,"o":"-76.842046"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.538637,40.959804],"type":"Point"},"properties":{"a":"40.959804","cty":"MONROE","id":8833360,"mun":"PENN FOREST TWP","nc":2,"o":"-75.538637"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.585491,40.846567],"type":"Point"},"properties":{"a":"40.846567","cty":"NORTHUMBERLAND","id":8833361,"mun":"SHAMOKIN TWP","nc":1,"o":"-76.585491"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.545455,40.545125],"type":"Point"},"properties":{"a":"40.545125","cty":"LEHIGH","id":8833362,"mun":"LOWER MACUNGIE TWP","nc":2,"o":"-75.545455"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.545455,40.545125],"type":"Point"},"properties":{"a":"40.545125","cty":"LEHIGH","id":8833362,"mun":"LOWER MACUNGIE TWP","nc":2,"o":"-75.545455"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.779039,40.323232],"type":"Point"},"properties":{"a":"40.323232","cty":"DAUPHIN","id":8833365,"mun":"LOWER PAXTON TWP","nc":1,"o":"-76.779039"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.640671,40.850607],"type":"Point"},"properties":{"a":"40.850607","cty":"CARBON","id":8833368,"mun":"FRANKLIN TWP","nc":1,"o":"-75.640671"},"type":"Feature"}
 ]}
