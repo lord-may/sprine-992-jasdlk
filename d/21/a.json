@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-69.344502,44.51802],"type":"Point"},"properties":{"EstRest":"11/2/2026 8:00:00 PM","Outages":51,"county":"WALDO","customers":26703,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.344666,44.519908],"type":"Point"},"properties":{"EstRest":"11/2/2026 8:00:00 PM","Outages":1,"cause":"","county":"WALDO","crewstatus":"ENRT ","customers":1,"hamlet":"FREEDOM","incidentnumber":"0045RX","incidents":1,"level":"street","opco":"CMP","street":"CASN 5 WAY","town":"FREEDOM"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.68697,43.781067],"type":"Point"},"properties":{"EstRest":"11/2/2026 7:45:00 PM","Outages":320,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.714926,43.757855],"type":"Point"},"properties":{"EstRest":"11/2/2026 7:45:00 PM","Outages":3,"cause":"Equipment Interruption","county":"YORK","crewstatus":"ONST ","customers":3,"hamlet":"LIMINGTON","incidentnumber":"0045RG","incidents":1,"level":"street","opco":"CMP","street":"STONE MOUNTAIN RD","town":"LIMINGTON"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.344666,44.519908],"type":"Point"},"properties":{"EstRest":"11/2/2026 8:00:00 PM","Outages":1,"cause":"","county":"WALDO","crewstatus":"ENRT ","customers":1,"hamlet":"FREEDOM","incidentnumber":"0045RX","incidents":1,"level":"street","opco":"CMP","street":"CASN 5 WAY","town":"FREEDOM"},"type":"Feature"}
 ]}
