@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.599864,43.221072],"type":"Point"},"properties":{"EstRest":"11/3/2026 3:15:00 PM","Outages":13,"county":"MONROE","customers":303529,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.599864,43.221072],"type":"Point"},"properties":{"EstRest":"11/3/2026 3:15:00 PM","Outages":6,"cause":"System Upgrade","county":"MONROE","crewstatus":"ONST ","customers":15,"hamlet":"ROCHESTER","incidentnumber":"0119RR","incidents":1,"level":"street","opco":"RGE","street":"RADCLIFFE RD","town":"IRONDEQUOIT"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.494345,43.154436],"type":"Point"},"properties":{"EstRest":"11/3/2026 4:45:00 PM","Outages":16,"county":"MONROE","customers":303529,"incidents":2,"level":"county","opco":"RGE"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.415887,42.923816],"type":"Point"},"properties":{"EstRest":"11/3/2026 3:00:00 PM","Outages":1,"cause":"","county":"ONTARIO","crewstatus":"DISP ","customers":84,"hamlet":"BLOOMFIELD","incidentnumber":"0119SO","incidents":1,"level":"street","opco":"RGE","street":"ROUTE 444","town":"E BLMFLD"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.415887,42.923816],"type":"Point"},"properties":{"EstRest":"11/3/2026 3:00:00 PM","Outages":1,"county":"ONTARIO","customers":35928,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}

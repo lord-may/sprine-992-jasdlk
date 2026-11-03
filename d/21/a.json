@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.482857,43.932122],"type":"Point"},"properties":{"EstRest":"11/3/2026 3:15:00 PM","Outages":1,"cause":"","county":"CUMBERLAND","crewstatus":"ONST ","customers":126,"hamlet":"RAYMOND","incidentnumber":"0045W3","incidents":1,"level":"street","opco":"CMP","street":"MEADOW RD","town":"RAYMOND"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.482857,43.932122],"type":"Point"},"properties":{"EstRest":"11/3/2026 3:15:00 PM","Outages":1,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.596715,43.258657],"type":"Point"},"properties":{"EstRest":"11/3/2026 3:30:00 PM","Outages":1,"cause":"","county":"YORK","crewstatus":"DISP ","customers":3,"hamlet":"OGUNQUIT","incidentnumber":"0045W8","incidents":1,"level":"street","opco":"CMP","street":"STARRY NIGHT WAY","town":"OGUNQUIT"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.596715,43.258657],"type":"Point"},"properties":{"EstRest":"11/3/2026 3:30:00 PM","Outages":1,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.275552,44.786179],"type":"Point"},"properties":{"EstRest":"11/3/2026 4:30:00 PM","Outages":1,"cause":"","county":"PENOBSCOT","crewstatus":"ENRT ","customers":12,"hamlet":"PLYMOUTH","incidentnumber":"0045WH","incidents":1,"level":"street","opco":"CMP","street":"LOWER DETROIT RD","town":"PLYMOUTH"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.275552,44.786179],"type":"Point"},"properties":{"EstRest":"11/3/2026 4:30:00 PM","Outages":1,"county":"PENOBSCOT","customers":15447,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
