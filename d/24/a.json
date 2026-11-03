@@ -2,6 +2,6 @@
 {"geometry":{"coordinates":[-71.400714,41.87697],"type":"Point"},"properties":{"a":"41.87697","cty":"PROVIDENCE","id":20261069692,"mun":"PAWTUCKET","nc":1,"o":"-71.400714"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.319615,41.492904],"type":"Point"},"properties":{"a":"41.492904","cty":"NEWPORT","id":20261069702,"mun":"NEWPORT","nc":30,"o":"-71.319615"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.498157,41.721356],"type":"Point"},"properties":{"a":"41.721356","cty":"KENT","id":20261069717,"mun":"WEST WARWICK","nc":9,"o":"-71.498157"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.584268,41.784617],"type":"Point"},"properties":{"a":"41.784617","cty":"PROVIDENCE","id":20261069728,"mun":"SCITUATE","nc":1,"o":"-71.584268"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.420389,41.835441],"type":"Point"},"properties":{"a":"41.835441","cty":"PROVIDENCE","id":20261069730,"mun":"PROVIDENCE","nc":1,"o":"-71.420389"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.420389,41.835441],"type":"Point"},"properties":{"a":"41.835441","cty":"PROVIDENCE","id":20261069730,"mun":"PROVIDENCE","nc":1,"o":"-71.420389"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.435562,41.702602],"type":"Point"},"properties":{"a":"41.702602","cty":"KENT","id":20261069736,"mun":"WARWICK","nc":1,"o":"-71.435562"},"type":"Feature"}
 ]}
