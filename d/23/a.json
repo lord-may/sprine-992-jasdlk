@@ -1,14 +1,12 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.29125,40.65639],"type":"Point"},"properties":{"a":"40.65639","cty":"NORTHAMPTON","hp":true,"id":8833329,"mun":"BETHLEHEM TWP","nc":20,"ne":{"a":"40.66012","o":"-75.29002"},"o":"-75.29125","sw":{"a":"40.65266","o":"-75.29249"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.538318,40.751809],"type":"Point"},"properties":{"a":"40.751809","cty":"NORTHUMBERLAND","id":8833348,"mun":"EAST CAMERON TWP","nc":1,"o":"-76.538318"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.3742,40.58101],"type":"Point"},"properties":{"a":"40.58101","cty":"NORTHAMPTON","hp":true,"id":8833354,"mun":"LOWER SAUCON TWP","nc":21,"ne":{"a":"40.58215","o":"-75.37154"},"o":"-75.3742","sw":{"a":"40.57986","o":"-75.37686"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.043793,41.324526],"type":"Point"},"properties":{"a":"41.324526","cty":"PIKE","id":8833358,"mun":"BLOOMING GROVE TWP","nc":2,"o":"-75.043793"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.538637,40.959804],"type":"Point"},"properties":{"a":"40.959804","cty":"MONROE","id":8833360,"mun":"PENN FOREST TWP","nc":2,"o":"-75.538637"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.779039,40.323232],"type":"Point"},"properties":{"a":"40.323232","cty":"DAUPHIN","id":8833365,"mun":"LOWER PAXTON TWP","nc":1,"o":"-76.779039"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.666551,41.400522],"type":"Point"},"properties":{"a":"41.400522","cty":"LACKAWANNA","id":8833376,"mun":"SCRANTON","nc":14,"o":"-75.666551"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.28865,41.35246],"type":"Point"},"properties":{"a":"41.35246","cty":"PIKE","hp":true,"id":8833380,"mun":"GREENE TWP","nc":21,"ne":{"a":"41.35526","o":"-75.28603"},"o":"-75.28865","sw":{"a":"41.34966","o":"-75.29128"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.903564,40.352427],"type":"Point"},"properties":{"a":"40.352427","cty":"DAUPHIN","id":8833388,"mun":"MIDDLE PAXTON TWP","nc":1,"o":"-76.903564"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.388332,41.014842],"type":"Point"},"properties":{"a":"41.014842","cty":"COLUMBIA","id":8833391,"mun":"SCOTT TWP","nc":2,"o":"-76.388332"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.459023,40.573354],"type":"Point"},"properties":{"a":"40.573354","cty":"JUNIATA","id":8833393,"mun":"MILFORD TWP","nc":3,"o":"-77.459023"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.275208,40.719837],"type":"Point"},"properties":{"a":"40.719837","cty":"SCHUYLKILL","id":8833395,"mun":"CASS TWP","nc":18,"o":"-76.275208"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.495212,41.392106],"type":"Point"},"properties":{"a":"41.392106","cty":"LACKAWANNA","id":8833397,"mun":"JEFFERSON TWP","nc":3,"o":"-75.495212"},"type":"Feature"},
@@ -43,5 +41,9 @@
 {"geometry":{"coordinates":[-75.9836,41.144017],"type":"Point"},"properties":{"a":"41.144017","cty":"LUZERNE","id":8833474,"mun":"DORRANCE TWP","nc":2,"o":"-75.9836"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.501134,40.400336],"type":"Point"},"properties":{"a":"40.400336","cty":"MONTGOMERY","id":8833475,"mun":"UPPER HANOVER TWP","nc":28,"o":"-75.501134"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.80533,41.302605],"type":"Point"},"properties":{"a":"41.302605","cty":"LUZERNE","id":8833477,"mun":"JENKINS TWP","nc":2,"o":"-75.80533"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.25826,41.643081],"type":"Point"},"properties":{"a":"41.643081","cty":"WAYNE","id":8833478,"mun":"DYBERRY TWP","nc":1,"o":"-75.25826"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.25826,41.643081],"type":"Point"},"properties":{"a":"41.643081","cty":"WAYNE","id":8833478,"mun":"DYBERRY TWP","nc":1,"o":"-75.25826"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.490851,40.047302],"type":"Point"},"properties":{"a":"40.047302","cty":"LANCASTER","id":8833479,"mun":"WEST HEMPFIELD TWP","nc":11,"o":"-76.490851"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.847682,41.019713],"type":"Point"},"properties":{"a":"41.019713","cty":"NORTHUMBERLAND","id":8833483,"mun":"MILTON BORO","nc":8,"o":"-76.847682"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.34752,41.292166],"type":"Point"},"properties":{"a":"41.292166","cty":"WAYNE","id":8833485,"mun":"DREHER TWP","nc":1,"o":"-75.34752"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.994551,40.748325],"type":"Point"},"properties":{"a":"40.748325","cty":"SNYDER","id":8833489,"mun":"WASHINGTON TWP","nc":1,"o":"-76.994551"},"type":"Feature"}
 ]}
