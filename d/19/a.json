@@ -1,4 +1,8 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-76.562445,42.9438],"type":"Point"},"properties":{"EstRest":"11/3/2026 9:15:00 AM","Outages":10,"cause":"","county":"CAYUGA","crewstatus":"     ","customers":28,"hamlet":"AUBURN","incidentnumber":"0119L1","incidents":1,"level":"street","opco":"NYSEG","street":"PEACOCK ST","town":"AUBURN C"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.562445,42.9438],"type":"Point"},"properties":{"EstRest":"11/3/2026 9:15:00 AM","Outages":11,"county":"CAYUGA","customers":32360,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.866493,42.138239],"type":"Point"},"properties":{"EstRest":"11/3/2026 9:30:00 AM","Outages":4,"cause":"","county":"CHEMUNG","crewstatus":"DISP ","customers":10,"hamlet":"ELMIRA","incidentnumber":"0119KZ","incidents":1,"level":"street","opco":"NYSEG","street":"HALDERMAN HOLW RD","town":"BIG FLATS T"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.876606,42.141639],"type":"Point"},"properties":{"EstRest":"11/3/2026 9:30:00 AM","Outages":9,"county":"CHEMUNG","customers":39913,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-73.607337,42.150909],"type":"Point"},"properties":{"EstRest":"11/3/2026 9:45:00 AM","Outages":1,"cause":"","county":"COLUMBIA","crewstatus":"     ","customers":1,"hamlet":"CRARYVILLE- NY","incidentnumber":"0119KV","incidents":1,"level":"street","opco":"NYSEG","street":"GOLF COURSE RD","town":"TAGHKANIC T"},"type":"Feature"},
 {"geometry":{"coordinates":[-73.608094,42.152532],"type":"Point"},"properties":{"EstRest":"11/3/2026 9:45:00 AM","Outages":9,"county":"COLUMBIA","customers":15375,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}

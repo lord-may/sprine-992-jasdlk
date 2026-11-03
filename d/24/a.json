@@ -1,3 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.41849,41.92406],"type":"Point"},"properties":{"a":"41.92406","cty":"PROVIDENCE","hp":true,"id":20261069649,"mun":"CUMBERLAND","nc":81,"ne":{"a":"41.92558","o":"-71.41647"},"o":"-71.41849","sw":{"a":"41.92253","o":"-71.4205"}},"type":"Feature"}
+{"geometry":{"coordinates":[-71.41849,41.92406],"type":"Point"},"properties":{"a":"41.92406","cty":"PROVIDENCE","hp":true,"id":20261069649,"mun":"CUMBERLAND","nc":81,"ne":{"a":"41.92558","o":"-71.41647"},"o":"-71.41849","sw":{"a":"41.92253","o":"-71.4205"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.316073,41.488561],"type":"Point"},"properties":{"a":"41.488561","cty":"NEWPORT","id":20261069652,"mun":"NEWPORT","nc":12,"o":"-71.316073"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.315867,41.489435],"type":"Point"},"properties":{"a":"41.489435","cty":"NEWPORT","id":20261069656,"mun":"NEWPORT","nc":1,"o":"-71.315867"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.733535,41.338948],"type":"Point"},"properties":{"a":"41.338948","cty":"WASHINGTON","id":20261069657,"mun":"WESTERLY","nc":1,"o":"-71.733535"},"type":"Feature"}
 ]}
