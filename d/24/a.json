@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.453687,41.826723],"type":"Point"},"properties":{"a":"41.826723","cty":"PROVIDENCE","id":20261069763,"mun":"PROVIDENCE","nc":1,"o":"-71.453687"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.495085,41.987595],"type":"Point"},"properties":{"a":"41.987595","cty":"PROVIDENCE","id":20261069764,"mun":"WOONSOCKET","nc":1,"o":"-71.495085"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.434838,41.854273],"type":"Point"},"properties":{"a":"41.854273","cty":"PROVIDENCE","id":20261069766,"mun":"PROVIDENCE","nc":1,"o":"-71.434838"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.426771,41.7743],"type":"Point"},"properties":{"a":"41.7743","cty":"PROVIDENCE","id":20261069767,"mun":"CRANSTON","nc":1,"o":"-71.426771"},"type":"Feature"}
 ]}
