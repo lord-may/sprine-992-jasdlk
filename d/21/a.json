@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-70.110826,43.82057],"type":"Point"},"properties":{"EstRest":"11/4/2026 2:15:00 PM","Outages":1,"cause":"","county":"CUMBERLAND","crewstatus":"     ","customers":42,"hamlet":"FREEPORT","incidentnumber":"0045ZU","incidents":1,"level":"street","opco":"CMP","street":"PARK ST","town":"FREEPORT"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.110826,43.82057],"type":"Point"},"properties":{"EstRest":"11/4/2026 2:15:00 PM","Outages":1,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.728491,43.09369],"type":"Point"},"properties":{"EstRest":"11/4/2026 1:30:00 PM","Outages":47,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.72968,43.093621],"type":"Point"},"properties":{"EstRest":"11/4/2026 1:30:00 PM","Outages":8,"cause":"","county":"YORK","crewstatus":"DISP ","customers":138,"hamlet":"KITTERY","incidentnumber":"0045Z5","incidents":1,"level":"street","opco":"CMP","street":"MANSON AVE","town":"KITTERY"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.72968,43.093621],"type":"Point"},"properties":{"EstRest":"11/4/2026 1:30:00 PM","Outages":8,"cause":"","county":"YORK","crewstatus":"ONST ","customers":138,"hamlet":"KITTERY","incidentnumber":"0045Z5","incidents":1,"level":"street","opco":"CMP","street":"MANSON AVE","town":"KITTERY"},"type":"Feature"}
 ]}
