@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.577376,43.942528],"type":"Point"},"properties":{"EstRest":"11/4/2026 8:45:00 AM","Outages":28,"cause":"","county":"CUMBERLAND","crewstatus":"     ","customers":50,"hamlet":"NAPLES","incidentnumber":"0045XR","incidents":1,"level":"street","opco":"CMP","street":"DUNTON RD","town":"NAPLES"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.578348,43.941704],"type":"Point"},"properties":{"EstRest":"11/4/2026 8:45:00 AM","Outages":47,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.271726,43.650464],"type":"Point"},"properties":{"EstRest":"11/4/2026 9:00:00 AM","Outages":853,"county":"CUMBERLAND","customers":182407,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.862107,43.425055],"type":"Point"},"properties":{"EstRest":"11/4/2026 9:00:00 AM","Outages":100,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.865133,43.421901],"type":"Point"},"properties":{"EstRest":"11/4/2026 9:00:00 AM","Outages":37,"cause":"","county":"YORK","crewstatus":"     ","customers":37,"hamlet":"LEBANON","incidentnumber":"0045XV","incidents":1,"level":"street","opco":"CMP","street":"BRIARWOOD RD","town":"LEBANON"},"type":"Feature"}
 ]}

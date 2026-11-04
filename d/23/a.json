@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.469078,40.585364],"type":"Point"},"properties":{"a":"40.585364","cty":"LEHIGH","id":8833742,"mun":"ALLENTOWN","nc":15,"o":"-75.469078"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.10416,40.23642],"type":"Point"},"properties":{"a":"40.23642","cty":"LANCASTER","hp":true,"id":8833745,"mun":"EAST COCALICO TWP","nc":14,"ne":{"a":"40.23756","o":"-76.10048"},"o":"-76.10416","sw":{"a":"40.23527","o":"-76.10784"}},"type":"Feature"}
 ]}
