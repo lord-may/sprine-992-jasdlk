@@ -1,10 +1,10 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.38924,40.11554],"type":"Point"},"properties":{"a":"40.11554","cty":"CUMBERLAND","hp":true,"id":8833911,"mun":"PENN TWP","nc":18,"ne":{"a":"40.11877","o":"-77.38416"},"o":"-77.38924","sw":{"a":"40.11231","o":"-77.39433"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.344521,40.353542],"type":"Point"},"properties":{"a":"40.353542","cty":"BUCKS","id":8833928,"mun":"WEST ROCKHILL TWP","nc":7,"o":"-75.344521"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.362877,40.117431],"type":"Point"},"properties":{"a":"40.117431","cty":"CUMBERLAND","id":8834082,"mun":"PENN TWP","nc":1,"o":"-77.362877"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.51477,40.5597],"type":"Point"},"properties":{"a":"40.5597","cty":"LEHIGH","hp":true,"id":8834095,"mun":"NA","nc":32,"ne":{"a":"40.56219","o":"-75.51136"},"o":"-75.51477","sw":{"a":"40.55722","o":"-75.51819"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.831794,40.271847],"type":"Point"},"properties":{"a":"40.271847","cty":"DAUPHIN","id":8834110,"mun":"SUSQUEHANNA TWP","nc":1,"o":"-76.831794"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.80193,40.31885],"type":"Point"},"properties":{"a":"40.31885","cty":"DAUPHIN","hp":true,"id":8834126,"mun":"LOWER PAXTON TWP","nc":99,"ne":{"a":"40.31979","o":"-76.80096"},"o":"-76.80193","sw":{"a":"40.31791","o":"-76.8029"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.539752,40.046308],"type":"Point"},"properties":{"a":"40.046308","cty":"YORK","id":8834134,"mun":"HELLAM TWP","nc":1,"o":"-76.539752"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.44789,40.611718],"type":"Point"},"properties":{"a":"40.611718","cty":"LEHIGH","id":8834136,"mun":"ALLENTOWN","nc":19,"o":"-75.44789"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.647081,41.028527],"type":"Point"},"properties":{"a":"41.028527","cty":"MONTOUR","id":8834139,"mun":"DERRY TWP","nc":1,"o":"-76.647081"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.25849,41.204632],"type":"Point"},"properties":{"a":"41.204632","cty":"LYCOMING","id":8834141,"mun":"JERSEY SHORE BORO","nc":7,"o":"-77.25849"},"type":"Feature"}
 ]}

@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.371526,41.86546],"type":"Point"},"properties":{"a":"41.86546","cty":"PROVIDENCE","id":20261069891,"mun":"PAWTUCKET","nc":1,"o":"-71.371526"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.495085,41.987595],"type":"Point"},"properties":{"a":"41.987595","cty":"PROVIDENCE","id":20261069898,"mun":"WOONSOCKET","nc":1,"o":"-71.495085"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.526396,41.703465],"type":"Point"},"properties":{"a":"41.703465","cty":"KENT","id":20261069899,"mun":"WEST WARWICK","nc":1,"o":"-71.526396"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.495085,41.987595],"type":"Point"},"properties":{"a":"41.987595","cty":"PROVIDENCE","id":20261069898,"mun":"WOONSOCKET","nc":1,"o":"-71.495085"},"type":"Feature"}
 ]}
