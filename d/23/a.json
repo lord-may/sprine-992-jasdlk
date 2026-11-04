@@ -1,3 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.10416,40.23642],"type":"Point"},"properties":{"a":"40.23642","cty":"LANCASTER","hp":true,"id":8833745,"mun":"EAST COCALICO TWP","nc":14,"ne":{"a":"40.23756","o":"-76.10048"},"o":"-76.10416","sw":{"a":"40.23527","o":"-76.10784"}},"type":"Feature"}
+{"geometry":{"coordinates":[-76.10416,40.23642],"type":"Point"},"properties":{"a":"40.23642","cty":"LANCASTER","hp":true,"id":8833745,"mun":"EAST COCALICO TWP","nc":14,"ne":{"a":"40.23756","o":"-76.10048"},"o":"-76.10416","sw":{"a":"40.23527","o":"-76.10784"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.561633,40.788214],"type":"Point"},"properties":{"a":"40.788214","cty":"NORTHUMBERLAND","id":8833746,"mun":"COAL TWP","nc":6,"o":"-76.561633"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.220696,40.676812],"type":"Point"},"properties":{"a":"40.676812","cty":"SCHUYLKILL","id":8833749,"mun":"POTTSVILLE","nc":24,"o":"-76.220696"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.322,40.62834],"type":"Point"},"properties":{"a":"40.62834","cty":"NORTHAMPTON","hp":true,"id":8833750,"mun":"LOWER SAUCON TWP","nc":45,"ne":{"a":"40.63059","o":"-75.3191"},"o":"-75.322","sw":{"a":"40.6261","o":"-75.3249"}},"type":"Feature"}
 ]}
