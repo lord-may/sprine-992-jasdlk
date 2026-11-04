@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-70.577376,43.942528],"type":"Point"},"properties":{"EstRest":"11/4/2026 8:45:00 AM","Outages":28,"cause":"","county":"CUMBERLAND","crewstatus":"     ","customers":50,"hamlet":"NAPLES","incidentnumber":"0045XR","incidents":1,"level":"street","opco":"CMP","street":"DUNTON RD","town":"NAPLES"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.578348,43.941704],"type":"Point"},"properties":{"EstRest":"11/4/2026 8:45:00 AM","Outages":47,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
