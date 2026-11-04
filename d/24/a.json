@@ -1,6 +1,7 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.42113,41.8678],"type":"Point"},"properties":{"a":"41.8678","cty":"PROVIDENCE","hp":true,"id":20261069786,"mun":"NORTH PROVIDENCE","nc":107,"ne":{"a":"41.86891","o":"-71.41924"},"o":"-71.42113","sw":{"a":"41.86668","o":"-71.42303"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.479129,41.821447],"type":"Point"},"properties":{"a":"41.821447","cty":"PROVIDENCE","id":20261069791,"mun":"JOHNSTON","nc":1,"o":"-71.479129"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.56927,41.985649],"type":"Point"},"properties":{"a":"41.985649","cty":"PROVIDENCE","id":20261069793,"mun":"NORTH SMITHFIELD","nc":6,"o":"-71.56927"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.672775,41.713173],"type":"Point"},"properties":{"a":"41.713173","cty":"KENT","id":20261069796,"mun":"COVENTRY","nc":1,"o":"-71.672775"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.346422,41.835545],"type":"Point"},"properties":{"a":"41.835545","cty":"PROVIDENCE","id":20261069797,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.346422"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.447047,41.853894],"type":"Point"},"properties":{"a":"41.853894","cty":"PROVIDENCE","id":20261069798,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.447047"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.308283,41.488266],"type":"Point"},"properties":{"a":"41.488266","cty":"NEWPORT","id":20261069800,"mun":"NEWPORT","nc":25,"o":"-71.308283"},"type":"Feature"}
 ]}
