@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.926915,39.871386],"type":"Point"},"properties":{"cause":"Tree Failure Without Ice/Snow","comment":"Adams Electric is currently experiencing an outage due to unknown circumstances.  Crews have been dispatched and we appreciate your cooperation while this issue is resolved. Thank you.","crewAssigned":true,"estimateTime":1793836800000,"id":"475680","lifeCycleStatus":"Assigned","nbrOut":38,"planned":false,"timeOff":1793825445540},"type":"Feature"}
+
 ]}
