@@ -10,16 +10,12 @@
 {"geometry":{"coordinates":[-76.65024,41.02615],"type":"Point"},"properties":{"a":"41.02615","cty":"MONTOUR","hp":true,"id":8833979,"mun":"DERRY TWP","nc":38,"ne":{"a":"41.03257","o":"-76.63843"},"o":"-76.65024","sw":{"a":"41.01973","o":"-76.66206"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.826884,41.245102],"type":"Point"},"properties":{"a":"41.245102","cty":"LUZERNE","id":8833994,"mun":"PLAINS TWP","nc":3,"o":"-75.826884"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.93828,40.8485],"type":"Point"},"properties":{"a":"40.8485","cty":"SNYDER","hp":true,"id":8834002,"mun":"JACKSON TWP","nc":49,"ne":{"a":"40.8558","o":"-76.92513"},"o":"-76.93828","sw":{"a":"40.84119","o":"-76.95143"}},"type":"Feature"},
-{"geometry":{"coordinates":[-77.322438,40.13302],"type":"Point"},"properties":{"a":"40.13302","cty":"CUMBERLAND","id":8834021,"mun":"PENN TWP","nc":1,"o":"-77.322438"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.63762,41.17835],"type":"Point"},"properties":{"a":"41.17835","cty":"LYCOMING","hp":true,"id":8834039,"mun":"MORELAND TWP","nc":173,"ne":{"a":"41.1985","o":"-76.59053"},"o":"-76.63762","sw":{"a":"41.15821","o":"-76.68472"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.431286,40.085591],"type":"Point"},"properties":{"a":"40.085591","cty":"LANCASTER","id":8834044,"mun":"WEST HEMPFIELD TWP","nc":1,"o":"-76.431286"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.245284,41.052794],"type":"Point"},"properties":{"a":"41.052794","cty":"COLUMBIA","id":8834049,"mun":"BERWICK BORO","nc":14,"o":"-76.245284"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.480043,40.596275],"type":"Point"},"properties":{"a":"40.596275","cty":"LEHIGH","id":8834055,"mun":"ALLENTOWN","nc":6,"o":"-75.480043"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.012565,41.147921],"type":"Point"},"properties":{"a":"41.147921","cty":"LUZERNE","id":8834058,"mun":"SLOCUM TWP","nc":1,"o":"-76.012565"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.949229,41.01422],"type":"Point"},"properties":{"a":"41.01422","cty":"LUZERNE","id":8834063,"mun":"BUTLER TWP","nc":4,"o":"-75.949229"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.07006,40.99261],"type":"Point"},"properties":{"a":"40.99261","cty":"UNION","hp":true,"id":8834066,"mun":"WEST BUFFALO TWP","nc":42,"ne":{"a":"40.99586","o":"-77.05981"},"o":"-77.07006","sw":{"a":"40.98936","o":"-77.08031"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.710282,41.188937],"type":"Point"},"properties":{"a":"41.188937","cty":"LYCOMING","id":8834067,"mun":"MUNCY CREEK TWP","nc":2,"o":"-76.710282"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.694336,41.166594],"type":"Point"},"properties":{"a":"41.166594","cty":"LYCOMING","id":8834068,"mun":"MUNCY CREEK TWP","nc":1,"o":"-76.694336"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.056039,40.984794],"type":"Point"},"properties":{"a":"40.984794","cty":"UNION","id":8834069,"mun":"WEST BUFFALO TWP","nc":3,"o":"-77.056039"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.754836,41.205726],"type":"Point"},"properties":{"a":"41.205726","cty":"LYCOMING","id":8834072,"mun":"MUNCY CREEK TWP","nc":3,"o":"-76.754836"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.072342,40.990225],"type":"Point"},"properties":{"a":"40.990225","cty":"UNION","id":8834080,"mun":"WEST BUFFALO TWP","nc":1,"o":"-77.072342"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.44789,40.611718],"type":"Point"},"properties":{"a":"40.611718","cty":"LEHIGH","id":8834081,"mun":"ALLENTOWN","nc":19,"o":"-75.44789"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.362877,40.117431],"type":"Point"},"properties":{"a":"40.117431","cty":"CUMBERLAND","id":8834082,"mun":"PENN TWP","nc":1,"o":"-77.362877"},"type":"Feature"}
 ]}
