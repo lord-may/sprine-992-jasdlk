@@ -1,8 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.367912,44.585597],"type":"Point"},"properties":{"EstRest":"11/4/2026 1:00:00 PM","Outages":3,"cause":"","county":"FRANKLIN","crewstatus":"ONST ","customers":3,"hamlet":"CARTHAGE","incidentnumber":"0045ZI","incidents":1,"level":"street","opco":"CMP","street":"TAINTER CORNER RD","town":"CARTHAGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.497597,44.627514],"type":"Point"},"properties":{"EstRest":"11/4/2026 1:00:00 PM","Outages":320,"county":"FRANKLIN","customers":24700,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.405953,44.523567],"type":"Point"},"properties":{"EstRest":"11/4/2026 1:00:00 PM","Outages":1292,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.437295,44.544593],"type":"Point"},"properties":{"EstRest":"11/4/2026 1:00:00 PM","Outages":1,"cause":"","county":"OXFORD","crewstatus":"ONST ","customers":1,"hamlet":"DIXFIELD","incidentnumber":"0045ZI","incidents":1,"level":"street","opco":"CMP","street":"RED LEDGE RD","town":"DIXFIELD"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.728491,43.09369],"type":"Point"},"properties":{"EstRest":"11/4/2026 12:30:00 PM","Outages":47,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.72968,43.093621],"type":"Point"},"properties":{"EstRest":"11/4/2026 12:30:00 PM","Outages":8,"cause":"","county":"YORK","crewstatus":"DISP ","customers":138,"hamlet":"KITTERY","incidentnumber":"0045Z5","incidents":1,"level":"street","opco":"CMP","street":"MANSON AVE","town":"KITTERY"},"type":"Feature"}
 ]}
