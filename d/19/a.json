@@ -1,5 +1,7 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-73.400153,44.812667],"type":"Point"},"properties":{"EstRest":"11/4/2026 9:30:00 AM","Outages":1,"cause":"","county":"CLINTON","crewstatus":"DISP ","customers":1,"hamlet":"WEST CHAZY","incidentnumber":"011A0L","incidents":1,"level":"street","opco":"NYSEG","street":"LAKE SHORE ROAD","town":"BEEKMANTOWN T"},"type":"Feature"},
+{"geometry":{"coordinates":[-73.406526,44.832738],"type":"Point"},"properties":{"EstRest":"11/4/2026 9:30:00 AM","Outages":105,"county":"CLINTON","customers":28857,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-78.658121,42.744199],"type":"Point"},"properties":{"EstRest":"11/4/2026 10:30:00 AM","Outages":53,"cause":"","county":"ERIE","crewstatus":"DISP ","customers":57,"hamlet":"EAST AURORA","incidentnumber":"0119ZV","incidents":1,"level":"street","opco":"NYSEG","street":"LUTHER RD","town":"AURORA T"},"type":"Feature"},
 {"geometry":{"coordinates":[-78.679822,42.734111],"type":"Point"},"properties":{"EstRest":"11/4/2026 10:30:00 AM","Outages":90,"county":"ERIE","customers":157708,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.013108,42.435608],"type":"Point"},"properties":{"EstRest":"11/4/2026 9:30:00 AM","Outages":41,"county":"SCHUYLER","customers":10031,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.013108,42.435608],"type":"Point"},"properties":{"EstRest":"11/4/2026 9:45:00 AM","Outages":147,"county":"SCHUYLER","customers":10031,"incidents":3,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}

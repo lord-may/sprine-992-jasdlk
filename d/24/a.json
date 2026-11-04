@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.841269,41.319761],"type":"Point"},"properties":{"a":"41.319761","cty":"WASHINGTON","id":20261069781,"mun":"WESTERLY","nc":3,"o":"-71.841269"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.650241,41.877817],"type":"Point"},"properties":{"a":"41.877817","cty":"PROVIDENCE","id":20261069784,"mun":"GLOCESTER","nc":1,"o":"-71.650241"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.42113,41.8678],"type":"Point"},"properties":{"a":"41.8678","cty":"PROVIDENCE","hp":true,"id":20261069786,"mun":"NORTH PROVIDENCE","nc":107,"ne":{"a":"41.86891","o":"-71.41924"},"o":"-71.42113","sw":{"a":"41.86668","o":"-71.42303"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.605171,41.694528],"type":"Point"},"properties":{"a":"41.694528","cty":"KENT","id":20261069787,"mun":"COVENTRY","nc":7,"o":"-71.605171"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.42113,41.8678],"type":"Point"},"properties":{"a":"41.8678","cty":"PROVIDENCE","hp":true,"id":20261069786,"mun":"NORTH PROVIDENCE","nc":107,"ne":{"a":"41.86891","o":"-71.41924"},"o":"-71.42113","sw":{"a":"41.86668","o":"-71.42303"}},"type":"Feature"}
 ]}
