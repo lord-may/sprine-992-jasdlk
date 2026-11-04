@@ -1,19 +1,13 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.479129,41.821447],"type":"Point"},"properties":{"a":"41.821447","cty":"PROVIDENCE","id":20261069791,"mun":"JOHNSTON","nc":1,"o":"-71.479129"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.346422,41.835545],"type":"Point"},"properties":{"a":"41.835545","cty":"PROVIDENCE","id":20261069797,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.346422"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.447047,41.853894],"type":"Point"},"properties":{"a":"41.853894","cty":"PROVIDENCE","id":20261069798,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.447047"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.308283,41.488266],"type":"Point"},"properties":{"a":"41.488266","cty":"NEWPORT","id":20261069800,"mun":"NEWPORT","nc":25,"o":"-71.308283"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.488653,41.852511],"type":"Point"},"properties":{"a":"41.852511","cty":"PROVIDENCE","id":20261069805,"mun":"JOHNSTON","nc":1,"o":"-71.488653"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.437687,41.808004],"type":"Point"},"properties":{"a":"41.808004","cty":"PROVIDENCE","id":20261069807,"mun":"PROVIDENCE","nc":1,"o":"-71.437687"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.467218,41.8589],"type":"Point"},"properties":{"a":"41.8589","cty":"PROVIDENCE","id":20261069810,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.467218"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.393943,41.828306],"type":"Point"},"properties":{"a":"41.828306","cty":"PROVIDENCE","id":20261069811,"mun":"PROVIDENCE","nc":40,"o":"-71.393943"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.394121,41.828409],"type":"Point"},"properties":{"a":"41.828409","cty":"PROVIDENCE","id":20261069813,"mun":"PROVIDENCE","nc":1,"o":"-71.394121"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.454375,41.564005],"type":"Point"},"properties":{"a":"41.564005","cty":"WASHINGTON","id":20261069814,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.454375"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.441787,41.840563],"type":"Point"},"properties":{"a":"41.840563","cty":"PROVIDENCE","id":20261069815,"mun":"PROVIDENCE","nc":1,"o":"-71.441787"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.388434,41.902325],"type":"Point"},"properties":{"a":"41.902325","cty":"PROVIDENCE","id":20261069816,"mun":"CUMBERLAND","nc":1,"o":"-71.388434"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.461833,41.91676],"type":"Point"},"properties":{"a":"41.91676","cty":"PROVIDENCE","id":20261069820,"mun":"LINCOLN","nc":1,"o":"-71.461833"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.520963,41.99343],"type":"Point"},"properties":{"a":"41.99343","cty":"PROVIDENCE","id":20261069829,"mun":"WOONSOCKET","nc":26,"o":"-71.520963"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.43892,41.775353],"type":"Point"},"properties":{"a":"41.775353","cty":"PROVIDENCE","id":20261069831,"mun":"CRANSTON","nc":1,"o":"-71.43892"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.54045,41.65402],"type":"Point"},"properties":{"a":"41.65402","cty":"KENT","hp":true,"id":20261069838,"mun":"EAST GREENWICH","nc":5,"ne":{"a":"41.65475","o":"-71.53954"},"o":"-71.54045","sw":{"a":"41.6533","o":"-71.54136"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.494617,41.863206],"type":"Point"},"properties":{"a":"41.863206","cty":"PROVIDENCE","id":20261069839,"mun":"JOHNSTON","nc":1,"o":"-71.494617"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.54045,41.65402],"type":"Point"},"properties":{"a":"41.65402","cty":"KENT","hp":true,"id":20261069838,"mun":"EAST GREENWICH","nc":5,"ne":{"a":"41.65475","o":"-71.53954"},"o":"-71.54045","sw":{"a":"41.6533","o":"-71.54136"}},"type":"Feature"}
 ]}
