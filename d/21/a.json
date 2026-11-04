@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.612656,43.835584],"type":"Point"},"properties":{"EstRest":"11/4/2026 5:00:00 PM","Outages":1,"cause":"","county":"CUMBERLAND","crewstatus":"ENRT ","customers":27,"hamlet":"STANDISH","incidentnumber":"00460F","incidents":1,"level":"street","opco":"CMP","street":"PERIMETER AVE","town":"STANDISH"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.612656,43.835584],"type":"Point"},"properties":{"EstRest":"11/4/2026 5:00:00 PM","Outages":1,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+
 ]}
