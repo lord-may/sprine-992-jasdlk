@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-77.409767,43.01381],"type":"Point"},"properties":{"EstRest":"11/4/2026 3:30:00 AM","Outages":4,"cause":"","county":"ONTARIO","crewstatus":"     ","customers":68,"hamlet":"VICTOR","incidentnumber":"0119ZI","incidents":1,"level":"street","opco":"RGE","street":"COBBLE CREEK RD","town":"VICTOR"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.409767,43.01381],"type":"Point"},"properties":{"EstRest":"11/4/2026 3:30:00 AM","Outages":4,"county":"ONTARIO","customers":35928,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
