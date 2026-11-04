@@ -5,6 +5,8 @@
 {"geometry":{"coordinates":[-75.168094,41.418819],"type":"Point"},"properties":{"a":"41.418819","cty":"PIKE","id":8833756,"mun":"PALMYRA TWP","nc":1,"o":"-75.168094"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.039996,40.313865],"type":"Point"},"properties":{"a":"40.313865","cty":"BERKS","id":8833767,"mun":"SPRING TWP","nc":2,"o":"-76.039996"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.006272,40.21775],"type":"Point"},"properties":{"a":"40.21775","cty":"CUMBERLAND","id":8833769,"mun":"MECHANICSBURG BORO","nc":8,"o":"-77.006272"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.060662,40.978825],"type":"Point"},"properties":{"a":"40.978825","cty":"UNION","id":8833770,"mun":"WEST BUFFALO TWP","nc":5,"o":"-77.060662"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.298966,40.66821],"type":"Point"},"properties":{"a":"40.66821","cty":"NORTHAMPTON","id":8833771,"mun":"BETHLEHEM TWP","nc":9,"o":"-75.298966"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.298966,40.66821],"type":"Point"},"properties":{"a":"40.66821","cty":"NORTHAMPTON","id":8833771,"mun":"BETHLEHEM TWP","nc":9,"o":"-75.298966"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.32953,40.135381],"type":"Point"},"properties":{"a":"40.135381","cty":"CUMBERLAND","id":8833772,"mun":"PENN TWP","nc":2,"o":"-77.32953"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.060662,40.978825],"type":"Point"},"properties":{"a":"40.978825","cty":"UNION","id":8833773,"mun":"WEST BUFFALO TWP","nc":1,"o":"-77.060662"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.267779,40.278962],"type":"Point"},"properties":{"a":"40.278962","cty":"LEBANON","id":8833774,"mun":"HEIDELBERG TWP","nc":1,"o":"-76.267779"},"type":"Feature"}
 ]}
