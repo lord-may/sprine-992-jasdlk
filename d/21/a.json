@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.662525,44.035675],"type":"Point"},"properties":{"EstRest":"11/4/2026 10:30:00 AM","Outages":18,"county":"LINCOLN","customers":29091,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.861691,43.823466],"type":"Point"},"properties":{"EstRest":"11/4/2026 10:30:00 AM","Outages":31,"cause":"","county":"OXFORD","crewstatus":"     ","customers":70,"hamlet":"HIRAM","incidentnumber":"0045YI","incidents":1,"level":"street","opco":"CMP","street":"NEW SETTLEMENT RD","town":"HIRAM"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.866,43.827905],"type":"Point"},"properties":{"EstRest":"11/4/2026 10:30:00 AM","Outages":78,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.795811,44.442229],"type":"Point"},"properties":{"EstRest":"11/4/2026 11:00:00 AM","Outages":79,"county":"OXFORD","customers":44086,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.64127,43.133447],"type":"Point"},"properties":{"EstRest":"11/4/2026 10:00:00 AM","Outages":33,"county":"YORK","customers":132723,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
