@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-70.795811,44.442229],"type":"Point"},"properties":{"EstRest":"11/4/2026 11:00:00 AM","Outages":79,"county":"OXFORD","customers":44086,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.64127,43.133447],"type":"Point"},"properties":{"EstRest":"11/4/2026 10:00:00 AM","Outages":33,"county":"YORK","customers":132723,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.64127,43.133447],"type":"Point"},"properties":{"EstRest":"11/4/2026 9:30:00 AM","Outages":8,"cause":"","county":"YORK","crewstatus":"ONST ","customers":16,"hamlet":"YORK","incidentnumber":"0045Y4","incidents":1,"level":"street","opco":"CMP","street":"SIMPSONS LN","town":"YORK"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.64127,43.133447],"type":"Point"},"properties":{"EstRest":"11/4/2026 9:30:00 AM","Outages":8,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}

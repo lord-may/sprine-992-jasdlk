@@ -3,5 +3,8 @@
 {"geometry":{"coordinates":[-71.346422,41.835545],"type":"Point"},"properties":{"a":"41.835545","cty":"PROVIDENCE","id":20261069797,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.346422"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.447047,41.853894],"type":"Point"},"properties":{"a":"41.853894","cty":"PROVIDENCE","id":20261069798,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.447047"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.308283,41.488266],"type":"Point"},"properties":{"a":"41.488266","cty":"NEWPORT","id":20261069800,"mun":"NEWPORT","nc":25,"o":"-71.308283"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.778479,41.458612],"type":"Point"},"properties":{"a":"41.458612","cty":"WASHINGTON","id":20261069802,"mun":"HOPKINTON","nc":55,"o":"-71.778479"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.778479,41.458612],"type":"Point"},"properties":{"a":"41.458612","cty":"WASHINGTON","id":20261069802,"mun":"HOPKINTON","nc":55,"o":"-71.778479"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.488653,41.852511],"type":"Point"},"properties":{"a":"41.852511","cty":"PROVIDENCE","id":20261069805,"mun":"JOHNSTON","nc":1,"o":"-71.488653"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.437687,41.808004],"type":"Point"},"properties":{"a":"41.808004","cty":"PROVIDENCE","id":20261069807,"mun":"PROVIDENCE","nc":1,"o":"-71.437687"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.404359,41.77831],"type":"Point"},"properties":{"a":"41.77831","cty":"PROVIDENCE","id":20261069808,"mun":"CRANSTON","nc":1,"o":"-71.404359"},"type":"Feature"}
 ]}
