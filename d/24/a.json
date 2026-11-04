@@ -10,6 +10,6 @@
 {"geometry":{"coordinates":[-71.54045,41.65402],"type":"Point"},"properties":{"a":"41.65402","cty":"KENT","hp":true,"id":20261069838,"mun":"EAST GREENWICH","nc":5,"ne":{"a":"41.65475","o":"-71.53954"},"o":"-71.54045","sw":{"a":"41.6533","o":"-71.54136"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.300065,41.49247],"type":"Point"},"properties":{"a":"41.49247","cty":"NEWPORT","id":20261069844,"mun":"NEWPORT","nc":12,"o":"-71.300065"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.182534,41.671758],"type":"Point"},"properties":{"a":"41.671758","cty":"NEWPORT","id":20261069846,"mun":"TIVERTON","nc":1,"o":"-71.182534"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.494617,41.863206],"type":"Point"},"properties":{"a":"41.863206","cty":"PROVIDENCE","id":20261069847,"mun":"JOHNSTON","nc":1,"o":"-71.494617"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.751104,41.715257],"type":"Point"},"properties":{"a":"41.715257","cty":"KENT","id":20261069849,"mun":"COVENTRY","nc":1,"o":"-71.751104"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.751104,41.715257],"type":"Point"},"properties":{"a":"41.715257","cty":"KENT","id":20261069849,"mun":"COVENTRY","nc":1,"o":"-71.751104"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.497448,41.819288],"type":"Point"},"properties":{"a":"41.819288","cty":"PROVIDENCE","id":20261069854,"mun":"JOHNSTON","nc":1,"o":"-71.497448"},"type":"Feature"}
 ]}
