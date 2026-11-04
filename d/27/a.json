@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-75.886477,41.843987],[-75.881599,41.846403],[-75.881024,41.848772],[-75.881689,41.849688],[-75.890214,41.848812],[-75.886477,41.843987]]],"type":"Polygon"},{"coordinates":[-75.885229,41.847313],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"CONSTRUCTION","comment":"This is an important message from  Claverack Rural Electric.  On Wednesday     November 4th      at approximately  2:00PM,  your power will be interrupted for  approximately  1 hour.   This interruption is necessary to allow our line crews to safely perform important system upgrades.  We apologize for any inconvenience. If you have any questions or concerns about this information, please contact Claverack Electrics main office at 1-800-326-9799.","estimateTime":1793822400000,"id":"365591","nbrOut":8,"planned":true,"timeOff":1793818399000},"type":"Feature"}
+
 ]}
