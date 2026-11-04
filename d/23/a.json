@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.791449,40.86193],"type":"Point"},"properties":{"a":"40.86193","cty":"NORTHUMBERLAND","id":8833818,"mun":"UPPER AUGUSTA TWP","nc":21,"o":"-76.791449"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.547218,41.496499],"type":"Point"},"properties":{"a":"41.496499","cty":"LACKAWANNA","id":8833901,"mun":"ARCHBALD BORO","nc":3,"o":"-75.547218"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.38924,40.11554],"type":"Point"},"properties":{"a":"40.11554","cty":"CUMBERLAND","hp":true,"id":8833911,"mun":"PENN TWP","nc":18,"ne":{"a":"40.11877","o":"-77.38416"},"o":"-77.38924","sw":{"a":"40.11231","o":"-77.39433"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.344521,40.353542],"type":"Point"},"properties":{"a":"40.353542","cty":"BUCKS","id":8833928,"mun":"WEST ROCKHILL TWP","nc":7,"o":"-75.344521"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.93828,40.8485],"type":"Point"},"properties":{"a":"40.8485","cty":"SNYDER","hp":true,"id":8834002,"mun":"JACKSON TWP","nc":49,"ne":{"a":"40.8558","o":"-76.92513"},"o":"-76.93828","sw":{"a":"40.84119","o":"-76.95143"}},"type":"Feature"},
@@ -8,8 +7,8 @@
 {"geometry":{"coordinates":[-76.2411,40.588173],"type":"Point"},"properties":{"a":"40.588173","cty":"SCHUYLKILL","id":8834083,"mun":"WAYNE TWP","nc":1,"o":"-76.2411"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.40752,41.11166],"type":"Point"},"properties":{"a":"41.11166","cty":"MONROE","hp":true,"id":8834085,"mun":"TOBYHANNA TWP","nc":84,"ne":{"a":"41.11363","o":"-75.40278"},"o":"-75.40752","sw":{"a":"41.1097","o":"-75.41226"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.51477,40.5597],"type":"Point"},"properties":{"a":"40.5597","cty":"LEHIGH","hp":true,"id":8834095,"mun":"NA","nc":32,"ne":{"a":"40.56219","o":"-75.51136"},"o":"-75.51477","sw":{"a":"40.55722","o":"-75.51819"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.801934,40.27317],"type":"Point"},"properties":{"a":"40.27317","cty":"DAUPHIN","id":8834104,"mun":"LOWER PAXTON TWP","nc":3,"o":"-76.801934"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.783789,41.16223],"type":"Point"},"properties":{"a":"41.16223","cty":"NORTHUMBERLAND","id":8834106,"mun":"LEWIS TWP","nc":1,"o":"-76.783789"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.831794,40.271847],"type":"Point"},"properties":{"a":"40.271847","cty":"DAUPHIN","id":8834110,"mun":"SUSQUEHANNA TWP","nc":1,"o":"-76.831794"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.1527,41.74825],"type":"Point"},"properties":{"a":"41.74825","cty":"WAYNE","hp":true,"id":8834111,"mun":"DAMASCUS TWP","nc":10,"ne":{"a":"41.74914","o":"-75.15038"},"o":"-75.1527","sw":{"a":"41.74736","o":"-75.15503"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.1527,41.74825],"type":"Point"},"properties":{"a":"41.74825","cty":"WAYNE","hp":true,"id":8834111,"mun":"DAMASCUS TWP","nc":10,"ne":{"a":"41.74914","o":"-75.15038"},"o":"-75.1527","sw":{"a":"41.74736","o":"-75.15503"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.387652,40.605233],"type":"Point"},"properties":{"a":"40.605233","cty":"NORTHAMPTON","id":8834120,"mun":"BETHLEHEM","nc":1,"o":"-75.387652"},"type":"Feature"}
 ]}

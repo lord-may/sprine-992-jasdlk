@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.434662,43.216808],"type":"Point"},"properties":{"EstRest":"11/4/2026 6:30:00 PM","Outages":107,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":107,"hamlet":"WEBSTER","incidentnumber":"011A6O","incidents":1,"level":"street","opco":"RGE","street":"KITTLEBERGER PK","town":"WEBSTER V WEBSTER"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.438106,43.21699],"type":"Point"},"properties":{"EstRest":"11/4/2026 6:30:00 PM","Outages":540,"county":"MONROE","customers":303529,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
+
 ]}
