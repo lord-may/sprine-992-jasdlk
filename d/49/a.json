@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-76.074425,38.771637],"type":"Point"},"properties":{"dateReceived":"2026-11-04T11:10:00.000Z","id":876813,"latitude":38.771637,"longitude":-76.0744247,"neighborhood":"Easton","problemName":"No Electric","serviceName":"Electric"},"type":"Feature"}
 ]}
