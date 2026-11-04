@@ -1,5 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.393943,41.828306],"type":"Point"},"properties":{"a":"41.828306","cty":"PROVIDENCE","id":20261069811,"mun":"PROVIDENCE","nc":40,"o":"-71.393943"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.655644,41.4453],"type":"Point"},"properties":{"a":"41.4453","cty":"WASHINGTON","id":20261069874,"mun":"CHARLESTOWN","nc":1,"o":"-71.655644"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.425015,41.837999],"type":"Point"},"properties":{"a":"41.837999","cty":"PROVIDENCE","id":20261069879,"mun":"PROVIDENCE","nc":1,"o":"-71.425015"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.425015,41.837999],"type":"Point"},"properties":{"a":"41.837999","cty":"PROVIDENCE","id":20261069879,"mun":"PROVIDENCE","nc":1,"o":"-71.425015"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.266906,41.730906],"type":"Point"},"properties":{"a":"41.730906","cty":"BRISTOL","id":20261069881,"mun":"WARREN","nc":5,"o":"-71.266906"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.392985,41.827843],"type":"Point"},"properties":{"a":"41.827843","cty":"PROVIDENCE","id":20261069882,"mun":"PROVIDENCE","nc":24,"o":"-71.392985"},"type":"Feature"}
 ]}
