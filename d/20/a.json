@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-77.486485,43.175401],"type":"Point"},"properties":{"EstRest":"11/4/2026 3:15:00 PM","Outages":5,"cause":"System Upgrade","county":"MONROE","crewstatus":"ONST ","customers":46,"hamlet":"PENFIELD","incidentnumber":"011A4V","incidents":1,"level":"street","opco":"RGE","street":"TIMBERLINE DR","town":"PENFIELD"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.486485,43.175401],"type":"Point"},"properties":{"EstRest":"11/4/2026 3:15:00 PM","Outages":5,"county":"MONROE","customers":303529,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
