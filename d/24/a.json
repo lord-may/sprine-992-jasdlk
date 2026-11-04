@@ -5,7 +5,6 @@
 {"geometry":{"coordinates":[-71.520963,41.99343],"type":"Point"},"properties":{"a":"41.99343","cty":"PROVIDENCE","id":20261069829,"mun":"WOONSOCKET","nc":26,"o":"-71.520963"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.182534,41.671758],"type":"Point"},"properties":{"a":"41.671758","cty":"NEWPORT","id":20261069846,"mun":"TIVERTON","nc":1,"o":"-71.182534"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.751104,41.715257],"type":"Point"},"properties":{"a":"41.715257","cty":"KENT","id":20261069849,"mun":"COVENTRY","nc":1,"o":"-71.751104"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.49112,41.809932],"type":"Point"},"properties":{"a":"41.809932","cty":"PROVIDENCE","id":20261069856,"mun":"JOHNSTON","nc":1,"o":"-71.49112"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.30084,41.49287],"type":"Point"},"properties":{"a":"41.49287","cty":"NEWPORT","hp":true,"id":20261069857,"mun":"NEWPORT","nc":22,"ne":{"a":"41.4937","o":"-71.30058"},"o":"-71.30084","sw":{"a":"41.49203","o":"-71.3011"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.371526,41.86546],"type":"Point"},"properties":{"a":"41.86546","cty":"PROVIDENCE","id":20261069859,"mun":"PAWTUCKET","nc":1,"o":"-71.371526"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.4474,41.699351],"type":"Point"},"properties":{"a":"41.699351","cty":"KENT","id":20261069860,"mun":"WARWICK","nc":1,"o":"-71.4474"},"type":"Feature"}
