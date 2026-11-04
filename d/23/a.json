@@ -8,5 +8,11 @@
 {"geometry":{"coordinates":[-75.298966,40.66821],"type":"Point"},"properties":{"a":"40.66821","cty":"NORTHAMPTON","id":8833771,"mun":"BETHLEHEM TWP","nc":9,"o":"-75.298966"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.32953,40.135381],"type":"Point"},"properties":{"a":"40.135381","cty":"CUMBERLAND","id":8833772,"mun":"PENN TWP","nc":2,"o":"-77.32953"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.060662,40.978825],"type":"Point"},"properties":{"a":"40.978825","cty":"UNION","id":8833773,"mun":"WEST BUFFALO TWP","nc":1,"o":"-77.060662"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.267779,40.278962],"type":"Point"},"properties":{"a":"40.278962","cty":"LEBANON","id":8833774,"mun":"HEIDELBERG TWP","nc":1,"o":"-76.267779"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.267779,40.278962],"type":"Point"},"properties":{"a":"40.278962","cty":"LEBANON","id":8833774,"mun":"HEIDELBERG TWP","nc":1,"o":"-76.267779"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.326137,39.869638],"type":"Point"},"properties":{"a":"39.869638","cty":"LANCASTER","id":8833780,"mun":"MARTIC TWP","nc":3,"o":"-76.326137"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.802792,40.271931],"type":"Point"},"properties":{"a":"40.271931","cty":"DAUPHIN","id":8833782,"mun":"LOWER PAXTON TWP","nc":5,"o":"-76.802792"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.249196,41.42802],"type":"Point"},"properties":{"a":"41.42802","cty":"WAYNE","id":8833784,"mun":"PAUPACK TWP","nc":3,"o":"-75.249196"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.454452,39.974857],"type":"Point"},"properties":{"a":"39.974857","cty":"LANCASTER","id":8833786,"mun":"MANOR TWP","nc":3,"o":"-76.454452"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.78326,40.24893],"type":"Point"},"properties":{"a":"40.24893","cty":"DAUPHIN","hp":true,"id":8833788,"mun":"LOWER SWATARA TWP","nc":698,"ne":{"a":"40.25503","o":"-76.77297"},"o":"-76.78326","sw":{"a":"40.24282","o":"-76.79354"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.481956,40.625889],"type":"Point"},"properties":{"a":"40.625889","cty":"LEHIGH","id":8833789,"mun":"WHITEHALL TWP","nc":1,"o":"-75.481956"},"type":"Feature"}
 ]}
