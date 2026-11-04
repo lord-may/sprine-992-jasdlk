@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-78.658121,42.744199],"type":"Point"},"properties":{"EstRest":"11/4/2026 7:25:00 AM","Outages":53,"cause":"","county":"ERIE","crewstatus":"DISP ","customers":57,"hamlet":"EAST AURORA","incidentnumber":"0119ZV","incidents":1,"level":"street","opco":"NYSEG","street":"LUTHER RD","town":"AURORA T"},"type":"Feature"},
 {"geometry":{"coordinates":[-78.679822,42.734111],"type":"Point"},"properties":{"EstRest":"11/4/2026 7:25:00 AM","Outages":90,"county":"ERIE","customers":157708,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.797509,42.337741],"type":"Point"},"properties":{"EstRest":"11/4/2026 7:15:00 AM","Outages":1,"cause":"","county":"SCHUYLER","crewstatus":"DISP ","customers":1,"hamlet":"ODESSA","incidentnumber":"0119ZX","incidents":1,"level":"street","opco":"NYSEG","street":"COTTON-HANLON RD","town":"MONTOUR T"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.828414,42.338061],"type":"Point"},"properties":{"EstRest":"11/4/2026 7:15:00 AM","Outages":122,"county":"SCHUYLER","customers":10031,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.792598,42.335559],"type":"Point"},"properties":{"EstRest":"11/4/2026 7:15:00 AM","Outages":122,"county":"SCHUYLER","customers":10031,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.796307,42.333861],"type":"Point"},"properties":{"EstRest":"11/4/2026 7:15:00 AM","Outages":12,"cause":"","county":"SCHUYLER","crewstatus":"DISP ","customers":12,"hamlet":"ODESSA","incidentnumber":"0119ZX","incidents":1,"level":"street","opco":"NYSEG","street":"HANLON DR","town":"ODESSA V"},"type":"Feature"}
 ]}
