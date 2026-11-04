@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.409767,43.01381],"type":"Point"},"properties":{"EstRest":"11/4/2026 5:45:00 AM","Outages":63,"county":"ONTARIO","customers":35928,"incidents":2,"level":"county","opco":"RGE"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.404399,43.013949],"type":"Point"},"properties":{"EstRest":"11/4/2026 5:45:00 AM","Outages":1,"cause":"","county":"ONTARIO","crewstatus":"DISP ","customers":23,"hamlet":"VICTOR","incidentnumber":"0119ZL","incidents":1,"level":"street","opco":"RGE","street":"BEACH FLINT WAY","town":"VICTOR"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.404399,43.013949],"type":"Point"},"properties":{"EstRest":"11/4/2026 5:45:00 AM","Outages":1,"county":"ONTARIO","customers":35928,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}

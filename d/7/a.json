@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-70.87855,42.81363],[-70.87811,42.81401],[-70.87776,42.81437],[-70.87792,42.81445],[-70.87839,42.81402],[-70.87862,42.81378],[-70.87855,42.81363]]],"type":"Polygon"},{"coordinates":[-70.87821,42.81406],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"Maintenance","ES-ES":"Mantenimiento","orig":"Construction by Company"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Assigned","ES-ES":"Asignado","orig":"Assigned"},"cust_a":{"val":20},"etr":"2026-11-04T09:45:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-11-04T07:40:56Z","title":"Area Outage","town":"Newburyport"},"type":"Feature"}
+
 ]}
