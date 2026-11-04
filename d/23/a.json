@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.42516,40.98815],"type":"Point"},"properties":{"a":"40.98815","cty":"MONROE","hp":true,"id":8833733,"mun":"CHESTNUT HILL TWP","nc":27,"ne":{"a":"40.98931","o":"-75.42106"},"o":"-75.42516","sw":{"a":"40.98699","o":"-75.42926"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.42298,40.98815],"type":"Point"},"properties":{"a":"40.98815","cty":"MONROE","hp":true,"id":8833733,"mun":"CHESTNUT HILL TWP","nc":11,"ne":{"a":"40.98931","o":"-75.42106"},"o":"-75.42298","sw":{"a":"40.98699","o":"-75.4249"}},"type":"Feature"}
 ]}
