@@ -5,6 +5,5 @@
 {"geometry":{"coordinates":[-75.51477,40.5597],"type":"Point"},"properties":{"a":"40.5597","cty":"LEHIGH","hp":true,"id":8834095,"mun":"NA","nc":32,"ne":{"a":"40.56219","o":"-75.51136"},"o":"-75.51477","sw":{"a":"40.55722","o":"-75.51819"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.783789,41.16223],"type":"Point"},"properties":{"a":"41.16223","cty":"NORTHUMBERLAND","id":8834106,"mun":"LEWIS TWP","nc":1,"o":"-76.783789"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.831794,40.271847],"type":"Point"},"properties":{"a":"40.271847","cty":"DAUPHIN","id":8834110,"mun":"SUSQUEHANNA TWP","nc":1,"o":"-76.831794"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.431286,40.085591],"type":"Point"},"properties":{"a":"40.085591","cty":"LANCASTER","id":8834121,"mun":"WEST HEMPFIELD TWP","nc":1,"o":"-76.431286"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.80193,40.31885],"type":"Point"},"properties":{"a":"40.31885","cty":"DAUPHIN","hp":true,"id":8834126,"mun":"LOWER PAXTON TWP","nc":99,"ne":{"a":"40.31979","o":"-76.80096"},"o":"-76.80193","sw":{"a":"40.31791","o":"-76.8029"}},"type":"Feature"}
 ]}

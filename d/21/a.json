@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-70.181146,44.596095],"type":"Point"},"properties":{"EstRest":"11/4/2026 7:15:00 PM","Outages":37,"county":"FRANKLIN","customers":24700,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.193624,44.59666],"type":"Point"},"properties":{"EstRest":"11/4/2026 7:15:00 PM","Outages":21,"cause":"","county":"FRANKLIN","crewstatus":"ENRT ","customers":40,"hamlet":"WILTON","incidentnumber":"00460N","incidents":1,"level":"street","opco":"CMP","street":"MUNSON RD","town":"WILTON"},"type":"Feature"}
 ]}
