@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.283884,41.729588],"type":"Point"},"properties":{"a":"41.729588","cty":"BRISTOL","id":20261070078,"mun":"WARREN","nc":1,"o":"-71.283884"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.52454,41.40016],"type":"Point"},"properties":{"a":"41.40016","cty":"WASHINGTON","hp":true,"id":20261070096,"mun":"SOUTH KINGSTOWN","nc":772,"ne":{"a":"41.42529","o":"-71.50852"},"o":"-71.52454","sw":{"a":"41.37503","o":"-71.54055"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.545202,41.417656],"type":"Point"},"properties":{"a":"41.417656","cty":"WASHINGTON","id":20261070170,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.545202"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.499841,41.393284],"type":"Point"},"properties":{"a":"41.393284","cty":"WASHINGTON","id":20261070171,"mun":"NARRAGANSETT","nc":1,"o":"-71.499841"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.548897,41.380543],"type":"Point"},"properties":{"a":"41.380543","cty":"WASHINGTON","id":20261070173,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.548897"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.513756,41.402019],"type":"Point"},"properties":{"a":"41.402019","cty":"WASHINGTON","id":20261070175,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.513756"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.522959,41.404768],"type":"Point"},"properties":{"a":"41.404768","cty":"WASHINGTON","id":20261070176,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.522959"},"type":"Feature"}
 ]}
