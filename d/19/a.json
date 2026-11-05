@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-74.306403,42.386723],"type":"Point"},"properties":{"EstRest":"11/5/2026 12:00:00 AM","Outages":33,"county":"SCHOHARIE","customers":2256,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-74.312155,42.388338],"type":"Point"},"properties":{"EstRest":"11/5/2026 12:00:00 AM","Outages":13,"cause":"","county":"SCHOHARIE","crewstatus":"     ","customers":28,"hamlet":"GILBOA","incidentnumber":"011A8O","incidents":1,"level":"street","opco":"NYSEG","street":"DURHAM RD","town":"CONESVILLE T"},"type":"Feature"}
 ]}
