@@ -1,10 +1,11 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.424901,41.693712],"type":"Point"},"properties":{"a":"41.693712","cty":"KENT","id":20261069992,"mun":"WARWICK","nc":1,"o":"-71.424901"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.486513,41.549798],"type":"Point"},"properties":{"a":"41.549798","cty":"WASHINGTON","id":20261069995,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.486513"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.315042,41.49325],"type":"Point"},"properties":{"a":"41.49325","cty":"NEWPORT","id":20261070010,"mun":"NEWPORT","nc":30,"o":"-71.315042"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.312064,41.495321],"type":"Point"},"properties":{"a":"41.495321","cty":"NEWPORT","id":20261070032,"mun":"NEWPORT","nc":15,"o":"-71.312064"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.184549,41.664879],"type":"Point"},"properties":{"a":"41.664879","cty":"NEWPORT","id":20261070034,"mun":"TIVERTON","nc":1,"o":"-71.184549"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.663969,41.5304],"type":"Point"},"properties":{"a":"41.5304","cty":"WASHINGTON","id":20261070042,"mun":"RICHMOND","nc":1,"o":"-71.663969"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.366385,41.802309],"type":"Point"},"properties":{"a":"41.802309","cty":"PROVIDENCE","id":20261070043,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.366385"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.512894,41.998923],"type":"Point"},"properties":{"a":"41.998923","cty":"PROVIDENCE","id":20261070044,"mun":"WOONSOCKET","nc":1,"o":"-71.512894"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.512894,41.998923],"type":"Point"},"properties":{"a":"41.998923","cty":"PROVIDENCE","id":20261070044,"mun":"WOONSOCKET","nc":1,"o":"-71.512894"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.59701,41.92505],"type":"Point"},"properties":{"a":"41.92505","cty":"PROVIDENCE","hp":true,"id":20261070049,"mun":"GLOCESTER","nc":39,"ne":{"a":"41.93321","o":"-71.58082"},"o":"-71.59701","sw":{"a":"41.91689","o":"-71.6132"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.632387,41.986538],"type":"Point"},"properties":{"a":"41.986538","cty":"PROVIDENCE","id":20261070052,"mun":"BURRILLVILLE","nc":1,"o":"-71.632387"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.42796,41.823071],"type":"Point"},"properties":{"a":"41.823071","cty":"PROVIDENCE","id":20261070055,"mun":"PROVIDENCE","nc":1,"o":"-71.42796"},"type":"Feature"}
 ]}
