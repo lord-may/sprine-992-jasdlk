@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-70.578765,43.937076],"type":"Point"},"properties":{"EstRest":"11/5/2026 3:15:00 PM","Outages":9,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.578809,43.937288],"type":"Point"},"properties":{"EstRest":"11/5/2026 3:15:00 PM","Outages":2,"cause":"","county":"CUMBERLAND","crewstatus":"ACKN ","customers":9,"hamlet":"NAPLES","incidentnumber":"004638","incidents":1,"level":"street","opco":"CMP","street":"TRAILS END","town":"NAPLES"},"type":"Feature"},
-{"geometry":{"coordinates":[0,0],"type":"Point"},"properties":{"EstRest":"11/5/2026 2:15:00 PM","Outages":1,"cause":"","county":"OXFORD","crewstatus":"ENRT ","customers":19,"hamlet":"RUMFORD","incidentnumber":"00462V","incidents":1,"level":"street","opco":"CMP","street":"BELIVEAU RD","town":"RUMFORD"},"type":"Feature"},
-{"geometry":{"coordinates":[0,0],"type":"Point"},"properties":{"EstRest":"11/5/2026 2:15:00 PM","Outages":1,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[0,0],"type":"Point"},"properties":{"EstRest":"11/5/2026 3:00:00 PM","Outages":1,"cause":"","county":"OXFORD","crewstatus":"ENRT ","customers":19,"hamlet":"RUMFORD","incidentnumber":"00462V","incidents":1,"level":"street","opco":"CMP","street":"BELIVEAU RD","town":"RUMFORD"},"type":"Feature"},
+{"geometry":{"coordinates":[0,0],"type":"Point"},"properties":{"EstRest":"11/5/2026 3:00:00 PM","Outages":1,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
