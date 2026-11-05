@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.521913,41.995064],"type":"Point"},"properties":{"a":"41.995064","cty":"PROVIDENCE","id":20261069931,"mun":"WOONSOCKET","nc":1,"o":"-71.521913"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.472911,41.997169],"type":"Point"},"properties":{"a":"41.997169","cty":"PROVIDENCE","id":20261069938,"mun":"WOONSOCKET","nc":1,"o":"-71.472911"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.685912,41.374341],"type":"Point"},"properties":{"a":"41.374341","cty":"WASHINGTON","id":20261069941,"mun":"CHARLESTOWN","nc":1,"o":"-71.685912"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.456949,41.424906],"type":"Point"},"properties":{"a":"41.424906","cty":"WASHINGTON","id":20261069961,"mun":"NARRAGANSETT","nc":1,"o":"-71.456949"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.721941,41.45917],"type":"Point"},"properties":{"a":"41.45917","cty":"WASHINGTON","id":20261069964,"mun":"HOPKINTON","nc":1,"o":"-71.721941"},"type":"Feature"},
@@ -19,5 +18,7 @@
 {"geometry":{"coordinates":[-71.699387,41.537766],"type":"Point"},"properties":{"a":"41.537766","cty":"WASHINGTON","id":20261069993,"mun":"HOPKINTON","nc":1,"o":"-71.699387"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.470348,41.82515],"type":"Point"},"properties":{"a":"41.82515","cty":"PROVIDENCE","id":20261069994,"mun":"JOHNSTON","nc":1,"o":"-71.470348"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.486513,41.549798],"type":"Point"},"properties":{"a":"41.549798","cty":"WASHINGTON","id":20261069995,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.486513"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.399819,41.852531],"type":"Point"},"properties":{"a":"41.852531","cty":"PROVIDENCE","id":20261069996,"mun":"PROVIDENCE","nc":1,"o":"-71.399819"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.429345,41.772445],"type":"Point"},"properties":{"a":"41.772445","cty":"PROVIDENCE","id":20261069997,"mun":"CRANSTON","nc":1,"o":"-71.429345"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.246731,41.608818],"type":"Point"},"properties":{"a":"41.608818","cty":"NEWPORT","id":20261069998,"mun":"PORTSMOUTH","nc":1,"o":"-71.246731"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.533622,41.902741],"type":"Point"},"properties":{"a":"41.902741","cty":"PROVIDENCE","id":20261069999,"mun":"SMITHFIELD","nc":2,"o":"-71.533622"},"type":"Feature"}
 ]}

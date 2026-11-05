@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.911501,40.094786],"type":"Point"},"properties":{"a":"40.094786","cty":"CHESTER","id":8834184,"mun":"HONEYBROOK TWP","nc":17,"o":"-75.911501"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.624505,41.501231],"type":"Point"},"properties":{"a":"41.501231","cty":"LACKAWANNA","id":8834188,"mun":"SCOTT TWP","nc":2,"o":"-75.624505"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.65839,40.251159],"type":"Point"},"properties":{"a":"40.251159","cty":"DAUPHIN","id":8834250,"mun":"DERRY TWP","nc":1,"o":"-76.65839"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.323535,40.133372],"type":"Point"},"properties":{"a":"40.133372","cty":"CUMBERLAND","id":8834258,"mun":"PENN TWP","nc":2,"o":"-77.323535"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.008413,40.326671],"type":"Point"},"properties":{"a":"40.326671","cty":"BERKS","id":8834262,"mun":"SPRING TWP","nc":6,"o":"-76.008413"},"type":"Feature"},
@@ -9,9 +8,12 @@
 {"geometry":{"coordinates":[-76.142016,40.59262],"type":"Point"},"properties":{"a":"40.59262","cty":"SCHUYLKILL","id":8834289,"mun":"SOUTH MANHEIM TWP","nc":1,"o":"-76.142016"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.801283,40.30531],"type":"Point"},"properties":{"a":"40.30531","cty":"DAUPHIN","id":8834292,"mun":"LOWER PAXTON TWP","nc":1,"o":"-76.801283"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.52217,39.97642],"type":"Point"},"properties":{"a":"39.97642","cty":"YORK","hp":true,"id":8834293,"mun":"LOWER WINDSOR TWP","nc":9,"ne":{"a":"39.9786","o":"-76.52111"},"o":"-76.52217","sw":{"a":"39.97423","o":"-76.52322"}},"type":"Feature"},
-{"geometry":{"coordinates":[-77.36955,40.38793],"type":"Point"},"properties":{"a":"40.38793","cty":"PERRY","hp":true,"id":8834294,"mun":"SAVILLE TWP","nc":30,"ne":{"a":"40.39333","o":"-77.36082"},"o":"-77.36955","sw":{"a":"40.38254","o":"-77.37829"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.855376,40.30848],"type":"Point"},"properties":{"a":"40.30848","cty":"DAUPHIN","id":8834296,"mun":"SUSQUEHANNA TWP","nc":6,"o":"-76.855376"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.810486,40.601573],"type":"Point"},"properties":{"a":"40.601573","cty":"DAUPHIN","id":8834297,"mun":"MIFFLIN TWP","nc":10,"o":"-76.810486"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.36296,40.393305],"type":"Point"},"properties":{"a":"40.393305","cty":"PERRY","id":8834294,"mun":"SAVILLE TWP","nc":1,"o":"-77.36296"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.701199,41.494831],"type":"Point"},"properties":{"a":"41.494831","cty":"LACKAWANNA","id":8834298,"mun":"CLARKS SUMMIT BORO","nc":26,"o":"-75.701199"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.684721,41.551292],"type":"Point"},"properties":{"a":"41.551292","cty":"LACKAWANNA","id":8834302,"mun":"NORTH ABINGTON TWP","nc":11,"o":"-75.684721"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.326724,39.870323],"type":"Point"},"properties":{"a":"39.870323","cty":"LANCASTER","id":8834307,"mun":"MARTIC TWP","nc":2,"o":"-76.326724"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.453359,40.691702],"type":"Point"},"properties":{"a":"40.691702","cty":"NORTHAMPTON","id":8834308,"mun":"EAST ALLEN TWP","nc":4,"o":"-75.453359"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.855376,40.30848],"type":"Point"},"properties":{"a":"40.30848","cty":"DAUPHIN","id":8834312,"mun":"SUSQUEHANNA TWP","nc":6,"o":"-76.855376"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.006666,41.246131],"type":"Point"},"properties":{"a":"41.246131","cty":"LYCOMING","id":8834313,"mun":"WILLIAMSPORT","nc":15,"o":"-77.006666"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.661811,41.396786],"type":"Point"},"properties":{"a":"41.396786","cty":"LACKAWANNA","id":8834314,"mun":"SCRANTON","nc":1,"o":"-75.661811"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.086725,40.625963],"type":"Point"},"properties":{"a":"40.625963","cty":"SCHUYLKILL","id":8834315,"mun":"WEST BRUNSWICK TWP","nc":1,"o":"-76.086725"},"type":"Feature"}
 ]}
