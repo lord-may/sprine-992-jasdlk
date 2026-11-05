@@ -2,5 +2,6 @@
 {"geometry":{"coordinates":[-76.7768,40.81668],"type":"Point"},"properties":{"a":"40.81668","cty":"NORTHUMBERLAND","hp":true,"id":8834501,"mun":"LOWER AUGUSTA TWP","nc":30,"ne":{"a":"40.82036","o":"-76.76779"},"o":"-76.7768","sw":{"a":"40.813","o":"-76.78582"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.940355,40.288849],"type":"Point"},"properties":{"a":"40.288849","cty":"CUMBERLAND","id":8834521,"mun":"EAST PENNSBORO TWP","nc":2,"o":"-76.940355"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.502801,40.680394],"type":"Point"},"properties":{"a":"40.680394","cty":"LEHIGH","id":8834528,"mun":"WHITEHALL TWP","nc":17,"o":"-75.502801"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.159819,40.567026],"type":"Point"},"properties":{"a":"40.567026","cty":"PERRY","id":8834531,"mun":"GREENWOOD TWP","nc":1,"o":"-77.159819"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.159819,40.567026],"type":"Point"},"properties":{"a":"40.567026","cty":"PERRY","id":8834531,"mun":"GREENWOOD TWP","nc":1,"o":"-77.159819"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.089713,40.342389],"type":"Point"},"properties":{"a":"40.342389","cty":"BERKS","id":8834536,"mun":"LOWER HEIDELBERG TWP","nc":4,"o":"-76.089713"},"type":"Feature"}
 ]}

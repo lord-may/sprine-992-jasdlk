@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.538479,41.37731],"type":"Point"},"properties":{"a":"41.37731","cty":"WASHINGTON","id":20261070182,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.538479"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.538479,41.37731],"type":"Point"},"properties":{"a":"41.37731","cty":"WASHINGTON","id":20261070182,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.538479"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.301645,41.503389],"type":"Point"},"properties":{"a":"41.503389","cty":"NEWPORT","id":20261070183,"mun":"NEWPORT","nc":1,"o":"-71.301645"},"type":"Feature"}
 ]}
