@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.323038,41.086807],"type":"Point"},"properties":{"a":"41.086807","cty":"MONROE","id":8834494,"mun":"POCONO TWP","nc":2,"o":"-75.323038"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.7768,40.81668],"type":"Point"},"properties":{"a":"40.81668","cty":"NORTHUMBERLAND","hp":true,"id":8834501,"mun":"LOWER AUGUSTA TWP","nc":30,"ne":{"a":"40.82036","o":"-76.76779"},"o":"-76.7768","sw":{"a":"40.813","o":"-76.78582"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.520717,40.9662],"type":"Point"},"properties":{"a":"40.9662","cty":"MONROE","id":8834507,"mun":"POLK TWP","nc":3,"o":"-75.520717"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.500634,40.033836],"type":"Point"},"properties":{"a":"40.033836","cty":"LANCASTER","id":8834509,"mun":"COLUMBIA BORO","nc":1,"o":"-76.500634"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.7768,40.81668],"type":"Point"},"properties":{"a":"40.81668","cty":"NORTHUMBERLAND","hp":true,"id":8834501,"mun":"LOWER AUGUSTA TWP","nc":30,"ne":{"a":"40.82036","o":"-76.76779"},"o":"-76.7768","sw":{"a":"40.813","o":"-76.78582"}},"type":"Feature"}
 ]}
