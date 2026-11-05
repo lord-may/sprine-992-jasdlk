@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-73.84436,40.75854],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"DSP","cust_a":{"val":1},"etr":"2026-11-05T12:00:00-0500","outages":null,"reported_problem":"No Lights","title":"Outage Information"},"type":"Feature"}
 ]}
