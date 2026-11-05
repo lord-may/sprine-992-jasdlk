@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.202146,40.815903],"type":"Point"},"properties":{"a":"40.815903","cty":"SCHUYLKILL","id":8834176,"mun":"SHENANDOAH BORO","nc":15,"o":"-76.202146"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.202146,40.815903],"type":"Point"},"properties":{"a":"40.815903","cty":"SCHUYLKILL","id":8834176,"mun":"SHENANDOAH BORO","nc":15,"o":"-76.202146"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.911501,40.094786],"type":"Point"},"properties":{"a":"40.094786","cty":"CHESTER","id":8834184,"mun":"HONEYBROOK TWP","nc":17,"o":"-75.911501"},"type":"Feature"}
 ]}
