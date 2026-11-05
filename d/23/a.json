@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.51477,40.5597],"type":"Point"},"properties":{"a":"40.5597","cty":"LEHIGH","hp":true,"id":8834095,"mun":"NA","nc":32,"ne":{"a":"40.56219","o":"-75.51136"},"o":"-75.51477","sw":{"a":"40.55722","o":"-75.51819"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.831794,40.271847],"type":"Point"},"properties":{"a":"40.271847","cty":"DAUPHIN","id":8834110,"mun":"SUSQUEHANNA TWP","nc":1,"o":"-76.831794"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.539752,40.046308],"type":"Point"},"properties":{"a":"40.046308","cty":"YORK","id":8834134,"mun":"HELLAM TWP","nc":1,"o":"-76.539752"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.25849,41.204632],"type":"Point"},"properties":{"a":"41.204632","cty":"LYCOMING","id":8834141,"mun":"JERSEY SHORE BORO","nc":7,"o":"-77.25849"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.25849,41.204632],"type":"Point"},"properties":{"a":"41.204632","cty":"LYCOMING","id":8834141,"mun":"JERSEY SHORE BORO","nc":7,"o":"-77.25849"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.5382,41.139979],"type":"Point"},"properties":{"a":"41.139979","cty":"MONROE","id":8834151,"mun":"TOBYHANNA TWP","nc":3,"o":"-75.5382"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.215131,40.800232],"type":"Point"},"properties":{"a":"40.800232","cty":"NORTHAMPTON","id":8834152,"mun":"LOWER MOUNT BETHEL TWP","nc":1,"o":"-75.215131"},"type":"Feature"}
 ]}
