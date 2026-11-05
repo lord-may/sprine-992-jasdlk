@@ -9,5 +9,7 @@
 {"geometry":{"coordinates":[-71.488688,41.38776],"type":"Point"},"properties":{"a":"41.38776","cty":"WASHINGTON","id":20261069966,"mun":"NARRAGANSETT","nc":1,"o":"-71.488688"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.475715,41.75505],"type":"Point"},"properties":{"a":"41.75505","cty":"PROVIDENCE","id":20261069969,"mun":"CRANSTON","nc":1,"o":"-71.475715"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.527628,41.992938],"type":"Point"},"properties":{"a":"41.992938","cty":"PROVIDENCE","id":20261069972,"mun":"WOONSOCKET","nc":1,"o":"-71.527628"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.387798,41.828279],"type":"Point"},"properties":{"a":"41.828279","cty":"PROVIDENCE","id":20261069976,"mun":"PROVIDENCE","nc":1,"o":"-71.387798"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.387798,41.828279],"type":"Point"},"properties":{"a":"41.828279","cty":"PROVIDENCE","id":20261069976,"mun":"PROVIDENCE","nc":1,"o":"-71.387798"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.6689,41.63955],"type":"Point"},"properties":{"a":"41.63955","cty":"KENT","id":20261069977,"mun":"WEST GREENWICH","nc":3,"o":"-71.6689"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.494968,41.749888],"type":"Point"},"properties":{"a":"41.749888","cty":"PROVIDENCE","id":20261069979,"mun":"CRANSTON","nc":1,"o":"-71.494968"},"type":"Feature"}
 ]}

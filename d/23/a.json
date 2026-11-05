@@ -3,15 +3,13 @@
 {"geometry":{"coordinates":[-75.624505,41.501231],"type":"Point"},"properties":{"a":"41.501231","cty":"LACKAWANNA","id":8834188,"mun":"SCOTT TWP","nc":2,"o":"-75.624505"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.999653,40.329141],"type":"Point"},"properties":{"a":"40.329141","cty":"BERKS","id":8834191,"mun":"SPRING TWP","nc":9,"o":"-75.999653"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.0619,41.29614],"type":"Point"},"properties":{"a":"41.29614","cty":"PIKE","hp":true,"id":8834199,"mun":"BLOOMING GROVE TWP","nc":30,"ne":{"a":"41.2974","o":"-75.06012"},"o":"-75.0619","sw":{"a":"41.29488","o":"-75.06368"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.70026,40.79615],"type":"Point"},"properties":{"a":"40.79615","cty":"NORTHUMBERLAND","hp":true,"id":8834201,"mun":"ROCKEFELLER TWP","nc":24,"ne":{"a":"40.79967","o":"-76.68775"},"o":"-76.70026","sw":{"a":"40.79263","o":"-76.71277"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.425786,40.839899],"type":"Point"},"properties":{"a":"40.839899","cty":"COLUMBIA","id":8834208,"mun":"CLEVELAND TWP","nc":3,"o":"-76.425786"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.81025,40.834569],"type":"Point"},"properties":{"a":"40.834569","cty":"NORTHUMBERLAND","id":8834210,"mun":"UPPER AUGUSTA TWP","nc":1,"o":"-76.81025"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.568841,41.364265],"type":"Point"},"properties":{"a":"41.364265","cty":"LACKAWANNA","id":8834230,"mun":"ROARING BROOK TWP","nc":2,"o":"-75.568841"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.34443,41.61609],"type":"Point"},"properties":{"a":"41.61609","cty":"WAYNE","hp":true,"id":8834234,"mun":"CLINTON TWP","nc":42,"ne":{"a":"41.63021","o":"-75.33948"},"o":"-75.34443","sw":{"a":"41.60197","o":"-75.34938"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.496589,41.090261],"type":"Point"},"properties":{"a":"41.090261","cty":"COLUMBIA","id":8834239,"mun":"MOUNT PLEASANT TWP","nc":1,"o":"-76.496589"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.152448,41.658827],"type":"Point"},"properties":{"a":"41.658827","cty":"WAYNE","id":8834242,"mun":"DAMASCUS TWP","nc":1,"o":"-75.152448"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.65839,40.251159],"type":"Point"},"properties":{"a":"40.251159","cty":"DAUPHIN","id":8834250,"mun":"DERRY TWP","nc":1,"o":"-76.65839"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.323535,40.133372],"type":"Point"},"properties":{"a":"40.133372","cty":"CUMBERLAND","id":8834258,"mun":"PENN TWP","nc":2,"o":"-77.323535"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.008413,40.326671],"type":"Point"},"properties":{"a":"40.326671","cty":"BERKS","id":8834262,"mun":"SPRING TWP","nc":6,"o":"-76.008413"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.319465,40.570377],"type":"Point"},"properties":{"a":"40.570377","cty":"NORTHAMPTON","id":8834271,"mun":"LOWER SAUCON TWP","nc":1,"o":"-75.319465"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.319465,40.570377],"type":"Point"},"properties":{"a":"40.570377","cty":"NORTHAMPTON","id":8834271,"mun":"LOWER SAUCON TWP","nc":1,"o":"-75.319465"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.33415,40.58495],"type":"Point"},"properties":{"a":"40.58495","cty":"NORTHAMPTON","hp":true,"id":8834277,"mun":"HELLERTOWN BORO","nc":17,"ne":{"a":"40.58625","o":"-75.33369"},"o":"-75.33415","sw":{"a":"40.58365","o":"-75.33462"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.403994,40.084095],"type":"Point"},"properties":{"a":"40.084095","cty":"LANCASTER","id":8834280,"mun":"EAST HEMPFIELD TWP","nc":2,"o":"-76.403994"},"type":"Feature"}
 ]}
