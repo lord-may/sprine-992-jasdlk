@@ -1,8 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.993331,42.094439],"type":"Point"},"properties":{"EstRest":"11/5/2026 1:10:00 PM","Outages":13,"cause":"","county":"BROOME","crewstatus":"ONST ","customers":18,"hamlet":"VESTAL","incidentnumber":"011AD1","incidents":1,"level":"street","opco":"NYSEG","street":"CHALBURN RD","town":"VESTAL T"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.994047,42.09555],"type":"Point"},"properties":{"EstRest":"11/5/2026 1:10:00 PM","Outages":14,"county":"BROOME","customers":91450,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.571755,42.207784],"type":"Point"},"properties":{"EstRest":"11/5/2026 3:00:00 PM","Outages":20,"county":"CHEMUNG","customers":39913,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.613329,44.191683],"type":"Point"},"properties":{"EstRest":"11/5/2026 2:00:00 PM","Outages":127,"county":"ESSEX","customers":10343,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.649038,44.128965],"type":"Point"},"properties":{"EstRest":"11/5/2026 2:00:00 PM","Outages":35,"cause":"","county":"ESSEX","crewstatus":"DISP ","customers":35,"hamlet":"NEW RUSSIA","incidentnumber":"011ADL","incidents":1,"level":"street","opco":"NYSEG","street":"US ROUTE 9","town":"ELIZABETHTO T"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.356427,42.071088],"type":"Point"},"properties":{"EstRest":"11/5/2026 3:30:00 PM","Outages":25,"county":"TIOGA","customers":20231,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}

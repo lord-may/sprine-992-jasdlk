@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.6689,41.63955],"type":"Point"},"properties":{"a":"41.63955","cty":"KENT","id":20261069977,"mun":"WEST GREENWICH","nc":3,"o":"-71.6689"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.424901,41.693712],"type":"Point"},"properties":{"a":"41.693712","cty":"KENT","id":20261069992,"mun":"WARWICK","nc":1,"o":"-71.424901"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.486513,41.549798],"type":"Point"},"properties":{"a":"41.549798","cty":"WASHINGTON","id":20261069995,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.486513"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.315042,41.49325],"type":"Point"},"properties":{"a":"41.49325","cty":"NEWPORT","id":20261070010,"mun":"NEWPORT","nc":30,"o":"-71.315042"},"type":"Feature"},
