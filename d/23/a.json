@@ -1,6 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.027773,41.224085],"type":"Point"},"properties":{"a":"41.224085","cty":"LYCOMING","id":8834375,"mun":"DUBOISTOWN BORO","nc":11,"o":"-77.027773"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.9929,40.343587],"type":"Point"},"properties":{"a":"40.343587","cty":"BERKS","id":8834454,"mun":"SPRING TWP","nc":4,"o":"-75.9929"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.104409,40.230937],"type":"Point"},"properties":{"a":"40.230937","cty":"CUMBERLAND","id":8834456,"mun":"SILVER SPRING TWP","nc":11,"o":"-77.104409"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.087265,40.460711],"type":"Point"},"properties":{"a":"40.460711","cty":"PERRY","id":8834458,"mun":"MILLER TWP","nc":9,"o":"-77.087265"},"type":"Feature"}
+
 ]}
