@@ -3,5 +3,6 @@
 {"geometry":{"coordinates":[-76.845298,41.015108],"type":"Point"},"properties":{"a":"41.015108","cty":"NORTHUMBERLAND","id":8834399,"mun":"MILTON BORO","nc":3,"o":"-76.845298"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.43091,40.56046],"type":"Point"},"properties":{"a":"40.56046","cty":"LEHIGH","hp":true,"id":8834407,"mun":"UPPER SAUCON TWP","nc":50,"ne":{"a":"40.5625","o":"-75.42722"},"o":"-75.43091","sw":{"a":"40.55842","o":"-75.43461"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.183512,41.422221],"type":"Point"},"properties":{"a":"41.422221","cty":"PIKE","id":8834416,"mun":"PALMYRA TWP","nc":5,"o":"-75.183512"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.10575,39.785717],"type":"Point"},"properties":{"a":"39.785717","cty":"LANCASTER","id":8834426,"mun":"LITTLE BRITAIN TWP","nc":1,"o":"-76.10575"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.009277,40.213371],"type":"Point"},"properties":{"a":"40.213371","cty":"CUMBERLAND","id":8834429,"mun":"MECHANICSBURG BORO","nc":1,"o":"-77.009277"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.821794,40.228844],"type":"Point"},"properties":{"a":"40.228844","cty":"DAUPHIN","id":8834432,"mun":"SWATARA TWP","nc":8,"o":"-76.821794"},"type":"Feature"}
 ]}
