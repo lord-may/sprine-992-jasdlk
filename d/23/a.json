@@ -1,7 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.10575,39.785717],"type":"Point"},"properties":{"a":"39.785717","cty":"LANCASTER","id":8834474,"mun":"LITTLE BRITAIN TWP","nc":1,"o":"-76.10575"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.797165,40.121951],"type":"Point"},"properties":{"a":"40.121951","cty":"CHESTER","id":8834475,"mun":"WEST NANTMEAL TWP","nc":4,"o":"-75.797165"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.789968,40.282955],"type":"Point"},"properties":{"a":"40.282955","cty":"DAUPHIN","id":8834482,"mun":"LOWER PAXTON TWP","nc":6,"o":"-76.789968"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.520717,40.9662],"type":"Point"},"properties":{"a":"40.9662","cty":"MONROE","id":8834483,"mun":"POLK TWP","nc":3,"o":"-75.520717"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.777347,40.815922],"type":"Point"},"properties":{"a":"40.815922","cty":"NORTHUMBERLAND","id":8834486,"mun":"LOWER AUGUSTA TWP","nc":1,"o":"-76.777347"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.323038,41.086807],"type":"Point"},"properties":{"a":"41.086807","cty":"MONROE","id":8834494,"mun":"POCONO TWP","nc":2,"o":"-75.323038"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.7768,40.81668],"type":"Point"},"properties":{"a":"40.81668","cty":"NORTHUMBERLAND","hp":true,"id":8834501,"mun":"LOWER AUGUSTA TWP","nc":30,"ne":{"a":"40.82036","o":"-76.76779"},"o":"-76.7768","sw":{"a":"40.813","o":"-76.78582"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.93637,40.28854],"type":"Point"},"properties":{"a":"40.28854","cty":"CUMBERLAND","hp":true,"id":8834503,"mun":"EAST PENNSBORO TWP","nc":124,"ne":{"a":"40.29131","o":"-76.93241"},"o":"-76.93637","sw":{"a":"40.28577","o":"-76.94034"}},"type":"Feature"}
 ]}
