@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.14921,42.365906],"type":"Point"},"properties":{"EstRest":"11/5/2026 4:00:00 AM","Outages":24,"county":"DELAWARE","customers":28318,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.153002,42.362499],"type":"Point"},"properties":{"EstRest":"11/5/2026 4:00:00 AM","Outages":9,"cause":"","county":"DELAWARE","crewstatus":"     ","customers":9,"hamlet":"FRANKLIN","incidentnumber":"011A94","incidents":1,"level":"street","opco":"NYSEG","street":"HENRY EDWARDS RD","town":"FRANKLIN T"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.153002,42.362499],"type":"Point"},"properties":{"EstRest":"11/5/2026 4:00:00 AM","Outages":9,"cause":"","county":"DELAWARE","crewstatus":"DISP ","customers":9,"hamlet":"FRANKLIN","incidentnumber":"011A94","incidents":1,"level":"street","opco":"NYSEG","street":"HENRY EDWARDS RD","town":"FRANKLIN T"},"type":"Feature"}
 ]}
