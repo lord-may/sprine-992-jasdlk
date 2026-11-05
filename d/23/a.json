@@ -3,16 +3,15 @@
 {"geometry":{"coordinates":[-76.65839,40.251159],"type":"Point"},"properties":{"a":"40.251159","cty":"DAUPHIN","id":8834250,"mun":"DERRY TWP","nc":1,"o":"-76.65839"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.323535,40.133372],"type":"Point"},"properties":{"a":"40.133372","cty":"CUMBERLAND","id":8834258,"mun":"PENN TWP","nc":2,"o":"-77.323535"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.008413,40.326671],"type":"Point"},"properties":{"a":"40.326671","cty":"BERKS","id":8834262,"mun":"SPRING TWP","nc":6,"o":"-76.008413"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.319465,40.570377],"type":"Point"},"properties":{"a":"40.570377","cty":"NORTHAMPTON","id":8834271,"mun":"LOWER SAUCON TWP","nc":1,"o":"-75.319465"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.33415,40.58495],"type":"Point"},"properties":{"a":"40.58495","cty":"NORTHAMPTON","hp":true,"id":8834277,"mun":"HELLERTOWN BORO","nc":17,"ne":{"a":"40.58625","o":"-75.33369"},"o":"-75.33415","sw":{"a":"40.58365","o":"-75.33462"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.142016,40.59262],"type":"Point"},"properties":{"a":"40.59262","cty":"SCHUYLKILL","id":8834289,"mun":"SOUTH MANHEIM TWP","nc":1,"o":"-76.142016"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.52217,39.97642],"type":"Point"},"properties":{"a":"39.97642","cty":"YORK","hp":true,"id":8834293,"mun":"LOWER WINDSOR TWP","nc":9,"ne":{"a":"39.9786","o":"-76.52111"},"o":"-76.52217","sw":{"a":"39.97423","o":"-76.52322"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.701199,41.494831],"type":"Point"},"properties":{"a":"41.494831","cty":"LACKAWANNA","id":8834298,"mun":"CLARKS SUMMIT BORO","nc":26,"o":"-75.701199"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.326129,39.869627],"type":"Point"},"properties":{"a":"39.869627","cty":"LANCASTER","id":8834307,"mun":"MARTIC TWP","nc":3,"o":"-76.326129"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.453359,40.691702],"type":"Point"},"properties":{"a":"40.691702","cty":"NORTHAMPTON","id":8834308,"mun":"EAST ALLEN TWP","nc":4,"o":"-75.453359"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.855376,40.30848],"type":"Point"},"properties":{"a":"40.30848","cty":"DAUPHIN","id":8834312,"mun":"SUSQUEHANNA TWP","nc":6,"o":"-76.855376"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.006666,41.246131],"type":"Point"},"properties":{"a":"41.246131","cty":"LYCOMING","id":8834313,"mun":"WILLIAMSPORT","nc":15,"o":"-77.006666"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.357151,39.996946],"type":"Point"},"properties":{"a":"39.996946","cty":"LANCASTER","id":8834318,"mun":"MILLERSVILLE BORO","nc":14,"o":"-76.357151"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.390006,41.626974],"type":"Point"},"properties":{"a":"41.626974","cty":"WAYNE","id":8834319,"mun":"CLINTON TWP","nc":1,"o":"-75.390006"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.031087,41.226216],"type":"Point"},"properties":{"a":"41.226216","cty":"LYCOMING","id":8834320,"mun":"DUBOISTOWN BORO","nc":10,"o":"-77.031087"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.031087,41.226216],"type":"Point"},"properties":{"a":"41.226216","cty":"LYCOMING","id":8834320,"mun":"DUBOISTOWN BORO","nc":10,"o":"-77.031087"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.341836,41.608375],"type":"Point"},"properties":{"a":"41.608375","cty":"WAYNE","id":8834325,"mun":"CLINTON TWP","nc":1,"o":"-75.341836"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.373923,40.63588],"type":"Point"},"properties":{"a":"40.63588","cty":"NORTHAMPTON","id":8834330,"mun":"BETHLEHEM","nc":4,"o":"-75.373923"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.20483,41.050227],"type":"Point"},"properties":{"a":"41.050227","cty":"CLINTON","id":8834333,"mun":"GREENE TWP","nc":1,"o":"-77.20483"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.483222,41.043761],"type":"Point"},"properties":{"a":"41.043761","cty":"COLUMBIA","id":8834334,"mun":"MOUNT PLEASANT TWP","nc":2,"o":"-76.483222"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.3987,40.43479],"type":"Point"},"properties":{"a":"40.43479","cty":"BUCKS","hp":true,"id":8834335,"mun":"MILFORD TWP","nc":12,"ne":{"a":"40.43575","o":"-75.39849"},"o":"-75.3987","sw":{"a":"40.43383","o":"-75.3989"}},"type":"Feature"}
 ]}
