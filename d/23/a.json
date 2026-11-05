@@ -4,7 +4,6 @@
 {"geometry":{"coordinates":[-75.999653,40.329141],"type":"Point"},"properties":{"a":"40.329141","cty":"BERKS","id":8834191,"mun":"SPRING TWP","nc":9,"o":"-75.999653"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.0619,41.29614],"type":"Point"},"properties":{"a":"41.29614","cty":"PIKE","hp":true,"id":8834199,"mun":"BLOOMING GROVE TWP","nc":30,"ne":{"a":"41.2974","o":"-75.06012"},"o":"-75.0619","sw":{"a":"41.29488","o":"-75.06368"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.70026,40.79615],"type":"Point"},"properties":{"a":"40.79615","cty":"NORTHUMBERLAND","hp":true,"id":8834201,"mun":"ROCKEFELLER TWP","nc":24,"ne":{"a":"40.79967","o":"-76.68775"},"o":"-76.70026","sw":{"a":"40.79263","o":"-76.71277"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.475195,40.886961],"type":"Point"},"properties":{"a":"40.886961","cty":"MONROE","id":8834206,"mun":"POLK TWP","nc":2,"o":"-75.475195"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.425786,40.839899],"type":"Point"},"properties":{"a":"40.839899","cty":"COLUMBIA","id":8834208,"mun":"CLEVELAND TWP","nc":3,"o":"-76.425786"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.81025,40.834569],"type":"Point"},"properties":{"a":"40.834569","cty":"NORTHUMBERLAND","id":8834210,"mun":"UPPER AUGUSTA TWP","nc":1,"o":"-76.81025"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.568841,41.364265],"type":"Point"},"properties":{"a":"41.364265","cty":"LACKAWANNA","id":8834230,"mun":"ROARING BROOK TWP","nc":2,"o":"-75.568841"},"type":"Feature"},
@@ -14,7 +13,5 @@
 {"geometry":{"coordinates":[-76.65839,40.251159],"type":"Point"},"properties":{"a":"40.251159","cty":"DAUPHIN","id":8834250,"mun":"DERRY TWP","nc":1,"o":"-76.65839"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.323535,40.133372],"type":"Point"},"properties":{"a":"40.133372","cty":"CUMBERLAND","id":8834258,"mun":"PENN TWP","nc":2,"o":"-77.323535"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.008413,40.326671],"type":"Point"},"properties":{"a":"40.326671","cty":"BERKS","id":8834262,"mun":"SPRING TWP","nc":6,"o":"-76.008413"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.38581,40.179328],"type":"Point"},"properties":{"a":"40.179328","cty":"CUMBERLAND","id":8834263,"mun":"WEST PENNSBORO TWP","nc":3,"o":"-77.38581"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.251229,40.54369],"type":"Point"},"properties":{"a":"40.54369","cty":"SCHUYLKILL","id":8834264,"mun":"WAYNE TWP","nc":1,"o":"-76.251229"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.858171,40.304184],"type":"Point"},"properties":{"a":"40.304184","cty":"DAUPHIN","id":8834265,"mun":"SUSQUEHANNA TWP","nc":8,"o":"-76.858171"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.319465,40.570377],"type":"Point"},"properties":{"a":"40.570377","cty":"NORTHAMPTON","id":8834271,"mun":"LOWER SAUCON TWP","nc":1,"o":"-75.319465"},"type":"Feature"}
 ]}

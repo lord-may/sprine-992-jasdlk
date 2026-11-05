@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-77.601253,43.221105],"type":"Point"},"properties":{"EstRest":"11/5/2026 11:30:00 AM","Outages":11,"county":"MONROE","customers":303529,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.601253,43.221105],"type":"Point"},"properties":{"EstRest":"11/5/2026 11:30:00 AM","Outages":3,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":15,"hamlet":"ROCHESTER","incidentnumber":"011AAV","incidents":1,"level":"street","opco":"RGE","street":"RADCLIFFE RD","town":"IRONDEQUOIT"},"type":"Feature"}
 ]}

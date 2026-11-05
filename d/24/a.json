@@ -1,9 +1,13 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.521913,41.995064],"type":"Point"},"properties":{"a":"41.995064","cty":"PROVIDENCE","id":20261069931,"mun":"WOONSOCKET","nc":1,"o":"-71.521913"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.443031,41.5251],"type":"Point"},"properties":{"a":"41.5251","cty":"WASHINGTON","id":20261069932,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.443031"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.710943,41.872832],"type":"Point"},"properties":{"a":"41.872832","cty":"PROVIDENCE","id":20261069935,"mun":"GLOCESTER","nc":3,"o":"-71.710943"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.472911,41.997169],"type":"Point"},"properties":{"a":"41.997169","cty":"PROVIDENCE","id":20261069938,"mun":"WOONSOCKET","nc":1,"o":"-71.472911"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.685912,41.374341],"type":"Point"},"properties":{"a":"41.374341","cty":"WASHINGTON","id":20261069941,"mun":"CHARLESTOWN","nc":1,"o":"-71.685912"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.456949,41.424906],"type":"Point"},"properties":{"a":"41.424906","cty":"WASHINGTON","id":20261069961,"mun":"NARRAGANSETT","nc":1,"o":"-71.456949"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.721941,41.45917],"type":"Point"},"properties":{"a":"41.45917","cty":"WASHINGTON","id":20261069964,"mun":"HOPKINTON","nc":1,"o":"-71.721941"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.721941,41.45917],"type":"Point"},"properties":{"a":"41.45917","cty":"WASHINGTON","id":20261069964,"mun":"HOPKINTON","nc":1,"o":"-71.721941"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.410307,41.635292],"type":"Point"},"properties":{"a":"41.635292","cty":"WASHINGTON","id":20261069965,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.410307"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.488688,41.38776],"type":"Point"},"properties":{"a":"41.38776","cty":"WASHINGTON","id":20261069966,"mun":"NARRAGANSETT","nc":1,"o":"-71.488688"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.475715,41.75505],"type":"Point"},"properties":{"a":"41.75505","cty":"PROVIDENCE","id":20261069969,"mun":"CRANSTON","nc":1,"o":"-71.475715"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.527628,41.992938],"type":"Point"},"properties":{"a":"41.992938","cty":"PROVIDENCE","id":20261069972,"mun":"WOONSOCKET","nc":1,"o":"-71.527628"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.387798,41.828279],"type":"Point"},"properties":{"a":"41.828279","cty":"PROVIDENCE","id":20261069976,"mun":"PROVIDENCE","nc":1,"o":"-71.387798"},"type":"Feature"}
 ]}
