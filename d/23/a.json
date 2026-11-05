@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.202146,40.815903],"type":"Point"},"properties":{"a":"40.815903","cty":"SCHUYLKILL","id":8834176,"mun":"SHENANDOAH BORO","nc":15,"o":"-76.202146"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.911501,40.094786],"type":"Point"},"properties":{"a":"40.094786","cty":"CHESTER","id":8834184,"mun":"HONEYBROOK TWP","nc":17,"o":"-75.911501"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.624505,41.501231],"type":"Point"},"properties":{"a":"41.501231","cty":"LACKAWANNA","id":8834188,"mun":"SCOTT TWP","nc":2,"o":"-75.624505"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.999653,40.329141],"type":"Point"},"properties":{"a":"40.329141","cty":"BERKS","id":8834191,"mun":"SPRING TWP","nc":9,"o":"-75.999653"},"type":"Feature"},
@@ -11,5 +10,6 @@
 {"geometry":{"coordinates":[-76.81025,40.834569],"type":"Point"},"properties":{"a":"40.834569","cty":"NORTHUMBERLAND","id":8834210,"mun":"UPPER AUGUSTA TWP","nc":1,"o":"-76.81025"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.932705,40.379131],"type":"Point"},"properties":{"a":"40.379131","cty":"DAUPHIN","id":8834212,"mun":"MIDDLE PAXTON TWP","nc":4,"o":"-76.932705"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.42974,40.17573],"type":"Point"},"properties":{"a":"40.17573","cty":"CUMBERLAND","hp":true,"id":8834213,"mun":"WEST PENNSBORO TWP","nc":843,"ne":{"a":"40.18697","o":"-77.38767"},"o":"-77.42974","sw":{"a":"40.16449","o":"-77.47182"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.201977,40.81624],"type":"Point"},"properties":{"a":"40.81624","cty":"SCHUYLKILL","id":8834221,"mun":"SHENANDOAH BORO","nc":1,"o":"-76.201977"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.55614,41.36346],"type":"Point"},"properties":{"a":"41.36346","cty":"LACKAWANNA","hp":true,"id":8834230,"mun":"ROARING BROOK TWP","nc":429,"ne":{"a":"41.3725","o":"-75.54027"},"o":"-75.55614","sw":{"a":"41.35442","o":"-75.572"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.34443,41.61609],"type":"Point"},"properties":{"a":"41.61609","cty":"WAYNE","hp":true,"id":8834234,"mun":"CLINTON TWP","nc":42,"ne":{"a":"41.63021","o":"-75.33948"},"o":"-75.34443","sw":{"a":"41.60197","o":"-75.34938"}},"type":"Feature"}
 ]}
