@@ -1,5 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-70.332842,43.587067],"type":"Point"},"properties":{"EstRest":"11/5/2026 2:00:00 PM","Outages":31,"county":"CUMBERLAND","customers":182407,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.579778,43.887021],"type":"Point"},"properties":{"EstRest":"11/5/2026 12:30:00 PM","Outages":1,"cause":"","county":"LINCOLN","crewstatus":"ENRT ","customers":32,"hamlet":"SOUTH BRISTOL","incidentnumber":"00462D","incidents":1,"level":"street","opco":"CMP","street":"S RD","town":"SOUTH BRISTOL"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.579778,43.887021],"type":"Point"},"properties":{"EstRest":"11/5/2026 12:30:00 PM","Outages":1,"county":"LINCOLN","customers":29091,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[0,0],"type":"Point"},"properties":{"EstRest":"11/5/2026 2:15:00 PM","Outages":1,"cause":"","county":"OXFORD","crewstatus":"ENRT ","customers":19,"hamlet":"RUMFORD","incidentnumber":"00462V","incidents":1,"level":"street","opco":"CMP","street":"BELIVEAU RD","town":"RUMFORD"},"type":"Feature"},
+{"geometry":{"coordinates":[0,0],"type":"Point"},"properties":{"EstRest":"11/5/2026 2:15:00 PM","Outages":1,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.736898,43.691443],"type":"Point"},"properties":{"EstRest":"11/5/2026 2:15:00 PM","Outages":1,"cause":"","county":"YORK","crewstatus":"ACKN ","customers":17,"hamlet":"LIMINGTON","incidentnumber":"00462X","incidents":1,"level":"street","opco":"CMP","street":"SEDGLY RD","town":"LIMINGTON"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.736898,43.691443],"type":"Point"},"properties":{"EstRest":"11/5/2026 2:15:00 PM","Outages":1,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}

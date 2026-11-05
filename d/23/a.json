@@ -5,12 +5,12 @@
 {"geometry":{"coordinates":[-75.33415,40.58495],"type":"Point"},"properties":{"a":"40.58495","cty":"NORTHAMPTON","hp":true,"id":8834277,"mun":"HELLERTOWN BORO","nc":17,"ne":{"a":"40.58625","o":"-75.33369"},"o":"-75.33415","sw":{"a":"40.58365","o":"-75.33462"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.142016,40.59262],"type":"Point"},"properties":{"a":"40.59262","cty":"SCHUYLKILL","id":8834289,"mun":"SOUTH MANHEIM TWP","nc":1,"o":"-76.142016"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.52217,39.97642],"type":"Point"},"properties":{"a":"39.97642","cty":"YORK","hp":true,"id":8834293,"mun":"LOWER WINDSOR TWP","nc":9,"ne":{"a":"39.9786","o":"-76.52111"},"o":"-76.52217","sw":{"a":"39.97423","o":"-76.52322"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.326129,39.869627],"type":"Point"},"properties":{"a":"39.869627","cty":"LANCASTER","id":8834307,"mun":"MARTIC TWP","nc":3,"o":"-76.326129"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.453359,40.691702],"type":"Point"},"properties":{"a":"40.691702","cty":"NORTHAMPTON","id":8834308,"mun":"EAST ALLEN TWP","nc":4,"o":"-75.453359"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.031087,41.226216],"type":"Point"},"properties":{"a":"41.226216","cty":"LYCOMING","id":8834320,"mun":"DUBOISTOWN BORO","nc":10,"o":"-77.031087"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.373923,40.63588],"type":"Point"},"properties":{"a":"40.63588","cty":"NORTHAMPTON","id":8834330,"mun":"BETHLEHEM","nc":4,"o":"-75.373923"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.20483,41.050227],"type":"Point"},"properties":{"a":"41.050227","cty":"CLINTON","id":8834333,"mun":"GREENE TWP","nc":1,"o":"-77.20483"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.48425,41.04412],"type":"Point"},"properties":{"a":"41.04412","cty":"COLUMBIA","hp":true,"id":8834339,"mun":"MOUNT PLEASANT TWP","nc":6,"ne":{"a":"41.04529","o":"-76.48298"},"o":"-76.48425","sw":{"a":"41.04295","o":"-76.48551"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.048192,40.932485],"type":"Point"},"properties":{"a":"40.932485","cty":"UNION","id":8834362,"mun":"WEST BUFFALO TWP","nc":2,"o":"-77.048192"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.799014,40.558686],"type":"Point"},"properties":{"a":"40.558686","cty":"DAUPHIN","id":8834363,"mun":"WASHINGTON TWP","nc":1,"o":"-76.799014"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.799014,40.558686],"type":"Point"},"properties":{"a":"40.558686","cty":"DAUPHIN","id":8834363,"mun":"WASHINGTON TWP","nc":1,"o":"-76.799014"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.220959,40.802785],"type":"Point"},"properties":{"a":"40.802785","cty":"SNYDER","id":8834368,"mun":"ADAMS TWP","nc":2,"o":"-77.220959"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.311787,41.259021],"type":"Point"},"properties":{"a":"41.259021","cty":"PIKE","id":8834369,"mun":"GREENE TWP","nc":3,"o":"-75.311787"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.382743,40.608598],"type":"Point"},"properties":{"a":"40.608598","cty":"JUNIATA","id":8834370,"mun":"FERMANAGH TWP","nc":3,"o":"-77.382743"},"type":"Feature"}
 ]}
