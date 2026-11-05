@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.085235,42.12281],"type":"Point"},"properties":{"EstRest":"11/5/2026 3:00:00 PM","Outages":30,"county":"BROOME","customers":91450,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.085235,42.12281],"type":"Point"},"properties":{"EstRest":"11/5/2026 1:45:00 PM","Outages":30,"county":"BROOME","customers":91450,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.571755,42.207784],"type":"Point"},"properties":{"EstRest":"11/5/2026 3:00:00 PM","Outages":20,"county":"CHEMUNG","customers":39913,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.356427,42.071088],"type":"Point"},"properties":{"EstRest":"11/5/2026 3:30:00 PM","Outages":25,"county":"TIOGA","customers":20231,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
