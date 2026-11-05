@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.05204,38.783424],"type":"Point"},"properties":{"dateReceived":"2026-11-05T16:08:00.000Z","id":876834,"latitude":38.7834244,"longitude":-76.05204,"neighborhood":"Golton","problemName":"No Electric","serviceName":"Electric"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.05204,38.783424],"type":"Point"},"properties":{"dateReceived":"2026-11-05T16:08:00.000Z","id":876834,"latitude":38.7834244,"longitude":-76.05204,"neighborhood":"Golton","problemName":"No Electric","serviceName":"Electric"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.06603,38.77026],"type":"Point"},"properties":{"dateReceived":"2026-11-05T18:07:00.000Z","id":876835,"latitude":38.77026,"longitude":-76.06603,"neighborhood":"Easton","problemName":"No Water","serviceName":"Water"},"type":"Feature"}
 ]}
