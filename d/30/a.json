@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-71.976758,44.919867],[-71.976488,44.920834],[-71.973578,44.935023],[-71.973649,44.937783],[-71.973946,44.939958],[-71.974655,44.942692],[-71.977108,44.949775],[-71.980207,44.950887],[-71.980584,44.945572],[-71.976758,44.919867]]],"type":"Polygon"},{"coordinates":[-71.977045,44.937789],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"ANIMALS","crewAssigned":true,"estimateTime":1793900700000,"id":"849820","nbrOut":28,"timeOff":1793889417121},"type":"Feature"}
 ]}

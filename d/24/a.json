@@ -11,5 +11,8 @@
 {"geometry":{"coordinates":[-71.527628,41.992938],"type":"Point"},"properties":{"a":"41.992938","cty":"PROVIDENCE","id":20261069972,"mun":"WOONSOCKET","nc":1,"o":"-71.527628"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.387798,41.828279],"type":"Point"},"properties":{"a":"41.828279","cty":"PROVIDENCE","id":20261069976,"mun":"PROVIDENCE","nc":1,"o":"-71.387798"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.6689,41.63955],"type":"Point"},"properties":{"a":"41.63955","cty":"KENT","id":20261069977,"mun":"WEST GREENWICH","nc":3,"o":"-71.6689"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.494968,41.749888],"type":"Point"},"properties":{"a":"41.749888","cty":"PROVIDENCE","id":20261069979,"mun":"CRANSTON","nc":1,"o":"-71.494968"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.430212,41.939999],"type":"Point"},"properties":{"a":"41.939999","cty":"PROVIDENCE","id":20261069980,"mun":"CUMBERLAND","nc":1,"o":"-71.430212"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.509807,41.444861],"type":"Point"},"properties":{"a":"41.444861","cty":"WASHINGTON","id":20261069981,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.509807"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.427745,41.847576],"type":"Point"},"properties":{"a":"41.847576","cty":"PROVIDENCE","id":20261069985,"mun":"PROVIDENCE","nc":1,"o":"-71.427745"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.426771,41.7743],"type":"Point"},"properties":{"a":"41.7743","cty":"PROVIDENCE","id":20261069986,"mun":"CRANSTON","nc":1,"o":"-71.426771"},"type":"Feature"}
 ]}
