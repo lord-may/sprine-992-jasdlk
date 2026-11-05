@@ -5,11 +5,12 @@
 {"geometry":{"coordinates":[-76.52217,39.97642],"type":"Point"},"properties":{"a":"39.97642","cty":"YORK","hp":true,"id":8834293,"mun":"LOWER WINDSOR TWP","nc":9,"ne":{"a":"39.9786","o":"-76.52111"},"o":"-76.52217","sw":{"a":"39.97423","o":"-76.52322"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.453359,40.691702],"type":"Point"},"properties":{"a":"40.691702","cty":"NORTHAMPTON","id":8834308,"mun":"EAST ALLEN TWP","nc":4,"o":"-75.453359"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.031087,41.226216],"type":"Point"},"properties":{"a":"41.226216","cty":"LYCOMING","id":8834320,"mun":"DUBOISTOWN BORO","nc":10,"o":"-77.031087"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.48425,41.04412],"type":"Point"},"properties":{"a":"41.04412","cty":"COLUMBIA","hp":true,"id":8834339,"mun":"MOUNT PLEASANT TWP","nc":6,"ne":{"a":"41.04529","o":"-76.48298"},"o":"-76.48425","sw":{"a":"41.04295","o":"-76.48551"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.048192,40.932485],"type":"Point"},"properties":{"a":"40.932485","cty":"UNION","id":8834362,"mun":"WEST BUFFALO TWP","nc":2,"o":"-77.048192"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.799014,40.558686],"type":"Point"},"properties":{"a":"40.558686","cty":"DAUPHIN","id":8834363,"mun":"WASHINGTON TWP","nc":1,"o":"-76.799014"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.220959,40.802785],"type":"Point"},"properties":{"a":"40.802785","cty":"SNYDER","id":8834368,"mun":"ADAMS TWP","nc":2,"o":"-77.220959"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.382743,40.608598],"type":"Point"},"properties":{"a":"40.608598","cty":"JUNIATA","id":8834370,"mun":"FERMANAGH TWP","nc":3,"o":"-77.382743"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.027773,41.224085],"type":"Point"},"properties":{"a":"41.224085","cty":"LYCOMING","id":8834375,"mun":"DUBOISTOWN BORO","nc":11,"o":"-77.027773"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.02562,40.402556],"type":"Point"},"properties":{"a":"40.402556","cty":"PERRY","id":8834376,"mun":"PENN TWP","nc":8,"o":"-77.02562"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.500634,40.033836],"type":"Point"},"properties":{"a":"40.033836","cty":"LANCASTER","id":8834382,"mun":"COLUMBIA BORO","nc":1,"o":"-76.500634"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.02562,40.402556],"type":"Point"},"properties":{"a":"40.402556","cty":"PERRY","id":8834384,"mun":"PENN TWP","nc":8,"o":"-77.02562"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.041167,39.975105],"type":"Point"},"properties":{"a":"39.975105","cty":"LANCASTER","id":8834385,"mun":"SADSBURY TWP","nc":1,"o":"-76.041167"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.670616,40.272218],"type":"Point"},"properties":{"a":"40.272218","cty":"DAUPHIN","id":8834388,"mun":"DERRY TWP","nc":9,"o":"-76.670616"},"type":"Feature"}
 ]}

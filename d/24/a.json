@@ -5,11 +5,10 @@
 {"geometry":{"coordinates":[-71.315042,41.49325],"type":"Point"},"properties":{"a":"41.49325","cty":"NEWPORT","id":20261070010,"mun":"NEWPORT","nc":30,"o":"-71.315042"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.387316,41.891871],"type":"Point"},"properties":{"a":"41.891871","cty":"PROVIDENCE","id":20261070012,"mun":"CENTRAL FALLS","nc":42,"o":"-71.387316"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.474856,41.760564],"type":"Point"},"properties":{"a":"41.760564","cty":"PROVIDENCE","id":20261070019,"mun":"CRANSTON","nc":1,"o":"-71.474856"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.279523,41.696956],"type":"Point"},"properties":{"a":"41.696956","cty":"BRISTOL","id":20261070021,"mun":"BRISTOL","nc":1,"o":"-71.279523"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.509919,41.71056],"type":"Point"},"properties":{"a":"41.71056","cty":"KENT","id":20261070023,"mun":"WEST WARWICK","nc":1,"o":"-71.509919"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.312064,41.495321],"type":"Point"},"properties":{"a":"41.495321","cty":"NEWPORT","id":20261070032,"mun":"NEWPORT","nc":15,"o":"-71.312064"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.184549,41.664879],"type":"Point"},"properties":{"a":"41.664879","cty":"NEWPORT","id":20261070034,"mun":"TIVERTON","nc":1,"o":"-71.184549"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.480571,42.00402],"type":"Point"},"properties":{"a":"42.00402","cty":"PROVIDENCE","id":20261070035,"mun":"WOONSOCKET","nc":1,"o":"-71.480571"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.602065,41.998055],"type":"Point"},"properties":{"a":"41.998055","cty":"PROVIDENCE","id":20261070036,"mun":"NORTH SMITHFIELD","nc":1,"o":"-71.602065"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.6018,41.98411],"type":"Point"},"properties":{"a":"41.98411","cty":"PROVIDENCE","id":20261070037,"mun":"BURRILLVILLE","nc":1,"o":"-71.6018"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.663969,41.5304],"type":"Point"},"properties":{"a":"41.5304","cty":"WASHINGTON","id":20261070042,"mun":"RICHMOND","nc":1,"o":"-71.663969"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.366385,41.802309],"type":"Point"},"properties":{"a":"41.802309","cty":"PROVIDENCE","id":20261070043,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.366385"},"type":"Feature"}
 ]}

@@ -1,7 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.085235,42.12281],"type":"Point"},"properties":{"EstRest":"11/5/2026 3:00:00 PM","Outages":30,"county":"BROOME","customers":91450,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.571755,42.207784],"type":"Point"},"properties":{"EstRest":"11/5/2026 3:00:00 PM","Outages":20,"county":"CHEMUNG","customers":39913,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.279101,42.520706],"type":"Point"},"properties":{"EstRest":"11/5/2026 1:30:00 PM","Outages":1,"cause":"","county":"STEUBEN","crewstatus":"DISP ","customers":19,"hamlet":"PRATTSBURGH","incidentnumber":"011ABK","incidents":1,"level":"street","opco":"NYSEG","street":"COUNTY ROUTE 75","town":"PRATTSBURG T"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.279101,42.520706],"type":"Point"},"properties":{"EstRest":"11/5/2026 1:30:00 PM","Outages":1,"county":"STEUBEN","customers":42828,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.356427,42.071088],"type":"Point"},"properties":{"EstRest":"11/5/2026 3:30:00 PM","Outages":25,"county":"TIOGA","customers":20231,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
