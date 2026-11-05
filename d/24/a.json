@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.73069,41.88404],"type":"Point"},"properties":{"a":"41.88404","cty":"PROVIDENCE","hp":true,"id":20261069922,"mun":"GLOCESTER","nc":143,"ne":{"a":"41.89583","o":"-71.7073"},"o":"-71.73069","sw":{"a":"41.87225","o":"-71.75407"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.608469,41.903356],"type":"Point"},"properties":{"a":"41.903356","cty":"PROVIDENCE","id":20261069924,"mun":"GLOCESTER","nc":1,"o":"-71.608469"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.608469,41.903356],"type":"Point"},"properties":{"a":"41.903356","cty":"PROVIDENCE","id":20261069924,"mun":"GLOCESTER","nc":1,"o":"-71.608469"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.47971,41.79532],"type":"Point"},"properties":{"a":"41.79532","cty":"PROVIDENCE","hp":true,"id":20261069925,"mun":"CRANSTON","nc":90,"ne":{"a":"41.79636","o":"-71.47774"},"o":"-71.47971","sw":{"a":"41.79427","o":"-71.48168"}},"type":"Feature"}
 ]}

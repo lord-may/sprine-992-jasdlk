@@ -2,5 +2,9 @@
 {"geometry":{"coordinates":[-76.202146,40.815903],"type":"Point"},"properties":{"a":"40.815903","cty":"SCHUYLKILL","id":8834176,"mun":"SHENANDOAH BORO","nc":15,"o":"-76.202146"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.911501,40.094786],"type":"Point"},"properties":{"a":"40.094786","cty":"CHESTER","id":8834184,"mun":"HONEYBROOK TWP","nc":17,"o":"-75.911501"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.624505,41.501231],"type":"Point"},"properties":{"a":"41.501231","cty":"LACKAWANNA","id":8834188,"mun":"SCOTT TWP","nc":2,"o":"-75.624505"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.999653,40.329141],"type":"Point"},"properties":{"a":"40.329141","cty":"BERKS","id":8834191,"mun":"SPRING TWP","nc":9,"o":"-75.999653"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.999653,40.329141],"type":"Point"},"properties":{"a":"40.329141","cty":"BERKS","id":8834191,"mun":"SPRING TWP","nc":9,"o":"-75.999653"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.66583,41.43927],"type":"Point"},"properties":{"a":"41.43927","cty":"LACKAWANNA","hp":true,"id":8834193,"mun":"SCRANTON","nc":79,"ne":{"a":"41.44055","o":"-75.66354"},"o":"-75.66583","sw":{"a":"41.43799","o":"-75.66811"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.055539,41.302216],"type":"Point"},"properties":{"a":"41.302216","cty":"PIKE","id":8834195,"mun":"BLOOMING GROVE TWP","nc":3,"o":"-75.055539"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.061252,41.297378],"type":"Point"},"properties":{"a":"41.297378","cty":"PIKE","id":8834196,"mun":"BLOOMING GROVE TWP","nc":4,"o":"-75.061252"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.057162,41.294797],"type":"Point"},"properties":{"a":"41.294797","cty":"PIKE","id":8834197,"mun":"BLOOMING GROVE TWP","nc":6,"o":"-75.057162"},"type":"Feature"}
 ]}
