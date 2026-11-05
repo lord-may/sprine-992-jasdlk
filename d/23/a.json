@@ -1,3 +1,7 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.10575,39.785717],"type":"Point"},"properties":{"a":"39.785717","cty":"LANCASTER","id":8834474,"mun":"LITTLE BRITAIN TWP","nc":1,"o":"-76.10575"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.10575,39.785717],"type":"Point"},"properties":{"a":"39.785717","cty":"LANCASTER","id":8834474,"mun":"LITTLE BRITAIN TWP","nc":1,"o":"-76.10575"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.797165,40.121951],"type":"Point"},"properties":{"a":"40.121951","cty":"CHESTER","id":8834475,"mun":"WEST NANTMEAL TWP","nc":4,"o":"-75.797165"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.475829,40.558338],"type":"Point"},"properties":{"a":"40.558338","cty":"LEHIGH","id":8834480,"mun":"ALLENTOWN","nc":8,"o":"-75.475829"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.789968,40.282955],"type":"Point"},"properties":{"a":"40.282955","cty":"DAUPHIN","id":8834482,"mun":"LOWER PAXTON TWP","nc":6,"o":"-76.789968"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.520717,40.9662],"type":"Point"},"properties":{"a":"40.9662","cty":"MONROE","id":8834483,"mun":"POLK TWP","nc":3,"o":"-75.520717"},"type":"Feature"}
 ]}
