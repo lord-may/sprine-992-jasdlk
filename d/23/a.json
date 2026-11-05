@@ -1,6 +1,8 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.323038,41.086807],"type":"Point"},"properties":{"a":"41.086807","cty":"MONROE","id":8834494,"mun":"POCONO TWP","nc":2,"o":"-75.323038"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.7768,40.81668],"type":"Point"},"properties":{"a":"40.81668","cty":"NORTHUMBERLAND","hp":true,"id":8834501,"mun":"LOWER AUGUSTA TWP","nc":30,"ne":{"a":"40.82036","o":"-76.76779"},"o":"-76.7768","sw":{"a":"40.813","o":"-76.78582"}},"type":"Feature"},
-{"geometry":{"coordinates":[-77.009277,40.213371],"type":"Point"},"properties":{"a":"40.213371","cty":"CUMBERLAND","id":8834518,"mun":"MECHANICSBURG BORO","nc":1,"o":"-77.009277"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.940355,40.288849],"type":"Point"},"properties":{"a":"40.288849","cty":"CUMBERLAND","id":8834521,"mun":"EAST PENNSBORO TWP","nc":2,"o":"-76.940355"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.940355,40.288849],"type":"Point"},"properties":{"a":"40.288849","cty":"CUMBERLAND","id":8834521,"mun":"EAST PENNSBORO TWP","nc":2,"o":"-76.940355"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.156359,40.564002],"type":"Point"},"properties":{"a":"40.564002","cty":"PERRY","id":8834526,"mun":"GREENWOOD TWP","nc":1,"o":"-77.156359"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.502801,40.680394],"type":"Point"},"properties":{"a":"40.680394","cty":"LEHIGH","id":8834528,"mun":"WHITEHALL TWP","nc":17,"o":"-75.502801"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.751584,41.324975],"type":"Point"},"properties":{"a":"41.324975","cty":"CLINTON","id":8834529,"mun":"RENOVO BORO","nc":7,"o":"-77.751584"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.159819,40.567026],"type":"Point"},"properties":{"a":"40.567026","cty":"PERRY","id":8834531,"mun":"GREENWOOD TWP","nc":1,"o":"-77.159819"},"type":"Feature"}
 ]}

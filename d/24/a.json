@@ -1,5 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.548897,41.380543],"type":"Point"},"properties":{"a":"41.380543","cty":"WASHINGTON","id":20261070173,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.548897"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.513756,41.402019],"type":"Point"},"properties":{"a":"41.402019","cty":"WASHINGTON","id":20261070175,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.513756"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.522959,41.404768],"type":"Point"},"properties":{"a":"41.404768","cty":"WASHINGTON","id":20261070176,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.522959"},"type":"Feature"}
+
 ]}
