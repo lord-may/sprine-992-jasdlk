@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.328407,43.695692],"type":"Point"},"properties":{"id":"594950","nbrOut":1,"timeOff":1793894368059},"type":"Feature"},
-{"geometry":{"coordinates":[-72.152827,43.833001],"type":"Point"},"properties":{"comment":"There is a crew enroute to the outage affecting your area. Estimated time of restoration is not yet available.","id":"594951","nbrOut":1,"timeOff":1793895857532},"type":"Feature"}
+{"geometry":{"geometries":[{"coordinates":[[[-72.154705,43.823928],[-72.144168,43.837155],[-72.152827,43.833001],[-72.153833,43.829515],[-72.154705,43.823928]]],"type":"Polygon"},{"coordinates":[-72.15068,43.831271],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"There is a crew on scene making repairs to restore the outage affecting your area. Estimated time of restoration is 12:15 PM","estimateTime":1793898900000,"id":"594951","nbrOut":17,"timeOff":1793895857532},"type":"Feature"}
 ]}

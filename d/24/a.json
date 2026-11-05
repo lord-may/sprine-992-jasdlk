@@ -13,5 +13,6 @@
 {"geometry":{"coordinates":[-71.315042,41.49325],"type":"Point"},"properties":{"a":"41.49325","cty":"NEWPORT","id":20261070010,"mun":"NEWPORT","nc":30,"o":"-71.315042"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.478415,41.539453],"type":"Point"},"properties":{"a":"41.539453","cty":"WASHINGTON","id":20261070011,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.478415"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.387316,41.891871],"type":"Point"},"properties":{"a":"41.891871","cty":"PROVIDENCE","id":20261070012,"mun":"CENTRAL FALLS","nc":42,"o":"-71.387316"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.474856,41.760564],"type":"Point"},"properties":{"a":"41.760564","cty":"PROVIDENCE","id":20261070019,"mun":"CRANSTON","nc":1,"o":"-71.474856"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.474856,41.760564],"type":"Point"},"properties":{"a":"41.760564","cty":"PROVIDENCE","id":20261070019,"mun":"CRANSTON","nc":1,"o":"-71.474856"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.279523,41.696956],"type":"Point"},"properties":{"a":"41.696956","cty":"BRISTOL","id":20261070021,"mun":"BRISTOL","nc":1,"o":"-71.279523"},"type":"Feature"}
 ]}
