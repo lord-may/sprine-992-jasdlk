@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-70.500584,43.914281],"type":"Point"},"properties":{"EstRest":"11/5/2026 5:45:00 AM","Outages":23,"cause":"","county":"CUMBERLAND","crewstatus":"ONST ","customers":24,"hamlet":"RAYMOND","incidentnumber":"00460Y","incidents":1,"level":"street","opco":"CMP","street":"PULPIT ROCK RD","town":"RAYMOND"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.500584,43.914281],"type":"Point"},"properties":{"EstRest":"11/5/2026 5:45:00 AM","Outages":23,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
