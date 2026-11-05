@@ -1,8 +1,8 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.608469,41.903356],"type":"Point"},"properties":{"a":"41.903356","cty":"PROVIDENCE","id":20261069924,"mun":"GLOCESTER","nc":1,"o":"-71.608469"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.47971,41.79532],"type":"Point"},"properties":{"a":"41.79532","cty":"PROVIDENCE","hp":true,"id":20261069925,"mun":"CRANSTON","nc":90,"ne":{"a":"41.79636","o":"-71.47774"},"o":"-71.47971","sw":{"a":"41.79427","o":"-71.48168"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.521913,41.995064],"type":"Point"},"properties":{"a":"41.995064","cty":"PROVIDENCE","id":20261069931,"mun":"WOONSOCKET","nc":1,"o":"-71.521913"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.443031,41.5251],"type":"Point"},"properties":{"a":"41.5251","cty":"WASHINGTON","id":20261069932,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.443031"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.371526,41.86546],"type":"Point"},"properties":{"a":"41.86546","cty":"PROVIDENCE","id":20261069934,"mun":"PAWTUCKET","nc":1,"o":"-71.371526"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.710943,41.872832],"type":"Point"},"properties":{"a":"41.872832","cty":"PROVIDENCE","id":20261069935,"mun":"GLOCESTER","nc":3,"o":"-71.710943"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.710943,41.872832],"type":"Point"},"properties":{"a":"41.872832","cty":"PROVIDENCE","id":20261069935,"mun":"GLOCESTER","nc":3,"o":"-71.710943"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.472911,41.997169],"type":"Point"},"properties":{"a":"41.997169","cty":"PROVIDENCE","id":20261069938,"mun":"WOONSOCKET","nc":1,"o":"-71.472911"},"type":"Feature"}
 ]}
