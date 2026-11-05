@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-77.206695,42.074632],"type":"Point"},"properties":{"EstRest":"11/5/2026 6:45:00 AM","Outages":88,"county":"STEUBEN","customers":42828,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.215949,42.09076],"type":"Point"},"properties":{"EstRest":"11/5/2026 6:45:00 AM","Outages":13,"cause":"","county":"STEUBEN","crewstatus":"DISP ","customers":13,"hamlet":"ADDISON","incidentnumber":"011A95","incidents":1,"level":"street","opco":"NYSEG","street":"ACKERSON RD","town":"ADDISON T"},"type":"Feature"}
 ]}
