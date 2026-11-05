@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.353296,43.053735],"type":"Point"},"properties":{"EstRest":"11/5/2026 1:45:00 AM","Outages":9,"cause":"","county":"WAYNE","crewstatus":"DISP ","customers":9,"hamlet":"MACEDON","incidentnumber":"011A8X","incidents":1,"level":"street","opco":"RGE","street":"MARVIN DR","town":"MACEDON"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.353589,43.055864],"type":"Point"},"properties":{"EstRest":"11/5/2026 1:45:00 AM","Outages":42,"county":"WAYNE","customers":27021,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
+
 ]}
