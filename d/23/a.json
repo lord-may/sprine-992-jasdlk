@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.84247,40.28609],"type":"Point"},"properties":{"a":"40.28609","cty":"DAUPHIN","hp":true,"id":8834158,"mun":"SUSQUEHANNA TWP","nc":12,"ne":{"a":"40.28707","o":"-76.84185"},"o":"-76.84247","sw":{"a":"40.28512","o":"-76.84309"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.79499,40.83295],"type":"Point"},"properties":{"a":"40.83295","cty":"NA","hp":true,"id":8834166,"mun":"NA","nc":193,"ne":{"a":"40.8499","o":"-76.7674"},"o":"-76.79499","sw":{"a":"40.816","o":"-76.82258"}},"type":"Feature"}
+{"geometry":{"coordinates":[-76.79499,40.83295],"type":"Point"},"properties":{"a":"40.83295","cty":"NA","hp":true,"id":8834166,"mun":"NA","nc":193,"ne":{"a":"40.8499","o":"-76.7674"},"o":"-76.79499","sw":{"a":"40.816","o":"-76.82258"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.835634,40.275347],"type":"Point"},"properties":{"a":"40.275347","cty":"DAUPHIN","id":8834173,"mun":"SUSQUEHANNA TWP","nc":7,"o":"-76.835634"},"type":"Feature"}
 ]}
