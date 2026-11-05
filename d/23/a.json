@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.84247,40.28609],"type":"Point"},"properties":{"a":"40.28609","cty":"DAUPHIN","hp":true,"id":8834158,"mun":"SUSQUEHANNA TWP","nc":12,"ne":{"a":"40.28707","o":"-76.84185"},"o":"-76.84247","sw":{"a":"40.28512","o":"-76.84309"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.780074,40.826644],"type":"Point"},"properties":{"a":"40.826644","cty":"CARBON","id":8834163,"mun":"MAHONING TWP","nc":5,"o":"-75.780074"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.78178,40.83295],"type":"Point"},"properties":{"a":"40.83295","cty":"NORTHUMBERLAND","hp":true,"id":8834166,"mun":"ROCKEFELLER TWP","nc":294,"ne":{"a":"40.8499","o":"-76.74099"},"o":"-76.78178","sw":{"a":"40.816","o":"-76.82258"}},"type":"Feature"}
+{"geometry":{"coordinates":[-76.78178,40.83295],"type":"Point"},"properties":{"a":"40.83295","cty":"NORTHUMBERLAND","hp":true,"id":8834166,"mun":"ROCKEFELLER TWP","nc":294,"ne":{"a":"40.8499","o":"-76.74099"},"o":"-76.78178","sw":{"a":"40.816","o":"-76.82258"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.671869,41.492833],"type":"Point"},"properties":{"a":"41.492833","cty":"LACKAWANNA","id":8834167,"mun":"SOUTH ABINGTON TWP","nc":2,"o":"-75.671869"},"type":"Feature"}
 ]}
