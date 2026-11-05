@@ -4,7 +4,11 @@
 {"geometry":{"coordinates":[-75.624505,41.501231],"type":"Point"},"properties":{"a":"41.501231","cty":"LACKAWANNA","id":8834188,"mun":"SCOTT TWP","nc":2,"o":"-75.624505"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.999653,40.329141],"type":"Point"},"properties":{"a":"40.329141","cty":"BERKS","id":8834191,"mun":"SPRING TWP","nc":9,"o":"-75.999653"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.66583,41.43927],"type":"Point"},"properties":{"a":"41.43927","cty":"LACKAWANNA","hp":true,"id":8834193,"mun":"SCRANTON","nc":79,"ne":{"a":"41.44055","o":"-75.66354"},"o":"-75.66583","sw":{"a":"41.43799","o":"-75.66811"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.055539,41.302216],"type":"Point"},"properties":{"a":"41.302216","cty":"PIKE","id":8834195,"mun":"BLOOMING GROVE TWP","nc":3,"o":"-75.055539"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.061252,41.297378],"type":"Point"},"properties":{"a":"41.297378","cty":"PIKE","id":8834196,"mun":"BLOOMING GROVE TWP","nc":4,"o":"-75.061252"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.057162,41.294797],"type":"Point"},"properties":{"a":"41.294797","cty":"PIKE","id":8834197,"mun":"BLOOMING GROVE TWP","nc":6,"o":"-75.057162"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.0619,41.29614],"type":"Point"},"properties":{"a":"41.29614","cty":"PIKE","hp":true,"id":8834199,"mun":"BLOOMING GROVE TWP","nc":30,"ne":{"a":"41.2974","o":"-75.06012"},"o":"-75.0619","sw":{"a":"41.29488","o":"-75.06368"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.705107,40.79347],"type":"Point"},"properties":{"a":"40.79347","cty":"NORTHUMBERLAND","id":8834201,"mun":"ROCKEFELLER TWP","nc":2,"o":"-76.705107"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.688791,40.798084],"type":"Point"},"properties":{"a":"40.798084","cty":"NORTHUMBERLAND","id":8834202,"mun":"SHAMOKIN TWP","nc":1,"o":"-76.688791"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.691896,40.799548],"type":"Point"},"properties":{"a":"40.799548","cty":"NORTHUMBERLAND","id":8834204,"mun":"SHAMOKIN TWP","nc":1,"o":"-76.691896"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.475195,40.886961],"type":"Point"},"properties":{"a":"40.886961","cty":"MONROE","id":8834206,"mun":"POLK TWP","nc":2,"o":"-75.475195"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.425786,40.839899],"type":"Point"},"properties":{"a":"40.839899","cty":"COLUMBIA","id":8834208,"mun":"CLEVELAND TWP","nc":3,"o":"-76.425786"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.81025,40.834569],"type":"Point"},"properties":{"a":"40.834569","cty":"NORTHUMBERLAND","id":8834210,"mun":"UPPER AUGUSTA TWP","nc":1,"o":"-76.81025"},"type":"Feature"}
 ]}
