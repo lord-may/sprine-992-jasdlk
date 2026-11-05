@@ -12,5 +12,6 @@
 {"geometry":{"coordinates":[-75.34443,41.61609],"type":"Point"},"properties":{"a":"41.61609","cty":"WAYNE","hp":true,"id":8834234,"mun":"CLINTON TWP","nc":42,"ne":{"a":"41.63021","o":"-75.33948"},"o":"-75.34443","sw":{"a":"41.60197","o":"-75.34938"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.496589,41.090261],"type":"Point"},"properties":{"a":"41.090261","cty":"COLUMBIA","id":8834239,"mun":"MOUNT PLEASANT TWP","nc":1,"o":"-76.496589"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.152448,41.658827],"type":"Point"},"properties":{"a":"41.658827","cty":"WAYNE","id":8834242,"mun":"DAMASCUS TWP","nc":1,"o":"-75.152448"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.65839,40.251159],"type":"Point"},"properties":{"a":"40.251159","cty":"DAUPHIN","id":8834250,"mun":"DERRY TWP","nc":1,"o":"-76.65839"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.65839,40.251159],"type":"Point"},"properties":{"a":"40.251159","cty":"DAUPHIN","id":8834250,"mun":"DERRY TWP","nc":1,"o":"-76.65839"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.323535,40.133372],"type":"Point"},"properties":{"a":"40.133372","cty":"CUMBERLAND","id":8834258,"mun":"PENN TWP","nc":2,"o":"-77.323535"},"type":"Feature"}
 ]}
