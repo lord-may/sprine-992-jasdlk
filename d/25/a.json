@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-73.242681,42.757824],"type":"Point"},"properties":{"active":true,"affectingCustomers":true,"cause":0,"county":"Bennington","crew_name":",SUND-HUGHES","customers_affected":1,"customers_affected_label":"1 Customer","device":"SERVICE","etor":"2026-11-05T07:00-05:00","has_etor":1,"incident_id":1017422,"status":"CREW_ASSIGNED","street":"VALLEY VIEW DR","town":"Pownal","trouble":"NO_POWER"},"type":"Feature"},
 {"geometry":{"coordinates":[-72.573793,43.64676],"type":"Point"},"properties":{"active":true,"affectingCustomers":true,"cause":0,"county":"Unknown","crew_name":",ROYA-FLOYD","customers_affected":44,"customers_affected_label":"44 Customers","device":"FUSE","etor":"2026-11-05T06:00-05:00","has_etor":1,"incident_id":1017424,"status":"CREW_ASSIGNED","street":"N BRIDGEWATER RD","town":"Woodstock","trouble":"NO_POWER"},"type":"Feature"}
 ]}
