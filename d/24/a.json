@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.283884,41.729588],"type":"Point"},"properties":{"a":"41.729588","cty":"BRISTOL","id":20261070078,"mun":"WARREN","nc":1,"o":"-71.283884"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.421593,41.824867],"type":"Point"},"properties":{"a":"41.824867","cty":"PROVIDENCE","id":20261070087,"mun":"PROVIDENCE","nc":1,"o":"-71.421593"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.770533,41.833978],"type":"Point"},"properties":{"a":"41.833978","cty":"PROVIDENCE","id":20261070090,"mun":"FOSTER","nc":1,"o":"-71.770533"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.522015,41.38989],"type":"Point"},"properties":{"a":"41.38989","cty":"WASHINGTON","id":20261070096,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.522015"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.439835,41.817892],"type":"Point"},"properties":{"a":"41.817892","cty":"PROVIDENCE","id":20261070099,"mun":"PROVIDENCE","nc":1,"o":"-71.439835"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.532068,41.410642],"type":"Point"},"properties":{"a":"41.410642","cty":"WASHINGTON","id":20261070108,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.532068"},"type":"Feature"}
 ]}
