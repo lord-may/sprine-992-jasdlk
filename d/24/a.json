@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.5169,41.913373],"type":"Point"},"properties":{"a":"41.913373","cty":"PROVIDENCE","id":20261070190,"mun":"SMITHFIELD","nc":1,"o":"-71.5169"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.454482,41.415404],"type":"Point"},"properties":{"a":"41.415404","cty":"WASHINGTON","id":20261070191,"mun":"NARRAGANSETT","nc":1,"o":"-71.454482"},"type":"Feature"}
+
 ]}
