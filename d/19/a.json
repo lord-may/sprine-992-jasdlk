@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-73.68471,42.914877],"type":"Point"},"properties":{"EstRest":"11/6/2026 9:00:00 AM","Outages":181,"county":"SARATOGA","customers":20344,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.686305,42.914712],"type":"Point"},"properties":{"EstRest":"11/6/2026 9:00:00 AM","Outages":34,"cause":"","county":"SARATOGA","crewstatus":"ENRT ","customers":64,"hamlet":"MECHANICVILLE","incidentnumber":"011AHS","incidents":1,"level":"street","opco":"NYSEG","street":"BRICKYARD RD","town":"STILLWATER T"},"type":"Feature"}
+{"geometry":{"coordinates":[-73.68471,42.914877],"type":"Point"},"properties":{"EstRest":"11/6/2026 8:30:00 AM","Outages":181,"county":"SARATOGA","customers":20344,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-73.686305,42.914712],"type":"Point"},"properties":{"EstRest":"11/6/2026 8:30:00 AM","Outages":34,"cause":"","county":"SARATOGA","crewstatus":"ONST ","customers":64,"hamlet":"MECHANICVILLE","incidentnumber":"011AHS","incidents":1,"level":"street","opco":"NYSEG","street":"BRICKYARD RD","town":"STILLWATER T"},"type":"Feature"}
 ]}
