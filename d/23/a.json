@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.26773,41.67606],"type":"Point"},"properties":{"a":"41.67606","cty":"WAYNE","hp":true,"id":8834561,"mun":"LEBANON TWP","nc":55,"ne":{"a":"41.69004","o":"-75.25652"},"o":"-75.26773","sw":{"a":"41.66209","o":"-75.27895"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.47847,40.46118],"type":"Point"},"properties":{"a":"40.46118","cty":"LEHIGH","hp":true,"id":8834563,"mun":"LOWER MILFORD TWP","nc":27,"ne":{"a":"40.46599","o":"-75.47077"},"o":"-75.47847","sw":{"a":"40.45636","o":"-75.48618"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.52737,41.09206],"type":"Point"},"properties":{"a":"41.09206","cty":"MONROE","hp":true,"id":8834569,"mun":"TOBYHANNA TWP","nc":71,"ne":{"a":"41.0969","o":"-75.51711"},"o":"-75.52737","sw":{"a":"41.08722","o":"-75.53762"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.54198,41.09301],"type":"Point"},"properties":{"a":"41.09301","cty":"MONROE","hp":true,"id":8834570,"mun":"TOBYHANNA TWP","nc":27,"ne":{"a":"41.09587","o":"-75.53824"},"o":"-75.54198","sw":{"a":"41.09016","o":"-75.54572"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.47598,40.4633],"type":"Point"},"properties":{"a":"40.4633","cty":"LEHIGH","hp":true,"id":8834563,"mun":"LOWER MILFORD TWP","nc":11,"ne":{"a":"40.46599","o":"-75.47077"},"o":"-75.47598","sw":{"a":"40.46062","o":"-75.48119"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.52737,41.09206],"type":"Point"},"properties":{"a":"41.09206","cty":"MONROE","hp":true,"id":8834569,"mun":"TOBYHANNA TWP","nc":71,"ne":{"a":"41.0969","o":"-75.51711"},"o":"-75.52737","sw":{"a":"41.08722","o":"-75.53762"}},"type":"Feature"}
 ]}
