@@ -3,5 +3,6 @@
 {"geometry":{"coordinates":[-76.573966,41.101217],"type":"Point"},"properties":{"a":"41.101217","cty":"COLUMBIA","id":8834572,"mun":"MADISON TWP","nc":1,"o":"-76.573966"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.544411,41.142095],"type":"Point"},"properties":{"a":"41.142095","cty":"MONROE","id":8834576,"mun":"TOBYHANNA TWP","nc":2,"o":"-75.544411"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.879006,41.237924],"type":"Point"},"properties":{"a":"41.237924","cty":"LUZERNE","id":8834578,"mun":"WILKES-BARRE","nc":32,"o":"-75.879006"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.437347,41.064947],"type":"Point"},"properties":{"a":"41.064947","cty":"MONROE","id":8834580,"mun":"TUNKHANNOCK TWP","nc":4,"o":"-75.437347"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.437347,41.064947],"type":"Point"},"properties":{"a":"41.064947","cty":"MONROE","id":8834580,"mun":"TUNKHANNOCK TWP","nc":4,"o":"-75.437347"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.455058,40.629455],"type":"Point"},"properties":{"a":"40.629455","cty":"LEHIGH","id":8834583,"mun":"ALLENTOWN","nc":1,"o":"-75.455058"},"type":"Feature"}
 ]}
