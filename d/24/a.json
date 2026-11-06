@@ -7,20 +7,16 @@
 {"geometry":{"coordinates":[-71.789402,41.75698],"type":"Point"},"properties":{"a":"41.75698","cty":"PROVIDENCE","id":20261070607,"mun":"FOSTER","nc":1,"o":"-71.789402"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.14809,41.634318],"type":"Point"},"properties":{"a":"41.634318","cty":"NEWPORT","id":20261070611,"mun":"TIVERTON","nc":1,"o":"-71.14809"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.674484,41.833218],"type":"Point"},"properties":{"a":"41.833218","cty":"PROVIDENCE","id":20261070612,"mun":"SCITUATE","nc":1,"o":"-71.674484"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.601146,41.89651],"type":"Point"},"properties":{"a":"41.89651","cty":"PROVIDENCE","id":20261070617,"mun":"GLOCESTER","nc":1,"o":"-71.601146"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.499366,41.876807],"type":"Point"},"properties":{"a":"41.876807","cty":"PROVIDENCE","id":20261070620,"mun":"SMITHFIELD","nc":11,"o":"-71.499366"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.499224,41.874272],"type":"Point"},"properties":{"a":"41.874272","cty":"PROVIDENCE","id":20261070625,"mun":"SMITHFIELD","nc":1,"o":"-71.499224"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.419986,41.653329],"type":"Point"},"properties":{"a":"41.653329","cty":"WASHINGTON","id":20261070630,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.419986"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.357221,41.891721],"type":"Point"},"properties":{"a":"41.891721","cty":"PROVIDENCE","id":20261070633,"mun":"PAWTUCKET","nc":1,"o":"-71.357221"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.49387,41.44892],"type":"Point"},"properties":{"a":"41.44892","cty":"WASHINGTON","hp":true,"id":20261070637,"mun":"SOUTH KINGSTOWN","nc":20,"ne":{"a":"41.44991","o":"-71.49298"},"o":"-71.49387","sw":{"a":"41.44793","o":"-71.49475"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.494612,41.450617],"type":"Point"},"properties":{"a":"41.450617","cty":"WASHINGTON","id":20261070638,"mun":"SOUTH KINGSTOWN","nc":2,"o":"-71.494612"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.626321,41.852069],"type":"Point"},"properties":{"a":"41.852069","cty":"PROVIDENCE","id":20261070639,"mun":"SCITUATE","nc":1,"o":"-71.626321"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.50745,41.456647],"type":"Point"},"properties":{"a":"41.456647","cty":"WASHINGTON","id":20261070640,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.50745"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.351504,41.763623],"type":"Point"},"properties":{"a":"41.763623","cty":"PROVIDENCE","id":20261070641,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.351504"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.634338,41.8461],"type":"Point"},"properties":{"a":"41.8461","cty":"PROVIDENCE","id":20261070645,"mun":"SCITUATE","nc":5,"o":"-71.634338"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.425015,41.837999],"type":"Point"},"properties":{"a":"41.837999","cty":"PROVIDENCE","id":20261070650,"mun":"PROVIDENCE","nc":1,"o":"-71.425015"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.476137,41.761201],"type":"Point"},"properties":{"a":"41.761201","cty":"PROVIDENCE","id":20261070652,"mun":"CRANSTON","nc":1,"o":"-71.476137"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.277708,41.559706],"type":"Point"},"properties":{"a":"41.559706","cty":"NEWPORT","id":20261070653,"mun":"PORTSMOUTH","nc":1,"o":"-71.277708"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.1949,41.52844],"type":"Point"},"properties":{"a":"41.52844","cty":"NEWPORT","hp":true,"id":20261070654,"mun":"LITTLE COMPTON","nc":8,"ne":{"a":"41.52945","o":"-71.19396"},"o":"-71.1949","sw":{"a":"41.52742","o":"-71.19583"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.371526,41.86546],"type":"Point"},"properties":{"a":"41.86546","cty":"PROVIDENCE","id":20261070657,"mun":"PAWTUCKET","nc":1,"o":"-71.371526"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.54174,41.401106],"type":"Point"},"properties":{"a":"41.401106","cty":"WASHINGTON","id":20261070660,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.54174"},"type":"Feature"}
 ]}
