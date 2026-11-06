@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.976493,44.32034],"type":"Point"},"properties":{"EstRest":"11/6/2026 6:30:00 AM","Outages":1,"cause":"","county":"KENNEBEC","crewstatus":"ONST ","customers":141,"hamlet":"WINTHROP","incidentnumber":"00465H","incidents":1,"level":"street","opco":"CMP","street":"ROUTE 133","town":"WINTHROP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.976493,44.32034],"type":"Point"},"properties":{"EstRest":"11/6/2026 6:30:00 AM","Outages":1,"cause":"Animal","county":"KENNEBEC","crewstatus":"CMPL ","customers":141,"hamlet":"WINTHROP","incidentnumber":"00465H","incidents":1,"level":"street","opco":"CMP","street":"ROUTE 133","town":"WINTHROP"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.976493,44.32034],"type":"Point"},"properties":{"EstRest":"11/6/2026 6:30:00 AM","Outages":1,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
