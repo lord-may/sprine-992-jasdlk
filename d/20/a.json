@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-77.688532,43.088393],"type":"Point"},"properties":{"EstRest":"11/6/2026 11:30:00 AM","Outages":6,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":21,"hamlet":"ROCHESTER","incidentnumber":"011AIS","incidents":1,"level":"street","opco":"RGE","street":"CHESTER AVE","town":"CHILI"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.688532,43.088393],"type":"Point"},"properties":{"EstRest":"11/6/2026 11:30:00 AM","Outages":7,"county":"MONROE","customers":303529,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.437923,42.97365],"type":"Point"},"properties":{"EstRest":"11/6/2026 12:15:00 PM","Outages":1,"cause":"","county":"ONTARIO","crewstatus":"ENRT ","customers":88,"hamlet":"VICTOR","incidentnumber":"011AIA","incidents":1,"level":"street","opco":"RGE","street":"DRYER RD","town":"VICTOR"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.437923,42.97365],"type":"Point"},"properties":{"EstRest":"11/6/2026 12:15:00 PM","Outages":1,"cause":"Animal","county":"ONTARIO","crewstatus":"CMPL ","customers":88,"hamlet":"VICTOR","incidentnumber":"011AIA","incidents":1,"level":"street","opco":"RGE","street":"DRYER RD","town":"VICTOR"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.437923,42.97365],"type":"Point"},"properties":{"EstRest":"11/6/2026 12:15:00 PM","Outages":1,"county":"ONTARIO","customers":35928,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
