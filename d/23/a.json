@@ -25,7 +25,6 @@
 {"geometry":{"coordinates":[-75.49306,40.671967],"type":"Point"},"properties":{"a":"40.671967","cty":"LEHIGH","id":8834633,"mun":"COPLAY BORO","nc":4,"o":"-75.49306"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.247969,40.931303],"type":"Point"},"properties":{"a":"40.931303","cty":"COLUMBIA","id":8834634,"mun":"BEAVER TWP","nc":1,"o":"-76.247969"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.352667,40.462686],"type":"Point"},"properties":{"a":"40.462686","cty":"BUCKS","id":8834636,"mun":"RICHLAND TWP","nc":1,"o":"-75.352667"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.573966,41.101217],"type":"Point"},"properties":{"a":"41.101217","cty":"COLUMBIA","id":8834637,"mun":"MADISON TWP","nc":1,"o":"-76.573966"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.71346,41.066652],"type":"Point"},"properties":{"a":"41.066652","cty":"CARBON","id":8834638,"mun":"KIDDER TWP","nc":2,"o":"-75.71346"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.386198,40.618613],"type":"Point"},"properties":{"a":"40.618613","cty":"LEHIGH","id":8834645,"mun":"BETHLEHEM","nc":53,"o":"-75.386198"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.873211,41.233091],"type":"Point"},"properties":{"a":"41.233091","cty":"LUZERNE","id":8834647,"mun":"WILKES-BARRE","nc":17,"o":"-75.873211"},"type":"Feature"},
@@ -38,5 +37,14 @@
 {"geometry":{"coordinates":[-76.106444,40.282776],"type":"Point"},"properties":{"a":"40.282776","cty":"LANCASTER","id":8834657,"mun":"WEST COCALICO TWP","nc":4,"o":"-76.106444"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.56535,40.13624],"type":"Point"},"properties":{"a":"40.13624","cty":"LANCASTER","hp":true,"id":8834660,"mun":"MOUNT JOY TWP","nc":53,"ne":{"a":"40.13841","o":"-76.56315"},"o":"-76.56535","sw":{"a":"40.13407","o":"-76.56755"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.68296,40.66438],"type":"Point"},"properties":{"a":"40.66438","cty":"LEHIGH","hp":true,"id":8834663,"mun":"LOWHILL TWP","nc":8,"ne":{"a":"40.66644","o":"-75.6821"},"o":"-75.68296","sw":{"a":"40.66232","o":"-75.68383"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.328153,40.66809],"type":"Point"},"properties":{"a":"40.66809","cty":"NORTHAMPTON","id":8834666,"mun":"BETHLEHEM TWP","nc":5,"o":"-75.328153"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.228389,40.195623],"type":"Point"},"properties":{"a":"40.195623","cty":"CUMBERLAND","id":8834667,"mun":"CARLISLE BORO","nc":1,"o":"-77.228389"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.55191,40.566373],"type":"Point"},"properties":{"a":"40.566373","cty":"LEHIGH","id":8834669,"mun":"LOWER MACUNGIE TWP","nc":2,"o":"-75.55191"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.271873,40.270034],"type":"Point"},"properties":{"a":"40.270034","cty":"LEBANON","id":8834670,"mun":"HEIDELBERG TWP","nc":1,"o":"-76.271873"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.522805,39.939885],"type":"Point"},"properties":{"a":"39.939885","cty":"YORK","id":8834671,"mun":"LOWER WINDSOR TWP","nc":2,"o":"-76.522805"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.763907,40.9288],"type":"Point"},"properties":{"a":"40.9288","cty":"NORTHUMBERLAND","id":8834672,"mun":"POINT TWP","nc":1,"o":"-76.763907"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.107909,40.282246],"type":"Point"},"properties":{"a":"40.282246","cty":"LANCASTER","id":8834673,"mun":"WEST COCALICO TWP","nc":2,"o":"-76.107909"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.009585,41.150831],"type":"Point"},"properties":{"a":"41.150831","cty":"LUZERNE","id":8834674,"mun":"SLOCUM TWP","nc":1,"o":"-76.009585"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.901398,41.238644],"type":"Point"},"properties":{"a":"41.238644","cty":"LUZERNE","id":8834676,"mun":"WILKES-BARRE","nc":19,"o":"-75.901398"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.24143,41.03062],"type":"Point"},"properties":{"a":"41.03062","cty":"CLINTON","hp":true,"id":8834679,"mun":"GREENE TWP","nc":18,"ne":{"a":"41.03249","o":"-77.23115"},"o":"-77.24143","sw":{"a":"41.02875","o":"-77.25172"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.889269,41.018733],"type":"Point"},"properties":{"a":"41.018733","cty":"LUZERNE","id":8834680,"mun":"FOSTER TWP","nc":14,"o":"-75.889269"},"type":"Feature"}
 ]}
