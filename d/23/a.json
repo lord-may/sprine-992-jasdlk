@@ -14,7 +14,6 @@
 {"geometry":{"coordinates":[-76.56535,40.13624],"type":"Point"},"properties":{"a":"40.13624","cty":"LANCASTER","hp":true,"id":8834660,"mun":"MOUNT JOY TWP","nc":53,"ne":{"a":"40.13841","o":"-76.56315"},"o":"-76.56535","sw":{"a":"40.13407","o":"-76.56755"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.68296,40.66438],"type":"Point"},"properties":{"a":"40.66438","cty":"LEHIGH","hp":true,"id":8834663,"mun":"LOWHILL TWP","nc":8,"ne":{"a":"40.66644","o":"-75.6821"},"o":"-75.68296","sw":{"a":"40.66232","o":"-75.68383"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.228389,40.195623],"type":"Point"},"properties":{"a":"40.195623","cty":"CUMBERLAND","id":8834667,"mun":"CARLISLE BORO","nc":1,"o":"-77.228389"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.271873,40.270034],"type":"Point"},"properties":{"a":"40.270034","cty":"LEBANON","id":8834670,"mun":"HEIDELBERG TWP","nc":1,"o":"-76.271873"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.522805,39.939885],"type":"Point"},"properties":{"a":"39.939885","cty":"YORK","id":8834671,"mun":"LOWER WINDSOR TWP","nc":2,"o":"-76.522805"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.763907,40.9288],"type":"Point"},"properties":{"a":"40.9288","cty":"NORTHUMBERLAND","id":8834672,"mun":"POINT TWP","nc":1,"o":"-76.763907"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.009585,41.150831],"type":"Point"},"properties":{"a":"41.150831","cty":"LUZERNE","id":8834674,"mun":"SLOCUM TWP","nc":1,"o":"-76.009585"},"type":"Feature"},
@@ -29,13 +28,12 @@
 {"geometry":{"coordinates":[-76.456197,40.998428],"type":"Point"},"properties":{"a":"40.998428","cty":"COLUMBIA","id":8834723,"mun":"BLOOMSBURG","nc":6,"o":"-76.456197"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.133911,40.683459],"type":"Point"},"properties":{"a":"40.683459","cty":"JUNIATA","id":8834732,"mun":"MONROE TWP","nc":1,"o":"-77.133911"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.104249,40.977521],"type":"Point"},"properties":{"a":"40.977521","cty":"LUZERNE","id":8834734,"mun":"SUGARLOAF TWP","nc":1,"o":"-76.104249"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.271605,40.2701],"type":"Point"},"properties":{"a":"40.2701","cty":"LEBANON","id":8834740,"mun":"HEIDELBERG TWP","nc":2,"o":"-76.271605"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.559336,40.144316],"type":"Point"},"properties":{"a":"40.144316","cty":"LANCASTER","id":8834750,"mun":"MOUNT JOY TWP","nc":1,"o":"-76.559336"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.107909,40.282246],"type":"Point"},"properties":{"a":"40.282246","cty":"LANCASTER","id":8834761,"mun":"WEST COCALICO TWP","nc":2,"o":"-76.107909"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.462287,40.982595],"type":"Point"},"properties":{"a":"40.982595","cty":"MONROE","id":8834763,"mun":"CHESTNUT HILL TWP","nc":2,"o":"-75.462287"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.26607,40.03613],"type":"Point"},"properties":{"a":"40.03613","cty":"LANCASTER","hp":true,"id":8834765,"mun":"EAST LAMPETER TWP","nc":39,"ne":{"a":"40.037","o":"-76.26452"},"o":"-76.26607","sw":{"a":"40.03526","o":"-76.26762"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.740186,40.568806],"type":"Point"},"properties":{"a":"40.568806","cty":"DAUPHIN","id":8834767,"mun":"WASHINGTON TWP","nc":3,"o":"-76.740186"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.1056,40.283109],"type":"Point"},"properties":{"a":"40.283109","cty":"LANCASTER","id":8834769,"mun":"WEST COCALICO TWP","nc":1,"o":"-76.1056"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.584744,40.08229],"type":"Point"},"properties":{"a":"40.08229","cty":"LANCASTER","id":8834771,"mun":"EAST DONEGAL TWP","nc":6,"o":"-76.584744"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.410899,40.046264],"type":"Point"},"properties":{"a":"40.046264","cty":"LANCASTER","id":8834774,"mun":"WEST HEMPFIELD TWP","nc":1,"o":"-76.410899"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.410899,40.046264],"type":"Point"},"properties":{"a":"40.046264","cty":"LANCASTER","id":8834774,"mun":"WEST HEMPFIELD TWP","nc":1,"o":"-76.410899"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.557551,40.181185],"type":"Point"},"properties":{"a":"40.181185","cty":"LANCASTER","id":8834778,"mun":"MOUNT JOY TWP","nc":1,"o":"-76.557551"},"type":"Feature"}
 ]}

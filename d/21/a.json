@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.47379,44.415821],"type":"Point"},"properties":{"EstRest":"11/6/2026 1:30:00 PM","Outages":1,"cause":"","county":"KENNEBEC","crewstatus":"ONST ","customers":2,"hamlet":"CHINA","incidentnumber":"00466N","incidents":1,"level":"street","opco":"CMP","street":"JAYNES LN","town":"CHINA"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.47379,44.415821],"type":"Point"},"properties":{"EstRest":"11/6/2026 1:30:00 PM","Outages":1,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.634543,44.681622],"type":"Point"},"properties":{"EstRest":"11/6/2026 1:15:00 PM","Outages":1,"cause":"","county":"SOMERSET","crewstatus":"ONST ","customers":172,"hamlet":"FAIRFIELD","incidentnumber":"004664","incidents":1,"level":"street","opco":"CMP","street":"SKOWHEGAN RD","town":"FAIRFIELD"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.634543,44.681622],"type":"Point"},"properties":{"EstRest":"11/6/2026 1:15:00 PM","Outages":1,"county":"SOMERSET","customers":31730,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
