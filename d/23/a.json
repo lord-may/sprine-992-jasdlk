@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.451663,40.535165],"type":"Point"},"properties":{"a":"40.535165","cty":"LEHIGH","id":8834556,"mun":"UPPER SAUCON TWP","nc":2,"o":"-75.451663"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.451663,40.535165],"type":"Point"},"properties":{"a":"40.535165","cty":"LEHIGH","id":8834556,"mun":"UPPER SAUCON TWP","nc":2,"o":"-75.451663"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.26773,41.67606],"type":"Point"},"properties":{"a":"41.67606","cty":"WAYNE","hp":true,"id":8834561,"mun":"LEBANON TWP","nc":55,"ne":{"a":"41.69004","o":"-75.25652"},"o":"-75.26773","sw":{"a":"41.66209","o":"-75.27895"}},"type":"Feature"}
 ]}
