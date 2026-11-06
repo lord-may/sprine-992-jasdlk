@@ -5,7 +5,6 @@
 {"geometry":{"coordinates":[-71.674555,41.8337],"type":"Point"},"properties":{"a":"41.8337","cty":"PROVIDENCE","id":20261070223,"mun":"SCITUATE","nc":4,"o":"-71.674555"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.61104,41.85555],"type":"Point"},"properties":{"a":"41.85555","cty":"PROVIDENCE","hp":true,"id":20261070233,"mun":"SCITUATE","nc":9,"ne":{"a":"41.85771","o":"-71.60895"},"o":"-71.61104","sw":{"a":"41.85338","o":"-71.61313"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.45993,41.877493],"type":"Point"},"properties":{"a":"41.877493","cty":"PROVIDENCE","id":20261070234,"mun":"LINCOLN","nc":1,"o":"-71.45993"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.617256,41.809371],"type":"Point"},"properties":{"a":"41.809371","cty":"PROVIDENCE","id":20261070246,"mun":"SCITUATE","nc":1,"o":"-71.617256"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.62433,41.84438],"type":"Point"},"properties":{"a":"41.84438","cty":"PROVIDENCE","hp":true,"id":20261070249,"mun":"SCITUATE","nc":35,"ne":{"a":"41.8459","o":"-71.61749"},"o":"-71.62433","sw":{"a":"41.84285","o":"-71.63117"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.741563,41.888156],"type":"Point"},"properties":{"a":"41.888156","cty":"PROVIDENCE","id":20261070252,"mun":"GLOCESTER","nc":1,"o":"-71.741563"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.50191,41.84472],"type":"Point"},"properties":{"a":"41.84472","cty":"PROVIDENCE","hp":true,"id":20261070254,"mun":"JOHNSTON","nc":4,"ne":{"a":"41.84542","o":"-71.50169"},"o":"-71.50191","sw":{"a":"41.84403","o":"-71.50212"}},"type":"Feature"},
@@ -25,7 +24,6 @@
 {"geometry":{"coordinates":[-71.609782,41.903221],"type":"Point"},"properties":{"a":"41.903221","cty":"PROVIDENCE","id":20261070311,"mun":"GLOCESTER","nc":1,"o":"-71.609782"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.75988,41.81731],"type":"Point"},"properties":{"a":"41.81731","cty":"PROVIDENCE","hp":true,"id":20261070319,"mun":"FOSTER","nc":15,"ne":{"a":"41.82357","o":"-71.75697"},"o":"-71.75988","sw":{"a":"41.81106","o":"-71.76279"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.41627,41.93818],"type":"Point"},"properties":{"a":"41.93818","cty":"PROVIDENCE","hp":true,"id":20261070324,"mun":"CUMBERLAND","nc":8,"ne":{"a":"41.93901","o":"-71.41549"},"o":"-71.41627","sw":{"a":"41.93736","o":"-71.41705"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.681087,41.84951],"type":"Point"},"properties":{"a":"41.84951","cty":"PROVIDENCE","id":20261070327,"mun":"SCITUATE","nc":1,"o":"-71.681087"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.42181,41.93618],"type":"Point"},"properties":{"a":"41.93618","cty":"PROVIDENCE","hp":true,"id":20261070331,"mun":"CUMBERLAND","nc":15,"ne":{"a":"41.93725","o":"-71.42113"},"o":"-71.42181","sw":{"a":"41.9351","o":"-71.4225"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.403013,41.777049],"type":"Point"},"properties":{"a":"41.777049","cty":"PROVIDENCE","id":20261070332,"mun":"CRANSTON","nc":17,"o":"-71.403013"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.48216,41.89968],"type":"Point"},"properties":{"a":"41.89968","cty":"PROVIDENCE","hp":true,"id":20261070334,"mun":"SMITHFIELD","nc":33,"ne":{"a":"41.90227","o":"-71.4782"},"o":"-71.48216","sw":{"a":"41.8971","o":"-71.48612"}},"type":"Feature"},
@@ -37,12 +35,13 @@
 {"geometry":{"coordinates":[-71.443217,41.921497],"type":"Point"},"properties":{"a":"41.921497","cty":"PROVIDENCE","id":20261070351,"mun":"LINCOLN","nc":1,"o":"-71.443217"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.311794,41.751225],"type":"Point"},"properties":{"a":"41.751225","cty":"BRISTOL","id":20261070356,"mun":"BARRINGTON","nc":3,"o":"-71.311794"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.304921,41.479011],"type":"Point"},"properties":{"a":"41.479011","cty":"NEWPORT","id":20261070367,"mun":"NEWPORT","nc":1,"o":"-71.304921"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.407278,41.894346],"type":"Point"},"properties":{"a":"41.894346","cty":"PROVIDENCE","id":20261070371,"mun":"LINCOLN","nc":1,"o":"-71.407278"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.744249,41.820797],"type":"Point"},"properties":{"a":"41.820797","cty":"PROVIDENCE","id":20261070373,"mun":"FOSTER","nc":1,"o":"-71.744249"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.54996,41.91587],"type":"Point"},"properties":{"a":"41.91587","cty":"PROVIDENCE","id":20261070379,"mun":"SMITHFIELD","nc":1,"o":"-71.54996"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.498425,41.806039],"type":"Point"},"properties":{"a":"41.806039","cty":"PROVIDENCE","id":20261070382,"mun":"JOHNSTON","nc":1,"o":"-71.498425"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.399595,42.012704],"type":"Point"},"properties":{"a":"42.012704","cty":"PROVIDENCE","id":20261070385,"mun":"CUMBERLAND","nc":1,"o":"-71.399595"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.634725,41.689722],"type":"Point"},"properties":{"a":"41.689722","cty":"KENT","id":20261070387,"mun":"COVENTRY","nc":1,"o":"-71.634725"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.740977,41.818336],"type":"Point"},"properties":{"a":"41.818336","cty":"PROVIDENCE","id":20261070388,"mun":"FOSTER","nc":1,"o":"-71.740977"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.710726,41.802298],"type":"Point"},"properties":{"a":"41.802298","cty":"PROVIDENCE","id":20261070389,"mun":"FOSTER","nc":1,"o":"-71.710726"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.710726,41.802298],"type":"Point"},"properties":{"a":"41.802298","cty":"PROVIDENCE","id":20261070389,"mun":"FOSTER","nc":1,"o":"-71.710726"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.601682,41.89003],"type":"Point"},"properties":{"a":"41.89003","cty":"PROVIDENCE","id":20261070392,"mun":"GLOCESTER","nc":1,"o":"-71.601682"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.598687,41.893717],"type":"Point"},"properties":{"a":"41.893717","cty":"PROVIDENCE","id":20261070393,"mun":"GLOCESTER","nc":1,"o":"-71.598687"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.664037,41.726326],"type":"Point"},"properties":{"a":"41.726326","cty":"KENT","id":20261070394,"mun":"COVENTRY","nc":1,"o":"-71.664037"},"type":"Feature"}
 ]}
