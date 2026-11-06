@@ -7,9 +7,5 @@
 {"geometry":{"coordinates":[-70.892657,42.198024],"type":"Point"},"properties":{},"type":"Feature"},
 {"geometry":{"coordinates":[-70.893095,42.197711],"type":"Point"},"properties":{},"type":"Feature"},
 {"geometry":{"coordinates":[-70.895926,42.197746],"type":"Point"},"properties":{},"type":"Feature"},
-{"geometry":{"coordinates":[-70.897935,42.197075],"type":"Point"},"properties":{},"type":"Feature"},
-{"geometry":{"coordinates":[-70.899027,42.198455],"type":"Point"},"properties":{},"type":"Feature"},
-{"geometry":{"coordinates":[-70.899074,42.198162],"type":"Point"},"properties":{},"type":"Feature"},
-{"geometry":{"coordinates":[-70.899566,42.197837],"type":"Point"},"properties":{},"type":"Feature"},
-{"geometry":{"coordinates":[-70.899567,42.198276],"type":"Point"},"properties":{},"type":"Feature"}
+{"geometry":{"coordinates":[-70.897935,42.197075],"type":"Point"},"properties":{},"type":"Feature"}
 ]}
