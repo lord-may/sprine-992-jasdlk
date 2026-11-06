@@ -19,5 +19,11 @@
 {"geometry":{"coordinates":[-71.499224,41.874272],"type":"Point"},"properties":{"a":"41.874272","cty":"PROVIDENCE","id":20261070625,"mun":"SMITHFIELD","nc":1,"o":"-71.499224"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.419986,41.653329],"type":"Point"},"properties":{"a":"41.653329","cty":"WASHINGTON","id":20261070630,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.419986"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.357221,41.891721],"type":"Point"},"properties":{"a":"41.891721","cty":"PROVIDENCE","id":20261070633,"mun":"PAWTUCKET","nc":1,"o":"-71.357221"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.194932,41.528419],"type":"Point"},"properties":{"a":"41.528419","cty":"NEWPORT","id":20261070634,"mun":"LITTLE COMPTON","nc":1,"o":"-71.194932"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.194932,41.528419],"type":"Point"},"properties":{"a":"41.528419","cty":"NEWPORT","id":20261070634,"mun":"LITTLE COMPTON","nc":1,"o":"-71.194932"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.49387,41.44892],"type":"Point"},"properties":{"a":"41.44892","cty":"WASHINGTON","hp":true,"id":20261070637,"mun":"SOUTH KINGSTOWN","nc":20,"ne":{"a":"41.44991","o":"-71.49298"},"o":"-71.49387","sw":{"a":"41.44793","o":"-71.49475"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.494612,41.450617],"type":"Point"},"properties":{"a":"41.450617","cty":"WASHINGTON","id":20261070638,"mun":"SOUTH KINGSTOWN","nc":2,"o":"-71.494612"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.626321,41.852069],"type":"Point"},"properties":{"a":"41.852069","cty":"PROVIDENCE","id":20261070639,"mun":"SCITUATE","nc":1,"o":"-71.626321"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.50745,41.456647],"type":"Point"},"properties":{"a":"41.456647","cty":"WASHINGTON","id":20261070640,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.50745"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.351504,41.763623],"type":"Point"},"properties":{"a":"41.763623","cty":"PROVIDENCE","id":20261070641,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.351504"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.353233,41.873268],"type":"Point"},"properties":{"a":"41.873268","cty":"PROVIDENCE","id":20261070642,"mun":"PAWTUCKET","nc":1,"o":"-71.353233"},"type":"Feature"}
 ]}
