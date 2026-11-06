@@ -3,6 +3,6 @@
 {"geometry":{"coordinates":[-75.63194,40.80474],"type":"Point"},"properties":{"a":"40.80474","cty":"CARBON","hp":true,"id":8834851,"mun":"PALMERTON BORO","nc":68,"ne":{"a":"40.81074","o":"-75.62916"},"o":"-75.63194","sw":{"a":"40.79874","o":"-75.63472"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.985216,40.763454],"type":"Point"},"properties":{"a":"40.763454","cty":"SCHUYLKILL","id":8834898,"mun":"WALKER TWP","nc":1,"o":"-75.985216"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.245703,41.050931],"type":"Point"},"properties":{"a":"41.050931","cty":"COLUMBIA","id":8834916,"mun":"BERWICK BORO","nc":1,"o":"-76.245703"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.832653,40.835004],"type":"Point"},"properties":{"a":"40.835004","cty":"SNYDER","id":8834926,"mun":"MONROE TWP","nc":14,"o":"-76.832653"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.798742,40.628342],"type":"Point"},"properties":{"a":"40.628342","cty":"DAUPHIN","id":8834929,"mun":"MIFFLIN TWP","nc":4,"o":"-76.798742"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.798742,40.628342],"type":"Point"},"properties":{"a":"40.628342","cty":"DAUPHIN","id":8834929,"mun":"MIFFLIN TWP","nc":4,"o":"-76.798742"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.660737,41.44045],"type":"Point"},"properties":{"a":"41.44045","cty":"LACKAWANNA","id":8834930,"mun":"SCRANTON","nc":17,"o":"-75.660737"},"type":"Feature"}
 ]}

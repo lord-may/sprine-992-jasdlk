@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.501457,41.876138],"type":"Point"},"properties":{"a":"41.876138","cty":"PROVIDENCE","id":20261070474,"mun":"SMITHFIELD","nc":1,"o":"-71.501457"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.701532,41.735811],"type":"Point"},"properties":{"a":"41.735811","cty":"PROVIDENCE","id":20261070558,"mun":"FOSTER","nc":1,"o":"-71.701532"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.789402,41.75698],"type":"Point"},"properties":{"a":"41.75698","cty":"PROVIDENCE","id":20261070607,"mun":"FOSTER","nc":1,"o":"-71.789402"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.499366,41.876807],"type":"Point"},"properties":{"a":"41.876807","cty":"PROVIDENCE","id":20261070620,"mun":"SMITHFIELD","nc":11,"o":"-71.499366"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.499224,41.874272],"type":"Point"},"properties":{"a":"41.874272","cty":"PROVIDENCE","id":20261070625,"mun":"SMITHFIELD","nc":1,"o":"-71.499224"},"type":"Feature"},
