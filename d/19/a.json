@@ -1,8 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-77.941206,42.805397],"type":"Point"},"properties":{"EstRest":"11/6/2026 8:15:00 PM","Outages":58,"county":"LIVINGSTON","customers":7183,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.955611,42.77151],"type":"Point"},"properties":{"EstRest":"11/6/2026 8:15:00 PM","Outages":1,"cause":"","county":"LIVINGSTON","crewstatus":"DISP ","customers":1,"hamlet":"PERRY","incidentnumber":"011AOF","incidents":1,"level":"street","opco":"NYSEG","street":"BRIAN RD","town":"PERRY T"},"type":"Feature"},
-{"geometry":{"coordinates":[-74.620027,41.713453],"type":"Point"},"properties":{"EstRest":"11/6/2026 6:15:00 PM","Outages":9,"cause":"Animal","county":"SULLIVAN","crewstatus":"CMPL ","customers":357,"hamlet":"SOUTH FALLSBURG","incidentnumber":"011ANS","incidents":1,"level":"street","opco":"NYSEG","street":"STATE ROUTE 42","town":"FALLSBURG T"},"type":"Feature"},
-{"geometry":{"coordinates":[-74.620027,41.713453],"type":"Point"},"properties":{"EstRest":"11/6/2026 6:15:00 PM","Outages":9,"county":"SULLIVAN","customers":50189,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.955578,42.788684],"type":"Point"},"properties":{"EstRest":"11/6/2026 8:15:00 PM","Outages":1,"cause":"","county":"WYOMING","crewstatus":"DISP ","customers":1,"hamlet":"LEICESTER","incidentnumber":"011AOF","incidents":1,"level":"street","opco":"NYSEG","street":"BRIAN RD","town":"PERRY T"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.955593,42.770321],"type":"Point"},"properties":{"EstRest":"11/6/2026 8:15:00 PM","Outages":11,"county":"WYOMING","customers":12291,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}

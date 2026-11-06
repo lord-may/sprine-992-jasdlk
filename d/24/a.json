@@ -13,6 +13,5 @@
 {"geometry":{"coordinates":[-71.54174,41.401106],"type":"Point"},"properties":{"a":"41.401106","cty":"WASHINGTON","id":20261070660,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.54174"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.701532,41.735811],"type":"Point"},"properties":{"a":"41.735811","cty":"PROVIDENCE","id":20261070664,"mun":"FOSTER","nc":1,"o":"-71.701532"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.601146,41.89651],"type":"Point"},"properties":{"a":"41.89651","cty":"PROVIDENCE","id":20261070669,"mun":"GLOCESTER","nc":1,"o":"-71.601146"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.680809,41.855229],"type":"Point"},"properties":{"a":"41.855229","cty":"PROVIDENCE","id":20261070675,"mun":"SCITUATE","nc":1,"o":"-71.680809"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.478585,41.867496],"type":"Point"},"properties":{"a":"41.867496","cty":"PROVIDENCE","id":20261070676,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.478585"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.739313,41.863116],"type":"Point"},"properties":{"a":"41.863116","cty":"PROVIDENCE","id":20261070677,"mun":"GLOCESTER","nc":1,"o":"-71.739313"},"type":"Feature"}
 ]}

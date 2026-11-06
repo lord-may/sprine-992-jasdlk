@@ -3,7 +3,7 @@
 {"geometry":{"coordinates":[-75.47609,40.598031],"type":"Point"},"properties":{"a":"40.598031","cty":"LEHIGH","id":8834783,"mun":"ALLENTOWN","nc":1,"o":"-75.47609"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.63194,40.80474],"type":"Point"},"properties":{"a":"40.80474","cty":"CARBON","hp":true,"id":8834851,"mun":"PALMERTON BORO","nc":68,"ne":{"a":"40.81074","o":"-75.62916"},"o":"-75.63194","sw":{"a":"40.79874","o":"-75.63472"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.688335,41.413793],"type":"Point"},"properties":{"a":"41.413793","cty":"LACKAWANNA","id":8834874,"mun":"SCRANTON","nc":38,"o":"-75.688335"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.492115,40.668111],"type":"Point"},"properties":{"a":"40.668111","cty":"LEHIGH","id":8834893,"mun":"COPLAY BORO","nc":10,"o":"-75.492115"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.985216,40.763454],"type":"Point"},"properties":{"a":"40.763454","cty":"SCHUYLKILL","id":8834898,"mun":"WALKER TWP","nc":1,"o":"-75.985216"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.156789,40.899489],"type":"Point"},"properties":{"a":"40.899489","cty":"UNION","id":8834914,"mun":"HARTLETON BORO","nc":5,"o":"-77.156789"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.245703,41.050931],"type":"Point"},"properties":{"a":"41.050931","cty":"COLUMBIA","id":8834916,"mun":"BERWICK BORO","nc":1,"o":"-76.245703"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.832653,40.835004],"type":"Point"},"properties":{"a":"40.835004","cty":"SNYDER","id":8834918,"mun":"MONROE TWP","nc":14,"o":"-76.832653"},"type":"Feature"}
 ]}
