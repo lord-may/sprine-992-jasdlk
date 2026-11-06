@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-78.662139,43.001874],"type":"Point"},"properties":{"EstRest":"11/6/2026 3:15:00 PM","Outages":269,"county":"ERIE","customers":157708,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-78.666636,43.011656],"type":"Point"},"properties":{"EstRest":"11/6/2026 3:15:00 PM","Outages":6,"cause":"","county":"ERIE","crewstatus":"DISP ","customers":6,"hamlet":"CLARENCE CENTER","incidentnumber":"011AKB","incidents":1,"level":"street","opco":"NYSEG","street":"HALEY CT","town":"CLARENCE T"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.12548,42.151642],"type":"Point"},"properties":{"EstRest":"11/6/2026 4:45:00 PM","Outages":22,"cause":"","county":"STEUBEN","crewstatus":"     ","customers":22,"hamlet":"PAINTED POST","incidentnumber":"011AME","incidents":1,"level":"street","opco":"NYSEG","street":"WESTON LN","town":"ERWIN T"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.12548,42.151642],"type":"Point"},"properties":{"EstRest":"11/6/2026 4:45:00 PM","Outages":22,"cause":"","county":"STEUBEN","crewstatus":"DISP ","customers":22,"hamlet":"PAINTED POST","incidentnumber":"011AME","incidents":1,"level":"street","opco":"NYSEG","street":"WESTON LN","town":"ERWIN T"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.126457,42.15083],"type":"Point"},"properties":{"EstRest":"11/6/2026 4:45:00 PM","Outages":63,"county":"STEUBEN","customers":42828,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
