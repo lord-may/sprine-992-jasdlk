@@ -10,7 +10,6 @@
 {"geometry":{"coordinates":[-71.704096,41.881929],"type":"Point"},"properties":{"a":"41.881929","cty":"PROVIDENCE","id":20261070413,"mun":"GLOCESTER","nc":1,"o":"-71.704096"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.643401,41.865082],"type":"Point"},"properties":{"a":"41.865082","cty":"PROVIDENCE","id":20261070443,"mun":"GLOCESTER","nc":1,"o":"-71.643401"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.523412,41.910976],"type":"Point"},"properties":{"a":"41.910976","cty":"PROVIDENCE","id":20261070452,"mun":"SMITHFIELD","nc":1,"o":"-71.523412"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.678489,41.846819],"type":"Point"},"properties":{"a":"41.846819","cty":"PROVIDENCE","id":20261070456,"mun":"SCITUATE","nc":1,"o":"-71.678489"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.52082,41.910559],"type":"Point"},"properties":{"a":"41.910559","cty":"PROVIDENCE","id":20261070464,"mun":"SMITHFIELD","nc":1,"o":"-71.52082"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.501457,41.876138],"type":"Point"},"properties":{"a":"41.876138","cty":"PROVIDENCE","id":20261070474,"mun":"SMITHFIELD","nc":1,"o":"-71.501457"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.639326,41.846507],"type":"Point"},"properties":{"a":"41.846507","cty":"PROVIDENCE","id":20261070489,"mun":"SCITUATE","nc":1,"o":"-71.639326"},"type":"Feature"},
@@ -35,9 +34,12 @@
 {"geometry":{"coordinates":[-71.734912,41.816103],"type":"Point"},"properties":{"a":"41.816103","cty":"PROVIDENCE","id":20261070561,"mun":"FOSTER","nc":1,"o":"-71.734912"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.474901,41.755998],"type":"Point"},"properties":{"a":"41.755998","cty":"PROVIDENCE","id":20261070562,"mun":"CRANSTON","nc":1,"o":"-71.474901"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.472136,41.751665],"type":"Point"},"properties":{"a":"41.751665","cty":"PROVIDENCE","id":20261070563,"mun":"CRANSTON","nc":1,"o":"-71.472136"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.471201,41.747479],"type":"Point"},"properties":{"a":"41.747479","cty":"PROVIDENCE","id":20261070564,"mun":"CRANSTON","nc":1,"o":"-71.471201"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.471913,41.755003],"type":"Point"},"properties":{"a":"41.755003","cty":"PROVIDENCE","id":20261070566,"mun":"CRANSTON","nc":1,"o":"-71.471913"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.407278,41.894346],"type":"Point"},"properties":{"a":"41.894346","cty":"PROVIDENCE","id":20261070567,"mun":"LINCOLN","nc":1,"o":"-71.407278"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.482339,41.746987],"type":"Point"},"properties":{"a":"41.746987","cty":"PROVIDENCE","id":20261070568,"mun":"CRANSTON","nc":1,"o":"-71.482339"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.696881,41.832126],"type":"Point"},"properties":{"a":"41.832126","cty":"PROVIDENCE","id":20261070570,"mun":"FOSTER","nc":1,"o":"-71.696881"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.696881,41.832126],"type":"Point"},"properties":{"a":"41.832126","cty":"PROVIDENCE","id":20261070570,"mun":"FOSTER","nc":1,"o":"-71.696881"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.81917,41.325798],"type":"Point"},"properties":{"a":"41.325798","cty":"WASHINGTON","id":20261070571,"mun":"WESTERLY","nc":6,"o":"-71.81917"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.537884,41.740651],"type":"Point"},"properties":{"a":"41.740651","cty":"PROVIDENCE","id":20261070572,"mun":"CRANSTON","nc":1,"o":"-71.537884"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.820065,41.327067],"type":"Point"},"properties":{"a":"41.327067","cty":"WASHINGTON","id":20261070576,"mun":"WESTERLY","nc":1,"o":"-71.820065"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.477165,41.749318],"type":"Point"},"properties":{"a":"41.749318","cty":"PROVIDENCE","id":20261070577,"mun":"CRANSTON","nc":1,"o":"-71.477165"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.403274,41.804038],"type":"Point"},"properties":{"a":"41.804038","cty":"PROVIDENCE","id":20261070578,"mun":"PROVIDENCE","nc":1,"o":"-71.403274"},"type":"Feature"}
 ]}
