@@ -1,11 +1,10 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.038472,41.146743],"type":"Point"},"properties":{"a":"41.146743","cty":"LUZERNE","id":8834631,"mun":"SLOCUM TWP","nc":5,"o":"-76.038472"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.352667,40.462686],"type":"Point"},"properties":{"a":"40.462686","cty":"BUCKS","id":8834636,"mun":"RICHLAND TWP","nc":1,"o":"-75.352667"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.228389,40.195623],"type":"Point"},"properties":{"a":"40.195623","cty":"CUMBERLAND","id":8834667,"mun":"CARLISLE BORO","nc":1,"o":"-77.228389"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.47609,40.598031],"type":"Point"},"properties":{"a":"40.598031","cty":"LEHIGH","id":8834783,"mun":"ALLENTOWN","nc":1,"o":"-75.47609"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.889269,41.018733],"type":"Point"},"properties":{"a":"41.018733","cty":"LUZERNE","id":8834829,"mun":"FOSTER TWP","nc":1,"o":"-75.889269"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.63194,40.80474],"type":"Point"},"properties":{"a":"40.80474","cty":"CARBON","hp":true,"id":8834851,"mun":"PALMERTON BORO","nc":68,"ne":{"a":"40.81074","o":"-75.62916"},"o":"-75.63194","sw":{"a":"40.79874","o":"-75.63472"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.688335,41.413793],"type":"Point"},"properties":{"a":"41.413793","cty":"LACKAWANNA","id":8834874,"mun":"SCRANTON","nc":38,"o":"-75.688335"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.481514,40.66254],"type":"Point"},"properties":{"a":"40.66254","cty":"NORTHAMPTON","id":8834886,"mun":"NORTH CATASAUQUA BORO","nc":1,"o":"-75.481514"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.875257,41.237627],"type":"Point"},"properties":{"a":"41.237627","cty":"LUZERNE","id":8834888,"mun":"WILKES-BARRE","nc":1,"o":"-75.875257"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.832653,40.835004],"type":"Point"},"properties":{"a":"40.835004","cty":"SNYDER","id":8834892,"mun":"MONROE TWP","nc":14,"o":"-76.832653"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.492115,40.668111],"type":"Point"},"properties":{"a":"40.668111","cty":"LEHIGH","id":8834893,"mun":"COPLAY BORO","nc":10,"o":"-75.492115"},"type":"Feature"}
 ]}
