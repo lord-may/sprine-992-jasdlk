@@ -1,11 +1,9 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.038472,41.146743],"type":"Point"},"properties":{"a":"41.146743","cty":"LUZERNE","id":8834631,"mun":"SLOCUM TWP","nc":5,"o":"-76.038472"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.47609,40.598031],"type":"Point"},"properties":{"a":"40.598031","cty":"LEHIGH","id":8834783,"mun":"ALLENTOWN","nc":1,"o":"-75.47609"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.889269,41.018733],"type":"Point"},"properties":{"a":"41.018733","cty":"LUZERNE","id":8834829,"mun":"FOSTER TWP","nc":1,"o":"-75.889269"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.63194,40.80474],"type":"Point"},"properties":{"a":"40.80474","cty":"CARBON","hp":true,"id":8834851,"mun":"PALMERTON BORO","nc":68,"ne":{"a":"40.81074","o":"-75.62916"},"o":"-75.63194","sw":{"a":"40.79874","o":"-75.63472"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.688335,41.413793],"type":"Point"},"properties":{"a":"41.413793","cty":"LACKAWANNA","id":8834874,"mun":"SCRANTON","nc":38,"o":"-75.688335"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.492115,40.668111],"type":"Point"},"properties":{"a":"40.668111","cty":"LEHIGH","id":8834893,"mun":"COPLAY BORO","nc":10,"o":"-75.492115"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.168495,40.195209],"type":"Point"},"properties":{"a":"40.195209","cty":"CUMBERLAND","id":8834896,"mun":"SOUTH MIDDLETON TWP","nc":2,"o":"-77.168495"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.985216,40.763454],"type":"Point"},"properties":{"a":"40.763454","cty":"SCHUYLKILL","id":8834898,"mun":"WALKER TWP","nc":1,"o":"-75.985216"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.15602,40.90178],"type":"Point"},"properties":{"a":"40.90178","cty":"UNION","hp":true,"id":8834906,"mun":"HARTLEY TWP","nc":304,"ne":{"a":"40.92027","o":"-77.12109"},"o":"-77.15602","sw":{"a":"40.88329","o":"-77.19096"}},"type":"Feature"}
+{"geometry":{"coordinates":[-77.156789,40.899489],"type":"Point"},"properties":{"a":"40.899489","cty":"UNION","id":8834914,"mun":"HARTLETON BORO","nc":5,"o":"-77.156789"},"type":"Feature"}
 ]}
