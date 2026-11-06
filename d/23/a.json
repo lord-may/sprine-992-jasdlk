@@ -1,8 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.47598,40.4633],"type":"Point"},"properties":{"a":"40.4633","cty":"LEHIGH","hp":true,"id":8834563,"mun":"LOWER MILFORD TWP","nc":11,"ne":{"a":"40.46599","o":"-75.47077"},"o":"-75.47598","sw":{"a":"40.46062","o":"-75.48119"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.52737,41.09206],"type":"Point"},"properties":{"a":"41.09206","cty":"MONROE","hp":true,"id":8834569,"mun":"TOBYHANNA TWP","nc":71,"ne":{"a":"41.0969","o":"-75.51711"},"o":"-75.52737","sw":{"a":"41.08722","o":"-75.53762"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.573966,41.101217],"type":"Point"},"properties":{"a":"41.101217","cty":"COLUMBIA","id":8834572,"mun":"MADISON TWP","nc":1,"o":"-76.573966"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.367677,40.002944],"type":"Point"},"properties":{"a":"40.002944","cty":"LANCASTER","id":8834575,"mun":"MANOR TWP","nc":9,"o":"-76.367677"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.544411,41.142095],"type":"Point"},"properties":{"a":"41.142095","cty":"MONROE","id":8834576,"mun":"TOBYHANNA TWP","nc":2,"o":"-75.544411"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.879006,41.237924],"type":"Point"},"properties":{"a":"41.237924","cty":"LUZERNE","id":8834578,"mun":"WILKES-BARRE","nc":32,"o":"-75.879006"},"type":"Feature"}
 ]}
