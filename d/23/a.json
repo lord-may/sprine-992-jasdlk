@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.508557,40.609547],"type":"Point"},"properties":{"a":"40.609547","cty":"LEHIGH","id":8834545,"mun":"ALLENTOWN","nc":1,"o":"-75.508557"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.184093,39.982625],"type":"Point"},"properties":{"a":"39.982625","cty":"LANCASTER","id":8834546,"mun":"STRASBURG TWP","nc":14,"o":"-76.184093"},"type":"Feature"}
+
 ]}
