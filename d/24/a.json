@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.54504,41.877676],"type":"Point"},"properties":{"a":"41.877676","cty":"PROVIDENCE","id":20261070194,"mun":"SMITHFIELD","nc":7,"o":"-71.54504"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.415512,41.907299],"type":"Point"},"properties":{"a":"41.907299","cty":"PROVIDENCE","id":20261070205,"mun":"LINCOLN","nc":7,"o":"-71.415512"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.711627,41.802208],"type":"Point"},"properties":{"a":"41.802208","cty":"PROVIDENCE","id":20261070217,"mun":"FOSTER","nc":1,"o":"-71.711627"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.7188,41.81057],"type":"Point"},"properties":{"a":"41.81057","cty":"PROVIDENCE","hp":true,"id":20261070220,"mun":"FOSTER","nc":21,"ne":{"a":"41.81642","o":"-71.71487"},"o":"-71.7188","sw":{"a":"41.80473","o":"-71.72272"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.674555,41.8337],"type":"Point"},"properties":{"a":"41.8337","cty":"PROVIDENCE","id":20261070223,"mun":"SCITUATE","nc":4,"o":"-71.674555"},"type":"Feature"},
@@ -40,8 +39,11 @@
 {"geometry":{"coordinates":[-71.610639,41.903995],"type":"Point"},"properties":{"a":"41.903995","cty":"PROVIDENCE","id":20261070350,"mun":"GLOCESTER","nc":1,"o":"-71.610639"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.443217,41.921497],"type":"Point"},"properties":{"a":"41.921497","cty":"PROVIDENCE","id":20261070351,"mun":"LINCOLN","nc":1,"o":"-71.443217"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.679562,41.72262],"type":"Point"},"properties":{"a":"41.72262","cty":"KENT","id":20261070354,"mun":"COVENTRY","nc":1,"o":"-71.679562"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.652296,41.657768],"type":"Point"},"properties":{"a":"41.657768","cty":"KENT","id":20261070355,"mun":"WEST GREENWICH","nc":1,"o":"-71.652296"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.311794,41.751225],"type":"Point"},"properties":{"a":"41.751225","cty":"BRISTOL","id":20261070356,"mun":"BARRINGTON","nc":3,"o":"-71.311794"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.687941,41.718035],"type":"Point"},"properties":{"a":"41.718035","cty":"KENT","id":20261070361,"mun":"COVENTRY","nc":1,"o":"-71.687941"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.304921,41.479011],"type":"Point"},"properties":{"a":"41.479011","cty":"NEWPORT","id":20261070367,"mun":"NEWPORT","nc":1,"o":"-71.304921"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.304921,41.479011],"type":"Point"},"properties":{"a":"41.479011","cty":"NEWPORT","id":20261070367,"mun":"NEWPORT","nc":1,"o":"-71.304921"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.407278,41.894346],"type":"Point"},"properties":{"a":"41.894346","cty":"PROVIDENCE","id":20261070371,"mun":"LINCOLN","nc":1,"o":"-71.407278"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.761445,41.688288],"type":"Point"},"properties":{"a":"41.688288","cty":"KENT","id":20261070372,"mun":"COVENTRY","nc":1,"o":"-71.761445"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.744249,41.820797],"type":"Point"},"properties":{"a":"41.820797","cty":"PROVIDENCE","id":20261070373,"mun":"FOSTER","nc":1,"o":"-71.744249"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.700018,41.681362],"type":"Point"},"properties":{"a":"41.681362","cty":"KENT","id":20261070374,"mun":"COVENTRY","nc":1,"o":"-71.700018"},"type":"Feature"}
 ]}
