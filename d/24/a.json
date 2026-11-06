@@ -14,5 +14,11 @@
 {"geometry":{"coordinates":[-71.789402,41.75698],"type":"Point"},"properties":{"a":"41.75698","cty":"PROVIDENCE","id":20261070607,"mun":"FOSTER","nc":1,"o":"-71.789402"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.14809,41.634318],"type":"Point"},"properties":{"a":"41.634318","cty":"NEWPORT","id":20261070611,"mun":"TIVERTON","nc":1,"o":"-71.14809"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.674484,41.833218],"type":"Point"},"properties":{"a":"41.833218","cty":"PROVIDENCE","id":20261070612,"mun":"SCITUATE","nc":1,"o":"-71.674484"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.601146,41.89651],"type":"Point"},"properties":{"a":"41.89651","cty":"PROVIDENCE","id":20261070617,"mun":"GLOCESTER","nc":1,"o":"-71.601146"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.601146,41.89651],"type":"Point"},"properties":{"a":"41.89651","cty":"PROVIDENCE","id":20261070617,"mun":"GLOCESTER","nc":1,"o":"-71.601146"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.499366,41.876807],"type":"Point"},"properties":{"a":"41.876807","cty":"PROVIDENCE","id":20261070620,"mun":"SMITHFIELD","nc":11,"o":"-71.499366"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.411589,41.880201],"type":"Point"},"properties":{"a":"41.880201","cty":"PROVIDENCE","id":20261070623,"mun":"LINCOLN","nc":1,"o":"-71.411589"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.47775,41.747165],"type":"Point"},"properties":{"a":"41.747165","cty":"PROVIDENCE","id":20261070624,"mun":"CRANSTON","nc":1,"o":"-71.47775"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.499224,41.874272],"type":"Point"},"properties":{"a":"41.874272","cty":"PROVIDENCE","id":20261070625,"mun":"SMITHFIELD","nc":1,"o":"-71.499224"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.680809,41.855229],"type":"Point"},"properties":{"a":"41.855229","cty":"PROVIDENCE","id":20261070627,"mun":"SCITUATE","nc":1,"o":"-71.680809"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.533778,41.915042],"type":"Point"},"properties":{"a":"41.915042","cty":"PROVIDENCE","id":20261070628,"mun":"SMITHFIELD","nc":1,"o":"-71.533778"},"type":"Feature"}
 ]}
