@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-70.454969,43.83531],"type":"Point"},"properties":{"EstRest":"11/6/2026 4:30:00 AM","Outages":28,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.455154,43.834337],"type":"Point"},"properties":{"EstRest":"11/6/2026 4:30:00 AM","Outages":26,"cause":"","county":"CUMBERLAND","crewstatus":"ONST ","customers":47,"hamlet":"WINDHAM","incidentnumber":"004656","incidents":1,"level":"street","opco":"CMP","street":"BASIN RD","town":"WINDHAM"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.758397,43.429016],"type":"Point"},"properties":{"EstRest":"11/6/2026 4:30:00 AM","Outages":16,"cause":"","county":"YORK","crewstatus":"ENRT ","customers":17,"hamlet":"SANFORD","incidentnumber":"00465E","incidents":1,"level":"street","opco":"CMP","street":"HUTCHINSON ST","town":"SANFORD"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.759198,43.429784],"type":"Point"},"properties":{"EstRest":"11/6/2026 4:30:00 AM","Outages":23,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.455154,43.834337],"type":"Point"},"properties":{"EstRest":"11/6/2026 4:30:00 AM","Outages":26,"cause":"","county":"CUMBERLAND","crewstatus":"ONST ","customers":47,"hamlet":"WINDHAM","incidentnumber":"004656","incidents":1,"level":"street","opco":"CMP","street":"BASIN RD","town":"WINDHAM"},"type":"Feature"}
 ]}
