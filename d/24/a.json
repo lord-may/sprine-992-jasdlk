@@ -1,3 +1,11 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-71.54504,41.877676],"type":"Point"},"properties":{"a":"41.877676","cty":"PROVIDENCE","id":20261070194,"mun":"SMITHFIELD","nc":7,"o":"-71.54504"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.48442,41.90217],"type":"Point"},"properties":{"a":"41.90217","cty":"PROVIDENCE","hp":true,"id":20261070197,"mun":"SMITHFIELD","nc":77,"ne":{"a":"41.90724","o":"-71.4782"},"o":"-71.48442","sw":{"a":"41.8971","o":"-71.49065"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.501457,41.876138],"type":"Point"},"properties":{"a":"41.876138","cty":"PROVIDENCE","id":20261070198,"mun":"SMITHFIELD","nc":1,"o":"-71.501457"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.724771,41.802016],"type":"Point"},"properties":{"a":"41.802016","cty":"PROVIDENCE","id":20261070199,"mun":"FOSTER","nc":1,"o":"-71.724771"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.634895,41.836524],"type":"Point"},"properties":{"a":"41.836524","cty":"PROVIDENCE","id":20261070201,"mun":"SCITUATE","nc":1,"o":"-71.634895"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.455887,41.915218],"type":"Point"},"properties":{"a":"41.915218","cty":"PROVIDENCE","id":20261070202,"mun":"LINCOLN","nc":1,"o":"-71.455887"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.44299,41.92219],"type":"Point"},"properties":{"a":"41.92219","cty":"PROVIDENCE","hp":true,"id":20261070203,"mun":"LINCOLN","nc":65,"ne":{"a":"41.92563","o":"-71.43925"},"o":"-71.44299","sw":{"a":"41.91874","o":"-71.44673"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.415512,41.907299],"type":"Point"},"properties":{"a":"41.907299","cty":"PROVIDENCE","id":20261070205,"mun":"LINCOLN","nc":7,"o":"-71.415512"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.444864,41.864391],"type":"Point"},"properties":{"a":"41.864391","cty":"PROVIDENCE","id":20261070206,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.444864"},"type":"Feature"}
 ]}
