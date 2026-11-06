@@ -1,3 +1,10 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-70.454969,43.83531],"type":"Point"},"properties":{"EstRest":"11/6/2026 2:45:00 AM","Outages":28,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.455154,43.834337],"type":"Point"},"properties":{"EstRest":"11/6/2026 2:45:00 AM","Outages":26,"cause":"","county":"CUMBERLAND","crewstatus":"DISP ","customers":47,"hamlet":"WINDHAM","incidentnumber":"004656","incidents":1,"level":"street","opco":"CMP","street":"BASIN RD","town":"WINDHAM"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.966842,44.407712],"type":"Point"},"properties":{"EstRest":"11/6/2026 2:45:00 AM","Outages":34,"cause":"","county":"KENNEBEC","crewstatus":"DISP ","customers":34,"hamlet":"READFIELD","incidentnumber":"004654","incidents":1,"level":"street","opco":"CMP","street":"CHASE RD","town":"READFIELD"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.975596,44.418059],"type":"Point"},"properties":{"EstRest":"11/6/2026 2:45:00 AM","Outages":76,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.30505,44.538052],"type":"Point"},"properties":{"EstRest":"11/6/2026 2:45:00 AM","Outages":1,"cause":"","county":"KNOX","crewstatus":"     ","customers":1,"hamlet":"UNITY","incidentnumber":"004651","incidents":1,"level":"street","opco":"CMP","street":"CLARK RD","town":"UNITY"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.30505,44.538052],"type":"Point"},"properties":{"EstRest":"11/6/2026 2:45:00 AM","Outages":1,"county":"KNOX","customers":27251,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.32455,44.519809],"type":"Point"},"properties":{"EstRest":"11/6/2026 2:45:00 AM","Outages":50,"cause":"","county":"WALDO","crewstatus":"     ","customers":50,"hamlet":"FREEDOM","incidentnumber":"004651","incidents":1,"level":"street","opco":"CMP","street":"BELFAST RD","town":"FREEDOM"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.337576,44.525729],"type":"Point"},"properties":{"EstRest":"11/6/2026 2:45:00 AM","Outages":285,"county":"WALDO","customers":26703,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
