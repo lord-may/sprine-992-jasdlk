@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.093728,44.472772],"type":"Point"},"properties":{"EstRest":"11/6/2026 9:00:00 AM","Outages":3,"cause":"","county":"KENNEBEC","crewstatus":"ENRT ","customers":5,"hamlet":"FAYETTE","incidentnumber":"00465R","incidents":1,"level":"street","opco":"CMP","street":"WEST RD","town":"FAYETTE"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.097611,44.468117],"type":"Point"},"properties":{"EstRest":"11/6/2026 9:00:00 AM","Outages":7,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.838449,43.772357],"type":"Point"},"properties":{"EstRest":"11/6/2026 9:30:00 AM","Outages":2,"cause":"","county":"SAGADAHOC","crewstatus":"DISP ","customers":4,"hamlet":"PHIPPSBURG","incidentnumber":"00465U","incidents":1,"level":"street","opco":"CMP","street":"GILMAN WAY","town":"PHIPPSBURG"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.838449,43.772357],"type":"Point"},"properties":{"EstRest":"11/6/2026 9:30:00 AM","Outages":2,"county":"SAGADAHOC","customers":23026,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
