@@ -49,5 +49,6 @@
 {"geometry":{"coordinates":[-71.395577,41.869358],"type":"Point"},"properties":{"a":"41.869358","cty":"PROVIDENCE","id":20261070482,"mun":"PAWTUCKET","nc":1,"o":"-71.395577"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.701532,41.735811],"type":"Point"},"properties":{"a":"41.735811","cty":"PROVIDENCE","id":20261070484,"mun":"FOSTER","nc":1,"o":"-71.701532"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.398579,41.489458],"type":"Point"},"properties":{"a":"41.489458","cty":"NEWPORT","id":20261070485,"mun":"JAMESTOWN","nc":1,"o":"-71.398579"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.639326,41.846507],"type":"Point"},"properties":{"a":"41.846507","cty":"PROVIDENCE","id":20261070489,"mun":"SCITUATE","nc":1,"o":"-71.639326"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.639326,41.846507],"type":"Point"},"properties":{"a":"41.846507","cty":"PROVIDENCE","id":20261070489,"mun":"SCITUATE","nc":1,"o":"-71.639326"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.732894,41.855935],"type":"Point"},"properties":{"a":"41.855935","cty":"PROVIDENCE","id":20261070494,"mun":"GLOCESTER","nc":1,"o":"-71.732894"},"type":"Feature"}
 ]}
