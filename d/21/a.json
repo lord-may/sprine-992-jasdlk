@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.053348,44.298068],"type":"Point"},"properties":{"EstRest":"11/5/2026 11:15:00 PM","Outages":1,"cause":"","county":"KENNEBEC","crewstatus":"ENRT ","customers":15,"hamlet":"WAYNE","incidentnumber":"00464O","incidents":1,"level":"street","opco":"CMP","street":"HARDSCRABBLE RD","town":"WAYNE"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.053348,44.298068],"type":"Point"},"properties":{"EstRest":"11/5/2026 11:15:00 PM","Outages":1,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.755026,43.771791],"type":"Point"},"properties":{"EstRest":"11/5/2026 10:15:00 PM","Outages":8,"cause":"","county":"SAGADAHOC","crewstatus":"ONST ","customers":21,"hamlet":"GEORGETOWN","incidentnumber":"00463L","incidents":1,"level":"street","opco":"CMP","street":"SAGADAHOC BAY RD","town":"GEORGETOWN"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.755026,43.771791],"type":"Point"},"properties":{"EstRest":"11/5/2026 10:15:00 PM","Outages":8,"county":"SAGADAHOC","customers":23026,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
