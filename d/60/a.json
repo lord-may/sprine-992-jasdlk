@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-80.03254,40.3582],"type":"Point"},"properties":{"additionalProperties":[{"property":"jobNumber","value":"Job.26.11.06.00024"},{"property":"zips","value":["15234"]},{"property":"counties","value":["ALLEGHENY"]},{"property":"municipalities","value":["PITTSBURGH"]}],"cause":"Tree Interference","etrTime":1794004200000,"id":2245957,"identifier":"Job.26.11.06.00024_6aeddf0f7924e36ccf30a8aa","lastUpdatedTime":1793996416000,"latitude":40.3582,"longitude":-80.03254,"numPeople":6,"startTime":1793973315000,"status":"Assessment Needed","title":"Outage"},"type":"Feature"}
+
 ]}
