@@ -6,8 +6,8 @@
 {"geometry":{"coordinates":[-75.826884,41.245102],"type":"Point"},"properties":{"a":"41.245102","cty":"LUZERNE","id":8834798,"mun":"PLAINS TWP","nc":3,"o":"-75.826884"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.007244,41.151467],"type":"Point"},"properties":{"a":"41.151467","cty":"LUZERNE","id":8834802,"mun":"SLOCUM TWP","nc":3,"o":"-76.007244"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.530707,40.787997],"type":"Point"},"properties":{"a":"40.787997","cty":"NORTHUMBERLAND","id":8834817,"mun":"COAL TWP","nc":4,"o":"-76.530707"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.171993,40.691029],"type":"Point"},"properties":{"a":"40.691029","cty":"SNYDER","id":8834824,"mun":"WEST PERRY TWP","nc":2,"o":"-77.171993"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.889269,41.018733],"type":"Point"},"properties":{"a":"41.018733","cty":"LUZERNE","id":8834829,"mun":"FOSTER TWP","nc":1,"o":"-75.889269"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.975877,40.958965],"type":"Point"},"properties":{"a":"40.958965","cty":"LUZERNE","id":8834843,"mun":"HAZLETON","nc":17,"o":"-75.975877"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.63194,40.80474],"type":"Point"},"properties":{"a":"40.80474","cty":"CARBON","hp":true,"id":8834851,"mun":"PALMERTON BORO","nc":68,"ne":{"a":"40.81074","o":"-75.62916"},"o":"-75.63194","sw":{"a":"40.79874","o":"-75.63472"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.63194,40.80474],"type":"Point"},"properties":{"a":"40.80474","cty":"CARBON","hp":true,"id":8834851,"mun":"PALMERTON BORO","nc":68,"ne":{"a":"40.81074","o":"-75.62916"},"o":"-75.63194","sw":{"a":"40.79874","o":"-75.63472"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.688335,41.413793],"type":"Point"},"properties":{"a":"41.413793","cty":"LACKAWANNA","id":8834874,"mun":"SCRANTON","nc":38,"o":"-75.688335"},"type":"Feature"}
 ]}
