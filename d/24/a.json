@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.711627,41.802208],"type":"Point"},"properties":{"a":"41.802208","cty":"PROVIDENCE","id":20261070217,"mun":"FOSTER","nc":1,"o":"-71.711627"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.674555,41.8337],"type":"Point"},"properties":{"a":"41.8337","cty":"PROVIDENCE","id":20261070223,"mun":"SCITUATE","nc":4,"o":"-71.674555"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.62433,41.84438],"type":"Point"},"properties":{"a":"41.84438","cty":"PROVIDENCE","hp":true,"id":20261070249,"mun":"SCITUATE","nc":35,"ne":{"a":"41.8459","o":"-71.61749"},"o":"-71.62433","sw":{"a":"41.84285","o":"-71.63117"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.597525,41.89232],"type":"Point"},"properties":{"a":"41.89232","cty":"PROVIDENCE","id":20261070255,"mun":"GLOCESTER","nc":1,"o":"-71.597525"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.601736,41.897041],"type":"Point"},"properties":{"a":"41.897041","cty":"PROVIDENCE","id":20261070257,"mun":"GLOCESTER","nc":4,"o":"-71.601736"},"type":"Feature"},
@@ -11,7 +10,6 @@
 {"geometry":{"coordinates":[-71.648808,41.871529],"type":"Point"},"properties":{"a":"41.871529","cty":"PROVIDENCE","id":20261070295,"mun":"GLOCESTER","nc":4,"o":"-71.648808"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.729335,41.85594],"type":"Point"},"properties":{"a":"41.85594","cty":"PROVIDENCE","id":20261070308,"mun":"GLOCESTER","nc":1,"o":"-71.729335"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.609782,41.903221],"type":"Point"},"properties":{"a":"41.903221","cty":"PROVIDENCE","id":20261070311,"mun":"GLOCESTER","nc":1,"o":"-71.609782"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.75988,41.81731],"type":"Point"},"properties":{"a":"41.81731","cty":"PROVIDENCE","hp":true,"id":20261070319,"mun":"FOSTER","nc":15,"ne":{"a":"41.82357","o":"-71.75697"},"o":"-71.75988","sw":{"a":"41.81106","o":"-71.76279"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.665932,41.874486],"type":"Point"},"properties":{"a":"41.874486","cty":"PROVIDENCE","id":20261070339,"mun":"GLOCESTER","nc":1,"o":"-71.665932"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.718314,41.817422],"type":"Point"},"properties":{"a":"41.817422","cty":"PROVIDENCE","id":20261070346,"mun":"FOSTER","nc":1,"o":"-71.718314"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.679402,41.844947],"type":"Point"},"properties":{"a":"41.844947","cty":"PROVIDENCE","id":20261070347,"mun":"SCITUATE","nc":1,"o":"-71.679402"},"type":"Feature"},
@@ -23,7 +21,6 @@
 {"geometry":{"coordinates":[-71.601682,41.89003],"type":"Point"},"properties":{"a":"41.89003","cty":"PROVIDENCE","id":20261070392,"mun":"GLOCESTER","nc":1,"o":"-71.601682"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.598687,41.893717],"type":"Point"},"properties":{"a":"41.893717","cty":"PROVIDENCE","id":20261070393,"mun":"GLOCESTER","nc":4,"o":"-71.598687"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.730622,41.855986],"type":"Point"},"properties":{"a":"41.855986","cty":"PROVIDENCE","id":20261070396,"mun":"FOSTER","nc":1,"o":"-71.730622"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.478585,41.867496],"type":"Point"},"properties":{"a":"41.867496","cty":"PROVIDENCE","id":20261070405,"mun":"NORTH PROVIDENCE","nc":4,"o":"-71.478585"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.644765,41.877522],"type":"Point"},"properties":{"a":"41.877522","cty":"PROVIDENCE","id":20261070412,"mun":"GLOCESTER","nc":1,"o":"-71.644765"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.704096,41.881929],"type":"Point"},"properties":{"a":"41.881929","cty":"PROVIDENCE","id":20261070413,"mun":"GLOCESTER","nc":1,"o":"-71.704096"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.734912,41.816103],"type":"Point"},"properties":{"a":"41.816103","cty":"PROVIDENCE","id":20261070414,"mun":"FOSTER","nc":3,"o":"-71.734912"},"type":"Feature"},
@@ -32,7 +29,6 @@
 {"geometry":{"coordinates":[-71.60746,41.85293],"type":"Point"},"properties":{"a":"41.85293","cty":"PROVIDENCE","hp":true,"id":20261070440,"mun":"GLOCESTER","nc":100,"ne":{"a":"41.85771","o":"-71.59253"},"o":"-71.60746","sw":{"a":"41.84815","o":"-71.62238"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.643401,41.865082],"type":"Point"},"properties":{"a":"41.865082","cty":"PROVIDENCE","id":20261070443,"mun":"GLOCESTER","nc":1,"o":"-71.643401"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.523412,41.910976],"type":"Point"},"properties":{"a":"41.910976","cty":"PROVIDENCE","id":20261070452,"mun":"SMITHFIELD","nc":1,"o":"-71.523412"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.564413,41.911735],"type":"Point"},"properties":{"a":"41.911735","cty":"PROVIDENCE","id":20261070453,"mun":"SMITHFIELD","nc":1,"o":"-71.564413"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.678489,41.846819],"type":"Point"},"properties":{"a":"41.846819","cty":"PROVIDENCE","id":20261070456,"mun":"SCITUATE","nc":1,"o":"-71.678489"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.52082,41.910559],"type":"Point"},"properties":{"a":"41.910559","cty":"PROVIDENCE","id":20261070464,"mun":"SMITHFIELD","nc":1,"o":"-71.52082"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.601146,41.89651],"type":"Point"},"properties":{"a":"41.89651","cty":"PROVIDENCE","id":20261070470,"mun":"GLOCESTER","nc":1,"o":"-71.601146"},"type":"Feature"},
@@ -46,6 +42,12 @@
 {"geometry":{"coordinates":[-71.639326,41.846507],"type":"Point"},"properties":{"a":"41.846507","cty":"PROVIDENCE","id":20261070489,"mun":"SCITUATE","nc":1,"o":"-71.639326"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.732894,41.855935],"type":"Point"},"properties":{"a":"41.855935","cty":"PROVIDENCE","id":20261070494,"mun":"GLOCESTER","nc":1,"o":"-71.732894"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.441445,41.492017],"type":"Point"},"properties":{"a":"41.492017","cty":"WASHINGTON","id":20261070497,"mun":"NARRAGANSETT","nc":3,"o":"-71.441445"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.443785,41.857592],"type":"Point"},"properties":{"a":"41.857592","cty":"PROVIDENCE","id":20261070499,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.443785"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.680809,41.855229],"type":"Point"},"properties":{"a":"41.855229","cty":"PROVIDENCE","id":20261070500,"mun":"SCITUATE","nc":1,"o":"-71.680809"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.680809,41.855229],"type":"Point"},"properties":{"a":"41.855229","cty":"PROVIDENCE","id":20261070500,"mun":"SCITUATE","nc":1,"o":"-71.680809"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.656006,41.990479],"type":"Point"},"properties":{"a":"41.990479","cty":"PROVIDENCE","id":20261070503,"mun":"BURRILLVILLE","nc":1,"o":"-71.656006"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.55749,41.90839],"type":"Point"},"properties":{"a":"41.90839","cty":"PROVIDENCE","hp":true,"id":20261070508,"mun":"SMITHFIELD","nc":1545,"ne":{"a":"41.93635","o":"-71.53031"},"o":"-71.55749","sw":{"a":"41.88043","o":"-71.58466"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.532235,41.900717],"type":"Point"},"properties":{"a":"41.900717","cty":"PROVIDENCE","id":20261070512,"mun":"SMITHFIELD","nc":1,"o":"-71.532235"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.539376,41.880958],"type":"Point"},"properties":{"a":"41.880958","cty":"PROVIDENCE","id":20261070513,"mun":"SMITHFIELD","nc":1,"o":"-71.539376"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.533123,41.91132],"type":"Point"},"properties":{"a":"41.91132","cty":"PROVIDENCE","id":20261070515,"mun":"SMITHFIELD","nc":1,"o":"-71.533123"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.537018,41.907024],"type":"Point"},"properties":{"a":"41.907024","cty":"PROVIDENCE","id":20261070518,"mun":"SMITHFIELD","nc":1,"o":"-71.537018"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.408,41.775449],"type":"Point"},"properties":{"a":"41.775449","cty":"PROVIDENCE","id":20261070519,"mun":"CRANSTON","nc":1,"o":"-71.408"},"type":"Feature"}
 ]}
