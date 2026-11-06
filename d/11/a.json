@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-73.6203,40.67644],[-73.62038,40.67686],[-73.6205,40.67742],[-73.62046,40.67704],[-73.6203,40.67644]]],"type":"Polygon"},{"coordinates":[-73.62042,40.67696],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"Pending Investigation","es-US":"Investigación pendiente"},"cluster":false,"comments":null,"crew_icon":true,"crew_status":{"EN-US":"Currently assessing damage","es-US":"Evaluando daños","orig":"Dispatched"},"cust_a":{"val":5},"etr":"ETR-NULL","etrRange":"Tomorrow by 1:30AM","etr_confidence":null,"id":"QN-BLUE-2005911318","inc_id":null,"n_out":1,"start_time":null,"title":"Area Outage"},"type":"Feature"}
 ]}
