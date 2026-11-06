@@ -9,18 +9,12 @@
 {"geometry":{"coordinates":[-77.228389,40.195623],"type":"Point"},"properties":{"a":"40.195623","cty":"CUMBERLAND","id":8834667,"mun":"CARLISLE BORO","nc":1,"o":"-77.228389"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.763907,40.9288],"type":"Point"},"properties":{"a":"40.9288","cty":"NORTHUMBERLAND","id":8834672,"mun":"POINT TWP","nc":1,"o":"-76.763907"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.533189,40.788135],"type":"Point"},"properties":{"a":"40.788135","cty":"NORTHUMBERLAND","id":8834686,"mun":"COAL TWP","nc":30,"o":"-76.533189"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.870116,41.245886],"type":"Point"},"properties":{"a":"41.245886","cty":"LUZERNE","id":8834692,"mun":"WILKES-BARRE","nc":21,"o":"-75.870116"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.107311,40.204166],"type":"Point"},"properties":{"a":"40.204166","cty":"CUMBERLAND","id":8834713,"mun":"MIDDLESEX TWP","nc":1,"o":"-77.107311"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.025191,39.859593],"type":"Point"},"properties":{"a":"39.859593","cty":"LANCASTER","id":8834716,"mun":"COLERAIN TWP","nc":6,"o":"-76.025191"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.766269,40.920437],"type":"Point"},"properties":{"a":"40.920437","cty":"NORTHUMBERLAND","id":8834719,"mun":"POINT TWP","nc":6,"o":"-76.766269"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.456197,40.998428],"type":"Point"},"properties":{"a":"40.998428","cty":"COLUMBIA","id":8834723,"mun":"BLOOMSBURG","nc":6,"o":"-76.456197"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.133911,40.683459],"type":"Point"},"properties":{"a":"40.683459","cty":"JUNIATA","id":8834732,"mun":"MONROE TWP","nc":1,"o":"-77.133911"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.104249,40.977521],"type":"Point"},"properties":{"a":"40.977521","cty":"LUZERNE","id":8834734,"mun":"SUGARLOAF TWP","nc":1,"o":"-76.104249"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.559336,40.144316],"type":"Point"},"properties":{"a":"40.144316","cty":"LANCASTER","id":8834750,"mun":"MOUNT JOY TWP","nc":1,"o":"-76.559336"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.107909,40.282246],"type":"Point"},"properties":{"a":"40.282246","cty":"LANCASTER","id":8834761,"mun":"WEST COCALICO TWP","nc":2,"o":"-76.107909"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.740186,40.568806],"type":"Point"},"properties":{"a":"40.568806","cty":"DAUPHIN","id":8834767,"mun":"WASHINGTON TWP","nc":3,"o":"-76.740186"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.1056,40.283109],"type":"Point"},"properties":{"a":"40.283109","cty":"LANCASTER","id":8834769,"mun":"WEST COCALICO TWP","nc":1,"o":"-76.1056"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.557551,40.181185],"type":"Point"},"properties":{"a":"40.181185","cty":"LANCASTER","id":8834778,"mun":"MOUNT JOY TWP","nc":1,"o":"-76.557551"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.27594,41.559719],"type":"Point"},"properties":{"a":"41.559719","cty":"WAYNE","id":8834781,"mun":"CHERRY RIDGE TWP","nc":2,"o":"-75.27594"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.47609,40.598031],"type":"Point"},"properties":{"a":"40.598031","cty":"LEHIGH","id":8834783,"mun":"ALLENTOWN","nc":1,"o":"-75.47609"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.527364,41.052738],"type":"Point"},"properties":{"a":"41.052738","cty":"MONROE","id":8834786,"mun":"TUNKHANNOCK TWP","nc":1,"o":"-75.527364"},"type":"Feature"},
@@ -28,5 +22,7 @@
 {"geometry":{"coordinates":[-76.43771,41.05371],"type":"Point"},"properties":{"a":"41.05371","cty":"COLUMBIA","hp":true,"id":8834793,"mun":"SCOTT TWP","nc":81,"ne":{"a":"41.06851","o":"-76.42336"},"o":"-76.43771","sw":{"a":"41.03891","o":"-76.45206"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.826884,41.245102],"type":"Point"},"properties":{"a":"41.245102","cty":"LUZERNE","id":8834798,"mun":"PLAINS TWP","nc":3,"o":"-75.826884"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.568115,40.781304],"type":"Point"},"properties":{"a":"40.781304","cty":"NORTHUMBERLAND","id":8834801,"mun":"COAL TWP","nc":4,"o":"-76.568115"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.007244,41.151467],"type":"Point"},"properties":{"a":"41.151467","cty":"LUZERNE","id":8834802,"mun":"SLOCUM TWP","nc":3,"o":"-76.007244"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.007244,41.151467],"type":"Point"},"properties":{"a":"41.151467","cty":"LUZERNE","id":8834802,"mun":"SLOCUM TWP","nc":3,"o":"-76.007244"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.060526,40.697013],"type":"Point"},"properties":{"a":"40.697013","cty":"SCHUYLKILL","id":8834814,"mun":"EAST BRUNSWICK TWP","nc":1,"o":"-76.060526"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.340822,41.262079],"type":"Point"},"properties":{"a":"41.262079","cty":"COLUMBIA","id":8834815,"mun":"SUGARLOAF TWP","nc":1,"o":"-76.340822"},"type":"Feature"}
 ]}
