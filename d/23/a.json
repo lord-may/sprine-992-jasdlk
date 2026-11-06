@@ -5,14 +5,12 @@
 {"geometry":{"coordinates":[-75.352667,40.462686],"type":"Point"},"properties":{"a":"40.462686","cty":"BUCKS","id":8834636,"mun":"RICHLAND TWP","nc":1,"o":"-75.352667"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.386198,40.618613],"type":"Point"},"properties":{"a":"40.618613","cty":"LEHIGH","id":8834645,"mun":"BETHLEHEM","nc":53,"o":"-75.386198"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.873211,41.233091],"type":"Point"},"properties":{"a":"41.233091","cty":"LUZERNE","id":8834647,"mun":"WILKES-BARRE","nc":17,"o":"-75.873211"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.944291,41.131431],"type":"Point"},"properties":{"a":"41.131431","cty":"LUZERNE","id":8834649,"mun":"RICE TWP","nc":3,"o":"-75.944291"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.56535,40.13624],"type":"Point"},"properties":{"a":"40.13624","cty":"LANCASTER","hp":true,"id":8834660,"mun":"MOUNT JOY TWP","nc":53,"ne":{"a":"40.13841","o":"-76.56315"},"o":"-76.56535","sw":{"a":"40.13407","o":"-76.56755"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.68296,40.66438],"type":"Point"},"properties":{"a":"40.66438","cty":"LEHIGH","hp":true,"id":8834663,"mun":"LOWHILL TWP","nc":8,"ne":{"a":"40.66644","o":"-75.6821"},"o":"-75.68296","sw":{"a":"40.66232","o":"-75.68383"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.228389,40.195623],"type":"Point"},"properties":{"a":"40.195623","cty":"CUMBERLAND","id":8834667,"mun":"CARLISLE BORO","nc":1,"o":"-77.228389"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.763907,40.9288],"type":"Point"},"properties":{"a":"40.9288","cty":"NORTHUMBERLAND","id":8834672,"mun":"POINT TWP","nc":1,"o":"-76.763907"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.24143,41.03062],"type":"Point"},"properties":{"a":"41.03062","cty":"CLINTON","hp":true,"id":8834679,"mun":"GREENE TWP","nc":18,"ne":{"a":"41.03249","o":"-77.23115"},"o":"-77.24143","sw":{"a":"41.02875","o":"-77.25172"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.533189,40.788135],"type":"Point"},"properties":{"a":"40.788135","cty":"NORTHUMBERLAND","id":8834686,"mun":"COAL TWP","nc":30,"o":"-76.533189"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.412659,40.995409],"type":"Point"},"properties":{"a":"40.995409","cty":"MONROE","id":8834689,"mun":"CHESTNUT HILL TWP","nc":5,"o":"-75.412659"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.870116,41.245886],"type":"Point"},"properties":{"a":"41.245886","cty":"LUZERNE","id":8834692,"mun":"WILKES-BARRE","nc":21,"o":"-75.870116"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.107311,40.204166],"type":"Point"},"properties":{"a":"40.204166","cty":"CUMBERLAND","id":8834713,"mun":"MIDDLESEX TWP","nc":1,"o":"-77.107311"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.025191,39.859593],"type":"Point"},"properties":{"a":"39.859593","cty":"LANCASTER","id":8834716,"mun":"COLERAIN TWP","nc":6,"o":"-76.025191"},"type":"Feature"},
@@ -33,5 +31,8 @@
 {"geometry":{"coordinates":[-76.800498,41.044222],"type":"Point"},"properties":{"a":"41.044222","cty":"NORTHUMBERLAND","id":8834787,"mun":"TURBOT TWP","nc":1,"o":"-76.800498"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.605859,40.685957],"type":"Point"},"properties":{"a":"40.685957","cty":"SCHUYLKILL","id":8834790,"mun":"UPPER MAHANTONGO TWP","nc":1,"o":"-76.605859"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.43771,41.05371],"type":"Point"},"properties":{"a":"41.05371","cty":"COLUMBIA","hp":true,"id":8834793,"mun":"SCOTT TWP","nc":81,"ne":{"a":"41.06851","o":"-76.42336"},"o":"-76.43771","sw":{"a":"41.03891","o":"-76.45206"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.213658,41.463927],"type":"Point"},"properties":{"a":"41.463927","cty":"WAYNE","id":8834794,"mun":"PAUPACK TWP","nc":4,"o":"-75.213658"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.213658,41.463927],"type":"Point"},"properties":{"a":"41.463927","cty":"WAYNE","id":8834794,"mun":"PAUPACK TWP","nc":4,"o":"-75.213658"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.826884,41.245102],"type":"Point"},"properties":{"a":"41.245102","cty":"LUZERNE","id":8834798,"mun":"PLAINS TWP","nc":3,"o":"-75.826884"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.568115,40.781304],"type":"Point"},"properties":{"a":"40.781304","cty":"NORTHUMBERLAND","id":8834801,"mun":"COAL TWP","nc":4,"o":"-76.568115"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.007244,41.151467],"type":"Point"},"properties":{"a":"41.151467","cty":"LUZERNE","id":8834802,"mun":"SLOCUM TWP","nc":3,"o":"-76.007244"},"type":"Feature"}
 ]}
