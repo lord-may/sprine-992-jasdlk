@@ -1,9 +1,9 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.038472,41.146743],"type":"Point"},"properties":{"a":"41.146743","cty":"LUZERNE","id":8834631,"mun":"SLOCUM TWP","nc":5,"o":"-76.038472"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.47609,40.598031],"type":"Point"},"properties":{"a":"40.598031","cty":"LEHIGH","id":8834783,"mun":"ALLENTOWN","nc":1,"o":"-75.47609"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.63194,40.80474],"type":"Point"},"properties":{"a":"40.80474","cty":"CARBON","hp":true,"id":8834851,"mun":"PALMERTON BORO","nc":68,"ne":{"a":"40.81074","o":"-75.62916"},"o":"-75.63194","sw":{"a":"40.79874","o":"-75.63472"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.688335,41.413793],"type":"Point"},"properties":{"a":"41.413793","cty":"LACKAWANNA","id":8834874,"mun":"SCRANTON","nc":38,"o":"-75.688335"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.985216,40.763454],"type":"Point"},"properties":{"a":"40.763454","cty":"SCHUYLKILL","id":8834898,"mun":"WALKER TWP","nc":1,"o":"-75.985216"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.245703,41.050931],"type":"Point"},"properties":{"a":"41.050931","cty":"COLUMBIA","id":8834916,"mun":"BERWICK BORO","nc":1,"o":"-76.245703"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.832653,40.835004],"type":"Point"},"properties":{"a":"40.835004","cty":"SNYDER","id":8834918,"mun":"MONROE TWP","nc":14,"o":"-76.832653"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.832653,40.835004],"type":"Point"},"properties":{"a":"40.835004","cty":"SNYDER","id":8834918,"mun":"MONROE TWP","nc":14,"o":"-76.832653"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.687833,41.414426],"type":"Point"},"properties":{"a":"41.414426","cty":"LACKAWANNA","id":8834920,"mun":"SCRANTON","nc":38,"o":"-75.687833"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.735636,41.379553],"type":"Point"},"properties":{"a":"41.379553","cty":"LACKAWANNA","id":8834923,"mun":"OLD FORGE BORO","nc":1,"o":"-75.735636"},"type":"Feature"}
 ]}
