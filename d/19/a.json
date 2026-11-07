@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-78.977551,42.192503],"type":"Point"},"properties":{"EstRest":"","Outages":1,"cause":"","county":"CATTARAUGUS","crewstatus":"     ","customers":40,"hamlet":"RANDOLPH","incidentnumber":"011APN","incidents":1,"level":"street","opco":"NYSEG","street":"ROUTE 241","town":"CONEWANGO T"},"type":"Feature"},
-{"geometry":{"coordinates":[-78.977551,42.192503],"type":"Point"},"properties":{"EstRest":"","Outages":1,"county":"CATTARAUGUS","customers":4630,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.650095,41.313588],"type":"Point"},"properties":{"EstRest":"11/7/2026 1:40:00 AM","Outages":5,"cause":"","county":"WESTCHESTER","crewstatus":"ONST ","customers":5,"hamlet":"NORTH SALEM","incidentnumber":"011AQ0","incidents":1,"level":"street","opco":"NYSEG","street":"HARNESS CT","town":"NORTH SALEM T"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.658602,41.313719],"type":"Point"},"properties":{"EstRest":"11/7/2026 1:40:00 AM","Outages":188,"county":"WESTCHESTER","customers":33728,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+{"geometry":{"coordinates":[-78.977551,42.192503],"type":"Point"},"properties":{"EstRest":"","Outages":1,"county":"CATTARAUGUS","customers":4630,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
