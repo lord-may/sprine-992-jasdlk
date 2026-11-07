@@ -7,7 +7,6 @@
 {"geometry":{"coordinates":[-76.297825,40.270425],"type":"Point"},"properties":{"a":"40.270425","cty":"LEBANON","id":8834987,"mun":"HEIDELBERG TWP","nc":1,"o":"-76.297825"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.03081,40.823729],"type":"Point"},"properties":{"a":"40.823729","cty":"SCHUYLKILL","id":8834991,"mun":"RUSH TWP","nc":1,"o":"-76.03081"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.242298,40.852791],"type":"Point"},"properties":{"a":"40.852791","cty":"SCHUYLKILL","id":8834993,"mun":"UNION TWP","nc":1,"o":"-76.242298"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.23053,40.0011],"type":"Point"},"properties":{"a":"40.0011","cty":"LANCASTER","hp":true,"id":8834995,"mun":"WEST LAMPETER TWP","nc":52,"ne":{"a":"40.00433","o":"-76.21933"},"o":"-76.23053","sw":{"a":"39.99786","o":"-76.24172"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.006025,41.410141],"type":"Point"},"properties":{"a":"41.410141","cty":"PIKE","id":8834996,"mun":"LACKAWAXEN TWP","nc":1,"o":"-75.006025"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.416203,40.629145],"type":"Point"},"properties":{"a":"40.629145","cty":"LEHIGH","id":8834997,"mun":"BETHLEHEM","nc":7,"o":"-75.416203"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.27984,39.97995],"type":"Point"},"properties":{"a":"39.97995","cty":"LANCASTER","hp":true,"id":8835003,"mun":"WEST LAMPETER TWP","nc":37,"ne":{"a":"39.98096","o":"-76.27887"},"o":"-76.27984","sw":{"a":"39.97895","o":"-76.2808"}},"type":"Feature"}
