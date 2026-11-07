@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-77.683244,43.069289],"type":"Point"},"properties":{"EstRest":"11/7/2026 9:45:00 AM","Outages":2,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":14,"hamlet":"WEST HENRIETTA","incidentnumber":"011AQL","incidents":1,"level":"street","opco":"RGE","street":"LUCIUS GORDON DR","town":"HENRIETTA"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.683244,43.069289],"type":"Point"},"properties":{"EstRest":"11/7/2026 9:45:00 AM","Outages":2,"county":"MONROE","customers":303529,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.221367,43.141829],"type":"Point"},"properties":{"EstRest":"11/7/2026 10:45:00 AM","Outages":440,"county":"WAYNE","customers":27021,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.246335,43.1342],"type":"Point"},"properties":{"EstRest":"11/7/2026 10:45:00 AM","Outages":13,"cause":"","county":"WAYNE","crewstatus":"DISP ","customers":15,"hamlet":"WALWORTH","incidentnumber":"011AQP","incidents":1,"level":"street","opco":"RGE","street":"MAPLE AVE","town":"MARION"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.216868,43.127004],"type":"Point"},"properties":{"EstRest":"11/7/2026 10:45:00 AM","Outages":440,"county":"WAYNE","customers":27021,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.238711,43.142337],"type":"Point"},"properties":{"EstRest":"11/7/2026 10:45:00 AM","Outages":119,"cause":"","county":"WAYNE","crewstatus":"DISP ","customers":119,"hamlet":"MARION","incidentnumber":"011AQP","incidents":1,"level":"street","opco":"RGE","street":"HUNTLEY RD","town":"MARION"},"type":"Feature"}
 ]}

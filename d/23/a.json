@@ -1,7 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.791571,40.700271],"type":"Point"},"properties":{"a":"40.700271","cty":"NORTHUMBERLAND","id":8834961,"mun":"JACKSON TWP","nc":6,"o":"-76.791571"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.822346,40.272939],"type":"Point"},"properties":{"a":"40.272939","cty":"DAUPHIN","id":8834964,"mun":"SUSQUEHANNA TWP","nc":1,"o":"-76.822346"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.71502,41.48878],"type":"Point"},"properties":{"a":"41.48878","cty":"LACKAWANNA","hp":true,"id":8834969,"mun":"CLARKS SUMMIT BORO","nc":73,"ne":{"a":"41.49047","o":"-75.71285"},"o":"-75.71502","sw":{"a":"41.48708","o":"-75.71718"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.292337,41.053273],"type":"Point"},"properties":{"a":"41.053273","cty":"MONROE","id":8834972,"mun":"POCONO TWP","nc":3,"o":"-75.292337"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.268269,40.300981],"type":"Point"},"properties":{"a":"40.300981","cty":"LEBANON","id":8834980,"mun":"HEIDELBERG TWP","nc":2,"o":"-76.268269"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.957212,40.441408],"type":"Point"},"properties":{"a":"40.441408","cty":"DAUPHIN","id":8834981,"mun":"HALIFAX TWP","nc":1,"o":"-76.957212"},"type":"Feature"},
@@ -9,9 +8,9 @@
 {"geometry":{"coordinates":[-76.531015,40.789104],"type":"Point"},"properties":{"a":"40.789104","cty":"NORTHUMBERLAND","id":8834985,"mun":"COAL TWP","nc":3,"o":"-76.531015"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.282833,40.290912],"type":"Point"},"properties":{"a":"40.290912","cty":"MONTGOMERY","id":8834986,"mun":"HATFIELD TWP","nc":2,"o":"-75.282833"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.297825,40.270425],"type":"Point"},"properties":{"a":"40.270425","cty":"LEBANON","id":8834987,"mun":"HEIDELBERG TWP","nc":1,"o":"-76.297825"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.31879,40.384214],"type":"Point"},"properties":{"a":"40.384214","cty":"BUCKS","id":8834988,"mun":"WEST ROCKHILL TWP","nc":1,"o":"-75.31879"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.957246,40.439359],"type":"Point"},"properties":{"a":"40.439359","cty":"DAUPHIN","id":8834990,"mun":"HALIFAX TWP","nc":2,"o":"-76.957246"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.03081,40.823729],"type":"Point"},"properties":{"a":"40.823729","cty":"SCHUYLKILL","id":8834991,"mun":"RUSH TWP","nc":1,"o":"-76.03081"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.242298,40.852791],"type":"Point"},"properties":{"a":"40.852791","cty":"SCHUYLKILL","id":8834993,"mun":"UNION TWP","nc":1,"o":"-76.242298"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.23053,40.0011],"type":"Point"},"properties":{"a":"40.0011","cty":"LANCASTER","hp":true,"id":8834995,"mun":"WEST LAMPETER TWP","nc":52,"ne":{"a":"40.00433","o":"-76.21933"},"o":"-76.23053","sw":{"a":"39.99786","o":"-76.24172"}},"type":"Feature"}
+{"geometry":{"coordinates":[-76.23053,40.0011],"type":"Point"},"properties":{"a":"40.0011","cty":"LANCASTER","hp":true,"id":8834995,"mun":"WEST LAMPETER TWP","nc":52,"ne":{"a":"40.00433","o":"-76.21933"},"o":"-76.23053","sw":{"a":"39.99786","o":"-76.24172"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.006025,41.410141],"type":"Point"},"properties":{"a":"41.410141","cty":"PIKE","id":8834996,"mun":"LACKAWAXEN TWP","nc":1,"o":"-75.006025"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.416203,40.629145],"type":"Point"},"properties":{"a":"40.629145","cty":"LEHIGH","id":8834997,"mun":"BETHLEHEM","nc":7,"o":"-75.416203"},"type":"Feature"}
 ]}
