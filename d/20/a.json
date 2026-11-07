@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-76.507418,43.214043],"type":"Point"},"properties":{"EstRest":"11/7/2026 7:30:00 PM","Outages":21,"cause":"","county":"CAYUGA","crewstatus":"     ","customers":22,"hamlet":"CATO","incidentnumber":"011AT1","incidents":1,"level":"street","opco":"RGE","street":"HUMPHREY RD","town":"IRA (CATO)"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.507418,43.214043],"type":"Point"},"properties":{"EstRest":"11/7/2026 7:30:00 PM","Outages":21,"county":"CAYUGA","customers":6132,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.613237,43.251174],"type":"Point"},"properties":{"EstRest":"11/7/2026 5:45:00 PM","Outages":1,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":1499,"hamlet":"ROCHESTER","incidentnumber":"011ASK","incidents":1,"level":"street","opco":"RGE","street":"LAKE AVE","town":"ROCHESTER"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.613237,43.251174],"type":"Point"},"properties":{"EstRest":"11/7/2026 5:45:00 PM","Outages":1,"county":"MONROE","customers":303529,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}

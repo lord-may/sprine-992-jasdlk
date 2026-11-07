@@ -7,5 +7,5 @@
 {"geometry":{"coordinates":[-76.450182,40.061659],"type":"Point"},"properties":{"a":"40.061659","cty":"LANCASTER","id":8835092,"mun":"WEST HEMPFIELD TWP","nc":1,"o":"-76.450182"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.54505,40.611199],"type":"Point"},"properties":{"a":"40.611199","cty":"LEHIGH","id":8835096,"mun":"SOUTH WHITEHALL TWP","nc":7,"o":"-75.54505"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.589689,40.154306],"type":"Point"},"properties":{"a":"40.154306","cty":"LANCASTER","id":8835098,"mun":"MOUNT JOY TWP","nc":1,"o":"-76.589689"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.402807,40.967965],"type":"Point"},"properties":{"a":"40.967965","cty":"MONROE","id":8835101,"mun":"CHESTNUT HILL TWP","nc":4,"o":"-75.402807"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.742061,40.265433],"type":"Point"},"properties":{"a":"40.265433","cty":"DAUPHIN","id":8835105,"mun":"SWATARA TWP","nc":1,"o":"-76.742061"},"type":"Feature"}
 ]}
