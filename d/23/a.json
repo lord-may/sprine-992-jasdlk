@@ -7,6 +7,7 @@
 {"geometry":{"coordinates":[-76.374578,39.921517],"type":"Point"},"properties":{"a":"39.921517","cty":"LANCASTER","id":8835053,"mun":"CONESTOGA TWP","nc":1,"o":"-76.374578"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.27476,40.83961],"type":"Point"},"properties":{"a":"40.83961","cty":"SCHUYLKILL","hp":true,"id":8835059,"mun":"UNION TWP","nc":63,"ne":{"a":"40.84928","o":"-76.25177"},"o":"-76.27476","sw":{"a":"40.82993","o":"-76.29775"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.229247,40.471637],"type":"Point"},"properties":{"a":"40.471637","cty":"BUCKS","id":8835064,"mun":"HAYCOCK TWP","nc":1,"o":"-75.229247"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.402807,40.967965],"type":"Point"},"properties":{"a":"40.967965","cty":"MONROE","id":8835067,"mun":"CHESTNUT HILL TWP","nc":4,"o":"-75.402807"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.237616,40.866337],"type":"Point"},"properties":{"a":"40.866337","cty":"SCHUYLKILL","id":8835070,"mun":"UNION TWP","nc":1,"o":"-76.237616"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.237616,40.866337],"type":"Point"},"properties":{"a":"40.866337","cty":"SCHUYLKILL","id":8835070,"mun":"UNION TWP","nc":1,"o":"-76.237616"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.402807,40.967965],"type":"Point"},"properties":{"a":"40.967965","cty":"MONROE","id":8835071,"mun":"CHESTNUT HILL TWP","nc":4,"o":"-75.402807"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.37376,39.921469],"type":"Point"},"properties":{"a":"39.921469","cty":"LANCASTER","id":8835072,"mun":"CONESTOGA TWP","nc":1,"o":"-76.37376"},"type":"Feature"}
 ]}
