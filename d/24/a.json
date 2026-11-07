@@ -2,5 +2,6 @@
 {"geometry":{"coordinates":[-71.561616,41.789726],"type":"Point"},"properties":{"a":"41.789726","cty":"PROVIDENCE","id":20261070702,"mun":"SCITUATE","nc":1,"o":"-71.561616"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.62264,41.845048],"type":"Point"},"properties":{"a":"41.845048","cty":"PROVIDENCE","id":20261070706,"mun":"SCITUATE","nc":1,"o":"-71.62264"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.428971,41.458637],"type":"Point"},"properties":{"a":"41.458637","cty":"WASHINGTON","id":20261070710,"mun":"NARRAGANSETT","nc":1,"o":"-71.428971"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.680809,41.855229],"type":"Point"},"properties":{"a":"41.855229","cty":"PROVIDENCE","id":20261070711,"mun":"SCITUATE","nc":1,"o":"-71.680809"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.680809,41.855229],"type":"Point"},"properties":{"a":"41.855229","cty":"PROVIDENCE","id":20261070711,"mun":"SCITUATE","nc":1,"o":"-71.680809"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.770533,41.833978],"type":"Point"},"properties":{"a":"41.833978","cty":"PROVIDENCE","id":20261070716,"mun":"FOSTER","nc":1,"o":"-71.770533"},"type":"Feature"}
 ]}
