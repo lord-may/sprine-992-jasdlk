@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-73.85933,40.729],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"DSP","cust_a":{"val":86},"etr":"2026-11-07T09:00:00-0500","outages":null,"reported_problem":"Manhole Problem","title":"Outage Information"},"type":"Feature"},
-{"geometry":{"coordinates":[-74.03311,40.61254],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"DSP","cust_a":{"val":2},"etr":"2026-11-07T05:30:00-0500","outages":null,"reported_problem":"Partial Outage","title":"Outage Information"},"type":"Feature"},
 {"geometry":{"geometries":[{"coordinates":[[[-73.78912,40.96847],[-73.78449,40.97084],[-73.7835,40.97154],[-73.78286,40.97241],[-73.78466,40.97473],[-73.7906,40.9727],[-73.79119,40.97168],[-73.78977,40.96939],[-73.78912,40.96847]]],"type":"Polygon"},{"coordinates":[-73.78713,40.97177],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"DSP","cust_a":{"val":189},"etr":"2026-11-07T05:00:00-0500","outages":null,"reported_problem":"No Lights","title":"Outage Information"},"type":"Feature"}
 ]}
