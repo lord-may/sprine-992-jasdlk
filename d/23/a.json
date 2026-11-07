@@ -3,5 +3,8 @@
 {"geometry":{"coordinates":[-76.242298,40.852791],"type":"Point"},"properties":{"a":"40.852791","cty":"SCHUYLKILL","id":8834993,"mun":"UNION TWP","nc":1,"o":"-76.242298"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.179674,40.595371],"type":"Point"},"properties":{"a":"40.595371","cty":"SCHUYLKILL","id":8835010,"mun":"SOUTH MANHEIM TWP","nc":3,"o":"-76.179674"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.757505,41.06855],"type":"Point"},"properties":{"a":"41.06855","cty":"CARBON","id":8835018,"mun":"EAST SIDE BORO","nc":3,"o":"-75.757505"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.200861,40.378961],"type":"Point"},"properties":{"a":"40.378961","cty":"PERRY","id":8835043,"mun":"CARROLL TWP","nc":1,"o":"-77.200861"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.200861,40.378961],"type":"Point"},"properties":{"a":"40.378961","cty":"PERRY","id":8835043,"mun":"CARROLL TWP","nc":1,"o":"-77.200861"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.3832,40.58578],"type":"Point"},"properties":{"a":"40.58578","cty":"SCHUYLKILL","hp":true,"id":8835045,"mun":"PINE GROVE TWP","nc":27,"ne":{"a":"40.58878","o":"-76.37671"},"o":"-76.3832","sw":{"a":"40.58279","o":"-76.3897"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.497365,40.979545],"type":"Point"},"properties":{"a":"40.979545","cty":"COLUMBIA","id":8835046,"mun":"MONTOUR TWP","nc":1,"o":"-76.497365"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.476705,40.583696],"type":"Point"},"properties":{"a":"40.583696","cty":"LEHIGH","id":8835047,"mun":"ALLENTOWN","nc":7,"o":"-75.476705"},"type":"Feature"}
 ]}
