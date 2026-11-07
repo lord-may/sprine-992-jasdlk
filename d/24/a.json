@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.1949,41.52844],"type":"Point"},"properties":{"a":"41.52844","cty":"NEWPORT","hp":true,"id":20261070654,"mun":"LITTLE COMPTON","nc":8,"ne":{"a":"41.52945","o":"-71.19396"},"o":"-71.1949","sw":{"a":"41.52742","o":"-71.19583"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.561616,41.789726],"type":"Point"},"properties":{"a":"41.789726","cty":"PROVIDENCE","id":20261070702,"mun":"SCITUATE","nc":1,"o":"-71.561616"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.561616,41.789726],"type":"Point"},"properties":{"a":"41.789726","cty":"PROVIDENCE","id":20261070702,"mun":"SCITUATE","nc":1,"o":"-71.561616"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.62264,41.845048],"type":"Point"},"properties":{"a":"41.845048","cty":"PROVIDENCE","id":20261070706,"mun":"SCITUATE","nc":1,"o":"-71.62264"},"type":"Feature"}
 ]}
