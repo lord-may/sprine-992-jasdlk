@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.6214,41.93089],"type":"Point"},"properties":{"a":"41.93089","cty":"PROVIDENCE","hp":true,"id":20261070769,"mun":"GLOCESTER","nc":9,"ne":{"a":"41.93243","o":"-71.62049"},"o":"-71.6214","sw":{"a":"41.92935","o":"-71.62231"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.47979,41.47652],"type":"Point"},"properties":{"a":"41.47652","cty":"WASHINGTON","hp":true,"id":20261070786,"mun":"SOUTH KINGSTOWN","nc":210,"ne":{"a":"41.48828","o":"-71.4716"},"o":"-71.47979","sw":{"a":"41.46475","o":"-71.48798"}},"type":"Feature"}
+{"geometry":{"coordinates":[-71.47979,41.47652],"type":"Point"},"properties":{"a":"41.47652","cty":"WASHINGTON","hp":true,"id":20261070786,"mun":"SOUTH KINGSTOWN","nc":210,"ne":{"a":"41.48828","o":"-71.4716"},"o":"-71.47979","sw":{"a":"41.46475","o":"-71.48798"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.494475,41.864435],"type":"Point"},"properties":{"a":"41.864435","cty":"PROVIDENCE","id":20261070790,"mun":"JOHNSTON","nc":1,"o":"-71.494475"},"type":"Feature"}
 ]}
