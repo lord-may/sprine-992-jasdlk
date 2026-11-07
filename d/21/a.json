@@ -3,5 +3,5 @@
 {"geometry":{"coordinates":[-70.391304,43.840322],"type":"Point"},"properties":{"EstRest":"11/7/2026 11:00:00 AM","Outages":2,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.179504,45.259414],"type":"Point"},"properties":{"EstRest":"11/7/2026 11:15:00 AM","Outages":1,"cause":"","county":"PISCATAQUIS","crewstatus":"ONST ","customers":3,"hamlet":"DOVER-FOXCROFT","incidentnumber":"0046B0","incidents":1,"level":"street","opco":"CMP","street":"CITRON RD","town":"DOVER-FOXCROFT"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.179504,45.259414],"type":"Point"},"properties":{"EstRest":"11/7/2026 11:15:00 AM","Outages":1,"county":"PISCATAQUIS","customers":10243,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.705364,43.094331],"type":"Point"},"properties":{"EstRest":"11/7/2026 12:00:00 PM","Outages":718,"county":"YORK","customers":132723,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.705364,43.094331],"type":"Point"},"properties":{"EstRest":"11/7/2026 12:15:00 PM","Outages":751,"county":"YORK","customers":132723,"incidents":3,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
