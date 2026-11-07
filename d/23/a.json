@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.250407,40.036989],"type":"Point"},"properties":{"a":"40.036989","cty":"LANCASTER","id":8834950,"mun":"EAST LAMPETER TWP","nc":4,"o":"-76.250407"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.865493,40.059205],"type":"Point"},"properties":{"a":"40.059205","cty":"CHESTER","id":8834957,"mun":"HONEYBROOK TWP","nc":2,"o":"-75.865493"},"type":"Feature"}
 ]}
