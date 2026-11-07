@@ -4,5 +4,7 @@
 {"geometry":{"coordinates":[-75.71502,41.48878],"type":"Point"},"properties":{"a":"41.48878","cty":"LACKAWANNA","hp":true,"id":8834969,"mun":"CLARKS SUMMIT BORO","nc":73,"ne":{"a":"41.49047","o":"-75.71285"},"o":"-75.71502","sw":{"a":"41.48708","o":"-75.71718"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.234008,40.352821],"type":"Point"},"properties":{"a":"40.352821","cty":"BUCKS","id":8834971,"mun":"HILLTOWN TWP","nc":1,"o":"-75.234008"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.292337,41.053273],"type":"Point"},"properties":{"a":"41.053273","cty":"MONROE","id":8834972,"mun":"POCONO TWP","nc":3,"o":"-75.292337"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.268269,40.300981],"type":"Point"},"properties":{"a":"40.300981","cty":"LEBANON","id":8834980,"mun":"HEIDELBERG TWP","nc":2,"o":"-76.268269"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.268269,40.300981],"type":"Point"},"properties":{"a":"40.300981","cty":"LEBANON","id":8834980,"mun":"HEIDELBERG TWP","nc":2,"o":"-76.268269"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.957212,40.441408],"type":"Point"},"properties":{"a":"40.441408","cty":"DAUPHIN","id":8834981,"mun":"HALIFAX TWP","nc":1,"o":"-76.957212"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.933648,40.2291],"type":"Point"},"properties":{"a":"40.2291","cty":"CUMBERLAND","id":8834983,"mun":"LOWER ALLEN TWP","nc":1,"o":"-76.933648"},"type":"Feature"}
 ]}
