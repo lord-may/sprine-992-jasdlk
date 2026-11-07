@@ -8,5 +8,6 @@
 {"geometry":{"coordinates":[-76.356271,39.919478],"type":"Point"},"properties":{"a":"39.919478","cty":"LANCASTER","id":8835082,"mun":"CONESTOGA TWP","nc":4,"o":"-76.356271"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.450182,40.061659],"type":"Point"},"properties":{"a":"40.061659","cty":"LANCASTER","id":8835092,"mun":"WEST HEMPFIELD TWP","nc":1,"o":"-76.450182"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.990029,40.166339],"type":"Point"},"properties":{"a":"40.166339","cty":"CUMBERLAND","id":8835093,"mun":"UPPER ALLEN TWP","nc":1,"o":"-76.990029"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.677765,41.402774],"type":"Point"},"properties":{"a":"41.402774","cty":"LACKAWANNA","id":8835094,"mun":"SCRANTON","nc":1,"o":"-75.677765"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.544144,40.611233],"type":"Point"},"properties":{"a":"40.611233","cty":"LEHIGH","id":8835096,"mun":"SOUTH WHITEHALL TWP","nc":6,"o":"-75.544144"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.589689,40.154306],"type":"Point"},"properties":{"a":"40.154306","cty":"LANCASTER","id":8835098,"mun":"MOUNT JOY TWP","nc":1,"o":"-76.589689"},"type":"Feature"}
 ]}
