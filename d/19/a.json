@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-74.781002,41.693017],"type":"Point"},"properties":{"EstRest":"11/7/2026 8:00:00 PM","Outages":13,"county":"SULLIVAN","customers":50189,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"}
+{"geometry":{"coordinates":[-74.781002,41.693017],"type":"Point"},"properties":{"EstRest":"11/7/2026 8:00:00 PM","Outages":21,"county":"SULLIVAN","customers":50189,"incidents":3,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}

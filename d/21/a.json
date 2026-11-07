@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-69.274717,44.837262],"type":"Point"},"properties":{"EstRest":"11/7/2026 7:45:00 PM","Outages":11,"county":"PENOBSCOT","customers":15447,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.274717,44.837262],"type":"Point"},"properties":{"EstRest":"11/7/2026 7:45:00 PM","Outages":4,"cause":"","county":"PENOBSCOT","crewstatus":"DISP ","customers":41,"hamlet":"NEWPORT","incidentnumber":"0046CV","incidents":1,"level":"street","opco":"CMP","street":"WATER ST","town":"NEWPORT"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.440285,44.372326],"type":"Point"},"properties":{"EstRest":"11/7/2026 6:45:00 PM","Outages":9,"county":"WALDO","customers":26703,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.44215,44.370887],"type":"Point"},"properties":{"EstRest":"11/7/2026 6:45:00 PM","Outages":4,"cause":"","county":"WALDO","crewstatus":"ENRT ","customers":4,"hamlet":"PALERMO","incidentnumber":"0046CS","incidents":1,"level":"street","opco":"CMP","street":"BABCOCK SHORE RD","town":"PALERMO"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.44215,44.370887],"type":"Point"},"properties":{"EstRest":"11/7/2026 6:45:00 PM","Outages":4,"cause":"","county":"WALDO","crewstatus":"ONST ","customers":4,"hamlet":"PALERMO","incidentnumber":"0046CS","incidents":1,"level":"street","opco":"CMP","street":"BABCOCK SHORE RD","town":"PALERMO"},"type":"Feature"}
 ]}
