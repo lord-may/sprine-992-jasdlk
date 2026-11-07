@@ -3,5 +3,8 @@
 {"geometry":{"coordinates":[-71.519755,41.721879],"type":"Point"},"properties":{"a":"41.721879","cty":"KENT","id":20261070791,"mun":"WEST WARWICK","nc":1,"o":"-71.519755"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.607421,41.668286],"type":"Point"},"properties":{"a":"41.668286","cty":"KENT","id":20261070794,"mun":"COVENTRY","nc":1,"o":"-71.607421"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.456455,41.858168],"type":"Point"},"properties":{"a":"41.858168","cty":"PROVIDENCE","id":20261070797,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.456455"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.612491,41.389898],"type":"Point"},"properties":{"a":"41.389898","cty":"WASHINGTON","id":20261070802,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.612491"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.612491,41.389898],"type":"Point"},"properties":{"a":"41.389898","cty":"WASHINGTON","id":20261070802,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.612491"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.696881,41.832126],"type":"Point"},"properties":{"a":"41.832126","cty":"PROVIDENCE","id":20261070803,"mun":"FOSTER","nc":1,"o":"-71.696881"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.494475,41.864435],"type":"Point"},"properties":{"a":"41.864435","cty":"PROVIDENCE","id":20261070804,"mun":"JOHNSTON","nc":1,"o":"-71.494475"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.678489,41.846819],"type":"Point"},"properties":{"a":"41.846819","cty":"PROVIDENCE","id":20261070805,"mun":"SCITUATE","nc":1,"o":"-71.678489"},"type":"Feature"}
 ]}
