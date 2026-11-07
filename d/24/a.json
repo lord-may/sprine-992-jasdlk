@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.50848,41.848153],"type":"Point"},"properties":{"a":"41.848153","cty":"PROVIDENCE","id":20261070867,"mun":"JOHNSTON","nc":1,"o":"-71.50848"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.75884,41.75765],"type":"Point"},"properties":{"a":"41.75765","cty":"PROVIDENCE","hp":true,"id":20261070869,"mun":"FOSTER","nc":11,"ne":{"a":"41.76175","o":"-71.75623"},"o":"-71.75884","sw":{"a":"41.75355","o":"-71.76146"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.422548,41.707686],"type":"Point"},"properties":{"a":"41.707686","cty":"KENT","id":20261070872,"mun":"WARWICK","nc":1,"o":"-71.422548"},"type":"Feature"}
 ]}
