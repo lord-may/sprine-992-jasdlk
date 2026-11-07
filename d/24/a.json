@@ -3,6 +3,5 @@
 {"geometry":{"coordinates":[-71.63998,41.872474],"type":"Point"},"properties":{"a":"41.872474","cty":"PROVIDENCE","id":20261070871,"mun":"GLOCESTER","nc":1,"o":"-71.63998"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.422548,41.707686],"type":"Point"},"properties":{"a":"41.707686","cty":"KENT","id":20261070872,"mun":"WARWICK","nc":1,"o":"-71.422548"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.67179,41.752301],"type":"Point"},"properties":{"a":"41.752301","cty":"PROVIDENCE","id":20261070873,"mun":"FOSTER","nc":1,"o":"-71.67179"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.39636,41.730573],"type":"Point"},"properties":{"a":"41.730573","cty":"KENT","id":20261070875,"mun":"WARWICK","nc":1,"o":"-71.39636"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.399595,42.012704],"type":"Point"},"properties":{"a":"42.012704","cty":"PROVIDENCE","id":20261070877,"mun":"CUMBERLAND","nc":1,"o":"-71.399595"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.39636,41.730573],"type":"Point"},"properties":{"a":"41.730573","cty":"KENT","id":20261070875,"mun":"WARWICK","nc":1,"o":"-71.39636"},"type":"Feature"}
 ]}
