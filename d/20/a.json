@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-78.305229,42.140449],"type":"Point"},"properties":{"EstRest":"11/7/2026 4:00:00 PM","Outages":1,"cause":"","county":"ALLEGANY","crewstatus":"DISP ","customers":28,"hamlet":"CUBA","incidentnumber":"011ARW","incidents":1,"level":"street","opco":"RGE","street":"WOLF RUN RD","town":"CLARKSVILLE"},"type":"Feature"},
-{"geometry":{"coordinates":[-78.305229,42.140449],"type":"Point"},"properties":{"EstRest":"11/7/2026 4:00:00 PM","Outages":1,"county":"ALLEGANY","customers":11164,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
+{"geometry":{"coordinates":[-78.305229,42.140449],"type":"Point"},"properties":{"EstRest":"11/7/2026 4:00:00 PM","Outages":1,"county":"ALLEGANY","customers":11164,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.782413,43.050565],"type":"Point"},"properties":{"EstRest":"11/7/2026 4:45:00 PM","Outages":1,"cause":"","county":"MONROE","crewstatus":"     ","customers":41,"hamlet":"SCOTTSVILLE","incidentnumber":"011ASD","incidents":1,"level":"street","opco":"RGE","street":"SCOTTS CHILI RD","town":"CHILI"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.782413,43.050565],"type":"Point"},"properties":{"EstRest":"11/7/2026 4:45:00 PM","Outages":1,"county":"MONROE","customers":303529,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
