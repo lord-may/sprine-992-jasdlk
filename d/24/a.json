@@ -3,5 +3,7 @@
 {"geometry":{"coordinates":[-71.607421,41.668286],"type":"Point"},"properties":{"a":"41.668286","cty":"KENT","id":20261070794,"mun":"COVENTRY","nc":1,"o":"-71.607421"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.696881,41.832126],"type":"Point"},"properties":{"a":"41.832126","cty":"PROVIDENCE","id":20261070803,"mun":"FOSTER","nc":1,"o":"-71.696881"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.678489,41.846819],"type":"Point"},"properties":{"a":"41.846819","cty":"PROVIDENCE","id":20261070805,"mun":"SCITUATE","nc":1,"o":"-71.678489"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.411301,41.752124],"type":"Point"},"properties":{"a":"41.752124","cty":"KENT","id":20261070808,"mun":"WARWICK","nc":1,"o":"-71.411301"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.411301,41.752124],"type":"Point"},"properties":{"a":"41.752124","cty":"KENT","id":20261070808,"mun":"WARWICK","nc":1,"o":"-71.411301"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.515471,41.714681],"type":"Point"},"properties":{"a":"41.714681","cty":"KENT","id":20261070811,"mun":"WEST WARWICK","nc":1,"o":"-71.515471"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.319829,41.494448],"type":"Point"},"properties":{"a":"41.494448","cty":"NEWPORT","id":20261070812,"mun":"NEWPORT","nc":1,"o":"-71.319829"},"type":"Feature"}
 ]}
