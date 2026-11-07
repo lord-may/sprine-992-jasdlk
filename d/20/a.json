@@ -1,5 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.683244,43.069289],"type":"Point"},"properties":{"EstRest":"11/7/2026 12:15:00 PM","Outages":3,"county":"MONROE","customers":303529,"incidents":2,"level":"county","opco":"RGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.216868,43.127004],"type":"Point"},"properties":{"EstRest":"11/7/2026 10:45:00 AM","Outages":440,"county":"WAYNE","customers":27021,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.238711,43.142337],"type":"Point"},"properties":{"EstRest":"11/7/2026 10:45:00 AM","Outages":119,"cause":"","county":"WAYNE","crewstatus":"ONST ","customers":119,"hamlet":"MARION","incidentnumber":"011AQP","incidents":1,"level":"street","opco":"RGE","street":"HUNTLEY RD","town":"MARION"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.683244,43.069289],"type":"Point"},"properties":{"EstRest":"11/7/2026 12:15:00 PM","Outages":3,"county":"MONROE","customers":303529,"incidents":2,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
