@@ -4,8 +4,9 @@
 {"geometry":{"coordinates":[-71.499366,41.876807],"type":"Point"},"properties":{"a":"41.876807","cty":"PROVIDENCE","id":20261070620,"mun":"SMITHFIELD","nc":11,"o":"-71.499366"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.499224,41.874272],"type":"Point"},"properties":{"a":"41.874272","cty":"PROVIDENCE","id":20261070625,"mun":"SMITHFIELD","nc":1,"o":"-71.499224"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.626321,41.852069],"type":"Point"},"properties":{"a":"41.852069","cty":"PROVIDENCE","id":20261070639,"mun":"SCITUATE","nc":1,"o":"-71.626321"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.634338,41.8461],"type":"Point"},"properties":{"a":"41.8461","cty":"PROVIDENCE","id":20261070645,"mun":"SCITUATE","nc":5,"o":"-71.634338"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.1949,41.52844],"type":"Point"},"properties":{"a":"41.52844","cty":"NEWPORT","hp":true,"id":20261070654,"mun":"LITTLE COMPTON","nc":8,"ne":{"a":"41.52945","o":"-71.19396"},"o":"-71.1949","sw":{"a":"41.52742","o":"-71.19583"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.701532,41.735811],"type":"Point"},"properties":{"a":"41.735811","cty":"PROVIDENCE","id":20261070664,"mun":"FOSTER","nc":1,"o":"-71.701532"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.739313,41.863116],"type":"Point"},"properties":{"a":"41.863116","cty":"PROVIDENCE","id":20261070677,"mun":"GLOCESTER","nc":1,"o":"-71.739313"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.739313,41.863116],"type":"Point"},"properties":{"a":"41.863116","cty":"PROVIDENCE","id":20261070677,"mun":"GLOCESTER","nc":1,"o":"-71.739313"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.228801,41.641643],"type":"Point"},"properties":{"a":"41.641643","cty":"NEWPORT","id":20261070683,"mun":"PORTSMOUTH","nc":1,"o":"-71.228801"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.63998,41.872474],"type":"Point"},"properties":{"a":"41.872474","cty":"PROVIDENCE","id":20261070684,"mun":"GLOCESTER","nc":1,"o":"-71.63998"},"type":"Feature"}
 ]}
