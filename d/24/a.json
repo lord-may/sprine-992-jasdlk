@@ -2,14 +2,7 @@
 {"geometry":{"coordinates":[-71.561616,41.789726],"type":"Point"},"properties":{"a":"41.789726","cty":"PROVIDENCE","id":20261070702,"mun":"SCITUATE","nc":1,"o":"-71.561616"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.62264,41.845048],"type":"Point"},"properties":{"a":"41.845048","cty":"PROVIDENCE","id":20261070706,"mun":"SCITUATE","nc":1,"o":"-71.62264"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.428971,41.458637],"type":"Point"},"properties":{"a":"41.458637","cty":"WASHINGTON","id":20261070710,"mun":"NARRAGANSETT","nc":1,"o":"-71.428971"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.680809,41.855229],"type":"Point"},"properties":{"a":"41.855229","cty":"PROVIDENCE","id":20261070711,"mun":"SCITUATE","nc":1,"o":"-71.680809"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.770533,41.833978],"type":"Point"},"properties":{"a":"41.833978","cty":"PROVIDENCE","id":20261070716,"mun":"FOSTER","nc":1,"o":"-71.770533"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.60716,41.39189],"type":"Point"},"properties":{"a":"41.39189","cty":"WASHINGTON","hp":true,"id":20261070721,"mun":"SOUTH KINGSTOWN","nc":15,"ne":{"a":"41.39271","o":"-71.60675"},"o":"-71.60716","sw":{"a":"41.39107","o":"-71.60756"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.59939,41.38596],"type":"Point"},"properties":{"a":"41.38596","cty":"WASHINGTON","hp":true,"id":20261070748,"mun":"CHARLESTOWN","nc":1379,"ne":{"a":"41.40774","o":"-71.57945"},"o":"-71.59939","sw":{"a":"41.36418","o":"-71.61934"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.503946,41.388581],"type":"Point"},"properties":{"a":"41.388581","cty":"WASHINGTON","id":20261070754,"mun":"NARRAGANSETT","nc":1,"o":"-71.503946"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.619261,41.397264],"type":"Point"},"properties":{"a":"41.397264","cty":"WASHINGTON","id":20261070756,"mun":"CHARLESTOWN","nc":1,"o":"-71.619261"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.616946,41.394689],"type":"Point"},"properties":{"a":"41.394689","cty":"WASHINGTON","id":20261070757,"mun":"CHARLESTOWN","nc":8,"o":"-71.616946"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.614168,41.394031],"type":"Point"},"properties":{"a":"41.394031","cty":"WASHINGTON","id":20261070759,"mun":"CHARLESTOWN","nc":38,"o":"-71.614168"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.630635,41.389888],"type":"Point"},"properties":{"a":"41.389888","cty":"WASHINGTON","id":20261070762,"mun":"CHARLESTOWN","nc":1,"o":"-71.630635"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.621554,41.930818],"type":"Point"},"properties":{"a":"41.930818","cty":"PROVIDENCE","id":20261070769,"mun":"GLOCESTER","nc":4,"o":"-71.621554"},"type":"Feature"}
 ]}
