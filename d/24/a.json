@@ -1,7 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.472642,41.856616],"type":"Point"},"properties":{"a":"41.856616","cty":"PROVIDENCE","id":20261070832,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.472642"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.521384,41.726678],"type":"Point"},"properties":{"a":"41.726678","cty":"KENT","id":20261070842,"mun":"WEST WARWICK","nc":1,"o":"-71.521384"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.330775,41.755914],"type":"Point"},"properties":{"a":"41.755914","cty":"BRISTOL","id":20261070843,"mun":"BARRINGTON","nc":1,"o":"-71.330775"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.439835,41.817892],"type":"Point"},"properties":{"a":"41.817892","cty":"PROVIDENCE","id":20261070846,"mun":"PROVIDENCE","nc":1,"o":"-71.439835"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.31791,41.50988],"type":"Point"},"properties":{"a":"41.50988","cty":"NEWPORT","hp":true,"id":20261070847,"mun":"NEWPORT","nc":8,"ne":{"a":"41.51099","o":"-71.31739"},"o":"-71.31791","sw":{"a":"41.50876","o":"-71.31842"}},"type":"Feature"}
+{"geometry":{"coordinates":[-71.31791,41.50988],"type":"Point"},"properties":{"a":"41.50988","cty":"NEWPORT","hp":true,"id":20261070847,"mun":"NEWPORT","nc":8,"ne":{"a":"41.51099","o":"-71.31739"},"o":"-71.31791","sw":{"a":"41.50876","o":"-71.31842"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.266208,41.70682],"type":"Point"},"properties":{"a":"41.70682","cty":"BRISTOL","id":20261070853,"mun":"BRISTOL","nc":1,"o":"-71.266208"},"type":"Feature"}
 ]}
