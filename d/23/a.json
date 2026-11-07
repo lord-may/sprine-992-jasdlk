@@ -1,12 +1,9 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.822346,40.272939],"type":"Point"},"properties":{"a":"40.272939","cty":"DAUPHIN","id":8834964,"mun":"SUSQUEHANNA TWP","nc":1,"o":"-76.822346"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.933648,40.2291],"type":"Point"},"properties":{"a":"40.2291","cty":"CUMBERLAND","id":8834983,"mun":"LOWER ALLEN TWP","nc":1,"o":"-76.933648"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.242298,40.852791],"type":"Point"},"properties":{"a":"40.852791","cty":"SCHUYLKILL","id":8834993,"mun":"UNION TWP","nc":1,"o":"-76.242298"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.416203,40.629145],"type":"Point"},"properties":{"a":"40.629145","cty":"LEHIGH","id":8834997,"mun":"BETHLEHEM","nc":7,"o":"-75.416203"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.298776,40.142866],"type":"Point"},"properties":{"a":"40.142866","cty":"LANCASTER","id":8835008,"mun":"WARWICK TWP","nc":4,"o":"-76.298776"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.179674,40.595371],"type":"Point"},"properties":{"a":"40.595371","cty":"SCHUYLKILL","id":8835010,"mun":"SOUTH MANHEIM TWP","nc":3,"o":"-76.179674"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.757505,41.06855],"type":"Point"},"properties":{"a":"41.06855","cty":"CARBON","id":8835018,"mun":"EAST SIDE BORO","nc":3,"o":"-75.757505"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.866784,40.267407],"type":"Point"},"properties":{"a":"40.267407","cty":"DAUPHIN","id":8835021,"mun":"HARRISBURG","nc":8,"o":"-76.866784"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.197671,40.019395],"type":"Point"},"properties":{"a":"40.019395","cty":"LANCASTER","id":8835024,"mun":"EAST LAMPETER TWP","nc":2,"o":"-76.197671"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.470246,40.616931],"type":"Point"},"properties":{"a":"40.616931","cty":"LEHIGH","id":8835034,"mun":"ALLENTOWN","nc":1,"o":"-75.470246"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.197671,40.019395],"type":"Point"},"properties":{"a":"40.019395","cty":"LANCASTER","id":8835024,"mun":"EAST LAMPETER TWP","nc":2,"o":"-76.197671"},"type":"Feature"}
 ]}
