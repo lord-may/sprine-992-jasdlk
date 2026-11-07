@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.428971,41.458637],"type":"Point"},"properties":{"a":"41.458637","cty":"WASHINGTON","id":20261070710,"mun":"NARRAGANSETT","nc":1,"o":"-71.428971"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.60716,41.39189],"type":"Point"},"properties":{"a":"41.39189","cty":"WASHINGTON","hp":true,"id":20261070721,"mun":"SOUTH KINGSTOWN","nc":15,"ne":{"a":"41.39271","o":"-71.60675"},"o":"-71.60716","sw":{"a":"41.39107","o":"-71.60756"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.6214,41.93089],"type":"Point"},"properties":{"a":"41.93089","cty":"PROVIDENCE","hp":true,"id":20261070769,"mun":"GLOCESTER","nc":9,"ne":{"a":"41.93243","o":"-71.62049"},"o":"-71.6214","sw":{"a":"41.92935","o":"-71.62231"}},"type":"Feature"}
 ]}
