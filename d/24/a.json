@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.6214,41.93089],"type":"Point"},"properties":{"a":"41.93089","cty":"PROVIDENCE","hp":true,"id":20261070769,"mun":"GLOCESTER","nc":9,"ne":{"a":"41.93243","o":"-71.62049"},"o":"-71.6214","sw":{"a":"41.92935","o":"-71.62231"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.494475,41.864435],"type":"Point"},"properties":{"a":"41.864435","cty":"PROVIDENCE","id":20261070790,"mun":"JOHNSTON","nc":1,"o":"-71.494475"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.519755,41.721879],"type":"Point"},"properties":{"a":"41.721879","cty":"KENT","id":20261070791,"mun":"WEST WARWICK","nc":1,"o":"-71.519755"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.519755,41.721879],"type":"Point"},"properties":{"a":"41.721879","cty":"KENT","id":20261070791,"mun":"WEST WARWICK","nc":1,"o":"-71.519755"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.607003,41.395819],"type":"Point"},"properties":{"a":"41.395819","cty":"WASHINGTON","id":20261070792,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.607003"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.48441,41.46806],"type":"Point"},"properties":{"a":"41.46806","cty":"WASHINGTON","id":20261070793,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.48441"},"type":"Feature"}
 ]}

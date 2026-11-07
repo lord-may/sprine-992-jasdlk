@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.789302,40.699966],"type":"Point"},"properties":{"a":"40.699966","cty":"NORTHUMBERLAND","id":8834961,"mun":"JACKSON TWP","nc":2,"o":"-76.789302"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.822346,40.272939],"type":"Point"},"properties":{"a":"40.272939","cty":"DAUPHIN","id":8834964,"mun":"SUSQUEHANNA TWP","nc":1,"o":"-76.822346"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.791571,40.700271],"type":"Point"},"properties":{"a":"40.700271","cty":"NORTHUMBERLAND","id":8834961,"mun":"JACKSON TWP","nc":6,"o":"-76.791571"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.822346,40.272939],"type":"Point"},"properties":{"a":"40.272939","cty":"DAUPHIN","id":8834964,"mun":"SUSQUEHANNA TWP","nc":1,"o":"-76.822346"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.367549,40.655567],"type":"Point"},"properties":{"a":"40.655567","cty":"NORTHAMPTON","id":8834966,"mun":"BETHLEHEM","nc":18,"o":"-75.367549"},"type":"Feature"}
 ]}
