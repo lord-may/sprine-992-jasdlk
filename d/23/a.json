@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.789302,40.699966],"type":"Point"},"properties":{"a":"40.699966","cty":"NORTHUMBERLAND","id":8834961,"mun":"JACKSON TWP","nc":2,"o":"-76.789302"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.264274,40.032731],"type":"Point"},"properties":{"a":"40.032731","cty":"LANCASTER","id":8834962,"mun":"LANCASTER","nc":1,"o":"-76.264274"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.789302,40.699966],"type":"Point"},"properties":{"a":"40.699966","cty":"NORTHUMBERLAND","id":8834961,"mun":"JACKSON TWP","nc":2,"o":"-76.789302"},"type":"Feature"}
 ]}
