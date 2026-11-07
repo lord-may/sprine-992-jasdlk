@@ -8,5 +8,5 @@
 {"geometry":{"coordinates":[-75.757505,41.06855],"type":"Point"},"properties":{"a":"41.06855","cty":"CARBON","id":8835018,"mun":"EAST SIDE BORO","nc":3,"o":"-75.757505"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.866784,40.267407],"type":"Point"},"properties":{"a":"40.267407","cty":"DAUPHIN","id":8835021,"mun":"HARRISBURG","nc":8,"o":"-76.866784"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.197671,40.019395],"type":"Point"},"properties":{"a":"40.019395","cty":"LANCASTER","id":8835024,"mun":"EAST LAMPETER TWP","nc":2,"o":"-76.197671"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.04632,39.83955],"type":"Point"},"properties":{"a":"39.83955","cty":"LANCASTER","hp":true,"id":8835027,"mun":"COLERAIN TWP","nc":13,"ne":{"a":"39.84303","o":"-76.03797"},"o":"-76.04632","sw":{"a":"39.83608","o":"-76.05467"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.470246,40.616931],"type":"Point"},"properties":{"a":"40.616931","cty":"LEHIGH","id":8835034,"mun":"ALLENTOWN","nc":1,"o":"-75.470246"},"type":"Feature"}
 ]}

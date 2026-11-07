@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.683244,43.069289],"type":"Point"},"properties":{"EstRest":"11/7/2026 12:15:00 PM","Outages":3,"county":"MONROE","customers":303529,"incidents":2,"level":"county","opco":"RGE"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.683244,43.069289],"type":"Point"},"properties":{"EstRest":"11/7/2026 9:45:00 AM","Outages":2,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":14,"hamlet":"WEST HENRIETTA","incidentnumber":"011AQL","incidents":1,"level":"street","opco":"RGE","street":"LUCIUS GORDON DR","town":"HENRIETTA"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.683244,43.069289],"type":"Point"},"properties":{"EstRest":"11/7/2026 9:45:00 AM","Outages":2,"county":"MONROE","customers":303529,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
