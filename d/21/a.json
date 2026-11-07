@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.087021,44.587111],"type":"Point"},"properties":{"EstRest":"11/7/2026 6:15:00 PM","Outages":1,"cause":"","county":"FRANKLIN","crewstatus":"ONST ","customers":35,"hamlet":"CHESTERVILLE","incidentnumber":"0046CP","incidents":1,"level":"street","opco":"CMP","street":"POPE RD","town":"CHESTERVILLE"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.087021,44.587111],"type":"Point"},"properties":{"EstRest":"11/7/2026 6:15:00 PM","Outages":1,"county":"FRANKLIN","customers":24700,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.087021,44.587111],"type":"Point"},"properties":{"EstRest":"11/7/2026 6:15:00 PM","Outages":1,"cause":"Tree","county":"FRANKLIN","crewstatus":"CMPL ","customers":35,"hamlet":"CHESTERVILLE","incidentnumber":"0046CP","incidents":1,"level":"street","opco":"CMP","street":"POPE RD","town":"CHESTERVILLE"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.087021,44.587111],"type":"Point"},"properties":{"EstRest":"11/7/2026 6:15:00 PM","Outages":1,"county":"FRANKLIN","customers":24700,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.440285,44.372326],"type":"Point"},"properties":{"EstRest":"11/7/2026 6:45:00 PM","Outages":9,"county":"WALDO","customers":26703,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.443445,44.369343],"type":"Point"},"properties":{"EstRest":"11/7/2026 6:45:00 PM","Outages":4,"cause":"","county":"WALDO","crewstatus":"     ","customers":4,"hamlet":"PALERMO","incidentnumber":"0046CS","incidents":1,"level":"street","opco":"CMP","street":"BABCOCK SHORE RD","town":"PALERMO"},"type":"Feature"}
 ]}
