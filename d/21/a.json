@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-70.275067,44.117875],"type":"Point"},"properties":{"EstRest":"11/7/2026 5:00:00 PM","Outages":12,"cause":"","county":"ANDROSCOGGIN","crewstatus":"     ","customers":16,"hamlet":"AUBURN","incidentnumber":"0046CL","incidents":1,"level":"street","opco":"CMP","street":"WYMAN RD","town":"AUBURN"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.275067,44.117875],"type":"Point"},"properties":{"EstRest":"11/7/2026 5:00:00 PM","Outages":12,"county":"ANDROSCOGGIN","customers":59602,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.262471,44.262906],"type":"Point"},"properties":{"EstRest":"11/7/2026 4:00:00 PM","Outages":17,"county":"KNOX","customers":27251,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.263517,44.263655],"type":"Point"},"properties":{"EstRest":"11/7/2026 4:00:00 PM","Outages":8,"cause":"","county":"KNOX","crewstatus":"ACKN ","customers":8,"hamlet":"APPLETON","incidentnumber":"0046CD","incidents":1,"level":"street","opco":"CMP","street":"GUSHEE RD","town":"APPLETON"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.263517,44.263655],"type":"Point"},"properties":{"EstRest":"11/7/2026 4:00:00 PM","Outages":8,"cause":"","county":"KNOX","crewstatus":"ONST ","customers":8,"hamlet":"APPLETON","incidentnumber":"0046CD","incidents":1,"level":"street","opco":"CMP","street":"GUSHEE RD","town":"APPLETON"},"type":"Feature"}
 ]}

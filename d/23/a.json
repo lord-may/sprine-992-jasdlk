@@ -3,7 +3,6 @@
 {"geometry":{"coordinates":[-75.476705,40.583696],"type":"Point"},"properties":{"a":"40.583696","cty":"LEHIGH","id":8835047,"mun":"ALLENTOWN","nc":7,"o":"-75.476705"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.98889,40.160029],"type":"Point"},"properties":{"a":"40.160029","cty":"CUMBERLAND","id":8835052,"mun":"UPPER ALLEN TWP","nc":2,"o":"-76.98889"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.374578,39.921517],"type":"Point"},"properties":{"a":"39.921517","cty":"LANCASTER","id":8835053,"mun":"CONESTOGA TWP","nc":1,"o":"-76.374578"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.990029,40.166339],"type":"Point"},"properties":{"a":"40.166339","cty":"CUMBERLAND","id":8835075,"mun":"UPPER ALLEN TWP","nc":1,"o":"-76.990029"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.990029,40.166339],"type":"Point"},"properties":{"a":"40.166339","cty":"CUMBERLAND","id":8835076,"mun":"UPPER ALLEN TWP","nc":1,"o":"-76.990029"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.44216,40.80377],"type":"Point"},"properties":{"a":"40.80377","cty":"NORTHAMPTON","hp":true,"id":8835078,"mun":"MOORE TWP","nc":36,"ne":{"a":"40.80498","o":"-75.43866"},"o":"-75.44216","sw":{"a":"40.80256","o":"-75.44565"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.990548,40.164621],"type":"Point"},"properties":{"a":"40.164621","cty":"CUMBERLAND","id":8835079,"mun":"UPPER ALLEN TWP","nc":1,"o":"-76.990548"},"type":"Feature"},
