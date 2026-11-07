@@ -2,5 +2,6 @@
 {"geometry":{"coordinates":[-76.98889,40.160029],"type":"Point"},"properties":{"a":"40.160029","cty":"CUMBERLAND","id":8835052,"mun":"UPPER ALLEN TWP","nc":2,"o":"-76.98889"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.450182,40.061659],"type":"Point"},"properties":{"a":"40.061659","cty":"LANCASTER","id":8835092,"mun":"WEST HEMPFIELD TWP","nc":1,"o":"-76.450182"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.54505,40.611199],"type":"Point"},"properties":{"a":"40.611199","cty":"LEHIGH","id":8835096,"mun":"SOUTH WHITEHALL TWP","nc":7,"o":"-75.54505"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.589689,40.154306],"type":"Point"},"properties":{"a":"40.154306","cty":"LANCASTER","id":8835098,"mun":"MOUNT JOY TWP","nc":1,"o":"-76.589689"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.589689,40.154306],"type":"Point"},"properties":{"a":"40.154306","cty":"LANCASTER","id":8835098,"mun":"MOUNT JOY TWP","nc":1,"o":"-76.589689"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.329344,39.874655],"type":"Point"},"properties":{"a":"39.874655","cty":"LANCASTER","id":8835119,"mun":"MARTIC TWP","nc":1,"o":"-76.329344"},"type":"Feature"}
 ]}
