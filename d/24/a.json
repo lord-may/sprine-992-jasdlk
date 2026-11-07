@@ -1,7 +1,11 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.41465,41.83192],"type":"Point"},"properties":{"a":"41.83192","cty":"PROVIDENCE","hp":true,"id":20261070819,"mun":"PROVIDENCE","nc":7,"ne":{"a":"41.83442","o":"-71.4124"},"o":"-71.41465","sw":{"a":"41.82942","o":"-71.41691"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.409154,41.833688],"type":"Point"},"properties":{"a":"41.833688","cty":"PROVIDENCE","id":20261070821,"mun":"PROVIDENCE","nc":1,"o":"-71.409154"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.543418,41.892314],"type":"Point"},"properties":{"a":"41.892314","cty":"PROVIDENCE","id":20261070822,"mun":"SMITHFIELD","nc":1,"o":"-71.543418"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.613815,41.38875],"type":"Point"},"properties":{"a":"41.38875","cty":"WASHINGTON","id":20261070824,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.613815"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.319829,41.494448],"type":"Point"},"properties":{"a":"41.494448","cty":"NEWPORT","id":20261070826,"mun":"NEWPORT","nc":1,"o":"-71.319829"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.319829,41.494448],"type":"Point"},"properties":{"a":"41.494448","cty":"NEWPORT","id":20261070826,"mun":"NEWPORT","nc":1,"o":"-71.319829"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.4905,41.94422],"type":"Point"},"properties":{"a":"41.94422","cty":"PROVIDENCE","hp":true,"id":20261070829,"mun":"NORTH SMITHFIELD","nc":6,"ne":{"a":"41.94717","o":"-71.48984"},"o":"-71.4905","sw":{"a":"41.94126","o":"-71.49116"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.495479,41.968042],"type":"Point"},"properties":{"a":"41.968042","cty":"PROVIDENCE","id":20261070831,"mun":"NORTH SMITHFIELD","nc":1,"o":"-71.495479"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.472642,41.856616],"type":"Point"},"properties":{"a":"41.856616","cty":"PROVIDENCE","id":20261070832,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.472642"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.622464,41.932358],"type":"Point"},"properties":{"a":"41.932358","cty":"PROVIDENCE","id":20261070833,"mun":"GLOCESTER","nc":1,"o":"-71.622464"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.739313,41.863116],"type":"Point"},"properties":{"a":"41.863116","cty":"PROVIDENCE","id":20261070834,"mun":"GLOCESTER","nc":1,"o":"-71.739313"},"type":"Feature"}
 ]}
