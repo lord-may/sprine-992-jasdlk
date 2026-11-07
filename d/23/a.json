@@ -5,5 +5,8 @@
 {"geometry":{"coordinates":[-76.37082,39.921693],"type":"Point"},"properties":{"a":"39.921693","cty":"LANCASTER","id":8835053,"mun":"CONESTOGA TWP","nc":7,"o":"-76.37082"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.44216,40.80377],"type":"Point"},"properties":{"a":"40.80377","cty":"NORTHAMPTON","hp":true,"id":8835078,"mun":"MOORE TWP","nc":36,"ne":{"a":"40.80498","o":"-75.43866"},"o":"-75.44216","sw":{"a":"40.80256","o":"-75.44565"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.990029,40.166339],"type":"Point"},"properties":{"a":"40.166339","cty":"CUMBERLAND","id":8835081,"mun":"UPPER ALLEN TWP","nc":1,"o":"-76.990029"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.356271,39.919478],"type":"Point"},"properties":{"a":"39.919478","cty":"LANCASTER","id":8835082,"mun":"CONESTOGA TWP","nc":4,"o":"-76.356271"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.356271,39.919478],"type":"Point"},"properties":{"a":"39.919478","cty":"LANCASTER","id":8835082,"mun":"CONESTOGA TWP","nc":4,"o":"-76.356271"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.450182,40.061659],"type":"Point"},"properties":{"a":"40.061659","cty":"LANCASTER","id":8835092,"mun":"WEST HEMPFIELD TWP","nc":1,"o":"-76.450182"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.990029,40.166339],"type":"Point"},"properties":{"a":"40.166339","cty":"CUMBERLAND","id":8835093,"mun":"UPPER ALLEN TWP","nc":1,"o":"-76.990029"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.677765,41.402774],"type":"Point"},"properties":{"a":"41.402774","cty":"LACKAWANNA","id":8835094,"mun":"SCRANTON","nc":1,"o":"-75.677765"},"type":"Feature"}
 ]}
