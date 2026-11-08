@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-69.928436,43.799623],"type":"Point"},"properties":{"EstRest":"11/7/2026 9:00:00 PM","Outages":4,"cause":"","county":"CUMBERLAND","crewstatus":"ENRT ","customers":25,"hamlet":"HARPSWELL","incidentnumber":"0046CW","incidents":1,"level":"street","opco":"CMP","street":"PINKHAM POINT RD","town":"HARPSWELL"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.928436,43.799623],"type":"Point"},"properties":{"EstRest":"11/7/2026 9:00:00 PM","Outages":4,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.928436,43.799623],"type":"Point"},"properties":{"EstRest":"11/7/2026 9:00:00 PM","Outages":4,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.399099,44.869515],"type":"Point"},"properties":{"EstRest":"11/7/2026 10:30:00 PM","Outages":2,"cause":"","county":"FRANKLIN","crewstatus":"     ","customers":2,"hamlet":"PHILLIPS","incidentnumber":"0046D5","incidents":1,"level":"street","opco":"CMP","street":"GLEN DILL SHRS","town":"PHILLIPS"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.416061,44.897765],"type":"Point"},"properties":{"EstRest":"11/7/2026 10:30:00 PM","Outages":138,"county":"FRANKLIN","customers":24700,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
