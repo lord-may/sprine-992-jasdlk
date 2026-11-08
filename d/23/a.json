@@ -5,5 +5,6 @@
 {"geometry":{"coordinates":[-76.280018,39.921965],"type":"Point"},"properties":{"a":"39.921965","cty":"LANCASTER","id":8835185,"mun":"PROVIDENCE TWP","nc":4,"o":"-76.280018"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.063725,41.234748],"type":"Point"},"properties":{"a":"41.234748","cty":"LYCOMING","id":8835187,"mun":"WILLIAMSPORT","nc":2,"o":"-77.063725"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.126506,41.492602],"type":"Point"},"properties":{"a":"41.492602","cty":"PIKE","id":8835188,"mun":"LACKAWAXEN TWP","nc":2,"o":"-75.126506"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.716655,41.48765],"type":"Point"},"properties":{"a":"41.48765","cty":"LACKAWANNA","id":8835190,"mun":"CLARKS SUMMIT BORO","nc":13,"o":"-75.716655"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.716655,41.48765],"type":"Point"},"properties":{"a":"41.48765","cty":"LACKAWANNA","id":8835190,"mun":"CLARKS SUMMIT BORO","nc":13,"o":"-75.716655"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.728811,40.694205],"type":"Point"},"properties":{"a":"40.694205","cty":"LEHIGH","id":8835193,"mun":"HEIDELBERG TWP","nc":2,"o":"-75.728811"},"type":"Feature"}
 ]}
