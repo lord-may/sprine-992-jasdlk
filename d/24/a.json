@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.770533,41.833978],"type":"Point"},"properties":{"a":"41.833978","cty":"PROVIDENCE","id":20261071001,"mun":"FOSTER","nc":1,"o":"-71.770533"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.459023,41.96885],"type":"Point"},"properties":{"a":"41.96885","cty":"PROVIDENCE","id":20261071011,"mun":"CUMBERLAND","nc":1,"o":"-71.459023"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.770533,41.833978],"type":"Point"},"properties":{"a":"41.833978","cty":"PROVIDENCE","id":20261071001,"mun":"FOSTER","nc":1,"o":"-71.770533"},"type":"Feature"}
 ]}

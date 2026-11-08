@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.642462,42.311877],"type":"Point"},"properties":{"EstRest":"11/8/2026 8:30:00 PM","Outages":1,"cause":"","county":"STEUBEN","crewstatus":"     ","customers":20,"hamlet":"HORNELL","incidentnumber":"011AX8","incidents":1,"level":"street","opco":"NYSEG","street":"COUNTY ROUTE 29","town":"HORNELLSVIL T"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.642462,42.311877],"type":"Point"},"properties":{"EstRest":"11/8/2026 8:30:00 PM","Outages":1,"cause":"","county":"STEUBEN","crewstatus":"DISP ","customers":20,"hamlet":"HORNELL","incidentnumber":"011AX8","incidents":1,"level":"street","opco":"NYSEG","street":"COUNTY ROUTE 29","town":"HORNELLSVIL T"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.642462,42.311877],"type":"Point"},"properties":{"EstRest":"11/8/2026 8:30:00 PM","Outages":1,"county":"STEUBEN","customers":42828,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
