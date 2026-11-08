@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.26499,41.2194],"type":"Point"},"properties":{"a":"41.2194","cty":"MONROE","hp":true,"id":8835237,"mun":"BARRETT TWP","nc":12,"ne":{"a":"41.22052","o":"-75.2641"},"o":"-75.26499","sw":{"a":"41.21828","o":"-75.26589"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.88963,40.71977],"type":"Point"},"properties":{"a":"40.71977","cty":"SNYDER","hp":true,"id":8835259,"mun":"UNION TWP","nc":12,"ne":{"a":"40.72192","o":"-76.88445"},"o":"-76.88963","sw":{"a":"40.71762","o":"-76.89481"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.402427,40.1763],"type":"Point"},"properties":{"a":"40.1763","cty":"LANCASTER","id":8835280,"mun":"RAPHO TWP","nc":6,"o":"-76.402427"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.260434,41.005303],"type":"Point"},"properties":{"a":"41.005303","cty":"MONROE","id":8835290,"mun":"STROUD TWP","nc":1,"o":"-75.260434"},"type":"Feature"},

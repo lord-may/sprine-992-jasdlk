@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.241393,43.009746],"type":"Point"},"properties":{"EstRest":"11/8/2026 4:15:00 PM","Outages":3,"cause":"","county":"ONTARIO","crewstatus":"ONST ","customers":34,"hamlet":"PALMYRA","incidentnumber":"011AWG","incidents":1,"level":"street","opco":"RGE","street":"STAFFORD RD","town":"MANCHESTER"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.241393,43.009746],"type":"Point"},"properties":{"EstRest":"11/8/2026 4:15:00 PM","Outages":3,"county":"ONTARIO","customers":35928,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
+
 ]}

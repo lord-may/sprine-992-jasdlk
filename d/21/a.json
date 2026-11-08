@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.728626,43.375396],"type":"Point"},"properties":{"EstRest":"11/8/2026 4:30:00 PM","Outages":10,"cause":"","county":"YORK","crewstatus":"ENRT ","customers":11,"hamlet":"SANFORD","incidentnumber":"0046H0","incidents":1,"level":"street","opco":"CMP","street":"OTIS ALLEN RD","town":"SANFORD"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.728626,43.375396],"type":"Point"},"properties":{"EstRest":"11/8/2026 4:30:00 PM","Outages":10,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+
 ]}
