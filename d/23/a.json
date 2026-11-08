@@ -1,6 +1,7 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.98889,40.160029],"type":"Point"},"properties":{"a":"40.160029","cty":"CUMBERLAND","id":8835052,"mun":"UPPER ALLEN TWP","nc":2,"o":"-76.98889"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.75393,41.326245],"type":"Point"},"properties":{"a":"41.326245","cty":"CLINTON","id":8835133,"mun":"RENOVO BORO","nc":1,"o":"-77.75393"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.402807,40.967965],"type":"Point"},"properties":{"a":"40.967965","cty":"MONROE","id":8835138,"mun":"CHESTNUT HILL TWP","nc":4,"o":"-75.402807"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.851286,40.321132],"type":"Point"},"properties":{"a":"40.321132","cty":"DAUPHIN","id":8835143,"mun":"SUSQUEHANNA TWP","nc":16,"o":"-76.851286"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.851286,40.321132],"type":"Point"},"properties":{"a":"40.321132","cty":"DAUPHIN","id":8835143,"mun":"SUSQUEHANNA TWP","nc":16,"o":"-76.851286"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.00275,40.66975],"type":"Point"},"properties":{"a":"40.66975","cty":"SNYDER","hp":true,"id":8835153,"mun":"PERRY TWP","nc":43,"ne":{"a":"40.67534","o":"-76.99173"},"o":"-77.00275","sw":{"a":"40.66416","o":"-77.01378"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.902474,41.322394],"type":"Point"},"properties":{"a":"41.322394","cty":"LYCOMING","id":8835154,"mun":"UPPER FAIRFIELD TWP","nc":8,"o":"-76.902474"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.286294,40.151545],"type":"Point"},"properties":{"a":"40.151545","cty":"LANCASTER","id":8835155,"mun":"WARWICK TWP","nc":2,"o":"-76.286294"},"type":"Feature"}
 ]}
