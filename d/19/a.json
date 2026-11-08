@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-74.270618,42.327505],"type":"Point"},"properties":{"EstRest":"11/8/2026 9:00:00 AM","Outages":3,"cause":"","county":"GREENE","crewstatus":"DISP ","customers":3,"hamlet":"WINDHAM","incidentnumber":"011AUI","incidents":1,"level":"street","opco":"NYSEG","street":"HUCKLEBERRY LN","town":"WINDHAM T"},"type":"Feature"},
+{"geometry":{"coordinates":[-74.271736,42.328414],"type":"Point"},"properties":{"EstRest":"11/8/2026 9:00:00 AM","Outages":4,"county":"GREENE","customers":4933,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
