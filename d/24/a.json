@@ -4,6 +4,6 @@
 {"geometry":{"coordinates":[-71.596069,41.652644],"type":"Point"},"properties":{"a":"41.652644","cty":"KENT","id":20261070949,"mun":"WEST GREENWICH","nc":6,"o":"-71.596069"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.497029,41.540764],"type":"Point"},"properties":{"a":"41.540764","cty":"WASHINGTON","id":20261070952,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.497029"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.63278,41.81569],"type":"Point"},"properties":{"a":"41.81569","cty":"PROVIDENCE","hp":true,"id":20261070953,"mun":"SCITUATE","nc":258,"ne":{"a":"41.83065","o":"-71.61335"},"o":"-71.63278","sw":{"a":"41.80073","o":"-71.65221"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.620166,41.804008],"type":"Point"},"properties":{"a":"41.804008","cty":"PROVIDENCE","id":20261070957,"mun":"SCITUATE","nc":1,"o":"-71.620166"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.50848,41.848153],"type":"Point"},"properties":{"a":"41.848153","cty":"PROVIDENCE","id":20261070961,"mun":"JOHNSTON","nc":1,"o":"-71.50848"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.50848,41.848153],"type":"Point"},"properties":{"a":"41.848153","cty":"PROVIDENCE","id":20261070961,"mun":"JOHNSTON","nc":1,"o":"-71.50848"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.281008,41.50021],"type":"Point"},"properties":{"a":"41.50021","cty":"NEWPORT","id":20261070962,"mun":"MIDDLETOWN","nc":1,"o":"-71.281008"},"type":"Feature"}
 ]}
