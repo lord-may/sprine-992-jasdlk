@@ -8,5 +8,12 @@
 {"geometry":{"coordinates":[-76.162578,40.089398],"type":"Point"},"properties":{"a":"40.089398","cty":"LANCASTER","id":8835201,"mun":"UPPER LEACOCK TWP","nc":1,"o":"-76.162578"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.450182,40.061659],"type":"Point"},"properties":{"a":"40.061659","cty":"LANCASTER","id":8835203,"mun":"WEST HEMPFIELD TWP","nc":1,"o":"-76.450182"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.021637,41.293467],"type":"Point"},"properties":{"a":"41.293467","cty":"LYCOMING","id":8835204,"mun":"LOYALSOCK TWP","nc":4,"o":"-77.021637"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.720876,41.493649],"type":"Point"},"properties":{"a":"41.493649","cty":"LACKAWANNA","id":8835208,"mun":"SOUTH ABINGTON TWP","nc":12,"o":"-75.720876"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.720876,41.493649],"type":"Point"},"properties":{"a":"41.493649","cty":"LACKAWANNA","id":8835208,"mun":"SOUTH ABINGTON TWP","nc":12,"o":"-75.720876"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.327519,40.674646],"type":"Point"},"properties":{"a":"40.674646","cty":"NORTHAMPTON","id":8835209,"mun":"BETHLEHEM TWP","nc":5,"o":"-75.327519"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.265886,41.219057],"type":"Point"},"properties":{"a":"41.219057","cty":"MONROE","id":8835211,"mun":"BARRETT TWP","nc":2,"o":"-75.265886"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.494601,40.526542],"type":"Point"},"properties":{"a":"40.526542","cty":"LEHIGH","id":8835212,"mun":"EMMAUS BORO","nc":7,"o":"-75.494601"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.975877,40.958965],"type":"Point"},"properties":{"a":"40.958965","cty":"LUZERNE","id":8835213,"mun":"HAZLETON","nc":17,"o":"-75.975877"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.473599,40.654219],"type":"Point"},"properties":{"a":"40.654219","cty":"LEHIGH","id":8835214,"mun":"CATASAUQUA BORO","nc":39,"o":"-75.473599"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.78915,41.326096],"type":"Point"},"properties":{"a":"41.326096","cty":"LUZERNE","id":8835215,"mun":"PITTSTON","nc":11,"o":"-75.78915"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.555797,40.087684],"type":"Point"},"properties":{"a":"40.087684","cty":"LANCASTER","id":8835216,"mun":"EAST DONEGAL TWP","nc":2,"o":"-76.555797"},"type":"Feature"}
 ]}
