@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.18815,42.20125],"type":"Point"},"properties":{"id":2246577,"identifier":"DA549233-8119-4218-AF0B-08DF3D86354B","lastUpdatedTime":1794135184000,"latitude":42.20125,"longitude":-71.18815,"numPeople":4,"polygons":{"hasM":false,"hasZ":false,"rings":[[[-71.1869,42.2012],[-71.1879,42.2007],[-71.1889,42.2015],[-71.1889,42.2016]]],"spatialReference":{"latestWkid":4326,"wkid":4326},"type":"polygon"},"startTime":1794135074000,"status":"Investigating","title":"Outage"},"type":"Feature"}
+
 ]}
