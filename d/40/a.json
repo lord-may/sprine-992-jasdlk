@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.01068,42.17731],"type":"Point"},"properties":{"cause":"","etrTime":1794027426000,"id":2246176,"identifier":"936b8ee1-5875-4e39-a55c-cd48b7eb1fad","lastUpdatedTime":1794051424000,"latitude":42.17731,"longitude":-71.01068,"numPeople":54,"startTime":1794027426000,"status":"Unassigned","title":"Outage"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.01068,42.17731],"type":"Point"},"properties":{"cause":"","etrTime":1794027426000,"id":2246176,"identifier":"936b8ee1-5875-4e39-a55c-cd48b7eb1fad","lastUpdatedTime":1794051424000,"latitude":42.17731,"longitude":-71.01068,"numPeople":54,"startTime":1794027426000,"status":"Unassigned","title":"Outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.97554,42.22864],"type":"Point"},"properties":{"cause":"","etrTime":1794110756000,"id":2246530,"identifier":"758d80b8-b678-46f1-8f85-0b8676b7a54d","lastUpdatedTime":1794130023000,"latitude":42.22864,"longitude":-70.97554,"numPeople":10,"startTime":1794110756000,"status":"Unassigned","title":"Outage"},"type":"Feature"}
 ]}
