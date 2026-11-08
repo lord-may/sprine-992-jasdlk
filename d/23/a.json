@@ -2,5 +2,7 @@
 {"geometry":{"coordinates":[-75.40623,41.75831],"type":"Point"},"properties":{"a":"41.75831","cty":"WAYNE","hp":true,"id":8835170,"mun":"MOUNT PLEASANT TWP","nc":27,"ne":{"a":"41.7737","o":"-75.39298"},"o":"-75.40623","sw":{"a":"41.74292","o":"-75.41947"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.45917,41.49223],"type":"Point"},"properties":{"a":"41.49223","cty":"LACKAWANNA","hp":true,"id":8835176,"mun":"JEFFERSON TWP","nc":26,"ne":{"a":"41.49645","o":"-75.45351"},"o":"-75.45917","sw":{"a":"41.48801","o":"-75.46484"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.35251,41.17352],"type":"Point"},"properties":{"a":"41.17352","cty":"MONROE","hp":true,"id":8835177,"mun":"COOLBAUGH TWP","nc":25,"ne":{"a":"41.17546","o":"-75.35002"},"o":"-75.35251","sw":{"a":"41.17158","o":"-75.355"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.304541,40.4105],"type":"Point"},"properties":{"a":"40.4105","cty":"BUCKS","id":8835178,"mun":"RICHLAND TWP","nc":2,"o":"-75.304541"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.304541,40.4105],"type":"Point"},"properties":{"a":"40.4105","cty":"BUCKS","id":8835178,"mun":"RICHLAND TWP","nc":2,"o":"-75.304541"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.072437,40.102977],"type":"Point"},"properties":{"a":"40.102977","cty":"LANCASTER","id":8835181,"mun":"EARL TWP","nc":1,"o":"-76.072437"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.054921,40.094317],"type":"Point"},"properties":{"a":"40.094317","cty":"LANCASTER","id":8835182,"mun":"EAST EARL TWP","nc":13,"o":"-76.054921"},"type":"Feature"}
 ]}
