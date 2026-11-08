@@ -2,9 +2,7 @@
 {"geometry":{"coordinates":[-75.470392,40.653955],"type":"Point"},"properties":{"a":"40.653955","cty":"LEHIGH","id":8835235,"mun":"CATASAUQUA BORO","nc":1,"o":"-75.470392"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.26499,41.2194],"type":"Point"},"properties":{"a":"41.2194","cty":"MONROE","hp":true,"id":8835237,"mun":"BARRETT TWP","nc":12,"ne":{"a":"41.22052","o":"-75.2641"},"o":"-75.26499","sw":{"a":"41.21828","o":"-75.26589"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.055045,40.665062],"type":"Point"},"properties":{"a":"40.665062","cty":"JUNIATA","id":8835243,"mun":"MONROE TWP","nc":1,"o":"-77.055045"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.89525,40.70968],"type":"Point"},"properties":{"a":"40.70968","cty":"SNYDER","hp":true,"id":8835259,"mun":"UNION TWP","nc":73,"ne":{"a":"40.72768","o":"-76.87977"},"o":"-76.89525","sw":{"a":"40.69167","o":"-76.91073"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.88963,40.71977],"type":"Point"},"properties":{"a":"40.71977","cty":"SNYDER","hp":true,"id":8835259,"mun":"UNION TWP","nc":12,"ne":{"a":"40.72192","o":"-76.88445"},"o":"-76.88963","sw":{"a":"40.71762","o":"-76.89481"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.464119,41.000333],"type":"Point"},"properties":{"a":"41.000333","cty":"COLUMBIA","id":8835263,"mun":"BLOOMSBURG","nc":8,"o":"-76.464119"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.8776,40.7091],"type":"Point"},"properties":{"a":"40.7091","cty":"SNYDER","hp":true,"id":8835265,"mun":"UNION TWP","nc":308,"ne":{"a":"40.72952","o":"-76.85639"},"o":"-76.8776","sw":{"a":"40.68868","o":"-76.89882"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.138779,40.223734],"type":"Point"},"properties":{"a":"40.223734","cty":"LANCASTER","id":8835266,"mun":"EAST COCALICO TWP","nc":1,"o":"-76.138779"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.945187,40.284169],"type":"Point"},"properties":{"a":"40.284169","cty":"CUMBERLAND","id":8835272,"mun":"EAST PENNSBORO TWP","nc":12,"o":"-76.945187"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.138779,40.223734],"type":"Point"},"properties":{"a":"40.223734","cty":"LANCASTER","id":8835266,"mun":"EAST COCALICO TWP","nc":1,"o":"-76.138779"},"type":"Feature"}
 ]}
