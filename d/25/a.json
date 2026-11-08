@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-72.569286,42.752056],"type":"Point"},"properties":{"active":true,"affectingCustomers":true,"cause":0,"county":"Windham","crew_name":"","customers_affected":132,"customers_affected_label":"132 Customers","device":"FUSE","has_etor":0,"incident_id":1017813,"status":"CREATED","street":"COOLIDGE HWY","town":"Guilford","trouble":"NO_POWER"},"type":"Feature"}
+{"geometry":{"coordinates":[-72.569286,42.752056],"type":"Point"},"properties":{"active":true,"affectingCustomers":true,"cause":0,"county":"Windham","crew_name":",BRAT-SIMEON","customers_affected":132,"customers_affected_label":"132 Customers","device":"FUSE","etor":"2026-11-08T16:00-05:00","has_etor":1,"incident_id":1017813,"status":"CREW_ASSIGNED","street":"COOLIDGE HWY","town":"Guilford","trouble":"NO_POWER"},"type":"Feature"}
 ]}
