@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-70.42119,43.60694],"type":"Point"},"properties":{"EstRest":"11/8/2026 8:15:00 AM","Outages":4,"cause":"","county":"CUMBERLAND","crewstatus":"DISP ","customers":13,"hamlet":"SCARBOROUGH","incidentnumber":"0046DX","incidents":1,"level":"street","opco":"CMP","street":"HOWARD LN","town":"SCARBOROUGH"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.42119,43.60694],"type":"Point"},"properties":{"EstRest":"11/8/2026 8:15:00 AM","Outages":4,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.541737,44.969623],"type":"Point"},"properties":{"EstRest":"11/8/2026 7:30:00 AM","Outages":1,"cause":"","county":"SOMERSET","crewstatus":"ENRT ","customers":6,"hamlet":"HARMONY","incidentnumber":"0046DV","incidents":1,"level":"street","opco":"CMP","street":"STREAMVIEW DR","town":"HARMONY"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.541737,44.969623],"type":"Point"},"properties":{"EstRest":"11/8/2026 7:30:00 AM","Outages":1,"county":"SOMERSET","customers":31730,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
