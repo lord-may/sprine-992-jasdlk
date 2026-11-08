@@ -1,8 +1,8 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.470392,40.653955],"type":"Point"},"properties":{"a":"40.653955","cty":"LEHIGH","id":8835235,"mun":"CATASAUQUA BORO","nc":1,"o":"-75.470392"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.26499,41.2194],"type":"Point"},"properties":{"a":"41.2194","cty":"MONROE","hp":true,"id":8835237,"mun":"BARRETT TWP","nc":12,"ne":{"a":"41.22052","o":"-75.2641"},"o":"-75.26499","sw":{"a":"41.21828","o":"-75.26589"}},"type":"Feature"},
-{"geometry":{"coordinates":[-77.055045,40.665062],"type":"Point"},"properties":{"a":"40.665062","cty":"JUNIATA","id":8835243,"mun":"MONROE TWP","nc":1,"o":"-77.055045"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.88963,40.71977],"type":"Point"},"properties":{"a":"40.71977","cty":"SNYDER","hp":true,"id":8835259,"mun":"UNION TWP","nc":12,"ne":{"a":"40.72192","o":"-76.88445"},"o":"-76.88963","sw":{"a":"40.71762","o":"-76.89481"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.464119,41.000333],"type":"Point"},"properties":{"a":"41.000333","cty":"COLUMBIA","id":8835263,"mun":"BLOOMSBURG","nc":8,"o":"-76.464119"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.403655,40.175603],"type":"Point"},"properties":{"a":"40.175603","cty":"LANCASTER","id":8835279,"mun":"RAPHO TWP","nc":3,"o":"-76.403655"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.402427,40.1763],"type":"Point"},"properties":{"a":"40.1763","cty":"LANCASTER","id":8835280,"mun":"RAPHO TWP","nc":6,"o":"-76.402427"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.03419,41.332983],"type":"Point"},"properties":{"a":"41.332983","cty":"PIKE","id":8835282,"mun":"BLOOMING GROVE TWP","nc":2,"o":"-75.03419"},"type":"Feature"}
 ]}
