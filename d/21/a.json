@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-70.568669,44.110447],"type":"Point"},"properties":{"EstRest":"11/8/2026 6:30:00 PM","Outages":12,"cause":"","county":"OXFORD","crewstatus":"DISP ","customers":12,"hamlet":"OTISFIELD","incidentnumber":"0046H7","incidents":1,"level":"street","opco":"CMP","street":"W SHORE DR","town":"OTISFIELD"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.570971,44.109941],"type":"Point"},"properties":{"EstRest":"11/8/2026 6:30:00 PM","Outages":34,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}

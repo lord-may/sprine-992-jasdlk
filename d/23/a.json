@@ -2,8 +2,8 @@
 {"geometry":{"coordinates":[-76.88963,40.71977],"type":"Point"},"properties":{"a":"40.71977","cty":"SNYDER","hp":true,"id":8835259,"mun":"UNION TWP","nc":12,"ne":{"a":"40.72192","o":"-76.88445"},"o":"-76.88963","sw":{"a":"40.71762","o":"-76.89481"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.402427,40.1763],"type":"Point"},"properties":{"a":"40.1763","cty":"LANCASTER","id":8835280,"mun":"RAPHO TWP","nc":6,"o":"-76.402427"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.260434,41.005303],"type":"Point"},"properties":{"a":"41.005303","cty":"MONROE","id":8835290,"mun":"STROUD TWP","nc":1,"o":"-75.260434"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.00171,40.854082],"type":"Point"},"properties":{"a":"40.854082","cty":"SNYDER","id":8835293,"mun":"JACKSON TWP","nc":2,"o":"-77.00171"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.16628,40.0433],"type":"Point"},"properties":{"a":"40.0433","cty":"LANCASTER","hp":true,"id":8835296,"mun":"LEACOCK TWP","nc":32,"ne":{"a":"40.04637","o":"-76.15709"},"o":"-76.16628","sw":{"a":"40.04022","o":"-76.17548"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.068408,40.614595],"type":"Point"},"properties":{"a":"40.614595","cty":"SCHUYLKILL","id":8835297,"mun":"WEST BRUNSWICK TWP","nc":1,"o":"-76.068408"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.180902,40.213705],"type":"Point"},"properties":{"a":"40.213705","cty":"CUMBERLAND","id":8835301,"mun":"CARLISLE BORO","nc":7,"o":"-77.180902"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.180902,40.213705],"type":"Point"},"properties":{"a":"40.213705","cty":"CUMBERLAND","id":8835301,"mun":"CARLISLE BORO","nc":7,"o":"-77.180902"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.265153,41.220386],"type":"Point"},"properties":{"a":"41.220386","cty":"MONROE","id":8835306,"mun":"BARRETT TWP","nc":1,"o":"-75.265153"},"type":"Feature"}
 ]}
