@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.60001,41.91177],"type":"Point"},"properties":{"a":"41.91177","cty":"PROVIDENCE","hp":true,"id":20261070889,"mun":"GLOCESTER","nc":59,"ne":{"a":"41.92489","o":"-71.5859"},"o":"-71.60001","sw":{"a":"41.89866","o":"-71.61412"}},"type":"Feature"}
+{"geometry":{"coordinates":[-71.60001,41.91177],"type":"Point"},"properties":{"a":"41.91177","cty":"PROVIDENCE","hp":true,"id":20261070889,"mun":"GLOCESTER","nc":59,"ne":{"a":"41.92489","o":"-71.5859"},"o":"-71.60001","sw":{"a":"41.89866","o":"-71.61412"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.538035,41.588634],"type":"Point"},"properties":{"a":"41.588634","cty":"WASHINGTON","id":20261070897,"mun":"EXETER","nc":1,"o":"-71.538035"},"type":"Feature"}
 ]}
