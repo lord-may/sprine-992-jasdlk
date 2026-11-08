@@ -4,5 +4,6 @@
 {"geometry":{"coordinates":[-75.35251,41.17352],"type":"Point"},"properties":{"a":"41.17352","cty":"MONROE","hp":true,"id":8835177,"mun":"COOLBAUGH TWP","nc":25,"ne":{"a":"41.17546","o":"-75.35002"},"o":"-75.35251","sw":{"a":"41.17158","o":"-75.355"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.304541,40.4105],"type":"Point"},"properties":{"a":"40.4105","cty":"BUCKS","id":8835178,"mun":"RICHLAND TWP","nc":2,"o":"-75.304541"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.072437,40.102977],"type":"Point"},"properties":{"a":"40.102977","cty":"LANCASTER","id":8835181,"mun":"EARL TWP","nc":1,"o":"-76.072437"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.054921,40.094317],"type":"Point"},"properties":{"a":"40.094317","cty":"LANCASTER","id":8835182,"mun":"EAST EARL TWP","nc":13,"o":"-76.054921"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.054921,40.094317],"type":"Point"},"properties":{"a":"40.094317","cty":"LANCASTER","id":8835182,"mun":"EAST EARL TWP","nc":13,"o":"-76.054921"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.177699,40.193399],"type":"Point"},"properties":{"a":"40.193399","cty":"LANCASTER","id":8835183,"mun":"EPHRATA TWP","nc":1,"o":"-76.177699"},"type":"Feature"}
 ]}
