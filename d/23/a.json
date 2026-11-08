@@ -3,12 +3,10 @@
 {"geometry":{"coordinates":[-75.45917,41.49223],"type":"Point"},"properties":{"a":"41.49223","cty":"LACKAWANNA","hp":true,"id":8835176,"mun":"JEFFERSON TWP","nc":26,"ne":{"a":"41.49645","o":"-75.45351"},"o":"-75.45917","sw":{"a":"41.48801","o":"-75.46484"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.351647,41.174057],"type":"Point"},"properties":{"a":"41.174057","cty":"MONROE","id":8835177,"mun":"COOLBAUGH TWP","nc":10,"o":"-75.351647"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.280018,39.921965],"type":"Point"},"properties":{"a":"39.921965","cty":"LANCASTER","id":8835185,"mun":"PROVIDENCE TWP","nc":4,"o":"-76.280018"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.063025,41.235735],"type":"Point"},"properties":{"a":"41.235735","cty":"LYCOMING","id":8835187,"mun":"WILLIAMSPORT","nc":5,"o":"-77.063025"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.72535,40.69497],"type":"Point"},"properties":{"a":"40.69497","cty":"LEHIGH","hp":true,"id":8835193,"mun":"HEIDELBERG TWP","nc":6,"ne":{"a":"40.6958","o":"-75.72189"},"o":"-75.72535","sw":{"a":"40.69415","o":"-75.72881"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.15475,41.51156],"type":"Point"},"properties":{"a":"41.51156","cty":"WAYNE","hp":true,"id":8835195,"mun":"PALMYRA TWP","nc":15,"ne":{"a":"41.51333","o":"-75.15301"},"o":"-75.15475","sw":{"a":"41.50978","o":"-75.15648"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.827957,40.116727],"type":"Point"},"properties":{"a":"40.116727","cty":"CHESTER","id":8835196,"mun":"WEST NANTMEAL TWP","nc":1,"o":"-75.827957"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.162578,40.089398],"type":"Point"},"properties":{"a":"40.089398","cty":"LANCASTER","id":8835201,"mun":"UPPER LEACOCK TWP","nc":1,"o":"-76.162578"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.83121,40.12151],"type":"Point"},"properties":{"a":"40.12151","cty":"CHESTER","hp":true,"id":8835202,"mun":"WEST NANTMEAL TWP","nc":72,"ne":{"a":"40.13151","o":"-75.82251"},"o":"-75.83121","sw":{"a":"40.11151","o":"-75.8399"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.450182,40.061659],"type":"Point"},"properties":{"a":"40.061659","cty":"LANCASTER","id":8835203,"mun":"WEST HEMPFIELD TWP","nc":1,"o":"-76.450182"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.018339,41.294572],"type":"Point"},"properties":{"a":"41.294572","cty":"LYCOMING","id":8835204,"mun":"LOYALSOCK TWP","nc":2,"o":"-77.018339"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.021637,41.293467],"type":"Point"},"properties":{"a":"41.293467","cty":"LYCOMING","id":8835204,"mun":"LOYALSOCK TWP","nc":4,"o":"-77.021637"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.720876,41.493649],"type":"Point"},"properties":{"a":"41.493649","cty":"LACKAWANNA","id":8835208,"mun":"SOUTH ABINGTON TWP","nc":12,"o":"-75.720876"},"type":"Feature"}
 ]}
