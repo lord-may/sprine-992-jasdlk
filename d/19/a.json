@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.950273,42.478653],"type":"Point"},"properties":{"EstRest":"11/7/2026 11:45:00 PM","Outages":12,"county":"CORTLAND","customers":2968,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.956048,42.481378],"type":"Point"},"properties":{"EstRest":"11/7/2026 11:45:00 PM","Outages":2,"cause":"","county":"CORTLAND","crewstatus":"ENRT ","customers":2,"hamlet":"CINCINNATUS","incidentnumber":"011ATO","incidents":1,"level":"street","opco":"NYSEG","street":"TROUT LAKE RD","town":"WILLET T"},"type":"Feature"},
-{"geometry":{"coordinates":[-74.780375,41.685737],"type":"Point"},"properties":{"EstRest":"11/7/2026 9:15:00 PM","Outages":9,"cause":"","county":"SULLIVAN","crewstatus":"DISP ","customers":30,"hamlet":"MONGAUP VALLEY","incidentnumber":"011ATE","incidents":1,"level":"street","opco":"NYSEG","street":"CREAMERY RD","town":"BETHEL T"},"type":"Feature"},
-{"geometry":{"coordinates":[-74.780375,41.685737],"type":"Point"},"properties":{"EstRest":"11/7/2026 9:15:00 PM","Outages":9,"county":"SULLIVAN","customers":50189,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.956048,42.481378],"type":"Point"},"properties":{"EstRest":"11/7/2026 11:45:00 PM","Outages":2,"cause":"","county":"CORTLAND","crewstatus":"ENRT ","customers":2,"hamlet":"CINCINNATUS","incidentnumber":"011ATO","incidents":1,"level":"street","opco":"NYSEG","street":"TROUT LAKE RD","town":"WILLET T"},"type":"Feature"}
 ]}
