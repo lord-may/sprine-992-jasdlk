@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.130249,43.810815],"type":"Point"},"properties":{"EstRest":"11/8/2026 6:30:00 AM","Outages":1,"cause":"","county":"CUMBERLAND","crewstatus":"ENRT ","customers":6,"hamlet":"FREEPORT","incidentnumber":"0046DS","incidents":1,"level":"street","opco":"CMP","street":"REDDING LN","town":"FREEPORT"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.130249,43.810815],"type":"Point"},"properties":{"EstRest":"11/8/2026 6:30:00 AM","Outages":1,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.130329,43.810733],"type":"Point"},"properties":{"EstRest":"11/8/2026 7:30:00 AM","Outages":3,"cause":"","county":"CUMBERLAND","crewstatus":"ENRT ","customers":6,"hamlet":"FREEPORT","incidentnumber":"0046DU","incidents":1,"level":"street","opco":"CMP","street":"REDDING LN","town":"FREEPORT"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.130329,43.810733],"type":"Point"},"properties":{"EstRest":"11/8/2026 7:30:00 AM","Outages":3,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.541737,44.969623],"type":"Point"},"properties":{"EstRest":"11/8/2026 7:30:00 AM","Outages":1,"cause":"","county":"SOMERSET","crewstatus":"     ","customers":6,"hamlet":"HARMONY","incidentnumber":"0046DV","incidents":1,"level":"street","opco":"CMP","street":"STREAMVIEW DR","town":"HARMONY"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.541737,44.969623],"type":"Point"},"properties":{"EstRest":"11/8/2026 7:30:00 AM","Outages":1,"county":"SOMERSET","customers":31730,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
