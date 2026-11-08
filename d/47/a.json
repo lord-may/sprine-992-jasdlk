@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-68.059662,45.362081],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":81,"customersOutNow":81,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-08T10:36:56.553-05:00","outageName":"R94010-20","outagePoint":{"lat":45.362081,"lng":-68.059662},"outageRecID":"2026-11-08-0130","outageStartTime":"2026-11-08T10:15:18-05:00","outageWorkStatus":"","streetsAffected":["BAILEY LN","BLAKE CHASE RD","BROWN RD","BROWN RD TRAILER","DUCK LAKE RD","GOWELL RD","HOBBS RD","JIPONY WAY","JIPONY WAY OFF ROCKY RD","LAKEWIEW LODGE RD","LOWELL RD","MOORES RD","REALITY LN","REALITY RD","RICKER RD","ROCKY RD","ROSE LN","STEVENS RD","TRAFTON LN"],"verified":true},"type":"Feature"}
 ]}
