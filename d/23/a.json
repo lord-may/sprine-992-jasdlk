@@ -1,10 +1,7 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.40623,41.75831],"type":"Point"},"properties":{"a":"41.75831","cty":"WAYNE","hp":true,"id":8835170,"mun":"MOUNT PLEASANT TWP","nc":27,"ne":{"a":"41.7737","o":"-75.39298"},"o":"-75.40623","sw":{"a":"41.74292","o":"-75.41947"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.45917,41.49223],"type":"Point"},"properties":{"a":"41.49223","cty":"LACKAWANNA","hp":true,"id":8835176,"mun":"JEFFERSON TWP","nc":26,"ne":{"a":"41.49645","o":"-75.45351"},"o":"-75.45917","sw":{"a":"41.48801","o":"-75.46484"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.351647,41.174057],"type":"Point"},"properties":{"a":"41.174057","cty":"MONROE","id":8835177,"mun":"COOLBAUGH TWP","nc":10,"o":"-75.351647"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.280018,39.921965],"type":"Point"},"properties":{"a":"39.921965","cty":"LANCASTER","id":8835185,"mun":"PROVIDENCE TWP","nc":4,"o":"-76.280018"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.72535,40.69497],"type":"Point"},"properties":{"a":"40.69497","cty":"LEHIGH","hp":true,"id":8835193,"mun":"HEIDELBERG TWP","nc":6,"ne":{"a":"40.6958","o":"-75.72189"},"o":"-75.72535","sw":{"a":"40.69415","o":"-75.72881"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.15475,41.51156],"type":"Point"},"properties":{"a":"41.51156","cty":"WAYNE","hp":true,"id":8835195,"mun":"PALMYRA TWP","nc":15,"ne":{"a":"41.51333","o":"-75.15301"},"o":"-75.15475","sw":{"a":"41.50978","o":"-75.15648"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.162578,40.089398],"type":"Point"},"properties":{"a":"40.089398","cty":"LANCASTER","id":8835201,"mun":"UPPER LEACOCK TWP","nc":1,"o":"-76.162578"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.450182,40.061659],"type":"Point"},"properties":{"a":"40.061659","cty":"LANCASTER","id":8835203,"mun":"WEST HEMPFIELD TWP","nc":1,"o":"-76.450182"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.021637,41.293467],"type":"Point"},"properties":{"a":"41.293467","cty":"LYCOMING","id":8835204,"mun":"LOYALSOCK TWP","nc":4,"o":"-77.021637"},"type":"Feature"},
@@ -12,9 +9,9 @@
 {"geometry":{"coordinates":[-75.327519,40.674646],"type":"Point"},"properties":{"a":"40.674646","cty":"NORTHAMPTON","id":8835209,"mun":"BETHLEHEM TWP","nc":5,"o":"-75.327519"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.265886,41.219057],"type":"Point"},"properties":{"a":"41.219057","cty":"MONROE","id":8835211,"mun":"BARRETT TWP","nc":2,"o":"-75.265886"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.494601,40.526542],"type":"Point"},"properties":{"a":"40.526542","cty":"LEHIGH","id":8835212,"mun":"EMMAUS BORO","nc":7,"o":"-75.494601"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.473599,40.654219],"type":"Point"},"properties":{"a":"40.654219","cty":"LEHIGH","id":8835214,"mun":"CATASAUQUA BORO","nc":39,"o":"-75.473599"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.78915,41.326096],"type":"Point"},"properties":{"a":"41.326096","cty":"LUZERNE","id":8835215,"mun":"PITTSTON","nc":11,"o":"-75.78915"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.555797,40.087684],"type":"Point"},"properties":{"a":"40.087684","cty":"LANCASTER","id":8835216,"mun":"EAST DONEGAL TWP","nc":2,"o":"-76.555797"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.488758,40.655403],"type":"Point"},"properties":{"a":"40.655403","cty":"LEHIGH","id":8835221,"mun":"WHITEHALL TWP","nc":6,"o":"-75.488758"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.477671,40.658037],"type":"Point"},"properties":{"a":"40.658037","cty":"NORTHAMPTON","id":8835223,"mun":"NORTH CATASAUQUA BORO","nc":4,"o":"-75.477671"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.19655,41.04211],"type":"Point"},"properties":{"a":"41.04211","cty":"LUZERNE","hp":true,"id":8835228,"mun":"NESCOPECK TWP","nc":6,"ne":{"a":"41.04441","o":"-76.19485"},"o":"-76.19655","sw":{"a":"41.03982","o":"-76.19826"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.864674,40.216366],"type":"Point"},"properties":{"a":"40.216366","cty":"YORK","id":8835229,"mun":"FAIRVIEW TWP","nc":11,"o":"-76.864674"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.058936,41.66438],"type":"Point"},"properties":{"a":"41.66438","cty":"WAYNE","id":8835230,"mun":"DAMASCUS TWP","nc":1,"o":"-75.058936"},"type":"Feature"}
 ]}
