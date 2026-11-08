@@ -3,5 +3,6 @@
 {"geometry":{"coordinates":[-75.976269,40.302906],"type":"Point"},"properties":{"a":"40.302906","cty":"BERKS","id":8835156,"mun":"SHILLINGTON BORO","nc":5,"o":"-75.976269"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.011891,40.712141],"type":"Point"},"properties":{"a":"40.712141","cty":"SNYDER","id":8835165,"mun":"PERRY TWP","nc":1,"o":"-77.011891"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.13478,41.40731],"type":"Point"},"properties":{"a":"41.40731","cty":"PIKE","hp":true,"id":8835167,"mun":"BLOOMING GROVE TWP","nc":21,"ne":{"a":"41.40935","o":"-75.13276"},"o":"-75.13478","sw":{"a":"41.40527","o":"-75.13681"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.40804,41.75647],"type":"Point"},"properties":{"a":"41.75647","cty":"WAYNE","hp":true,"id":8835170,"mun":"MOUNT PLEASANT TWP","nc":42,"ne":{"a":"41.7737","o":"-75.39298"},"o":"-75.40804","sw":{"a":"41.73924","o":"-75.4231"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.40804,41.75647],"type":"Point"},"properties":{"a":"41.75647","cty":"WAYNE","hp":true,"id":8835170,"mun":"MOUNT PLEASANT TWP","nc":42,"ne":{"a":"41.7737","o":"-75.39298"},"o":"-75.40804","sw":{"a":"41.73924","o":"-75.4231"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.6488,41.413372],"type":"Point"},"properties":{"a":"41.413372","cty":"LACKAWANNA","id":8835173,"mun":"SCRANTON","nc":1,"o":"-75.6488"},"type":"Feature"}
 ]}
