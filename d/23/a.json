@@ -1,11 +1,12 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.162578,40.089398],"type":"Point"},"properties":{"a":"40.089398","cty":"LANCASTER","id":8835201,"mun":"UPPER LEACOCK TWP","nc":1,"o":"-76.162578"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.021637,41.293467],"type":"Point"},"properties":{"a":"41.293467","cty":"LYCOMING","id":8835204,"mun":"LOYALSOCK TWP","nc":4,"o":"-77.021637"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.494601,40.526542],"type":"Point"},"properties":{"a":"40.526542","cty":"LEHIGH","id":8835212,"mun":"EMMAUS BORO","nc":7,"o":"-75.494601"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.555797,40.087684],"type":"Point"},"properties":{"a":"40.087684","cty":"LANCASTER","id":8835216,"mun":"EAST DONEGAL TWP","nc":1,"o":"-76.555797"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.470392,40.653955],"type":"Point"},"properties":{"a":"40.653955","cty":"LEHIGH","id":8835235,"mun":"CATASAUQUA BORO","nc":1,"o":"-75.470392"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.375975,40.587623],"type":"Point"},"properties":{"a":"40.587623","cty":"NORTHAMPTON","id":8835236,"mun":"LOWER SAUCON TWP","nc":2,"o":"-75.375975"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.26499,41.2194],"type":"Point"},"properties":{"a":"41.2194","cty":"MONROE","hp":true,"id":8835237,"mun":"BARRETT TWP","nc":12,"ne":{"a":"41.22052","o":"-75.2641"},"o":"-75.26499","sw":{"a":"41.21828","o":"-75.26589"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.055045,40.665062],"type":"Point"},"properties":{"a":"40.665062","cty":"JUNIATA","id":8835243,"mun":"MONROE TWP","nc":1,"o":"-77.055045"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.25668,41.41218],"type":"Point"},"properties":{"a":"41.41218","cty":"WAYNE","hp":true,"id":8835245,"mun":"PAUPACK TWP","nc":41,"ne":{"a":"41.4142","o":"-75.25271"},"o":"-75.25668","sw":{"a":"41.41017","o":"-75.26065"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.25668,41.41218],"type":"Point"},"properties":{"a":"41.41218","cty":"WAYNE","hp":true,"id":8835245,"mun":"PAUPACK TWP","nc":41,"ne":{"a":"41.4142","o":"-75.25271"},"o":"-75.25668","sw":{"a":"41.41017","o":"-75.26065"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.067534,40.613864],"type":"Point"},"properties":{"a":"40.613864","cty":"SCHUYLKILL","id":8835253,"mun":"WEST BRUNSWICK TWP","nc":6,"o":"-76.067534"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.945187,40.284169],"type":"Point"},"properties":{"a":"40.284169","cty":"CUMBERLAND","id":8835254,"mun":"EAST PENNSBORO TWP","nc":12,"o":"-76.945187"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.89525,40.70968],"type":"Point"},"properties":{"a":"40.70968","cty":"SNYDER","hp":true,"id":8835259,"mun":"UNION TWP","nc":73,"ne":{"a":"40.72768","o":"-76.87977"},"o":"-76.89525","sw":{"a":"40.69167","o":"-76.91073"}},"type":"Feature"}
 ]}
