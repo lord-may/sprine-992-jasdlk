@@ -5,9 +5,10 @@
 {"geometry":{"coordinates":[-75.327519,40.674646],"type":"Point"},"properties":{"a":"40.674646","cty":"NORTHAMPTON","id":8835209,"mun":"BETHLEHEM TWP","nc":5,"o":"-75.327519"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.494601,40.526542],"type":"Point"},"properties":{"a":"40.526542","cty":"LEHIGH","id":8835212,"mun":"EMMAUS BORO","nc":7,"o":"-75.494601"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.555797,40.087684],"type":"Point"},"properties":{"a":"40.087684","cty":"LANCASTER","id":8835216,"mun":"EAST DONEGAL TWP","nc":1,"o":"-76.555797"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.864674,40.216366],"type":"Point"},"properties":{"a":"40.216366","cty":"YORK","id":8835229,"mun":"FAIRVIEW TWP","nc":11,"o":"-76.864674"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.470392,40.653955],"type":"Point"},"properties":{"a":"40.653955","cty":"LEHIGH","id":8835235,"mun":"CATASAUQUA BORO","nc":1,"o":"-75.470392"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.375975,40.587623],"type":"Point"},"properties":{"a":"40.587623","cty":"NORTHAMPTON","id":8835236,"mun":"LOWER SAUCON TWP","nc":2,"o":"-75.375975"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.26499,41.2194],"type":"Point"},"properties":{"a":"41.2194","cty":"MONROE","hp":true,"id":8835237,"mun":"BARRETT TWP","nc":12,"ne":{"a":"41.22052","o":"-75.2641"},"o":"-75.26499","sw":{"a":"41.21828","o":"-75.26589"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.344358,40.635399],"type":"Point"},"properties":{"a":"40.635399","cty":"NORTHAMPTON","id":8835238,"mun":"BETHLEHEM","nc":1,"o":"-75.344358"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.344358,40.635399],"type":"Point"},"properties":{"a":"40.635399","cty":"NORTHAMPTON","id":8835238,"mun":"BETHLEHEM","nc":1,"o":"-75.344358"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.055045,40.665062],"type":"Point"},"properties":{"a":"40.665062","cty":"JUNIATA","id":8835243,"mun":"MONROE TWP","nc":1,"o":"-77.055045"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.865541,41.239822],"type":"Point"},"properties":{"a":"41.239822","cty":"LUZERNE","id":8835244,"mun":"WILKES-BARRE","nc":1,"o":"-75.865541"},"type":"Feature"}
 ]}
