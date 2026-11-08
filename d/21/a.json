@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.468231,44.063787],"type":"Point"},"properties":{"EstRest":"11/8/2026 1:00:00 AM","Outages":10,"cause":"","county":"LINCOLN","crewstatus":"ENRT ","customers":34,"hamlet":"NOBLEBORO","incidentnumber":"0046DK","incidents":1,"level":"street","opco":"CMP","street":"BACK MEADOW RD","town":"NOBLEBORO"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.476031,44.068562],"type":"Point"},"properties":{"EstRest":"11/8/2026 1:00:00 AM","Outages":69,"county":"LINCOLN","customers":29091,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.468231,44.063787],"type":"Point"},"properties":{"EstRest":"11/8/2026 2:30:00 AM","Outages":10,"cause":"","county":"LINCOLN","crewstatus":"ONST ","customers":34,"hamlet":"NOBLEBORO","incidentnumber":"0046DK","incidents":1,"level":"street","opco":"CMP","street":"BACK MEADOW RD","town":"NOBLEBORO"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.476031,44.068562],"type":"Point"},"properties":{"EstRest":"11/8/2026 2:30:00 AM","Outages":69,"county":"LINCOLN","customers":29091,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
