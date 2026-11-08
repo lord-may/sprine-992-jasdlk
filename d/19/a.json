@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-73.49593,42.422841],"type":"Point"},"properties":{"EstRest":"11/8/2026 4:30:00 AM","Outages":1,"cause":"","county":"COLUMBIA","crewstatus":"     ","customers":2,"hamlet":"CANAAN","incidentnumber":"011AUB","incidents":1,"level":"street","opco":"NYSEG","street":"BARNEGAT RD","town":"CANAAN T"},"type":"Feature"},
+{"geometry":{"coordinates":[-73.496976,42.421169],"type":"Point"},"properties":{"EstRest":"11/8/2026 4:30:00 AM","Outages":10,"county":"COLUMBIA","customers":15375,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
