@@ -3,9 +3,9 @@
 {"geometry":{"coordinates":[-75.45917,41.49223],"type":"Point"},"properties":{"a":"41.49223","cty":"LACKAWANNA","hp":true,"id":8835176,"mun":"JEFFERSON TWP","nc":26,"ne":{"a":"41.49645","o":"-75.45351"},"o":"-75.45917","sw":{"a":"41.48801","o":"-75.46484"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.351647,41.174057],"type":"Point"},"properties":{"a":"41.174057","cty":"MONROE","id":8835177,"mun":"COOLBAUGH TWP","nc":10,"o":"-75.351647"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.280018,39.921965],"type":"Point"},"properties":{"a":"39.921965","cty":"LANCASTER","id":8835185,"mun":"PROVIDENCE TWP","nc":4,"o":"-76.280018"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.063725,41.234748],"type":"Point"},"properties":{"a":"41.234748","cty":"LYCOMING","id":8835187,"mun":"WILLIAMSPORT","nc":2,"o":"-77.063725"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.063025,41.235735],"type":"Point"},"properties":{"a":"41.235735","cty":"LYCOMING","id":8835187,"mun":"WILLIAMSPORT","nc":5,"o":"-77.063025"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.126506,41.492602],"type":"Point"},"properties":{"a":"41.492602","cty":"PIKE","id":8835188,"mun":"LACKAWAXEN TWP","nc":2,"o":"-75.126506"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.716655,41.48765],"type":"Point"},"properties":{"a":"41.48765","cty":"LACKAWANNA","id":8835190,"mun":"CLARKS SUMMIT BORO","nc":13,"o":"-75.716655"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.728811,40.694205],"type":"Point"},"properties":{"a":"40.694205","cty":"LEHIGH","id":8835193,"mun":"HEIDELBERG TWP","nc":2,"o":"-75.728811"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.156037,41.513201],"type":"Point"},"properties":{"a":"41.513201","cty":"WAYNE","id":8835195,"mun":"PALMYRA TWP","nc":1,"o":"-75.156037"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.72535,40.69497],"type":"Point"},"properties":{"a":"40.69497","cty":"LEHIGH","hp":true,"id":8835193,"mun":"HEIDELBERG TWP","nc":6,"ne":{"a":"40.6958","o":"-75.72189"},"o":"-75.72535","sw":{"a":"40.69415","o":"-75.72881"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.156037,41.513201],"type":"Point"},"properties":{"a":"41.513201","cty":"WAYNE","id":8835195,"mun":"PALMYRA TWP","nc":1,"o":"-75.156037"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.827957,40.116727],"type":"Point"},"properties":{"a":"40.116727","cty":"CHESTER","id":8835196,"mun":"WEST NANTMEAL TWP","nc":1,"o":"-75.827957"},"type":"Feature"}
 ]}
