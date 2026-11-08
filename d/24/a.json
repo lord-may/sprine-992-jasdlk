@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.770533,41.833978],"type":"Point"},"properties":{"a":"41.833978","cty":"PROVIDENCE","id":20261071001,"mun":"FOSTER","nc":1,"o":"-71.770533"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.582928,42.004355],"type":"Point"},"properties":{"a":"42.004355","cty":"PROVIDENCE","id":20261071007,"mun":"NORTH SMITHFIELD","nc":1,"o":"-71.582928"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.271953,41.62253],"type":"Point"},"properties":{"a":"41.62253","cty":"NEWPORT","id":20261071010,"mun":"PORTSMOUTH","nc":1,"o":"-71.271953"},"type":"Feature"}
 ]}
