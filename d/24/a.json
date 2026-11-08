@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.50848,41.848153],"type":"Point"},"properties":{"a":"41.848153","cty":"PROVIDENCE","id":20261070961,"mun":"JOHNSTON","nc":1,"o":"-71.50848"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.30617,41.496019],"type":"Point"},"properties":{"a":"41.496019","cty":"NEWPORT","id":20261070968,"mun":"NEWPORT","nc":31,"o":"-71.30617"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.434969,41.874867],"type":"Point"},"properties":{"a":"41.874867","cty":"PROVIDENCE","id":20261070976,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.434969"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.487696,41.904601],"type":"Point"},"properties":{"a":"41.904601","cty":"PROVIDENCE","id":20261070978,"mun":"SMITHFIELD","nc":1,"o":"-71.487696"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.487696,41.904601],"type":"Point"},"properties":{"a":"41.904601","cty":"PROVIDENCE","id":20261070978,"mun":"SMITHFIELD","nc":1,"o":"-71.487696"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.512191,41.468271],"type":"Point"},"properties":{"a":"41.468271","cty":"WASHINGTON","id":20261070982,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.512191"},"type":"Feature"}
 ]}
