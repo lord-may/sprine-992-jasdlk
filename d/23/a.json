@@ -9,9 +9,9 @@
 {"geometry":{"coordinates":[-75.327519,40.674646],"type":"Point"},"properties":{"a":"40.674646","cty":"NORTHAMPTON","id":8835209,"mun":"BETHLEHEM TWP","nc":5,"o":"-75.327519"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.265886,41.219057],"type":"Point"},"properties":{"a":"41.219057","cty":"MONROE","id":8835211,"mun":"BARRETT TWP","nc":2,"o":"-75.265886"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.494601,40.526542],"type":"Point"},"properties":{"a":"40.526542","cty":"LEHIGH","id":8835212,"mun":"EMMAUS BORO","nc":7,"o":"-75.494601"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.555797,40.087684],"type":"Point"},"properties":{"a":"40.087684","cty":"LANCASTER","id":8835216,"mun":"EAST DONEGAL TWP","nc":2,"o":"-76.555797"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.488758,40.655403],"type":"Point"},"properties":{"a":"40.655403","cty":"LEHIGH","id":8835221,"mun":"WHITEHALL TWP","nc":6,"o":"-75.488758"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.555797,40.087684],"type":"Point"},"properties":{"a":"40.087684","cty":"LANCASTER","id":8835216,"mun":"EAST DONEGAL TWP","nc":1,"o":"-76.555797"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.19655,41.04211],"type":"Point"},"properties":{"a":"41.04211","cty":"LUZERNE","hp":true,"id":8835228,"mun":"NESCOPECK TWP","nc":6,"ne":{"a":"41.04441","o":"-76.19485"},"o":"-76.19655","sw":{"a":"41.03982","o":"-76.19826"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.864674,40.216366],"type":"Point"},"properties":{"a":"40.216366","cty":"YORK","id":8835229,"mun":"FAIRVIEW TWP","nc":11,"o":"-76.864674"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.058936,41.66438],"type":"Point"},"properties":{"a":"41.66438","cty":"WAYNE","id":8835230,"mun":"DAMASCUS TWP","nc":1,"o":"-75.058936"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.271384,41.217673],"type":"Point"},"properties":{"a":"41.217673","cty":"MONROE","id":8835232,"mun":"BARRETT TWP","nc":1,"o":"-75.271384"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.482811,40.59814],"type":"Point"},"properties":{"a":"40.59814","cty":"LEHIGH","id":8835233,"mun":"ALLENTOWN","nc":1,"o":"-75.482811"},"type":"Feature"}
 ]}
