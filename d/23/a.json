@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.13478,41.40731],"type":"Point"},"properties":{"a":"41.40731","cty":"PIKE","hp":true,"id":8835167,"mun":"BLOOMING GROVE TWP","nc":21,"ne":{"a":"41.40935","o":"-75.13276"},"o":"-75.13478","sw":{"a":"41.40527","o":"-75.13681"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.40623,41.75831],"type":"Point"},"properties":{"a":"41.75831","cty":"WAYNE","hp":true,"id":8835170,"mun":"MOUNT PLEASANT TWP","nc":27,"ne":{"a":"41.7737","o":"-75.39298"},"o":"-75.40623","sw":{"a":"41.74292","o":"-75.41947"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.45917,41.49223],"type":"Point"},"properties":{"a":"41.49223","cty":"LACKAWANNA","hp":true,"id":8835176,"mun":"JEFFERSON TWP","nc":26,"ne":{"a":"41.49645","o":"-75.45351"},"o":"-75.45917","sw":{"a":"41.48801","o":"-75.46484"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.45917,41.49223],"type":"Point"},"properties":{"a":"41.49223","cty":"LACKAWANNA","hp":true,"id":8835176,"mun":"JEFFERSON TWP","nc":26,"ne":{"a":"41.49645","o":"-75.45351"},"o":"-75.45917","sw":{"a":"41.48801","o":"-75.46484"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.35251,41.17352],"type":"Point"},"properties":{"a":"41.17352","cty":"MONROE","hp":true,"id":8835177,"mun":"COOLBAUGH TWP","nc":25,"ne":{"a":"41.17546","o":"-75.35002"},"o":"-75.35251","sw":{"a":"41.17158","o":"-75.355"}},"type":"Feature"}
 ]}
