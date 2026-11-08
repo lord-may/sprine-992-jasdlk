@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.98889,40.160029],"type":"Point"},"properties":{"a":"40.160029","cty":"CUMBERLAND","id":8835052,"mun":"UPPER ALLEN TWP","nc":2,"o":"-76.98889"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.329344,39.874655],"type":"Point"},"properties":{"a":"39.874655","cty":"LANCASTER","id":8835119,"mun":"MARTIC TWP","nc":1,"o":"-76.329344"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.352597,40.509003],"type":"Point"},"properties":{"a":"40.509003","cty":"JUNIATA","id":8835128,"mun":"TURBETT TWP","nc":2,"o":"-77.352597"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.75393,41.326245],"type":"Point"},"properties":{"a":"41.326245","cty":"CLINTON","id":8835133,"mun":"RENOVO BORO","nc":1,"o":"-77.75393"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.414252,40.800322],"type":"Point"},"properties":{"a":"40.800322","cty":"NORTHUMBERLAND","id":8835137,"mun":"MOUNT CARMEL TWP","nc":42,"o":"-76.414252"},"type":"Feature"},
