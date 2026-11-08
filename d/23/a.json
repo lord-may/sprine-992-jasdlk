@@ -2,6 +2,5 @@
 {"geometry":{"coordinates":[-76.88963,40.71977],"type":"Point"},"properties":{"a":"40.71977","cty":"SNYDER","hp":true,"id":8835259,"mun":"UNION TWP","nc":12,"ne":{"a":"40.72192","o":"-76.88445"},"o":"-76.88963","sw":{"a":"40.71762","o":"-76.89481"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.402427,40.1763],"type":"Point"},"properties":{"a":"40.1763","cty":"LANCASTER","id":8835280,"mun":"RAPHO TWP","nc":6,"o":"-76.402427"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.175391,40.044885],"type":"Point"},"properties":{"a":"40.044885","cty":"LANCASTER","id":8835296,"mun":"LEACOCK TWP","nc":1,"o":"-76.175391"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.265153,41.220386],"type":"Point"},"properties":{"a":"41.220386","cty":"MONROE","id":8835306,"mun":"BARRETT TWP","nc":1,"o":"-75.265153"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.796878,40.292391],"type":"Point"},"properties":{"a":"40.292391","cty":"DAUPHIN","id":8835311,"mun":"LOWER PAXTON TWP","nc":2,"o":"-76.796878"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.265153,41.220386],"type":"Point"},"properties":{"a":"41.220386","cty":"MONROE","id":8835306,"mun":"BARRETT TWP","nc":1,"o":"-75.265153"},"type":"Feature"}
 ]}

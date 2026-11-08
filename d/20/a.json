@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-77.618379,43.241745],"type":"Point"},"properties":{"EstRest":"11/8/2026 9:15:00 PM","Outages":49,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":49,"hamlet":"ROCHESTER","incidentnumber":"011AXK","incidents":1,"level":"street","opco":"RGE","street":"VALLEY ST","town":"ROCHESTER"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.619278,43.236382],"type":"Point"},"properties":{"EstRest":"11/8/2026 9:15:00 PM","Outages":237,"county":"MONROE","customers":303529,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
