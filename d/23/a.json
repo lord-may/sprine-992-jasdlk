@@ -12,8 +12,9 @@
 {"geometry":{"coordinates":[-75.327519,40.674646],"type":"Point"},"properties":{"a":"40.674646","cty":"NORTHAMPTON","id":8835209,"mun":"BETHLEHEM TWP","nc":5,"o":"-75.327519"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.265886,41.219057],"type":"Point"},"properties":{"a":"41.219057","cty":"MONROE","id":8835211,"mun":"BARRETT TWP","nc":2,"o":"-75.265886"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.494601,40.526542],"type":"Point"},"properties":{"a":"40.526542","cty":"LEHIGH","id":8835212,"mun":"EMMAUS BORO","nc":7,"o":"-75.494601"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.975877,40.958965],"type":"Point"},"properties":{"a":"40.958965","cty":"LUZERNE","id":8835213,"mun":"HAZLETON","nc":17,"o":"-75.975877"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.473599,40.654219],"type":"Point"},"properties":{"a":"40.654219","cty":"LEHIGH","id":8835214,"mun":"CATASAUQUA BORO","nc":39,"o":"-75.473599"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.78915,41.326096],"type":"Point"},"properties":{"a":"41.326096","cty":"LUZERNE","id":8835215,"mun":"PITTSTON","nc":11,"o":"-75.78915"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.555797,40.087684],"type":"Point"},"properties":{"a":"40.087684","cty":"LANCASTER","id":8835216,"mun":"EAST DONEGAL TWP","nc":2,"o":"-76.555797"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.555797,40.087684],"type":"Point"},"properties":{"a":"40.087684","cty":"LANCASTER","id":8835216,"mun":"EAST DONEGAL TWP","nc":2,"o":"-76.555797"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.488758,40.655403],"type":"Point"},"properties":{"a":"40.655403","cty":"LEHIGH","id":8835221,"mun":"WHITEHALL TWP","nc":6,"o":"-75.488758"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.477671,40.658037],"type":"Point"},"properties":{"a":"40.658037","cty":"NORTHAMPTON","id":8835223,"mun":"NORTH CATASAUQUA BORO","nc":4,"o":"-75.477671"},"type":"Feature"}
 ]}
