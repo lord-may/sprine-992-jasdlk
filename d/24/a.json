@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.487696,41.904601],"type":"Point"},"properties":{"a":"41.904601","cty":"PROVIDENCE","id":20261070978,"mun":"SMITHFIELD","nc":1,"o":"-71.487696"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.390211,41.820405],"type":"Point"},"properties":{"a":"41.820405","cty":"PROVIDENCE","id":20261070991,"mun":"PROVIDENCE","nc":1,"o":"-71.390211"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.487696,41.904601],"type":"Point"},"properties":{"a":"41.904601","cty":"PROVIDENCE","id":20261070978,"mun":"SMITHFIELD","nc":1,"o":"-71.487696"},"type":"Feature"}
 ]}
