@@ -2,5 +2,5 @@
 {"geometry":{"coordinates":[-77.75393,41.326245],"type":"Point"},"properties":{"a":"41.326245","cty":"CLINTON","id":8835133,"mun":"RENOVO BORO","nc":1,"o":"-77.75393"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.00275,40.66975],"type":"Point"},"properties":{"a":"40.66975","cty":"SNYDER","hp":true,"id":8835153,"mun":"PERRY TWP","nc":43,"ne":{"a":"40.67534","o":"-76.99173"},"o":"-77.00275","sw":{"a":"40.66416","o":"-77.01378"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.976269,40.302906],"type":"Point"},"properties":{"a":"40.302906","cty":"BERKS","id":8835156,"mun":"SHILLINGTON BORO","nc":5,"o":"-75.976269"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.470598,40.64218],"type":"Point"},"properties":{"a":"40.64218","cty":"LEHIGH","id":8835162,"mun":"WHITEHALL TWP","nc":12,"o":"-75.470598"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.011891,40.712141],"type":"Point"},"properties":{"a":"40.712141","cty":"SNYDER","id":8835165,"mun":"PERRY TWP","nc":1,"o":"-77.011891"},"type":"Feature"}
 ]}
