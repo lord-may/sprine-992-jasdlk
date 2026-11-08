@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-69.468231,44.063787],"type":"Point"},"properties":{"EstRest":"11/8/2026 2:30:00 AM","Outages":10,"cause":"","county":"LINCOLN","crewstatus":"ONST ","customers":34,"hamlet":"NOBLEBORO","incidentnumber":"0046DK","incidents":1,"level":"street","opco":"CMP","street":"BACK MEADOW RD","town":"NOBLEBORO"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.476031,44.068562],"type":"Point"},"properties":{"EstRest":"11/8/2026 2:30:00 AM","Outages":69,"county":"LINCOLN","customers":29091,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.476031,44.068562],"type":"Point"},"properties":{"EstRest":"11/8/2026 2:30:00 AM","Outages":69,"county":"LINCOLN","customers":29091,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.633667,44.876526],"type":"Point"},"properties":{"EstRest":"11/8/2026 4:00:00 AM","Outages":21,"county":"SOMERSET","customers":31730,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.636674,44.881303],"type":"Point"},"properties":{"EstRest":"11/8/2026 4:00:00 AM","Outages":15,"cause":"","county":"SOMERSET","crewstatus":"DISP ","customers":18,"hamlet":"CORNVILLE","incidentnumber":"0046DN","incidents":1,"level":"street","opco":"CMP","street":"THURSTON RD","town":"CORNVILLE"},"type":"Feature"}
 ]}
