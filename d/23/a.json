@@ -17,7 +17,15 @@
 {"geometry":{"coordinates":[-76.256568,41.093844],"type":"Point"},"properties":{"a":"41.093844","cty":"COLUMBIA","id":8835423,"mun":"BRIAR CREEK TWP","nc":3,"o":"-76.256568"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.245076,41.051978],"type":"Point"},"properties":{"a":"41.051978","cty":"COLUMBIA","id":8835427,"mun":"BERWICK BORO","nc":7,"o":"-76.245076"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.530707,40.787997],"type":"Point"},"properties":{"a":"40.787997","cty":"NORTHUMBERLAND","id":8835431,"mun":"COAL TWP","nc":4,"o":"-76.530707"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.842948,41.258605],"type":"Point"},"properties":{"a":"41.258605","cty":"LUZERNE","id":8835433,"mun":"WILKES-BARRE","nc":15,"o":"-75.842948"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.409578,40.626992],"type":"Point"},"properties":{"a":"40.626992","cty":"LEHIGH","id":8835434,"mun":"BETHLEHEM","nc":7,"o":"-75.409578"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.300778,40.039213],"type":"Point"},"properties":{"a":"40.039213","cty":"LANCASTER","id":8835435,"mun":"LANCASTER","nc":1,"o":"-76.300778"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.300778,40.039213],"type":"Point"},"properties":{"a":"40.039213","cty":"LANCASTER","id":8835435,"mun":"LANCASTER","nc":1,"o":"-76.300778"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.58429,41.674075],"type":"Point"},"properties":{"a":"41.674075","cty":"SUSQUEHANNA","id":8835437,"mun":"CLIFFORD TWP","nc":3,"o":"-75.58429"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.231624,39.755512],"type":"Point"},"properties":{"a":"39.755512","cty":"LANCASTER","id":8835443,"mun":"FULTON TWP","nc":2,"o":"-76.231624"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.34796,40.63564],"type":"Point"},"properties":{"a":"40.63564","cty":"NORTHAMPTON","hp":true,"id":8835444,"mun":"BETHLEHEM","nc":32,"ne":{"a":"40.63674","o":"-75.34703"},"o":"-75.34796","sw":{"a":"40.63453","o":"-75.34889"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.104623,40.051197],"type":"Point"},"properties":{"a":"40.051197","cty":"LANCASTER","id":8835445,"mun":"LEACOCK TWP","nc":1,"o":"-76.104623"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.526042,40.119885],"type":"Point"},"properties":{"a":"40.119885","cty":"LANCASTER","id":8835446,"mun":"MOUNT JOY BORO","nc":0,"o":"-76.526042"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.481264,40.638791],"type":"Point"},"properties":{"a":"40.638791","cty":"LEHIGH","id":8835447,"mun":"WHITEHALL TWP","nc":9,"o":"-75.481264"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.85867,41.29359],"type":"Point"},"properties":{"a":"41.29359","cty":"CLINTON","hp":true,"id":8835448,"mun":"NOYES TWP","nc":4,"ne":{"a":"41.29735","o":"-77.85578"},"o":"-77.85867","sw":{"a":"41.28983","o":"-77.86156"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.856677,41.261344],"type":"Point"},"properties":{"a":"41.261344","cty":"LUZERNE","id":8835451,"mun":"WILKES-BARRE","nc":4,"o":"-75.856677"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.335476,40.586582],"type":"Point"},"properties":{"a":"40.586582","cty":"NORTHAMPTON","id":8835452,"mun":"HELLERTOWN BORO","nc":2,"o":"-75.335476"},"type":"Feature"}
 ]}

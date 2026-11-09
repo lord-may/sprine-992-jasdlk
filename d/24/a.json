@@ -5,5 +5,6 @@
 {"geometry":{"coordinates":[-71.388686,41.86226],"type":"Point"},"properties":{"a":"41.86226","cty":"PROVIDENCE","id":20261071074,"mun":"PAWTUCKET","nc":14,"o":"-71.388686"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.457732,41.638654],"type":"Point"},"properties":{"a":"41.638654","cty":"KENT","id":20261071075,"mun":"WARWICK","nc":1,"o":"-71.457732"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.736585,41.704646],"type":"Point"},"properties":{"a":"41.704646","cty":"KENT","id":20261071077,"mun":"COVENTRY","nc":3,"o":"-71.736585"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.454436,41.790668],"type":"Point"},"properties":{"a":"41.790668","cty":"PROVIDENCE","id":20261071081,"mun":"CRANSTON","nc":1,"o":"-71.454436"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.285755,41.522237],"type":"Point"},"properties":{"a":"41.522237","cty":"NEWPORT","id":20261071083,"mun":"MIDDLETOWN","nc":1,"o":"-71.285755"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.518871,41.386432],"type":"Point"},"properties":{"a":"41.386432","cty":"WASHINGTON","id":20261071088,"mun":"SOUTH KINGSTOWN","nc":9,"o":"-71.518871"},"type":"Feature"}
 ]}
