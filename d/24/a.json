@@ -1,10 +1,9 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.445011,41.548413],"type":"Point"},"properties":{"a":"41.548413","cty":"WASHINGTON","id":20261071029,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.445011"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.740465,41.669645],"type":"Point"},"properties":{"a":"41.669645","cty":"KENT","id":20261071038,"mun":"COVENTRY","nc":1,"o":"-71.740465"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.841269,41.319761],"type":"Point"},"properties":{"a":"41.319761","cty":"WASHINGTON","id":20261071042,"mun":"WESTERLY","nc":3,"o":"-71.841269"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.697269,41.442558],"type":"Point"},"properties":{"a":"41.442558","cty":"WASHINGTON","id":20261071053,"mun":"RICHMOND","nc":1,"o":"-71.697269"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.810197,41.327337],"type":"Point"},"properties":{"a":"41.327337","cty":"WASHINGTON","id":20261071058,"mun":"WESTERLY","nc":1,"o":"-71.810197"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.419613,41.796058],"type":"Point"},"properties":{"a":"41.796058","cty":"PROVIDENCE","id":20261071059,"mun":"PROVIDENCE","nc":1,"o":"-71.419613"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.387047,41.763783],"type":"Point"},"properties":{"a":"41.763783","cty":"PROVIDENCE","id":20261071065,"mun":"CRANSTON","nc":1,"o":"-71.387047"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.520531,41.710345],"type":"Point"},"properties":{"a":"41.710345","cty":"KENT","id":20261071066,"mun":"WEST WARWICK","nc":1,"o":"-71.520531"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.38901,41.91427],"type":"Point"},"properties":{"a":"41.91427","cty":"PROVIDENCE","hp":true,"id":20261071068,"mun":"CUMBERLAND","nc":31,"ne":{"a":"41.91543","o":"-71.38852"},"o":"-71.38901","sw":{"a":"41.9131","o":"-71.3895"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.443964,41.786618],"type":"Point"},"properties":{"a":"41.786618","cty":"PROVIDENCE","id":20261071071,"mun":"CRANSTON","nc":1,"o":"-71.443964"},"type":"Feature"}
 ]}

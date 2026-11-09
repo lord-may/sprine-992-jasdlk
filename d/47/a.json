@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-68.5643,46.1007],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":5,"customersOutNow":5,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-09T08:05:18.77-05:00","outageName":"F11026-40","outagePoint":{"lat":46.10070000000001,"lng":-68.5643},"outageRecID":"2026-11-09-0140","outageStartTime":"2026-11-09T06:33:19-05:00","outageWorkStatus":"","streetsAffected":["FIRE RD G","LOOP RD","PLEASANT POINT RD"],"verified":true},"type":"Feature"}
+
 ]}
