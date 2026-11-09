@@ -9,12 +9,10 @@
 {"geometry":{"coordinates":[-76.526042,40.119885],"type":"Point"},"properties":{"a":"40.119885","cty":"LANCASTER","id":8835446,"mun":"MOUNT JOY BORO","nc":0,"o":"-76.526042"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.856677,41.261344],"type":"Point"},"properties":{"a":"41.261344","cty":"LUZERNE","id":8835451,"mun":"WILKES-BARRE","nc":4,"o":"-75.856677"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.335476,40.586582],"type":"Point"},"properties":{"a":"40.586582","cty":"NORTHAMPTON","id":8835452,"mun":"HELLERTOWN BORO","nc":2,"o":"-75.335476"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.627315,40.659274],"type":"Point"},"properties":{"a":"40.659274","cty":"LEHIGH","id":8835455,"mun":"NORTH WHITEHALL TWP","nc":3,"o":"-75.627315"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.477071,40.642738],"type":"Point"},"properties":{"a":"40.642738","cty":"LEHIGH","id":8835457,"mun":"WHITEHALL TWP","nc":10,"o":"-75.477071"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.411748,41.005971],"type":"Point"},"properties":{"a":"41.005971","cty":"COLUMBIA","id":8835459,"mun":"SCOTT TWP","nc":12,"o":"-76.411748"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.40242,40.63556],"type":"Point"},"properties":{"a":"40.63556","cty":"LEHIGH","hp":true,"id":8835461,"mun":"BETHLEHEM","nc":112,"ne":{"a":"40.63712","o":"-75.40009"},"o":"-75.40242","sw":{"a":"40.634","o":"-75.40474"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.878734,40.987179],"type":"Point"},"properties":{"a":"40.987179","cty":"UNION","id":8835467,"mun":"KELLY TWP","nc":2,"o":"-76.878734"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.555227,40.53054],"type":"Point"},"properties":{"a":"40.53054","cty":"LEHIGH","id":8835475,"mun":"LOWER MACUNGIE TWP","nc":4,"o":"-75.555227"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.485379,40.995962],"type":"Point"},"properties":{"a":"40.995962","cty":"COLUMBIA","id":8835476,"mun":"HEMLOCK TWP","nc":1,"o":"-76.485379"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.353486,41.290488],"type":"Point"},"properties":{"a":"41.290488","cty":"WAYNE","id":8835478,"mun":"DREHER TWP","nc":7,"o":"-75.353486"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.743974,41.254492],"type":"Point"},"properties":{"a":"41.254492","cty":"LUZERNE","id":8835480,"mun":"BEAR CREEK TWP","nc":2,"o":"-75.743974"},"type":"Feature"},
@@ -43,5 +41,11 @@
 {"geometry":{"coordinates":[-76.25225,41.053511],"type":"Point"},"properties":{"a":"41.053511","cty":"COLUMBIA","id":8835557,"mun":"BERWICK BORO","nc":4,"o":"-76.25225"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.246777,41.188972],"type":"Point"},"properties":{"a":"41.188972","cty":"MONROE","id":8835560,"mun":"BARRETT TWP","nc":1,"o":"-75.246777"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.413365,40.598039],"type":"Point"},"properties":{"a":"40.598039","cty":"LEHIGH","id":8835564,"mun":"SALISBURY TWP","nc":2,"o":"-75.413365"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.362878,39.894135],"type":"Point"},"properties":{"a":"39.894135","cty":"LANCASTER","id":8835565,"mun":"CONESTOGA TWP","nc":1,"o":"-76.362878"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.12656,40.66439],"type":"Point"},"properties":{"a":"40.66439","cty":"SCHUYLKILL","hp":true,"id":8835575,"mun":"WEST BRUNSWICK TWP","nc":41,"ne":{"a":"40.67113","o":"-76.11399"},"o":"-76.12656","sw":{"a":"40.65764","o":"-76.13912"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.446547,41.005893],"type":"Point"},"properties":{"a":"41.005893","cty":"COLUMBIA","id":8835577,"mun":"BLOOMSBURG","nc":7,"o":"-76.446547"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.386549,40.610245],"type":"Point"},"properties":{"a":"40.610245","cty":"JUNIATA","id":8835578,"mun":"FERMANAGH TWP","nc":1,"o":"-77.386549"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.256288,40.617642],"type":"Point"},"properties":{"a":"40.617642","cty":"SCHUYLKILL","id":8835579,"mun":"WAYNE TWP","nc":3,"o":"-76.256288"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.979007,40.322541],"type":"Point"},"properties":{"a":"40.322541","cty":"BERKS","id":8835580,"mun":"WYOMISSING BORO","nc":3,"o":"-75.979007"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.547967,41.047261],"type":"Point"},"properties":{"a":"41.047261","cty":"MONROE","id":8835581,"mun":"TUNKHANNOCK TWP","nc":4,"o":"-75.547967"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.278366,41.557717],"type":"Point"},"properties":{"a":"41.557717","cty":"WAYNE","id":8835582,"mun":"CHERRY RIDGE TWP","nc":6,"o":"-75.278366"},"type":"Feature"}
 ]}
