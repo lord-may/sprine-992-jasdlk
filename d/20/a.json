@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-77.71055,43.164673],"type":"Point"},"properties":{"EstRest":"11/9/2026 9:45:00 AM","Outages":1,"cause":"","county":"MONROE","crewstatus":"     ","customers":363,"hamlet":"ROCHESTER","incidentnumber":"011AYW","incidents":1,"level":"street","opco":"RGE","street":"LYELL RD","town":"GATES"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.71055,43.164673],"type":"Point"},"properties":{"EstRest":"11/9/2026 9:45:00 AM","Outages":1,"county":"MONROE","customers":303529,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.71055,43.164673],"type":"Point"},"properties":{"EstRest":"11/9/2026 9:45:00 AM","Outages":1,"county":"MONROE","customers":303529,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.834019,43.269703],"type":"Point"},"properties":{"EstRest":"11/9/2026 9:15:00 AM","Outages":5,"county":"WAYNE","customers":27021,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.840558,43.271368],"type":"Point"},"properties":{"EstRest":"11/9/2026 9:15:00 AM","Outages":3,"cause":"","county":"WAYNE","crewstatus":"     ","customers":3,"hamlet":"WOLCOTT","incidentnumber":"011AZ2","incidents":1,"level":"street","opco":"RGE","street":"OWENS RD","town":"HURON"},"type":"Feature"}
 ]}
