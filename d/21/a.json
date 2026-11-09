@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.389722,44.897729],"type":"Point"},"properties":{"EstRest":"11/8/2026 8:30:00 PM","Outages":1,"cause":"","county":"FRANKLIN","crewstatus":"DISP ","customers":33,"hamlet":"MADRID","incidentnumber":"0046HH","incidents":1,"level":"street","opco":"CMP","street":"E MADRID RD","town":"MADRID"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.389722,44.897729],"type":"Point"},"properties":{"EstRest":"11/8/2026 8:30:00 PM","Outages":1,"county":"FRANKLIN","customers":24700,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.377178,44.04769],"type":"Point"},"properties":{"EstRest":"11/8/2026 8:15:00 PM","Outages":1,"cause":"","county":"LINCOLN","crewstatus":"ENRT ","customers":109,"hamlet":"WALDOBORO","incidentnumber":"0046HG","incidents":1,"level":"street","opco":"CMP","street":"DUTCH NECK RD","town":"WALDOBORO"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.377178,44.04769],"type":"Point"},"properties":{"EstRest":"11/8/2026 8:15:00 PM","Outages":1,"county":"LINCOLN","customers":29091,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.377178,44.04769],"type":"Point"},"properties":{"EstRest":"11/9/2026 12:00:00 AM","Outages":1,"cause":"","county":"LINCOLN","crewstatus":"ENRT ","customers":109,"hamlet":"WALDOBORO","incidentnumber":"0046HG","incidents":1,"level":"street","opco":"CMP","street":"DUTCH NECK RD","town":"WALDOBORO"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.377178,44.04769],"type":"Point"},"properties":{"EstRest":"11/9/2026 12:00:00 AM","Outages":1,"county":"LINCOLN","customers":29091,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
