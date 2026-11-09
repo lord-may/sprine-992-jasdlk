@@ -1,7 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.777006,41.454159],"type":"Point"},"properties":{"a":"41.454159","cty":"WASHINGTON","id":20261071156,"mun":"HOPKINTON","nc":1,"o":"-71.777006"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.517822,41.37786],"type":"Point"},"properties":{"a":"41.37786","cty":"WASHINGTON","id":20261071167,"mun":"NARRAGANSETT","nc":1,"o":"-71.517822"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.312222,41.49423],"type":"Point"},"properties":{"a":"41.49423","cty":"NEWPORT","id":20261071180,"mun":"NEWPORT","nc":1,"o":"-71.312222"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.367204,41.540963],"type":"Point"},"properties":{"a":"41.540963","cty":"NEWPORT","id":20261071184,"mun":"JAMESTOWN","nc":1,"o":"-71.367204"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.409006,41.9999],"type":"Point"},"properties":{"a":"41.9999","cty":"PROVIDENCE","id":20261071188,"mun":"CUMBERLAND","nc":1,"o":"-71.409006"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.777006,41.454159],"type":"Point"},"properties":{"a":"41.454159","cty":"WASHINGTON","id":20261071156,"mun":"HOPKINTON","nc":1,"o":"-71.777006"},"type":"Feature"}
 ]}
