@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-69.377178,44.04769],"type":"Point"},"properties":{"EstRest":"11/9/2026 12:00:00 AM","Outages":1,"cause":"","county":"LINCOLN","crewstatus":"ENRT ","customers":109,"hamlet":"WALDOBORO","incidentnumber":"0046HG","incidents":1,"level":"street","opco":"CMP","street":"DUTCH NECK RD","town":"WALDOBORO"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.377178,44.04769],"type":"Point"},"properties":{"EstRest":"11/9/2026 12:00:00 AM","Outages":1,"county":"LINCOLN","customers":29091,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.663312,43.362037],"type":"Point"},"properties":{"EstRest":"11/8/2026 10:30:00 PM","Outages":1,"cause":"","county":"YORK","crewstatus":"CNCL ","customers":5,"hamlet":"WELLS","incidentnumber":"0046HK","incidents":1,"level":"street","opco":"CMP","street":"CLOVER DR","town":"WELLS"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.663312,43.362037],"type":"Point"},"properties":{"EstRest":"11/8/2026 10:30:00 PM","Outages":1,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.377178,44.04769],"type":"Point"},"properties":{"EstRest":"11/9/2026 12:00:00 AM","Outages":1,"county":"LINCOLN","customers":29091,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}

@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.88963,40.71977],"type":"Point"},"properties":{"a":"40.71977","cty":"SNYDER","hp":true,"id":8835259,"mun":"UNION TWP","nc":12,"ne":{"a":"40.72192","o":"-76.88445"},"o":"-76.88963","sw":{"a":"40.71762","o":"-76.89481"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.86388,41.259661],"type":"Point"},"properties":{"a":"41.259661","cty":"LUZERNE","id":8835331,"mun":"WILKES-BARRE","nc":15,"o":"-75.86388"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.86388,41.259661],"type":"Point"},"properties":{"a":"41.259661","cty":"LUZERNE","id":8835331,"mun":"WILKES-BARRE","nc":15,"o":"-75.86388"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.80382,40.36345],"type":"Point"},"properties":{"a":"40.36345","cty":"DAUPHIN","hp":true,"id":8835334,"mun":"LOWER PAXTON TWP","nc":593,"ne":{"a":"40.38261","o":"-76.78653"},"o":"-76.80382","sw":{"a":"40.34429","o":"-76.82112"}},"type":"Feature"}
 ]}
