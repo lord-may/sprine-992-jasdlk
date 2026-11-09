@@ -6,5 +6,7 @@
 {"geometry":{"coordinates":[-76.379445,40.183059],"type":"Point"},"properties":{"a":"40.183059","cty":"LANCASTER","id":8835367,"mun":"PENN TWP","nc":1,"o":"-76.379445"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.302379,41.091484],"type":"Point"},"properties":{"a":"41.091484","cty":"MONROE","id":8835368,"mun":"POCONO TWP","nc":1,"o":"-75.302379"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.910773,41.243831],"type":"Point"},"properties":{"a":"41.243831","cty":"LYCOMING","id":8835370,"mun":"MONTOURSVILLE BORO","nc":2,"o":"-76.910773"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.86248,40.246729],"type":"Point"},"properties":{"a":"40.246729","cty":"DAUPHIN","id":8835371,"mun":"HARRISBURG","nc":13,"o":"-76.86248"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.86248,40.246729],"type":"Point"},"properties":{"a":"40.246729","cty":"DAUPHIN","id":8835371,"mun":"HARRISBURG","nc":13,"o":"-76.86248"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.243604,40.388827],"type":"Point"},"properties":{"a":"40.388827","cty":"PERRY","id":8835374,"mun":"CENTRE TWP","nc":1,"o":"-77.243604"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.271713,41.059137],"type":"Point"},"properties":{"a":"41.059137","cty":"MONROE","id":8835376,"mun":"POCONO TWP","nc":3,"o":"-75.271713"},"type":"Feature"}
 ]}
