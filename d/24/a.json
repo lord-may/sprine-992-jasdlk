@@ -1,5 +1,7 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.821107,41.343324],"type":"Point"},"properties":{"a":"41.343324","cty":"WASHINGTON","id":20261071027,"mun":"WESTERLY","nc":1,"o":"-71.821107"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.821107,41.343324],"type":"Point"},"properties":{"a":"41.343324","cty":"WASHINGTON","id":20261071027,"mun":"WESTERLY","nc":3,"o":"-71.821107"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.443445,41.548622],"type":"Point"},"properties":{"a":"41.548622","cty":"WASHINGTON","id":20261071028,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.443445"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.445011,41.548413],"type":"Point"},"properties":{"a":"41.548413","cty":"WASHINGTON","id":20261071029,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.445011"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.445011,41.548413],"type":"Point"},"properties":{"a":"41.548413","cty":"WASHINGTON","id":20261071029,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.445011"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.547058,41.872135],"type":"Point"},"properties":{"a":"41.872135","cty":"PROVIDENCE","id":20261071034,"mun":"SMITHFIELD","nc":8,"o":"-71.547058"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.505668,41.744224],"type":"Point"},"properties":{"a":"41.744224","cty":"PROVIDENCE","id":20261071036,"mun":"CRANSTON","nc":1,"o":"-71.505668"},"type":"Feature"}
 ]}
