@@ -2,10 +2,7 @@
 {"geometry":{"coordinates":[-75.4387,40.79901],"type":"Point"},"properties":{"a":"40.79901","cty":"NORTHAMPTON","hp":true,"id":8835355,"mun":"MOORE TWP","nc":80,"ne":{"a":"40.80903","o":"-75.42715"},"o":"-75.4387","sw":{"a":"40.78898","o":"-75.45024"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.302379,41.091484],"type":"Point"},"properties":{"a":"41.091484","cty":"MONROE","id":8835368,"mun":"POCONO TWP","nc":1,"o":"-75.302379"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.86248,40.246729],"type":"Point"},"properties":{"a":"40.246729","cty":"DAUPHIN","id":8835371,"mun":"HARRISBURG","nc":13,"o":"-76.86248"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.243604,40.388827],"type":"Point"},"properties":{"a":"40.388827","cty":"PERRY","id":8835374,"mun":"CENTRE TWP","nc":1,"o":"-77.243604"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.3837,40.06554],"type":"Point"},"properties":{"a":"40.06554","cty":"LANCASTER","hp":true,"id":8835385,"mun":"EAST HEMPFIELD TWP","nc":34,"ne":{"a":"40.0673","o":"-76.3813"},"o":"-76.3837","sw":{"a":"40.06377","o":"-76.38609"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.871866,40.255522],"type":"Point"},"properties":{"a":"40.255522","cty":"DAUPHIN","id":8835388,"mun":"HARRISBURG","nc":5,"o":"-76.871866"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.30149,41.03789],"type":"Point"},"properties":{"a":"41.03789","cty":"MONROE","id":8835390,"mun":"POCONO TWP","nc":7,"o":"-75.30149"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.781523,40.208664],"type":"Point"},"properties":{"a":"40.208664","cty":"DAUPHIN","id":8835391,"mun":"HIGHSPIRE BORO","nc":5,"o":"-76.781523"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.16328,40.361529],"type":"Point"},"properties":{"a":"40.361529","cty":"BERKS","id":8835396,"mun":"HEIDELBERG TWP","nc":1,"o":"-76.16328"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.720664,40.285629],"type":"Point"},"properties":{"a":"40.285629","cty":"DAUPHIN","id":8835401,"mun":"SOUTH HANOVER TWP","nc":2,"o":"-76.720664"},"type":"Feature"},
@@ -17,5 +14,10 @@
 {"geometry":{"coordinates":[-77.05719,41.24482],"type":"Point"},"properties":{"a":"41.24482","cty":"LYCOMING","hp":true,"id":8835416,"mun":"WILLIAMSPORT","nc":50,"ne":{"a":"41.24702","o":"-77.05253"},"o":"-77.05719","sw":{"a":"41.24261","o":"-77.06185"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.024137,41.049707],"type":"Point"},"properties":{"a":"41.049707","cty":"LUZERNE","id":8835418,"mun":"BUTLER TWP","nc":1,"o":"-76.024137"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.175351,40.992433],"type":"Point"},"properties":{"a":"40.992433","cty":"LUZERNE","id":8835419,"mun":"BLACK CREEK TWP","nc":1,"o":"-76.175351"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.256568,41.093844],"type":"Point"},"properties":{"a":"41.093844","cty":"COLUMBIA","id":8835423,"mun":"BRIAR CREEK TWP","nc":3,"o":"-76.256568"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.256568,41.093844],"type":"Point"},"properties":{"a":"41.093844","cty":"COLUMBIA","id":8835423,"mun":"BRIAR CREEK TWP","nc":3,"o":"-76.256568"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.245076,41.051978],"type":"Point"},"properties":{"a":"41.051978","cty":"COLUMBIA","id":8835427,"mun":"BERWICK BORO","nc":7,"o":"-76.245076"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.530707,40.787997],"type":"Point"},"properties":{"a":"40.787997","cty":"NORTHUMBERLAND","id":8835431,"mun":"COAL TWP","nc":4,"o":"-76.530707"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.842948,41.258605],"type":"Point"},"properties":{"a":"41.258605","cty":"LUZERNE","id":8835433,"mun":"WILKES-BARRE","nc":15,"o":"-75.842948"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.409578,40.626992],"type":"Point"},"properties":{"a":"40.626992","cty":"LEHIGH","id":8835434,"mun":"BETHLEHEM","nc":7,"o":"-75.409578"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.300778,40.039213],"type":"Point"},"properties":{"a":"40.039213","cty":"LANCASTER","id":8835435,"mun":"LANCASTER","nc":1,"o":"-76.300778"},"type":"Feature"}
 ]}
