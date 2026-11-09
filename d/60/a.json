@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-80.4422,40.63375],"type":"Point"},"properties":{"additionalProperties":[{"property":"jobNumber","value":"Job.26.11.08.00065"},{"property":"zips","value":["15059"]},{"property":"counties","value":["BEAVER"]},{"property":"municipalities","value":["MIDLAND"]}],"cause":"Under Investigation","etrTime":1794200400000,"id":2246830,"identifier":"Job.26.11.08.00065_6af1267d7924e36ccf319f57","lastUpdatedTime":1794189012000,"latitude":40.63375,"longitude":-80.4422,"numPeople":1,"startTime":1794188920000,"status":"Assessment Needed","title":"Outage"},"type":"Feature"}
 ]}
