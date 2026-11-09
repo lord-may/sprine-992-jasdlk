@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.777006,41.454159],"type":"Point"},"properties":{"a":"41.454159","cty":"WASHINGTON","id":20261071156,"mun":"HOPKINTON","nc":1,"o":"-71.777006"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.518871,41.386432],"type":"Point"},"properties":{"a":"41.386432","cty":"WASHINGTON","id":20261071200,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.518871"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.423595,41.843405],"type":"Point"},"properties":{"a":"41.843405","cty":"PROVIDENCE","id":20261071209,"mun":"PROVIDENCE","nc":1,"o":"-71.423595"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.402781,41.789048],"type":"Point"},"properties":{"a":"41.789048","cty":"PROVIDENCE","id":20261071212,"mun":"PROVIDENCE","nc":1,"o":"-71.402781"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.414793,41.8466],"type":"Point"},"properties":{"a":"41.8466","cty":"PROVIDENCE","id":20261071213,"mun":"PROVIDENCE","nc":1,"o":"-71.414793"},"type":"Feature"},
