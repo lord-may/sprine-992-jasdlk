@@ -11,7 +11,12 @@
 {"geometry":{"coordinates":[-76.87374,40.25456],"type":"Point"},"properties":{"a":"40.25456","cty":"DAUPHIN","hp":true,"id":8835388,"mun":"HARRISBURG","nc":249,"ne":{"a":"40.25736","o":"-76.86972"},"o":"-76.87374","sw":{"a":"40.25175","o":"-76.87775"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.30149,41.03789],"type":"Point"},"properties":{"a":"41.03789","cty":"MONROE","id":8835390,"mun":"POCONO TWP","nc":7,"o":"-75.30149"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.781523,40.208664],"type":"Point"},"properties":{"a":"40.208664","cty":"DAUPHIN","id":8835391,"mun":"HIGHSPIRE BORO","nc":5,"o":"-76.781523"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.389874,40.69902],"type":"Point"},"properties":{"a":"40.69902","cty":"NORTHAMPTON","id":8835395,"mun":"EAST ALLEN TWP","nc":1,"o":"-75.389874"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.16328,40.361529],"type":"Point"},"properties":{"a":"40.361529","cty":"BERKS","id":8835396,"mun":"HEIDELBERG TWP","nc":1,"o":"-76.16328"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.378813,40.626983],"type":"Point"},"properties":{"a":"40.626983","cty":"NORTHAMPTON","id":8835399,"mun":"BETHLEHEM","nc":6,"o":"-75.378813"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.720664,40.285629],"type":"Point"},"properties":{"a":"40.285629","cty":"DAUPHIN","id":8835401,"mun":"SOUTH HANOVER TWP","nc":2,"o":"-76.720664"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.007551,41.245254],"type":"Point"},"properties":{"a":"41.245254","cty":"LYCOMING","id":8835405,"mun":"WILLIAMSPORT","nc":18,"o":"-77.007551"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.609222,40.58365],"type":"Point"},"properties":{"a":"40.58365","cty":"LEHIGH","id":8835406,"mun":"UPPER MACUNGIE TWP","nc":2,"o":"-75.609222"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.37577,40.717321],"type":"Point"},"properties":{"a":"40.717321","cty":"NORTHAMPTON","id":8835407,"mun":"UPPER NAZARETH TWP","nc":3,"o":"-75.37577"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.021552,41.226125],"type":"Point"},"properties":{"a":"41.226125","cty":"LYCOMING","id":8835408,"mun":"SOUTH WILLIAMSPORT BORO","nc":14,"o":"-77.021552"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.05464,41.24893],"type":"Point"},"properties":{"a":"41.24893","cty":"LYCOMING","hp":true,"id":8835409,"mun":"OLD LYCOMING TWP","nc":28,"ne":{"a":"41.25028","o":"-77.05237"},"o":"-77.05464","sw":{"a":"41.24757","o":"-77.0569"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.765187,41.208019],"type":"Point"},"properties":{"a":"41.208019","cty":"LYCOMING","id":8835412,"mun":"MUNCY CREEK TWP","nc":1,"o":"-76.765187"},"type":"Feature"}
 ]}
