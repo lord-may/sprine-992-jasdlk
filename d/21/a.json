@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-69.377178,44.04769],"type":"Point"},"properties":{"EstRest":"11/9/2026 12:00:00 AM","Outages":1,"cause":"","county":"LINCOLN","crewstatus":"ENRT ","customers":109,"hamlet":"WALDOBORO","incidentnumber":"0046HG","incidents":1,"level":"street","opco":"CMP","street":"DUTCH NECK RD","town":"WALDOBORO"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.377178,44.04769],"type":"Point"},"properties":{"EstRest":"11/9/2026 12:00:00 AM","Outages":1,"county":"LINCOLN","customers":29091,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.377178,44.04769],"type":"Point"},"properties":{"EstRest":"11/9/2026 12:00:00 AM","Outages":1,"county":"LINCOLN","customers":29091,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.153254,44.466178],"type":"Point"},"properties":{"EstRest":"11/9/2026 1:30:00 AM","Outages":1,"cause":"","county":"WALDO","crewstatus":"     ","customers":1,"hamlet":"WALDO","incidentnumber":"0046HL","incidents":1,"level":"street","opco":"CMP","street":"ABNER LN","town":"WALDO"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.153254,44.466178],"type":"Point"},"properties":{"EstRest":"11/9/2026 1:30:00 AM","Outages":1,"county":"WALDO","customers":26703,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
