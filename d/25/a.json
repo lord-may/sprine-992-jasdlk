@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-72.387028,44.275068],"type":"Point"},"properties":{"active":true,"affectingCustomers":true,"cause":0,"county":"Washington","crew_name":",MONT-POULINMONT-PIERCE","customers_affected":1,"customers_affected_label":"1 Customer","device":"SERVICE","etor":"2026-11-09T03:00-05:00","has_etor":1,"incident_id":1017833,"status":"CREW_ASSIGNED","street":"HOLT RD","town":"Marshfield","trouble":"NO_POWER"},"type":"Feature"}
+
 ]}
