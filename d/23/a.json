@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.790463,40.34738],"type":"Point"},"properties":{"a":"40.34738","cty":"NA","id":8835334,"mun":"NA","nc":5,"o":"-76.790463"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.26065,41.410548],"type":"Point"},"properties":{"a":"41.410548","cty":"WAYNE","id":8835349,"mun":"PAUPACK TWP","nc":2,"o":"-75.26065"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.4406,40.7945],"type":"Point"},"properties":{"a":"40.7945","cty":"NORTHAMPTON","hp":true,"id":8835355,"mun":"MOORE TWP","nc":111,"ne":{"a":"40.80903","o":"-75.42715"},"o":"-75.4406","sw":{"a":"40.77998","o":"-75.45406"}},"type":"Feature"}
 ]}
