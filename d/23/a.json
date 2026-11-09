@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.790463,40.34738],"type":"Point"},"properties":{"a":"40.34738","cty":"NA","id":8835334,"mun":"NA","nc":5,"o":"-76.790463"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.007551,41.245254],"type":"Point"},"properties":{"a":"41.245254","cty":"LYCOMING","id":8835348,"mun":"WILLIAMSPORT","nc":18,"o":"-77.007551"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.007551,41.245254],"type":"Point"},"properties":{"a":"41.245254","cty":"LYCOMING","id":8835348,"mun":"WILLIAMSPORT","nc":18,"o":"-77.007551"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.26065,41.410548],"type":"Point"},"properties":{"a":"41.410548","cty":"WAYNE","id":8835349,"mun":"PAUPACK TWP","nc":2,"o":"-75.26065"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.2922,41.065987],"type":"Point"},"properties":{"a":"41.065987","cty":"MONROE","id":8835350,"mun":"POCONO TWP","nc":2,"o":"-75.2922"},"type":"Feature"}
 ]}

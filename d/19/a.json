@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-73.359132,42.75634],"type":"Point"},"properties":{"EstRest":"11/9/2026 5:30:00 AM","Outages":4,"county":"RENSSELAER","customers":11139,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-73.360921,42.760072],"type":"Point"},"properties":{"EstRest":"11/9/2026 5:30:00 AM","Outages":3,"cause":"","county":"RENSSELAER","crewstatus":"     ","customers":4,"hamlet":"PETERSBURG","incidentnumber":"011AYN","incidents":1,"level":"street","opco":"NYSEG","street":"DILL BROOK RD","town":"PETERSBURG T"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.495265,42.439104],"type":"Point"},"properties":{"EstRest":"11/9/2026 3:45:00 AM","Outages":569,"county":"TOMPKINS","customers":49506,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.496425,42.440495],"type":"Point"},"properties":{"EstRest":"11/9/2026 3:45:00 AM","Outages":48,"cause":"","county":"TOMPKINS","crewstatus":"ONST ","customers":297,"hamlet":"ITHACA","incidentnumber":"011AYI","incidents":1,"level":"street","opco":"NYSEG","street":"N AURORA ST","town":"ITHACA C"},"type":"Feature"}
 ]}
