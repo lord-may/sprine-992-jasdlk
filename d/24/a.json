@@ -1,12 +1,8 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.821107,41.343324],"type":"Point"},"properties":{"a":"41.343324","cty":"WASHINGTON","id":20261071027,"mun":"WESTERLY","nc":3,"o":"-71.821107"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.443445,41.548622],"type":"Point"},"properties":{"a":"41.548622","cty":"WASHINGTON","id":20261071028,"mun":"NORTH KINGSTOWN","nc":2,"o":"-71.443445"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.445011,41.548413],"type":"Point"},"properties":{"a":"41.548413","cty":"WASHINGTON","id":20261071029,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.445011"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.740465,41.669645],"type":"Point"},"properties":{"a":"41.669645","cty":"KENT","id":20261071038,"mun":"COVENTRY","nc":1,"o":"-71.740465"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.841269,41.319761],"type":"Point"},"properties":{"a":"41.319761","cty":"WASHINGTON","id":20261071042,"mun":"WESTERLY","nc":3,"o":"-71.841269"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.547058,41.872135],"type":"Point"},"properties":{"a":"41.872135","cty":"PROVIDENCE","id":20261071045,"mun":"SMITHFIELD","nc":8,"o":"-71.547058"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.428352,41.933172],"type":"Point"},"properties":{"a":"41.933172","cty":"PROVIDENCE","id":20261071047,"mun":"CUMBERLAND","nc":1,"o":"-71.428352"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.622984,41.818039],"type":"Point"},"properties":{"a":"41.818039","cty":"PROVIDENCE","id":20261071052,"mun":"SCITUATE","nc":1,"o":"-71.622984"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.697269,41.442558],"type":"Point"},"properties":{"a":"41.442558","cty":"WASHINGTON","id":20261071053,"mun":"RICHMOND","nc":1,"o":"-71.697269"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.605514,41.364425],"type":"Point"},"properties":{"a":"41.364425","cty":"WASHINGTON","id":20261071054,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.605514"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.810197,41.327337],"type":"Point"},"properties":{"a":"41.327337","cty":"WASHINGTON","id":20261071058,"mun":"WESTERLY","nc":1,"o":"-71.810197"},"type":"Feature"}
 ]}

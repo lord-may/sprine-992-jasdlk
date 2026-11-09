@@ -8,7 +8,10 @@
 {"geometry":{"coordinates":[-77.243604,40.388827],"type":"Point"},"properties":{"a":"40.388827","cty":"PERRY","id":8835374,"mun":"CENTRE TWP","nc":1,"o":"-77.243604"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.271713,41.059137],"type":"Point"},"properties":{"a":"41.059137","cty":"MONROE","id":8835376,"mun":"POCONO TWP","nc":3,"o":"-75.271713"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.3837,40.06554],"type":"Point"},"properties":{"a":"40.06554","cty":"LANCASTER","hp":true,"id":8835385,"mun":"EAST HEMPFIELD TWP","nc":34,"ne":{"a":"40.0673","o":"-76.3813"},"o":"-76.3837","sw":{"a":"40.06377","o":"-76.38609"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.38042,40.70037],"type":"Point"},"properties":{"a":"40.70037","cty":"NORTHAMPTON","hp":true,"id":8835387,"mun":"HANOVER TWP","nc":618,"ne":{"a":"40.72061","o":"-75.35644"},"o":"-75.38042","sw":{"a":"40.68014","o":"-75.40441"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.87374,40.25456],"type":"Point"},"properties":{"a":"40.25456","cty":"DAUPHIN","hp":true,"id":8835388,"mun":"HARRISBURG","nc":249,"ne":{"a":"40.25736","o":"-76.86972"},"o":"-76.87374","sw":{"a":"40.25175","o":"-76.87775"}},"type":"Feature"},
-{"geometry":{"coordinates":[-77.101063,40.378998],"type":"Point"},"properties":{"a":"40.378998","cty":"PERRY","id":8835389,"mun":"WHEATFIELD TWP","nc":3,"o":"-77.101063"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.30149,41.03789],"type":"Point"},"properties":{"a":"41.03789","cty":"MONROE","id":8835390,"mun":"POCONO TWP","nc":7,"o":"-75.30149"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.781523,40.208664],"type":"Point"},"properties":{"a":"40.208664","cty":"DAUPHIN","id":8835391,"mun":"HIGHSPIRE BORO","nc":5,"o":"-76.781523"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.389874,40.69902],"type":"Point"},"properties":{"a":"40.69902","cty":"NORTHAMPTON","id":8835395,"mun":"EAST ALLEN TWP","nc":1,"o":"-75.389874"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.16328,40.361529],"type":"Point"},"properties":{"a":"40.361529","cty":"BERKS","id":8835396,"mun":"HEIDELBERG TWP","nc":1,"o":"-76.16328"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.378813,40.626983],"type":"Point"},"properties":{"a":"40.626983","cty":"NORTHAMPTON","id":8835399,"mun":"BETHLEHEM","nc":6,"o":"-75.378813"},"type":"Feature"}
 ]}
