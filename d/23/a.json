@@ -16,8 +16,8 @@
 {"geometry":{"coordinates":[-75.438449,40.568446],"type":"Point"},"properties":{"a":"40.568446","cty":"LEHIGH","id":8835808,"mun":"SALISBURY TWP","nc":1,"o":"-75.438449"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.70042,41.54214],"type":"Point"},"properties":{"a":"41.54214","cty":"LACKAWANNA","hp":true,"id":8835810,"mun":"DALTON BORO","nc":542,"ne":{"a":"41.56538","o":"-75.6735"},"o":"-75.70042","sw":{"a":"41.5189","o":"-75.72734"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.543177,40.610308],"type":"Point"},"properties":{"a":"40.610308","cty":"LEHIGH","id":8835815,"mun":"SOUTH WHITEHALL TWP","nc":3,"o":"-75.543177"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.915809,40.22724],"type":"Point"},"properties":{"a":"40.22724","cty":"CUMBERLAND","id":8835820,"mun":"LOWER ALLEN TWP","nc":12,"o":"-76.915809"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.827171,41.037024],"type":"Point"},"properties":{"a":"41.037024","cty":"LUZERNE","id":8835822,"mun":"FOSTER TWP","nc":3,"o":"-75.827171"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.528256,40.987981],"type":"Point"},"properties":{"a":"40.987981","cty":"CARBON","id":8835823,"mun":"PENN FOREST TWP","nc":1,"o":"-75.528256"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.542743,40.610317],"type":"Point"},"properties":{"a":"40.610317","cty":"LEHIGH","id":8835824,"mun":"SOUTH WHITEHALL TWP","nc":1,"o":"-75.542743"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.542743,40.610317],"type":"Point"},"properties":{"a":"40.610317","cty":"LEHIGH","id":8835824,"mun":"SOUTH WHITEHALL TWP","nc":1,"o":"-75.542743"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.204259,40.422262],"type":"Point"},"properties":{"a":"40.422262","cty":"PERRY","id":8835827,"mun":"CENTRE TWP","nc":1,"o":"-77.204259"},"type":"Feature"}
 ]}
