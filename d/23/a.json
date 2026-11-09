@@ -18,7 +18,6 @@
 {"geometry":{"coordinates":[-76.245076,41.051978],"type":"Point"},"properties":{"a":"41.051978","cty":"COLUMBIA","id":8835427,"mun":"BERWICK BORO","nc":7,"o":"-76.245076"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.530707,40.787997],"type":"Point"},"properties":{"a":"40.787997","cty":"NORTHUMBERLAND","id":8835431,"mun":"COAL TWP","nc":4,"o":"-76.530707"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.409578,40.626992],"type":"Point"},"properties":{"a":"40.626992","cty":"LEHIGH","id":8835434,"mun":"BETHLEHEM","nc":7,"o":"-75.409578"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.300778,40.039213],"type":"Point"},"properties":{"a":"40.039213","cty":"LANCASTER","id":8835435,"mun":"LANCASTER","nc":1,"o":"-76.300778"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.58429,41.674075],"type":"Point"},"properties":{"a":"41.674075","cty":"SUSQUEHANNA","id":8835437,"mun":"CLIFFORD TWP","nc":3,"o":"-75.58429"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.231624,39.755512],"type":"Point"},"properties":{"a":"39.755512","cty":"LANCASTER","id":8835443,"mun":"FULTON TWP","nc":2,"o":"-76.231624"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.34796,40.63564],"type":"Point"},"properties":{"a":"40.63564","cty":"NORTHAMPTON","hp":true,"id":8835444,"mun":"BETHLEHEM","nc":32,"ne":{"a":"40.63674","o":"-75.34703"},"o":"-75.34796","sw":{"a":"40.63453","o":"-75.34889"}},"type":"Feature"},
@@ -27,5 +26,12 @@
 {"geometry":{"coordinates":[-75.481264,40.638791],"type":"Point"},"properties":{"a":"40.638791","cty":"LEHIGH","id":8835447,"mun":"WHITEHALL TWP","nc":9,"o":"-75.481264"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.85867,41.29359],"type":"Point"},"properties":{"a":"41.29359","cty":"CLINTON","hp":true,"id":8835448,"mun":"NOYES TWP","nc":4,"ne":{"a":"41.29735","o":"-77.85578"},"o":"-77.85867","sw":{"a":"41.28983","o":"-77.86156"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.856677,41.261344],"type":"Point"},"properties":{"a":"41.261344","cty":"LUZERNE","id":8835451,"mun":"WILKES-BARRE","nc":4,"o":"-75.856677"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.335476,40.586582],"type":"Point"},"properties":{"a":"40.586582","cty":"NORTHAMPTON","id":8835452,"mun":"HELLERTOWN BORO","nc":2,"o":"-75.335476"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.335476,40.586582],"type":"Point"},"properties":{"a":"40.586582","cty":"NORTHAMPTON","id":8835452,"mun":"HELLERTOWN BORO","nc":2,"o":"-75.335476"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.627315,40.659274],"type":"Point"},"properties":{"a":"40.659274","cty":"LEHIGH","id":8835455,"mun":"NORTH WHITEHALL TWP","nc":3,"o":"-75.627315"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.477071,40.642738],"type":"Point"},"properties":{"a":"40.642738","cty":"LEHIGH","id":8835457,"mun":"WHITEHALL TWP","nc":10,"o":"-75.477071"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.53118,40.49589],"type":"Point"},"properties":{"a":"40.49589","cty":"LEHIGH","hp":true,"id":8835458,"mun":"UPPER MILFORD TWP","nc":11,"ne":{"a":"40.49676","o":"-75.53009"},"o":"-75.53118","sw":{"a":"40.49502","o":"-75.53227"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.411388,41.006124],"type":"Point"},"properties":{"a":"41.006124","cty":"COLUMBIA","id":8835459,"mun":"SCOTT TWP","nc":3,"o":"-76.411388"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.40242,40.63556],"type":"Point"},"properties":{"a":"40.63556","cty":"LEHIGH","hp":true,"id":8835461,"mun":"BETHLEHEM","nc":112,"ne":{"a":"40.63712","o":"-75.40009"},"o":"-75.40242","sw":{"a":"40.634","o":"-75.40474"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.772144,41.100764],"type":"Point"},"properties":{"a":"41.100764","cty":"NORTHUMBERLAND","id":8835464,"mun":"LEWIS TWP","nc":16,"o":"-76.772144"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.772844,41.100165],"type":"Point"},"properties":{"a":"41.100165","cty":"NORTHUMBERLAND","id":8835465,"mun":"LEWIS TWP","nc":6,"o":"-76.772844"},"type":"Feature"}
 ]}
