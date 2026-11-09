@@ -2,12 +2,13 @@
 {"geometry":{"coordinates":[-75.4387,40.79901],"type":"Point"},"properties":{"a":"40.79901","cty":"NORTHAMPTON","hp":true,"id":8835355,"mun":"MOORE TWP","nc":80,"ne":{"a":"40.80903","o":"-75.42715"},"o":"-75.4387","sw":{"a":"40.78898","o":"-75.45024"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.276752,41.04452],"type":"Point"},"properties":{"a":"41.04452","cty":"CLINTON","id":8835364,"mun":"GREENE TWP","nc":1,"o":"-77.276752"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.051781,40.415026],"type":"Point"},"properties":{"a":"40.415026","cty":"PERRY","id":8835366,"mun":"WHEATFIELD TWP","nc":1,"o":"-77.051781"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.379445,40.183059],"type":"Point"},"properties":{"a":"40.183059","cty":"LANCASTER","id":8835367,"mun":"PENN TWP","nc":1,"o":"-76.379445"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.302379,41.091484],"type":"Point"},"properties":{"a":"41.091484","cty":"MONROE","id":8835368,"mun":"POCONO TWP","nc":1,"o":"-75.302379"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.910773,41.243831],"type":"Point"},"properties":{"a":"41.243831","cty":"LYCOMING","id":8835370,"mun":"MONTOURSVILLE BORO","nc":2,"o":"-76.910773"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.86248,40.246729],"type":"Point"},"properties":{"a":"40.246729","cty":"DAUPHIN","id":8835371,"mun":"HARRISBURG","nc":13,"o":"-76.86248"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.243604,40.388827],"type":"Point"},"properties":{"a":"40.388827","cty":"PERRY","id":8835374,"mun":"CENTRE TWP","nc":1,"o":"-77.243604"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.271713,41.059137],"type":"Point"},"properties":{"a":"41.059137","cty":"MONROE","id":8835376,"mun":"POCONO TWP","nc":3,"o":"-75.271713"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.3837,40.06554],"type":"Point"},"properties":{"a":"40.06554","cty":"LANCASTER","hp":true,"id":8835385,"mun":"EAST HEMPFIELD TWP","nc":34,"ne":{"a":"40.0673","o":"-76.3813"},"o":"-76.3837","sw":{"a":"40.06377","o":"-76.38609"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.389874,40.69902],"type":"Point"},"properties":{"a":"40.69902","cty":"NORTHAMPTON","id":8835386,"mun":"EAST ALLEN TWP","nc":1,"o":"-75.389874"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.38042,40.70037],"type":"Point"},"properties":{"a":"40.70037","cty":"NORTHAMPTON","hp":true,"id":8835387,"mun":"HANOVER TWP","nc":618,"ne":{"a":"40.72061","o":"-75.35644"},"o":"-75.38042","sw":{"a":"40.68014","o":"-75.40441"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.87374,40.25456],"type":"Point"},"properties":{"a":"40.25456","cty":"DAUPHIN","hp":true,"id":8835388,"mun":"HARRISBURG","nc":249,"ne":{"a":"40.25736","o":"-76.86972"},"o":"-76.87374","sw":{"a":"40.25175","o":"-76.87775"}},"type":"Feature"},
+{"geometry":{"coordinates":[-77.101063,40.378998],"type":"Point"},"properties":{"a":"40.378998","cty":"PERRY","id":8835389,"mun":"WHEATFIELD TWP","nc":3,"o":"-77.101063"},"type":"Feature"}
 ]}
