@@ -1,5 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.88963,40.71977],"type":"Point"},"properties":{"a":"40.71977","cty":"SNYDER","hp":true,"id":8835259,"mun":"UNION TWP","nc":12,"ne":{"a":"40.72192","o":"-76.88445"},"o":"-76.88963","sw":{"a":"40.71762","o":"-76.89481"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.38656,40.763682],"type":"Point"},"properties":{"a":"40.763682","cty":"SCHUYLKILL","id":8835324,"mun":"BUTLER TWP","nc":8,"o":"-76.38656"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.667091,41.51669],"type":"Point"},"properties":{"a":"41.51669","cty":"LACKAWANNA","id":8835325,"mun":"SOUTH ABINGTON TWP","nc":13,"o":"-75.667091"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.88963,40.71977],"type":"Point"},"properties":{"a":"40.71977","cty":"SNYDER","hp":true,"id":8835259,"mun":"UNION TWP","nc":12,"ne":{"a":"40.72192","o":"-76.88445"},"o":"-76.88963","sw":{"a":"40.71762","o":"-76.89481"}},"type":"Feature"}
 ]}
