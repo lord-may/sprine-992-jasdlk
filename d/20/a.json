@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-77.71055,43.164673],"type":"Point"},"properties":{"EstRest":"11/9/2026 9:45:00 AM","Outages":1,"cause":"","county":"MONROE","crewstatus":"     ","customers":363,"hamlet":"ROCHESTER","incidentnumber":"011AYW","incidents":1,"level":"street","opco":"RGE","street":"LYELL RD","town":"GATES"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.71055,43.164673],"type":"Point"},"properties":{"EstRest":"11/9/2026 9:45:00 AM","Outages":1,"county":"MONROE","customers":303529,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
