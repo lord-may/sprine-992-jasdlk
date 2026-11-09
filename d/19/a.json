@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.49772,42.440155],"type":"Point"},"properties":{"EstRest":"11/9/2026 11:00:00 PM","Outages":1,"cause":"","county":"TOMPKINS","crewstatus":"DISP ","customers":237,"hamlet":"ITHACA","incidentnumber":"011AZQ","incidents":1,"level":"street","opco":"NYSEG","street":"N TIOGA ST","town":"ITHACA C"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.49772,42.440155],"type":"Point"},"properties":{"EstRest":"11/9/2026 11:00:00 PM","Outages":2,"county":"TOMPKINS","customers":49506,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.593974,41.17966],"type":"Point"},"properties":{"EstRest":"11/9/2026 4:45:00 PM","Outages":1,"cause":"","county":"WESTCHESTER","crewstatus":"DISP ","customers":83,"hamlet":"POUND RIDGE","incidentnumber":"011B55","incidents":1,"level":"street","opco":"NYSEG","street":"UPPER SHAD RD","town":"POUNDRIDGE T"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.593974,41.17966],"type":"Point"},"properties":{"EstRest":"11/9/2026 4:45:00 PM","Outages":1,"county":"WESTCHESTER","customers":33728,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.49772,42.440155],"type":"Point"},"properties":{"EstRest":"11/9/2026 11:00:00 PM","Outages":2,"county":"TOMPKINS","customers":49506,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}

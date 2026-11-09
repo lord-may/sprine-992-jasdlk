@@ -12,10 +12,12 @@
 {"geometry":{"coordinates":[-76.950924,40.518618],"type":"Point"},"properties":{"a":"40.518618","cty":"DAUPHIN","id":8835739,"mun":"HALIFAX TWP","nc":4,"o":"-76.950924"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.481677,40.606406],"type":"Point"},"properties":{"a":"40.606406","cty":"LEHIGH","id":8835742,"mun":"ALLENTOWN","nc":1,"o":"-75.481677"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.49386,40.63927],"type":"Point"},"properties":{"a":"40.63927","cty":"SCHUYLKILL","hp":true,"id":8835745,"mun":"HEGINS TWP","nc":50,"ne":{"a":"40.64219","o":"-76.48606"},"o":"-76.49386","sw":{"a":"40.63635","o":"-76.50165"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.9179,40.22617],"type":"Point"},"properties":{"a":"40.22617","cty":"CUMBERLAND","hp":true,"id":8835750,"mun":"LOWER ALLEN TWP","nc":44,"ne":{"a":"40.22686","o":"-76.91762"},"o":"-76.9179","sw":{"a":"40.22548","o":"-76.91818"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.916665,40.225058],"type":"Point"},"properties":{"a":"40.225058","cty":"CUMBERLAND","id":8835751,"mun":"LOWER ALLEN TWP","nc":39,"o":"-76.916665"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.91609,40.22564],"type":"Point"},"properties":{"a":"40.22564","cty":"NA","hp":true,"id":8835750,"mun":"NA","nc":201,"ne":{"a":"40.22704","o":"-76.914"},"o":"-76.91609","sw":{"a":"40.22424","o":"-76.91818"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.837917,40.237576],"type":"Point"},"properties":{"a":"40.237576","cty":"DAUPHIN","id":8835765,"mun":"STEELTON BORO","nc":1,"o":"-76.837917"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.71628,41.527482],"type":"Point"},"properties":{"a":"41.527482","cty":"LACKAWANNA","id":8835787,"mun":"WAVERLY TWP","nc":1,"o":"-75.71628"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.827171,41.037024],"type":"Point"},"properties":{"a":"41.037024","cty":"LUZERNE","id":8835791,"mun":"FOSTER TWP","nc":3,"o":"-75.827171"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.9071,40.23583],"type":"Point"},"properties":{"a":"40.23583","cty":"CUMBERLAND","hp":true,"id":8835799,"mun":"LOWER ALLEN TWP","nc":1534,"ne":{"a":"40.24754","o":"-76.89185"},"o":"-76.9071","sw":{"a":"40.22413","o":"-76.92235"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.438449,40.568446],"type":"Point"},"properties":{"a":"40.568446","cty":"LEHIGH","id":8835808,"mun":"SALISBURY TWP","nc":1,"o":"-75.438449"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.70042,41.54214],"type":"Point"},"properties":{"a":"41.54214","cty":"LACKAWANNA","hp":true,"id":8835810,"mun":"DALTON BORO","nc":542,"ne":{"a":"41.56538","o":"-75.6735"},"o":"-75.70042","sw":{"a":"41.5189","o":"-75.72734"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.495658,41.573949],"type":"Point"},"properties":{"a":"41.573949","cty":"LACKAWANNA","id":8835814,"mun":"CARBONDALE","nc":14,"o":"-75.495658"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.54008,40.610215],"type":"Point"},"properties":{"a":"40.610215","cty":"LEHIGH","id":8835815,"mun":"SOUTH WHITEHALL TWP","nc":16,"o":"-75.54008"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.31438,40.042716],"type":"Point"},"properties":{"a":"40.042716","cty":"LANCASTER","id":8835816,"mun":"LANCASTER","nc":1,"o":"-76.31438"},"type":"Feature"}
 ]}
