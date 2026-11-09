@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.790591,40.347369],"type":"Point"},"properties":{"a":"40.347369","cty":"DAUPHIN","id":8835334,"mun":"LOWER PAXTON TWP","nc":8,"o":"-76.790591"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.4406,40.7945],"type":"Point"},"properties":{"a":"40.7945","cty":"NORTHAMPTON","hp":true,"id":8835355,"mun":"MOORE TWP","nc":111,"ne":{"a":"40.80903","o":"-75.42715"},"o":"-75.4406","sw":{"a":"40.77998","o":"-75.45406"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.590358,40.141129],"type":"Point"},"properties":{"a":"40.141129","cty":"LANCASTER","id":8835357,"mun":"ELIZABETHTOWN BORO","nc":21,"o":"-76.590358"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.588281,40.143711],"type":"Point"},"properties":{"a":"40.143711","cty":"LANCASTER","id":8835358,"mun":"ELIZABETHTOWN BORO","nc":4,"o":"-76.588281"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.4387,40.79901],"type":"Point"},"properties":{"a":"40.79901","cty":"NORTHAMPTON","hp":true,"id":8835355,"mun":"MOORE TWP","nc":80,"ne":{"a":"40.80903","o":"-75.42715"},"o":"-75.4387","sw":{"a":"40.78898","o":"-75.45024"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.590358,40.141129],"type":"Point"},"properties":{"a":"40.141129","cty":"LANCASTER","id":8835357,"mun":"ELIZABETHTOWN BORO","nc":21,"o":"-76.590358"},"type":"Feature"}
 ]}
