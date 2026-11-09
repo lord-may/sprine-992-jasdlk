@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.79213,40.3468],"type":"Point"},"properties":{"a":"40.3468","cty":"DAUPHIN","hp":true,"id":8835334,"mun":"LOWER PAXTON TWP","nc":34,"ne":{"a":"40.34767","o":"-76.78844"},"o":"-76.79213","sw":{"a":"40.34593","o":"-76.79581"}},"type":"Feature"}
+{"geometry":{"coordinates":[-76.790463,40.34738],"type":"Point"},"properties":{"a":"40.34738","cty":"NA","id":8835334,"mun":"NA","nc":5,"o":"-76.790463"},"type":"Feature"}
 ]}
