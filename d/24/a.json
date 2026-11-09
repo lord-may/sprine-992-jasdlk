@@ -5,5 +5,6 @@
 {"geometry":{"coordinates":[-71.414793,41.8466],"type":"Point"},"properties":{"a":"41.8466","cty":"PROVIDENCE","id":20261071213,"mun":"PROVIDENCE","nc":1,"o":"-71.414793"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.735495,41.883772],"type":"Point"},"properties":{"a":"41.883772","cty":"PROVIDENCE","id":20261071228,"mun":"GLOCESTER","nc":1,"o":"-71.735495"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.488206,41.797875],"type":"Point"},"properties":{"a":"41.797875","cty":"PROVIDENCE","id":20261071229,"mun":"JOHNSTON","nc":1,"o":"-71.488206"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.485469,41.805277],"type":"Point"},"properties":{"a":"41.805277","cty":"PROVIDENCE","id":20261071234,"mun":"JOHNSTON","nc":1,"o":"-71.485469"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.485469,41.805277],"type":"Point"},"properties":{"a":"41.805277","cty":"PROVIDENCE","id":20261071234,"mun":"JOHNSTON","nc":1,"o":"-71.485469"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.420385,41.836439],"type":"Point"},"properties":{"a":"41.836439","cty":"PROVIDENCE","id":20261071236,"mun":"PROVIDENCE","nc":1,"o":"-71.420385"},"type":"Feature"}
 ]}
