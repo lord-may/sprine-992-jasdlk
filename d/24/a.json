@@ -7,5 +7,9 @@
 {"geometry":{"coordinates":[-71.422458,41.518062],"type":"Point"},"properties":{"a":"41.518062","cty":"WASHINGTON","id":20261071112,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.422458"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.841269,41.319761],"type":"Point"},"properties":{"a":"41.319761","cty":"WASHINGTON","id":20261071116,"mun":"WESTERLY","nc":1,"o":"-71.841269"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.459506,41.438087],"type":"Point"},"properties":{"a":"41.438087","cty":"WASHINGTON","id":20261071117,"mun":"NARRAGANSETT","nc":1,"o":"-71.459506"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.483166,41.660241],"type":"Point"},"properties":{"a":"41.660241","cty":"KENT","id":20261071118,"mun":"EAST GREENWICH","nc":1,"o":"-71.483166"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.483166,41.660241],"type":"Point"},"properties":{"a":"41.660241","cty":"KENT","id":20261071118,"mun":"EAST GREENWICH","nc":1,"o":"-71.483166"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.440526,41.854862],"type":"Point"},"properties":{"a":"41.854862","cty":"PROVIDENCE","id":20261071122,"mun":"PROVIDENCE","nc":1,"o":"-71.440526"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.428045,41.585765],"type":"Point"},"properties":{"a":"41.585765","cty":"WASHINGTON","id":20261071123,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.428045"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.470658,41.87715],"type":"Point"},"properties":{"a":"41.87715","cty":"PROVIDENCE","id":20261071125,"mun":"SMITHFIELD","nc":1,"o":"-71.470658"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.434323,41.815256],"type":"Point"},"properties":{"a":"41.815256","cty":"PROVIDENCE","id":20261071126,"mun":"PROVIDENCE","nc":1,"o":"-71.434323"},"type":"Feature"}
 ]}
