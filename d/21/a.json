@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.915164,45.048034],"type":"Point"},"properties":{"EstRest":"11/9/2026 1:30:00 AM","Outages":1,"cause":"","county":"SOMERSET","crewstatus":"DISP ","customers":1,"hamlet":"CONCORD","incidentnumber":"0046HN","incidents":1,"level":"street","opco":"CMP","street":"LITTLE FALLS DR","town":"CONCORD"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.919156,45.044155],"type":"Point"},"properties":{"EstRest":"11/9/2026 1:30:00 AM","Outages":11,"county":"SOMERSET","customers":31730,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.153254,44.466178],"type":"Point"},"properties":{"EstRest":"11/9/2026 1:30:00 AM","Outages":1,"cause":"","county":"WALDO","crewstatus":"DISP ","customers":1,"hamlet":"WALDO","incidentnumber":"0046HL","incidents":1,"level":"street","opco":"CMP","street":"ABNER LN","town":"WALDO"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.153254,44.466178],"type":"Point"},"properties":{"EstRest":"11/9/2026 1:30:00 AM","Outages":1,"county":"WALDO","customers":26703,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.915164,45.048034],"type":"Point"},"properties":{"EstRest":"11/9/2026 1:30:00 AM","Outages":1,"cause":"","county":"SOMERSET","crewstatus":"ONST ","customers":1,"hamlet":"CONCORD","incidentnumber":"0046HN","incidents":1,"level":"street","opco":"CMP","street":"LITTLE FALLS DR","town":"CONCORD"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.919156,45.044155],"type":"Point"},"properties":{"EstRest":"11/9/2026 1:30:00 AM","Outages":11,"county":"SOMERSET","customers":31730,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
