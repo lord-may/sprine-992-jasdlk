@@ -4,6 +4,6 @@
 {"geometry":{"coordinates":[-71.160325,41.586403],"type":"Point"},"properties":{"a":"41.586403","cty":"NEWPORT","id":20261071105,"mun":"TIVERTON","nc":1,"o":"-71.160325"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.422458,41.518062],"type":"Point"},"properties":{"a":"41.518062","cty":"WASHINGTON","id":20261071112,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.422458"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.428045,41.585765],"type":"Point"},"properties":{"a":"41.585765","cty":"WASHINGTON","id":20261071123,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.428045"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.400376,41.872737],"type":"Point"},"properties":{"a":"41.872737","cty":"PROVIDENCE","id":20261071148,"mun":"PAWTUCKET","nc":1,"o":"-71.400376"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.679535,41.407702],"type":"Point"},"properties":{"a":"41.407702","cty":"WASHINGTON","id":20261071149,"mun":"CHARLESTOWN","nc":1,"o":"-71.679535"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.679535,41.407702],"type":"Point"},"properties":{"a":"41.407702","cty":"WASHINGTON","id":20261071149,"mun":"CHARLESTOWN","nc":1,"o":"-71.679535"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.392651,41.889607],"type":"Point"},"properties":{"a":"41.889607","cty":"PROVIDENCE","id":20261071153,"mun":"CENTRAL FALLS","nc":1,"o":"-71.392651"},"type":"Feature"}
 ]}
