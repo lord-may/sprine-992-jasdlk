@@ -10,6 +10,6 @@
 {"geometry":{"coordinates":[-75.71628,41.527482],"type":"Point"},"properties":{"a":"41.527482","cty":"LACKAWANNA","id":8835810,"mun":"WAVERLY TWP","nc":1,"o":"-75.71628"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.859937,40.267542],"type":"Point"},"properties":{"a":"40.267542","cty":"DAUPHIN","id":8835837,"mun":"HARRISBURG","nc":1,"o":"-76.859937"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.83751,40.237948],"type":"Point"},"properties":{"a":"40.237948","cty":"DAUPHIN","id":8835844,"mun":"STEELTON BORO","nc":1,"o":"-76.83751"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.880887,40.830991],"type":"Point"},"properties":{"a":"40.830991","cty":"CARBON","id":8835864,"mun":"LANSFORD BORO","nc":1,"o":"-75.880887"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.160956,40.549094],"type":"Point"},"properties":{"a":"40.549094","cty":"PERRY","id":8835865,"mun":"TUSCARORA TWP","nc":2,"o":"-77.160956"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.160956,40.549094],"type":"Point"},"properties":{"a":"40.549094","cty":"PERRY","id":8835865,"mun":"TUSCARORA TWP","nc":2,"o":"-77.160956"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.878352,40.511043],"type":"Point"},"properties":{"a":"40.511043","cty":"DAUPHIN","id":8835868,"mun":"JACKSON TWP","nc":4,"o":"-76.878352"},"type":"Feature"}
 ]}
