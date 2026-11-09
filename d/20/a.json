@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.696638,43.21913],"type":"Point"},"properties":{"EstRest":"","Outages":11,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":692,"hamlet":"ROCHESTER","incidentnumber":"011AY1","incidents":1,"level":"street","opco":"RGE","street":"LONG POND RD","town":"GREECE"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.696638,43.21913],"type":"Point"},"properties":{"EstRest":"","Outages":11,"county":"MONROE","customers":303529,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.696638,43.21913],"type":"Point"},"properties":{"EstRest":"11/9/2026 7:00:00 AM","Outages":11,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":692,"hamlet":"ROCHESTER","incidentnumber":"011AY1","incidents":1,"level":"street","opco":"RGE","street":"LONG POND RD","town":"GREECE"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.696638,43.21913],"type":"Point"},"properties":{"EstRest":"11/9/2026 7:00:00 AM","Outages":11,"county":"MONROE","customers":303529,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
