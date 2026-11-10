@@ -4,12 +4,11 @@
 {"geometry":{"coordinates":[-75.20955,41.02542],"type":"Point"},"properties":{"a":"41.02542","cty":"MONROE","hp":true,"id":8836228,"mun":"STROUD TWP","nc":8,"ne":{"a":"41.02672","o":"-75.2078"},"o":"-75.20955","sw":{"a":"41.02412","o":"-75.2113"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.276026,41.243119],"type":"Point"},"properties":{"a":"41.243119","cty":"MONROE","id":8836246,"mun":"BARRETT TWP","nc":2,"o":"-75.276026"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.82118,40.23008],"type":"Point"},"properties":{"a":"40.23008","cty":"NA","hp":true,"id":8836274,"mun":"NA","nc":271,"ne":{"a":"40.23359","o":"-76.8172"},"o":"-76.82118","sw":{"a":"40.22657","o":"-76.82516"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.434646,41.334155],"type":"Point"},"properties":{"a":"41.334155","cty":"WAYNE","id":8836295,"mun":"STERLING TWP","nc":1,"o":"-75.434646"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.48358,41.1183],"type":"Point"},"properties":{"a":"41.1183","cty":"COLUMBIA","hp":true,"id":8836303,"mun":"GREENWOOD TWP","nc":466,"ne":{"a":"41.15116","o":"-76.44922"},"o":"-76.48358","sw":{"a":"41.08543","o":"-76.51793"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.42225,41.33399],"type":"Point"},"properties":{"a":"41.33399","cty":"WAYNE","hp":true,"id":8836295,"mun":"STERLING TWP","nc":65,"ne":{"a":"41.34056","o":"-75.40783"},"o":"-75.42225","sw":{"a":"41.32742","o":"-75.43668"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.823039,40.224421],"type":"Point"},"properties":{"a":"40.224421","cty":"DAUPHIN","id":8836318,"mun":"STEELTON BORO","nc":1,"o":"-76.823039"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.641882,40.755045],"type":"Point"},"properties":{"a":"40.755045","cty":"NORTHUMBERLAND","id":8836323,"mun":"WEST CAMERON TWP","nc":7,"o":"-76.641882"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.31957,40.746166],"type":"Point"},"properties":{"a":"40.746166","cty":"SNYDER","id":8836325,"mun":"WEST BEAVER TWP","nc":1,"o":"-77.31957"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.495292,40.562625],"type":"Point"},"properties":{"a":"40.562625","cty":"LEHIGH","id":8836328,"mun":"ALLENTOWN","nc":9,"o":"-75.495292"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.691423,41.404892],"type":"Point"},"properties":{"a":"41.404892","cty":"LACKAWANNA","id":8836341,"mun":"SCRANTON","nc":1,"o":"-75.691423"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.605875,40.694639],"type":"Point"},"properties":{"a":"40.694639","cty":"LEHIGH","id":8836342,"mun":"NORTH WHITEHALL TWP","nc":2,"o":"-75.605875"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.845242,41.284514],"type":"Point"},"properties":{"a":"41.284514","cty":"LUZERNE","id":8836344,"mun":"PLAINS TWP","nc":11,"o":"-75.845242"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.521044,40.954484],"type":"Point"},"properties":{"a":"40.954484","cty":"MONROE","id":8836348,"mun":"POLK TWP","nc":1,"o":"-75.521044"},"type":"Feature"}
 ]}
