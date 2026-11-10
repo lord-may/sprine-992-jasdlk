@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-73.77539,40.66958],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"NEW","cust_a":{"val":1},"etr":"ETR-NULL","outages":null,"reported_problem":"Partial Outage","title":"Outage Information"},"type":"Feature"},
 {"geometry":{"coordinates":[-73.88467,40.67613],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"NEW","cust_a":{"val":3},"etr":"ETR-NULL","outages":null,"reported_problem":"No Lights","title":"Outage Information"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.89436,40.66196],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"UNA","cust_a":{"val":1},"etr":"ETR-NULL","outages":null,"reported_problem":"No Lights","title":"Outage Information"},"type":"Feature"}
+{"geometry":{"coordinates":[-73.89436,40.66196],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"UNA","cust_a":{"val":1},"etr":"ETR-NULL","outages":null,"reported_problem":"No Lights","title":"Outage Information"},"type":"Feature"},
+{"geometry":{"coordinates":[-73.9077,40.64632],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"NEW","cust_a":{"val":1},"etr":"ETR-NULL","outages":null,"reported_problem":"No Lights","title":"Outage Information"},"type":"Feature"}
 ]}
