@@ -1,8 +1,8 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.527566,41.433753],"type":"Point"},"properties":{"a":"41.433753","cty":"WASHINGTON","id":20261071321,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.527566"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.823581,41.369726],"type":"Point"},"properties":{"a":"41.369726","cty":"WASHINGTON","id":20261071335,"mun":"WESTERLY","nc":1,"o":"-71.823581"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.426975,41.529712],"type":"Point"},"properties":{"a":"41.529712","cty":"WASHINGTON","id":20261071349,"mun":"NORTH KINGSTOWN","nc":9,"o":"-71.426975"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.509919,41.71056],"type":"Point"},"properties":{"a":"41.71056","cty":"KENT","id":20261071362,"mun":"WEST WARWICK","nc":1,"o":"-71.509919"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.523941,41.855676],"type":"Point"},"properties":{"a":"41.855676","cty":"PROVIDENCE","id":20261071365,"mun":"JOHNSTON","nc":1,"o":"-71.523941"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.370379,41.545726],"type":"Point"},"properties":{"a":"41.545726","cty":"NEWPORT","id":20261071372,"mun":"JAMESTOWN","nc":1,"o":"-71.370379"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.370379,41.545726],"type":"Point"},"properties":{"a":"41.545726","cty":"NEWPORT","id":20261071372,"mun":"JAMESTOWN","nc":1,"o":"-71.370379"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.390596,41.867077],"type":"Point"},"properties":{"a":"41.867077","cty":"PROVIDENCE","id":20261071377,"mun":"PAWTUCKET","nc":1,"o":"-71.390596"},"type":"Feature"}
 ]}
