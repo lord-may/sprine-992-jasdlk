@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.91609,40.22564],"type":"Point"},"properties":{"a":"40.22564","cty":"NA","hp":true,"id":8835750,"mun":"NA","nc":201,"ne":{"a":"40.22704","o":"-76.914"},"o":"-76.91609","sw":{"a":"40.22424","o":"-76.91818"}},"type":"Feature"}
+{"geometry":{"coordinates":[-76.91609,40.22564],"type":"Point"},"properties":{"a":"40.22564","cty":"NA","hp":true,"id":8835750,"mun":"NA","nc":201,"ne":{"a":"40.22704","o":"-76.914"},"o":"-76.91609","sw":{"a":"40.22424","o":"-76.91818"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.12002,40.717636],"type":"Point"},"properties":{"a":"40.717636","cty":"SCHUYLKILL","id":8835919,"mun":"BLYTHE TWP","nc":1,"o":"-76.12002"},"type":"Feature"}
 ]}
