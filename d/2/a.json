@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-74.30743,41.08969],"type":"Point"},"properties":{"cause":"Under Investigation","cluster":false,"cust_a":{"val":1},"etr":"ETR-EXP","inc_id":"562636","title":"Outage Information"},"type":"Feature"},
-{"geometry":{"coordinates":[-74.38966,41.46394],"type":"Point"},"properties":{"cause":"Single Service Incident","cluster":false,"cust_a":{"val":1},"etr":"2026-11-10T03:58:30-0500","inc_id":"562720","title":"Outage Information"},"type":"Feature"}
+
 ]}
