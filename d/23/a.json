@@ -1,8 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-77.132213,41.190434],"type":"Point"},"properties":{"a":"41.190434","cty":"LYCOMING","id":8835655,"mun":"BASTRESS TWP","nc":2,"o":"-77.132213"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.59593,41.11963],"type":"Point"},"properties":{"a":"41.11963","cty":"COLUMBIA","hp":true,"id":8835696,"mun":"MADISON TWP","nc":7,"ne":{"a":"41.12547","o":"-76.59208"},"o":"-76.59593","sw":{"a":"41.1138","o":"-76.59977"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.074198,41.002169],"type":"Point"},"properties":{"a":"41.002169","cty":"LUZERNE","id":8835703,"mun":"SUGARLOAF TWP","nc":6,"o":"-76.074198"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.481677,40.606406],"type":"Point"},"properties":{"a":"40.606406","cty":"LEHIGH","id":8835742,"mun":"ALLENTOWN","nc":1,"o":"-75.481677"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.49386,40.63927],"type":"Point"},"properties":{"a":"40.63927","cty":"SCHUYLKILL","hp":true,"id":8835745,"mun":"HEGINS TWP","nc":50,"ne":{"a":"40.64219","o":"-76.48606"},"o":"-76.49386","sw":{"a":"40.63635","o":"-76.50165"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.91609,40.22564],"type":"Point"},"properties":{"a":"40.22564","cty":"NA","hp":true,"id":8835750,"mun":"NA","nc":201,"ne":{"a":"40.22704","o":"-76.914"},"o":"-76.91609","sw":{"a":"40.22424","o":"-76.91818"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.837917,40.237576],"type":"Point"},"properties":{"a":"40.237576","cty":"DAUPHIN","id":8835765,"mun":"STEELTON BORO","nc":27,"o":"-76.837917"},"type":"Feature"},
@@ -10,6 +8,5 @@
 {"geometry":{"coordinates":[-75.71628,41.527482],"type":"Point"},"properties":{"a":"41.527482","cty":"LACKAWANNA","id":8835810,"mun":"WAVERLY TWP","nc":1,"o":"-75.71628"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.859937,40.267542],"type":"Point"},"properties":{"a":"40.267542","cty":"DAUPHIN","id":8835837,"mun":"HARRISBURG","nc":1,"o":"-76.859937"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.83751,40.237948],"type":"Point"},"properties":{"a":"40.237948","cty":"DAUPHIN","id":8835844,"mun":"STEELTON BORO","nc":1,"o":"-76.83751"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.160956,40.549094],"type":"Point"},"properties":{"a":"40.549094","cty":"PERRY","id":8835865,"mun":"TUSCARORA TWP","nc":2,"o":"-77.160956"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.878352,40.511043],"type":"Point"},"properties":{"a":"40.511043","cty":"DAUPHIN","id":8835868,"mun":"JACKSON TWP","nc":4,"o":"-76.878352"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.160956,40.549094],"type":"Point"},"properties":{"a":"40.549094","cty":"PERRY","id":8835865,"mun":"TUSCARORA TWP","nc":2,"o":"-77.160956"},"type":"Feature"}
 ]}
