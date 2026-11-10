@@ -1,5 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.83317,40.81653],"type":"Point"},"properties":{"a":"40.81653","cty":"CARBON","hp":true,"id":8835921,"mun":"SUMMIT HILL BORO","nc":50,"ne":{"a":"40.8224","o":"-75.81689"},"o":"-75.83317","sw":{"a":"40.81066","o":"-75.84946"}},"type":"Feature"},
 {"geometry":{"coordinates":[-74.899982,41.446614],"type":"Point"},"properties":{"a":"41.446614","cty":"PIKE","id":8835925,"mun":"SHOHOLA TWP","nc":3,"o":"-74.899982"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.30453,41.096438],"type":"Point"},"properties":{"a":"41.096438","cty":"MONROE","id":8835928,"mun":"PARADISE TWP","nc":2,"o":"-75.30453"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.30453,41.096438],"type":"Point"},"properties":{"a":"41.096438","cty":"MONROE","id":8835928,"mun":"PARADISE TWP","nc":2,"o":"-75.30453"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.269467,40.305436],"type":"Point"},"properties":{"a":"40.305436","cty":"LEBANON","id":8835931,"mun":"HEIDELBERG TWP","nc":1,"o":"-76.269467"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.232536,40.630513],"type":"Point"},"properties":{"a":"40.630513","cty":"NORTHAMPTON","id":8835932,"mun":"WILLIAMS TWP","nc":1,"o":"-75.232536"},"type":"Feature"}
 ]}
