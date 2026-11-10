@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.326575,41.764736],"type":"Point"},"properties":{"a":"41.764736","cty":"BRISTOL","id":20261071276,"mun":"BARRINGTON","nc":1,"o":"-71.326575"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.489627,41.649417],"type":"Point"},"properties":{"a":"41.649417","cty":"KENT","id":20261071291,"mun":"EAST GREENWICH","nc":1,"o":"-71.489627"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.479281,41.918441],"type":"Point"},"properties":{"a":"41.918441","cty":"PROVIDENCE","id":20261071295,"mun":"LINCOLN","nc":1,"o":"-71.479281"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.578545,41.698155],"type":"Point"},"properties":{"a":"41.698155","cty":"KENT","id":20261071298,"mun":"COVENTRY","nc":1,"o":"-71.578545"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.457732,41.638654],"type":"Point"},"properties":{"a":"41.638654","cty":"KENT","id":20261071301,"mun":"WARWICK","nc":1,"o":"-71.457732"},"type":"Feature"}
 ]}
