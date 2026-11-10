@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.368656,42.993181],"type":"Point"},"properties":{"EstRest":"11/10/2026 7:00:00 PM","Outages":2,"cause":"","county":"ONTARIO","crewstatus":"     ","customers":139,"hamlet":"FARMINGTON","incidentnumber":"011BH5","incidents":1,"level":"street","opco":"RGE","street":"HUNTS PARK RD","town":"FARMINGTON"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.368656,42.993181],"type":"Point"},"properties":{"EstRest":"11/10/2026 7:00:00 PM","Outages":2,"cause":"","county":"ONTARIO","crewstatus":"DISP ","customers":139,"hamlet":"FARMINGTON","incidentnumber":"011BH5","incidents":1,"level":"street","opco":"RGE","street":"HUNTS PARK RD","town":"FARMINGTON"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.368656,42.993181],"type":"Point"},"properties":{"EstRest":"11/10/2026 7:00:00 PM","Outages":9,"county":"ONTARIO","customers":35928,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
