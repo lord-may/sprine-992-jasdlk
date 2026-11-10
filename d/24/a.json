@@ -4,5 +4,6 @@
 {"geometry":{"coordinates":[-71.294713,41.523929],"type":"Point"},"properties":{"a":"41.523929","cty":"NEWPORT","id":20261071332,"mun":"MIDDLETOWN","nc":1,"o":"-71.294713"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.46743,41.734413],"type":"Point"},"properties":{"a":"41.734413","cty":"PROVIDENCE","id":20261071333,"mun":"CRANSTON","nc":1,"o":"-71.46743"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.823581,41.369726],"type":"Point"},"properties":{"a":"41.369726","cty":"WASHINGTON","id":20261071335,"mun":"WESTERLY","nc":1,"o":"-71.823581"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.523353,41.755658],"type":"Point"},"properties":{"a":"41.755658","cty":"PROVIDENCE","id":20261071336,"mun":"CRANSTON","nc":1,"o":"-71.523353"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.523353,41.755658],"type":"Point"},"properties":{"a":"41.755658","cty":"PROVIDENCE","id":20261071336,"mun":"CRANSTON","nc":1,"o":"-71.523353"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.383328,41.819351],"type":"Point"},"properties":{"a":"41.819351","cty":"PROVIDENCE","id":20261071339,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.383328"},"type":"Feature"}
 ]}

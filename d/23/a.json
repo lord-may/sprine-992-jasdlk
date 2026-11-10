@@ -6,7 +6,6 @@
 {"geometry":{"coordinates":[-76.535936,40.785421],"type":"Point"},"properties":{"a":"40.785421","cty":"NORTHUMBERLAND","id":8836125,"mun":"COAL TWP","nc":4,"o":"-76.535936"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.410739,41.006413],"type":"Point"},"properties":{"a":"41.006413","cty":"COLUMBIA","id":8836132,"mun":"SCOTT TWP","nc":10,"o":"-76.410739"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.05028,41.618387],"type":"Point"},"properties":{"a":"41.618387","cty":"WAYNE","id":8836136,"mun":"DAMASCUS TWP","nc":5,"o":"-75.05028"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.777509,41.389407],"type":"Point"},"properties":{"a":"41.389407","cty":"LACKAWANNA","id":8836144,"mun":"RANSOM TWP","nc":1,"o":"-75.777509"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.615977,41.654345],"type":"Point"},"properties":{"a":"41.654345","cty":"SUSQUEHANNA","id":8836146,"mun":"CLIFFORD TWP","nc":5,"o":"-75.615977"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.050022,40.941462],"type":"Point"},"properties":{"a":"40.941462","cty":"UNION","id":8836153,"mun":"WEST BUFFALO TWP","nc":2,"o":"-77.050022"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.56442,41.14951],"type":"Point"},"properties":{"a":"41.14951","cty":"MONROE","hp":true,"id":8836157,"mun":"TOBYHANNA TWP","nc":115,"ne":{"a":"41.15297","o":"-75.56222"},"o":"-75.56442","sw":{"a":"41.14604","o":"-75.56663"}},"type":"Feature"},
@@ -16,12 +15,13 @@
 {"geometry":{"coordinates":[-76.040455,40.813139],"type":"Point"},"properties":{"a":"40.813139","cty":"SCHUYLKILL","id":8836181,"mun":"RYAN TWP","nc":1,"o":"-76.040455"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.856677,41.261344],"type":"Point"},"properties":{"a":"41.261344","cty":"LUZERNE","id":8836182,"mun":"WILKES-BARRE","nc":4,"o":"-75.856677"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.790629,40.912841],"type":"Point"},"properties":{"a":"40.912841","cty":"NORTHUMBERLAND","id":8836187,"mun":"POINT TWP","nc":1,"o":"-76.790629"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.539353,40.995483],"type":"Point"},"properties":{"a":"40.995483","cty":"CARBON","id":8836189,"mun":"PENN FOREST TWP","nc":3,"o":"-75.539353"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.867496,40.222564],"type":"Point"},"properties":{"a":"40.222564","cty":"CUMBERLAND","id":8836199,"mun":"NEW CUMBERLAND BORO","nc":1,"o":"-76.867496"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.34311,41.29821],"type":"Point"},"properties":{"a":"41.29821","cty":"WAYNE","hp":true,"id":8836200,"mun":"DREHER TWP","nc":38,"ne":{"a":"41.30488","o":"-75.33773"},"o":"-75.34311","sw":{"a":"41.29153","o":"-75.3485"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.373454,41.778885],"type":"Point"},"properties":{"a":"41.778885","cty":"WAYNE","id":8836205,"mun":"MOUNT PLEASANT TWP","nc":1,"o":"-75.373454"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.40897,41.00715],"type":"Point"},"properties":{"a":"41.00715","cty":"COLUMBIA","id":8836216,"mun":"SCOTT TWP","nc":1,"o":"-76.40897"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.365843,41.79292],"type":"Point"},"properties":{"a":"41.79292","cty":"WAYNE","id":8836221,"mun":"MOUNT PLEASANT TWP","nc":1,"o":"-75.365843"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.31217,40.75906],"type":"Point"},"properties":{"a":"40.75906","cty":"SNYDER","hp":true,"id":8836227,"mun":"WEST BEAVER TWP","nc":143,"ne":{"a":"40.77676","o":"-77.27923"},"o":"-77.31217","sw":{"a":"40.74136","o":"-77.34511"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.20955,41.02542],"type":"Point"},"properties":{"a":"41.02542","cty":"MONROE","hp":true,"id":8836228,"mun":"STROUD TWP","nc":8,"ne":{"a":"41.02672","o":"-75.2078"},"o":"-75.20955","sw":{"a":"41.02412","o":"-75.2113"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.20955,41.02542],"type":"Point"},"properties":{"a":"41.02542","cty":"MONROE","hp":true,"id":8836228,"mun":"STROUD TWP","nc":8,"ne":{"a":"41.02672","o":"-75.2078"},"o":"-75.20955","sw":{"a":"41.02412","o":"-75.2113"}},"type":"Feature"},
+{"geometry":{"coordinates":[-77.137895,40.685516],"type":"Point"},"properties":{"a":"40.685516","cty":"SNYDER","id":8836235,"mun":"WEST PERRY TWP","nc":1,"o":"-77.137895"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.640922,41.504008],"type":"Point"},"properties":{"a":"41.504008","cty":"LACKAWANNA","id":8836236,"mun":"SCOTT TWP","nc":15,"o":"-75.640922"},"type":"Feature"}
 ]}
