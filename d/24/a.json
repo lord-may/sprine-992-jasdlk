@@ -2,5 +2,7 @@
 {"geometry":{"coordinates":[-71.326575,41.764736],"type":"Point"},"properties":{"a":"41.764736","cty":"BRISTOL","id":20261071276,"mun":"BARRINGTON","nc":1,"o":"-71.326575"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.46956,41.830365],"type":"Point"},"properties":{"a":"41.830365","cty":"PROVIDENCE","id":20261071279,"mun":"JOHNSTON","nc":1,"o":"-71.46956"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.416612,41.796986],"type":"Point"},"properties":{"a":"41.796986","cty":"PROVIDENCE","id":20261071282,"mun":"PROVIDENCE","nc":1,"o":"-71.416612"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.42511,41.82029],"type":"Point"},"properties":{"a":"41.82029","cty":"PROVIDENCE","hp":true,"id":20261071284,"mun":"PROVIDENCE","nc":80,"ne":{"a":"41.82104","o":"-71.42404"},"o":"-71.42511","sw":{"a":"41.81954","o":"-71.42619"}},"type":"Feature"}
+{"geometry":{"coordinates":[-71.421365,41.798542],"type":"Point"},"properties":{"a":"41.798542","cty":"PROVIDENCE","id":20261071290,"mun":"PROVIDENCE","nc":44,"o":"-71.421365"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.489627,41.649417],"type":"Point"},"properties":{"a":"41.649417","cty":"KENT","id":20261071291,"mun":"EAST GREENWICH","nc":1,"o":"-71.489627"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.423762,41.822088],"type":"Point"},"properties":{"a":"41.822088","cty":"PROVIDENCE","id":20261071292,"mun":"PROVIDENCE","nc":1,"o":"-71.423762"},"type":"Feature"}
 ]}
