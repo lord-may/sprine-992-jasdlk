@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.713609,43.14533],"type":"Point"},"properties":{"EstRest":"","Outages":24,"county":"YORK","customers":132723,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.748886,43.190316],"type":"Point"},"properties":{"EstRest":"","Outages":1,"cause":"","county":"YORK","crewstatus":"     ","customers":141,"hamlet":"YORK","incidentnumber":"0046ME","incidents":1,"level":"street","opco":"CMP","street":"CIDER HILL RD","town":"YORK"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.748886,43.190316],"type":"Point"},"properties":{"EstRest":"","Outages":1,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
