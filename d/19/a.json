@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-77.11955,42.87453],"type":"Point"},"properties":{"EstRest":"11/10/2026 10:15:00 AM","Outages":2,"cause":"","county":"ONTARIO","crewstatus":"DISP ","customers":3,"hamlet":"STANLEY","incidentnumber":"011B9I","incidents":1,"level":"street","opco":"NYSEG","street":"KENNEDY LN","town":"SENECA T"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.11955,42.87453],"type":"Point"},"properties":{"EstRest":"11/10/2026 10:15:00 AM","Outages":2,"county":"ONTARIO","customers":18387,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-73.668777,41.324532],"type":"Point"},"properties":{"EstRest":"11/10/2026 9:45:00 AM","Outages":43,"county":"WESTCHESTER","customers":33728,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
