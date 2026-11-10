@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.488905,41.710049],"type":"Point"},"properties":{"a":"41.710049","cty":"KENT","id":20261071253,"mun":"WARWICK","nc":1,"o":"-71.488905"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.350607,41.745357],"type":"Point"},"properties":{"a":"41.745357","cty":"BRISTOL","id":20261071258,"mun":"BARRINGTON","nc":1,"o":"-71.350607"},"type":"Feature"}
 ]}
