@@ -1,10 +1,7 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.66561,41.349538],"type":"Point"},"properties":{"a":"41.349538","cty":"LACKAWANNA","id":8835993,"mun":"SCRANTON","nc":5,"o":"-75.66561"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.386302,40.675132],"type":"Point"},"properties":{"a":"40.675132","cty":"NORTHAMPTON","id":8835997,"mun":"HANOVER TWP","nc":1,"o":"-75.386302"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.401464,40.632229],"type":"Point"},"properties":{"a":"40.632229","cty":"LEHIGH","id":8836002,"mun":"BETHLEHEM","nc":6,"o":"-75.401464"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.897965,41.211163],"type":"Point"},"properties":{"a":"41.211163","cty":"LUZERNE","id":8836072,"mun":"HANOVER TWP","nc":39,"o":"-75.897965"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.926171,40.721961],"type":"Point"},"properties":{"a":"40.721961","cty":"SNYDER","id":8836092,"mun":"UNION TWP","nc":2,"o":"-76.926171"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.27743,41.560972],"type":"Point"},"properties":{"a":"41.560972","cty":"WAYNE","id":8836096,"mun":"CHERRY RIDGE TWP","nc":2,"o":"-75.27743"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.229641,39.754385],"type":"Point"},"properties":{"a":"39.754385","cty":"LANCASTER","id":8836115,"mun":"FULTON TWP","nc":11,"o":"-76.229641"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.535936,40.785421],"type":"Point"},"properties":{"a":"40.785421","cty":"NORTHUMBERLAND","id":8836125,"mun":"COAL TWP","nc":4,"o":"-76.535936"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.410739,41.006413],"type":"Point"},"properties":{"a":"41.006413","cty":"COLUMBIA","id":8836132,"mun":"SCOTT TWP","nc":10,"o":"-76.410739"},"type":"Feature"},
@@ -15,7 +12,6 @@
 {"geometry":{"coordinates":[-75.56442,41.14951],"type":"Point"},"properties":{"a":"41.14951","cty":"MONROE","hp":true,"id":8836157,"mun":"TOBYHANNA TWP","nc":115,"ne":{"a":"41.15297","o":"-75.56222"},"o":"-75.56442","sw":{"a":"41.14604","o":"-75.56663"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.278183,41.560847],"type":"Point"},"properties":{"a":"41.560847","cty":"WAYNE","id":8836165,"mun":"CHERRY RIDGE TWP","nc":1,"o":"-75.278183"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.962557,41.263228],"type":"Point"},"properties":{"a":"41.263228","cty":"LYCOMING","id":8836167,"mun":"LOYALSOCK TWP","nc":7,"o":"-76.962557"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.668935,40.274029],"type":"Point"},"properties":{"a":"40.274029","cty":"DAUPHIN","id":8836170,"mun":"DERRY TWP","nc":8,"o":"-76.668935"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.503729,40.934718],"type":"Point"},"properties":{"a":"40.934718","cty":"MONROE","id":8836180,"mun":"POLK TWP","nc":4,"o":"-75.503729"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.040455,40.813139],"type":"Point"},"properties":{"a":"40.813139","cty":"SCHUYLKILL","id":8836181,"mun":"RYAN TWP","nc":1,"o":"-76.040455"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.856677,41.261344],"type":"Point"},"properties":{"a":"41.261344","cty":"LUZERNE","id":8836182,"mun":"WILKES-BARRE","nc":4,"o":"-75.856677"},"type":"Feature"},
