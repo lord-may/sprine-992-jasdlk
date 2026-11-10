@@ -1,6 +1,8 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.815918,41.383585],"type":"Point"},"properties":{"a":"41.383585","cty":"WASHINGTON","id":20261071302,"mun":"WESTERLY","nc":16,"o":"-71.815918"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.538035,41.588634],"type":"Point"},"properties":{"a":"41.588634","cty":"WASHINGTON","id":20261071303,"mun":"EXETER","nc":1,"o":"-71.538035"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.823581,41.369726],"type":"Point"},"properties":{"a":"41.369726","cty":"WASHINGTON","id":20261071305,"mun":"WESTERLY","nc":1,"o":"-71.823581"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.309934,41.495429],"type":"Point"},"properties":{"a":"41.495429","cty":"NEWPORT","id":20261071307,"mun":"NEWPORT","nc":1,"o":"-71.309934"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.442472,41.714333],"type":"Point"},"properties":{"a":"41.714333","cty":"KENT","id":20261071309,"mun":"WARWICK","nc":1,"o":"-71.442472"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.457682,41.977428],"type":"Point"},"properties":{"a":"41.977428","cty":"PROVIDENCE","id":20261071311,"mun":"CUMBERLAND","nc":1,"o":"-71.457682"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.440815,41.851513],"type":"Point"},"properties":{"a":"41.851513","cty":"PROVIDENCE","id":20261071312,"mun":"PROVIDENCE","nc":1,"o":"-71.440815"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.309934,41.495429],"type":"Point"},"properties":{"a":"41.495429","cty":"NEWPORT","id":20261071313,"mun":"NEWPORT","nc":27,"o":"-71.309934"},"type":"Feature"}
 ]}
