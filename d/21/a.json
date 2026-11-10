@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.749724,44.636348],"type":"Point"},"properties":{"EstRest":"11/10/2026 4:30:00 PM","Outages":7,"cause":"","county":"OXFORD","crewstatus":"ONST ","customers":7,"hamlet":"ANDOVER","incidentnumber":"0046PA","incidents":1,"level":"street","opco":"CMP","street":"MAPLE ST","town":"ANDOVER"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.749724,44.636348],"type":"Point"},"properties":{"EstRest":"11/10/2026 4:30:00 PM","Outages":8,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.717639,43.306854],"type":"Point"},"properties":{"EstRest":"11/10/2026 5:45:00 PM","Outages":1,"cause":"","county":"YORK","crewstatus":"DISP ","customers":89,"hamlet":"NORTH BERWICK","incidentnumber":"0046PI","incidents":1,"level":"street","opco":"CMP","street":"WELLS ST","town":"NORTH BERWICK"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.717639,43.306854],"type":"Point"},"properties":{"EstRest":"11/10/2026 5:45:00 PM","Outages":1,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
