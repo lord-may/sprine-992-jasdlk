@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.30826,41.499929],"type":"Point"},"properties":{"a":"41.499929","cty":"NEWPORT","id":20261071318,"mun":"NEWPORT","nc":33,"o":"-71.30826"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.527566,41.433753],"type":"Point"},"properties":{"a":"41.433753","cty":"WASHINGTON","id":20261071321,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.527566"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.499162,41.868032],"type":"Point"},"properties":{"a":"41.868032","cty":"PROVIDENCE","id":20261071325,"mun":"JOHNSTON","nc":1,"o":"-71.499162"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.314735,41.494567],"type":"Point"},"properties":{"a":"41.494567","cty":"NEWPORT","id":20261071327,"mun":"NEWPORT","nc":1,"o":"-71.314735"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.499162,41.868032],"type":"Point"},"properties":{"a":"41.868032","cty":"PROVIDENCE","id":20261071325,"mun":"JOHNSTON","nc":1,"o":"-71.499162"},"type":"Feature"}
 ]}
