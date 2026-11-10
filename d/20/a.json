@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.568631,43.190079],"type":"Point"},"properties":{"EstRest":"11/9/2026 10:30:00 PM","Outages":147,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":197,"hamlet":"ROCHESTER","incidentnumber":"011B8I","incidents":1,"level":"street","opco":"RGE","street":"STRATHMORE CIR","town":"IRONDEQUOIT"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.570224,43.190977],"type":"Point"},"properties":{"EstRest":"11/9/2026 10:30:00 PM","Outages":185,"county":"MONROE","customers":303529,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.566656,43.187527],"type":"Point"},"properties":{"EstRest":"11/9/2026 11:15:00 PM","Outages":13,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":27,"hamlet":"ROCHESTER","incidentnumber":"011B8O","incidents":1,"level":"street","opco":"RGE","street":"VILLAGE WAY","town":"ROCHESTER"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.570224,43.190977],"type":"Point"},"properties":{"EstRest":"11/9/2026 11:15:00 PM","Outages":371,"county":"MONROE","customers":303529,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
