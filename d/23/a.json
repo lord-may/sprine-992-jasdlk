@@ -7,7 +7,6 @@
 {"geometry":{"coordinates":[-75.438449,40.568446],"type":"Point"},"properties":{"a":"40.568446","cty":"LEHIGH","id":8835808,"mun":"SALISBURY TWP","nc":1,"o":"-75.438449"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.859937,40.267542],"type":"Point"},"properties":{"a":"40.267542","cty":"DAUPHIN","id":8835837,"mun":"HARRISBURG","nc":1,"o":"-76.859937"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.83751,40.237948],"type":"Point"},"properties":{"a":"40.237948","cty":"DAUPHIN","id":8835844,"mun":"STEELTON BORO","nc":1,"o":"-76.83751"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.493633,40.636684],"type":"Point"},"properties":{"a":"40.636684","cty":"SCHUYLKILL","id":8835879,"mun":"HEGINS TWP","nc":1,"o":"-76.493633"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.643025,40.677731],"type":"Point"},"properties":{"a":"40.677731","cty":"LEHIGH","id":8835882,"mun":"HEIDELBERG TWP","nc":2,"o":"-75.643025"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.769634,40.327661],"type":"Point"},"properties":{"a":"40.327661","cty":"DAUPHIN","id":8835883,"mun":"LOWER PAXTON TWP","nc":2,"o":"-76.769634"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.769634,40.327661],"type":"Point"},"properties":{"a":"40.327661","cty":"DAUPHIN","id":8835883,"mun":"LOWER PAXTON TWP","nc":2,"o":"-76.769634"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.498324,40.400735],"type":"Point"},"properties":{"a":"40.400735","cty":"MONTGOMERY","id":8835885,"mun":"UPPER HANOVER TWP","nc":1,"o":"-75.498324"},"type":"Feature"}
 ]}
