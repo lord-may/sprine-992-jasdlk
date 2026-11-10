@@ -20,11 +20,15 @@
 {"geometry":{"coordinates":[-76.905302,40.165571],"type":"Point"},"properties":{"a":"40.165571","cty":"YORK","id":8836000,"mun":"FAIRVIEW TWP","nc":1,"o":"-76.905302"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.401464,40.632229],"type":"Point"},"properties":{"a":"40.632229","cty":"LEHIGH","id":8836002,"mun":"BETHLEHEM","nc":6,"o":"-75.401464"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.297898,39.973392],"type":"Point"},"properties":{"a":"39.973392","cty":"LANCASTER","id":8836004,"mun":"PEQUEA TWP","nc":9,"o":"-76.297898"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.931749,40.199192],"type":"Point"},"properties":{"a":"40.199192","cty":"CUMBERLAND","id":8836013,"mun":"LOWER ALLEN TWP","nc":2,"o":"-76.931749"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.933094,40.198601],"type":"Point"},"properties":{"a":"40.198601","cty":"CUMBERLAND","id":8836013,"mun":"LOWER ALLEN TWP","nc":6,"o":"-76.933094"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.298429,40.995574],"type":"Point"},"properties":{"a":"40.995574","cty":"MONROE","id":8836025,"mun":"JACKSON TWP","nc":1,"o":"-75.298429"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.250988,41.053678],"type":"Point"},"properties":{"a":"41.053678","cty":"COLUMBIA","id":8836028,"mun":"BERWICK BORO","nc":3,"o":"-76.250988"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.3507,41.29154],"type":"Point"},"properties":{"a":"41.29154","cty":"WAYNE","hp":true,"id":8836029,"mun":"DREHER TWP","nc":6,"ne":{"a":"41.29263","o":"-75.34628"},"o":"-75.3507","sw":{"a":"41.29045","o":"-75.35512"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.401756,40.633982],"type":"Point"},"properties":{"a":"40.633982","cty":"LEHIGH","id":8836030,"mun":"BETHLEHEM","nc":6,"o":"-75.401756"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.238027,40.673054],"type":"Point"},"properties":{"a":"40.673054","cty":"SCHUYLKILL","id":8836034,"mun":"BRANCH TWP","nc":1,"o":"-76.238027"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.230157,39.75471],"type":"Point"},"properties":{"a":"39.75471","cty":"LANCASTER","id":8836041,"mun":"FULTON TWP","nc":4,"o":"-76.230157"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.230157,39.75471],"type":"Point"},"properties":{"a":"39.75471","cty":"LANCASTER","id":8836041,"mun":"FULTON TWP","nc":4,"o":"-76.230157"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.791299,40.912664],"type":"Point"},"properties":{"a":"40.912664","cty":"NORTHUMBERLAND","id":8836053,"mun":"POINT TWP","nc":1,"o":"-76.791299"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.831487,40.228698],"type":"Point"},"properties":{"a":"40.228698","cty":"DAUPHIN","id":8836055,"mun":"STEELTON BORO","nc":1,"o":"-76.831487"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.967823,40.258612],"type":"Point"},"properties":{"a":"40.258612","cty":"CUMBERLAND","id":8836057,"mun":"HAMPDEN TWP","nc":1,"o":"-76.967823"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.923937,40.710312],"type":"Point"},"properties":{"a":"40.710312","cty":"SNYDER","id":8836058,"mun":"CHAPMAN TWP","nc":1,"o":"-76.923937"},"type":"Feature"}
 ]}
