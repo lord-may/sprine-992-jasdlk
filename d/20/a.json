@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-77.579399,43.171852],"type":"Point"},"properties":{"EstRest":"11/10/2026 2:45:00 AM","Outages":1,"cause":"System Upgrade","county":"MONROE","crewstatus":"DISP ","customers":770,"hamlet":"ROCHESTER","incidentnumber":"011B8X","incidents":1,"level":"street","opco":"RGE","street":"GOODMAN ST N","town":"ROCHESTER"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.579399,43.171852],"type":"Point"},"properties":{"EstRest":"11/10/2026 2:45:00 AM","Outages":1,"county":"MONROE","customers":303529,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
