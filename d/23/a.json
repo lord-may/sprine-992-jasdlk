@@ -9,6 +9,5 @@
 {"geometry":{"coordinates":[-76.641882,40.755045],"type":"Point"},"properties":{"a":"40.755045","cty":"NORTHUMBERLAND","id":8836323,"mun":"WEST CAMERON TWP","nc":7,"o":"-76.641882"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.31957,40.746166],"type":"Point"},"properties":{"a":"40.746166","cty":"SNYDER","id":8836325,"mun":"WEST BEAVER TWP","nc":1,"o":"-77.31957"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.495292,40.562625],"type":"Point"},"properties":{"a":"40.562625","cty":"LEHIGH","id":8836328,"mun":"ALLENTOWN","nc":9,"o":"-75.495292"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.845242,41.284514],"type":"Point"},"properties":{"a":"41.284514","cty":"LUZERNE","id":8836344,"mun":"PLAINS TWP","nc":11,"o":"-75.845242"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.521044,40.954484],"type":"Point"},"properties":{"a":"40.954484","cty":"MONROE","id":8836348,"mun":"POLK TWP","nc":1,"o":"-75.521044"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.845242,41.284514],"type":"Point"},"properties":{"a":"41.284514","cty":"LUZERNE","id":8836344,"mun":"PLAINS TWP","nc":11,"o":"-75.845242"},"type":"Feature"}
 ]}
