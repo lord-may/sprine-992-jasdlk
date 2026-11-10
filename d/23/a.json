@@ -13,5 +13,6 @@
 {"geometry":{"coordinates":[-75.36919,41.78584],"type":"Point"},"properties":{"a":"41.78584","cty":"WAYNE","hp":true,"id":8836253,"mun":"MOUNT PLEASANT TWP","nc":19,"ne":{"a":"41.79379","o":"-75.36492"},"o":"-75.36919","sw":{"a":"41.77789","o":"-75.37345"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.235889,40.026946],"type":"Point"},"properties":{"a":"40.026946","cty":"LANCASTER","id":8836256,"mun":"EAST LAMPETER TWP","nc":1,"o":"-76.235889"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.990238,40.374454],"type":"Point"},"properties":{"a":"40.374454","cty":"DAUPHIN","id":8836257,"mun":"MIDDLE PAXTON TWP","nc":2,"o":"-76.990238"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.475359,40.640272],"type":"Point"},"properties":{"a":"40.640272","cty":"LEHIGH","id":8836262,"mun":"WHITEHALL TWP","nc":1,"o":"-75.475359"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.475359,40.640272],"type":"Point"},"properties":{"a":"40.640272","cty":"LEHIGH","id":8836262,"mun":"WHITEHALL TWP","nc":1,"o":"-75.475359"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.868705,40.263198],"type":"Point"},"properties":{"a":"40.263198","cty":"DAUPHIN","id":8836271,"mun":"HARRISBURG","nc":4,"o":"-76.868705"},"type":"Feature"}
 ]}
