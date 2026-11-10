@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.456214,44.070714],"type":"Point"},"properties":{"EstRest":"11/9/2026 9:00:00 PM","Outages":72,"county":"LINCOLN","customers":29091,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.713609,43.14533],"type":"Point"},"properties":{"EstRest":"","Outages":24,"county":"YORK","customers":132723,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}

@@ -3,10 +3,9 @@
 {"geometry":{"coordinates":[-76.074198,41.002169],"type":"Point"},"properties":{"a":"41.002169","cty":"LUZERNE","id":8835703,"mun":"SUGARLOAF TWP","nc":6,"o":"-76.074198"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.496758,40.638565],"type":"Point"},"properties":{"a":"40.638565","cty":"SCHUYLKILL","id":8835745,"mun":"HEGINS TWP","nc":2,"o":"-76.496758"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.91609,40.22564],"type":"Point"},"properties":{"a":"40.22564","cty":"NA","hp":true,"id":8835750,"mun":"NA","nc":201,"ne":{"a":"40.22704","o":"-76.914"},"o":"-76.91609","sw":{"a":"40.22424","o":"-76.91818"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.837917,40.237576],"type":"Point"},"properties":{"a":"40.237576","cty":"DAUPHIN","id":8835765,"mun":"STEELTON BORO","nc":27,"o":"-76.837917"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.438449,40.568446],"type":"Point"},"properties":{"a":"40.568446","cty":"LEHIGH","id":8835808,"mun":"SALISBURY TWP","nc":1,"o":"-75.438449"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.859937,40.267542],"type":"Point"},"properties":{"a":"40.267542","cty":"DAUPHIN","id":8835837,"mun":"HARRISBURG","nc":1,"o":"-76.859937"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.83751,40.237948],"type":"Point"},"properties":{"a":"40.237948","cty":"DAUPHIN","id":8835844,"mun":"STEELTON BORO","nc":1,"o":"-76.83751"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.769634,40.327661],"type":"Point"},"properties":{"a":"40.327661","cty":"DAUPHIN","id":8835883,"mun":"LOWER PAXTON TWP","nc":2,"o":"-76.769634"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.498324,40.400735],"type":"Point"},"properties":{"a":"40.400735","cty":"MONTGOMERY","id":8835885,"mun":"UPPER HANOVER TWP","nc":1,"o":"-75.498324"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.745543,41.361585],"type":"Point"},"properties":{"a":"41.361585","cty":"LACKAWANNA","id":8835888,"mun":"OLD FORGE BORO","nc":1,"o":"-75.745543"},"type":"Feature"}
 ]}
