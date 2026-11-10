@@ -7,7 +7,6 @@
 {"geometry":{"coordinates":[-76.571609,40.78872],"type":"Point"},"properties":{"a":"40.78872","cty":"NORTHUMBERLAND","id":8835966,"mun":"COAL TWP","nc":15,"o":"-76.571609"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.531856,40.788064],"type":"Point"},"properties":{"a":"40.788064","cty":"NORTHUMBERLAND","id":8835974,"mun":"COAL TWP","nc":9,"o":"-76.531856"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.290304,40.353335],"type":"Point"},"properties":{"a":"40.353335","cty":"BUCKS","id":8835981,"mun":"HILLTOWN TWP","nc":2,"o":"-75.290304"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.518549,40.473198],"type":"Point"},"properties":{"a":"40.473198","cty":"LEHIGH","id":8835983,"mun":"UPPER MILFORD TWP","nc":1,"o":"-75.518549"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.66561,41.349538],"type":"Point"},"properties":{"a":"41.349538","cty":"LACKAWANNA","id":8835993,"mun":"SCRANTON","nc":5,"o":"-75.66561"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.386302,40.675132],"type":"Point"},"properties":{"a":"40.675132","cty":"NORTHAMPTON","id":8835997,"mun":"HANOVER TWP","nc":1,"o":"-75.386302"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.401464,40.632229],"type":"Point"},"properties":{"a":"40.632229","cty":"LEHIGH","id":8836002,"mun":"BETHLEHEM","nc":6,"o":"-75.401464"},"type":"Feature"},
@@ -31,5 +30,9 @@
 {"geometry":{"coordinates":[-77.067383,41.306578],"type":"Point"},"properties":{"a":"41.306578","cty":"LYCOMING","id":8836076,"mun":"HEPBURN TWP","nc":1,"o":"-77.067383"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.004829,41.24427],"type":"Point"},"properties":{"a":"41.24427","cty":"LYCOMING","id":8836080,"mun":"WILLIAMSPORT","nc":51,"o":"-77.004829"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.135728,41.037638],"type":"Point"},"properties":{"a":"41.037638","cty":"LUZERNE","id":8836081,"mun":"NESCOPECK TWP","nc":3,"o":"-76.135728"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.475583,40.636846],"type":"Point"},"properties":{"a":"40.636846","cty":"LEHIGH","id":8836082,"mun":"WHITEHALL TWP","nc":1,"o":"-75.475583"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.475583,40.636846],"type":"Point"},"properties":{"a":"40.636846","cty":"LEHIGH","id":8836082,"mun":"WHITEHALL TWP","nc":1,"o":"-75.475583"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.914647,41.235566],"type":"Point"},"properties":{"a":"41.235566","cty":"LUZERNE","id":8836084,"mun":"WILKES-BARRE","nc":4,"o":"-75.914647"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.278766,41.561025],"type":"Point"},"properties":{"a":"41.561025","cty":"WAYNE","id":8836085,"mun":"CHERRY RIDGE TWP","nc":1,"o":"-75.278766"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.65554,40.879553],"type":"Point"},"properties":{"a":"40.879553","cty":"NORTHUMBERLAND","id":8836088,"mun":"SNYDERTOWN BORO","nc":1,"o":"-76.65554"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.109467,40.997717],"type":"Point"},"properties":{"a":"40.997717","cty":"LUZERNE","id":8836089,"mun":"SUGARLOAF TWP","nc":3,"o":"-76.109467"},"type":"Feature"}
 ]}

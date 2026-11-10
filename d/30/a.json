@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-72.317282,44.995334],"type":"Point"},"properties":{"cause":"UNKNOWN","crewAssigned":true,"estimateTime":1794330900000,"id":"849930","nbrOut":1,"timeOff":1794319935244},"type":"Feature"},
 {"geometry":{"geometries":[{"coordinates":[[[-73.225254,44.99029],[-73.223772,44.992094],[-73.224553,44.992183],[-73.235145,44.991764],[-73.225254,44.99029]]],"type":"Polygon"},{"coordinates":[-73.228048,44.991421],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"ANIMALS","comment":"Cause is being assessed. Crews have been dispatched. Thank you for your patience.","crewAssigned":false,"estimateTime":1794332700000,"id":"849935","nbrOut":20,"timeOff":1794321480000},"type":"Feature"}
 ]}
