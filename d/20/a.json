@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.707045,43.040874],"type":"Point"},"properties":{"EstRest":"11/10/2026 3:00:00 AM","Outages":149,"county":"MONROE","customers":303529,"incidents":2,"level":"county","opco":"RGE"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.707045,43.040874],"type":"Point"},"properties":{"EstRest":"11/10/2026 3:45:00 AM","Outages":165,"county":"MONROE","customers":303529,"incidents":3,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
