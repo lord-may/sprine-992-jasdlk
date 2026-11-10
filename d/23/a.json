@@ -5,6 +5,5 @@
 {"geometry":{"coordinates":[-75.276026,41.243119],"type":"Point"},"properties":{"a":"41.243119","cty":"MONROE","id":8836246,"mun":"BARRETT TWP","nc":2,"o":"-75.276026"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.81945,40.23143],"type":"Point"},"properties":{"a":"40.23143","cty":"DAUPHIN","hp":true,"id":8836274,"mun":"STEELTON BORO","nc":670,"ne":{"a":"40.23767","o":"-76.81374"},"o":"-76.81945","sw":{"a":"40.22519","o":"-76.82516"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.434646,41.334155],"type":"Point"},"properties":{"a":"41.334155","cty":"WAYNE","id":8836295,"mun":"STERLING TWP","nc":1,"o":"-75.434646"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.4422,41.1353],"type":"Point"},"properties":{"a":"41.1353","cty":"COLUMBIA","hp":true,"id":8836303,"mun":"GREENWOOD TWP","nc":965,"ne":{"a":"41.18517","o":"-76.36647"},"o":"-76.4422","sw":{"a":"41.08543","o":"-76.51793"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.531056,41.125974],"type":"Point"},"properties":{"a":"41.125974","cty":"COLUMBIA","id":8836307,"mun":"MILLVILLE BORO","nc":2,"o":"-76.531056"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.4422,41.1353],"type":"Point"},"properties":{"a":"41.1353","cty":"COLUMBIA","hp":true,"id":8836303,"mun":"GREENWOOD TWP","nc":965,"ne":{"a":"41.18517","o":"-76.36647"},"o":"-76.4422","sw":{"a":"41.08543","o":"-76.51793"}},"type":"Feature"}
 ]}
