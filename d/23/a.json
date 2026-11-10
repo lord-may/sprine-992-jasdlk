@@ -38,5 +38,8 @@
 {"geometry":{"coordinates":[-76.410739,41.006413],"type":"Point"},"properties":{"a":"41.006413","cty":"COLUMBIA","id":8836132,"mun":"SCOTT TWP","nc":10,"o":"-76.410739"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.3804,40.643875],"type":"Point"},"properties":{"a":"40.643875","cty":"NORTHAMPTON","id":8836135,"mun":"BETHLEHEM","nc":2,"o":"-75.3804"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.05028,41.618387],"type":"Point"},"properties":{"a":"41.618387","cty":"WAYNE","id":8836136,"mun":"DAMASCUS TWP","nc":5,"o":"-75.05028"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.629202,41.316623],"type":"Point"},"properties":{"a":"41.316623","cty":"LYCOMING","id":8836142,"mun":"PENN TWP","nc":1,"o":"-76.629202"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.629202,41.316623],"type":"Point"},"properties":{"a":"41.316623","cty":"LYCOMING","id":8836142,"mun":"PENN TWP","nc":1,"o":"-76.629202"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.777509,41.389407],"type":"Point"},"properties":{"a":"41.389407","cty":"LACKAWANNA","id":8836144,"mun":"RANSOM TWP","nc":4,"o":"-75.777509"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.615977,41.654345],"type":"Point"},"properties":{"a":"41.654345","cty":"SUSQUEHANNA","id":8836146,"mun":"CLIFFORD TWP","nc":5,"o":"-75.615977"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.630358,41.447927],"type":"Point"},"properties":{"a":"41.447927","cty":"LACKAWANNA","id":8836148,"mun":"THROOP BORO","nc":1,"o":"-75.630358"},"type":"Feature"}
 ]}

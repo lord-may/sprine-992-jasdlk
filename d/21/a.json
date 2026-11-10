@@ -1,5 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.668554,43.848641],"type":"Point"},"properties":{"EstRest":"11/10/2026 1:15:00 PM","Outages":3,"county":"LINCOLN","customers":29091,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.668896,43.849213],"type":"Point"},"properties":{"EstRest":"11/10/2026 1:15:00 PM","Outages":2,"cause":"","county":"LINCOLN","crewstatus":"ONST ","customers":25,"hamlet":"SOUTHPORT","incidentnumber":"0046OF","incidents":1,"level":"street","opco":"CMP","street":"CAMERONS POINT RD","town":"SOUTHPORT"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.420236,43.442496],"type":"Point"},"properties":{"EstRest":"11/10/2026 1:15:00 PM","Outages":87,"county":"YORK","customers":132723,"incidents":3,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
