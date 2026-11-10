@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-77.480376,43.110123],"type":"Point"},"properties":{"EstRest":"11/10/2026 10:15:00 AM","Outages":37,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":60,"hamlet":"EAST ROCHESTER","incidentnumber":"011B9E","incidents":1,"level":"street","opco":"RGE","street":"EAST AVE","town":"E ROCH V E ROCHESTER"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.480376,43.110123],"type":"Point"},"properties":{"EstRest":"11/10/2026 10:15:00 AM","Outages":37,"county":"MONROE","customers":303529,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}

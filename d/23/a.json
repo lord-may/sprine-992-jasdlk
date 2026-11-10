@@ -8,5 +8,9 @@
 {"geometry":{"coordinates":[-75.28871,41.12719],"type":"Point"},"properties":{"a":"41.12719","cty":"MONROE","hp":true,"id":8835936,"mun":"PARADISE TWP","nc":31,"ne":{"a":"41.12819","o":"-75.28498"},"o":"-75.28871","sw":{"a":"41.1262","o":"-75.29244"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.777509,41.389407],"type":"Point"},"properties":{"a":"41.389407","cty":"LACKAWANNA","id":8835938,"mun":"RANSOM TWP","nc":4,"o":"-75.777509"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.115106,40.244905],"type":"Point"},"properties":{"a":"40.244905","cty":"LANCASTER","id":8835943,"mun":"EAST COCALICO TWP","nc":4,"o":"-76.115106"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.109467,40.997717],"type":"Point"},"properties":{"a":"40.997717","cty":"LUZERNE","id":8835945,"mun":"SUGARLOAF TWP","nc":3,"o":"-76.109467"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.109467,40.997717],"type":"Point"},"properties":{"a":"40.997717","cty":"LUZERNE","id":8835945,"mun":"SUGARLOAF TWP","nc":3,"o":"-76.109467"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.067567,39.926504],"type":"Point"},"properties":{"a":"39.926504","cty":"LANCASTER","id":8835946,"mun":"BART TWP","nc":3,"o":"-76.067567"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.809598,40.383935],"type":"Point"},"properties":{"a":"40.383935","cty":"DAUPHIN","id":8835947,"mun":"MIDDLE PAXTON TWP","nc":2,"o":"-76.809598"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.64725,41.52825],"type":"Point"},"properties":{"a":"41.52825","cty":"LACKAWANNA","hp":true,"id":8835948,"mun":"SCOTT TWP","nc":20,"ne":{"a":"41.53085","o":"-75.64477"},"o":"-75.64725","sw":{"a":"41.52565","o":"-75.64973"}},"type":"Feature"},
+{"geometry":{"coordinates":[-77.230606,41.068101],"type":"Point"},"properties":{"a":"41.068101","cty":"CLINTON","id":8835949,"mun":"GREENE TWP","nc":1,"o":"-77.230606"},"type":"Feature"}
 ]}

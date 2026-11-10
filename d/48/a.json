@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-72.097757,41.529051],"type":"Point"},"properties":{"ADDRESS":"10 TEACHERS DR, NORWICH, CT, 06360","CUSTOMER_COUNT":5,"DEVICE_OID":2656,"FACILITY_ID":"FUS-6677","FEEDER_ID":"513","GDB_GEOMATTR_DATA":"","ID":45211,"INCIDENT_ID":50399,"OBJECTID":7872,"ORIG_FID":null,"REGION":2,"RxOID":2656,"TIME_OUTAGE":"11/10/2026 06:25 AM","TIME_RESTORED_EST":"Is still under review"},"type":"Feature"}
+
 ]}

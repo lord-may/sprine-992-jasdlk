@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-73.682092,41.251231],"type":"Point"},"properties":{"EstRest":"11/10/2026 9:30:00 AM","Outages":8,"cause":"System Upgrade","county":"WESTCHESTER","crewstatus":"ONST ","customers":104,"hamlet":"KATONAH","incidentnumber":"011B95","incidents":1,"level":"street","opco":"NYSEG","street":"BEDFORD RD","town":"BEDFORD T"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.682092,41.251231],"type":"Point"},"properties":{"EstRest":"11/10/2026 9:30:00 AM","Outages":8,"county":"WESTCHESTER","customers":33728,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+{"geometry":{"coordinates":[-73.668777,41.324532],"type":"Point"},"properties":{"EstRest":"11/10/2026 9:45:00 AM","Outages":43,"county":"WESTCHESTER","customers":33728,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
