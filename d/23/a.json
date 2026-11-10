@@ -7,5 +7,6 @@
 {"geometry":{"coordinates":[-75.39328,41.12475],"type":"Point"},"properties":{"a":"41.12475","cty":"MONROE","hp":true,"id":8835933,"mun":"COOLBAUGH TWP","nc":70,"ne":{"a":"41.12856","o":"-75.39182"},"o":"-75.39328","sw":{"a":"41.12094","o":"-75.39475"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.28871,41.12719],"type":"Point"},"properties":{"a":"41.12719","cty":"MONROE","hp":true,"id":8835936,"mun":"PARADISE TWP","nc":31,"ne":{"a":"41.12819","o":"-75.28498"},"o":"-75.28871","sw":{"a":"41.1262","o":"-75.29244"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.777509,41.389407],"type":"Point"},"properties":{"a":"41.389407","cty":"LACKAWANNA","id":8835938,"mun":"RANSOM TWP","nc":4,"o":"-75.777509"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.115106,40.244905],"type":"Point"},"properties":{"a":"40.244905","cty":"LANCASTER","id":8835943,"mun":"EAST COCALICO TWP","nc":4,"o":"-76.115106"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.115106,40.244905],"type":"Point"},"properties":{"a":"40.244905","cty":"LANCASTER","id":8835943,"mun":"EAST COCALICO TWP","nc":4,"o":"-76.115106"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.109467,40.997717],"type":"Point"},"properties":{"a":"40.997717","cty":"LUZERNE","id":8835945,"mun":"SUGARLOAF TWP","nc":3,"o":"-76.109467"},"type":"Feature"}
 ]}
