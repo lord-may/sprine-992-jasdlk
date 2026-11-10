@@ -5,7 +5,6 @@
 {"geometry":{"coordinates":[-76.88222,40.982965],"type":"Point"},"properties":{"a":"40.982965","cty":"UNION","id":8835961,"mun":"KELLY TWP","nc":2,"o":"-76.88222"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.361659,41.152009],"type":"Point"},"properties":{"a":"41.152009","cty":"COLUMBIA","id":8835964,"mun":"FISHING CREEK TWP","nc":1,"o":"-76.361659"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.571609,40.78872],"type":"Point"},"properties":{"a":"40.78872","cty":"NORTHUMBERLAND","id":8835966,"mun":"COAL TWP","nc":15,"o":"-76.571609"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.290304,40.353335],"type":"Point"},"properties":{"a":"40.353335","cty":"BUCKS","id":8835981,"mun":"HILLTOWN TWP","nc":2,"o":"-75.290304"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.66561,41.349538],"type":"Point"},"properties":{"a":"41.349538","cty":"LACKAWANNA","id":8835993,"mun":"SCRANTON","nc":5,"o":"-75.66561"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.386302,40.675132],"type":"Point"},"properties":{"a":"40.675132","cty":"NORTHAMPTON","id":8835997,"mun":"HANOVER TWP","nc":1,"o":"-75.386302"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.401464,40.632229],"type":"Point"},"properties":{"a":"40.632229","cty":"LEHIGH","id":8836002,"mun":"BETHLEHEM","nc":6,"o":"-75.401464"},"type":"Feature"},
@@ -13,7 +12,6 @@
 {"geometry":{"coordinates":[-75.298429,40.995574],"type":"Point"},"properties":{"a":"40.995574","cty":"MONROE","id":8836025,"mun":"JACKSON TWP","nc":1,"o":"-75.298429"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.250988,41.053678],"type":"Point"},"properties":{"a":"41.053678","cty":"COLUMBIA","id":8836028,"mun":"BERWICK BORO","nc":3,"o":"-76.250988"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.3507,41.29154],"type":"Point"},"properties":{"a":"41.29154","cty":"WAYNE","hp":true,"id":8836029,"mun":"DREHER TWP","nc":6,"ne":{"a":"41.29263","o":"-75.34628"},"o":"-75.3507","sw":{"a":"41.29045","o":"-75.35512"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.401756,40.633982],"type":"Point"},"properties":{"a":"40.633982","cty":"LEHIGH","id":8836030,"mun":"BETHLEHEM","nc":6,"o":"-75.401756"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.791299,40.912664],"type":"Point"},"properties":{"a":"40.912664","cty":"NORTHUMBERLAND","id":8836053,"mun":"POINT TWP","nc":1,"o":"-76.791299"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.967823,40.258612],"type":"Point"},"properties":{"a":"40.258612","cty":"CUMBERLAND","id":8836057,"mun":"HAMPDEN TWP","nc":1,"o":"-76.967823"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.837574,41.246874],"type":"Point"},"properties":{"a":"41.246874","cty":"LUZERNE","id":8836062,"mun":"PLAINS TWP","nc":12,"o":"-75.837574"},"type":"Feature"},
@@ -35,5 +33,10 @@
 {"geometry":{"coordinates":[-75.346982,40.658206],"type":"Point"},"properties":{"a":"40.658206","cty":"NORTHAMPTON","id":8836108,"mun":"BETHLEHEM","nc":6,"o":"-75.346982"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.455639,40.730089],"type":"Point"},"properties":{"a":"40.730089","cty":"SCHUYLKILL","id":8836113,"mun":"ELDRED TWP","nc":1,"o":"-76.455639"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.944763,41.132597],"type":"Point"},"properties":{"a":"41.132597","cty":"LUZERNE","id":8836114,"mun":"RICE TWP","nc":1,"o":"-75.944763"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.229641,39.754385],"type":"Point"},"properties":{"a":"39.754385","cty":"LANCASTER","id":8836115,"mun":"FULTON TWP","nc":11,"o":"-76.229641"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.229641,39.754385],"type":"Point"},"properties":{"a":"39.754385","cty":"LANCASTER","id":8836115,"mun":"FULTON TWP","nc":11,"o":"-76.229641"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.11043,41.4907],"type":"Point"},"properties":{"a":"41.4907","cty":"PIKE","hp":true,"id":8836117,"mun":"LACKAWAXEN TWP","nc":42,"ne":{"a":"41.49358","o":"-75.10766"},"o":"-75.11043","sw":{"a":"41.48783","o":"-75.1132"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.644545,40.878723],"type":"Point"},"properties":{"a":"40.878723","cty":"CARBON","id":8836122,"mun":"FRANKLIN TWP","nc":2,"o":"-75.644545"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.248096,41.054062],"type":"Point"},"properties":{"a":"41.054062","cty":"COLUMBIA","id":8836123,"mun":"BERWICK BORO","nc":4,"o":"-76.248096"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.489504,40.56403],"type":"Point"},"properties":{"a":"40.56403","cty":"LEHIGH","id":8836124,"mun":"ALLENTOWN","nc":15,"o":"-75.489504"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.535936,40.785421],"type":"Point"},"properties":{"a":"40.785421","cty":"NORTHUMBERLAND","id":8836125,"mun":"COAL TWP","nc":4,"o":"-76.535936"},"type":"Feature"}
 ]}
