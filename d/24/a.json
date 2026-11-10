@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.527566,41.433753],"type":"Point"},"properties":{"a":"41.433753","cty":"WASHINGTON","id":20261071321,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.527566"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.499162,41.868032],"type":"Point"},"properties":{"a":"41.868032","cty":"PROVIDENCE","id":20261071325,"mun":"JOHNSTON","nc":1,"o":"-71.499162"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.499162,41.868032],"type":"Point"},"properties":{"a":"41.868032","cty":"PROVIDENCE","id":20261071325,"mun":"JOHNSTON","nc":1,"o":"-71.499162"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.46628,41.85628],"type":"Point"},"properties":{"a":"41.85628","cty":"PROVIDENCE","id":20261071330,"mun":"NORTH PROVIDENCE","nc":17,"o":"-71.46628"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.490692,41.801863],"type":"Point"},"properties":{"a":"41.801863","cty":"PROVIDENCE","id":20261071331,"mun":"JOHNSTON","nc":1,"o":"-71.490692"},"type":"Feature"}
 ]}
