@@ -37,5 +37,9 @@
 {"geometry":{"coordinates":[-75.911126,41.237523],"type":"Point"},"properties":{"a":"41.237523","cty":"LUZERNE","id":8836166,"mun":"WILKES-BARRE","nc":15,"o":"-75.911126"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.962557,41.263228],"type":"Point"},"properties":{"a":"41.263228","cty":"LYCOMING","id":8836167,"mun":"LOYALSOCK TWP","nc":7,"o":"-76.962557"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.560425,41.166603],"type":"Point"},"properties":{"a":"41.166603","cty":"MONROE","id":8836169,"mun":"COOLBAUGH TWP","nc":2,"o":"-75.560425"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.668935,40.274029],"type":"Point"},"properties":{"a":"40.274029","cty":"DAUPHIN","id":8836170,"mun":"DERRY TWP","nc":8,"o":"-76.668935"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.668935,40.274029],"type":"Point"},"properties":{"a":"40.274029","cty":"DAUPHIN","id":8836170,"mun":"DERRY TWP","nc":8,"o":"-76.668935"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.670616,40.272218],"type":"Point"},"properties":{"a":"40.272218","cty":"DAUPHIN","id":8836177,"mun":"DERRY TWP","nc":9,"o":"-76.670616"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.503729,40.934718],"type":"Point"},"properties":{"a":"40.934718","cty":"MONROE","id":8836180,"mun":"POLK TWP","nc":4,"o":"-75.503729"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.040455,40.813139],"type":"Point"},"properties":{"a":"40.813139","cty":"SCHUYLKILL","id":8836181,"mun":"RYAN TWP","nc":1,"o":"-76.040455"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.856677,41.261344],"type":"Point"},"properties":{"a":"41.261344","cty":"LUZERNE","id":8836182,"mun":"WILKES-BARRE","nc":4,"o":"-75.856677"},"type":"Feature"}
 ]}
