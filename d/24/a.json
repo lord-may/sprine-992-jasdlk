@@ -1,6 +1,7 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.350607,41.745357],"type":"Point"},"properties":{"a":"41.745357","cty":"BRISTOL","id":20261071258,"mun":"BARRINGTON","nc":1,"o":"-71.350607"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.348605,41.89696],"type":"Point"},"properties":{"a":"41.89696","cty":"PROVIDENCE","id":20261071263,"mun":"PAWTUCKET","nc":1,"o":"-71.348605"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.422213,41.795993],"type":"Point"},"properties":{"a":"41.795993","cty":"PROVIDENCE","id":20261071269,"mun":"PROVIDENCE","nc":1,"o":"-71.422213"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.326575,41.764736],"type":"Point"},"properties":{"a":"41.764736","cty":"BRISTOL","id":20261071276,"mun":"BARRINGTON","nc":1,"o":"-71.326575"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.326575,41.764736],"type":"Point"},"properties":{"a":"41.764736","cty":"BRISTOL","id":20261071276,"mun":"BARRINGTON","nc":1,"o":"-71.326575"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.46956,41.830365],"type":"Point"},"properties":{"a":"41.830365","cty":"PROVIDENCE","id":20261071279,"mun":"JOHNSTON","nc":1,"o":"-71.46956"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.401115,41.864798],"type":"Point"},"properties":{"a":"41.864798","cty":"PROVIDENCE","id":20261071280,"mun":"PAWTUCKET","nc":1,"o":"-71.401115"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.416612,41.796986],"type":"Point"},"properties":{"a":"41.796986","cty":"PROVIDENCE","id":20261071282,"mun":"PROVIDENCE","nc":1,"o":"-71.416612"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.504684,41.445264],"type":"Point"},"properties":{"a":"41.445264","cty":"WASHINGTON","id":20261071283,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.504684"},"type":"Feature"}
 ]}
