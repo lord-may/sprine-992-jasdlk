@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.83317,40.81653],"type":"Point"},"properties":{"a":"40.81653","cty":"CARBON","hp":true,"id":8835921,"mun":"SUMMIT HILL BORO","nc":50,"ne":{"a":"40.8224","o":"-75.81689"},"o":"-75.83317","sw":{"a":"40.81066","o":"-75.84946"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.297596,40.319743],"type":"Point"},"properties":{"a":"40.319743","cty":"BUCKS","id":8835922,"mun":"HILLTOWN TWP","nc":6,"o":"-75.297596"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.83317,40.81653],"type":"Point"},"properties":{"a":"40.81653","cty":"CARBON","hp":true,"id":8835921,"mun":"SUMMIT HILL BORO","nc":50,"ne":{"a":"40.8224","o":"-75.81689"},"o":"-75.83317","sw":{"a":"40.81066","o":"-75.84946"}},"type":"Feature"}
 ]}
