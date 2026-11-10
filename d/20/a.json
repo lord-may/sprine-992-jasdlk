@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.713471,43.215115],"type":"Point"},"properties":{"EstRest":"11/10/2026 2:15:00 PM","Outages":83,"county":"MONROE","customers":303529,"incidents":6,"level":"county","opco":"RGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.089799,43.28015],"type":"Point"},"properties":{"EstRest":"11/10/2026 12:30:00 PM","Outages":2,"cause":"","county":"WAYNE","crewstatus":"ENRT ","customers":8,"hamlet":"SODUS","incidentnumber":"011BC8","incidents":1,"level":"street","opco":"RGE","street":"DUFLOO RD","town":"SODUS"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.089799,43.28015],"type":"Point"},"properties":{"EstRest":"11/10/2026 12:30:00 PM","Outages":2,"county":"WAYNE","customers":27021,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.713471,43.215115],"type":"Point"},"properties":{"EstRest":"11/10/2026 2:15:00 PM","Outages":46,"county":"MONROE","customers":303529,"incidents":5,"level":"county","opco":"RGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.089799,43.28015],"type":"Point"},"properties":{"EstRest":"11/10/2026 1:30:00 PM","Outages":2,"cause":"","county":"WAYNE","crewstatus":"ENRT ","customers":8,"hamlet":"SODUS","incidentnumber":"011BC8","incidents":1,"level":"street","opco":"RGE","street":"DUFLOO RD","town":"SODUS"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.089799,43.28015],"type":"Point"},"properties":{"EstRest":"11/10/2026 1:30:00 PM","Outages":2,"county":"WAYNE","customers":27021,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
