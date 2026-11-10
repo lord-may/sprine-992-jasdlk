@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-69.85982,43.925819],"type":"Point"},"properties":{"EstRest":"11/10/2026 3:00:00 PM","Outages":2,"cause":"","county":"SAGADAHOC","crewstatus":"DISP ","customers":2,"hamlet":"WEST BATH","incidentnumber":"0046OV","incidents":1,"level":"street","opco":"CMP","street":"COLONIAL DR","town":"WEST BATH"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.861108,43.925666],"type":"Point"},"properties":{"EstRest":"11/10/2026 3:00:00 PM","Outages":3,"county":"SAGADAHOC","customers":23026,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.748886,43.190316],"type":"Point"},"properties":{"EstRest":"","Outages":1,"cause":"Equipment Interruption","county":"YORK","crewstatus":"DISP ","customers":141,"hamlet":"YORK","incidentnumber":"0046ME","incidents":1,"level":"street","opco":"CMP","street":"CIDER HILL RD","town":"YORK"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.748886,43.190316],"type":"Point"},"properties":{"EstRest":"","Outages":1,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.748886,43.190316],"type":"Point"},"properties":{"EstRest":"11/10/2026 3:15:00 PM","Outages":2,"county":"YORK","customers":132723,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
