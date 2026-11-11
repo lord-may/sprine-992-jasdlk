@@ -2,5 +2,6 @@
 {"geometry":{"coordinates":[-76.820553,40.228577],"type":"Point"},"properties":{"a":"40.228577","cty":"NA","id":8836274,"mun":"NA","nc":19,"o":"-76.820553"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.495292,40.562625],"type":"Point"},"properties":{"a":"40.562625","cty":"LEHIGH","id":8836392,"mun":"ALLENTOWN","nc":9,"o":"-75.495292"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.400469,41.701346],"type":"Point"},"properties":{"a":"41.701346","cty":"WAYNE","id":8836398,"mun":"MOUNT PLEASANT TWP","nc":3,"o":"-75.400469"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.356628,40.704444],"type":"Point"},"properties":{"a":"40.704444","cty":"NORTHAMPTON","id":8836400,"mun":"LOWER NAZARETH TWP","nc":12,"o":"-75.356628"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.356628,40.704444],"type":"Point"},"properties":{"a":"40.704444","cty":"NORTHAMPTON","id":8836400,"mun":"LOWER NAZARETH TWP","nc":12,"o":"-75.356628"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.013013,41.341037],"type":"Point"},"properties":{"a":"41.341037","cty":"LYCOMING","id":8836402,"mun":"HEPBURN TWP","nc":5,"o":"-77.013013"},"type":"Feature"}
 ]}
