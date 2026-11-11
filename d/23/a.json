@@ -2,5 +2,6 @@
 {"geometry":{"coordinates":[-75.376465,40.589688],"type":"Point"},"properties":{"a":"40.589688","cty":"NORTHAMPTON","id":8836419,"mun":"LOWER SAUCON TWP","nc":10,"o":"-75.376465"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.481434,40.593881],"type":"Point"},"properties":{"a":"40.593881","cty":"LEHIGH","id":8836420,"mun":"ALLENTOWN","nc":1,"o":"-75.481434"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.7471,41.298785],"type":"Point"},"properties":{"a":"41.298785","cty":"LUZERNE","id":8836426,"mun":"JENKINS TWP","nc":3,"o":"-75.7471"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.290221,40.303473],"type":"Point"},"properties":{"a":"40.303473","cty":"LEBANON","id":8836427,"mun":"HEIDELBERG TWP","nc":2,"o":"-76.290221"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.615163,41.653418],"type":"Point"},"properties":{"a":"41.653418","cty":"SUSQUEHANNA","id":8836429,"mun":"CLIFFORD TWP","nc":1,"o":"-75.615163"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.553353,40.564795],"type":"Point"},"properties":{"a":"40.564795","cty":"LEHIGH","id":8836430,"mun":"LOWER MACUNGIE TWP","nc":12,"o":"-75.553353"},"type":"Feature"}
 ]}
