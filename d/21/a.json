@@ -1,3 +1,6 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-70.100369,44.689233],"type":"Point"},"properties":{"EstRest":"11/11/2026 8:45:00 AM","Outages":1,"cause":"","county":"FRANKLIN","crewstatus":"     ","customers":22,"hamlet":"FARMINGTON","incidentnumber":"0046QC","incidents":1,"level":"street","opco":"CMP","street":"WEEKS MILLS RD","town":"FARMINGTON"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.100369,44.689233],"type":"Point"},"properties":{"EstRest":"11/11/2026 8:45:00 AM","Outages":1,"county":"FRANKLIN","customers":24700,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.668312,44.549693],"type":"Point"},"properties":{"EstRest":"11/11/2026 8:45:00 AM","Outages":64,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.674702,44.547947],"type":"Point"},"properties":{"EstRest":"11/11/2026 8:45:00 AM","Outages":29,"cause":"","county":"KENNEBEC","crewstatus":"ENRT ","customers":29,"hamlet":"WATERVILLE","incidentnumber":"0046QA","incidents":1,"level":"street","opco":"CMP","street":"LINCOLN ST","town":"WATERVILLE"},"type":"Feature"}
 ]}
