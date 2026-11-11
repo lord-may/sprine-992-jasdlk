@@ -3,9 +3,7 @@
 {"geometry":{"coordinates":[-75.27695,41.24444],"type":"Point"},"properties":{"a":"41.24444","cty":"PIKE","hp":true,"id":8836246,"mun":"GREENE TWP","nc":29,"ne":{"a":"41.24632","o":"-75.27475"},"o":"-75.27695","sw":{"a":"41.24255","o":"-75.27916"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.82118,40.23008],"type":"Point"},"properties":{"a":"40.23008","cty":"NA","hp":true,"id":8836274,"mun":"NA","nc":271,"ne":{"a":"40.23359","o":"-76.8172"},"o":"-76.82118","sw":{"a":"40.22657","o":"-76.82516"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.42225,41.33399],"type":"Point"},"properties":{"a":"41.33399","cty":"WAYNE","hp":true,"id":8836295,"mun":"STERLING TWP","nc":65,"ne":{"a":"41.34056","o":"-75.40783"},"o":"-75.42225","sw":{"a":"41.32742","o":"-75.43668"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.641882,40.755045],"type":"Point"},"properties":{"a":"40.755045","cty":"NORTHUMBERLAND","id":8836323,"mun":"WEST CAMERON TWP","nc":7,"o":"-76.641882"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.845242,41.284514],"type":"Point"},"properties":{"a":"41.284514","cty":"LUZERNE","id":8836344,"mun":"PLAINS TWP","nc":11,"o":"-75.845242"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.61317,40.17093],"type":"Point"},"properties":{"a":"40.17093","cty":"LANCASTER","hp":true,"id":8836354,"mun":"MOUNT JOY TWP","nc":60,"ne":{"a":"40.17269","o":"-76.6084"},"o":"-76.61317","sw":{"a":"40.16917","o":"-76.61793"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.814867,40.233334],"type":"Point"},"properties":{"a":"40.233334","cty":"DAUPHIN","id":8836367,"mun":"SWATARA TWP","nc":4,"o":"-76.814867"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.897457,40.279694],"type":"Point"},"properties":{"a":"40.279694","cty":"DAUPHIN","id":8836368,"mun":"HARRISBURG","nc":1,"o":"-76.897457"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.193668,41.692853],"type":"Point"},"properties":{"a":"41.692853","cty":"WAYNE","id":8836369,"mun":"DAMASCUS TWP","nc":1,"o":"-75.193668"},"type":"Feature"}
 ]}

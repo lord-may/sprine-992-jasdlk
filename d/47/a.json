@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-67.573712,45.219102],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-10T18:47:44.487-05:00","outageName":"T80001","outagePoint":{"lat":45.21910199999995,"lng":-67.57371199999993},"outageRecID":"2026-11-10-0158","outageStartTime":"2026-11-10T18:46:18-05:00","outageWorkStatus":"","streetsAffected":["WEST ST"],"verified":true},"type":"Feature"}
+
 ]}
