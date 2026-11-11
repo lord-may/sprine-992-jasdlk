@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.614471,43.831999],"type":"Point"},"properties":{"EstRest":"11/11/2026 2:30:00 PM","Outages":2,"cause":"","county":"CUMBERLAND","crewstatus":"ONST ","customers":2,"hamlet":"STANDISH","incidentnumber":"0046RZ","incidents":1,"level":"street","opco":"CMP","street":"BELL ALBERO WAY","town":"STANDISH"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.629227,43.879604],"type":"Point"},"properties":{"EstRest":"11/11/2026 2:30:00 PM","Outages":2132,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.599631,43.83246],"type":"Point"},"properties":{"EstRest":"11/11/2026 2:30:00 PM","Outages":2132,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.644134,43.849253],"type":"Point"},"properties":{"EstRest":"11/11/2026 2:30:00 PM","Outages":5,"cause":"","county":"CUMBERLAND","crewstatus":"ONST ","customers":5,"hamlet":"SEBAGO","incidentnumber":"0046RZ","incidents":1,"level":"street","opco":"CMP","street":"DEER RUN RD","town":"SEBAGO"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.720166,44.777746],"type":"Point"},"properties":{"EstRest":"11/11/2026 3:00:00 PM","Outages":1,"cause":"","county":"SOMERSET","crewstatus":"ACKN ","customers":218,"hamlet":"SKOWHEGAN","incidentnumber":"0046S1","incidents":1,"level":"street","opco":"CMP","street":"NORTH AVE","town":"SKOWHEGAN"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.720166,44.777746],"type":"Point"},"properties":{"EstRest":"11/11/2026 3:00:00 PM","Outages":1,"county":"SOMERSET","customers":31730,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
