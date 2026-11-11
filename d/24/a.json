@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.523941,41.855676],"type":"Point"},"properties":{"a":"41.855676","cty":"PROVIDENCE","id":20261071365,"mun":"JOHNSTON","nc":1,"o":"-71.523941"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.823581,41.369726],"type":"Point"},"properties":{"a":"41.369726","cty":"WASHINGTON","id":20261071378,"mun":"WESTERLY","nc":1,"o":"-71.823581"},"type":"Feature"}
 ]}
