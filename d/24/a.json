@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.713432,41.708718],"type":"Point"},"properties":{"a":"41.708718","cty":"KENT","id":20261071468,"mun":"COVENTRY","nc":1,"o":"-71.713432"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.713432,41.708718],"type":"Point"},"properties":{"a":"41.708718","cty":"KENT","id":20261071468,"mun":"COVENTRY","nc":1,"o":"-71.713432"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.66702,41.65597],"type":"Point"},"properties":{"a":"41.65597","cty":"KENT","hp":true,"id":20261071469,"mun":"WEST GREENWICH","nc":34,"ne":{"a":"41.65834","o":"-71.66308"},"o":"-71.66702","sw":{"a":"41.65359","o":"-71.67095"}},"type":"Feature"}
 ]}

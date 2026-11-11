@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-71.160117,44.141495],[-71.15965,44.141856],[-71.159327,44.143287],[-71.159147,44.144634],[-71.161042,44.145388],[-71.161986,44.145305],[-71.160117,44.141495]]],"type":"Polygon"},{"coordinates":[-71.160351,44.14379],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"The outage affecting your area was caused by a motor vehicle accident with a broken pole.Crews are on scene making repairs. Estimated time of restoration is 11:30am.","estimateTime":1794414600000,"id":"595109","nbrOut":20,"timeOff":1794409223039},"type":"Feature"}
+
 ]}
