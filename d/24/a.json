@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.823581,41.369726],"type":"Point"},"properties":{"a":"41.369726","cty":"WASHINGTON","id":20261071378,"mun":"WESTERLY","nc":1,"o":"-71.823581"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.50126,41.998844],"type":"Point"},"properties":{"a":"41.998844","cty":"PROVIDENCE","id":20261071380,"mun":"WOONSOCKET","nc":1,"o":"-71.50126"},"type":"Feature"}
 ]}
