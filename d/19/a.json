@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-74.228408,42.324496],"type":"Point"},"properties":{"EstRest":"11/11/2026 1:45:00 AM","Outages":34,"county":"GREENE","customers":4933,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-74.221802,42.340726],"type":"Point"},"properties":{"EstRest":"11/11/2026 1:45:00 AM","Outages":34,"county":"GREENE","customers":4933,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-74.413548,42.376977],"type":"Point"},"properties":{"EstRest":"11/11/2026 1:15:00 AM","Outages":10,"county":"SCHOHARIE","customers":2256,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-74.419952,42.365021],"type":"Point"},"properties":{"EstRest":"11/11/2026 1:15:00 AM","Outages":8,"cause":"","county":"SCHOHARIE","crewstatus":"DISP ","customers":11,"hamlet":"GILBOA","incidentnumber":"011BII","incidents":1,"level":"street","opco":"NYSEG","street":"PANGMAN RD","town":"CONESVILLE T"},"type":"Feature"}
 ]}
