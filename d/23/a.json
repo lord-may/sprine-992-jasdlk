@@ -15,7 +15,10 @@
 {"geometry":{"coordinates":[-75.571178,40.591883],"type":"Point"},"properties":{"a":"40.591883","cty":"LEHIGH","id":8836444,"mun":"UPPER MACUNGIE TWP","nc":2,"o":"-75.571178"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.409279,41.007018],"type":"Point"},"properties":{"a":"41.007018","cty":"COLUMBIA","id":8836448,"mun":"SCOTT TWP","nc":9,"o":"-76.409279"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.323561,40.335913],"type":"Point"},"properties":{"a":"40.335913","cty":"BUCKS","id":8836449,"mun":"TELFORD BORO","nc":1,"o":"-75.323561"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.815555,40.235827],"type":"Point"},"properties":{"a":"40.235827","cty":"DAUPHIN","id":8836450,"mun":"SWATARA TWP","nc":8,"o":"-76.815555"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.063527,40.2084],"type":"Point"},"properties":{"a":"40.2084","cty":"LANCASTER","id":8836451,"mun":"BRECKNOCK TWP","nc":3,"o":"-76.063527"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.021552,41.226125],"type":"Point"},"properties":{"a":"41.226125","cty":"LYCOMING","id":8836454,"mun":"SOUTH WILLIAMSPORT BORO","nc":14,"o":"-77.021552"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.008923,40.320388],"type":"Point"},"properties":{"a":"40.320388","cty":"BERKS","id":8836455,"mun":"SPRING TWP","nc":1,"o":"-76.008923"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.46798,40.6109],"type":"Point"},"properties":{"a":"40.6109","cty":"LEHIGH","hp":true,"id":8836456,"mun":"ALLENTOWN","nc":92,"ne":{"a":"40.61158","o":"-75.46753"},"o":"-75.46798","sw":{"a":"40.61022","o":"-75.46844"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.322903,40.628585],"type":"Point"},"properties":{"a":"40.628585","cty":"NORTHAMPTON","id":8836457,"mun":"LOWER SAUCON TWP","nc":3,"o":"-75.322903"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.397238,40.637329],"type":"Point"},"properties":{"a":"40.637329","cty":"LEHIGH","id":8836458,"mun":"BETHLEHEM","nc":5,"o":"-75.397238"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.447824,40.959289],"type":"Point"},"properties":{"a":"40.959289","cty":"COLUMBIA","id":8836459,"mun":"CATAWISSA TWP","nc":1,"o":"-76.447824"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.413356,40.633479],"type":"Point"},"properties":{"a":"40.633479","cty":"LEHIGH","id":8836463,"mun":"BETHLEHEM","nc":26,"o":"-75.413356"},"type":"Feature"}
 ]}
