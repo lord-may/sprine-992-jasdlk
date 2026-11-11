@@ -20,7 +20,6 @@
 {"geometry":{"coordinates":[-75.978326,40.339421],"type":"Point"},"properties":{"a":"40.339421","cty":"BERKS","id":8836467,"mun":"WYOMISSING BORO","nc":1,"o":"-75.978326"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.346853,41.292468],"type":"Point"},"properties":{"a":"41.292468","cty":"WAYNE","id":8836470,"mun":"DREHER TWP","nc":5,"o":"-75.346853"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.387062,40.609499],"type":"Point"},"properties":{"a":"40.609499","cty":"JUNIATA","id":8836471,"mun":"FERMANAGH TWP","nc":2,"o":"-77.387062"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.462732,41.259237],"type":"Point"},"properties":{"a":"41.259237","cty":"LACKAWANNA","id":8836474,"mun":"CLIFTON TWP","nc":1,"o":"-75.462732"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.496372,40.388845],"type":"Point"},"properties":{"a":"40.388845","cty":"MONTGOMERY","id":8836475,"mun":"UPPER HANOVER TWP","nc":6,"o":"-75.496372"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.25542,40.57001],"type":"Point"},"properties":{"a":"40.57001","cty":"BUCKS","hp":true,"id":8836476,"mun":"SPRINGFIELD TWP","nc":25,"ne":{"a":"40.57584","o":"-75.24675"},"o":"-75.25542","sw":{"a":"40.56418","o":"-75.2641"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.827181,40.340215],"type":"Point"},"properties":{"a":"40.340215","cty":"DAUPHIN","id":8836477,"mun":"LOWER PAXTON TWP","nc":1,"o":"-76.827181"},"type":"Feature"},
@@ -32,5 +31,9 @@
 {"geometry":{"coordinates":[-75.490756,41.407265],"type":"Point"},"properties":{"a":"41.407265","cty":"LACKAWANNA","id":8836487,"mun":"JEFFERSON TWP","nc":3,"o":"-75.490756"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.923937,40.710312],"type":"Point"},"properties":{"a":"40.710312","cty":"SNYDER","id":8836488,"mun":"CHAPMAN TWP","nc":1,"o":"-76.923937"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.217746,41.550347],"type":"Point"},"properties":{"a":"41.550347","cty":"WAYNE","id":8836491,"mun":"TEXAS TWP","nc":1,"o":"-75.217746"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.672734,40.982183],"type":"Point"},"properties":{"a":"40.982183","cty":"CARBON","id":8836494,"mun":"PENN FOREST TWP","nc":3,"o":"-75.672734"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.672734,40.982183],"type":"Point"},"properties":{"a":"40.982183","cty":"CARBON","id":8836494,"mun":"PENN FOREST TWP","nc":3,"o":"-75.672734"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.413831,41.005332],"type":"Point"},"properties":{"a":"41.005332","cty":"COLUMBIA","id":8836498,"mun":"SCOTT TWP","nc":10,"o":"-76.413831"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.388574,40.925318],"type":"Point"},"properties":{"a":"40.925318","cty":"MONROE","id":8836499,"mun":"CHESTNUT HILL TWP","nc":9,"o":"-75.388574"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.254089,40.415945],"type":"Point"},"properties":{"a":"40.415945","cty":"BUCKS","id":8836504,"mun":"EAST ROCKHILL TWP","nc":1,"o":"-75.254089"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.302526,40.248238],"type":"Point"},"properties":{"a":"40.248238","cty":"LANCASTER","id":8836505,"mun":"ELIZABETH TWP","nc":5,"o":"-76.302526"},"type":"Feature"}
 ]}
