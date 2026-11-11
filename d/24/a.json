@@ -1,7 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.48123,41.93671],"type":"Point"},"properties":{"a":"41.93671","cty":"PROVIDENCE","hp":true,"id":20261071397,"mun":"LINCOLN","nc":7,"ne":{"a":"41.93796","o":"-71.48074"},"o":"-71.48123","sw":{"a":"41.93547","o":"-71.48171"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.57761,42.00321],"type":"Point"},"properties":{"a":"42.00321","cty":"PROVIDENCE","hp":true,"id":20261071437,"mun":"NORTH SMITHFIELD","nc":14,"ne":{"a":"42.00403","o":"-71.57627"},"o":"-71.57761","sw":{"a":"42.00238","o":"-71.57894"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.658402,41.769407],"type":"Point"},"properties":{"a":"41.769407","cty":"PROVIDENCE","id":20261071442,"mun":"SCITUATE","nc":1,"o":"-71.658402"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.455908,41.814543],"type":"Point"},"properties":{"a":"41.814543","cty":"PROVIDENCE","id":20261071453,"mun":"PROVIDENCE","nc":1,"o":"-71.455908"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.289978,41.530279],"type":"Point"},"properties":{"a":"41.530279","cty":"NEWPORT","id":20261071454,"mun":"MIDDLETOWN","nc":1,"o":"-71.289978"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.289978,41.530279],"type":"Point"},"properties":{"a":"41.530279","cty":"NEWPORT","id":20261071454,"mun":"MIDDLETOWN","nc":1,"o":"-71.289978"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.50126,41.998844],"type":"Point"},"properties":{"a":"41.998844","cty":"PROVIDENCE","id":20261071456,"mun":"WOONSOCKET","nc":32,"o":"-71.50126"},"type":"Feature"}
 ]}
