@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-77.011,41.34031],"type":"Point"},"properties":{"a":"41.34031","cty":"LYCOMING","hp":true,"id":8836406,"mun":"HEPBURN TWP","nc":11,"ne":{"a":"41.34219","o":"-77.00822"},"o":"-77.011","sw":{"a":"41.33842","o":"-77.01378"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.376465,40.589688],"type":"Point"},"properties":{"a":"40.589688","cty":"NORTHAMPTON","id":8836419,"mun":"LOWER SAUCON TWP","nc":10,"o":"-75.376465"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.481434,40.593881],"type":"Point"},"properties":{"a":"40.593881","cty":"LEHIGH","id":8836420,"mun":"ALLENTOWN","nc":1,"o":"-75.481434"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.481434,40.593881],"type":"Point"},"properties":{"a":"40.593881","cty":"LEHIGH","id":8836420,"mun":"ALLENTOWN","nc":1,"o":"-75.481434"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.552279,41.190134],"type":"Point"},"properties":{"a":"41.190134","cty":"LYCOMING","id":8836424,"mun":"JORDAN TWP","nc":1,"o":"-76.552279"},"type":"Feature"}
 ]}
