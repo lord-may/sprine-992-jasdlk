@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-74.221802,42.340726],"type":"Point"},"properties":{"EstRest":"11/11/2026 1:45:00 AM","Outages":30,"county":"GREENE","customers":4933,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-74.230392,42.324504],"type":"Point"},"properties":{"EstRest":"11/11/2026 1:45:00 AM","Outages":1,"cause":"","county":"GREENE","crewstatus":"ONST ","customers":1,"hamlet":"WINDHAM","incidentnumber":"011BIL","incidents":1,"level":"street","opco":"NYSEG","street":"BEAVER HILL OFF NAU","town":"WINDHAM T"},"type":"Feature"}
+
 ]}
