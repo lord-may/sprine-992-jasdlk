@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.400469,41.701346],"type":"Point"},"properties":{"a":"41.701346","cty":"WAYNE","id":8836398,"mun":"MOUNT PLEASANT TWP","nc":3,"o":"-75.400469"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.356628,40.704444],"type":"Point"},"properties":{"a":"40.704444","cty":"NORTHAMPTON","id":8836400,"mun":"LOWER NAZARETH TWP","nc":12,"o":"-75.356628"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.011,41.34031],"type":"Point"},"properties":{"a":"41.34031","cty":"LYCOMING","hp":true,"id":8836406,"mun":"HEPBURN TWP","nc":11,"ne":{"a":"41.34219","o":"-77.00822"},"o":"-77.011","sw":{"a":"41.33842","o":"-77.01378"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.563253,41.111024],"type":"Point"},"properties":{"a":"41.111024","cty":"MONROE","id":8836410,"mun":"TOBYHANNA TWP","nc":2,"o":"-75.563253"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.563253,41.111024],"type":"Point"},"properties":{"a":"41.111024","cty":"MONROE","id":8836410,"mun":"TOBYHANNA TWP","nc":2,"o":"-75.563253"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.815555,40.235827],"type":"Point"},"properties":{"a":"40.235827","cty":"DAUPHIN","id":8836411,"mun":"SWATARA TWP","nc":8,"o":"-76.815555"},"type":"Feature"}
 ]}
