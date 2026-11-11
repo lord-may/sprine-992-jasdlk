@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-73.691134,41.242998],"type":"Point"},"properties":{"EstRest":"11/10/2026 7:15:00 PM","Outages":1,"cause":"","county":"WESTCHESTER","crewstatus":"ONST ","customers":108,"hamlet":"BEDFORD HILLS","incidentnumber":"011BHJ","incidents":1,"level":"street","opco":"NYSEG","street":"BEDFORD RD","town":"BEDFORD T"},"type":"Feature"},
+{"geometry":{"coordinates":[-73.691134,41.242998],"type":"Point"},"properties":{"EstRest":"11/10/2026 7:15:00 PM","Outages":1,"cause":"Equipment Interruption","county":"WESTCHESTER","crewstatus":"CMPL ","customers":108,"hamlet":"BEDFORD HILLS","incidentnumber":"011BHJ","incidents":1,"level":"street","opco":"NYSEG","street":"BEDFORD RD","town":"BEDFORD T"},"type":"Feature"},
 {"geometry":{"coordinates":[-73.691134,41.242998],"type":"Point"},"properties":{"EstRest":"11/10/2026 7:15:00 PM","Outages":1,"county":"WESTCHESTER","customers":33728,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
