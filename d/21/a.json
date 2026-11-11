@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.104081,44.222312],"type":"Point"},"properties":{"EstRest":"11/11/2026 12:00:00 PM","Outages":92,"county":"ANDROSCOGGIN","customers":59602,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.104816,44.223648],"type":"Point"},"properties":{"EstRest":"11/11/2026 12:00:00 PM","Outages":18,"cause":"","county":"ANDROSCOGGIN","crewstatus":"ENRT ","customers":51,"hamlet":"LEEDS","incidentnumber":"0046RK","incidents":1,"level":"street","opco":"CMP","street":"KENNEY RD","town":"LEEDS"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.881744,43.404869],"type":"Point"},"properties":{"EstRest":"11/11/2026 12:30:00 PM","Outages":19,"county":"YORK","customers":132723,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.204969,44.503407],"type":"Point"},"properties":{"EstRest":"11/11/2026 12:30:00 PM","Outages":1,"cause":"","county":"WALDO","crewstatus":"ACKN ","customers":92,"hamlet":"KNOX","incidentnumber":"0046RM","incidents":1,"level":"street","opco":"CMP","street":"BELFAST RD","town":"KNOX"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.204969,44.503407],"type":"Point"},"properties":{"EstRest":"11/11/2026 12:30:00 PM","Outages":1,"county":"WALDO","customers":26703,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.881744,43.404869],"type":"Point"},"properties":{"EstRest":"11/11/2026 12:30:00 PM","Outages":4,"cause":"","county":"YORK","crewstatus":"DISP ","customers":51,"hamlet":"LEBANON","incidentnumber":"0046RO","incidents":1,"level":"street","opco":"CMP","street":"LOWER CROSS RD","town":"LEBANON"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.881744,43.404869],"type":"Point"},"properties":{"EstRest":"11/11/2026 12:30:00 PM","Outages":4,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
