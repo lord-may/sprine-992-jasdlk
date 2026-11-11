@@ -1,5 +1,7 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.250034,43.663904],"type":"Point"},"properties":{"EstRest":"11/12/2026 12:00:00 AM","Outages":8,"county":"CUMBERLAND","customers":182407,"incidents":5,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.174299,43.804726],"type":"Point"},"properties":{"EstRest":"11/12/2026 12:00:00 AM","Outages":6,"county":"CUMBERLAND","customers":182407,"incidents":3,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.382728,44.931098],"type":"Point"},"properties":{"EstRest":"11/11/2026 9:00:00 PM","Outages":1,"cause":"","county":"SOMERSET","crewstatus":"DISP ","customers":7,"hamlet":"SAINT ALBANS","incidentnumber":"0046SW","incidents":1,"level":"street","opco":"CMP","street":"MARTIN RD","town":"SAINT ALBANS"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.382728,44.931098],"type":"Point"},"properties":{"EstRest":"11/11/2026 9:00:00 PM","Outages":1,"county":"SOMERSET","customers":31730,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.465424,43.486197],"type":"Point"},"properties":{"EstRest":"11/11/2026 8:30:00 PM","Outages":8,"cause":"","county":"YORK","crewstatus":"ENRT ","customers":8,"hamlet":"BIDDEFORD","incidentnumber":"0046SV","incidents":1,"level":"street","opco":"CMP","street":"FOGG AVE","town":"BIDDEFORD"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.465424,43.486197],"type":"Point"},"properties":{"EstRest":"11/11/2026 8:30:00 PM","Outages":9,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
