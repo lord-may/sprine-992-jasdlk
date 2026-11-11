@@ -1,10 +1,8 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.376465,40.589688],"type":"Point"},"properties":{"a":"40.589688","cty":"NORTHAMPTON","id":8836419,"mun":"LOWER SAUCON TWP","nc":10,"o":"-75.376465"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.7471,41.298785],"type":"Point"},"properties":{"a":"41.298785","cty":"LUZERNE","id":8836426,"mun":"JENKINS TWP","nc":3,"o":"-75.7471"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.615163,41.653418],"type":"Point"},"properties":{"a":"41.653418","cty":"SUSQUEHANNA","id":8836429,"mun":"CLIFFORD TWP","nc":1,"o":"-75.615163"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.553353,40.564795],"type":"Point"},"properties":{"a":"40.564795","cty":"LEHIGH","id":8836430,"mun":"LOWER MACUNGIE TWP","nc":12,"o":"-75.553353"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.161417,41.407534],"type":"Point"},"properties":{"a":"41.407534","cty":"PIKE","id":8836431,"mun":"BLOOMING GROVE TWP","nc":3,"o":"-75.161417"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.862233,40.283945],"type":"Point"},"properties":{"a":"40.283945","cty":"DAUPHIN","id":8836432,"mun":"SUSQUEHANNA TWP","nc":3,"o":"-76.862233"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.611735,41.648577],"type":"Point"},"properties":{"a":"41.648577","cty":"SUSQUEHANNA","id":8836433,"mun":"CLIFFORD TWP","nc":2,"o":"-75.611735"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.441743,40.804774],"type":"Point"},"properties":{"a":"40.804774","cty":"NORTHAMPTON","id":8836434,"mun":"MOORE TWP","nc":3,"o":"-75.441743"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.35122,41.159217],"type":"Point"},"properties":{"a":"41.159217","cty":"MONROE","id":8836435,"mun":"COOLBAUGH TWP","nc":2,"o":"-75.35122"},"type":"Feature"},
@@ -20,5 +18,8 @@
 {"geometry":{"coordinates":[-75.322903,40.628585],"type":"Point"},"properties":{"a":"40.628585","cty":"NORTHAMPTON","id":8836457,"mun":"LOWER SAUCON TWP","nc":3,"o":"-75.322903"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.397238,40.637329],"type":"Point"},"properties":{"a":"40.637329","cty":"LEHIGH","id":8836458,"mun":"BETHLEHEM","nc":5,"o":"-75.397238"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.447824,40.959289],"type":"Point"},"properties":{"a":"40.959289","cty":"COLUMBIA","id":8836459,"mun":"CATAWISSA TWP","nc":1,"o":"-76.447824"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.413356,40.633479],"type":"Point"},"properties":{"a":"40.633479","cty":"LEHIGH","id":8836463,"mun":"BETHLEHEM","nc":26,"o":"-75.413356"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.413356,40.633479],"type":"Point"},"properties":{"a":"40.633479","cty":"LEHIGH","id":8836463,"mun":"BETHLEHEM","nc":26,"o":"-75.413356"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.978326,40.339421],"type":"Point"},"properties":{"a":"40.339421","cty":"BERKS","id":8836467,"mun":"WYOMISSING BORO","nc":1,"o":"-75.978326"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.346853,41.292468],"type":"Point"},"properties":{"a":"41.292468","cty":"WAYNE","id":8836470,"mun":"DREHER TWP","nc":5,"o":"-75.346853"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.387062,40.609499],"type":"Point"},"properties":{"a":"40.609499","cty":"JUNIATA","id":8836471,"mun":"FERMANAGH TWP","nc":2,"o":"-77.387062"},"type":"Feature"}
 ]}
