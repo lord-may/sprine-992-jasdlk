@@ -4,7 +4,6 @@
 {"geometry":{"coordinates":[-76.615499,40.959108],"type":"Point"},"properties":{"a":"40.959108","cty":"MONTOUR","id":8836621,"mun":"DANVILLE BORO","nc":4,"o":"-76.615499"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.282671,41.56282],"type":"Point"},"properties":{"a":"41.56282","cty":"WAYNE","id":8836665,"mun":"TEXAS TWP","nc":3,"o":"-75.282671"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.356009,40.647052],"type":"Point"},"properties":{"a":"40.647052","cty":"NORTHAMPTON","id":8836681,"mun":"BETHLEHEM","nc":18,"o":"-75.356009"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.133911,40.683459],"type":"Point"},"properties":{"a":"40.683459","cty":"JUNIATA","id":8836683,"mun":"MONROE TWP","nc":1,"o":"-77.133911"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.30879,40.55657],"type":"Point"},"properties":{"a":"40.55657","cty":"NORTHAMPTON","hp":true,"id":8836689,"mun":"LOWER SAUCON TWP","nc":65,"ne":{"a":"40.56271","o":"-75.29544"},"o":"-75.30879","sw":{"a":"40.55043","o":"-75.32214"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.39441,41.493875],"type":"Point"},"properties":{"a":"41.493875","cty":"WAYNE","id":8836713,"mun":"SOUTH CANAAN TWP","nc":1,"o":"-75.39441"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.96056,41.25371],"type":"Point"},"properties":{"a":"41.25371","cty":"LYCOMING","id":8836714,"mun":"LOYALSOCK TWP","nc":28,"o":"-76.96056"},"type":"Feature"}
