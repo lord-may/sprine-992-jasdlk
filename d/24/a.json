@@ -4,5 +4,6 @@
 {"geometry":{"coordinates":[-71.450652,41.662754],"type":"Point"},"properties":{"a":"41.662754","cty":"KENT","id":20261071407,"mun":"EAST GREENWICH","nc":1,"o":"-71.450652"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.459101,41.681177],"type":"Point"},"properties":{"a":"41.681177","cty":"KENT","id":20261071409,"mun":"WARWICK","nc":1,"o":"-71.459101"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.45592,41.68458],"type":"Point"},"properties":{"a":"41.68458","cty":"KENT","hp":true,"id":20261071416,"mun":"WARWICK","nc":24,"ne":{"a":"41.68559","o":"-71.45373"},"o":"-71.45592","sw":{"a":"41.68357","o":"-71.45811"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.350092,41.747187],"type":"Point"},"properties":{"a":"41.747187","cty":"BRISTOL","id":20261071433,"mun":"BARRINGTON","nc":1,"o":"-71.350092"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.57761,42.00321],"type":"Point"},"properties":{"a":"42.00321","cty":"PROVIDENCE","hp":true,"id":20261071437,"mun":"NORTH SMITHFIELD","nc":14,"ne":{"a":"42.00403","o":"-71.57627"},"o":"-71.57761","sw":{"a":"42.00238","o":"-71.57894"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.619683,41.728802],"type":"Point"},"properties":{"a":"41.728802","cty":"PROVIDENCE","id":20261071439,"mun":"SCITUATE","nc":1,"o":"-71.619683"},"type":"Feature"}
 ]}

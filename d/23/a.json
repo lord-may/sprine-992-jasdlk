@@ -10,5 +10,8 @@
 {"geometry":{"coordinates":[-75.441743,40.804774],"type":"Point"},"properties":{"a":"40.804774","cty":"NORTHAMPTON","id":8836434,"mun":"MOORE TWP","nc":3,"o":"-75.441743"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.35122,41.159217],"type":"Point"},"properties":{"a":"41.159217","cty":"MONROE","id":8836435,"mun":"COOLBAUGH TWP","nc":2,"o":"-75.35122"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.474908,40.564829],"type":"Point"},"properties":{"a":"40.564829","cty":"LEHIGH","id":8836436,"mun":"ALLENTOWN","nc":13,"o":"-75.474908"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.203862,40.182438],"type":"Point"},"properties":{"a":"40.182438","cty":"CUMBERLAND","id":8836437,"mun":"CARLISLE BORO","nc":4,"o":"-77.203862"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.87906,40.986791],"type":"Point"},"properties":{"a":"40.986791","cty":"UNION","id":8836438,"mun":"KELLY TWP","nc":1,"o":"-76.87906"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.235889,40.026946],"type":"Point"},"properties":{"a":"40.026946","cty":"LANCASTER","id":8836439,"mun":"EAST LAMPETER TWP","nc":25,"o":"-76.235889"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.656086,40.265868],"type":"Point"},"properties":{"a":"40.265868","cty":"DAUPHIN","id":8836440,"mun":"DERRY TWP","nc":6,"o":"-76.656086"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.571178,40.591883],"type":"Point"},"properties":{"a":"40.591883","cty":"LEHIGH","id":8836444,"mun":"UPPER MACUNGIE TWP","nc":2,"o":"-75.571178"},"type":"Feature"}
 ]}
