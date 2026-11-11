@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-76.517426,42.194195],"type":"Point"},"properties":{"EstRest":"11/11/2026 6:30:00 PM","Outages":3,"county":"TIOGA","customers":20231,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.517692,42.198473],"type":"Point"},"properties":{"EstRest":"11/11/2026 6:30:00 PM","Outages":1,"cause":"","county":"TIOGA","crewstatus":"     ","customers":6,"hamlet":"SPENCER","incidentnumber":"011BMZ","incidents":1,"level":"street","opco":"NYSEG","street":"SABIN RD","town":"SPENCER T"},"type":"Feature"}
 ]}

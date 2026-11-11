@@ -3,7 +3,6 @@
 {"geometry":{"coordinates":[-77.124176,40.936773],"type":"Point"},"properties":{"a":"40.936773","cty":"UNION","id":8836485,"mun":"LEWIS TWP","nc":6,"o":"-77.124176"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.780183,40.858464],"type":"Point"},"properties":{"a":"40.858464","cty":"NORTHUMBERLAND","id":8836518,"mun":"UPPER AUGUSTA TWP","nc":32,"o":"-76.780183"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.012863,41.311196],"type":"Point"},"properties":{"a":"41.311196","cty":"LYCOMING","id":8836573,"mun":"HEPBURN TWP","nc":2,"o":"-77.012863"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.717847,40.323014],"type":"Point"},"properties":{"a":"40.323014","cty":"DAUPHIN","id":8836606,"mun":"WEST HANOVER TWP","nc":21,"o":"-76.717847"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.615329,40.959371],"type":"Point"},"properties":{"a":"40.959371","cty":"MONTOUR","id":8836613,"mun":"DANVILLE BORO","nc":10,"o":"-76.615329"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.75677,41.531626],"type":"Point"},"properties":{"a":"41.531626","cty":"LACKAWANNA","id":8836616,"mun":"WEST ABINGTON TWP","nc":1,"o":"-75.75677"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.027676,41.223629],"type":"Point"},"properties":{"a":"41.223629","cty":"LYCOMING","id":8836619,"mun":"DUBOISTOWN BORO","nc":7,"o":"-77.027676"},"type":"Feature"},
@@ -12,5 +11,6 @@
 {"geometry":{"coordinates":[-76.021783,40.294831],"type":"Point"},"properties":{"a":"40.294831","cty":"BERKS","id":8836649,"mun":"SPRING TWP","nc":2,"o":"-76.021783"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.407641,41.00768],"type":"Point"},"properties":{"a":"41.00768","cty":"COLUMBIA","id":8836651,"mun":"SCOTT TWP","nc":2,"o":"-76.407641"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.282671,41.56282],"type":"Point"},"properties":{"a":"41.56282","cty":"WAYNE","id":8836665,"mun":"TEXAS TWP","nc":3,"o":"-75.282671"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.468216,40.611096],"type":"Point"},"properties":{"a":"40.611096","cty":"LEHIGH","id":8836670,"mun":"ALLENTOWN","nc":1,"o":"-75.468216"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.357785,40.49028],"type":"Point"},"properties":{"a":"40.49028","cty":"BUCKS","id":8836674,"mun":"SPRINGFIELD TWP","nc":1,"o":"-75.357785"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.356009,40.647052],"type":"Point"},"properties":{"a":"40.647052","cty":"NORTHAMPTON","id":8836681,"mun":"BETHLEHEM","nc":18,"o":"-75.356009"},"type":"Feature"}
 ]}
