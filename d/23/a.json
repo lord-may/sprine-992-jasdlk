@@ -1,8 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.376465,40.589688],"type":"Point"},"properties":{"a":"40.589688","cty":"NORTHAMPTON","id":8836419,"mun":"LOWER SAUCON TWP","nc":10,"o":"-75.376465"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.7471,41.298785],"type":"Point"},"properties":{"a":"41.298785","cty":"LUZERNE","id":8836426,"mun":"JENKINS TWP","nc":3,"o":"-75.7471"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.553353,40.564795],"type":"Point"},"properties":{"a":"40.564795","cty":"LEHIGH","id":8836430,"mun":"LOWER MACUNGIE TWP","nc":12,"o":"-75.553353"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.161417,41.407534],"type":"Point"},"properties":{"a":"41.407534","cty":"PIKE","id":8836431,"mun":"BLOOMING GROVE TWP","nc":3,"o":"-75.161417"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.611735,41.648577],"type":"Point"},"properties":{"a":"41.648577","cty":"SUSQUEHANNA","id":8836433,"mun":"CLIFFORD TWP","nc":2,"o":"-75.611735"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.441743,40.804774],"type":"Point"},"properties":{"a":"40.804774","cty":"NORTHAMPTON","id":8836434,"mun":"MOORE TWP","nc":3,"o":"-75.441743"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.35122,41.159217],"type":"Point"},"properties":{"a":"41.159217","cty":"MONROE","id":8836435,"mun":"COOLBAUGH TWP","nc":2,"o":"-75.35122"},"type":"Feature"},
@@ -21,5 +19,14 @@
 {"geometry":{"coordinates":[-75.413356,40.633479],"type":"Point"},"properties":{"a":"40.633479","cty":"LEHIGH","id":8836463,"mun":"BETHLEHEM","nc":26,"o":"-75.413356"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.978326,40.339421],"type":"Point"},"properties":{"a":"40.339421","cty":"BERKS","id":8836467,"mun":"WYOMISSING BORO","nc":1,"o":"-75.978326"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.346853,41.292468],"type":"Point"},"properties":{"a":"41.292468","cty":"WAYNE","id":8836470,"mun":"DREHER TWP","nc":5,"o":"-75.346853"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.387062,40.609499],"type":"Point"},"properties":{"a":"40.609499","cty":"JUNIATA","id":8836471,"mun":"FERMANAGH TWP","nc":2,"o":"-77.387062"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.387062,40.609499],"type":"Point"},"properties":{"a":"40.609499","cty":"JUNIATA","id":8836471,"mun":"FERMANAGH TWP","nc":2,"o":"-77.387062"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.462732,41.259237],"type":"Point"},"properties":{"a":"41.259237","cty":"LACKAWANNA","id":8836474,"mun":"CLIFTON TWP","nc":1,"o":"-75.462732"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.496372,40.388845],"type":"Point"},"properties":{"a":"40.388845","cty":"MONTGOMERY","id":8836475,"mun":"UPPER HANOVER TWP","nc":6,"o":"-75.496372"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.25542,40.57001],"type":"Point"},"properties":{"a":"40.57001","cty":"BUCKS","hp":true,"id":8836476,"mun":"SPRINGFIELD TWP","nc":25,"ne":{"a":"40.57584","o":"-75.24675"},"o":"-75.25542","sw":{"a":"40.56418","o":"-75.2641"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.827181,40.340215],"type":"Point"},"properties":{"a":"40.340215","cty":"DAUPHIN","id":8836477,"mun":"LOWER PAXTON TWP","nc":1,"o":"-76.827181"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.789959,40.913036],"type":"Point"},"properties":{"a":"40.913036","cty":"NORTHUMBERLAND","id":8836478,"mun":"POINT TWP","nc":1,"o":"-76.789959"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.301559,40.668956],"type":"Point"},"properties":{"a":"40.668956","cty":"NORTHAMPTON","id":8836480,"mun":"BETHLEHEM TWP","nc":2,"o":"-75.301559"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.32063,41.051726],"type":"Point"},"properties":{"a":"41.051726","cty":"MONROE","id":8836481,"mun":"POCONO TWP","nc":2,"o":"-75.32063"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.228318,39.753365],"type":"Point"},"properties":{"a":"39.753365","cty":"LANCASTER","id":8836482,"mun":"FULTON TWP","nc":3,"o":"-76.228318"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.396935,40.637091],"type":"Point"},"properties":{"a":"40.637091","cty":"LEHIGH","id":8836483,"mun":"BETHLEHEM","nc":4,"o":"-75.396935"},"type":"Feature"}
 ]}
