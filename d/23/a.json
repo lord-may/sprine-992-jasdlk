@@ -3,5 +3,12 @@
 {"geometry":{"coordinates":[-75.481434,40.593881],"type":"Point"},"properties":{"a":"40.593881","cty":"LEHIGH","id":8836420,"mun":"ALLENTOWN","nc":1,"o":"-75.481434"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.7471,41.298785],"type":"Point"},"properties":{"a":"41.298785","cty":"LUZERNE","id":8836426,"mun":"JENKINS TWP","nc":3,"o":"-75.7471"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.615163,41.653418],"type":"Point"},"properties":{"a":"41.653418","cty":"SUSQUEHANNA","id":8836429,"mun":"CLIFFORD TWP","nc":1,"o":"-75.615163"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.553353,40.564795],"type":"Point"},"properties":{"a":"40.564795","cty":"LEHIGH","id":8836430,"mun":"LOWER MACUNGIE TWP","nc":12,"o":"-75.553353"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.553353,40.564795],"type":"Point"},"properties":{"a":"40.564795","cty":"LEHIGH","id":8836430,"mun":"LOWER MACUNGIE TWP","nc":12,"o":"-75.553353"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.161417,41.407534],"type":"Point"},"properties":{"a":"41.407534","cty":"PIKE","id":8836431,"mun":"BLOOMING GROVE TWP","nc":3,"o":"-75.161417"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.862233,40.283945],"type":"Point"},"properties":{"a":"40.283945","cty":"DAUPHIN","id":8836432,"mun":"SUSQUEHANNA TWP","nc":3,"o":"-76.862233"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.611735,41.648577],"type":"Point"},"properties":{"a":"41.648577","cty":"SUSQUEHANNA","id":8836433,"mun":"CLIFFORD TWP","nc":2,"o":"-75.611735"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.441743,40.804774],"type":"Point"},"properties":{"a":"40.804774","cty":"NORTHAMPTON","id":8836434,"mun":"MOORE TWP","nc":3,"o":"-75.441743"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.35122,41.159217],"type":"Point"},"properties":{"a":"41.159217","cty":"MONROE","id":8836435,"mun":"COOLBAUGH TWP","nc":2,"o":"-75.35122"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.474908,40.564829],"type":"Point"},"properties":{"a":"40.564829","cty":"LEHIGH","id":8836436,"mun":"ALLENTOWN","nc":13,"o":"-75.474908"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.203862,40.182438],"type":"Point"},"properties":{"a":"40.182438","cty":"CUMBERLAND","id":8836437,"mun":"CARLISLE BORO","nc":4,"o":"-77.203862"},"type":"Feature"}
 ]}

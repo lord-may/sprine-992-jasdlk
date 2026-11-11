@@ -1,11 +1,8 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.48123,41.93671],"type":"Point"},"properties":{"a":"41.93671","cty":"PROVIDENCE","hp":true,"id":20261071397,"mun":"LINCOLN","nc":7,"ne":{"a":"41.93796","o":"-71.48074"},"o":"-71.48123","sw":{"a":"41.93547","o":"-71.48171"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.487034,42.013697],"type":"Point"},"properties":{"a":"42.013697","cty":"PROVIDENCE","id":20261071399,"mun":"WOONSOCKET","nc":9,"o":"-71.487034"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.399281,41.960204],"type":"Point"},"properties":{"a":"41.960204","cty":"PROVIDENCE","id":20261071402,"mun":"CUMBERLAND","nc":4,"o":"-71.399281"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.450652,41.662754],"type":"Point"},"properties":{"a":"41.662754","cty":"KENT","id":20261071407,"mun":"EAST GREENWICH","nc":1,"o":"-71.450652"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.459101,41.681177],"type":"Point"},"properties":{"a":"41.681177","cty":"KENT","id":20261071409,"mun":"WARWICK","nc":1,"o":"-71.459101"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.45592,41.68458],"type":"Point"},"properties":{"a":"41.68458","cty":"KENT","hp":true,"id":20261071416,"mun":"WARWICK","nc":24,"ne":{"a":"41.68559","o":"-71.45373"},"o":"-71.45592","sw":{"a":"41.68357","o":"-71.45811"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.195766,41.658669],"type":"Point"},"properties":{"a":"41.658669","cty":"NEWPORT","id":20261071425,"mun":"TIVERTON","nc":1,"o":"-71.195766"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.44628,41.674635],"type":"Point"},"properties":{"a":"41.674635","cty":"KENT","id":20261071428,"mun":"WARWICK","nc":1,"o":"-71.44628"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.471132,41.692277],"type":"Point"},"properties":{"a":"41.692277","cty":"KENT","id":20261071430,"mun":"WARWICK","nc":1,"o":"-71.471132"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.350092,41.747187],"type":"Point"},"properties":{"a":"41.747187","cty":"BRISTOL","id":20261071433,"mun":"BARRINGTON","nc":1,"o":"-71.350092"},"type":"Feature"}
 ]}
