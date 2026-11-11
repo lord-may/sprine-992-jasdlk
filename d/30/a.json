@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.930072,44.766371],"type":"Point"},"properties":{"cause":"COMPANY INITIATED OUTAGE","comment":"Power is out so our crews can perform necessary maintenance. Thank you for your patience.","crewAssigned":true,"estimateTime":1794421800000,"id":"849971","nbrOut":1,"timeOff":1794407400000},"type":"Feature"},
-{"geometry":{"coordinates":[-73.297083,44.810164],"type":"Point"},"properties":{"cause":"TREES","crewAssigned":true,"estimateTime":1794419100000,"id":"849972","nbrOut":1,"timeOff":1794408060000},"type":"Feature"},
-{"geometry":{"geometries":[{"coordinates":[[[-72.610609,44.856407],[-72.610699,44.856592],[-72.610753,44.856649],[-72.610609,44.856407]]],"type":"Polygon"},{"coordinates":[-72.61069,44.856547],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"ACCIDENTS","crewAssigned":true,"estimateTime":1794422700000,"id":"849975","nbrOut":3,"timeOff":1794411240000},"type":"Feature"}
+{"geometry":{"coordinates":[-73.297083,44.810164],"type":"Point"},"properties":{"cause":"TREES","crewAssigned":true,"estimateTime":1794419100000,"id":"849972","nbrOut":1,"timeOff":1794408060000},"type":"Feature"}
 ]}
