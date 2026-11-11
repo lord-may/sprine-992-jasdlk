@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-78.818823,42.797138],"type":"Point"},"properties":{"EstRest":"11/11/2026 1:00:00 PM","Outages":1,"cause":"","county":"ERIE","crewstatus":"DISP ","customers":94,"hamlet":"BUFFALO","incidentnumber":"011BKL","incidents":1,"level":"street","opco":"NYSEG","street":"LAKE AVE","town":"HAMBURG T"},"type":"Feature"},
-{"geometry":{"coordinates":[-78.818823,42.797138],"type":"Point"},"properties":{"EstRest":"11/11/2026 1:00:00 PM","Outages":1,"county":"ERIE","customers":157708,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.466645,42.479645],"type":"Point"},"properties":{"EstRest":"11/11/2026 1:15:00 PM","Outages":2,"cause":"","county":"TOMPKINS","crewstatus":"ONST ","customers":305,"hamlet":"ITHACA","incidentnumber":"011BKB","incidents":1,"level":"street","opco":"NYSEG","street":"WARREN RD","town":"LANSING V"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.466645,42.479645],"type":"Point"},"properties":{"EstRest":"11/11/2026 1:15:00 PM","Outages":4,"county":"TOMPKINS","customers":49506,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+{"geometry":{"coordinates":[-78.818823,42.797138],"type":"Point"},"properties":{"EstRest":"11/11/2026 1:00:00 PM","Outages":1,"county":"ERIE","customers":157708,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}

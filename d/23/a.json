@@ -11,7 +11,6 @@
 {"geometry":{"coordinates":[-75.25542,40.57001],"type":"Point"},"properties":{"a":"40.57001","cty":"BUCKS","hp":true,"id":8836476,"mun":"SPRINGFIELD TWP","nc":25,"ne":{"a":"40.57584","o":"-75.24675"},"o":"-75.25542","sw":{"a":"40.56418","o":"-75.2641"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.301559,40.668956],"type":"Point"},"properties":{"a":"40.668956","cty":"NORTHAMPTON","id":8836480,"mun":"BETHLEHEM TWP","nc":2,"o":"-75.301559"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.124176,40.936773],"type":"Point"},"properties":{"a":"40.936773","cty":"UNION","id":8836485,"mun":"LEWIS TWP","nc":6,"o":"-77.124176"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.923937,40.710312],"type":"Point"},"properties":{"a":"40.710312","cty":"SNYDER","id":8836488,"mun":"CHAPMAN TWP","nc":1,"o":"-76.923937"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.553465,40.563289],"type":"Point"},"properties":{"a":"40.563289","cty":"LEHIGH","id":8836508,"mun":"LOWER MACUNGIE TWP","nc":2,"o":"-75.553465"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.451674,40.994229],"type":"Point"},"properties":{"a":"40.994229","cty":"COLUMBIA","id":8836515,"mun":"BLOOMSBURG","nc":9,"o":"-76.451674"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.780183,40.858464],"type":"Point"},"properties":{"a":"40.858464","cty":"NORTHUMBERLAND","id":8836518,"mun":"UPPER AUGUSTA TWP","nc":32,"o":"-76.780183"},"type":"Feature"},
@@ -33,8 +32,6 @@
 {"geometry":{"coordinates":[-75.607688,40.761528],"type":"Point"},"properties":{"a":"40.761528","cty":"LEHIGH","id":8836586,"mun":"WASHINGTON TWP","nc":13,"o":"-75.607688"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.416765,41.021375],"type":"Point"},"properties":{"a":"41.021375","cty":"COLUMBIA","id":8836588,"mun":"SCOTT TWP","nc":2,"o":"-76.416765"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.282824,40.086133],"type":"Point"},"properties":{"a":"40.086133","cty":"LANCASTER","id":8836591,"mun":"MANHEIM TWP","nc":9,"o":"-76.282824"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.505259,41.336867],"type":"Point"},"properties":{"a":"41.336867","cty":"LACKAWANNA","id":8836595,"mun":"MADISON TWP","nc":3,"o":"-75.505259"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.579558,40.966238],"type":"Point"},"properties":{"a":"40.966238","cty":"MONTOUR","id":8836597,"mun":"MAHONING TWP","nc":3,"o":"-76.579558"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.281709,41.562569],"type":"Point"},"properties":{"a":"41.562569","cty":"WAYNE","id":8836598,"mun":"TEXAS TWP","nc":1,"o":"-75.281709"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.815555,40.235827],"type":"Point"},"properties":{"a":"40.235827","cty":"DAUPHIN","id":8836599,"mun":"SWATARA TWP","nc":8,"o":"-76.815555"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.178215,40.588344],"type":"Point"},"properties":{"a":"40.588344","cty":"SCHUYLKILL","id":8836600,"mun":"SOUTH MANHEIM TWP","nc":3,"o":"-76.178215"},"type":"Feature"}
 ]}
