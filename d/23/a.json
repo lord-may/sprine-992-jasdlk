@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.356009,40.647052],"type":"Point"},"properties":{"a":"40.647052","cty":"NORTHAMPTON","id":8836681,"mun":"BETHLEHEM","nc":18,"o":"-75.356009"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.30879,40.55844],"type":"Point"},"properties":{"a":"40.55844","cty":"NORTHAMPTON","hp":true,"id":8836689,"mun":"LOWER SAUCON TWP","nc":50,"ne":{"a":"40.56271","o":"-75.29544"},"o":"-75.30879","sw":{"a":"40.55417","o":"-75.32214"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.304218,39.987806],"type":"Point"},"properties":{"a":"39.987806","cty":"LANCASTER","id":8836747,"mun":"PEQUEA TWP","nc":3,"o":"-76.304218"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.472046,40.61077],"type":"Point"},"properties":{"a":"40.61077","cty":"LEHIGH","id":8836748,"mun":"ALLENTOWN","nc":1,"o":"-75.472046"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.472046,40.61077],"type":"Point"},"properties":{"a":"40.61077","cty":"LEHIGH","id":8836748,"mun":"ALLENTOWN","nc":1,"o":"-75.472046"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.626552,40.156173],"type":"Point"},"properties":{"a":"40.156173","cty":"LANCASTER","id":8836751,"mun":"WEST DONEGAL TWP","nc":3,"o":"-76.626552"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.356009,40.647052],"type":"Point"},"properties":{"a":"40.647052","cty":"NORTHAMPTON","id":8836752,"mun":"BETHLEHEM","nc":18,"o":"-75.356009"},"type":"Feature"}
 ]}
