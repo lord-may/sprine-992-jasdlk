@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-73.461351,44.61841],"type":"Point"},"properties":{"EstRest":"11/11/2026 6:45:00 PM","Outages":40,"county":"CLINTON","customers":28857,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.464462,44.619669],"type":"Point"},"properties":{"EstRest":"11/11/2026 6:45:00 PM","Outages":3,"cause":"","county":"CLINTON","crewstatus":"ONST ","customers":3,"hamlet":"PLATTSBURGH","incidentnumber":"011BNE","incidents":1,"level":"street","opco":"NYSEG","street":"COOK RD","town":"PERU T"},"type":"Feature"}
+{"geometry":{"coordinates":[-73.464462,44.619669],"type":"Point"},"properties":{"EstRest":"11/11/2026 6:45:00 PM","Outages":3,"cause":"","county":"CLINTON","crewstatus":"ONST ","customers":3,"hamlet":"PLATTSBURGH","incidentnumber":"011BNE","incidents":1,"level":"street","opco":"NYSEG","street":"COOK RD","town":"PERU T"},"type":"Feature"},
+{"geometry":{"coordinates":[-78.728933,42.860773],"type":"Point"},"properties":{"EstRest":"11/11/2026 8:15:00 PM","Outages":30,"cause":"","county":"ERIE","crewstatus":"DISP ","customers":30,"hamlet":"BUFFALO","incidentnumber":"011BO5","incidents":1,"level":"street","opco":"NYSEG","street":"ORGAN CRES","town":"WEST SENECA T"},"type":"Feature"},
+{"geometry":{"coordinates":[-78.729739,42.860557],"type":"Point"},"properties":{"EstRest":"11/11/2026 8:15:00 PM","Outages":114,"county":"ERIE","customers":157708,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
