@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.720166,44.777746],"type":"Point"},"properties":{"EstRest":"11/11/2026 3:00:00 PM","Outages":1,"cause":"","county":"SOMERSET","crewstatus":"ENRT ","customers":218,"hamlet":"SKOWHEGAN","incidentnumber":"0046S1","incidents":1,"level":"street","opco":"CMP","street":"NORTH AVE","town":"SKOWHEGAN"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.720166,44.777746],"type":"Point"},"properties":{"EstRest":"11/11/2026 3:00:00 PM","Outages":1,"cause":"Animal","county":"SOMERSET","crewstatus":"CMPL ","customers":218,"hamlet":"SKOWHEGAN","incidentnumber":"0046S1","incidents":1,"level":"street","opco":"CMP","street":"NORTH AVE","town":"SKOWHEGAN"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.720166,44.777746],"type":"Point"},"properties":{"EstRest":"11/11/2026 3:00:00 PM","Outages":1,"county":"SOMERSET","customers":31730,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
