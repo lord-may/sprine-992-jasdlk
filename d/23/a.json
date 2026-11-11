@@ -1,12 +1,10 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.7471,41.298785],"type":"Point"},"properties":{"a":"41.298785","cty":"LUZERNE","id":8836426,"mun":"JENKINS TWP","nc":3,"o":"-75.7471"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.409279,41.007018],"type":"Point"},"properties":{"a":"41.007018","cty":"COLUMBIA","id":8836448,"mun":"SCOTT TWP","nc":9,"o":"-76.409279"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.46798,40.6109],"type":"Point"},"properties":{"a":"40.6109","cty":"LEHIGH","hp":true,"id":8836456,"mun":"ALLENTOWN","nc":92,"ne":{"a":"40.61158","o":"-75.46753"},"o":"-75.46798","sw":{"a":"40.61022","o":"-75.46844"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.978326,40.339421],"type":"Point"},"properties":{"a":"40.339421","cty":"BERKS","id":8836467,"mun":"WYOMISSING BORO","nc":1,"o":"-75.978326"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.124176,40.936773],"type":"Point"},"properties":{"a":"40.936773","cty":"UNION","id":8836485,"mun":"LEWIS TWP","nc":6,"o":"-77.124176"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.451674,40.994229],"type":"Point"},"properties":{"a":"40.994229","cty":"COLUMBIA","id":8836515,"mun":"BLOOMSBURG","nc":9,"o":"-76.451674"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.780183,40.858464],"type":"Point"},"properties":{"a":"40.858464","cty":"NORTHUMBERLAND","id":8836518,"mun":"UPPER AUGUSTA TWP","nc":32,"o":"-76.780183"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.376465,40.589688],"type":"Point"},"properties":{"a":"40.589688","cty":"NORTHAMPTON","id":8836545,"mun":"LOWER SAUCON TWP","nc":10,"o":"-75.376465"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.928879,40.379601],"type":"Point"},"properties":{"a":"40.379601","cty":"DAUPHIN","id":8836570,"mun":"MIDDLE PAXTON TWP","nc":3,"o":"-76.928879"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.789234,40.913252],"type":"Point"},"properties":{"a":"40.913252","cty":"NORTHUMBERLAND","id":8836572,"mun":"POINT TWP","nc":1,"o":"-76.789234"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.012863,41.311196],"type":"Point"},"properties":{"a":"41.311196","cty":"LYCOMING","id":8836573,"mun":"HEPBURN TWP","nc":2,"o":"-77.012863"},"type":"Feature"},
@@ -17,8 +15,9 @@
 {"geometry":{"coordinates":[-75.75677,41.531626],"type":"Point"},"properties":{"a":"41.531626","cty":"LACKAWANNA","id":8836616,"mun":"WEST ABINGTON TWP","nc":1,"o":"-75.75677"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.027676,41.223629],"type":"Point"},"properties":{"a":"41.223629","cty":"LYCOMING","id":8836619,"mun":"DUBOISTOWN BORO","nc":7,"o":"-77.027676"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.615499,40.959108],"type":"Point"},"properties":{"a":"40.959108","cty":"MONTOUR","id":8836621,"mun":"DANVILLE BORO","nc":4,"o":"-76.615499"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.387891,40.925447],"type":"Point"},"properties":{"a":"40.925447","cty":"MONROE","id":8836624,"mun":"CHESTNUT HILL TWP","nc":10,"o":"-75.387891"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.178121,41.681874],"type":"Point"},"properties":{"a":"41.681874","cty":"WAYNE","id":8836627,"mun":"DAMASCUS TWP","nc":1,"o":"-75.178121"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.021783,40.294831],"type":"Point"},"properties":{"a":"40.294831","cty":"BERKS","id":8836649,"mun":"SPRING TWP","nc":2,"o":"-76.021783"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.407641,41.00768],"type":"Point"},"properties":{"a":"41.00768","cty":"COLUMBIA","id":8836651,"mun":"SCOTT TWP","nc":2,"o":"-76.407641"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.407641,41.00768],"type":"Point"},"properties":{"a":"41.00768","cty":"COLUMBIA","id":8836651,"mun":"SCOTT TWP","nc":2,"o":"-76.407641"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.080246,40.811422],"type":"Point"},"properties":{"a":"40.811422","cty":"SCHUYLKILL","id":8836654,"mun":"RYAN TWP","nc":1,"o":"-76.080246"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.398438,40.639881],"type":"Point"},"properties":{"a":"40.639881","cty":"NORTHAMPTON","id":8836663,"mun":"HANOVER TWP","nc":5,"o":"-75.398438"},"type":"Feature"}
 ]}

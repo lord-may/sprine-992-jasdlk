@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-71.825178,41.399933],"type":"Point"},"properties":{"a":"41.399933","cty":"WASHINGTON","id":20261071484,"mun":"WESTERLY","nc":1,"o":"-71.825178"},"type":"Feature"}
 ]}
