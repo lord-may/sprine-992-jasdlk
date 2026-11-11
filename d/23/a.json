@@ -11,6 +11,5 @@
 {"geometry":{"coordinates":[-75.30879,40.55657],"type":"Point"},"properties":{"a":"40.55657","cty":"NORTHAMPTON","hp":true,"id":8836689,"mun":"LOWER SAUCON TWP","nc":65,"ne":{"a":"40.56271","o":"-75.29544"},"o":"-75.30879","sw":{"a":"40.55043","o":"-75.32214"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.193929,40.997143],"type":"Point"},"properties":{"a":"40.997143","cty":"MONROE","id":8836712,"mun":"STROUD TWP","nc":5,"o":"-75.193929"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.39441,41.493875],"type":"Point"},"properties":{"a":"41.493875","cty":"WAYNE","id":8836713,"mun":"SOUTH CANAAN TWP","nc":1,"o":"-75.39441"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.96056,41.25371],"type":"Point"},"properties":{"a":"41.25371","cty":"LYCOMING","id":8836714,"mun":"LOYALSOCK TWP","nc":28,"o":"-76.96056"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.80935,40.307293],"type":"Point"},"properties":{"a":"40.307293","cty":"DAUPHIN","id":8836717,"mun":"LOWER PAXTON TWP","nc":1,"o":"-76.80935"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.96056,41.25371],"type":"Point"},"properties":{"a":"41.25371","cty":"LYCOMING","id":8836714,"mun":"LOYALSOCK TWP","nc":28,"o":"-76.96056"},"type":"Feature"}
 ]}
