@@ -1,3 +1,6 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-71.494475,41.864435],"type":"Point"},"properties":{"a":"41.864435","cty":"PROVIDENCE","id":20261071730,"mun":"JOHNSTON","nc":1,"o":"-71.494475"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.377997,41.881345],"type":"Point"},"properties":{"a":"41.881345","cty":"PROVIDENCE","id":20261071731,"mun":"PAWTUCKET","nc":1,"o":"-71.377997"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.415251,41.994779],"type":"Point"},"properties":{"a":"41.994779","cty":"PROVIDENCE","id":20261071733,"mun":"CUMBERLAND","nc":1,"o":"-71.415251"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.748032,41.567906],"type":"Point"},"properties":{"a":"41.567906","cty":"WASHINGTON","id":20261071734,"mun":"EXETER","nc":1,"o":"-71.748032"},"type":"Feature"}
 ]}
