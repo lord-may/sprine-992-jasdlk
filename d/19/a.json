@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.519513,42.599871],"type":"Point"},"properties":{"EstRest":"11/12/2026 7:00:00 AM","Outages":1,"cause":"","county":"CHENANGO","crewstatus":"DISP ","customers":81,"hamlet":"NORWICH","incidentnumber":"011BOX","incidents":1,"level":"street","opco":"NYSEG","street":"STATE HIGHWAY 12","town":"NORTH NORWI T"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.519513,42.599871],"type":"Point"},"properties":{"EstRest":"11/12/2026 7:00:00 AM","Outages":1,"county":"CHENANGO","customers":22859,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+
 ]}

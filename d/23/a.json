@@ -2,5 +2,6 @@
 {"geometry":{"coordinates":[-75.359782,41.010928],"type":"Point"},"properties":{"a":"41.010928","cty":"MONROE","id":8836784,"mun":"JACKSON TWP","nc":1,"o":"-75.359782"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.003571,40.472593],"type":"Point"},"properties":{"a":"40.472593","cty":"PERRY","id":8836785,"mun":"WATTS TWP","nc":1,"o":"-77.003571"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.3061,40.98585],"type":"Point"},"properties":{"a":"40.98585","cty":"MONROE","hp":true,"id":8836788,"mun":"JACKSON TWP","nc":21,"ne":{"a":"40.99112","o":"-75.3037"},"o":"-75.3061","sw":{"a":"40.98057","o":"-75.3085"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.44119,41.082507],"type":"Point"},"properties":{"a":"41.082507","cty":"COLUMBIA","id":8836790,"mun":"ORANGE TWP","nc":1,"o":"-76.44119"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.44119,41.082507],"type":"Point"},"properties":{"a":"41.082507","cty":"COLUMBIA","id":8836790,"mun":"ORANGE TWP","nc":1,"o":"-76.44119"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.435561,40.523335],"type":"Point"},"properties":{"a":"40.523335","cty":"LEHIGH","id":8836792,"mun":"UPPER SAUCON TWP","nc":2,"o":"-75.435561"},"type":"Feature"}
 ]}
