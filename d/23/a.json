@@ -1,7 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.16587,40.34835],"type":"Point"},"properties":{"a":"40.34835","cty":"BERKS","hp":true,"id":8836974,"mun":"HEIDELBERG TWP","nc":7,"ne":{"a":"40.35048","o":"-76.16208"},"o":"-76.16587","sw":{"a":"40.34623","o":"-76.16966"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.105168,40.106197],"type":"Point"},"properties":{"a":"40.106197","cty":"LANCASTER","id":8837002,"mun":"EARL TWP","nc":1,"o":"-76.105168"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.194236,40.156052],"type":"Point"},"properties":{"a":"40.156052","cty":"LANCASTER","id":8837019,"mun":"AKRON BORO","nc":7,"o":"-76.194236"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.3241,41.46226],"type":"Point"},"properties":{"a":"41.46226","cty":"WAYNE","hp":true,"id":8837025,"mun":"LAKE TWP","nc":90,"ne":{"a":"41.46409","o":"-75.31802"},"o":"-75.3241","sw":{"a":"41.46043","o":"-75.33017"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.56144,41.38192],"type":"Point"},"properties":{"a":"41.38192","cty":"LACKAWANNA","hp":true,"id":8837036,"mun":"ROARING BROOK TWP","nc":199,"ne":{"a":"41.39457","o":"-75.5451"},"o":"-75.56144","sw":{"a":"41.36927","o":"-75.57777"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.237318,41.53958],"type":"Point"},"properties":{"a":"41.53958","cty":"WAYNE","id":8837038,"mun":"TEXAS TWP","nc":2,"o":"-75.237318"},"type":"Feature"},
@@ -11,5 +10,6 @@
 {"geometry":{"coordinates":[-75.344229,40.51834],"type":"Point"},"properties":{"a":"40.51834","cty":"BUCKS","id":8837062,"mun":"SPRINGFIELD TWP","nc":1,"o":"-75.344229"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.517212,40.580547],"type":"Point"},"properties":{"a":"40.580547","cty":"LEHIGH","id":8837087,"mun":"SOUTH WHITEHALL TWP","nc":11,"o":"-75.517212"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.53615,40.157939],"type":"Point"},"properties":{"a":"40.157939","cty":"LANCASTER","id":8837102,"mun":"MOUNT JOY TWP","nc":2,"o":"-76.53615"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.054857,41.329784],"type":"Point"},"properties":{"a":"41.329784","cty":"PIKE","id":8837104,"mun":"BLOOMING GROVE TWP","nc":2,"o":"-75.054857"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.633818,41.712484],"type":"Point"},"properties":{"a":"41.712484","cty":"SUSQUEHANNA","id":8837106,"mun":"CLIFFORD TWP","nc":2,"o":"-75.633818"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.066611,41.328727],"type":"Point"},"properties":{"a":"41.328727","cty":"PIKE","id":8837109,"mun":"BLOOMING GROVE TWP","nc":4,"o":"-75.066611"},"type":"Feature"}
 ]}
