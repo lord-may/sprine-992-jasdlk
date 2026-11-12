@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.55124,42.606401],"type":"Point"},"properties":{"EstRest":"11/12/2026 9:15:00 AM","Outages":48,"county":"CHENANGO","customers":22859,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.552179,42.608617],"type":"Point"},"properties":{"EstRest":"11/12/2026 9:15:00 AM","Outages":1,"cause":"","county":"CHENANGO","crewstatus":"ONST ","customers":3,"hamlet":"PLYMOUTH","incidentnumber":"011BPK","incidents":1,"level":"street","opco":"NYSEG","street":"GERMAN HOLLOW RD","town":"PLYMOUTH T"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.065963,42.083773],"type":"Point"},"properties":{"EstRest":"11/12/2026 12:15:00 PM","Outages":2070,"county":"BROOME","customers":91450,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.133721,42.050983],"type":"Point"},"properties":{"EstRest":"11/12/2026 12:15:00 PM","Outages":49,"cause":"","county":"TIOGA","crewstatus":"     ","customers":49,"hamlet":"APALACHIN","incidentnumber":"011BQS","incidents":1,"level":"street","opco":"NYSEG","street":"LORI DR","town":"OWEGO T"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.144764,42.058653],"type":"Point"},"properties":{"EstRest":"11/12/2026 12:15:00 PM","Outages":1574,"county":"TIOGA","customers":20231,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-73.564447,41.224518],"type":"Point"},"properties":{"EstRest":"11/12/2026 11:00:00 AM","Outages":4,"county":"WESTCHESTER","customers":33728,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}

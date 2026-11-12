@@ -8,5 +8,7 @@
 {"geometry":{"coordinates":[-77.392133,40.13036],"type":"Point"},"properties":{"a":"40.13036","cty":"CUMBERLAND","id":8836812,"mun":"WEST PENNSBORO TWP","nc":1,"o":"-77.392133"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.41435,40.639212],"type":"Point"},"properties":{"a":"40.639212","cty":"LEHIGH","id":8836813,"mun":"BETHLEHEM","nc":9,"o":"-75.41435"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.77407,40.285162],"type":"Point"},"properties":{"a":"40.285162","cty":"DAUPHIN","id":8836818,"mun":"LOWER PAXTON TWP","nc":19,"o":"-76.77407"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.41233,40.66309],"type":"Point"},"properties":{"a":"40.66309","cty":"SCHUYLKILL","hp":true,"id":8836819,"mun":"HEGINS TWP","nc":21,"ne":{"a":"40.66907","o":"-76.39436"},"o":"-76.41233","sw":{"a":"40.65711","o":"-76.4303"}},"type":"Feature"}
+{"geometry":{"coordinates":[-76.41233,40.66309],"type":"Point"},"properties":{"a":"40.66309","cty":"SCHUYLKILL","hp":true,"id":8836819,"mun":"HEGINS TWP","nc":21,"ne":{"a":"40.66907","o":"-76.39436"},"o":"-76.41233","sw":{"a":"40.65711","o":"-76.4303"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.225246,40.990533],"type":"Point"},"properties":{"a":"40.990533","cty":"MONROE","id":8836828,"mun":"STROUD TWP","nc":7,"o":"-75.225246"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.259043,40.690931],"type":"Point"},"properties":{"a":"40.690931","cty":"SCHUYLKILL","id":8836829,"mun":"MINERSVILLE BORO","nc":1,"o":"-76.259043"},"type":"Feature"}
 ]}
