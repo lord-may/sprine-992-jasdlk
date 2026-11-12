@@ -1,10 +1,7 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.16587,40.34835],"type":"Point"},"properties":{"a":"40.34835","cty":"BERKS","hp":true,"id":8836974,"mun":"HEIDELBERG TWP","nc":7,"ne":{"a":"40.35048","o":"-76.16208"},"o":"-76.16587","sw":{"a":"40.34623","o":"-76.16966"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.105168,40.106197],"type":"Point"},"properties":{"a":"40.106197","cty":"LANCASTER","id":8837002,"mun":"EARL TWP","nc":1,"o":"-76.105168"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.237318,41.53958],"type":"Point"},"properties":{"a":"41.53958","cty":"WAYNE","id":8837038,"mun":"TEXAS TWP","nc":2,"o":"-75.237318"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.2859,41.44946],"type":"Point"},"properties":{"a":"41.44946","cty":"WAYNE","hp":true,"id":8837056,"mun":"PAUPACK TWP","nc":17,"ne":{"a":"41.45342","o":"-75.28348"},"o":"-75.2859","sw":{"a":"41.4455","o":"-75.28832"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.344229,40.51834],"type":"Point"},"properties":{"a":"40.51834","cty":"BUCKS","id":8837062,"mun":"SPRINGFIELD TWP","nc":1,"o":"-75.344229"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.517212,40.580547],"type":"Point"},"properties":{"a":"40.580547","cty":"LEHIGH","id":8837087,"mun":"SOUTH WHITEHALL TWP","nc":11,"o":"-75.517212"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.53615,40.157939],"type":"Point"},"properties":{"a":"40.157939","cty":"LANCASTER","id":8837102,"mun":"MOUNT JOY TWP","nc":2,"o":"-76.53615"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.633818,41.712484],"type":"Point"},"properties":{"a":"41.712484","cty":"SUSQUEHANNA","id":8837106,"mun":"CLIFFORD TWP","nc":2,"o":"-75.633818"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.066611,41.328727],"type":"Point"},"properties":{"a":"41.328727","cty":"PIKE","id":8837109,"mun":"BLOOMING GROVE TWP","nc":4,"o":"-75.066611"},"type":"Feature"},
@@ -15,5 +12,9 @@
 {"geometry":{"coordinates":[-75.20858,41.17524],"type":"Point"},"properties":{"a":"41.17524","cty":"MONROE","hp":true,"id":8837122,"mun":"BARRETT TWP","nc":24,"ne":{"a":"41.17789","o":"-75.20539"},"o":"-75.20858","sw":{"a":"41.1726","o":"-75.21176"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.977828,40.961177],"type":"Point"},"properties":{"a":"40.961177","cty":"LUZERNE","id":8837125,"mun":"HAZLETON","nc":10,"o":"-75.977828"},"type":"Feature"},
 {"geometry":{"coordinates":[-74.898545,41.388685],"type":"Point"},"properties":{"a":"41.388685","cty":"PIKE","id":8837126,"mun":"SHOHOLA TWP","nc":5,"o":"-74.898545"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.237634,41.23283],"type":"Point"},"properties":{"a":"41.23283","cty":"LYCOMING","id":8837127,"mun":"PIATT TWP","nc":3,"o":"-77.237634"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.237634,41.23283],"type":"Point"},"properties":{"a":"41.23283","cty":"LYCOMING","id":8837127,"mun":"PIATT TWP","nc":3,"o":"-77.237634"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.396833,41.331203],"type":"Point"},"properties":{"a":"41.331203","cty":"WAYNE","id":8837132,"mun":"STERLING TWP","nc":3,"o":"-75.396833"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.19449,41.027],"type":"Point"},"properties":{"a":"41.027","cty":"MONROE","hp":true,"id":8837133,"mun":"STROUD TWP","nc":40,"ne":{"a":"41.02862","o":"-75.19208"},"o":"-75.19449","sw":{"a":"41.02537","o":"-75.19691"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.522937,40.58117],"type":"Point"},"properties":{"a":"40.58117","cty":"LEHIGH","id":8837134,"mun":"SOUTH WHITEHALL TWP","nc":2,"o":"-75.522937"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.784546,41.571921],"type":"Point"},"properties":{"a":"41.571921","cty":"WYOMING","id":8837135,"mun":"CLINTON TWP","nc":1,"o":"-75.784546"},"type":"Feature"}
 ]}
