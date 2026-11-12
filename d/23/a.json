@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.229616,40.696829],"type":"Point"},"properties":{"a":"40.696829","cty":"SCHUYLKILL","id":8836801,"mun":"NORWEGIAN TWP","nc":2,"o":"-76.229616"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.499405,40.668235],"type":"Point"},"properties":{"a":"40.668235","cty":"LEHIGH","id":8836838,"mun":"COPLAY BORO","nc":10,"o":"-75.499405"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.29117,41.30514],"type":"Point"},"properties":{"a":"41.30514","cty":"PIKE","hp":true,"id":8836874,"mun":"GREENE TWP","nc":21,"ne":{"a":"41.3087","o":"-75.28424"},"o":"-75.29117","sw":{"a":"41.30157","o":"-75.29811"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.137616,40.353627],"type":"Point"},"properties":{"a":"40.353627","cty":"BERKS","id":8836944,"mun":"HEIDELBERG TWP","nc":16,"o":"-76.137616"},"type":"Feature"},
@@ -10,9 +9,10 @@
 {"geometry":{"coordinates":[-75.45449,41.43342],"type":"Point"},"properties":{"a":"41.43342","cty":"LACKAWANNA","hp":true,"id":8836958,"mun":"JEFFERSON TWP","nc":73,"ne":{"a":"41.43595","o":"-75.45046"},"o":"-75.45449","sw":{"a":"41.43089","o":"-75.45852"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.91806,40.275826],"type":"Point"},"properties":{"a":"40.275826","cty":"CUMBERLAND","id":8836963,"mun":"EAST PENNSBORO TWP","nc":12,"o":"-76.91806"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.996398,40.952531],"type":"Point"},"properties":{"a":"40.952531","cty":"LUZERNE","id":8836967,"mun":"HAZLE TWP","nc":2,"o":"-75.996398"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.305162,40.358596],"type":"Point"},"properties":{"a":"40.358596","cty":"BUCKS","id":8836968,"mun":"SELLERSVILLE BORO","nc":9,"o":"-75.305162"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.305162,40.358596],"type":"Point"},"properties":{"a":"40.358596","cty":"BUCKS","id":8836968,"mun":"SELLERSVILLE BORO","nc":1,"o":"-75.305162"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.967054,40.992308],"type":"Point"},"properties":{"a":"40.992308","cty":"LUZERNE","id":8836971,"mun":"HAZLE TWP","nc":6,"o":"-75.967054"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.16587,40.34835],"type":"Point"},"properties":{"a":"40.34835","cty":"BERKS","hp":true,"id":8836974,"mun":"HEIDELBERG TWP","nc":7,"ne":{"a":"40.35048","o":"-76.16208"},"o":"-76.16587","sw":{"a":"40.34623","o":"-76.16966"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.84266,40.06715],"type":"Point"},"properties":{"a":"40.06715","cty":"CHESTER","hp":true,"id":8836976,"mun":"HONEYBROOK TWP","nc":37,"ne":{"a":"40.06906","o":"-75.83741"},"o":"-75.84266","sw":{"a":"40.06523","o":"-75.84791"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.249636,41.04991],"type":"Point"},"properties":{"a":"41.04991","cty":"COLUMBIA","id":8836983,"mun":"BERWICK BORO","nc":7,"o":"-76.249636"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.487613,40.678439],"type":"Point"},"properties":{"a":"40.678439","cty":"NORTHAMPTON","id":8836984,"mun":"NORTHAMPTON BORO","nc":12,"o":"-75.487613"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.98752,40.957922],"type":"Point"},"properties":{"a":"40.957922","cty":"LUZERNE","id":8836987,"mun":"WEST HAZLETON BORO","nc":5,"o":"-75.98752"},"type":"Feature"}
 ]}
