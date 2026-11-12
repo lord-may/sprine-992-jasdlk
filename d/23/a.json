@@ -10,8 +10,5 @@
 {"geometry":{"coordinates":[-75.28915,41.29688],"type":"Point"},"properties":{"a":"41.29688","cty":"PIKE","hp":true,"id":8836874,"mun":"GREENE TWP","nc":126,"ne":{"a":"41.3087","o":"-75.27387"},"o":"-75.28915","sw":{"a":"41.28505","o":"-75.30444"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.92743,41.16669],"type":"Point"},"properties":{"a":"41.16669","cty":"LUZERNE","hp":true,"id":8836879,"mun":"RICE TWP","nc":37,"ne":{"a":"41.17145","o":"-75.92171"},"o":"-75.92743","sw":{"a":"41.16192","o":"-75.93315"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.382743,40.608598],"type":"Point"},"properties":{"a":"40.608598","cty":"JUNIATA","id":8836899,"mun":"FERMANAGH TWP","nc":3,"o":"-77.382743"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.22758,40.14576],"type":"Point"},"properties":{"a":"40.14576","cty":"LANCASTER","hp":true,"id":8836900,"mun":"WARWICK TWP","nc":16,"ne":{"a":"40.1468","o":"-76.22642"},"o":"-76.22758","sw":{"a":"40.14471","o":"-76.22873"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.249038,41.198183],"type":"Point"},"properties":{"a":"41.198183","cty":"MONROE","id":8836908,"mun":"BARRETT TWP","nc":1,"o":"-75.249038"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.48656,41.062011],"type":"Point"},"properties":{"a":"41.062011","cty":"MONROE","id":8836919,"mun":"TUNKHANNOCK TWP","nc":5,"o":"-75.48656"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.36416,41.44072],"type":"Point"},"properties":{"a":"41.44072","cty":"WAYNE","id":8836923,"mun":"LAKE TWP","nc":3,"o":"-75.36416"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.249038,41.198183],"type":"Point"},"properties":{"a":"41.198183","cty":"MONROE","id":8836908,"mun":"BARRETT TWP","nc":1,"o":"-75.249038"},"type":"Feature"}
 ]}
