@@ -6,8 +6,8 @@
 {"geometry":{"coordinates":[-75.622026,40.712767],"type":"Point"},"properties":{"a":"40.712767","cty":"LEHIGH","id":8836805,"mun":"WASHINGTON TWP","nc":2,"o":"-75.622026"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.840277,40.281688],"type":"Point"},"properties":{"a":"40.281688","cty":"DAUPHIN","id":8836806,"mun":"SUSQUEHANNA TWP","nc":3,"o":"-76.840277"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.821249,40.280956],"type":"Point"},"properties":{"a":"40.280956","cty":"DAUPHIN","id":8836808,"mun":"LOWER PAXTON TWP","nc":4,"o":"-76.821249"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.41462,40.961421],"type":"Point"},"properties":{"a":"40.961421","cty":"MONROE","id":8836810,"mun":"CHESTNUT HILL TWP","nc":3,"o":"-75.41462"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.854299,41.087361],"type":"Point"},"properties":{"a":"41.087361","cty":"NORTHUMBERLAND","id":8836811,"mun":"DELAWARE TWP","nc":3,"o":"-76.854299"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.392133,40.13036],"type":"Point"},"properties":{"a":"40.13036","cty":"CUMBERLAND","id":8836812,"mun":"WEST PENNSBORO TWP","nc":1,"o":"-77.392133"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.41435,40.639212],"type":"Point"},"properties":{"a":"40.639212","cty":"LEHIGH","id":8836813,"mun":"BETHLEHEM","nc":9,"o":"-75.41435"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.41435,40.639212],"type":"Point"},"properties":{"a":"40.639212","cty":"LEHIGH","id":8836813,"mun":"BETHLEHEM","nc":9,"o":"-75.41435"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.957382,41.118035],"type":"Point"},"properties":{"a":"41.118035","cty":"LUZERNE","id":8836816,"mun":"RICE TWP","nc":4,"o":"-75.957382"},"type":"Feature"}
 ]}
