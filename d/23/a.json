@@ -13,6 +13,7 @@
 {"geometry":{"coordinates":[-75.967054,40.992308],"type":"Point"},"properties":{"a":"40.992308","cty":"LUZERNE","id":8836971,"mun":"HAZLE TWP","nc":6,"o":"-75.967054"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.16587,40.34835],"type":"Point"},"properties":{"a":"40.34835","cty":"BERKS","hp":true,"id":8836974,"mun":"HEIDELBERG TWP","nc":7,"ne":{"a":"40.35048","o":"-76.16208"},"o":"-76.16587","sw":{"a":"40.34623","o":"-76.16966"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.84266,40.06715],"type":"Point"},"properties":{"a":"40.06715","cty":"CHESTER","hp":true,"id":8836976,"mun":"HONEYBROOK TWP","nc":37,"ne":{"a":"40.06906","o":"-75.83741"},"o":"-75.84266","sw":{"a":"40.06523","o":"-75.84791"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.487613,40.678439],"type":"Point"},"properties":{"a":"40.678439","cty":"NORTHAMPTON","id":8836984,"mun":"NORTHAMPTON BORO","nc":12,"o":"-75.487613"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.98752,40.957922],"type":"Point"},"properties":{"a":"40.957922","cty":"LUZERNE","id":8836987,"mun":"WEST HAZLETON BORO","nc":5,"o":"-75.98752"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.98752,40.957922],"type":"Point"},"properties":{"a":"40.957922","cty":"LUZERNE","id":8836987,"mun":"WEST HAZLETON BORO","nc":5,"o":"-75.98752"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.222148,40.124832],"type":"Point"},"properties":{"a":"40.124832","cty":"LANCASTER","id":8836990,"mun":"WEST EARL TWP","nc":9,"o":"-76.222148"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.454844,41.245012],"type":"Point"},"properties":{"a":"41.245012","cty":"WAYNE","id":8836994,"mun":"LEHIGH TWP","nc":16,"o":"-75.454844"},"type":"Feature"}
 ]}
