@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.633802,41.845491],"type":"Point"},"properties":{"a":"41.845491","cty":"PROVIDENCE","id":20261071539,"mun":"SCITUATE","nc":4,"o":"-71.633802"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.39757,41.73236],"type":"Point"},"properties":{"a":"41.73236","cty":"KENT","hp":true,"id":20261071550,"mun":"WARWICK","nc":64,"ne":{"a":"41.73383","o":"-71.39382"},"o":"-71.39757","sw":{"a":"41.73089","o":"-71.40133"}},"type":"Feature"}
+{"geometry":{"coordinates":[-71.39757,41.73236],"type":"Point"},"properties":{"a":"41.73236","cty":"KENT","hp":true,"id":20261071550,"mun":"WARWICK","nc":64,"ne":{"a":"41.73383","o":"-71.39382"},"o":"-71.39757","sw":{"a":"41.73089","o":"-71.40133"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.697658,41.9227],"type":"Point"},"properties":{"a":"41.9227","cty":"PROVIDENCE","id":20261071563,"mun":"GLOCESTER","nc":1,"o":"-71.697658"},"type":"Feature"}
 ]}
