@@ -1,5 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.318793,41.493306],"type":"Point"},"properties":{"a":"41.493306","cty":"NEWPORT","id":20261071573,"mun":"NEWPORT","nc":24,"o":"-71.318793"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.522789,41.718414],"type":"Point"},"properties":{"a":"41.718414","cty":"KENT","id":20261071574,"mun":"WEST WARWICK","nc":12,"o":"-71.522789"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.56104,41.725573],"type":"Point"},"properties":{"a":"41.725573","cty":"KENT","id":20261071575,"mun":"COVENTRY","nc":1,"o":"-71.56104"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.56104,41.725573],"type":"Point"},"properties":{"a":"41.725573","cty":"KENT","id":20261071575,"mun":"COVENTRY","nc":1,"o":"-71.56104"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.691291,41.534578],"type":"Point"},"properties":{"a":"41.534578","cty":"WASHINGTON","id":20261071576,"mun":"RICHMOND","nc":1,"o":"-71.691291"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.390265,41.889913],"type":"Point"},"properties":{"a":"41.889913","cty":"PROVIDENCE","id":20261071578,"mun":"CENTRAL FALLS","nc":22,"o":"-71.390265"},"type":"Feature"}
 ]}
