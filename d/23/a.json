@@ -1,13 +1,12 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.359782,41.010928],"type":"Point"},"properties":{"a":"41.010928","cty":"MONROE","id":8836784,"mun":"JACKSON TWP","nc":1,"o":"-75.359782"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.3061,40.98585],"type":"Point"},"properties":{"a":"40.98585","cty":"MONROE","hp":true,"id":8836788,"mun":"JACKSON TWP","nc":21,"ne":{"a":"40.99112","o":"-75.3037"},"o":"-75.3061","sw":{"a":"40.98057","o":"-75.3085"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.801695,41.224758],"type":"Point"},"properties":{"a":"41.224758","cty":"LYCOMING","id":8836797,"mun":"MUNCY TWP","nc":2,"o":"-76.801695"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.232309,40.695478],"type":"Point"},"properties":{"a":"40.695478","cty":"SCHUYLKILL","id":8836801,"mun":"NORWEGIAN TWP","nc":9,"o":"-76.232309"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.622026,40.712767],"type":"Point"},"properties":{"a":"40.712767","cty":"LEHIGH","id":8836805,"mun":"WASHINGTON TWP","nc":2,"o":"-75.622026"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.840277,40.281688],"type":"Point"},"properties":{"a":"40.281688","cty":"DAUPHIN","id":8836806,"mun":"SUSQUEHANNA TWP","nc":3,"o":"-76.840277"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.821249,40.280956],"type":"Point"},"properties":{"a":"40.280956","cty":"DAUPHIN","id":8836808,"mun":"LOWER PAXTON TWP","nc":4,"o":"-76.821249"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.854299,41.087361],"type":"Point"},"properties":{"a":"41.087361","cty":"NORTHUMBERLAND","id":8836811,"mun":"DELAWARE TWP","nc":3,"o":"-76.854299"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.392133,40.13036],"type":"Point"},"properties":{"a":"40.13036","cty":"CUMBERLAND","id":8836812,"mun":"WEST PENNSBORO TWP","nc":1,"o":"-77.392133"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.41435,40.639212],"type":"Point"},"properties":{"a":"40.639212","cty":"LEHIGH","id":8836813,"mun":"BETHLEHEM","nc":9,"o":"-75.41435"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.957382,41.118035],"type":"Point"},"properties":{"a":"41.118035","cty":"LUZERNE","id":8836816,"mun":"RICE TWP","nc":4,"o":"-75.957382"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.77407,40.285162],"type":"Point"},"properties":{"a":"40.285162","cty":"DAUPHIN","id":8836818,"mun":"LOWER PAXTON TWP","nc":19,"o":"-76.77407"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.41233,40.66309],"type":"Point"},"properties":{"a":"40.66309","cty":"SCHUYLKILL","hp":true,"id":8836819,"mun":"HEGINS TWP","nc":21,"ne":{"a":"40.66907","o":"-76.39436"},"o":"-76.41233","sw":{"a":"40.65711","o":"-76.4303"}},"type":"Feature"}
 ]}
