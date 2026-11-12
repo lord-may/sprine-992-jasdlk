@@ -1,3 +1,7 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.522789,41.718414],"type":"Point"},"properties":{"a":"41.718414","cty":"KENT","id":20261071574,"mun":"WEST WARWICK","nc":12,"o":"-71.522789"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.522789,41.718414],"type":"Point"},"properties":{"a":"41.718414","cty":"KENT","id":20261071574,"mun":"WEST WARWICK","nc":12,"o":"-71.522789"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.42379,41.86432],"type":"Point"},"properties":{"a":"41.86432","cty":"PROVIDENCE","hp":true,"id":20261071590,"mun":"NORTH PROVIDENCE","nc":12,"ne":{"a":"41.86509","o":"-71.42347"},"o":"-71.42379","sw":{"a":"41.86354","o":"-71.42411"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.697968,41.923514],"type":"Point"},"properties":{"a":"41.923514","cty":"PROVIDENCE","id":20261071592,"mun":"GLOCESTER","nc":1,"o":"-71.697968"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.625993,41.559534],"type":"Point"},"properties":{"a":"41.559534","cty":"WASHINGTON","id":20261071593,"mun":"RICHMOND","nc":1,"o":"-71.625993"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.46679,42.015024],"type":"Point"},"properties":{"a":"42.015024","cty":"PROVIDENCE","id":20261071594,"mun":"WOONSOCKET","nc":1,"o":"-71.46679"},"type":"Feature"}
 ]}
