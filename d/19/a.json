@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.558856,42.614201],"type":"Point"},"properties":{"EstRest":"11/12/2026 9:15:00 AM","Outages":13,"cause":"","county":"CHENANGO","crewstatus":"DISP ","customers":13,"hamlet":"NORWICH","incidentnumber":"011BPK","incidents":1,"level":"street","opco":"NYSEG","street":"PLYMOUTH NORTH NORWICH RD","town":"PLYMOUTH T"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.558856,42.614201],"type":"Point"},"properties":{"EstRest":"11/12/2026 9:15:00 AM","Outages":13,"cause":"","county":"CHENANGO","crewstatus":"ONST ","customers":13,"hamlet":"NORWICH","incidentnumber":"011BPK","incidents":1,"level":"street","opco":"NYSEG","street":"PLYMOUTH NORTH NORWICH RD","town":"PLYMOUTH T"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.577899,42.616021],"type":"Point"},"properties":{"EstRest":"11/12/2026 9:15:00 AM","Outages":48,"county":"CHENANGO","customers":22859,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
