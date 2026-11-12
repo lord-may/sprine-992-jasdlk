@@ -6,7 +6,6 @@
 {"geometry":{"coordinates":[-75.65168,41.408072],"type":"Point"},"properties":{"a":"41.408072","cty":"LACKAWANNA","id":8837116,"mun":"SCRANTON","nc":1,"o":"-75.65168"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.45096,40.98858],"type":"Point"},"properties":{"a":"40.98858","cty":"CLINTON","hp":true,"id":8837118,"mun":"LOGAN TWP","nc":23,"ne":{"a":"40.99298","o":"-77.44145"},"o":"-77.45096","sw":{"a":"40.98417","o":"-77.46048"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.20858,41.17524],"type":"Point"},"properties":{"a":"41.17524","cty":"MONROE","hp":true,"id":8837122,"mun":"BARRETT TWP","nc":24,"ne":{"a":"41.17789","o":"-75.20539"},"o":"-75.20858","sw":{"a":"41.1726","o":"-75.21176"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.977828,40.961177],"type":"Point"},"properties":{"a":"40.961177","cty":"LUZERNE","id":8837125,"mun":"HAZLETON","nc":10,"o":"-75.977828"},"type":"Feature"},
 {"geometry":{"coordinates":[-74.898545,41.388685],"type":"Point"},"properties":{"a":"41.388685","cty":"PIKE","id":8837126,"mun":"SHOHOLA TWP","nc":5,"o":"-74.898545"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.237634,41.23283],"type":"Point"},"properties":{"a":"41.23283","cty":"LYCOMING","id":8837127,"mun":"PIATT TWP","nc":3,"o":"-77.237634"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.396833,41.331203],"type":"Point"},"properties":{"a":"41.331203","cty":"WAYNE","id":8837132,"mun":"STERLING TWP","nc":3,"o":"-75.396833"},"type":"Feature"},
@@ -18,5 +17,7 @@
 {"geometry":{"coordinates":[-75.354937,41.463799],"type":"Point"},"properties":{"a":"41.463799","cty":"WAYNE","id":8837146,"mun":"LAKE TWP","nc":2,"o":"-75.354937"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.3241,41.46226],"type":"Point"},"properties":{"a":"41.46226","cty":"WAYNE","hp":true,"id":8837147,"mun":"LAKE TWP","nc":90,"ne":{"a":"41.46409","o":"-75.31802"},"o":"-75.3241","sw":{"a":"41.46043","o":"-75.33017"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.23746,41.230419],"type":"Point"},"properties":{"a":"41.230419","cty":"LYCOMING","id":8837153,"mun":"PIATT TWP","nc":3,"o":"-77.23746"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.394334,41.331209],"type":"Point"},"properties":{"a":"41.331209","cty":"WAYNE","id":8837164,"mun":"STERLING TWP","nc":7,"o":"-75.394334"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.394334,41.331209],"type":"Point"},"properties":{"a":"41.331209","cty":"WAYNE","id":8837164,"mun":"STERLING TWP","nc":7,"o":"-75.394334"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.090593,41.52415],"type":"Point"},"properties":{"a":"41.52415","cty":"PIKE","id":8837173,"mun":"LACKAWAXEN TWP","nc":3,"o":"-75.090593"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.404439,41.626862],"type":"Point"},"properties":{"a":"41.626862","cty":"WAYNE","id":8837176,"mun":"CLINTON TWP","nc":2,"o":"-75.404439"},"type":"Feature"}
 ]}
