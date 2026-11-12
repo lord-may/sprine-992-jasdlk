@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.727639,41.4967],"type":"Point"},"properties":{"a":"41.4967","cty":"WASHINGTON","id":20261071735,"mun":"HOPKINTON","nc":1,"o":"-71.727639"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.727639,41.4967],"type":"Point"},"properties":{"a":"41.4967","cty":"WASHINGTON","id":20261071735,"mun":"HOPKINTON","nc":1,"o":"-71.727639"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.481217,42.003008],"type":"Point"},"properties":{"a":"42.003008","cty":"PROVIDENCE","id":20261071744,"mun":"WOONSOCKET","nc":1,"o":"-71.481217"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.474501,41.790238],"type":"Point"},"properties":{"a":"41.790238","cty":"PROVIDENCE","id":20261071745,"mun":"CRANSTON","nc":1,"o":"-71.474501"},"type":"Feature"}
 ]}
