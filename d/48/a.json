@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-72.062595,41.60132],"type":"Point"},"properties":{"ADDRESS":"75 PACEMAKER AVE, NORWICH, CT, 06360","CUSTOMER_COUNT":11,"DEVICE_OID":19636,"FACILITY_ID":"2910","FEEDER_ID":"625","GDB_GEOMATTR_DATA":"","ID":45216,"INCIDENT_ID":50404,"OBJECTID":7875,"ORIG_FID":null,"REGION":4,"RxOID":19636,"TIME_OUTAGE":"11/12/2026 10:39 AM","TIME_RESTORED_EST":"Is still under review"},"type":"Feature"}
+{"geometry":{"coordinates":[-72.062595,41.60132],"type":"Point"},"properties":{"ADDRESS":"75 PACEMAKER AVE, NORWICH, CT, 06360","CUSTOMER_COUNT":11,"DEVICE_OID":19636,"FACILITY_ID":"2910","FEEDER_ID":"625","GDB_GEOMATTR_DATA":"","ID":45216,"INCIDENT_ID":50404,"OBJECTID":7876,"ORIG_FID":null,"REGION":4,"RxOID":19636,"TIME_OUTAGE":"11/12/2026 10:39 AM","TIME_RESTORED_EST":"Is still under review"},"type":"Feature"}
 ]}
