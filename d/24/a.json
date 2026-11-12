@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.39757,41.73236],"type":"Point"},"properties":{"a":"41.73236","cty":"KENT","hp":true,"id":20261071550,"mun":"WARWICK","nc":64,"ne":{"a":"41.73383","o":"-71.39382"},"o":"-71.39757","sw":{"a":"41.73089","o":"-71.40133"}},"type":"Feature"}
+{"geometry":{"coordinates":[-71.318793,41.493306],"type":"Point"},"properties":{"a":"41.493306","cty":"NEWPORT","id":20261071573,"mun":"NEWPORT","nc":24,"o":"-71.318793"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.522789,41.718414],"type":"Point"},"properties":{"a":"41.718414","cty":"KENT","id":20261071574,"mun":"WEST WARWICK","nc":12,"o":"-71.522789"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.56104,41.725573],"type":"Point"},"properties":{"a":"41.725573","cty":"KENT","id":20261071575,"mun":"COVENTRY","nc":1,"o":"-71.56104"},"type":"Feature"}
 ]}
