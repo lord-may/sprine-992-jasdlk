@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-73.461351,44.61841],"type":"Point"},"properties":{"EstRest":"11/11/2026 6:45:00 PM","Outages":40,"county":"CLINTON","customers":28857,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.464462,44.619669],"type":"Point"},"properties":{"EstRest":"11/11/2026 6:45:00 PM","Outages":3,"cause":"Tree","county":"CLINTON","crewstatus":"CMPL ","customers":3,"hamlet":"PLATTSBURGH","incidentnumber":"011BNE","incidents":1,"level":"street","opco":"NYSEG","street":"COOK RD","town":"PERU T"},"type":"Feature"}
+
 ]}
