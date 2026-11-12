@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.578926,43.150196],"type":"Point"},"properties":{"EstRest":"11/12/2026 1:00:00 AM","Outages":6,"cause":"Equipment Interruption","county":"MONROE","crewstatus":"DISP ","customers":1450,"hamlet":"ROCHESTER","incidentnumber":"011BN5","incidents":1,"level":"street","opco":"RGE","street":"EAST AVE","town":"ROCHESTER"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.578926,43.150196],"type":"Point"},"properties":{"EstRest":"11/12/2026 1:00:00 AM","Outages":6,"county":"MONROE","customers":303529,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
+
 ]}
