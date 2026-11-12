@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.570448,43.150299],"type":"Point"},"properties":{"EstRest":"11/12/2026 6:30:00 AM","Outages":71,"cause":"","county":"MONROE","crewstatus":"     ","customers":838,"hamlet":"ROCHESTER","incidentnumber":"011BPC","incidents":1,"level":"street","opco":"RGE","street":"CULVER RD","town":"ROCHESTER"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.570448,43.150299],"type":"Point"},"properties":{"EstRest":"11/12/2026 6:30:00 AM","Outages":71,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":838,"hamlet":"ROCHESTER","incidentnumber":"011BPC","incidents":1,"level":"street","opco":"RGE","street":"CULVER RD","town":"ROCHESTER"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.576637,43.150783],"type":"Point"},"properties":{"EstRest":"11/12/2026 6:30:00 AM","Outages":1170,"county":"MONROE","customers":303529,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
