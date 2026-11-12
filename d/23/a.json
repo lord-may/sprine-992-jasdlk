@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.30879,40.55844],"type":"Point"},"properties":{"a":"40.55844","cty":"NORTHAMPTON","hp":true,"id":8836689,"mun":"LOWER SAUCON TWP","nc":50,"ne":{"a":"40.56271","o":"-75.29544"},"o":"-75.30879","sw":{"a":"40.55417","o":"-75.32214"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.802692,40.258514],"type":"Point"},"properties":{"a":"40.258514","cty":"DAUPHIN","id":8836759,"mun":"SWATARA TWP","nc":2,"o":"-76.802692"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.962194,40.340311],"type":"Point"},"properties":{"a":"40.340311","cty":"PERRY","id":8836765,"mun":"RYE TWP","nc":3,"o":"-76.962194"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.962194,40.340311],"type":"Point"},"properties":{"a":"40.340311","cty":"PERRY","id":8836765,"mun":"RYE TWP","nc":3,"o":"-76.962194"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.356009,40.647052],"type":"Point"},"properties":{"a":"40.647052","cty":"NORTHAMPTON","id":8836766,"mun":"BETHLEHEM","nc":18,"o":"-75.356009"},"type":"Feature"}
 ]}
