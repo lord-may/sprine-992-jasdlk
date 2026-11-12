@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.567399,43.148292],"type":"Point"},"properties":{"EstRest":"","Outages":92,"county":"MONROE","customers":303529,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.570958,43.148335],"type":"Point"},"properties":{"EstRest":"","Outages":14,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":19,"hamlet":"ROCHESTER","incidentnumber":"011BPC","incidents":1,"level":"street","opco":"RGE","street":"DOUGLAS RD","town":"ROCHESTER"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.610007,43.243434],"type":"Point"},"properties":{"EstRest":"11/12/2026 11:45:00 AM","Outages":112,"county":"MONROE","customers":303529,"incidents":2,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}

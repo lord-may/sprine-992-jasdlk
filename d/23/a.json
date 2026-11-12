@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.3061,40.98585],"type":"Point"},"properties":{"a":"40.98585","cty":"MONROE","hp":true,"id":8836788,"mun":"JACKSON TWP","nc":21,"ne":{"a":"40.99112","o":"-75.3037"},"o":"-75.3061","sw":{"a":"40.98057","o":"-75.3085"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.801695,41.224758],"type":"Point"},"properties":{"a":"41.224758","cty":"LYCOMING","id":8836797,"mun":"MUNCY TWP","nc":2,"o":"-76.801695"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.232309,40.695478],"type":"Point"},"properties":{"a":"40.695478","cty":"SCHUYLKILL","id":8836801,"mun":"NORWEGIAN TWP","nc":9,"o":"-76.232309"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.622026,40.712767],"type":"Point"},"properties":{"a":"40.712767","cty":"LEHIGH","id":8836805,"mun":"WASHINGTON TWP","nc":2,"o":"-75.622026"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.821249,40.280956],"type":"Point"},"properties":{"a":"40.280956","cty":"DAUPHIN","id":8836808,"mun":"LOWER PAXTON TWP","nc":4,"o":"-76.821249"},"type":"Feature"},
@@ -9,6 +8,6 @@
 {"geometry":{"coordinates":[-75.41435,40.639212],"type":"Point"},"properties":{"a":"40.639212","cty":"LEHIGH","id":8836813,"mun":"BETHLEHEM","nc":9,"o":"-75.41435"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.77407,40.285162],"type":"Point"},"properties":{"a":"40.285162","cty":"DAUPHIN","id":8836818,"mun":"LOWER PAXTON TWP","nc":19,"o":"-76.77407"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.41233,40.66309],"type":"Point"},"properties":{"a":"40.66309","cty":"SCHUYLKILL","hp":true,"id":8836819,"mun":"HEGINS TWP","nc":21,"ne":{"a":"40.66907","o":"-76.39436"},"o":"-76.41233","sw":{"a":"40.65711","o":"-76.4303"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.225246,40.990533],"type":"Point"},"properties":{"a":"40.990533","cty":"MONROE","id":8836828,"mun":"STROUD TWP","nc":7,"o":"-75.225246"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.259043,40.690931],"type":"Point"},"properties":{"a":"40.690931","cty":"SCHUYLKILL","id":8836829,"mun":"MINERSVILLE BORO","nc":1,"o":"-76.259043"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.983138,40.323433],"type":"Point"},"properties":{"a":"40.323433","cty":"BERKS","id":8836836,"mun":"SPRING TWP","nc":1,"o":"-75.983138"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.499405,40.668235],"type":"Point"},"properties":{"a":"40.668235","cty":"LEHIGH","id":8836838,"mun":"COPLAY BORO","nc":10,"o":"-75.499405"},"type":"Feature"}
 ]}
