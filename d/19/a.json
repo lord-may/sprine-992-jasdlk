@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.519513,42.599871],"type":"Point"},"properties":{"EstRest":"11/12/2026 2:00:00 AM","Outages":2,"county":"CHENANGO","customers":22859,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.519513,42.599871],"type":"Point"},"properties":{"EstRest":"11/12/2026 3:00:00 AM","Outages":2,"county":"CHENANGO","customers":22859,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
