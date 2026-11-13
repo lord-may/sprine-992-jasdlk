@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.957565,39.763873],"type":"Point"},"properties":{"cause":"Power Supply","comment":"Adams Electric is currently experiencing an outage due to Met-Ed, our transmission service provider. Crews have been dispatched to assist and we appreciate your cooperation while this issue is resolved. Thank you.","crewAssigned":false,"estimateTime":1794550500000,"id":"475775","lifeCycleStatus":"Acknowledged","nbrOut":1915,"planned":false,"timeOff":1794539751021},"type":"Feature"}
+
 ]}
