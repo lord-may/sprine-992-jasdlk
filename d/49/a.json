@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-76.06993,38.775894],"type":"Point"},"properties":{"dateReceived":"2026-11-13T16:53:00.000Z","id":876921,"latitude":38.7758942,"longitude":-76.06993,"neighborhood":"Easton","problemName":"No Gas","serviceName":"Gas"},"type":"Feature"}
 ]}
