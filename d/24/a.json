@@ -1,10 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.48258,41.76914],"type":"Point"},"properties":{"a":"41.76914","cty":"PROVIDENCE","hp":true,"id":20261071796,"mun":"SCITUATE","nc":178,"ne":{"a":"41.80462","o":"-71.43417"},"o":"-71.48258","sw":{"a":"41.73365","o":"-71.53099"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.25494,41.72758],"type":"Point"},"properties":{"a":"41.72758","cty":"BRISTOL","hp":true,"id":20261071823,"mun":"WARREN","nc":2673,"ne":{"a":"41.75636","o":"-71.22595"},"o":"-71.25494","sw":{"a":"41.69881","o":"-71.28393"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.284758,41.730079],"type":"Point"},"properties":{"a":"41.730079","cty":"BRISTOL","id":20261071846,"mun":"WARREN","nc":1,"o":"-71.284758"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.287167,41.736603],"type":"Point"},"properties":{"a":"41.736603","cty":"BRISTOL","id":20261071847,"mun":"WARREN","nc":1,"o":"-71.287167"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.291121,41.726283],"type":"Point"},"properties":{"a":"41.726283","cty":"BRISTOL","id":20261071850,"mun":"BARRINGTON","nc":1,"o":"-71.291121"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.286355,41.734916],"type":"Point"},"properties":{"a":"41.734916","cty":"BRISTOL","id":20261071851,"mun":"WARREN","nc":1,"o":"-71.286355"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.291808,41.753251],"type":"Point"},"properties":{"a":"41.753251","cty":"BRISTOL","id":20261071852,"mun":"BARRINGTON","nc":1,"o":"-71.291808"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.277165,41.721009],"type":"Point"},"properties":{"a":"41.721009","cty":"BRISTOL","id":20261071854,"mun":"WARREN","nc":1,"o":"-71.277165"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.278721,41.728279],"type":"Point"},"properties":{"a":"41.728279","cty":"BRISTOL","id":20261071856,"mun":"WARREN","nc":1,"o":"-71.278721"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.779129,41.346874],"type":"Point"},"properties":{"a":"41.346874","cty":"WASHINGTON","id":20261071857,"mun":"WESTERLY","nc":1,"o":"-71.779129"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.286227,41.736226],"type":"Point"},"properties":{"a":"41.736226","cty":"BRISTOL","id":20261071858,"mun":"WARREN","nc":93,"o":"-71.286227"},"type":"Feature"}
 ]}
