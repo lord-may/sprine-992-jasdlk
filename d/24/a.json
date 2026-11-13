@@ -7,9 +7,9 @@
 {"geometry":{"coordinates":[-71.287167,41.736603],"type":"Point"},"properties":{"a":"41.736603","cty":"BRISTOL","id":20261071888,"mun":"WARREN","nc":1,"o":"-71.287167"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.286355,41.734916],"type":"Point"},"properties":{"a":"41.734916","cty":"BRISTOL","id":20261071889,"mun":"WARREN","nc":1,"o":"-71.286355"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.286355,41.734916],"type":"Point"},"properties":{"a":"41.734916","cty":"BRISTOL","id":20261071890,"mun":"WARREN","nc":1,"o":"-71.286355"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.412978,41.887914],"type":"Point"},"properties":{"a":"41.887914","cty":"PROVIDENCE","id":20261071891,"mun":"LINCOLN","nc":1,"o":"-71.412978"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.278721,41.728279],"type":"Point"},"properties":{"a":"41.728279","cty":"BRISTOL","id":20261071892,"mun":"WARREN","nc":1,"o":"-71.278721"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.286355,41.734916],"type":"Point"},"properties":{"a":"41.734916","cty":"BRISTOL","id":20261071893,"mun":"WARREN","nc":1,"o":"-71.286355"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.436152,41.791091],"type":"Point"},"properties":{"a":"41.791091","cty":"PROVIDENCE","id":20261071894,"mun":"PROVIDENCE","nc":1,"o":"-71.436152"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.286355,41.734916],"type":"Point"},"properties":{"a":"41.734916","cty":"BRISTOL","id":20261071895,"mun":"WARREN","nc":1,"o":"-71.286355"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.286355,41.734916],"type":"Point"},"properties":{"a":"41.734916","cty":"BRISTOL","id":20261071895,"mun":"WARREN","nc":1,"o":"-71.286355"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.457587,41.785261],"type":"Point"},"properties":{"a":"41.785261","cty":"PROVIDENCE","id":20261071896,"mun":"CRANSTON","nc":1,"o":"-71.457587"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.286355,41.734916],"type":"Point"},"properties":{"a":"41.734916","cty":"BRISTOL","id":20261071901,"mun":"WARREN","nc":1,"o":"-71.286355"},"type":"Feature"}
 ]}
