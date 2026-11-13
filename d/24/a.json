@@ -4,7 +4,8 @@
 {"geometry":{"coordinates":[-71.483819,41.763239],"type":"Point"},"properties":{"a":"41.763239","cty":"PROVIDENCE","id":20261071874,"mun":"CRANSTON","nc":1,"o":"-71.483819"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.619996,41.686404],"type":"Point"},"properties":{"a":"41.686404","cty":"KENT","id":20261071875,"mun":"COVENTRY","nc":1,"o":"-71.619996"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.457273,41.783598],"type":"Point"},"properties":{"a":"41.783598","cty":"PROVIDENCE","id":20261071881,"mun":"CRANSTON","nc":29,"o":"-71.457273"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.312906,41.48738],"type":"Point"},"properties":{"a":"41.48738","cty":"NEWPORT","id":20261071939,"mun":"NEWPORT","nc":1,"o":"-71.312906"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.489525,42.007386],"type":"Point"},"properties":{"a":"42.007386","cty":"PROVIDENCE","id":20261071949,"mun":"WOONSOCKET","nc":41,"o":"-71.489525"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.292586,41.744074],"type":"Point"},"properties":{"a":"41.744074","cty":"BRISTOL","id":20261071955,"mun":"BARRINGTON","nc":1,"o":"-71.292586"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.292586,41.744074],"type":"Point"},"properties":{"a":"41.744074","cty":"BRISTOL","id":20261071955,"mun":"BARRINGTON","nc":1,"o":"-71.292586"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.171199,41.529178],"type":"Point"},"properties":{"a":"41.529178","cty":"NEWPORT","id":20261071957,"mun":"LITTLE COMPTON","nc":1,"o":"-71.171199"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.284379,41.507107],"type":"Point"},"properties":{"a":"41.507107","cty":"NEWPORT","id":20261071958,"mun":"MIDDLETOWN","nc":9,"o":"-71.284379"},"type":"Feature"}
 ]}
