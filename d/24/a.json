@@ -3,12 +3,10 @@
 {"geometry":{"coordinates":[-71.436103,41.791676],"type":"Point"},"properties":{"a":"41.791676","cty":"PROVIDENCE","id":20261071793,"mun":"PROVIDENCE","nc":1,"o":"-71.436103"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.436152,41.791091],"type":"Point"},"properties":{"a":"41.791091","cty":"PROVIDENCE","id":20261071794,"mun":"PROVIDENCE","nc":1,"o":"-71.436152"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.435837,41.790537],"type":"Point"},"properties":{"a":"41.790537","cty":"PROVIDENCE","id":20261071795,"mun":"PROVIDENCE","nc":1,"o":"-71.435837"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.48258,41.76914],"type":"Point"},"properties":{"a":"41.76914","cty":"PROVIDENCE","hp":true,"id":20261071796,"mun":"SCITUATE","nc":178,"ne":{"a":"41.80462","o":"-71.43417"},"o":"-71.48258","sw":{"a":"41.73365","o":"-71.53099"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.467627,41.778925],"type":"Point"},"properties":{"a":"41.778925","cty":"PROVIDENCE","id":20261071801,"mun":"CRANSTON","nc":1,"o":"-71.467627"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.48252,41.76914],"type":"Point"},"properties":{"a":"41.76914","cty":"PROVIDENCE","hp":true,"id":20261071796,"mun":"SCITUATE","nc":177,"ne":{"a":"41.80462","o":"-71.43417"},"o":"-71.48252","sw":{"a":"41.73365","o":"-71.53087"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.458446,41.784965],"type":"Point"},"properties":{"a":"41.784965","cty":"PROVIDENCE","id":20261071804,"mun":"CRANSTON","nc":1,"o":"-71.458446"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.40929,41.88722],"type":"Point"},"properties":{"a":"41.88722","cty":"PROVIDENCE","hp":true,"id":20261071808,"mun":"CENTRAL FALLS","nc":186,"ne":{"a":"41.88994","o":"-71.40417"},"o":"-71.40929","sw":{"a":"41.8845","o":"-71.41441"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.494475,41.864435],"type":"Point"},"properties":{"a":"41.864435","cty":"PROVIDENCE","id":20261071810,"mun":"JOHNSTON","nc":1,"o":"-71.494475"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.41354,41.885316],"type":"Point"},"properties":{"a":"41.885316","cty":"PROVIDENCE","id":20261071812,"mun":"LINCOLN","nc":1,"o":"-71.41354"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.444364,41.924522],"type":"Point"},"properties":{"a":"41.924522","cty":"PROVIDENCE","id":20261071814,"mun":"LINCOLN","nc":1,"o":"-71.444364"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.374656,41.4991],"type":"Point"},"properties":{"a":"41.4991","cty":"NEWPORT","id":20261071819,"mun":"JAMESTOWN","nc":1,"o":"-71.374656"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.444364,41.924522],"type":"Point"},"properties":{"a":"41.924522","cty":"PROVIDENCE","id":20261071814,"mun":"LINCOLN","nc":1,"o":"-71.444364"},"type":"Feature"}
 ]}
