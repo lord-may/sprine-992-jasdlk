@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.114759,44.114759],"type":"Point"},"properties":{"EstRest":"11/13/2026 5:15:00 PM","Outages":4,"cause":"","county":"KNOX","crewstatus":"     ","customers":19,"hamlet":"ROCKLAND","incidentnumber":"0046ZZ","incidents":1,"level":"street","opco":"CMP","street":"ADMONTEM AVE","town":"ROCKLAND"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.117776,44.116146],"type":"Point"},"properties":{"EstRest":"11/13/2026 5:15:00 PM","Outages":66,"county":"KNOX","customers":27251,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.114759,44.114759],"type":"Point"},"properties":{"EstRest":"11/13/2026 5:15:00 PM","Outages":4,"cause":"","county":"KNOX","crewstatus":"ONST ","customers":19,"hamlet":"ROCKLAND","incidentnumber":"0046ZZ","incidents":1,"level":"street","opco":"CMP","street":"ADMONTEM AVE","town":"ROCKLAND"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.117776,44.116146],"type":"Point"},"properties":{"EstRest":"11/13/2026 5:15:00 PM","Outages":66,"county":"KNOX","customers":27251,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.402747,43.520055],"type":"Point"},"properties":{"EstRest":"11/13/2026 5:45:00 PM","Outages":1969,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.412876,43.509006],"type":"Point"},"properties":{"EstRest":"11/13/2026 5:45:00 PM","Outages":360,"cause":"","county":"YORK","crewstatus":"ENRT ","customers":360,"hamlet":"OLD ORCHARD BEACH","incidentnumber":"004702","incidents":1,"level":"street","opco":"CMP","street":"SMITHWHEEL RD","town":"OLD ORCHARD BEACH"},"type":"Feature"}
 ]}
