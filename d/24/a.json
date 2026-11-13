@@ -5,11 +5,8 @@
 {"geometry":{"coordinates":[-71.619996,41.686404],"type":"Point"},"properties":{"a":"41.686404","cty":"KENT","id":20261071875,"mun":"COVENTRY","nc":1,"o":"-71.619996"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.457273,41.783598],"type":"Point"},"properties":{"a":"41.783598","cty":"PROVIDENCE","id":20261071881,"mun":"CRANSTON","nc":29,"o":"-71.457273"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.287167,41.736603],"type":"Point"},"properties":{"a":"41.736603","cty":"BRISTOL","id":20261071888,"mun":"WARREN","nc":1,"o":"-71.287167"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.286355,41.734916],"type":"Point"},"properties":{"a":"41.734916","cty":"BRISTOL","id":20261071889,"mun":"WARREN","nc":1,"o":"-71.286355"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.286355,41.734916],"type":"Point"},"properties":{"a":"41.734916","cty":"BRISTOL","id":20261071890,"mun":"WARREN","nc":1,"o":"-71.286355"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.286355,41.734916],"type":"Point"},"properties":{"a":"41.734916","cty":"BRISTOL","id":20261071893,"mun":"WARREN","nc":1,"o":"-71.286355"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.436152,41.791091],"type":"Point"},"properties":{"a":"41.791091","cty":"PROVIDENCE","id":20261071894,"mun":"PROVIDENCE","nc":1,"o":"-71.436152"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.286355,41.734916],"type":"Point"},"properties":{"a":"41.734916","cty":"BRISTOL","id":20261071895,"mun":"WARREN","nc":1,"o":"-71.286355"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.457587,41.785261],"type":"Point"},"properties":{"a":"41.785261","cty":"PROVIDENCE","id":20261071896,"mun":"CRANSTON","nc":1,"o":"-71.457587"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.286355,41.734916],"type":"Point"},"properties":{"a":"41.734916","cty":"BRISTOL","id":20261071901,"mun":"WARREN","nc":1,"o":"-71.286355"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.47413,41.78419],"type":"Point"},"properties":{"a":"41.78419","cty":"PROVIDENCE","hp":true,"id":20261071900,"mun":"CRANSTON","nc":135,"ne":{"a":"41.78669","o":"-71.47168"},"o":"-71.47413","sw":{"a":"41.78169","o":"-71.47658"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.472486,41.786714],"type":"Point"},"properties":{"a":"41.786714","cty":"PROVIDENCE","id":20261071902,"mun":"CRANSTON","nc":1,"o":"-71.472486"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.278721,41.728279],"type":"Point"},"properties":{"a":"41.728279","cty":"BRISTOL","id":20261071908,"mun":"WARREN","nc":1,"o":"-71.278721"},"type":"Feature"}
 ]}

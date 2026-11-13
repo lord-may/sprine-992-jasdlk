@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.199383,43.746376],"type":"Point"},"properties":{"EstRest":"11/13/2026 9:45:00 AM","Outages":151,"county":"CUMBERLAND","customers":182407,"incidents":4,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.199383,43.746376],"type":"Point"},"properties":{"EstRest":"11/13/2026 9:30:00 AM","Outages":23,"county":"CUMBERLAND","customers":182407,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.803646,44.213851],"type":"Point"},"properties":{"EstRest":"11/13/2026 9:45:00 AM","Outages":20,"cause":"","county":"KENNEBEC","crewstatus":"ENRT ","customers":35,"hamlet":"WEST GARDINER","incidentnumber":"0046XO","incidents":1,"level":"street","opco":"CMP","street":"OLD LEWISTON RD","town":"WEST GARDINER"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.805769,44.212518],"type":"Point"},"properties":{"EstRest":"11/13/2026 9:45:00 AM","Outages":22,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.591915,43.962578],"type":"Point"},"properties":{"EstRest":"11/13/2026 9:45:00 AM","Outages":2,"county":"LINCOLN","customers":29091,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},

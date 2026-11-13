@@ -11,5 +11,7 @@
 {"geometry":{"coordinates":[-77.150629,40.551314],"type":"Point"},"properties":{"a":"40.551314","cty":"PERRY","id":8837378,"mun":"MILLERSTOWN BORO","nc":2,"o":"-77.150629"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.410806,40.790977],"type":"Point"},"properties":{"a":"40.790977","cty":"NORTHUMBERLAND","id":8837380,"mun":"MOUNT CARMEL TWP","nc":3,"o":"-76.410806"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.044406,40.116709],"type":"Point"},"properties":{"a":"40.116709","cty":"LANCASTER","id":8837381,"mun":"EAST EARL TWP","nc":1,"o":"-76.044406"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.33521,40.322447],"type":"Point"},"properties":{"a":"40.322447","cty":"MONTGOMERY","id":8837383,"mun":"TELFORD BORO","nc":9,"o":"-75.33521"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.33521,40.322447],"type":"Point"},"properties":{"a":"40.322447","cty":"MONTGOMERY","id":8837383,"mun":"TELFORD BORO","nc":9,"o":"-75.33521"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.28483,40.22201],"type":"Point"},"properties":{"a":"40.22201","cty":"LANCASTER","hp":true,"id":8837397,"mun":"ELIZABETH TWP","nc":608,"ne":{"a":"40.22937","o":"-76.25858"},"o":"-76.28483","sw":{"a":"40.21466","o":"-76.31108"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.3543,40.379182],"type":"Point"},"properties":{"a":"40.379182","cty":"BUCKS","id":8837398,"mun":"WEST ROCKHILL TWP","nc":1,"o":"-75.3543"},"type":"Feature"}
 ]}
