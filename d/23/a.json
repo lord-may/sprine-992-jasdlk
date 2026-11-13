@@ -12,5 +12,9 @@
 {"geometry":{"coordinates":[-76.27454,40.22226],"type":"Point"},"properties":{"a":"40.22226","cty":"LANCASTER","hp":true,"id":8837397,"mun":"ELIZABETH TWP","nc":344,"ne":{"a":"40.22937","o":"-76.25858"},"o":"-76.27454","sw":{"a":"40.21516","o":"-76.29049"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.349236,40.381283],"type":"Point"},"properties":{"a":"40.381283","cty":"BUCKS","id":8837409,"mun":"WEST ROCKHILL TWP","nc":2,"o":"-75.349236"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.127978,40.244045],"type":"Point"},"properties":{"a":"40.244045","cty":"LANCASTER","id":8837411,"mun":"EAST COCALICO TWP","nc":3,"o":"-76.127978"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.384401,41.018185],"type":"Point"},"properties":{"a":"41.018185","cty":"COLUMBIA","id":8837412,"mun":"SCOTT TWP","nc":3,"o":"-76.384401"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.384401,41.018185],"type":"Point"},"properties":{"a":"41.018185","cty":"COLUMBIA","id":8837412,"mun":"SCOTT TWP","nc":3,"o":"-76.384401"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.139485,41.230438],"type":"Point"},"properties":{"a":"41.230438","cty":"LYCOMING","id":8837413,"mun":"WOODWARD TWP","nc":2,"o":"-77.139485"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.83654,41.24192],"type":"Point"},"properties":{"a":"41.24192","cty":"LUZERNE","hp":true,"id":8837414,"mun":"PLAINS TWP","nc":69,"ne":{"a":"41.24308","o":"-75.83607"},"o":"-75.83654","sw":{"a":"41.24076","o":"-75.83702"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.951811,41.03261],"type":"Point"},"properties":{"a":"41.03261","cty":"LUZERNE","id":8837416,"mun":"BUTLER TWP","nc":5,"o":"-75.951811"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.939333,40.333622],"type":"Point"},"properties":{"a":"40.333622","cty":"PERRY","id":8837417,"mun":"MARYSVILLE BORO","nc":8,"o":"-76.939333"},"type":"Feature"}
 ]}
