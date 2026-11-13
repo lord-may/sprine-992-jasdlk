@@ -3,7 +3,7 @@
 {"geometry":{"coordinates":[-75.522937,40.58117],"type":"Point"},"properties":{"a":"40.58117","cty":"LEHIGH","id":8837134,"mun":"SOUTH WHITEHALL TWP","nc":2,"o":"-75.522937"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.784546,41.571921],"type":"Point"},"properties":{"a":"41.571921","cty":"WYOMING","id":8837135,"mun":"CLINTON TWP","nc":1,"o":"-75.784546"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.19835,41.221991],"type":"Point"},"properties":{"a":"41.221991","cty":"LYCOMING","id":8837139,"mun":"PIATT TWP","nc":5,"o":"-77.19835"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.34252,41.48045],"type":"Point"},"properties":{"a":"41.48045","cty":"WAYNE","hp":true,"id":8837143,"mun":"LAKE TWP","nc":17,"ne":{"a":"41.4829","o":"-75.33591"},"o":"-75.34252","sw":{"a":"41.478","o":"-75.34914"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.347292,41.48215],"type":"Point"},"properties":{"a":"41.48215","cty":"WAYNE","id":8837143,"mun":"LAKE TWP","nc":4,"o":"-75.347292"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.354937,41.463799],"type":"Point"},"properties":{"a":"41.463799","cty":"WAYNE","id":8837146,"mun":"LAKE TWP","nc":2,"o":"-75.354937"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.24127,41.23517],"type":"Point"},"properties":{"a":"41.23517","cty":"LYCOMING","hp":true,"id":8837153,"mun":"PIATT TWP","nc":13,"ne":{"a":"41.24046","o":"-77.23327"},"o":"-77.24127","sw":{"a":"41.22988","o":"-77.24928"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.394334,41.331209],"type":"Point"},"properties":{"a":"41.331209","cty":"WAYNE","id":8837164,"mun":"STERLING TWP","nc":10,"o":"-75.394334"},"type":"Feature"},
@@ -11,5 +11,5 @@
 {"geometry":{"coordinates":[-76.95492,40.78712],"type":"Point"},"properties":{"a":"40.78712","cty":"SNYDER","hp":true,"id":8837247,"mun":"MIDDLECREEK TWP","nc":20,"ne":{"a":"40.79369","o":"-76.94688"},"o":"-76.95492","sw":{"a":"40.78055","o":"-76.96296"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.27462,41.25758],"type":"Point"},"properties":{"a":"41.25758","cty":"LYCOMING","hp":true,"id":8837254,"mun":"MIFFLIN TWP","nc":51,"ne":{"a":"41.26604","o":"-77.24914"},"o":"-77.27462","sw":{"a":"41.24913","o":"-77.3001"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.902928,41.075525],"type":"Point"},"properties":{"a":"41.075525","cty":"UNION","id":8837258,"mun":"WHITE DEER TWP","nc":11,"o":"-76.902928"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.85937,41.378692],"type":"Point"},"properties":{"a":"41.378692","cty":"LUZERNE","id":8837259,"mun":"EXETER TWP","nc":1,"o":"-75.85937"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.287296,40.186754],"type":"Point"},"properties":{"a":"40.186754","cty":"LANCASTER","id":8837260,"mun":"WARWICK TWP","nc":2,"o":"-76.287296"},"type":"Feature"}
 ]}
