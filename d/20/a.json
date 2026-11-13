@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-78.084125,42.300633],"type":"Point"},"properties":{"EstRest":"11/13/2026 2:15:00 PM","Outages":6,"cause":"","county":"ALLEGANY","crewstatus":"ONST ","customers":28,"hamlet":"BELFAST","incidentnumber":"011CT2","incidents":1,"level":"street","opco":"RGE","street":"ROUTE 19","town":"BELFAST"},"type":"Feature"},
-{"geometry":{"coordinates":[-78.084125,42.300633],"type":"Point"},"properties":{"EstRest":"11/13/2026 2:15:00 PM","Outages":6,"county":"ALLEGANY","customers":11164,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
+
 ]}
