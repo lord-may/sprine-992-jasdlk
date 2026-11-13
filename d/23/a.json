@@ -17,5 +17,7 @@
 {"geometry":{"coordinates":[-75.291217,41.323993],"type":"Point"},"properties":{"a":"41.323993","cty":"PIKE","id":8837442,"mun":"GREENE TWP","nc":2,"o":"-75.291217"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.958072,40.301581],"type":"Point"},"properties":{"a":"40.301581","cty":"BERKS","id":8837445,"mun":"CUMRU TWP","nc":7,"o":"-75.958072"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.773949,41.078308],"type":"Point"},"properties":{"a":"41.078308","cty":"LUZERNE","id":8837446,"mun":"DENNISON TWP","nc":3,"o":"-75.773949"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.027377,41.039977],"type":"Point"},"properties":{"a":"41.039977","cty":"LUZERNE","id":8837447,"mun":"BUTLER TWP","nc":1,"o":"-76.027377"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.027377,41.039977],"type":"Point"},"properties":{"a":"41.039977","cty":"LUZERNE","id":8837447,"mun":"BUTLER TWP","nc":1,"o":"-76.027377"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.773789,41.07668],"type":"Point"},"properties":{"a":"41.07668","cty":"LUZERNE","id":8837451,"mun":"DENNISON TWP","nc":2,"o":"-75.773789"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.642412,40.88712],"type":"Point"},"properties":{"a":"40.88712","cty":"CARBON","id":8837457,"mun":"FRANKLIN TWP","nc":4,"o":"-75.642412"},"type":"Feature"}
 ]}
