@@ -1,17 +1,7 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.40718,41.886142],"type":"Point"},"properties":{"a":"41.886142","cty":"PROVIDENCE","id":20261071766,"mun":"LINCOLN","nc":1,"o":"-71.40718"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.436103,41.791676],"type":"Point"},"properties":{"a":"41.791676","cty":"PROVIDENCE","id":20261071793,"mun":"PROVIDENCE","nc":1,"o":"-71.436103"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.436152,41.791091],"type":"Point"},"properties":{"a":"41.791091","cty":"PROVIDENCE","id":20261071794,"mun":"PROVIDENCE","nc":1,"o":"-71.436152"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.435837,41.790537],"type":"Point"},"properties":{"a":"41.790537","cty":"PROVIDENCE","id":20261071795,"mun":"PROVIDENCE","nc":1,"o":"-71.435837"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.48252,41.76914],"type":"Point"},"properties":{"a":"41.76914","cty":"PROVIDENCE","hp":true,"id":20261071796,"mun":"SCITUATE","nc":177,"ne":{"a":"41.80462","o":"-71.43417"},"o":"-71.48252","sw":{"a":"41.73365","o":"-71.53087"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.458446,41.784965],"type":"Point"},"properties":{"a":"41.784965","cty":"PROVIDENCE","id":20261071804,"mun":"CRANSTON","nc":1,"o":"-71.458446"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.40929,41.88722],"type":"Point"},"properties":{"a":"41.88722","cty":"PROVIDENCE","hp":true,"id":20261071808,"mun":"CENTRAL FALLS","nc":186,"ne":{"a":"41.88994","o":"-71.40417"},"o":"-71.40929","sw":{"a":"41.8845","o":"-71.41441"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.41354,41.885316],"type":"Point"},"properties":{"a":"41.885316","cty":"PROVIDENCE","id":20261071812,"mun":"LINCOLN","nc":1,"o":"-71.41354"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.444364,41.924522],"type":"Point"},"properties":{"a":"41.924522","cty":"PROVIDENCE","id":20261071814,"mun":"LINCOLN","nc":1,"o":"-71.444364"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.25494,41.72758],"type":"Point"},"properties":{"a":"41.72758","cty":"BRISTOL","hp":true,"id":20261071823,"mun":"WARREN","nc":2673,"ne":{"a":"41.75636","o":"-71.22595"},"o":"-71.25494","sw":{"a":"41.69881","o":"-71.28393"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.278511,41.728552],"type":"Point"},"properties":{"a":"41.728552","cty":"BRISTOL","id":20261071826,"mun":"WARREN","nc":13,"o":"-71.278511"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.302466,41.714885],"type":"Point"},"properties":{"a":"41.714885","cty":"BRISTOL","id":20261071827,"mun":"BARRINGTON","nc":1,"o":"-71.302466"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.285954,41.736035],"type":"Point"},"properties":{"a":"41.736035","cty":"BRISTOL","id":20261071828,"mun":"WARREN","nc":1,"o":"-71.285954"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.287167,41.736603],"type":"Point"},"properties":{"a":"41.736603","cty":"BRISTOL","id":20261071830,"mun":"WARREN","nc":1,"o":"-71.287167"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.302677,41.727532],"type":"Point"},"properties":{"a":"41.727532","cty":"BRISTOL","id":20261071831,"mun":"BARRINGTON","nc":1,"o":"-71.302677"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.285954,41.736035],"type":"Point"},"properties":{"a":"41.736035","cty":"BRISTOL","id":20261071828,"mun":"WARREN","nc":18,"o":"-71.285954"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.287228,41.736975],"type":"Point"},"properties":{"a":"41.736975","cty":"BRISTOL","id":20261071830,"mun":"WARREN","nc":123,"o":"-71.287228"},"type":"Feature"}
 ]}
