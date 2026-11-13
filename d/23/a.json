@@ -4,5 +4,12 @@
 {"geometry":{"coordinates":[-75.36837,40.51842],"type":"Point"},"properties":{"a":"40.51842","cty":"LEHIGH","hp":true,"id":8837336,"mun":"UPPER SAUCON TWP","nc":53,"ne":{"a":"40.52093","o":"-75.3625"},"o":"-75.36837","sw":{"a":"40.51591","o":"-75.37424"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.154121,41.031302],"type":"Point"},"properties":{"a":"41.031302","cty":"LUZERNE","id":8837345,"mun":"NESCOPECK TWP","nc":1,"o":"-76.154121"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.66315,40.15669],"type":"Point"},"properties":{"a":"40.15669","cty":"LANCASTER","hp":true,"id":8837347,"mun":"WEST DONEGAL TWP","nc":22,"ne":{"a":"40.15775","o":"-76.65965"},"o":"-76.66315","sw":{"a":"40.15563","o":"-76.66665"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.87633,40.851767],"type":"Point"},"properties":{"a":"40.851767","cty":"SNYDER","id":8837348,"mun":"MONROE TWP","nc":1,"o":"-76.87633"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.87633,40.851767],"type":"Point"},"properties":{"a":"40.851767","cty":"SNYDER","id":8837348,"mun":"MONROE TWP","nc":1,"o":"-76.87633"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.840911,41.247433],"type":"Point"},"properties":{"a":"41.247433","cty":"LUZERNE","id":8837351,"mun":"WILKES-BARRE TWP","nc":1,"o":"-75.840911"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.848313,40.180472],"type":"Point"},"properties":{"a":"40.180472","cty":"YORK","id":8837352,"mun":"FAIRVIEW TWP","nc":1,"o":"-76.848313"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.354761,40.545545],"type":"Point"},"properties":{"a":"40.545545","cty":"LEHIGH","id":8837353,"mun":"UPPER SAUCON TWP","nc":1,"o":"-75.354761"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.861455,40.060487],"type":"Point"},"properties":{"a":"40.060487","cty":"CHESTER","id":8837354,"mun":"HONEYBROOK TWP","nc":1,"o":"-75.861455"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.30563,40.20091],"type":"Point"},"properties":{"a":"40.20091","cty":"LANCASTER","hp":true,"id":8837356,"mun":"ELIZABETH TWP","nc":15,"ne":{"a":"40.20306","o":"-76.30469"},"o":"-76.30563","sw":{"a":"40.19877","o":"-76.30657"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.87546,40.8508],"type":"Point"},"properties":{"a":"40.8508","cty":"SNYDER","hp":true,"id":8837358,"mun":"JACKSON TWP","nc":18,"ne":{"a":"40.855","o":"-76.87345"},"o":"-76.87546","sw":{"a":"40.84661","o":"-76.87746"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.260324,41.400599],"type":"Point"},"properties":{"a":"41.400599","cty":"WAYNE","id":8837359,"mun":"PAUPACK TWP","nc":1,"o":"-75.260324"},"type":"Feature"}
 ]}
