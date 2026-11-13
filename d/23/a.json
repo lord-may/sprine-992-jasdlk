@@ -1,5 +1,14 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.465045,40.985768],"type":"Point"},"properties":{"a":"40.985768","cty":"MONROE","id":8837651,"mun":"CHESTNUT HILL TWP","nc":4,"o":"-75.465045"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.575322,40.783678],"type":"Point"},"properties":{"a":"40.783678","cty":"NORTHUMBERLAND","id":8837656,"mun":"COAL TWP","nc":11,"o":"-76.575322"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.21845,41.06717],"type":"Point"},"properties":{"a":"41.06717","cty":"MONROE","hp":true,"id":8837664,"mun":"STROUD TWP","nc":52,"ne":{"a":"41.07257","o":"-75.21109"},"o":"-75.21845","sw":{"a":"41.06177","o":"-75.22581"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.21845,41.06717],"type":"Point"},"properties":{"a":"41.06717","cty":"MONROE","hp":true,"id":8837664,"mun":"STROUD TWP","nc":52,"ne":{"a":"41.07257","o":"-75.21109"},"o":"-75.21845","sw":{"a":"41.06177","o":"-75.22581"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.19087,41.098673],"type":"Point"},"properties":{"a":"41.098673","cty":"MONROE","id":8837689,"mun":"PRICE TWP","nc":4,"o":"-75.19087"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.20593,41.11491],"type":"Point"},"properties":{"a":"41.11491","cty":"MONROE","hp":true,"id":8837691,"mun":"PRICE TWP","nc":200,"ne":{"a":"41.12385","o":"-75.19288"},"o":"-75.20593","sw":{"a":"41.10597","o":"-75.21898"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.19965,41.08932],"type":"Point"},"properties":{"a":"41.08932","cty":"MONROE","hp":true,"id":8837692,"mun":"PRICE TWP","nc":20,"ne":{"a":"41.09077","o":"-75.19691"},"o":"-75.19965","sw":{"a":"41.08786","o":"-75.20239"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.189994,41.094821],"type":"Point"},"properties":{"a":"41.094821","cty":"MONROE","id":8837693,"mun":"PRICE TWP","nc":2,"o":"-75.189994"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.194923,41.077275],"type":"Point"},"properties":{"a":"41.077275","cty":"MONROE","id":8837696,"mun":"PRICE TWP","nc":3,"o":"-75.194923"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.198463,41.070022],"type":"Point"},"properties":{"a":"41.070022","cty":"MONROE","id":8837697,"mun":"PRICE TWP","nc":4,"o":"-75.198463"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.19762,41.08321],"type":"Point"},"properties":{"a":"41.08321","cty":"MONROE","hp":true,"id":8837698,"mun":"PRICE TWP","nc":101,"ne":{"a":"41.08795","o":"-75.1929"},"o":"-75.19762","sw":{"a":"41.07847","o":"-75.20234"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.197712,41.070803],"type":"Point"},"properties":{"a":"41.070803","cty":"MONROE","id":8837699,"mun":"PRICE TWP","nc":1,"o":"-75.197712"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.187244,41.099196],"type":"Point"},"properties":{"a":"41.099196","cty":"MONROE","id":8837700,"mun":"PRICE TWP","nc":2,"o":"-75.187244"},"type":"Feature"}
 ]}
