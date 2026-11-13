@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.40718,41.886142],"type":"Point"},"properties":{"a":"41.886142","cty":"PROVIDENCE","id":20261071766,"mun":"LINCOLN","nc":1,"o":"-71.40718"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.315042,41.49325],"type":"Point"},"properties":{"a":"41.49325","cty":"NEWPORT","id":20261071778,"mun":"NEWPORT","nc":30,"o":"-71.315042"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.40718,41.886142],"type":"Point"},"properties":{"a":"41.886142","cty":"PROVIDENCE","id":20261071766,"mun":"LINCOLN","nc":1,"o":"-71.40718"},"type":"Feature"}
 ]}
