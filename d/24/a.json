@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.779129,41.346874],"type":"Point"},"properties":{"a":"41.346874","cty":"WASHINGTON","id":20261072002,"mun":"WESTERLY","nc":1,"o":"-71.779129"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.45358,41.785431],"type":"Point"},"properties":{"a":"41.785431","cty":"PROVIDENCE","id":20261072035,"mun":"CRANSTON","nc":1,"o":"-71.45358"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.823137,41.386109],"type":"Point"},"properties":{"a":"41.386109","cty":"WASHINGTON","id":20261072039,"mun":"WESTERLY","nc":1,"o":"-71.823137"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.823137,41.386109],"type":"Point"},"properties":{"a":"41.386109","cty":"WASHINGTON","id":20261072039,"mun":"WESTERLY","nc":1,"o":"-71.823137"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.448414,41.659951],"type":"Point"},"properties":{"a":"41.659951","cty":"KENT","id":20261072044,"mun":"EAST GREENWICH","nc":1,"o":"-71.448414"},"type":"Feature"}
 ]}

@@ -1,9 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.678515,41.492229],"type":"Point"},"properties":{"a":"41.492229","cty":"LACKAWANNA","id":8837564,"mun":"SOUTH ABINGTON TWP","nc":4,"o":"-75.678515"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.441649,41.006837],"type":"Point"},"properties":{"a":"41.006837","cty":"COLUMBIA","id":8837572,"mun":"BLOOMSBURG","nc":1,"o":"-76.441649"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.339017,40.758226],"type":"Point"},"properties":{"a":"40.758226","cty":"SNYDER","id":8837574,"mun":"WEST BEAVER TWP","nc":1,"o":"-77.339017"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.710893,41.363669],"type":"Point"},"properties":{"a":"41.363669","cty":"LACKAWANNA","id":8837577,"mun":"MOOSIC BORO","nc":1,"o":"-75.710893"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.273631,41.501875],"type":"Point"},"properties":{"a":"41.501875","cty":"WAYNE","id":8837597,"mun":"CHERRY RIDGE TWP","nc":2,"o":"-75.273631"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.918208,41.227089],"type":"Point"},"properties":{"a":"41.227089","cty":"LUZERNE","id":8837603,"mun":"HANOVER TWP","nc":1,"o":"-75.918208"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.27614,41.50436],"type":"Point"},"properties":{"a":"41.50436","cty":"WAYNE","hp":true,"id":8837597,"mun":"CHERRY RIDGE TWP","nc":20,"ne":{"a":"41.5099","o":"-75.2718"},"o":"-75.27614","sw":{"a":"41.49882","o":"-75.28048"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.38734,40.568068],"type":"Point"},"properties":{"a":"40.568068","cty":"JUNIATA","id":8837604,"mun":"FERMANAGH TWP","nc":2,"o":"-77.38734"},"type":"Feature"}
 ]}
