@@ -1,7 +1,9 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.48258,41.76914],"type":"Point"},"properties":{"a":"41.76914","cty":"PROVIDENCE","hp":true,"id":20261071796,"mun":"SCITUATE","nc":178,"ne":{"a":"41.80462","o":"-71.43417"},"o":"-71.48258","sw":{"a":"41.73365","o":"-71.53099"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.25494,41.72758],"type":"Point"},"properties":{"a":"41.72758","cty":"BRISTOL","hp":true,"id":20261071823,"mun":"WARREN","nc":2673,"ne":{"a":"41.75636","o":"-71.22595"},"o":"-71.25494","sw":{"a":"41.69881","o":"-71.28393"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.278721,41.728279],"type":"Point"},"properties":{"a":"41.728279","cty":"BRISTOL","id":20261071856,"mun":"WARREN","nc":1,"o":"-71.278721"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.779129,41.346874],"type":"Point"},"properties":{"a":"41.346874","cty":"WASHINGTON","id":20261071857,"mun":"WESTERLY","nc":1,"o":"-71.779129"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.286227,41.736226],"type":"Point"},"properties":{"a":"41.736226","cty":"BRISTOL","id":20261071858,"mun":"WARREN","nc":93,"o":"-71.286227"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.286227,41.736226],"type":"Point"},"properties":{"a":"41.736226","cty":"BRISTOL","id":20261071858,"mun":"WARREN","nc":93,"o":"-71.286227"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.517269,41.446948],"type":"Point"},"properties":{"a":"41.446948","cty":"WASHINGTON","id":20261071863,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.517269"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.528123,41.399892],"type":"Point"},"properties":{"a":"41.399892","cty":"WASHINGTON","id":20261071864,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.528123"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.285191,41.730004],"type":"Point"},"properties":{"a":"41.730004","cty":"BRISTOL","id":20261071865,"mun":"WARREN","nc":1,"o":"-71.285191"},"type":"Feature"}
 ]}
