@@ -4,7 +4,7 @@
 {"geometry":{"coordinates":[-76.848313,40.180472],"type":"Point"},"properties":{"a":"40.180472","cty":"YORK","id":8837352,"mun":"FAIRVIEW TWP","nc":1,"o":"-76.848313"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.354761,40.545545],"type":"Point"},"properties":{"a":"40.545545","cty":"LEHIGH","id":8837353,"mun":"UPPER SAUCON TWP","nc":1,"o":"-75.354761"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.861455,40.060487],"type":"Point"},"properties":{"a":"40.060487","cty":"CHESTER","id":8837354,"mun":"HONEYBROOK TWP","nc":1,"o":"-75.861455"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.305101,40.20177],"type":"Point"},"properties":{"a":"40.20177","cty":"LANCASTER","id":8837356,"mun":"ELIZABETH TWP","nc":2,"o":"-76.305101"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.30563,40.20091],"type":"Point"},"properties":{"a":"40.20091","cty":"LANCASTER","hp":true,"id":8837356,"mun":"ELIZABETH TWP","nc":15,"ne":{"a":"40.20306","o":"-76.30469"},"o":"-76.30563","sw":{"a":"40.19877","o":"-76.30657"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.87546,40.8508],"type":"Point"},"properties":{"a":"40.8508","cty":"SNYDER","hp":true,"id":8837358,"mun":"JACKSON TWP","nc":19,"ne":{"a":"40.855","o":"-76.87345"},"o":"-76.87546","sw":{"a":"40.84661","o":"-76.87746"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.25909,41.39987],"type":"Point"},"properties":{"a":"41.39987","cty":"WAYNE","hp":true,"id":8837362,"mun":"PAUPACK TWP","nc":65,"ne":{"a":"41.40344","o":"-75.25731"},"o":"-75.25909","sw":{"a":"41.39629","o":"-75.26088"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.150629,40.551314],"type":"Point"},"properties":{"a":"40.551314","cty":"PERRY","id":8837378,"mun":"MILLERSTOWN BORO","nc":2,"o":"-77.150629"},"type":"Feature"},
@@ -16,5 +16,5 @@
 {"geometry":{"coordinates":[-77.139485,41.230438],"type":"Point"},"properties":{"a":"41.230438","cty":"LYCOMING","id":8837413,"mun":"WOODWARD TWP","nc":2,"o":"-77.139485"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.83654,41.24192],"type":"Point"},"properties":{"a":"41.24192","cty":"LUZERNE","hp":true,"id":8837414,"mun":"PLAINS TWP","nc":69,"ne":{"a":"41.24308","o":"-75.83607"},"o":"-75.83654","sw":{"a":"41.24076","o":"-75.83702"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.951811,41.03261],"type":"Point"},"properties":{"a":"41.03261","cty":"LUZERNE","id":8837416,"mun":"BUTLER TWP","nc":5,"o":"-75.951811"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.939333,40.333622],"type":"Point"},"properties":{"a":"40.333622","cty":"PERRY","id":8837417,"mun":"MARYSVILLE BORO","nc":8,"o":"-76.939333"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.773871,41.08004],"type":"Point"},"properties":{"a":"41.08004","cty":"LUZERNE","id":8837418,"mun":"DENNISON TWP","nc":1,"o":"-75.773871"},"type":"Feature"}
 ]}
