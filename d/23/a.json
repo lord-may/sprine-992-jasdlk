@@ -3,5 +3,9 @@
 {"geometry":{"coordinates":[-75.678515,41.492229],"type":"Point"},"properties":{"a":"41.492229","cty":"LACKAWANNA","id":8837564,"mun":"SOUTH ABINGTON TWP","nc":4,"o":"-75.678515"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.441649,41.006837],"type":"Point"},"properties":{"a":"41.006837","cty":"COLUMBIA","id":8837572,"mun":"BLOOMSBURG","nc":1,"o":"-76.441649"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.339017,40.758226],"type":"Point"},"properties":{"a":"40.758226","cty":"SNYDER","id":8837574,"mun":"WEST BEAVER TWP","nc":1,"o":"-77.339017"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.710893,41.363669],"type":"Point"},"properties":{"a":"41.363669","cty":"LACKAWANNA","id":8837577,"mun":"MOOSIC BORO","nc":1,"o":"-75.710893"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.710893,41.363669],"type":"Point"},"properties":{"a":"41.363669","cty":"LACKAWANNA","id":8837577,"mun":"MOOSIC BORO","nc":1,"o":"-75.710893"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.897476,41.241707],"type":"Point"},"properties":{"a":"41.241707","cty":"LUZERNE","id":8837592,"mun":"WILKES-BARRE","nc":1,"o":"-75.897476"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.442069,41.001283],"type":"Point"},"properties":{"a":"41.001283","cty":"COLUMBIA","id":8837593,"mun":"BLOOMSBURG","nc":18,"o":"-76.442069"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.273631,41.501875],"type":"Point"},"properties":{"a":"41.501875","cty":"WAYNE","id":8837597,"mun":"CHERRY RIDGE TWP","nc":2,"o":"-75.273631"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.392565,41.539321],"type":"Point"},"properties":{"a":"41.539321","cty":"WAYNE","id":8837599,"mun":"SOUTH CANAAN TWP","nc":1,"o":"-75.392565"},"type":"Feature"}
 ]}
