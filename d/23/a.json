@@ -4,5 +4,6 @@
 {"geometry":{"coordinates":[-76.794794,40.387673],"type":"Point"},"properties":{"a":"40.387673","cty":"DAUPHIN","id":8837310,"mun":"WEST HANOVER TWP","nc":1,"o":"-76.794794"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.22531,41.06239],"type":"Point"},"properties":{"a":"41.06239","cty":"MONROE","hp":true,"id":8837330,"mun":"STROUD TWP","nc":17,"ne":{"a":"41.06458","o":"-75.22474"},"o":"-75.22531","sw":{"a":"41.0602","o":"-75.22588"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.36837,40.51842],"type":"Point"},"properties":{"a":"40.51842","cty":"LEHIGH","hp":true,"id":8837336,"mun":"UPPER SAUCON TWP","nc":53,"ne":{"a":"40.52093","o":"-75.3625"},"o":"-75.36837","sw":{"a":"40.51591","o":"-75.37424"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.3632,40.4917],"type":"Point"},"properties":{"a":"40.4917","cty":"BUCKS","hp":true,"id":8837338,"mun":"RICHLAND TWP","nc":84,"ne":{"a":"40.49731","o":"-75.3536"},"o":"-75.3632","sw":{"a":"40.48608","o":"-75.3728"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.3632,40.4917],"type":"Point"},"properties":{"a":"40.4917","cty":"BUCKS","hp":true,"id":8837338,"mun":"RICHLAND TWP","nc":84,"ne":{"a":"40.49731","o":"-75.3536"},"o":"-75.3632","sw":{"a":"40.48608","o":"-75.3728"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.006526,40.182575],"type":"Point"},"properties":{"a":"40.182575","cty":"LANCASTER","id":8837339,"mun":"BRECKNOCK TWP","nc":2,"o":"-76.006526"},"type":"Feature"}
 ]}

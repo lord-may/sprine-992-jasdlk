@@ -5,5 +5,8 @@
 {"geometry":{"coordinates":[-71.435837,41.790537],"type":"Point"},"properties":{"a":"41.790537","cty":"PROVIDENCE","id":20261071795,"mun":"PROVIDENCE","nc":1,"o":"-71.435837"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.48258,41.76914],"type":"Point"},"properties":{"a":"41.76914","cty":"PROVIDENCE","hp":true,"id":20261071796,"mun":"SCITUATE","nc":178,"ne":{"a":"41.80462","o":"-71.43417"},"o":"-71.48258","sw":{"a":"41.73365","o":"-71.53099"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.467627,41.778925],"type":"Point"},"properties":{"a":"41.778925","cty":"PROVIDENCE","id":20261071801,"mun":"CRANSTON","nc":1,"o":"-71.467627"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.458446,41.784965],"type":"Point"},"properties":{"a":"41.784965","cty":"PROVIDENCE","id":20261071804,"mun":"CRANSTON","nc":1,"o":"-71.458446"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.458446,41.784965],"type":"Point"},"properties":{"a":"41.784965","cty":"PROVIDENCE","id":20261071804,"mun":"CRANSTON","nc":1,"o":"-71.458446"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.41114,41.88722],"type":"Point"},"properties":{"a":"41.88722","cty":"PROVIDENCE","hp":true,"id":20261071808,"mun":"LINCOLN","nc":185,"ne":{"a":"41.88994","o":"-71.40788"},"o":"-71.41114","sw":{"a":"41.8845","o":"-71.41441"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.494475,41.864435],"type":"Point"},"properties":{"a":"41.864435","cty":"PROVIDENCE","id":20261071810,"mun":"JOHNSTON","nc":1,"o":"-71.494475"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.41354,41.885316],"type":"Point"},"properties":{"a":"41.885316","cty":"PROVIDENCE","id":20261071812,"mun":"LINCOLN","nc":1,"o":"-71.41354"},"type":"Feature"}
 ]}
