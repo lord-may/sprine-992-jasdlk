@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.465045,40.985768],"type":"Point"},"properties":{"a":"40.985768","cty":"MONROE","id":8837651,"mun":"CHESTNUT HILL TWP","nc":4,"o":"-75.465045"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.575322,40.783678],"type":"Point"},"properties":{"a":"40.783678","cty":"NORTHUMBERLAND","id":8837656,"mun":"COAL TWP","nc":11,"o":"-76.575322"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.21845,41.06717],"type":"Point"},"properties":{"a":"41.06717","cty":"MONROE","hp":true,"id":8837664,"mun":"STROUD TWP","nc":52,"ne":{"a":"41.07257","o":"-75.21109"},"o":"-75.21845","sw":{"a":"41.06177","o":"-75.22581"}},"type":"Feature"},
-{"geometry":{"coordinates":[-77.135357,40.477688],"type":"Point"},"properties":{"a":"40.477688","cty":"PERRY","id":8837665,"mun":"NEWPORT BORO","nc":11,"o":"-77.135357"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.21845,41.06717],"type":"Point"},"properties":{"a":"41.06717","cty":"MONROE","hp":true,"id":8837664,"mun":"STROUD TWP","nc":52,"ne":{"a":"41.07257","o":"-75.21109"},"o":"-75.21845","sw":{"a":"41.06177","o":"-75.22581"}},"type":"Feature"}
 ]}

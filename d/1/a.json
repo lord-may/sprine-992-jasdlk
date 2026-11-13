@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-73.74914,40.69333],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"NEW","cust_a":{"val":1},"etr":"ETR-NULL","outages":null,"reported_problem":"No Lights","title":"Outage Information"},"type":"Feature"},
 {"geometry":{"coordinates":[-73.74994,40.72793],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"NEW","cust_a":{"val":1},"etr":"ETR-NULL","outages":null,"reported_problem":"Partial Outage","title":"Outage Information"},"type":"Feature"},
 {"geometry":{"coordinates":[-73.76614,40.66603],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"NEW","cust_a":{"val":1},"etr":"ETR-NULL","outages":null,"reported_problem":"Burning Wires","title":"Outage Information"},"type":"Feature"},
 {"geometry":{"coordinates":[-73.78887,40.70993],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"NEW","cust_a":{"val":1},"etr":"ETR-NULL","outages":null,"reported_problem":"Partial Outage","title":"Outage Information"},"type":"Feature"},
