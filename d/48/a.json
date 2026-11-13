@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-72.093682,41.531644],"type":"Point"},"properties":{"ADDRESS":"9 CARLSON ST, NORWICH, CT, 06360","CUSTOMER_COUNT":17,"DEVICE_OID":18433,"FACILITY_ID":"4711","FEEDER_ID":"512","GDB_GEOMATTR_DATA":"","ID":45219,"INCIDENT_ID":50407,"OBJECTID":7890,"ORIG_FID":null,"REGION":1,"RxOID":18433,"TIME_OUTAGE":"11/13/2026 01:26 AM","TIME_RESTORED_EST":"Is still under review"},"type":"Feature"}
+{"geometry":{"coordinates":[-72.093682,41.531644],"type":"Point"},"properties":{"ADDRESS":"9 CARLSON ST, NORWICH, CT, 06360","CUSTOMER_COUNT":17,"DEVICE_OID":18433,"FACILITY_ID":"4711","FEEDER_ID":"512","GDB_GEOMATTR_DATA":"","ID":45219,"INCIDENT_ID":50407,"OBJECTID":7891,"ORIG_FID":null,"REGION":1,"RxOID":18433,"TIME_OUTAGE":"11/13/2026 01:26 AM","TIME_RESTORED_EST":"Is still under review"},"type":"Feature"}
 ]}

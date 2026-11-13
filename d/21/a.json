@@ -1,3 +1,6 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-69.729595,44.530496],"type":"Point"},"properties":{"EstRest":"11/13/2026 9:00:00 AM","Outages":13,"cause":"","county":"KENNEBEC","crewstatus":"     ","customers":14,"hamlet":"OAKLAND","incidentnumber":"0046X9","incidents":1,"level":"street","opco":"CMP","street":"ANDREW TER","town":"OAKLAND"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.729595,44.530496],"type":"Point"},"properties":{"EstRest":"11/13/2026 9:00:00 AM","Outages":13,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.474648,43.917601],"type":"Point"},"properties":{"EstRest":"11/13/2026 9:00:00 AM","Outages":1,"cause":"","county":"LINCOLN","crewstatus":"DISP ","customers":203,"hamlet":"BRISTOL","incidentnumber":"0046X8","incidents":1,"level":"street","opco":"CMP","street":"STATE ROUTE 32","town":"BRISTOL"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.474648,43.917601],"type":"Point"},"properties":{"EstRest":"11/13/2026 9:00:00 AM","Outages":1,"county":"LINCOLN","customers":29091,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}

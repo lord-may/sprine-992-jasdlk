@@ -5,5 +5,7 @@
 {"geometry":{"coordinates":[-71.286227,41.736226],"type":"Point"},"properties":{"a":"41.736226","cty":"BRISTOL","id":20261071858,"mun":"WARREN","nc":93,"o":"-71.286227"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.517269,41.446948],"type":"Point"},"properties":{"a":"41.446948","cty":"WASHINGTON","id":20261071863,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.517269"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.528123,41.399892],"type":"Point"},"properties":{"a":"41.399892","cty":"WASHINGTON","id":20261071864,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.528123"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.285191,41.730004],"type":"Point"},"properties":{"a":"41.730004","cty":"BRISTOL","id":20261071865,"mun":"WARREN","nc":1,"o":"-71.285191"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.28627,41.733684],"type":"Point"},"properties":{"a":"41.733684","cty":"BRISTOL","id":20261071868,"mun":"WARREN","nc":1,"o":"-71.28627"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.263512,41.707001],"type":"Point"},"properties":{"a":"41.707001","cty":"BRISTOL","id":20261071869,"mun":"BRISTOL","nc":1,"o":"-71.263512"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.266555,41.713489],"type":"Point"},"properties":{"a":"41.713489","cty":"BRISTOL","id":20261071870,"mun":"WARREN","nc":1,"o":"-71.266555"},"type":"Feature"}
 ]}
