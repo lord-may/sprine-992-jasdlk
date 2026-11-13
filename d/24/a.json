@@ -4,5 +4,8 @@
 {"geometry":{"coordinates":[-71.483819,41.763239],"type":"Point"},"properties":{"a":"41.763239","cty":"PROVIDENCE","id":20261071874,"mun":"CRANSTON","nc":1,"o":"-71.483819"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.619996,41.686404],"type":"Point"},"properties":{"a":"41.686404","cty":"KENT","id":20261071875,"mun":"COVENTRY","nc":1,"o":"-71.619996"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.457273,41.783598],"type":"Point"},"properties":{"a":"41.783598","cty":"PROVIDENCE","id":20261071881,"mun":"CRANSTON","nc":29,"o":"-71.457273"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.312906,41.48738],"type":"Point"},"properties":{"a":"41.48738","cty":"NEWPORT","id":20261071939,"mun":"NEWPORT","nc":1,"o":"-71.312906"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.312906,41.48738],"type":"Point"},"properties":{"a":"41.48738","cty":"NEWPORT","id":20261071939,"mun":"NEWPORT","nc":1,"o":"-71.312906"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.29508,41.74811],"type":"Point"},"properties":{"a":"41.74811","cty":"BRISTOL","hp":true,"id":20261071944,"mun":"WARREN","nc":777,"ne":{"a":"41.76105","o":"-71.28252"},"o":"-71.29508","sw":{"a":"41.73517","o":"-71.30764"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.489525,42.007386],"type":"Point"},"properties":{"a":"42.007386","cty":"PROVIDENCE","id":20261071949,"mun":"WOONSOCKET","nc":41,"o":"-71.489525"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.491767,42.008129],"type":"Point"},"properties":{"a":"42.008129","cty":"PROVIDENCE","id":20261071950,"mun":"WOONSOCKET","nc":50,"o":"-71.491767"},"type":"Feature"}
 ]}

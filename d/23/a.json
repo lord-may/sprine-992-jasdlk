@@ -11,8 +11,11 @@
 {"geometry":{"coordinates":[-76.27454,40.22226],"type":"Point"},"properties":{"a":"40.22226","cty":"LANCASTER","hp":true,"id":8837397,"mun":"ELIZABETH TWP","nc":344,"ne":{"a":"40.22937","o":"-76.25858"},"o":"-76.27454","sw":{"a":"40.21516","o":"-76.29049"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.349236,40.381283],"type":"Point"},"properties":{"a":"40.381283","cty":"BUCKS","id":8837409,"mun":"WEST ROCKHILL TWP","nc":2,"o":"-75.349236"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.127978,40.244045],"type":"Point"},"properties":{"a":"40.244045","cty":"LANCASTER","id":8837411,"mun":"EAST COCALICO TWP","nc":3,"o":"-76.127978"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.384401,41.018185],"type":"Point"},"properties":{"a":"41.018185","cty":"COLUMBIA","id":8837412,"mun":"SCOTT TWP","nc":3,"o":"-76.384401"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.139485,41.230438],"type":"Point"},"properties":{"a":"41.230438","cty":"LYCOMING","id":8837413,"mun":"WOODWARD TWP","nc":2,"o":"-77.139485"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.951811,41.03261],"type":"Point"},"properties":{"a":"41.03261","cty":"LUZERNE","id":8837416,"mun":"BUTLER TWP","nc":5,"o":"-75.951811"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.79106,40.861811],"type":"Point"},"properties":{"a":"40.861811","cty":"NORTHUMBERLAND","id":8837435,"mun":"UPPER AUGUSTA TWP","nc":35,"o":"-76.79106"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.79106,40.861811],"type":"Point"},"properties":{"a":"40.861811","cty":"NORTHUMBERLAND","id":8837435,"mun":"UPPER AUGUSTA TWP","nc":35,"o":"-76.79106"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.291217,41.323993],"type":"Point"},"properties":{"a":"41.323993","cty":"PIKE","id":8837442,"mun":"GREENE TWP","nc":2,"o":"-75.291217"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.958072,40.301581],"type":"Point"},"properties":{"a":"40.301581","cty":"BERKS","id":8837445,"mun":"CUMRU TWP","nc":7,"o":"-75.958072"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.773949,41.078308],"type":"Point"},"properties":{"a":"41.078308","cty":"LUZERNE","id":8837446,"mun":"DENNISON TWP","nc":3,"o":"-75.773949"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.027377,41.039977],"type":"Point"},"properties":{"a":"41.039977","cty":"LUZERNE","id":8837447,"mun":"BUTLER TWP","nc":1,"o":"-76.027377"},"type":"Feature"}
 ]}
