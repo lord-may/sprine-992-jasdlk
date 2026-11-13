@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.406208,43.512161],"type":"Point"},"properties":{"EstRest":"11/13/2026 6:15:00 PM","Outages":1761,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.411165,43.514306],"type":"Point"},"properties":{"EstRest":"11/13/2026 6:15:00 PM","Outages":4,"cause":"","county":"YORK","crewstatus":"ONST ","customers":4,"hamlet":"OLD ORCHARD BEACH","incidentnumber":"004704","incidents":1,"level":"street","opco":"CMP","street":"MEADOW LN","town":"OLD ORCHARD BEACH"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.400432,43.506545],"type":"Point"},"properties":{"EstRest":"11/13/2026 6:15:00 PM","Outages":124,"cause":"","county":"YORK","crewstatus":"ONST ","customers":182,"hamlet":"OLD ORCHARD BEACH","incidentnumber":"004704","incidents":1,"level":"street","opco":"CMP","street":"TEMPLE AVE","town":"OLD ORCHARD BEACH"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.402747,43.520055],"type":"Point"},"properties":{"EstRest":"11/13/2026 6:15:00 PM","Outages":1761,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
