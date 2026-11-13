@@ -2,10 +2,8 @@
 {"geometry":{"coordinates":[-75.642464,40.887077],"type":"Point"},"properties":{"a":"40.887077","cty":"CARBON","id":8837503,"mun":"FRANKLIN TWP","nc":4,"o":"-75.642464"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.912603,41.244342],"type":"Point"},"properties":{"a":"41.244342","cty":"LYCOMING","id":8837508,"mun":"MONTOURSVILLE BORO","nc":1,"o":"-76.912603"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.335944,40.718364],"type":"Point"},"properties":{"a":"40.718364","cty":"SNYDER","id":8837516,"mun":"WEST BEAVER TWP","nc":1,"o":"-77.335944"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.84526,41.01476],"type":"Point"},"properties":{"a":"41.01476","cty":"NORTHUMBERLAND","hp":true,"id":8837518,"mun":"MILTON BORO","nc":24,"ne":{"a":"41.01545","o":"-76.8443"},"o":"-76.84526","sw":{"a":"41.01407","o":"-76.84622"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.50167,40.86783],"type":"Point"},"properties":{"a":"40.86783","cty":"MONROE","hp":true,"id":8837524,"mun":"ELDRED TWP","nc":14,"ne":{"a":"40.87264","o":"-75.49883"},"o":"-75.50167","sw":{"a":"40.86302","o":"-75.50451"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.92918,40.24387],"type":"Point"},"properties":{"a":"40.24387","cty":"CUMBERLAND","hp":true,"id":8837532,"mun":"CAMP HILL BORO","nc":35,"ne":{"a":"40.24547","o":"-76.92847"},"o":"-76.92918","sw":{"a":"40.24226","o":"-76.92988"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.382287,40.627778],"type":"Point"},"properties":{"a":"40.627778","cty":"NORTHAMPTON","id":8837543,"mun":"BETHLEHEM","nc":1,"o":"-75.382287"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.137895,40.685516],"type":"Point"},"properties":{"a":"40.685516","cty":"SNYDER","id":8837545,"mun":"WEST PERRY TWP","nc":1,"o":"-77.137895"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.52155,40.88482],"type":"Point"},"properties":{"a":"40.88482","cty":"MONTOUR","hp":true,"id":8837546,"mun":"MAYBERRY TWP","nc":7,"ne":{"a":"40.88911","o":"-76.51278"},"o":"-76.52155","sw":{"a":"40.88052","o":"-76.53033"}},"type":"Feature"}
+{"geometry":{"coordinates":[-76.52155,40.88482],"type":"Point"},"properties":{"a":"40.88482","cty":"MONTOUR","hp":true,"id":8837546,"mun":"MAYBERRY TWP","nc":7,"ne":{"a":"40.88911","o":"-76.51278"},"o":"-76.52155","sw":{"a":"40.88052","o":"-76.53033"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.928786,40.242264],"type":"Point"},"properties":{"a":"40.242264","cty":"CUMBERLAND","id":8837548,"mun":"CAMP HILL BORO","nc":3,"o":"-76.928786"},"type":"Feature"}
 ]}
