@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.38734,40.568068],"type":"Point"},"properties":{"a":"40.568068","cty":"JUNIATA","id":8837604,"mun":"FERMANAGH TWP","nc":2,"o":"-77.38734"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.465045,40.985768],"type":"Point"},"properties":{"a":"40.985768","cty":"MONROE","id":8837651,"mun":"CHESTNUT HILL TWP","nc":4,"o":"-75.465045"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.132941,39.74742],"type":"Point"},"properties":{"a":"39.74742","cty":"LANCASTER","id":8837654,"mun":"FULTON TWP","nc":2,"o":"-76.132941"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.575322,40.783678],"type":"Point"},"properties":{"a":"40.783678","cty":"NORTHUMBERLAND","id":8837656,"mun":"COAL TWP","nc":11,"o":"-76.575322"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.861272,40.269399],"type":"Point"},"properties":{"a":"40.269399","cty":"DAUPHIN","id":8837658,"mun":"HARRISBURG","nc":37,"o":"-76.861272"},"type":"Feature"}
 ]}
