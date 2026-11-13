@@ -1,7 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.666245,40.157332],"type":"Point"},"properties":{"a":"40.157332","cty":"LANCASTER","id":8837347,"mun":"WEST DONEGAL TWP","nc":3,"o":"-76.666245"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.354761,40.545545],"type":"Point"},"properties":{"a":"40.545545","cty":"LEHIGH","id":8837353,"mun":"UPPER SAUCON TWP","nc":1,"o":"-75.354761"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.30563,40.20091],"type":"Point"},"properties":{"a":"40.20091","cty":"LANCASTER","hp":true,"id":8837356,"mun":"ELIZABETH TWP","nc":15,"ne":{"a":"40.20306","o":"-76.30469"},"o":"-76.30563","sw":{"a":"40.19877","o":"-76.30657"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.87546,40.8508],"type":"Point"},"properties":{"a":"40.8508","cty":"SNYDER","hp":true,"id":8837358,"mun":"JACKSON TWP","nc":19,"ne":{"a":"40.855","o":"-76.87345"},"o":"-76.87546","sw":{"a":"40.84661","o":"-76.87746"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.150629,40.551314],"type":"Point"},"properties":{"a":"40.551314","cty":"PERRY","id":8837378,"mun":"MILLERSTOWN BORO","nc":2,"o":"-77.150629"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.410806,40.790977],"type":"Point"},"properties":{"a":"40.790977","cty":"NORTHUMBERLAND","id":8837380,"mun":"MOUNT CARMEL TWP","nc":3,"o":"-76.410806"},"type":"Feature"},
@@ -11,14 +9,14 @@
 {"geometry":{"coordinates":[-77.139485,41.230438],"type":"Point"},"properties":{"a":"41.230438","cty":"LYCOMING","id":8837413,"mun":"WOODWARD TWP","nc":2,"o":"-77.139485"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.951811,41.03261],"type":"Point"},"properties":{"a":"41.03261","cty":"LUZERNE","id":8837416,"mun":"BUTLER TWP","nc":5,"o":"-75.951811"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.79106,40.861811],"type":"Point"},"properties":{"a":"40.861811","cty":"NORTHUMBERLAND","id":8837435,"mun":"UPPER AUGUSTA TWP","nc":35,"o":"-76.79106"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.291217,41.323993],"type":"Point"},"properties":{"a":"41.323993","cty":"PIKE","id":8837442,"mun":"GREENE TWP","nc":2,"o":"-75.291217"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.958072,40.301581],"type":"Point"},"properties":{"a":"40.301581","cty":"BERKS","id":8837445,"mun":"CUMRU TWP","nc":7,"o":"-75.958072"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.773949,41.078308],"type":"Point"},"properties":{"a":"41.078308","cty":"LUZERNE","id":8837446,"mun":"DENNISON TWP","nc":3,"o":"-75.773949"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.027377,41.039977],"type":"Point"},"properties":{"a":"41.039977","cty":"LUZERNE","id":8837447,"mun":"BUTLER TWP","nc":1,"o":"-76.027377"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.773789,41.07668],"type":"Point"},"properties":{"a":"41.07668","cty":"LUZERNE","id":8837451,"mun":"DENNISON TWP","nc":2,"o":"-75.773789"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.642412,40.88712],"type":"Point"},"properties":{"a":"40.88712","cty":"CARBON","id":8837457,"mun":"FRANKLIN TWP","nc":4,"o":"-75.642412"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.194649,41.205755],"type":"Point"},"properties":{"a":"41.205755","cty":"LYCOMING","id":8837461,"mun":"PIATT TWP","nc":2,"o":"-77.194649"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.32945,40.30424],"type":"Point"},"properties":{"a":"40.30424","cty":"PERRY","hp":true,"id":8837462,"mun":"SPRING TWP","nc":216,"ne":{"a":"40.32752","o":"-77.28768"},"o":"-77.32945","sw":{"a":"40.28097","o":"-77.37122"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.36314,39.8856],"type":"Point"},"properties":{"a":"39.8856","cty":"LANCASTER","hp":true,"id":8837468,"mun":"MARTIC TWP","nc":104,"ne":{"a":"39.8919","o":"-76.35609"},"o":"-76.36314","sw":{"a":"39.8793","o":"-76.3702"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.319683,40.017878],"type":"Point"},"properties":{"a":"40.017878","cty":"LANCASTER","id":8837477,"mun":"LANCASTER TWP","nc":30,"o":"-76.319683"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.319683,40.017878],"type":"Point"},"properties":{"a":"40.017878","cty":"LANCASTER","id":8837477,"mun":"LANCASTER TWP","nc":30,"o":"-76.319683"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.790462,40.862176],"type":"Point"},"properties":{"a":"40.862176","cty":"NORTHUMBERLAND","id":8837485,"mun":"UPPER AUGUSTA TWP","nc":1,"o":"-76.790462"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.086557,40.323699],"type":"Point"},"properties":{"a":"40.323699","cty":"BERKS","id":8837486,"mun":"SOUTH HEIDELBERG TWP","nc":5,"o":"-76.086557"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.10393,39.73397],"type":"Point"},"properties":{"a":"39.73397","cty":"LANCASTER","hp":true,"id":8837491,"mun":"LITTLE BRITAIN TWP","nc":5,"ne":{"a":"39.7353","o":"-76.0979"},"o":"-76.10393","sw":{"a":"39.73264","o":"-76.10997"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.519022,40.455376],"type":"Point"},"properties":{"a":"40.455376","cty":"LEHIGH","id":8837492,"mun":"LOWER MILFORD TWP","nc":2,"o":"-75.519022"},"type":"Feature"}
 ]}
