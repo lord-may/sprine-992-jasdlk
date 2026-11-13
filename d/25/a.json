@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-72.390082,43.474983],"type":"Point"},"properties":{"active":true,"affectingCustomers":true,"cause":0,"county":"Windsor","crew_name":",SPRI-WHITTEMORE","customers_affected":2060,"customers_affected_label":"2060 Customers","device":"DYNAMIC_PROTECTIVE_DEVICE","etor":"2026-11-13T15:00-05:00","has_etor":1,"incident_id":1018235,"status":"CREW_ASSIGNED","street":"MAPLE ST","town":"Windsor","trouble":"NO_POWER"},"type":"Feature"}
+
 ]}

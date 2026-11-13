@@ -3,5 +3,6 @@
 {"geometry":{"coordinates":[-76.52155,40.88482],"type":"Point"},"properties":{"a":"40.88482","cty":"MONTOUR","hp":true,"id":8837546,"mun":"MAYBERRY TWP","nc":7,"ne":{"a":"40.88911","o":"-76.51278"},"o":"-76.52155","sw":{"a":"40.88052","o":"-76.53033"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.29651,41.25528],"type":"Point"},"properties":{"a":"41.25528","cty":"PIKE","hp":true,"id":8837558,"mun":"GREENE TWP","nc":90,"ne":{"a":"41.2678","o":"-75.28338"},"o":"-75.29651","sw":{"a":"41.24276","o":"-75.30965"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.172207,40.59612],"type":"Point"},"properties":{"a":"40.59612","cty":"SCHUYLKILL","id":8837563,"mun":"SOUTH MANHEIM TWP","nc":3,"o":"-76.172207"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.678515,41.492229],"type":"Point"},"properties":{"a":"41.492229","cty":"LACKAWANNA","id":8837564,"mun":"SOUTH ABINGTON TWP","nc":4,"o":"-75.678515"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.678515,41.492229],"type":"Point"},"properties":{"a":"41.492229","cty":"LACKAWANNA","id":8837564,"mun":"SOUTH ABINGTON TWP","nc":4,"o":"-75.678515"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.441649,41.006837],"type":"Point"},"properties":{"a":"41.006837","cty":"COLUMBIA","id":8837572,"mun":"BLOOMSBURG","nc":1,"o":"-76.441649"},"type":"Feature"}
 ]}
