@@ -1,19 +1,18 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.522937,40.58117],"type":"Point"},"properties":{"a":"40.58117","cty":"LEHIGH","id":8837134,"mun":"SOUTH WHITEHALL TWP","nc":2,"o":"-75.522937"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.784546,41.571921],"type":"Point"},"properties":{"a":"41.571921","cty":"WYOMING","id":8837135,"mun":"CLINTON TWP","nc":1,"o":"-75.784546"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.347292,41.48215],"type":"Point"},"properties":{"a":"41.48215","cty":"WAYNE","id":8837143,"mun":"LAKE TWP","nc":4,"o":"-75.347292"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.354937,41.463799],"type":"Point"},"properties":{"a":"41.463799","cty":"WAYNE","id":8837146,"mun":"LAKE TWP","nc":2,"o":"-75.354937"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.23823,41.23361],"type":"Point"},"properties":{"a":"41.23361","cty":"LYCOMING","hp":true,"id":8837153,"mun":"PIATT TWP","nc":23,"ne":{"a":"41.24046","o":"-77.22718"},"o":"-77.23823","sw":{"a":"41.22677","o":"-77.24928"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.27462,41.25758],"type":"Point"},"properties":{"a":"41.25758","cty":"LYCOMING","hp":true,"id":8837254,"mun":"MIFFLIN TWP","nc":51,"ne":{"a":"41.26604","o":"-77.24914"},"o":"-77.27462","sw":{"a":"41.24913","o":"-77.3001"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.753576,40.757593],"type":"Point"},"properties":{"a":"40.757593","cty":"NORTHUMBERLAND","id":8837264,"mun":"LITTLE MAHANOY TWP","nc":3,"o":"-76.753576"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.335118,40.022151],"type":"Point"},"properties":{"a":"40.022151","cty":"LANCASTER","id":8837265,"mun":"LANCASTER TWP","nc":6,"o":"-76.335118"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.69646,40.55802],"type":"Point"},"properties":{"a":"40.55802","cty":"DAUPHIN","hp":true,"id":8837267,"mun":"LYKENS BORO","nc":50,"ne":{"a":"40.5654","o":"-76.69232"},"o":"-76.69646","sw":{"a":"40.55064","o":"-76.7006"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.67637,41.404199],"type":"Point"},"properties":{"a":"41.404199","cty":"NA","id":8837272,"mun":"NA","nc":36,"o":"-75.67637"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.662659,41.427526],"type":"Point"},"properties":{"a":"41.427526","cty":"LACKAWANNA","id":8837279,"mun":"SCRANTON","nc":17,"o":"-75.662659"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.674202,41.404545],"type":"Point"},"properties":{"a":"41.404545","cty":"LACKAWANNA","id":8837280,"mun":"SCRANTON","nc":14,"o":"-75.674202"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.675384,41.403802],"type":"Point"},"properties":{"a":"41.403802","cty":"LACKAWANNA","id":8837281,"mun":"SCRANTON","nc":9,"o":"-75.675384"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.853184,40.183764],"type":"Point"},"properties":{"a":"40.183764","cty":"YORK","id":8837282,"mun":"FAIRVIEW TWP","nc":2,"o":"-76.853184"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.002763,40.624281],"type":"Point"},"properties":{"a":"40.624281","cty":"JUNIATA","id":8837283,"mun":"SUSQUEHANNA TWP","nc":1,"o":"-77.002763"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.85937,41.378692],"type":"Point"},"properties":{"a":"41.378692","cty":"LUZERNE","id":8837284,"mun":"EXETER TWP","nc":1,"o":"-75.85937"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.049929,40.629281],"type":"Point"},"properties":{"a":"40.629281","cty":"JUNIATA","id":8837285,"mun":"SUSQUEHANNA TWP","nc":1,"o":"-77.049929"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.02923,40.31571],"type":"Point"},"properties":{"a":"40.31571","cty":"BERKS","hp":true,"id":8837293,"mun":"SPRING TWP","nc":226,"ne":{"a":"40.32019","o":"-76.0231"},"o":"-76.02923","sw":{"a":"40.31123","o":"-76.03536"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.14057,40.2903],"type":"Point"},"properties":{"a":"40.2903","cty":"LANCASTER","hp":true,"id":8837298,"mun":"WEST COCALICO TWP","nc":1263,"ne":{"a":"40.32291","o":"-76.09062"},"o":"-76.14057","sw":{"a":"40.25768","o":"-76.19052"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.20104,40.25855],"type":"Point"},"properties":{"a":"40.25855","cty":"LANCASTER","hp":true,"id":8837303,"mun":"WEST COCALICO TWP","nc":27,"ne":{"a":"40.26128","o":"-76.19152"},"o":"-76.20104","sw":{"a":"40.25582","o":"-76.21056"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.375359,40.609479],"type":"Point"},"properties":{"a":"40.609479","cty":"NORTHAMPTON","id":8837304,"mun":"BETHLEHEM","nc":1,"o":"-75.375359"},"type":"Feature"}
 ]}
