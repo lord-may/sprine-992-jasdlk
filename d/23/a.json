@@ -10,6 +10,7 @@
 {"geometry":{"coordinates":[-77.02202,40.61562],"type":"Point"},"properties":{"a":"40.61562","cty":"PERRY","hp":true,"id":8837194,"mun":"LIVERPOOL TWP","nc":349,"ne":{"a":"40.63687","o":"-76.96195"},"o":"-77.02202","sw":{"a":"40.59437","o":"-77.08208"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.95492,40.78712],"type":"Point"},"properties":{"a":"40.78712","cty":"SNYDER","hp":true,"id":8837247,"mun":"MIDDLECREEK TWP","nc":20,"ne":{"a":"40.79369","o":"-76.94688"},"o":"-76.95492","sw":{"a":"40.78055","o":"-76.96296"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.27462,41.25758],"type":"Point"},"properties":{"a":"41.25758","cty":"LYCOMING","hp":true,"id":8837254,"mun":"MIFFLIN TWP","nc":51,"ne":{"a":"41.26604","o":"-77.24914"},"o":"-77.27462","sw":{"a":"41.24913","o":"-77.3001"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.902928,41.075525],"type":"Point"},"properties":{"a":"41.075525","cty":"UNION","id":8837258,"mun":"WHITE DEER TWP","nc":11,"o":"-76.902928"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.287296,40.186754],"type":"Point"},"properties":{"a":"40.186754","cty":"LANCASTER","id":8837260,"mun":"WARWICK TWP","nc":2,"o":"-76.287296"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.287296,40.186754],"type":"Point"},"properties":{"a":"40.186754","cty":"LANCASTER","id":8837260,"mun":"WARWICK TWP","nc":2,"o":"-76.287296"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.753576,40.757593],"type":"Point"},"properties":{"a":"40.757593","cty":"NORTHUMBERLAND","id":8837264,"mun":"LITTLE MAHANOY TWP","nc":3,"o":"-76.753576"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.335118,40.022151],"type":"Point"},"properties":{"a":"40.022151","cty":"LANCASTER","id":8837265,"mun":"LANCASTER TWP","nc":6,"o":"-76.335118"},"type":"Feature"}
 ]}
