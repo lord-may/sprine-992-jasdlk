@@ -9,5 +9,5 @@
 {"geometry":{"coordinates":[-72.70277,41.73375],"type":"Point"},"properties":{"cluster":false,"cust_a":{"masked":true,"val":4},"etr":"2026-11-13T03:00:00-0500","inc_id":"W6140962-0","start":"2026-11-12T23:17:57-0500","title":"Outage Information"},"type":"Feature"},
 {"geometry":{"coordinates":[-72.50346,41.58442],"type":"Point"},"properties":{"cluster":false,"cust_a":{"masked":true,"val":4},"etr":"2026-11-13T03:00:00-0500","inc_id":"W6140963-0","start":"2026-11-12T23:18:48-0500","title":"Outage Information"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.9072,42.9875],"type":"Point"},"properties":{"cluster":false,"cust_a":{"masked":true,"val":4},"etr":"2026-11-13T02:30:00-0500","inc_id":"W6140964-0","start":"2026-11-13T00:15:09-0500","title":"Outage Information"},"type":"Feature"},
-{"geometry":{"coordinates":[-72.28729,41.66167],"type":"Point"},"properties":{"cluster":false,"cust_a":{"masked":true,"val":4},"etr":"2026-11-13T04:00:00-0500","inc_id":"W6140965-0","start":"2026-11-13T00:19:42-0500","title":"Outage Information"},"type":"Feature"}
+{"geometry":{"coordinates":[-72.28669,41.6609],"type":"Point"},"properties":{"cluster":false,"cust_a":{"val":5},"etr":"2026-11-13T03:30:00-0500","inc_id":"W6140965-0","start":"2026-11-13T00:19:42-0500","title":"Outage Information"},"type":"Feature"}
 ]}
