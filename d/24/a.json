@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.619996,41.686404],"type":"Point"},"properties":{"a":"41.686404","cty":"KENT","id":20261071875,"mun":"COVENTRY","nc":1,"o":"-71.619996"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.457273,41.783598],"type":"Point"},"properties":{"a":"41.783598","cty":"PROVIDENCE","id":20261071881,"mun":"CRANSTON","nc":29,"o":"-71.457273"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.25882,41.73234],"type":"Point"},"properties":{"a":"41.73234","cty":"BRISTOL","hp":true,"id":20261071972,"mun":"WARREN","nc":22,"ne":{"a":"41.73356","o":"-71.25771"},"o":"-71.25882","sw":{"a":"41.73112","o":"-71.25993"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.305052,41.747058],"type":"Point"},"properties":{"a":"41.747058","cty":"BRISTOL","id":20261071976,"mun":"BARRINGTON","nc":1,"o":"-71.305052"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.455732,41.79864],"type":"Point"},"properties":{"a":"41.79864","cty":"PROVIDENCE","id":20261071986,"mun":"CRANSTON","nc":1,"o":"-71.455732"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.484819,41.763082],"type":"Point"},"properties":{"a":"41.763082","cty":"PROVIDENCE","id":20261071988,"mun":"CRANSTON","nc":1,"o":"-71.484819"},"type":"Feature"}
 ]}

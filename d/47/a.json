@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-68.032063,46.133039],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":6,"customersOutNow":6,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-13T10:40:16.003-05:00","outageName":"F23000-12","outagePoint":{"lat":46.133039082052704,"lng":-68.03206284903419},"outageRecID":"2026-11-13-0192","outageStartTime":"2026-11-13T10:40:14-05:00","outageWorkStatus":"","streetsAffected":["COCHRAN LAKE RD"],"verified":true},"type":"Feature"}
 ]}

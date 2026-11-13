@@ -1,8 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.522937,40.58117],"type":"Point"},"properties":{"a":"40.58117","cty":"LEHIGH","id":8837134,"mun":"SOUTH WHITEHALL TWP","nc":2,"o":"-75.522937"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.666245,40.157332],"type":"Point"},"properties":{"a":"40.157332","cty":"LANCASTER","id":8837347,"mun":"WEST DONEGAL TWP","nc":3,"o":"-76.666245"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.354761,40.545545],"type":"Point"},"properties":{"a":"40.545545","cty":"LEHIGH","id":8837353,"mun":"UPPER SAUCON TWP","nc":1,"o":"-75.354761"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.861455,40.060487],"type":"Point"},"properties":{"a":"40.060487","cty":"CHESTER","id":8837354,"mun":"HONEYBROOK TWP","nc":1,"o":"-75.861455"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.30563,40.20091],"type":"Point"},"properties":{"a":"40.20091","cty":"LANCASTER","hp":true,"id":8837356,"mun":"ELIZABETH TWP","nc":15,"ne":{"a":"40.20306","o":"-76.30469"},"o":"-76.30563","sw":{"a":"40.19877","o":"-76.30657"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.87546,40.8508],"type":"Point"},"properties":{"a":"40.8508","cty":"SNYDER","hp":true,"id":8837358,"mun":"JACKSON TWP","nc":19,"ne":{"a":"40.855","o":"-76.87345"},"o":"-76.87546","sw":{"a":"40.84661","o":"-76.87746"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.150629,40.551314],"type":"Point"},"properties":{"a":"40.551314","cty":"PERRY","id":8837378,"mun":"MILLERSTOWN BORO","nc":2,"o":"-77.150629"},"type":"Feature"},
@@ -21,9 +19,6 @@
 {"geometry":{"coordinates":[-75.642412,40.88712],"type":"Point"},"properties":{"a":"40.88712","cty":"CARBON","id":8837457,"mun":"FRANKLIN TWP","nc":4,"o":"-75.642412"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.194649,41.205755],"type":"Point"},"properties":{"a":"41.205755","cty":"LYCOMING","id":8837461,"mun":"PIATT TWP","nc":2,"o":"-77.194649"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.32945,40.30424],"type":"Point"},"properties":{"a":"40.30424","cty":"PERRY","hp":true,"id":8837462,"mun":"SPRING TWP","nc":216,"ne":{"a":"40.32752","o":"-77.28768"},"o":"-77.32945","sw":{"a":"40.28097","o":"-77.37122"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.536792,40.555204],"type":"Point"},"properties":{"a":"40.555204","cty":"LEHIGH","id":8837467,"mun":"LOWER MACUNGIE TWP","nc":4,"o":"-75.536792"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.36314,39.8856],"type":"Point"},"properties":{"a":"39.8856","cty":"LANCASTER","hp":true,"id":8837468,"mun":"MARTIC TWP","nc":104,"ne":{"a":"39.8919","o":"-76.35609"},"o":"-76.36314","sw":{"a":"39.8793","o":"-76.3702"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.483828,41.334571],"type":"Point"},"properties":{"a":"41.334571","cty":"LACKAWANNA","id":8837469,"mun":"MADISON TWP","nc":2,"o":"-75.483828"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.556132,41.489447],"type":"Point"},"properties":{"a":"41.489447","cty":"LACKAWANNA","id":8837475,"mun":"ARCHBALD BORO","nc":4,"o":"-75.556132"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.319683,40.017878],"type":"Point"},"properties":{"a":"40.017878","cty":"LANCASTER","id":8837477,"mun":"LANCASTER TWP","nc":30,"o":"-76.319683"},"type":"Feature"}
 ]}
