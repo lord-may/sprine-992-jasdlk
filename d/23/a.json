@@ -4,7 +4,6 @@
 {"geometry":{"coordinates":[-75.851472,41.384441],"type":"Point"},"properties":{"a":"41.384441","cty":"LUZERNE","id":8837112,"mun":"EXETER TWP","nc":1,"o":"-75.851472"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.65168,41.408072],"type":"Point"},"properties":{"a":"41.408072","cty":"LACKAWANNA","id":8837116,"mun":"SCRANTON","nc":1,"o":"-75.65168"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.20858,41.17524],"type":"Point"},"properties":{"a":"41.17524","cty":"MONROE","hp":true,"id":8837122,"mun":"BARRETT TWP","nc":24,"ne":{"a":"41.17789","o":"-75.20539"},"o":"-75.20858","sw":{"a":"41.1726","o":"-75.21176"}},"type":"Feature"},
-{"geometry":{"coordinates":[-74.898545,41.388685],"type":"Point"},"properties":{"a":"41.388685","cty":"PIKE","id":8837126,"mun":"SHOHOLA TWP","nc":5,"o":"-74.898545"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.237634,41.23283],"type":"Point"},"properties":{"a":"41.23283","cty":"LYCOMING","id":8837127,"mun":"PIATT TWP","nc":3,"o":"-77.237634"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.396833,41.331203],"type":"Point"},"properties":{"a":"41.331203","cty":"WAYNE","id":8837132,"mun":"STERLING TWP","nc":3,"o":"-75.396833"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.19449,41.027],"type":"Point"},"properties":{"a":"41.027","cty":"MONROE","hp":true,"id":8837133,"mun":"STROUD TWP","nc":40,"ne":{"a":"41.02862","o":"-75.19208"},"o":"-75.19449","sw":{"a":"41.02537","o":"-75.19691"}},"type":"Feature"},
