@@ -13,5 +13,7 @@
 {"geometry":{"coordinates":[-76.287296,40.186754],"type":"Point"},"properties":{"a":"40.186754","cty":"LANCASTER","id":8837260,"mun":"WARWICK TWP","nc":2,"o":"-76.287296"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.753576,40.757593],"type":"Point"},"properties":{"a":"40.757593","cty":"NORTHUMBERLAND","id":8837264,"mun":"LITTLE MAHANOY TWP","nc":3,"o":"-76.753576"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.335118,40.022151],"type":"Point"},"properties":{"a":"40.022151","cty":"LANCASTER","id":8837265,"mun":"LANCASTER TWP","nc":6,"o":"-76.335118"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.69646,40.55802],"type":"Point"},"properties":{"a":"40.55802","cty":"DAUPHIN","hp":true,"id":8837267,"mun":"LYKENS BORO","nc":50,"ne":{"a":"40.5654","o":"-76.69232"},"o":"-76.69646","sw":{"a":"40.55064","o":"-76.7006"}},"type":"Feature"}
+{"geometry":{"coordinates":[-76.69646,40.55802],"type":"Point"},"properties":{"a":"40.55802","cty":"DAUPHIN","hp":true,"id":8837267,"mun":"LYKENS BORO","nc":50,"ne":{"a":"40.5654","o":"-76.69232"},"o":"-76.69646","sw":{"a":"40.55064","o":"-76.7006"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.67945,41.40467],"type":"Point"},"properties":{"a":"41.40467","cty":"LACKAWANNA","hp":true,"id":8837272,"mun":"SCRANTON","nc":1171,"ne":{"a":"41.41086","o":"-75.66971"},"o":"-75.67945","sw":{"a":"41.39847","o":"-75.68919"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.209722,41.174775],"type":"Point"},"properties":{"a":"41.174775","cty":"MONROE","id":8837274,"mun":"BARRETT TWP","nc":3,"o":"-75.209722"},"type":"Feature"}
 ]}
