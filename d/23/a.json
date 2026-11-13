@@ -1,11 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-77.38734,40.568068],"type":"Point"},"properties":{"a":"40.568068","cty":"JUNIATA","id":8837604,"mun":"FERMANAGH TWP","nc":2,"o":"-77.38734"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.548761,40.491941],"type":"Point"},"properties":{"a":"40.491941","cty":"LEHIGH","id":8837623,"mun":"UPPER MILFORD TWP","nc":1,"o":"-75.548761"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.37209,40.610992],"type":"Point"},"properties":{"a":"40.610992","cty":"NORTHAMPTON","id":8837634,"mun":"BETHLEHEM","nc":1,"o":"-75.37209"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.288716,40.313411],"type":"Point"},"properties":{"a":"40.313411","cty":"BUCKS","id":8837635,"mun":"HILLTOWN TWP","nc":4,"o":"-75.288716"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.349972,40.379267],"type":"Point"},"properties":{"a":"40.379267","cty":"BUCKS","id":8837644,"mun":"WEST ROCKHILL TWP","nc":1,"o":"-75.349972"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.436199,40.629098],"type":"Point"},"properties":{"a":"40.629098","cty":"LEHIGH","id":8837645,"mun":"ALLENTOWN","nc":1,"o":"-75.436199"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.867733,40.271448],"type":"Point"},"properties":{"a":"40.271448","cty":"DAUPHIN","id":8837647,"mun":"HARRISBURG","nc":1,"o":"-76.867733"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.465045,40.985768],"type":"Point"},"properties":{"a":"40.985768","cty":"MONROE","id":8837651,"mun":"CHESTNUT HILL TWP","nc":4,"o":"-75.465045"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.306011,40.029216],"type":"Point"},"properties":{"a":"40.029216","cty":"LANCASTER","id":8837652,"mun":"LANCASTER","nc":11,"o":"-76.306011"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.132941,39.74742],"type":"Point"},"properties":{"a":"39.74742","cty":"LANCASTER","id":8837654,"mun":"FULTON TWP","nc":2,"o":"-76.132941"},"type":"Feature"}
 ]}
