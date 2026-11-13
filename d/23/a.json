@@ -1,8 +1,8 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-77.339017,40.758226],"type":"Point"},"properties":{"a":"40.758226","cty":"SNYDER","id":8837574,"mun":"WEST BEAVER TWP","nc":1,"o":"-77.339017"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.27614,41.50436],"type":"Point"},"properties":{"a":"41.50436","cty":"WAYNE","hp":true,"id":8837597,"mun":"CHERRY RIDGE TWP","nc":20,"ne":{"a":"41.5099","o":"-75.2718"},"o":"-75.27614","sw":{"a":"41.49882","o":"-75.28048"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.38734,40.568068],"type":"Point"},"properties":{"a":"40.568068","cty":"JUNIATA","id":8837604,"mun":"FERMANAGH TWP","nc":2,"o":"-77.38734"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.548761,40.491941],"type":"Point"},"properties":{"a":"40.491941","cty":"LEHIGH","id":8837623,"mun":"UPPER MILFORD TWP","nc":1,"o":"-75.548761"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.37209,40.610992],"type":"Point"},"properties":{"a":"40.610992","cty":"NORTHAMPTON","id":8837634,"mun":"BETHLEHEM","nc":1,"o":"-75.37209"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.288716,40.313411],"type":"Point"},"properties":{"a":"40.313411","cty":"BUCKS","id":8837635,"mun":"HILLTOWN TWP","nc":4,"o":"-75.288716"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.288716,40.313411],"type":"Point"},"properties":{"a":"40.313411","cty":"BUCKS","id":8837635,"mun":"HILLTOWN TWP","nc":4,"o":"-75.288716"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.349972,40.379267],"type":"Point"},"properties":{"a":"40.379267","cty":"BUCKS","id":8837644,"mun":"WEST ROCKHILL TWP","nc":1,"o":"-75.349972"},"type":"Feature"}
 ]}
