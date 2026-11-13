@@ -23,5 +23,7 @@
 {"geometry":{"coordinates":[-77.32945,40.30424],"type":"Point"},"properties":{"a":"40.30424","cty":"PERRY","hp":true,"id":8837462,"mun":"SPRING TWP","nc":216,"ne":{"a":"40.32752","o":"-77.28768"},"o":"-77.32945","sw":{"a":"40.28097","o":"-77.37122"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.536792,40.555204],"type":"Point"},"properties":{"a":"40.555204","cty":"LEHIGH","id":8837467,"mun":"LOWER MACUNGIE TWP","nc":4,"o":"-75.536792"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.36314,39.8856],"type":"Point"},"properties":{"a":"39.8856","cty":"LANCASTER","hp":true,"id":8837468,"mun":"MARTIC TWP","nc":104,"ne":{"a":"39.8919","o":"-76.35609"},"o":"-76.36314","sw":{"a":"39.8793","o":"-76.3702"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.483828,41.334571],"type":"Point"},"properties":{"a":"41.334571","cty":"LACKAWANNA","id":8837469,"mun":"MADISON TWP","nc":2,"o":"-75.483828"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.483828,41.334571],"type":"Point"},"properties":{"a":"41.334571","cty":"LACKAWANNA","id":8837469,"mun":"MADISON TWP","nc":2,"o":"-75.483828"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.556132,41.489447],"type":"Point"},"properties":{"a":"41.489447","cty":"LACKAWANNA","id":8837475,"mun":"ARCHBALD BORO","nc":4,"o":"-75.556132"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.319683,40.017878],"type":"Point"},"properties":{"a":"40.017878","cty":"LANCASTER","id":8837477,"mun":"LANCASTER TWP","nc":30,"o":"-76.319683"},"type":"Feature"}
 ]}

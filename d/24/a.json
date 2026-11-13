@@ -1,11 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.50799,41.74876],"type":"Point"},"properties":{"a":"41.74876","cty":"PROVIDENCE","hp":true,"id":20261071796,"mun":"SCITUATE","nc":5,"ne":{"a":"41.76386","o":"-71.48499"},"o":"-71.50799","sw":{"a":"41.73365","o":"-71.53099"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.25494,41.72758],"type":"Point"},"properties":{"a":"41.72758","cty":"BRISTOL","hp":true,"id":20261071823,"mun":"WARREN","nc":2673,"ne":{"a":"41.75636","o":"-71.22595"},"o":"-71.25494","sw":{"a":"41.69881","o":"-71.28393"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.483819,41.763239],"type":"Point"},"properties":{"a":"41.763239","cty":"PROVIDENCE","id":20261071874,"mun":"CRANSTON","nc":1,"o":"-71.483819"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.619996,41.686404],"type":"Point"},"properties":{"a":"41.686404","cty":"KENT","id":20261071875,"mun":"COVENTRY","nc":1,"o":"-71.619996"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.457273,41.783598],"type":"Point"},"properties":{"a":"41.783598","cty":"PROVIDENCE","id":20261071881,"mun":"CRANSTON","nc":29,"o":"-71.457273"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.489525,42.007386],"type":"Point"},"properties":{"a":"42.007386","cty":"PROVIDENCE","id":20261071949,"mun":"WOONSOCKET","nc":41,"o":"-71.489525"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.292586,41.744074],"type":"Point"},"properties":{"a":"41.744074","cty":"BRISTOL","id":20261071955,"mun":"BARRINGTON","nc":1,"o":"-71.292586"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.171199,41.529178],"type":"Point"},"properties":{"a":"41.529178","cty":"NEWPORT","id":20261071957,"mun":"LITTLE COMPTON","nc":1,"o":"-71.171199"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.284379,41.507107],"type":"Point"},"properties":{"a":"41.507107","cty":"NEWPORT","id":20261071958,"mun":"MIDDLETOWN","nc":9,"o":"-71.284379"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.25882,41.73234],"type":"Point"},"properties":{"a":"41.73234","cty":"BRISTOL","hp":true,"id":20261071972,"mun":"WARREN","nc":22,"ne":{"a":"41.73356","o":"-71.25771"},"o":"-71.25882","sw":{"a":"41.73112","o":"-71.25993"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.305052,41.747058],"type":"Point"},"properties":{"a":"41.747058","cty":"BRISTOL","id":20261071976,"mun":"BARRINGTON","nc":1,"o":"-71.305052"},"type":"Feature"}
 ]}
