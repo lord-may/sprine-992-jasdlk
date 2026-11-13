@@ -1,5 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.779129,41.346874],"type":"Point"},"properties":{"a":"41.346874","cty":"WASHINGTON","id":20261072002,"mun":"WESTERLY","nc":1,"o":"-71.779129"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.56198,41.866014],"type":"Point"},"properties":{"a":"41.866014","cty":"PROVIDENCE","id":20261072014,"mun":"SMITHFIELD","nc":1,"o":"-71.56198"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.474501,41.790238],"type":"Point"},"properties":{"a":"41.790238","cty":"PROVIDENCE","id":20261072015,"mun":"CRANSTON","nc":1,"o":"-71.474501"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.779129,41.346874],"type":"Point"},"properties":{"a":"41.346874","cty":"WASHINGTON","id":20261072002,"mun":"WESTERLY","nc":1,"o":"-71.779129"},"type":"Feature"}
 ]}
