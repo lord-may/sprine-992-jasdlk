@@ -14,5 +14,7 @@
 {"geometry":{"coordinates":[-76.10393,39.73397],"type":"Point"},"properties":{"a":"39.73397","cty":"LANCASTER","hp":true,"id":8837491,"mun":"LITTLE BRITAIN TWP","nc":5,"ne":{"a":"39.7353","o":"-76.0979"},"o":"-76.10393","sw":{"a":"39.73264","o":"-76.10997"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.519022,40.455376],"type":"Point"},"properties":{"a":"40.455376","cty":"LEHIGH","id":8837492,"mun":"LOWER MILFORD TWP","nc":2,"o":"-75.519022"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.4257,40.83133],"type":"Point"},"properties":{"a":"40.83133","cty":"MONROE","hp":true,"id":8837496,"mun":"ELDRED TWP","nc":28,"ne":{"a":"40.83398","o":"-75.42014"},"o":"-75.4257","sw":{"a":"40.82868","o":"-75.43125"}},"type":"Feature"},
-{"geometry":{"coordinates":[-77.012778,40.537449],"type":"Point"},"properties":{"a":"40.537449","cty":"PERRY","id":8837498,"mun":"BUFFALO TWP","nc":1,"o":"-77.012778"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.012778,40.537449],"type":"Point"},"properties":{"a":"40.537449","cty":"PERRY","id":8837498,"mun":"BUFFALO TWP","nc":1,"o":"-77.012778"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.640418,40.886589],"type":"Point"},"properties":{"a":"40.886589","cty":"CARBON","id":8837503,"mun":"FRANKLIN TWP","nc":4,"o":"-75.640418"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.677,40.76239],"type":"Point"},"properties":{"a":"40.76239","cty":"LEHIGH","hp":true,"id":8837505,"mun":"WASHINGTON TWP","nc":14,"ne":{"a":"40.7653","o":"-75.6731"},"o":"-75.677","sw":{"a":"40.75948","o":"-75.68091"}},"type":"Feature"}
 ]}
