@@ -1,3 +1,6 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-71.40718,41.886142],"type":"Point"},"properties":{"a":"41.886142","cty":"PROVIDENCE","id":20261071766,"mun":"LINCOLN","nc":1,"o":"-71.40718"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.390572,41.919771],"type":"Point"},"properties":{"a":"41.919771","cty":"PROVIDENCE","id":20261071770,"mun":"CUMBERLAND","nc":1,"o":"-71.390572"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.441211,41.87851],"type":"Point"},"properties":{"a":"41.87851","cty":"PROVIDENCE","id":20261071771,"mun":"LINCOLN","nc":16,"o":"-71.441211"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.396379,41.89167],"type":"Point"},"properties":{"a":"41.89167","cty":"PROVIDENCE","id":20261071775,"mun":"CENTRAL FALLS","nc":1,"o":"-71.396379"},"type":"Feature"}
 ]}
