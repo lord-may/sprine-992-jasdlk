@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.83443,40.24423],"type":"Point"},"properties":{"a":"40.24423","cty":"DAUPHIN","hp":true,"id":8728518,"mun":"SWATARA TWP","nc":498,"ne":{"a":"40.25178","o":"-76.81792"},"o":"-76.83443","sw":{"a":"40.23668","o":"-76.85094"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.344229,40.51834],"type":"Point"},"properties":{"a":"40.51834","cty":"BUCKS","id":8837062,"mun":"SPRINGFIELD TWP","nc":1,"o":"-75.344229"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.633818,41.712484],"type":"Point"},"properties":{"a":"41.712484","cty":"SUSQUEHANNA","id":8837106,"mun":"CLIFFORD TWP","nc":2,"o":"-75.633818"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.851472,41.384441],"type":"Point"},"properties":{"a":"41.384441","cty":"LUZERNE","id":8837112,"mun":"EXETER TWP","nc":1,"o":"-75.851472"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.20858,41.17524],"type":"Point"},"properties":{"a":"41.17524","cty":"MONROE","hp":true,"id":8837122,"mun":"BARRETT TWP","nc":24,"ne":{"a":"41.17789","o":"-75.20539"},"o":"-75.20858","sw":{"a":"41.1726","o":"-75.21176"}},"type":"Feature"},
@@ -9,9 +8,9 @@
 {"geometry":{"coordinates":[-77.19835,41.221991],"type":"Point"},"properties":{"a":"41.221991","cty":"LYCOMING","id":8837139,"mun":"PIATT TWP","nc":5,"o":"-77.19835"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.34252,41.48045],"type":"Point"},"properties":{"a":"41.48045","cty":"WAYNE","hp":true,"id":8837143,"mun":"LAKE TWP","nc":17,"ne":{"a":"41.4829","o":"-75.33591"},"o":"-75.34252","sw":{"a":"41.478","o":"-75.34914"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.354937,41.463799],"type":"Point"},"properties":{"a":"41.463799","cty":"WAYNE","id":8837146,"mun":"LAKE TWP","nc":2,"o":"-75.354937"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.3241,41.46226],"type":"Point"},"properties":{"a":"41.46226","cty":"WAYNE","hp":true,"id":8837147,"mun":"LAKE TWP","nc":90,"ne":{"a":"41.46409","o":"-75.31802"},"o":"-75.3241","sw":{"a":"41.46043","o":"-75.33017"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.24127,41.23517],"type":"Point"},"properties":{"a":"41.23517","cty":"LYCOMING","hp":true,"id":8837153,"mun":"PIATT TWP","nc":13,"ne":{"a":"41.24046","o":"-77.23327"},"o":"-77.24127","sw":{"a":"41.22988","o":"-77.24928"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.394334,41.331209],"type":"Point"},"properties":{"a":"41.331209","cty":"WAYNE","id":8837164,"mun":"STERLING TWP","nc":10,"o":"-75.394334"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.404439,41.626862],"type":"Point"},"properties":{"a":"41.626862","cty":"WAYNE","id":8837176,"mun":"CLINTON TWP","nc":2,"o":"-75.404439"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.02202,40.61562],"type":"Point"},"properties":{"a":"40.61562","cty":"PERRY","hp":true,"id":8837194,"mun":"LIVERPOOL TWP","nc":349,"ne":{"a":"40.63687","o":"-76.96195"},"o":"-77.02202","sw":{"a":"40.59437","o":"-77.08208"}},"type":"Feature"}
+{"geometry":{"coordinates":[-77.02202,40.61562],"type":"Point"},"properties":{"a":"40.61562","cty":"PERRY","hp":true,"id":8837194,"mun":"LIVERPOOL TWP","nc":349,"ne":{"a":"40.63687","o":"-76.96195"},"o":"-77.02202","sw":{"a":"40.59437","o":"-77.08208"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.95492,40.78712],"type":"Point"},"properties":{"a":"40.78712","cty":"SNYDER","hp":true,"id":8837247,"mun":"MIDDLECREEK TWP","nc":20,"ne":{"a":"40.79369","o":"-76.94688"},"o":"-76.95492","sw":{"a":"40.78055","o":"-76.96296"}},"type":"Feature"}
 ]}
