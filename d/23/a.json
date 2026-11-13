@@ -9,7 +9,7 @@
 {"geometry":{"coordinates":[-76.848313,40.180472],"type":"Point"},"properties":{"a":"40.180472","cty":"YORK","id":8837352,"mun":"FAIRVIEW TWP","nc":1,"o":"-76.848313"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.354761,40.545545],"type":"Point"},"properties":{"a":"40.545545","cty":"LEHIGH","id":8837353,"mun":"UPPER SAUCON TWP","nc":1,"o":"-75.354761"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.861455,40.060487],"type":"Point"},"properties":{"a":"40.060487","cty":"CHESTER","id":8837354,"mun":"HONEYBROOK TWP","nc":1,"o":"-75.861455"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.30563,40.20091],"type":"Point"},"properties":{"a":"40.20091","cty":"LANCASTER","hp":true,"id":8837356,"mun":"ELIZABETH TWP","nc":15,"ne":{"a":"40.20306","o":"-76.30469"},"o":"-76.30563","sw":{"a":"40.19877","o":"-76.30657"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.305101,40.20177],"type":"Point"},"properties":{"a":"40.20177","cty":"LANCASTER","id":8837356,"mun":"ELIZABETH TWP","nc":2,"o":"-76.305101"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.87546,40.8508],"type":"Point"},"properties":{"a":"40.8508","cty":"SNYDER","hp":true,"id":8837358,"mun":"JACKSON TWP","nc":18,"ne":{"a":"40.855","o":"-76.87345"},"o":"-76.87546","sw":{"a":"40.84661","o":"-76.87746"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.260324,41.400599],"type":"Point"},"properties":{"a":"41.400599","cty":"WAYNE","id":8837359,"mun":"PAUPACK TWP","nc":1,"o":"-75.260324"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.25947,41.40206],"type":"Point"},"properties":{"a":"41.40206","cty":"WAYNE","hp":true,"id":8837362,"mun":"PAUPACK TWP","nc":10,"ne":{"a":"41.40294","o":"-75.25893"},"o":"-75.25947","sw":{"a":"41.40119","o":"-75.26"}},"type":"Feature"}
 ]}

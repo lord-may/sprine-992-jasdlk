@@ -2,5 +2,6 @@
 {"geometry":{"coordinates":[-71.48258,41.76914],"type":"Point"},"properties":{"a":"41.76914","cty":"PROVIDENCE","hp":true,"id":20261071796,"mun":"SCITUATE","nc":178,"ne":{"a":"41.80462","o":"-71.43417"},"o":"-71.48258","sw":{"a":"41.73365","o":"-71.53099"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.40929,41.88722],"type":"Point"},"properties":{"a":"41.88722","cty":"PROVIDENCE","hp":true,"id":20261071808,"mun":"CENTRAL FALLS","nc":186,"ne":{"a":"41.88994","o":"-71.40417"},"o":"-71.40929","sw":{"a":"41.8845","o":"-71.41441"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.25494,41.72758],"type":"Point"},"properties":{"a":"41.72758","cty":"BRISTOL","hp":true,"id":20261071823,"mun":"WARREN","nc":2673,"ne":{"a":"41.75636","o":"-71.22595"},"o":"-71.25494","sw":{"a":"41.69881","o":"-71.28393"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.287228,41.736975],"type":"Point"},"properties":{"a":"41.736975","cty":"BRISTOL","id":20261071830,"mun":"WARREN","nc":123,"o":"-71.287228"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.284758,41.730079],"type":"Point"},"properties":{"a":"41.730079","cty":"BRISTOL","id":20261071846,"mun":"WARREN","nc":1,"o":"-71.284758"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.287167,41.736603],"type":"Point"},"properties":{"a":"41.736603","cty":"BRISTOL","id":20261071847,"mun":"WARREN","nc":1,"o":"-71.287167"},"type":"Feature"}
 ]}
