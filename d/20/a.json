@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.869983,42.724179],"type":"Point"},"properties":{"EstRest":"","Outages":2,"cause":"","county":"LIVINGSTON","crewstatus":"     ","customers":5,"hamlet":"MOUNT MORRIS","incidentnumber":"011BZ0","incidents":1,"level":"street","opco":"RGE","street":"LANDS LA","town":"MT MORRIS V MT MORRIS"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.869983,42.724179],"type":"Point"},"properties":{"EstRest":"","Outages":2,"cause":"","county":"LIVINGSTON","crewstatus":"DISP ","customers":5,"hamlet":"MOUNT MORRIS","incidentnumber":"011BZ0","incidents":1,"level":"street","opco":"RGE","street":"LANDS LA","town":"MT MORRIS V MT MORRIS"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.869983,42.724179],"type":"Point"},"properties":{"EstRest":"","Outages":2,"county":"LIVINGSTON","customers":6499,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
