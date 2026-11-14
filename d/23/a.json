@@ -16,5 +16,5 @@
 {"geometry":{"coordinates":[-75.481845,40.688668],"type":"Point"},"properties":{"a":"40.688668","cty":"NORTHAMPTON","id":8837800,"mun":"NORTHAMPTON BORO","nc":2,"o":"-75.481845"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.603722,41.446255],"type":"Point"},"properties":{"a":"41.446255","cty":"LACKAWANNA","id":8837804,"mun":"THROOP BORO","nc":1,"o":"-75.603722"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.46642,40.04981],"type":"Point"},"properties":{"a":"40.04981","cty":"LANCASTER","id":8837806,"mun":"WEST HEMPFIELD TWP","nc":1,"o":"-76.46642"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.496222,41.007408],"type":"Point"},"properties":{"a":"41.007408","cty":"MONROE","id":8837809,"mun":"TUNKHANNOCK TWP","nc":1,"o":"-75.496222"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.347082,40.69482],"type":"Point"},"properties":{"a":"40.69482","cty":"NORTHAMPTON","id":8837812,"mun":"LOWER NAZARETH TWP","nc":4,"o":"-75.347082"},"type":"Feature"}
 ]}

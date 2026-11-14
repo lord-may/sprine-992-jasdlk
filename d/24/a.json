@@ -1,8 +1,8 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.627805,41.856009],"type":"Point"},"properties":{"a":"41.856009","cty":"PROVIDENCE","id":20261072098,"mun":"SCITUATE","nc":1,"o":"-71.627805"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.638024,41.836126],"type":"Point"},"properties":{"a":"41.836126","cty":"PROVIDENCE","id":20261072101,"mun":"SCITUATE","nc":1,"o":"-71.638024"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.651184,41.539633],"type":"Point"},"properties":{"a":"41.539633","cty":"WASHINGTON","id":20261072103,"mun":"RICHMOND","nc":4,"o":"-71.651184"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.735518,41.778166],"type":"Point"},"properties":{"a":"41.778166","cty":"PROVIDENCE","id":20261072104,"mun":"FOSTER","nc":1,"o":"-71.735518"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.592233,41.656045],"type":"Point"},"properties":{"a":"41.656045","cty":"KENT","id":20261072105,"mun":"WEST GREENWICH","nc":1,"o":"-71.592233"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.405701,41.7737],"type":"Point"},"properties":{"a":"41.7737","cty":"PROVIDENCE","id":20261072107,"mun":"CRANSTON","nc":1,"o":"-71.405701"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.405701,41.7737],"type":"Point"},"properties":{"a":"41.7737","cty":"PROVIDENCE","id":20261072107,"mun":"CRANSTON","nc":1,"o":"-71.405701"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.49822,41.44932],"type":"Point"},"properties":{"a":"41.44932","cty":"WASHINGTON","hp":true,"id":20261072111,"mun":"SOUTH KINGSTOWN","nc":13,"ne":{"a":"41.45013","o":"-71.49779"},"o":"-71.49822","sw":{"a":"41.44851","o":"-71.49864"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.511007,41.690763],"type":"Point"},"properties":{"a":"41.690763","cty":"KENT","id":20261072112,"mun":"WEST WARWICK","nc":1,"o":"-71.511007"},"type":"Feature"}
 ]}
