@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.570929,44.531594],"type":"Point"},"properties":{"EstRest":"11/14/2026 4:00:00 PM","Outages":44,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.571112,44.531128],"type":"Point"},"properties":{"EstRest":"11/14/2026 4:00:00 PM","Outages":8,"cause":"","county":"KENNEBEC","crewstatus":"ONST ","customers":25,"hamlet":"WINSLOW","incidentnumber":"00473B","incidents":1,"level":"street","opco":"CMP","street":"PATTEE POND RD","town":"WINSLOW"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.678281,44.050782],"type":"Point"},"properties":{"EstRest":"11/14/2026 5:15:00 PM","Outages":1,"cause":"","county":"CUMBERLAND","crewstatus":"     ","customers":21,"hamlet":"BRIDGTON","incidentnumber":"00473C","incidents":1,"level":"street","opco":"CMP","street":"SALMON POINT RD","town":"BRIDGTON"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.678281,44.050782],"type":"Point"},"properties":{"EstRest":"11/14/2026 5:15:00 PM","Outages":1,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.981075,44.384736],"type":"Point"},"properties":{"EstRest":"11/14/2026 5:15:00 PM","Outages":1,"cause":"","county":"OXFORD","crewstatus":"DISP ","customers":6,"hamlet":"GILEAD","incidentnumber":"00473D","incidents":1,"level":"street","opco":"CMP","street":"EVANS NOTCH RD","town":"GILEAD"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.981075,44.384736],"type":"Point"},"properties":{"EstRest":"11/14/2026 5:15:00 PM","Outages":1,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
