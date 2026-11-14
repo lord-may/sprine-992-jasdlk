@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.095546,44.248186],"type":"Point"},"properties":{"EstRest":"11/14/2026 2:15:00 PM","Outages":18,"county":"KNOX","customers":27251,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.095546,44.248186],"type":"Point"},"properties":{"EstRest":"11/14/2026 2:15:00 PM","Outages":2,"cause":"","county":"KNOX","crewstatus":"ONST ","customers":5,"hamlet":"CAMDEN","incidentnumber":"00472U","incidents":1,"level":"street","opco":"CMP","street":"WOODLAND ST","town":"CAMDEN"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.816421,43.931493],"type":"Point"},"properties":{"EstRest":"11/14/2026 2:00:00 PM","Outages":10,"cause":"","county":"SAGADAHOC","crewstatus":"ENRT ","customers":10,"hamlet":"BATH","incidentnumber":"00472T","incidents":1,"level":"street","opco":"CMP","street":"DAVENPORT CIR","town":"BATH"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.816421,43.931493],"type":"Point"},"properties":{"EstRest":"11/14/2026 2:00:00 PM","Outages":11,"county":"SAGADAHOC","customers":23026,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.962878,44.023912],"type":"Point"},"properties":{"EstRest":"11/14/2026 3:15:00 PM","Outages":25,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.968234,44.023592],"type":"Point"},"properties":{"EstRest":"11/14/2026 3:15:00 PM","Outages":24,"cause":"","county":"OXFORD","crewstatus":"ACKN ","customers":29,"hamlet":"FRYEBURG","incidentnumber":"004733","incidents":1,"level":"street","opco":"CMP","street":"WOODLAND ST","town":"FRYEBURG"},"type":"Feature"}
 ]}
