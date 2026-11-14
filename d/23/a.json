@@ -3,5 +3,6 @@
 {"geometry":{"coordinates":[-75.21845,41.06717],"type":"Point"},"properties":{"a":"41.06717","cty":"MONROE","hp":true,"id":8837664,"mun":"STROUD TWP","nc":52,"ne":{"a":"41.07257","o":"-75.21109"},"o":"-75.21845","sw":{"a":"41.06177","o":"-75.22581"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.846191,40.098619],"type":"Point"},"properties":{"a":"40.098619","cty":"CHESTER","id":8837716,"mun":"HONEYBROOK TWP","nc":2,"o":"-75.846191"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.6514,40.62044],"type":"Point"},"properties":{"a":"40.62044","cty":"LEHIGH","hp":true,"id":8837720,"mun":"LOWHILL TWP","nc":11,"ne":{"a":"40.62498","o":"-75.64814"},"o":"-75.6514","sw":{"a":"40.61591","o":"-75.65466"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.209231,41.090905],"type":"Point"},"properties":{"a":"41.090905","cty":"MONROE","id":8837722,"mun":"PRICE TWP","nc":3,"o":"-75.209231"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.111191,39.776663],"type":"Point"},"properties":{"a":"39.776663","cty":"LANCASTER","id":8837723,"mun":"LITTLE BRITAIN TWP","nc":3,"o":"-76.111191"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.454826,41.13268],"type":"Point"},"properties":{"a":"41.13268","cty":"CLINTON","id":8837725,"mun":"LOCK HAVEN","nc":15,"o":"-77.454826"},"type":"Feature"}
 ]}
