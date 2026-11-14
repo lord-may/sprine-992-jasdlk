@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.898969,43.643195],"type":"Point"},"properties":{"EstRest":"11/14/2026 7:15:00 PM","Outages":6,"cause":"","county":"YORK","crewstatus":"     ","customers":6,"hamlet":"NEWFIELD","incidentnumber":"00473K","incidents":1,"level":"street","opco":"CMP","street":"LAKE RIDGE RD","town":"NEWFIELD"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.898969,43.643195],"type":"Point"},"properties":{"EstRest":"11/14/2026 7:15:00 PM","Outages":6,"cause":"","county":"YORK","crewstatus":"ENRT ","customers":6,"hamlet":"NEWFIELD","incidentnumber":"00473K","incidents":1,"level":"street","opco":"CMP","street":"LAKE RIDGE RD","town":"NEWFIELD"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.898969,43.643195],"type":"Point"},"properties":{"EstRest":"11/14/2026 7:15:00 PM","Outages":6,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
