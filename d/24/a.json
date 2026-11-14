@@ -1,7 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.3132,41.47157],"type":"Point"},"properties":{"a":"41.47157","cty":"NEWPORT","hp":true,"id":20261072132,"mun":"NEWPORT","nc":20,"ne":{"a":"41.47237","o":"-71.31273"},"o":"-71.3132","sw":{"a":"41.47077","o":"-71.31366"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.457162,41.807089],"type":"Point"},"properties":{"a":"41.807089","cty":"PROVIDENCE","id":20261072167,"mun":"PROVIDENCE","nc":1,"o":"-71.457162"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.415664,41.926731],"type":"Point"},"properties":{"a":"41.926731","cty":"PROVIDENCE","id":20261072168,"mun":"CUMBERLAND","nc":1,"o":"-71.415664"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.424471,41.8543],"type":"Point"},"properties":{"a":"41.8543","cty":"PROVIDENCE","id":20261072169,"mun":"PROVIDENCE","nc":1,"o":"-71.424471"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.446827,41.829844],"type":"Point"},"properties":{"a":"41.829844","cty":"PROVIDENCE","id":20261072171,"mun":"PROVIDENCE","nc":1,"o":"-71.446827"},"type":"Feature"}
 ]}
