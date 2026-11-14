@@ -9,8 +9,9 @@
 {"geometry":{"coordinates":[-75.60258,41.448698],"type":"Point"},"properties":{"a":"41.448698","cty":"LACKAWANNA","id":8837815,"mun":"THROOP BORO","nc":1,"o":"-75.60258"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.46954,40.49354],"type":"Point"},"properties":{"a":"40.49354","cty":"LEHIGH","hp":true,"id":8837821,"mun":"LOWER MILFORD TWP","nc":27,"ne":{"a":"40.4965","o":"-75.46466"},"o":"-75.46954","sw":{"a":"40.49059","o":"-75.47442"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.861594,40.224867],"type":"Point"},"properties":{"a":"40.224867","cty":"CUMBERLAND","id":8837843,"mun":"NEW CUMBERLAND BORO","nc":16,"o":"-76.861594"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.287228,40.666527],"type":"Point"},"properties":{"a":"40.666527","cty":"NORTHAMPTON","id":8837846,"mun":"BETHLEHEM TWP","nc":4,"o":"-75.287228"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.077705,41.06952],"type":"Point"},"properties":{"a":"41.06952","cty":"LUZERNE","id":8837864,"mun":"HOLLENBACK TWP","nc":1,"o":"-76.077705"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.489268,40.595401],"type":"Point"},"properties":{"a":"40.595401","cty":"LEHIGH","id":8837870,"mun":"ALLENTOWN","nc":36,"o":"-75.489268"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.545692,40.76838],"type":"Point"},"properties":{"a":"40.76838","cty":"NORTHUMBERLAND","id":8837873,"mun":"COAL TWP","nc":4,"o":"-76.545692"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.545692,40.76838],"type":"Point"},"properties":{"a":"40.76838","cty":"NORTHUMBERLAND","id":8837873,"mun":"COAL TWP","nc":4,"o":"-76.545692"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.581233,41.336906],"type":"Point"},"properties":{"a":"41.336906","cty":"LACKAWANNA","id":8837875,"mun":"SPRING BROOK TWP","nc":3,"o":"-75.581233"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.239336,39.951689],"type":"Point"},"properties":{"a":"39.951689","cty":"LANCASTER","id":8837878,"mun":"STRASBURG TWP","nc":1,"o":"-76.239336"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.53615,40.157939],"type":"Point"},"properties":{"a":"40.157939","cty":"LANCASTER","id":8837879,"mun":"MOUNT JOY TWP","nc":2,"o":"-76.53615"},"type":"Feature"}
 ]}
