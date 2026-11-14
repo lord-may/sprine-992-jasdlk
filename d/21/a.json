@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.981075,44.384736],"type":"Point"},"properties":{"EstRest":"11/14/2026 5:15:00 PM","Outages":1,"cause":"","county":"OXFORD","crewstatus":"ONST ","customers":6,"hamlet":"GILEAD","incidentnumber":"00473D","incidents":1,"level":"street","opco":"CMP","street":"EVANS NOTCH RD","town":"GILEAD"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.981075,44.384736],"type":"Point"},"properties":{"EstRest":"11/14/2026 5:15:00 PM","Outages":1,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+
 ]}

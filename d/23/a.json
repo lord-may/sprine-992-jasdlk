@@ -3,7 +3,5 @@
 {"geometry":{"coordinates":[-75.60258,41.448698],"type":"Point"},"properties":{"a":"41.448698","cty":"LACKAWANNA","id":8837815,"mun":"THROOP BORO","nc":1,"o":"-75.60258"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.537708,40.76494],"type":"Point"},"properties":{"a":"40.76494","cty":"NORTHUMBERLAND","id":8837873,"mun":"COAL TWP","nc":1,"o":"-76.537708"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.301319,40.270609],"type":"Point"},"properties":{"a":"40.270609","cty":"NA","id":8837893,"mun":"NA","nc":3,"o":"-76.301319"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.01307,40.5396],"type":"Point"},"properties":{"a":"40.5396","cty":"PERRY","hp":true,"id":8837904,"mun":"BUFFALO TWP","nc":125,"ne":{"a":"40.55014","o":"-76.98969"},"o":"-77.01307","sw":{"a":"40.52905","o":"-77.03645"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.086557,40.323699],"type":"Point"},"properties":{"a":"40.323699","cty":"BERKS","id":8837940,"mun":"SOUTH HEIDELBERG TWP","nc":5,"o":"-76.086557"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.98745,41.224637],"type":"Point"},"properties":{"a":"41.224637","cty":"LYCOMING","id":8837944,"mun":"SOUTH WILLIAMSPORT BORO","nc":14,"o":"-76.98745"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.086557,40.323699],"type":"Point"},"properties":{"a":"40.323699","cty":"BERKS","id":8837940,"mun":"SOUTH HEIDELBERG TWP","nc":5,"o":"-76.086557"},"type":"Feature"}
 ]}
