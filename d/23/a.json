@@ -4,5 +4,6 @@
 {"geometry":{"coordinates":[-76.35504,41.26123],"type":"Point"},"properties":{"a":"41.26123","cty":"COLUMBIA","hp":true,"id":8837761,"mun":"SUGARLOAF TWP","nc":4,"ne":{"a":"41.2645","o":"-76.35324"},"o":"-76.35504","sw":{"a":"41.25796","o":"-76.35683"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.339889,41.058047],"type":"Point"},"properties":{"a":"41.058047","cty":"MONROE","id":8837770,"mun":"POCONO TWP","nc":8,"o":"-75.339889"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.382362,40.056822],"type":"Point"},"properties":{"a":"40.056822","cty":"LANCASTER","id":8837778,"mun":"EAST HEMPFIELD TWP","nc":6,"o":"-76.382362"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.41739,40.55317],"type":"Point"},"properties":{"a":"40.55317","cty":"LEHIGH","hp":true,"id":8837781,"mun":"UPPER SAUCON TWP","nc":102,"ne":{"a":"40.56093","o":"-75.40889"},"o":"-75.41739","sw":{"a":"40.54542","o":"-75.4259"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.41739,40.55317],"type":"Point"},"properties":{"a":"40.55317","cty":"LEHIGH","hp":true,"id":8837781,"mun":"UPPER SAUCON TWP","nc":102,"ne":{"a":"40.56093","o":"-75.40889"},"o":"-75.41739","sw":{"a":"40.54542","o":"-75.4259"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.501585,40.112538],"type":"Point"},"properties":{"a":"40.112538","cty":"LANCASTER","id":8837782,"mun":"MOUNT JOY BORO","nc":6,"o":"-76.501585"},"type":"Feature"}
 ]}
