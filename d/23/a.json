@@ -2,5 +2,5 @@
 {"geometry":{"coordinates":[-75.626493,40.570232],"type":"Point"},"properties":{"a":"40.570232","cty":"LEHIGH","id":8837733,"mun":"UPPER MACUNGIE TWP","nc":1,"o":"-75.626493"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.755308,40.756351],"type":"Point"},"properties":{"a":"40.756351","cty":"NORTHUMBERLAND","id":8837758,"mun":"LITTLE MAHANOY TWP","nc":6,"o":"-76.755308"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.35504,41.26123],"type":"Point"},"properties":{"a":"41.26123","cty":"COLUMBIA","hp":true,"id":8837761,"mun":"SUGARLOAF TWP","nc":4,"ne":{"a":"41.2645","o":"-76.35324"},"o":"-76.35504","sw":{"a":"41.25796","o":"-76.35683"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.33551,41.05842],"type":"Point"},"properties":{"a":"41.05842","cty":"MONROE","hp":true,"id":8837770,"mun":"POCONO TWP","nc":25,"ne":{"a":"41.05943","o":"-75.33217"},"o":"-75.33551","sw":{"a":"41.05741","o":"-75.33884"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.339889,41.058047],"type":"Point"},"properties":{"a":"41.058047","cty":"MONROE","id":8837770,"mun":"POCONO TWP","nc":8,"o":"-75.339889"},"type":"Feature"}
 ]}
