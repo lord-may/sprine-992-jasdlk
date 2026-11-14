@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-68.13498,45.49024],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-14T16:07:45.15-05:00","outageName":"F94030-16","outagePoint":{"lat":45.49024,"lng":-68.13498},"outageRecID":"2026-11-14-0200","outageStartTime":"2026-11-14T16:04:01-05:00","outageWorkStatus":"","streetsAffected":["BERT HURD RD"],"verified":true},"type":"Feature"}
 ]}

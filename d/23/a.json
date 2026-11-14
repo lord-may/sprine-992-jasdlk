@@ -3,8 +3,10 @@
 {"geometry":{"coordinates":[-75.60258,41.448698],"type":"Point"},"properties":{"a":"41.448698","cty":"LACKAWANNA","id":8837815,"mun":"THROOP BORO","nc":1,"o":"-75.60258"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.537708,40.76494],"type":"Point"},"properties":{"a":"40.76494","cty":"NORTHUMBERLAND","id":8837873,"mun":"COAL TWP","nc":1,"o":"-76.537708"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.704118,41.526434],"type":"Point"},"properties":{"a":"41.526434","cty":"LACKAWANNA","id":8837884,"mun":"WAVERLY TWP","nc":4,"o":"-75.704118"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.30051,40.26918],"type":"Point"},"properties":{"a":"40.26918","cty":"LEBANON","hp":true,"id":8837893,"mun":"HEIDELBERG TWP","nc":19,"ne":{"a":"40.27083","o":"-76.29869"},"o":"-76.30051","sw":{"a":"40.26752","o":"-76.30232"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.31688,40.2699],"type":"Point"},"properties":{"a":"40.2699","cty":"LEBANON","hp":true,"id":8837893,"mun":"HEIDELBERG TWP","nc":190,"ne":{"a":"40.28598","o":"-76.2955"},"o":"-76.31688","sw":{"a":"40.25382","o":"-76.33826"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.01307,40.5396],"type":"Point"},"properties":{"a":"40.5396","cty":"PERRY","hp":true,"id":8837904,"mun":"BUFFALO TWP","nc":125,"ne":{"a":"40.55014","o":"-76.98969"},"o":"-77.01307","sw":{"a":"40.52905","o":"-77.03645"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.307313,41.520189],"type":"Point"},"properties":{"a":"41.520189","cty":"WAYNE","id":8837920,"mun":"CHERRY RIDGE TWP","nc":1,"o":"-75.307313"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.21246,40.989748],"type":"Point"},"properties":{"a":"40.989748","cty":"MONROE","id":8837931,"mun":"STROUD TWP","nc":9,"o":"-75.21246"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.448404,40.608414],"type":"Point"},"properties":{"a":"40.608414","cty":"LEHIGH","id":8837937,"mun":"ALLENTOWN","nc":18,"o":"-75.448404"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.861272,40.269399],"type":"Point"},"properties":{"a":"40.269399","cty":"DAUPHIN","id":8837938,"mun":"HARRISBURG","nc":1,"o":"-76.861272"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.495238,40.074878],"type":"Point"},"properties":{"a":"40.074878","cty":"LANCASTER","id":8837939,"mun":"RAPHO TWP","nc":3,"o":"-76.495238"},"type":"Feature"}
 ]}

@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.618121,43.093258],"type":"Point"},"properties":{"EstRest":"","Outages":8,"cause":"System Upgrade","county":"MONROE","crewstatus":"DISP ","customers":147,"hamlet":"ROCHESTER","incidentnumber":"011E15","incidents":1,"level":"street","opco":"RGE","street":"BRIGHTON HENRIETTA TOWNLINE RD","town":"HENRIETTA"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.618121,43.093258],"type":"Point"},"properties":{"EstRest":"","Outages":8,"county":"MONROE","customers":303529,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.49716,42.974447],"type":"Point"},"properties":{"EstRest":"11/14/2026 7:00:00 PM","Outages":80,"county":"MONROE","customers":303529,"incidents":2,"level":"county","opco":"RGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.478785,42.978861],"type":"Point"},"properties":{"EstRest":"11/14/2026 7:00:00 PM","Outages":37,"county":"ONTARIO","customers":35928,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.479714,42.978315],"type":"Point"},"properties":{"EstRest":"11/14/2026 7:00:00 PM","Outages":4,"cause":"","county":"ONTARIO","crewstatus":"DISP ","customers":4,"hamlet":"VICTOR","incidentnumber":"011EPV","incidents":1,"level":"street","opco":"RGE","street":"OAK CANYON DR","town":"VICTOR"},"type":"Feature"}
 ]}
