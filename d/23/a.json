@@ -16,5 +16,9 @@
 {"geometry":{"coordinates":[-75.481845,40.688668],"type":"Point"},"properties":{"a":"40.688668","cty":"NORTHAMPTON","id":8837800,"mun":"NORTHAMPTON BORO","nc":2,"o":"-75.481845"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.603722,41.446255],"type":"Point"},"properties":{"a":"41.446255","cty":"LACKAWANNA","id":8837804,"mun":"THROOP BORO","nc":1,"o":"-75.603722"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.46642,40.04981],"type":"Point"},"properties":{"a":"40.04981","cty":"LANCASTER","id":8837806,"mun":"WEST HEMPFIELD TWP","nc":1,"o":"-76.46642"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.347082,40.69482],"type":"Point"},"properties":{"a":"40.69482","cty":"NORTHAMPTON","id":8837812,"mun":"LOWER NAZARETH TWP","nc":4,"o":"-75.347082"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.347082,40.69482],"type":"Point"},"properties":{"a":"40.69482","cty":"NORTHAMPTON","id":8837812,"mun":"LOWER NAZARETH TWP","nc":4,"o":"-75.347082"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.60258,41.448698],"type":"Point"},"properties":{"a":"41.448698","cty":"LACKAWANNA","id":8837815,"mun":"THROOP BORO","nc":1,"o":"-75.60258"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.193917,40.684997],"type":"Point"},"properties":{"a":"40.684997","cty":"SCHUYLKILL","id":8837816,"mun":"POTTSVILLE","nc":2,"o":"-76.193917"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.067027,40.921225],"type":"Point"},"properties":{"a":"40.921225","cty":"LUZERNE","id":8837818,"mun":"HAZLE TWP","nc":1,"o":"-76.067027"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.404396,41.58079],"type":"Point"},"properties":{"a":"41.58079","cty":"WAYNE","id":8837819,"mun":"WAYMART BORO","nc":8,"o":"-75.404396"},"type":"Feature"}
 ]}
