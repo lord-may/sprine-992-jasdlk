@@ -2,7 +2,6 @@
 {"geometry":{"coordinates":[-75.626493,40.570232],"type":"Point"},"properties":{"a":"40.570232","cty":"LEHIGH","id":8837733,"mun":"UPPER MACUNGIE TWP","nc":1,"o":"-75.626493"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.755308,40.756351],"type":"Point"},"properties":{"a":"40.756351","cty":"NORTHUMBERLAND","id":8837758,"mun":"LITTLE MAHANOY TWP","nc":6,"o":"-76.755308"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.339889,41.058047],"type":"Point"},"properties":{"a":"41.058047","cty":"MONROE","id":8837770,"mun":"POCONO TWP","nc":8,"o":"-75.339889"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.382362,40.056822],"type":"Point"},"properties":{"a":"40.056822","cty":"LANCASTER","id":8837778,"mun":"EAST HEMPFIELD TWP","nc":6,"o":"-76.382362"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.41739,40.55317],"type":"Point"},"properties":{"a":"40.55317","cty":"LEHIGH","hp":true,"id":8837781,"mun":"UPPER SAUCON TWP","nc":102,"ne":{"a":"40.56093","o":"-75.40889"},"o":"-75.41739","sw":{"a":"40.54542","o":"-75.4259"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.96608,40.211599],"type":"Point"},"properties":{"a":"40.211599","cty":"CUMBERLAND","id":8837784,"mun":"LOWER ALLEN TWP","nc":4,"o":"-76.96608"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.427677,40.990845],"type":"Point"},"properties":{"a":"40.990845","cty":"MONROE","id":8837786,"mun":"CHESTNUT HILL TWP","nc":2,"o":"-75.427677"},"type":"Feature"},
@@ -20,5 +19,6 @@
 {"geometry":{"coordinates":[-75.60258,41.448698],"type":"Point"},"properties":{"a":"41.448698","cty":"LACKAWANNA","id":8837815,"mun":"THROOP BORO","nc":1,"o":"-75.60258"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.193917,40.684997],"type":"Point"},"properties":{"a":"40.684997","cty":"SCHUYLKILL","id":8837816,"mun":"POTTSVILLE","nc":2,"o":"-76.193917"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.067027,40.921225],"type":"Point"},"properties":{"a":"40.921225","cty":"LUZERNE","id":8837818,"mun":"HAZLE TWP","nc":1,"o":"-76.067027"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.404396,41.58079],"type":"Point"},"properties":{"a":"41.58079","cty":"WAYNE","id":8837819,"mun":"WAYMART BORO","nc":8,"o":"-75.404396"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.46954,40.49354],"type":"Point"},"properties":{"a":"40.49354","cty":"LEHIGH","hp":true,"id":8837821,"mun":"LOWER MILFORD TWP","nc":27,"ne":{"a":"40.4965","o":"-75.46466"},"o":"-75.46954","sw":{"a":"40.49059","o":"-75.47442"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.89651,41.24407],"type":"Point"},"properties":{"a":"41.24407","cty":"LUZERNE","id":8837823,"mun":"WILKES-BARRE","nc":1,"o":"-75.89651"},"type":"Feature"}
 ]}

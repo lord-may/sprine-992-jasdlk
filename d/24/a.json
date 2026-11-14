@@ -9,6 +9,6 @@
 {"geometry":{"coordinates":[-71.700455,41.516129],"type":"Point"},"properties":{"a":"41.516129","cty":"WASHINGTON","id":20261072114,"mun":"RICHMOND","nc":1,"o":"-71.700455"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.464551,41.733849],"type":"Point"},"properties":{"a":"41.733849","cty":"PROVIDENCE","id":20261072115,"mun":"CRANSTON","nc":1,"o":"-71.464551"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.422132,41.78699],"type":"Point"},"properties":{"a":"41.78699","cty":"PROVIDENCE","id":20261072116,"mun":"PROVIDENCE","nc":1,"o":"-71.422132"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.314851,41.491587],"type":"Point"},"properties":{"a":"41.491587","cty":"NEWPORT","id":20261072119,"mun":"NEWPORT","nc":13,"o":"-71.314851"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.316013,41.490841],"type":"Point"},"properties":{"a":"41.490841","cty":"NEWPORT","id":20261072120,"mun":"NEWPORT","nc":1,"o":"-71.316013"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.316013,41.490841],"type":"Point"},"properties":{"a":"41.490841","cty":"NEWPORT","id":20261072120,"mun":"NEWPORT","nc":1,"o":"-71.316013"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.515798,42.010619],"type":"Point"},"properties":{"a":"42.010619","cty":"PROVIDENCE","id":20261072122,"mun":"WOONSOCKET","nc":1,"o":"-71.515798"},"type":"Feature"}
 ]}
