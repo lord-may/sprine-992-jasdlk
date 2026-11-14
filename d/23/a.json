@@ -6,7 +6,6 @@
 {"geometry":{"coordinates":[-76.96608,40.211599],"type":"Point"},"properties":{"a":"40.211599","cty":"CUMBERLAND","id":8837784,"mun":"LOWER ALLEN TWP","nc":4,"o":"-76.96608"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.555997,40.782631],"type":"Point"},"properties":{"a":"40.782631","cty":"NORTHUMBERLAND","id":8837790,"mun":"COAL TWP","nc":27,"o":"-76.555997"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.240026,40.216577],"type":"Point"},"properties":{"a":"40.216577","cty":"LANCASTER","id":8837791,"mun":"CLAY TWP","nc":1,"o":"-76.240026"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.277057,39.856831],"type":"Point"},"properties":{"a":"39.856831","cty":"LANCASTER","id":8837792,"mun":"MARTIC TWP","nc":1,"o":"-76.277057"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.323817,40.120945],"type":"Point"},"properties":{"a":"40.120945","cty":"LANCASTER","id":8837793,"mun":"MANHEIM TWP","nc":1,"o":"-76.323817"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.533593,40.749483],"type":"Point"},"properties":{"a":"40.749483","cty":"NORTHAMPTON","id":8837798,"mun":"LEHIGH TWP","nc":1,"o":"-75.533593"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.481845,40.688668],"type":"Point"},"properties":{"a":"40.688668","cty":"NORTHAMPTON","id":8837800,"mun":"NORTHAMPTON BORO","nc":2,"o":"-75.481845"},"type":"Feature"},
@@ -16,9 +15,10 @@
 {"geometry":{"coordinates":[-75.46954,40.49354],"type":"Point"},"properties":{"a":"40.49354","cty":"LEHIGH","hp":true,"id":8837821,"mun":"LOWER MILFORD TWP","nc":27,"ne":{"a":"40.4965","o":"-75.46466"},"o":"-75.46954","sw":{"a":"40.49059","o":"-75.47442"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.151524,40.251569],"type":"Point"},"properties":{"a":"40.251569","cty":"CUMBERLAND","id":8837829,"mun":"MIDDLESEX TWP","nc":2,"o":"-77.151524"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.081097,41.069737],"type":"Point"},"properties":{"a":"41.069737","cty":"LUZERNE","id":8837833,"mun":"HOLLENBACK TWP","nc":3,"o":"-76.081097"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.430184,41.126924],"type":"Point"},"properties":{"a":"41.126924","cty":"CLINTON","id":8837841,"mun":"CASTANEA TWP","nc":2,"o":"-77.430184"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.861594,40.224867],"type":"Point"},"properties":{"a":"40.224867","cty":"CUMBERLAND","id":8837843,"mun":"NEW CUMBERLAND BORO","nc":16,"o":"-76.861594"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.287228,40.666527],"type":"Point"},"properties":{"a":"40.666527","cty":"NORTHAMPTON","id":8837846,"mun":"BETHLEHEM TWP","nc":4,"o":"-75.287228"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.675036,41.418209],"type":"Point"},"properties":{"a":"41.418209","cty":"LACKAWANNA","id":8837855,"mun":"SCRANTON","nc":20,"o":"-75.675036"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.077705,41.06952],"type":"Point"},"properties":{"a":"41.06952","cty":"LUZERNE","id":8837864,"mun":"HOLLENBACK TWP","nc":1,"o":"-76.077705"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.077705,41.06952],"type":"Point"},"properties":{"a":"41.06952","cty":"LUZERNE","id":8837864,"mun":"HOLLENBACK TWP","nc":1,"o":"-76.077705"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.448404,40.608414],"type":"Point"},"properties":{"a":"40.608414","cty":"LEHIGH","id":8837869,"mun":"ALLENTOWN","nc":18,"o":"-75.448404"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.489268,40.595401],"type":"Point"},"properties":{"a":"40.595401","cty":"LEHIGH","id":8837870,"mun":"ALLENTOWN","nc":36,"o":"-75.489268"},"type":"Feature"}
 ]}

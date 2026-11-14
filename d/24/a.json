@@ -3,6 +3,7 @@
 {"geometry":{"coordinates":[-71.405701,41.7737],"type":"Point"},"properties":{"a":"41.7737","cty":"PROVIDENCE","id":20261072107,"mun":"CRANSTON","nc":1,"o":"-71.405701"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.464551,41.733849],"type":"Point"},"properties":{"a":"41.733849","cty":"PROVIDENCE","id":20261072115,"mun":"CRANSTON","nc":1,"o":"-71.464551"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.422132,41.78699],"type":"Point"},"properties":{"a":"41.78699","cty":"PROVIDENCE","id":20261072116,"mun":"PROVIDENCE","nc":1,"o":"-71.422132"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.14561,41.52808],"type":"Point"},"properties":{"a":"41.52808","cty":"NEWPORT","hp":true,"id":20261072130,"mun":"LITTLE COMPTON","nc":21,"ne":{"a":"41.53008","o":"-71.14027"},"o":"-71.14561","sw":{"a":"41.52609","o":"-71.15096"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.3132,41.47157],"type":"Point"},"properties":{"a":"41.47157","cty":"NEWPORT","hp":true,"id":20261072132,"mun":"NEWPORT","nc":20,"ne":{"a":"41.47237","o":"-71.31273"},"o":"-71.3132","sw":{"a":"41.47077","o":"-71.31366"}},"type":"Feature"}
+{"geometry":{"coordinates":[-71.3132,41.47157],"type":"Point"},"properties":{"a":"41.47157","cty":"NEWPORT","hp":true,"id":20261072132,"mun":"NEWPORT","nc":20,"ne":{"a":"41.47237","o":"-71.31273"},"o":"-71.3132","sw":{"a":"41.47077","o":"-71.31366"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.410964,41.87539],"type":"Point"},"properties":{"a":"41.87539","cty":"PROVIDENCE","id":20261072134,"mun":"PAWTUCKET","nc":1,"o":"-71.410964"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.428962,41.820641],"type":"Point"},"properties":{"a":"41.820641","cty":"PROVIDENCE","id":20261072135,"mun":"PROVIDENCE","nc":1,"o":"-71.428962"},"type":"Feature"}
 ]}
