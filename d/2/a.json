@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-74.05115,41.09599],"type":"Point"},"properties":{"cause":"Under Investigation","cluster":false,"cust_a":{"val":1},"etr":"ETR-EXP","inc_id":"563166","title":"Outage Information"},"type":"Feature"},
 {"geometry":{"coordinates":[-74.1748,41.01622],"type":"Point"},"properties":{"cause":"Single Service Incident","cluster":false,"cust_a":{"val":4},"etr":"ETR-EXP","inc_id":"563114","title":"Outage Information"},"type":"Feature"},
-{"geometry":{"geometries":[{"coordinates":[[[-74.22067,41.41713],[-74.21933,41.41735],[-74.21921,41.41973],[-74.22301,41.41941],[-74.22468,41.41793],[-74.22067,41.41713]]],"type":"Polygon"},{"coordinates":[-74.22143,41.41843],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cluster":false,"cust_a":{"val":5},"etr":"ETR-EXP","inc_id":"563182","title":"Outage Information"},"type":"Feature"}
+{"geometry":{"geometries":[{"coordinates":[[[-74.22067,41.41713],[-74.21933,41.41735],[-74.21921,41.41973],[-74.22301,41.41941],[-74.22468,41.41793],[-74.22067,41.41713]]],"type":"Polygon"},{"coordinates":[-74.22143,41.41843],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cluster":false,"cust_a":{"val":5},"etr":"2026-11-14T12:00:00-0500","inc_id":"563182","title":"Outage Information"},"type":"Feature"}
 ]}
