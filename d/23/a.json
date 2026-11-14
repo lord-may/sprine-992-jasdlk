@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.465045,40.985768],"type":"Point"},"properties":{"a":"40.985768","cty":"MONROE","id":8837651,"mun":"CHESTNUT HILL TWP","nc":4,"o":"-75.465045"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.21845,41.06717],"type":"Point"},"properties":{"a":"41.06717","cty":"MONROE","hp":true,"id":8837664,"mun":"STROUD TWP","nc":52,"ne":{"a":"41.07257","o":"-75.21109"},"o":"-75.21845","sw":{"a":"41.06177","o":"-75.22581"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.21845,41.06717],"type":"Point"},"properties":{"a":"41.06717","cty":"MONROE","hp":true,"id":8837664,"mun":"STROUD TWP","nc":52,"ne":{"a":"41.07257","o":"-75.21109"},"o":"-75.21845","sw":{"a":"41.06177","o":"-75.22581"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.846191,40.098619],"type":"Point"},"properties":{"a":"40.098619","cty":"CHESTER","id":8837716,"mun":"HONEYBROOK TWP","nc":2,"o":"-75.846191"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.209231,41.090905],"type":"Point"},"properties":{"a":"41.090905","cty":"MONROE","id":8837717,"mun":"PRICE TWP","nc":3,"o":"-75.209231"},"type":"Feature"}
 ]}
