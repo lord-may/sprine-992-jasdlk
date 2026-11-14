@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.38256,44.787654],"type":"Point"},"properties":{"EstRest":"11/14/2026 7:15:00 AM","Outages":21,"cause":"","county":"SOMERSET","crewstatus":"     ","customers":21,"hamlet":"PITTSFIELD","incidentnumber":"004714","incidents":1,"level":"street","opco":"CMP","street":"RYAN ST","town":"PITTSFIELD"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.38256,44.787654],"type":"Point"},"properties":{"EstRest":"11/14/2026 7:15:00 AM","Outages":17,"cause":"","county":"SOMERSET","crewstatus":"DISP ","customers":18,"hamlet":"PITTSFIELD","incidentnumber":"004714","incidents":1,"level":"street","opco":"CMP","street":"WESTBRANCH CT","town":"PITTSFIELD"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.38256,44.787654],"type":"Point"},"properties":{"EstRest":"11/14/2026 7:15:00 AM","Outages":46,"county":"SOMERSET","customers":31730,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
