@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-72.449893,43.204983],"type":"Point"},"properties":{"active":true,"affectingCustomers":true,"cause":0,"county":"Windham","crew_name":",WEST-SHUEYWEST-MULHERIN","customers_affected":66,"customers_affected_label":"66 Customers","device":"FUSE","etor":"2026-11-14T13:00-05:00","has_etor":1,"incident_id":1018276,"status":"CREW_ASSIGNED","street":"MISSING LINK RD","town":"Rockingham","trouble":"NO_POWER"},"type":"Feature"}
+{"geometry":{"coordinates":[-72.449893,43.204983],"type":"Point"},"properties":{"active":true,"affectingCustomers":true,"cause":172,"county":"Windham","crew_name":",WEST-SHUEYWEST-MULHERIN","customers_affected":66,"customers_affected_label":"66 Customers","device":"FUSE","etor":"2026-11-14T13:00-05:00","has_etor":1,"incident_id":1018276,"status":"CREW_ASSIGNED","street":"MISSING LINK RD","town":"Rockingham","trouble":"NO_POWER"},"type":"Feature"}
 ]}

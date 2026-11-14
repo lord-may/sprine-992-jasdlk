@@ -14,12 +14,12 @@
 {"geometry":{"coordinates":[-75.603722,41.446255],"type":"Point"},"properties":{"a":"41.446255","cty":"LACKAWANNA","id":8837804,"mun":"THROOP BORO","nc":1,"o":"-75.603722"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.60258,41.448698],"type":"Point"},"properties":{"a":"41.448698","cty":"LACKAWANNA","id":8837815,"mun":"THROOP BORO","nc":1,"o":"-75.60258"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.193917,40.684997],"type":"Point"},"properties":{"a":"40.684997","cty":"SCHUYLKILL","id":8837816,"mun":"POTTSVILLE","nc":2,"o":"-76.193917"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.067027,40.921225],"type":"Point"},"properties":{"a":"40.921225","cty":"LUZERNE","id":8837818,"mun":"HAZLE TWP","nc":1,"o":"-76.067027"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.46954,40.49354],"type":"Point"},"properties":{"a":"40.49354","cty":"LEHIGH","hp":true,"id":8837821,"mun":"LOWER MILFORD TWP","nc":27,"ne":{"a":"40.4965","o":"-75.46466"},"o":"-75.46954","sw":{"a":"40.49059","o":"-75.47442"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.151524,40.251569],"type":"Point"},"properties":{"a":"40.251569","cty":"CUMBERLAND","id":8837829,"mun":"MIDDLESEX TWP","nc":2,"o":"-77.151524"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.081097,41.069737],"type":"Point"},"properties":{"a":"41.069737","cty":"LUZERNE","id":8837833,"mun":"HOLLENBACK TWP","nc":3,"o":"-76.081097"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.430184,41.126924],"type":"Point"},"properties":{"a":"41.126924","cty":"CLINTON","id":8837841,"mun":"CASTANEA TWP","nc":2,"o":"-77.430184"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.861594,40.224867],"type":"Point"},"properties":{"a":"40.224867","cty":"CUMBERLAND","id":8837843,"mun":"NEW CUMBERLAND BORO","nc":16,"o":"-76.861594"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.287228,40.666527],"type":"Point"},"properties":{"a":"40.666527","cty":"NORTHAMPTON","id":8837846,"mun":"BETHLEHEM TWP","nc":4,"o":"-75.287228"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.29738,41.45787],"type":"Point"},"properties":{"a":"41.45787","cty":"WAYNE","hp":true,"id":8837847,"mun":"PAUPACK TWP","nc":53,"ne":{"a":"41.46081","o":"-75.29113"},"o":"-75.29738","sw":{"a":"41.45493","o":"-75.30363"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.29738,41.45787],"type":"Point"},"properties":{"a":"41.45787","cty":"WAYNE","hp":true,"id":8837847,"mun":"PAUPACK TWP","nc":53,"ne":{"a":"41.46081","o":"-75.29113"},"o":"-75.29738","sw":{"a":"41.45493","o":"-75.30363"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.675036,41.418209],"type":"Point"},"properties":{"a":"41.418209","cty":"LACKAWANNA","id":8837855,"mun":"SCRANTON","nc":20,"o":"-75.675036"},"type":"Feature"}
 ]}
