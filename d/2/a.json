@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-73.98501,41.21762],"type":"Point"},"properties":{"cause":"Single Service Incident","cluster":false,"cust_a":{"val":1},"etr":"ETR-EXP","inc_id":"563109","title":"Outage Information"},"type":"Feature"},
-{"geometry":{"coordinates":[-74.05115,41.09599],"type":"Point"},"properties":{"cause":"Single Service Incident","cluster":false,"cust_a":{"val":1},"etr":"ETR-EXP","inc_id":"563166","title":"Outage Information"},"type":"Feature"},
+{"geometry":{"coordinates":[-74.05115,41.09599],"type":"Point"},"properties":{"cause":"Under Investigation","cluster":false,"cust_a":{"val":1},"etr":"ETR-EXP","inc_id":"563166","title":"Outage Information"},"type":"Feature"},
 {"geometry":{"coordinates":[-74.07144,41.1562],"type":"Point"},"properties":{"cause":"Single Service Incident","cluster":false,"cust_a":{"val":1},"etr":"ETR-EXP","inc_id":"563153","title":"Outage Information"},"type":"Feature"},
 {"geometry":{"coordinates":[-74.1748,41.01622],"type":"Point"},"properties":{"cause":"Single Service Incident","cluster":false,"cust_a":{"val":4},"etr":"ETR-EXP","inc_id":"563114","title":"Outage Information"},"type":"Feature"},
 {"geometry":{"coordinates":[-74.78731,41.6016],"type":"Point"},"properties":{"cause":"Single Service Incident","cluster":false,"cust_a":{"val":1},"etr":"ETR-EXP","inc_id":"563162","title":"Outage Information"},"type":"Feature"},
