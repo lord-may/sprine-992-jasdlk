@@ -3,5 +3,5 @@
 {"geometry":{"coordinates":[-75.60258,41.448698],"type":"Point"},"properties":{"a":"41.448698","cty":"LACKAWANNA","id":8837815,"mun":"THROOP BORO","nc":1,"o":"-75.60258"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.537708,40.76494],"type":"Point"},"properties":{"a":"40.76494","cty":"NORTHUMBERLAND","id":8837873,"mun":"COAL TWP","nc":1,"o":"-76.537708"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.301319,40.270609],"type":"Point"},"properties":{"a":"40.270609","cty":"NA","id":8837893,"mun":"NA","nc":3,"o":"-76.301319"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.086557,40.323699],"type":"Point"},"properties":{"a":"40.323699","cty":"BERKS","id":8837940,"mun":"SOUTH HEIDELBERG TWP","nc":5,"o":"-76.086557"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.300016,40.269624],"type":"Point"},"properties":{"a":"40.269624","cty":"LEBANON","id":8837946,"mun":"HEIDELBERG TWP","nc":3,"o":"-76.300016"},"type":"Feature"}
 ]}
