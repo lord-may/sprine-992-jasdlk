@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-79.86461,40.37997],"type":"Point"},"properties":{"additionalProperties":[{"property":"jobNumber","value":"Job.26.11.13.00108"},{"property":"zips","value":["15110"]},{"property":"counties","value":["ALLEGHENY"]},{"property":"municipalities","value":["DUQUESNE"]}],"cause":"Under Investigation","etrTime":1794619800000,"id":2249437,"identifier":"Job.26.11.13.00108_6af79e837924e36ccf34a16b","lastUpdatedTime":1794616219000,"latitude":40.37997,"longitude":-79.86461,"numPeople":1,"startTime":1794612862000,"status":"Crew On-Site Working","title":"Outage"},"type":"Feature"}
+
 ]}
