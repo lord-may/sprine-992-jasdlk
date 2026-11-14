@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.638024,41.836126],"type":"Point"},"properties":{"a":"41.836126","cty":"PROVIDENCE","id":20261072101,"mun":"SCITUATE","nc":1,"o":"-71.638024"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.735518,41.778166],"type":"Point"},"properties":{"a":"41.778166","cty":"PROVIDENCE","id":20261072104,"mun":"FOSTER","nc":1,"o":"-71.735518"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.405701,41.7737],"type":"Point"},"properties":{"a":"41.7737","cty":"PROVIDENCE","id":20261072107,"mun":"CRANSTON","nc":1,"o":"-71.405701"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.505149,41.873394],"type":"Point"},"properties":{"a":"41.873394","cty":"PROVIDENCE","id":20261072113,"mun":"SMITHFIELD","nc":1,"o":"-71.505149"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.464551,41.733849],"type":"Point"},"properties":{"a":"41.733849","cty":"PROVIDENCE","id":20261072115,"mun":"CRANSTON","nc":1,"o":"-71.464551"},"type":"Feature"},

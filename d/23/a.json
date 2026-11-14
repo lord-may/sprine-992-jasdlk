@@ -8,7 +8,6 @@
 {"geometry":{"coordinates":[-76.240026,40.216577],"type":"Point"},"properties":{"a":"40.216577","cty":"LANCASTER","id":8837791,"mun":"CLAY TWP","nc":1,"o":"-76.240026"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.277057,39.856831],"type":"Point"},"properties":{"a":"39.856831","cty":"LANCASTER","id":8837792,"mun":"MARTIC TWP","nc":1,"o":"-76.277057"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.323817,40.120945],"type":"Point"},"properties":{"a":"40.120945","cty":"LANCASTER","id":8837793,"mun":"MANHEIM TWP","nc":1,"o":"-76.323817"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.292717,39.885614],"type":"Point"},"properties":{"a":"39.885614","cty":"LANCASTER","id":8837796,"mun":"MARTIC TWP","nc":1,"o":"-76.292717"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.533593,40.749483],"type":"Point"},"properties":{"a":"40.749483","cty":"NORTHAMPTON","id":8837798,"mun":"LEHIGH TWP","nc":1,"o":"-75.533593"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.481845,40.688668],"type":"Point"},"properties":{"a":"40.688668","cty":"NORTHAMPTON","id":8837800,"mun":"NORTHAMPTON BORO","nc":2,"o":"-75.481845"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.603722,41.446255],"type":"Point"},"properties":{"a":"41.446255","cty":"LACKAWANNA","id":8837804,"mun":"THROOP BORO","nc":1,"o":"-75.603722"},"type":"Feature"},
@@ -20,6 +19,9 @@
 {"geometry":{"coordinates":[-77.430184,41.126924],"type":"Point"},"properties":{"a":"41.126924","cty":"CLINTON","id":8837841,"mun":"CASTANEA TWP","nc":2,"o":"-77.430184"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.861594,40.224867],"type":"Point"},"properties":{"a":"40.224867","cty":"CUMBERLAND","id":8837843,"mun":"NEW CUMBERLAND BORO","nc":16,"o":"-76.861594"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.287228,40.666527],"type":"Point"},"properties":{"a":"40.666527","cty":"NORTHAMPTON","id":8837846,"mun":"BETHLEHEM TWP","nc":4,"o":"-75.287228"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.29738,41.45787],"type":"Point"},"properties":{"a":"41.45787","cty":"WAYNE","hp":true,"id":8837847,"mun":"PAUPACK TWP","nc":53,"ne":{"a":"41.46081","o":"-75.29113"},"o":"-75.29738","sw":{"a":"41.45493","o":"-75.30363"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.675036,41.418209],"type":"Point"},"properties":{"a":"41.418209","cty":"LACKAWANNA","id":8837855,"mun":"SCRANTON","nc":20,"o":"-75.675036"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.675036,41.418209],"type":"Point"},"properties":{"a":"41.418209","cty":"LACKAWANNA","id":8837855,"mun":"SCRANTON","nc":20,"o":"-75.675036"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.322216,40.038145],"type":"Point"},"properties":{"a":"40.038145","cty":"LANCASTER","id":8837860,"mun":"LANCASTER","nc":1,"o":"-76.322216"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.266491,40.019003],"type":"Point"},"properties":{"a":"40.019003","cty":"LANCASTER","id":8837862,"mun":"WEST LAMPETER TWP","nc":6,"o":"-76.266491"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.077705,41.06952],"type":"Point"},"properties":{"a":"41.06952","cty":"LUZERNE","id":8837864,"mun":"HOLLENBACK TWP","nc":1,"o":"-76.077705"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.448404,40.608414],"type":"Point"},"properties":{"a":"40.608414","cty":"LEHIGH","id":8837865,"mun":"ALLENTOWN","nc":18,"o":"-75.448404"},"type":"Feature"}
 ]}
