@@ -20,5 +20,7 @@
 {"geometry":{"coordinates":[-76.193917,40.684997],"type":"Point"},"properties":{"a":"40.684997","cty":"SCHUYLKILL","id":8837816,"mun":"POTTSVILLE","nc":2,"o":"-76.193917"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.067027,40.921225],"type":"Point"},"properties":{"a":"40.921225","cty":"LUZERNE","id":8837818,"mun":"HAZLE TWP","nc":1,"o":"-76.067027"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.46954,40.49354],"type":"Point"},"properties":{"a":"40.49354","cty":"LEHIGH","hp":true,"id":8837821,"mun":"LOWER MILFORD TWP","nc":27,"ne":{"a":"40.4965","o":"-75.46466"},"o":"-75.46954","sw":{"a":"40.49059","o":"-75.47442"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.89651,41.24407],"type":"Point"},"properties":{"a":"41.24407","cty":"LUZERNE","id":8837823,"mun":"WILKES-BARRE","nc":1,"o":"-75.89651"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.448404,40.608414],"type":"Point"},"properties":{"a":"40.608414","cty":"LEHIGH","id":8837825,"mun":"ALLENTOWN","nc":18,"o":"-75.448404"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.592,40.60795],"type":"Point"},"properties":{"a":"40.60795","cty":"LEHIGH","hp":true,"id":8837826,"mun":"SOUTH WHITEHALL TWP","nc":521,"ne":{"a":"40.61247","o":"-75.58348"},"o":"-75.592","sw":{"a":"40.60344","o":"-75.60051"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.496222,41.007408],"type":"Point"},"properties":{"a":"41.007408","cty":"MONROE","id":8837827,"mun":"TUNKHANNOCK TWP","nc":1,"o":"-75.496222"},"type":"Feature"}
 ]}
