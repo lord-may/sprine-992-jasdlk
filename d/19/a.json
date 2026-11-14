@@ -1,12 +1,12 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.602561,42.587109],"type":"Point"},"properties":{"EstRest":"11/14/2026 11:00:29 PM","Outages":1697,"county":"CHENANGO","customers":22859,"incidents":100,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.526588,42.615316],"type":"Point"},"properties":{"EstRest":"11/14/2026 4:00:00 PM","Outages":1697,"county":"CHENANGO","customers":22859,"incidents":100,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.942099,42.423994],"type":"Point"},"properties":{"EstRest":"11/13/2026 11:00:00 PM","Outages":14,"county":"CORTLAND","customers":2968,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-74.758703,42.446349],"type":"Point"},"properties":{"EstRest":"11/14/2026 11:00:20 PM","Outages":486,"county":"DELAWARE","customers":28318,"incidents":67,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-74.22252,42.338338],"type":"Point"},"properties":{"EstRest":"11/14/2026 11:00:00 PM","Outages":10,"county":"GREENE","customers":4933,"incidents":5,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-74.898824,42.867436],"type":"Point"},"properties":{"EstRest":"11/14/2026 11:00:29 PM","Outages":320,"county":"HERKIMER","customers":1934,"incidents":20,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.660418,42.824587],"type":"Point"},"properties":{"EstRest":"11/14/2026 11:00:45 PM","Outages":1029,"county":"MADISON","customers":6357,"incidents":26,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.326963,42.914119],"type":"Point"},"properties":{"EstRest":"11/14/2026 11:00:30 PM","Outages":121,"county":"ONEIDA","customers":3740,"incidents":4,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.146972,42.769277],"type":"Point"},"properties":{"EstRest":"11/14/2026 11:00:00 PM","Outages":2880,"county":"OTSEGO","customers":25548,"incidents":263,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-74.898824,42.867436],"type":"Point"},"properties":{"EstRest":"11/14/2026 11:00:29 PM","Outages":322,"county":"HERKIMER","customers":1934,"incidents":22,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.660418,42.824587],"type":"Point"},"properties":{"EstRest":"11/14/2026 11:00:45 PM","Outages":1052,"county":"MADISON","customers":6357,"incidents":29,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.368546,42.896763],"type":"Point"},"properties":{"EstRest":"11/14/2026 11:00:45 PM","Outages":121,"county":"ONEIDA","customers":3740,"incidents":4,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.146972,42.769277],"type":"Point"},"properties":{"EstRest":"11/14/2026 3:00:00 PM","Outages":2944,"county":"OTSEGO","customers":25548,"incidents":265,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-74.284781,42.384567],"type":"Point"},"properties":{"EstRest":"11/14/2026 11:00:29 PM","Outages":437,"county":"SCHOHARIE","customers":2256,"incidents":15,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-74.645277,41.771622],"type":"Point"},"properties":{"EstRest":"11/14/2026 12:30:00 AM","Outages":1354,"county":"SULLIVAN","customers":50189,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
