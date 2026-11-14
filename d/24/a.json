@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.627805,41.856009],"type":"Point"},"properties":{"a":"41.856009","cty":"PROVIDENCE","id":20261072098,"mun":"SCITUATE","nc":1,"o":"-71.627805"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.627805,41.856009],"type":"Point"},"properties":{"a":"41.856009","cty":"PROVIDENCE","id":20261072098,"mun":"SCITUATE","nc":1,"o":"-71.627805"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.473764,41.687292],"type":"Point"},"properties":{"a":"41.687292","cty":"KENT","id":20261072100,"mun":"WARWICK","nc":12,"o":"-71.473764"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.638024,41.836126],"type":"Point"},"properties":{"a":"41.836126","cty":"PROVIDENCE","id":20261072101,"mun":"SCITUATE","nc":1,"o":"-71.638024"},"type":"Feature"}
 ]}
