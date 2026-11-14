@@ -11,5 +11,6 @@
 {"geometry":{"coordinates":[-75.488121,40.553728],"type":"Point"},"properties":{"a":"40.553728","cty":"LEHIGH","id":8837889,"mun":"NA","nc":4,"o":"-75.488121"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.30051,40.26918],"type":"Point"},"properties":{"a":"40.26918","cty":"LEBANON","hp":true,"id":8837893,"mun":"HEIDELBERG TWP","nc":19,"ne":{"a":"40.27083","o":"-76.29869"},"o":"-76.30051","sw":{"a":"40.26752","o":"-76.30232"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.01307,40.5396],"type":"Point"},"properties":{"a":"40.5396","cty":"PERRY","hp":true,"id":8837904,"mun":"BUFFALO TWP","nc":125,"ne":{"a":"40.55014","o":"-76.98969"},"o":"-77.01307","sw":{"a":"40.52905","o":"-77.03645"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.02505,41.27211],"type":"Point"},"properties":{"a":"41.27211","cty":"PIKE","hp":true,"id":8837911,"mun":"PORTER TWP","nc":215,"ne":{"a":"41.28899","o":"-74.9903"},"o":"-75.02505","sw":{"a":"41.25523","o":"-75.05981"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.02505,41.27211],"type":"Point"},"properties":{"a":"41.27211","cty":"PIKE","hp":true,"id":8837911,"mun":"PORTER TWP","nc":215,"ne":{"a":"41.28899","o":"-74.9903"},"o":"-75.02505","sw":{"a":"41.25523","o":"-75.05981"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.394713,41.168351],"type":"Point"},"properties":{"a":"41.168351","cty":"MONROE","id":8837917,"mun":"COOLBAUGH TWP","nc":4,"o":"-75.394713"},"type":"Feature"}
 ]}
