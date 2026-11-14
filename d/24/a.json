@@ -7,8 +7,6 @@
 {"geometry":{"coordinates":[-71.464551,41.733849],"type":"Point"},"properties":{"a":"41.733849","cty":"PROVIDENCE","id":20261072115,"mun":"CRANSTON","nc":1,"o":"-71.464551"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.422132,41.78699],"type":"Point"},"properties":{"a":"41.78699","cty":"PROVIDENCE","id":20261072116,"mun":"PROVIDENCE","nc":1,"o":"-71.422132"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.316013,41.490841],"type":"Point"},"properties":{"a":"41.490841","cty":"NEWPORT","id":20261072120,"mun":"NEWPORT","nc":1,"o":"-71.316013"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.515798,42.010619],"type":"Point"},"properties":{"a":"42.010619","cty":"PROVIDENCE","id":20261072122,"mun":"WOONSOCKET","nc":1,"o":"-71.515798"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.465641,41.805325],"type":"Point"},"properties":{"a":"41.805325","cty":"PROVIDENCE","id":20261072124,"mun":"JOHNSTON","nc":1,"o":"-71.465641"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.421506,41.873563],"type":"Point"},"properties":{"a":"41.873563","cty":"PROVIDENCE","id":20261072128,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.421506"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.487922,41.579446],"type":"Point"},"properties":{"a":"41.579446","cty":"WASHINGTON","id":20261072129,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.487922"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.14561,41.52808],"type":"Point"},"properties":{"a":"41.52808","cty":"NEWPORT","hp":true,"id":20261072130,"mun":"LITTLE COMPTON","nc":21,"ne":{"a":"41.53008","o":"-71.14027"},"o":"-71.14561","sw":{"a":"41.52609","o":"-71.15096"}},"type":"Feature"}
 ]}
