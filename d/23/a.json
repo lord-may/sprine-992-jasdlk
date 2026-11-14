@@ -2,6 +2,5 @@
 {"geometry":{"coordinates":[-75.21845,41.06717],"type":"Point"},"properties":{"a":"41.06717","cty":"MONROE","hp":true,"id":8837664,"mun":"STROUD TWP","nc":52,"ne":{"a":"41.07257","o":"-75.21109"},"o":"-75.21845","sw":{"a":"41.06177","o":"-75.22581"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.6514,40.62044],"type":"Point"},"properties":{"a":"40.62044","cty":"LEHIGH","hp":true,"id":8837720,"mun":"LOWHILL TWP","nc":11,"ne":{"a":"40.62498","o":"-75.64814"},"o":"-75.6514","sw":{"a":"40.61591","o":"-75.65466"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.626493,40.570232],"type":"Point"},"properties":{"a":"40.570232","cty":"LEHIGH","id":8837733,"mun":"UPPER MACUNGIE TWP","nc":1,"o":"-75.626493"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.209231,41.090905],"type":"Point"},"properties":{"a":"41.090905","cty":"MONROE","id":8837757,"mun":"PRICE TWP","nc":3,"o":"-75.209231"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.755308,40.756351],"type":"Point"},"properties":{"a":"40.756351","cty":"NORTHUMBERLAND","id":8837758,"mun":"LITTLE MAHANOY TWP","nc":6,"o":"-76.755308"},"type":"Feature"}
 ]}
