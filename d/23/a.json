@@ -5,5 +5,6 @@
 {"geometry":{"coordinates":[-76.382362,40.056822],"type":"Point"},"properties":{"a":"40.056822","cty":"LANCASTER","id":8837778,"mun":"EAST HEMPFIELD TWP","nc":6,"o":"-76.382362"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.41739,40.55317],"type":"Point"},"properties":{"a":"40.55317","cty":"LEHIGH","hp":true,"id":8837781,"mun":"UPPER SAUCON TWP","nc":102,"ne":{"a":"40.56093","o":"-75.40889"},"o":"-75.41739","sw":{"a":"40.54542","o":"-75.4259"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.96608,40.211599],"type":"Point"},"properties":{"a":"40.211599","cty":"CUMBERLAND","id":8837784,"mun":"LOWER ALLEN TWP","nc":4,"o":"-76.96608"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.427677,40.990845],"type":"Point"},"properties":{"a":"40.990845","cty":"MONROE","id":8837786,"mun":"CHESTNUT HILL TWP","nc":2,"o":"-75.427677"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.427677,40.990845],"type":"Point"},"properties":{"a":"40.990845","cty":"MONROE","id":8837786,"mun":"CHESTNUT HILL TWP","nc":2,"o":"-75.427677"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.448404,40.608414],"type":"Point"},"properties":{"a":"40.608414","cty":"LEHIGH","id":8837788,"mun":"ALLENTOWN","nc":18,"o":"-75.448404"},"type":"Feature"}
 ]}
