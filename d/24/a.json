@@ -5,5 +5,6 @@
 {"geometry":{"coordinates":[-71.651184,41.539633],"type":"Point"},"properties":{"a":"41.539633","cty":"WASHINGTON","id":20261072103,"mun":"RICHMOND","nc":4,"o":"-71.651184"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.735518,41.778166],"type":"Point"},"properties":{"a":"41.778166","cty":"PROVIDENCE","id":20261072104,"mun":"FOSTER","nc":1,"o":"-71.735518"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.592233,41.656045],"type":"Point"},"properties":{"a":"41.656045","cty":"KENT","id":20261072105,"mun":"WEST GREENWICH","nc":1,"o":"-71.592233"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.488905,41.710049],"type":"Point"},"properties":{"a":"41.710049","cty":"KENT","id":20261072106,"mun":"WARWICK","nc":1,"o":"-71.488905"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.488905,41.710049],"type":"Point"},"properties":{"a":"41.710049","cty":"KENT","id":20261072106,"mun":"WARWICK","nc":1,"o":"-71.488905"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.405701,41.7737],"type":"Point"},"properties":{"a":"41.7737","cty":"PROVIDENCE","id":20261072107,"mun":"CRANSTON","nc":1,"o":"-71.405701"},"type":"Feature"}
 ]}
