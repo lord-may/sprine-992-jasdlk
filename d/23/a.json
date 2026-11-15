@@ -3,6 +3,5 @@
 {"geometry":{"coordinates":[-75.367244,40.60482],"type":"Point"},"properties":{"a":"40.60482","cty":"NORTHAMPTON","id":8837971,"mun":"BETHLEHEM","nc":12,"o":"-75.367244"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.980004,40.303977],"type":"Point"},"properties":{"a":"40.303977","cty":"BERKS","id":8837976,"mun":"CUMRU TWP","nc":3,"o":"-75.980004"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.2994,40.269848],"type":"Point"},"properties":{"a":"40.269848","cty":"LEBANON","id":8837977,"mun":"HEIDELBERG TWP","nc":1,"o":"-76.2994"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.666945,41.39839],"type":"Point"},"properties":{"a":"41.39839","cty":"LACKAWANNA","id":8837983,"mun":"SCRANTON","nc":1,"o":"-75.666945"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.619658,41.427634],"type":"Point"},"properties":{"a":"41.427634","cty":"LACKAWANNA","id":8837985,"mun":"DUNMORE BORO","nc":6,"o":"-75.619658"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.619658,41.427634],"type":"Point"},"properties":{"a":"41.427634","cty":"LACKAWANNA","id":8837985,"mun":"DUNMORE BORO","nc":1,"o":"-75.619658"},"type":"Feature"}
 ]}
