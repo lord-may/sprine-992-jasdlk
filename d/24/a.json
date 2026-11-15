@@ -3,6 +3,6 @@
 {"geometry":{"coordinates":[-71.53105,41.9919],"type":"Point"},"properties":{"a":"41.9919","cty":"PROVIDENCE","hp":true,"id":20261072205,"mun":"WOONSOCKET","nc":43,"ne":{"a":"41.99291","o":"-71.5298"},"o":"-71.53105","sw":{"a":"41.99089","o":"-71.53229"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.30871,41.49784],"type":"Point"},"properties":{"a":"41.49784","cty":"NEWPORT","hp":true,"id":20261072206,"mun":"NEWPORT","nc":96,"ne":{"a":"41.49854","o":"-71.30772"},"o":"-71.30871","sw":{"a":"41.49714","o":"-71.3097"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.307389,41.494373],"type":"Point"},"properties":{"a":"41.494373","cty":"NEWPORT","id":20261072207,"mun":"NEWPORT","nc":36,"o":"-71.307389"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.486856,41.851374],"type":"Point"},"properties":{"a":"41.851374","cty":"PROVIDENCE","id":20261072209,"mun":"JOHNSTON","nc":1,"o":"-71.486856"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.402307,41.703357],"type":"Point"},"properties":{"a":"41.703357","cty":"KENT","id":20261072210,"mun":"WARWICK","nc":1,"o":"-71.402307"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.402307,41.703357],"type":"Point"},"properties":{"a":"41.703357","cty":"KENT","id":20261072210,"mun":"WARWICK","nc":1,"o":"-71.402307"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.416851,41.873038],"type":"Point"},"properties":{"a":"41.873038","cty":"PROVIDENCE","id":20261072211,"mun":"PAWTUCKET","nc":1,"o":"-71.416851"},"type":"Feature"}
 ]}
