@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.803954,40.551321],"type":"Point"},"properties":{"a":"40.551321","cty":"DAUPHIN","id":8838027,"mun":"WASHINGTON TWP","nc":3,"o":"-76.803954"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.75039,41.19697],"type":"Point"},"properties":{"a":"41.19697","cty":"LUZERNE","hp":true,"id":8838069,"mun":"BEAR CREEK TWP","nc":82,"ne":{"a":"41.21452","o":"-75.7432"},"o":"-75.75039","sw":{"a":"41.17942","o":"-75.75759"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.448404,40.608414],"type":"Point"},"properties":{"a":"40.608414","cty":"LEHIGH","id":8838071,"mun":"ALLENTOWN","nc":18,"o":"-75.448404"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.446126,40.622286],"type":"Point"},"properties":{"a":"40.622286","cty":"LEHIGH","id":8838072,"mun":"ALLENTOWN","nc":11,"o":"-75.446126"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.4463,40.622927],"type":"Point"},"properties":{"a":"40.622927","cty":"LEHIGH","id":8838077,"mun":"ALLENTOWN","nc":1,"o":"-75.4463"},"type":"Feature"},
