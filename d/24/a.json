@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.496137,41.803254],"type":"Point"},"properties":{"a":"41.803254","cty":"PROVIDENCE","id":20261072183,"mun":"JOHNSTON","nc":1,"o":"-71.496137"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.496137,41.803254],"type":"Point"},"properties":{"a":"41.803254","cty":"PROVIDENCE","id":20261072183,"mun":"JOHNSTON","nc":1,"o":"-71.496137"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.4038,41.70125],"type":"Point"},"properties":{"a":"41.70125","cty":"KENT","hp":true,"id":20261072184,"mun":"WARWICK","nc":13,"ne":{"a":"41.70215","o":"-71.40257"},"o":"-71.4038","sw":{"a":"41.70036","o":"-71.40503"}},"type":"Feature"}
 ]}
