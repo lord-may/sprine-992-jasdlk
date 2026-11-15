@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.62167,41.01434],"type":"Point"},"properties":{"a":"41.01434","cty":"LANCASTER","hp":true,"id":8837961,"mun":"LANCASTER","nc":206,"ne":{"a":"41.02342","o":"-75.59195"},"o":"-75.62167","sw":{"a":"41.00525","o":"-75.65138"}},"type":"Feature"},
-{"geometry":{"coordinates":[-77.33238,40.22091],"type":"Point"},"properties":{"a":"40.22091","cty":"CUMBERLAND","hp":true,"id":8838005,"mun":"WEST PENNSBORO TWP","nc":15,"ne":{"a":"40.22728","o":"-77.3275"},"o":"-77.33238","sw":{"a":"40.21455","o":"-77.33726"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.474977,40.607789],"type":"Point"},"properties":{"a":"40.607789","cty":"LEHIGH","id":8838012,"mun":"ALLENTOWN","nc":8,"o":"-75.474977"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.460401,40.611035],"type":"Point"},"properties":{"a":"40.611035","cty":"LEHIGH","id":8838013,"mun":"ALLENTOWN","nc":1,"o":"-75.460401"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.33238,40.22091],"type":"Point"},"properties":{"a":"40.22091","cty":"CUMBERLAND","hp":true,"id":8838005,"mun":"WEST PENNSBORO TWP","nc":15,"ne":{"a":"40.22728","o":"-77.3275"},"o":"-77.33238","sw":{"a":"40.21455","o":"-77.33726"}},"type":"Feature"}
 ]}
