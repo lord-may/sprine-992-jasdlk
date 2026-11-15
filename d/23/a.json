@@ -8,5 +8,8 @@
 {"geometry":{"coordinates":[-76.223376,40.295208],"type":"Point"},"properties":{"a":"40.295208","cty":"LEBANON","id":8838030,"mun":"HEIDELBERG TWP","nc":1,"o":"-76.223376"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.245457,41.037217],"type":"Point"},"properties":{"a":"41.037217","cty":"MONROE","id":8838031,"mun":"STROUD TWP","nc":4,"o":"-75.245457"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.081846,40.354071],"type":"Point"},"properties":{"a":"40.354071","cty":"BERKS","id":8838037,"mun":"LOWER HEIDELBERG TWP","nc":1,"o":"-76.081846"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.310948,40.016465],"type":"Point"},"properties":{"a":"40.016465","cty":"LANCASTER","id":8838038,"mun":"LANCASTER TWP","nc":12,"o":"-76.310948"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.978568,40.960414],"type":"Point"},"properties":{"a":"40.960414","cty":"LUZERNE","id":8838041,"mun":"HAZLETON","nc":16,"o":"-75.978568"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.21246,40.989748],"type":"Point"},"properties":{"a":"40.989748","cty":"MONROE","id":8838042,"mun":"STROUD TWP","nc":1,"o":"-75.21246"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.074311,41.29808],"type":"Point"},"properties":{"a":"41.29808","cty":"LYCOMING","id":8838043,"mun":"LYCOMING TWP","nc":1,"o":"-77.074311"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.861272,40.269399],"type":"Point"},"properties":{"a":"40.269399","cty":"DAUPHIN","id":8838044,"mun":"HARRISBURG","nc":1,"o":"-76.861272"},"type":"Feature"}
 ]}
