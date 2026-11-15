@@ -5,7 +5,8 @@
 {"geometry":{"coordinates":[-75.446126,40.622286],"type":"Point"},"properties":{"a":"40.622286","cty":"LEHIGH","id":8838072,"mun":"ALLENTOWN","nc":11,"o":"-75.446126"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.4463,40.622927],"type":"Point"},"properties":{"a":"40.622927","cty":"LEHIGH","id":8838077,"mun":"ALLENTOWN","nc":1,"o":"-75.4463"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.906688,40.774665],"type":"Point"},"properties":{"a":"40.774665","cty":"SNYDER","id":8838082,"mun":"WASHINGTON TWP","nc":1,"o":"-76.906688"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.58116,41.15282],"type":"Point"},"properties":{"a":"41.15282","cty":"COLUMBIA","hp":true,"id":8838083,"mun":"PINE TWP","nc":45,"ne":{"a":"41.15632","o":"-76.56826"},"o":"-76.58116","sw":{"a":"41.14931","o":"-76.59406"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.411731,40.599329],"type":"Point"},"properties":{"a":"40.599329","cty":"LEHIGH","id":8838084,"mun":"SALISBURY TWP","nc":6,"o":"-75.411731"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.741027,40.26192],"type":"Point"},"properties":{"a":"40.26192","cty":"DAUPHIN","id":8838087,"mun":"SWATARA TWP","nc":2,"o":"-76.741027"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.741027,40.26192],"type":"Point"},"properties":{"a":"40.26192","cty":"DAUPHIN","id":8838087,"mun":"SWATARA TWP","nc":2,"o":"-76.741027"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.680626,41.363008],"type":"Point"},"properties":{"a":"41.363008","cty":"LACKAWANNA","id":8838089,"mun":"MOOSIC BORO","nc":2,"o":"-75.680626"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.495604,40.399618],"type":"Point"},"properties":{"a":"40.399618","cty":"MONTGOMERY","id":8838090,"mun":"UPPER HANOVER TWP","nc":5,"o":"-75.495604"},"type":"Feature"}
 ]}
