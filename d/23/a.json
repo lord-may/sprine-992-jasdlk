@@ -1,7 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.680626,41.363008],"type":"Point"},"properties":{"a":"41.363008","cty":"LACKAWANNA","id":8838089,"mun":"MOOSIC BORO","nc":2,"o":"-75.680626"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.22531,41.06239],"type":"Point"},"properties":{"a":"41.06239","cty":"MONROE","hp":true,"id":8838110,"mun":"STROUD TWP","nc":17,"ne":{"a":"41.06458","o":"-75.22474"},"o":"-75.22531","sw":{"a":"41.0602","o":"-75.22588"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.779059,41.330574],"type":"Point"},"properties":{"a":"41.330574","cty":"LUZERNE","id":8838122,"mun":"PITTSTON","nc":5,"o":"-75.779059"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.685629,40.907192],"type":"Point"},"properties":{"a":"40.907192","cty":"CARBON","id":8838138,"mun":"PENN FOREST TWP","nc":1,"o":"-75.685629"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.40992,40.86448],"type":"Point"},"properties":{"a":"40.86448","cty":"MONROE","hp":true,"id":8838141,"mun":"ELDRED TWP","nc":32,"ne":{"a":"40.86629","o":"-75.40496"},"o":"-75.40992","sw":{"a":"40.86268","o":"-75.41487"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.87052,40.26554],"type":"Point"},"properties":{"a":"40.26554","cty":"DAUPHIN","hp":true,"id":8838158,"mun":"HARRISBURG","nc":434,"ne":{"a":"40.26725","o":"-76.86778"},"o":"-76.87052","sw":{"a":"40.26382","o":"-76.87327"}},"type":"Feature"},
