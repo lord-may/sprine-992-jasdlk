@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.077223,41.514094],"type":"Point"},"properties":{"a":"41.514094","cty":"PIKE","id":8837951,"mun":"LACKAWAXEN TWP","nc":2,"o":"-75.077223"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.61831,41.02025],"type":"Point"},"properties":{"a":"41.02025","cty":"CARBON","hp":true,"id":8837961,"mun":"KIDDER TWP","nc":822,"ne":{"a":"41.03525","o":"-75.58524"},"o":"-75.61831","sw":{"a":"41.00525","o":"-75.65138"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.61831,41.02025],"type":"Point"},"properties":{"a":"41.02025","cty":"CARBON","hp":true,"id":8837961,"mun":"KIDDER TWP","nc":822,"ne":{"a":"41.03525","o":"-75.58524"},"o":"-75.61831","sw":{"a":"41.00525","o":"-75.65138"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.367244,40.60482],"type":"Point"},"properties":{"a":"40.60482","cty":"NORTHAMPTON","id":8837968,"mun":"BETHLEHEM","nc":12,"o":"-75.367244"},"type":"Feature"}
 ]}
