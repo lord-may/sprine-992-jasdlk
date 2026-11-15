@@ -3,7 +3,6 @@
 {"geometry":{"coordinates":[-75.980004,40.303977],"type":"Point"},"properties":{"a":"40.303977","cty":"BERKS","id":8837976,"mun":"CUMRU TWP","nc":3,"o":"-75.980004"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.619658,41.427634],"type":"Point"},"properties":{"a":"41.427634","cty":"LACKAWANNA","id":8837985,"mun":"DUNMORE BORO","nc":1,"o":"-75.619658"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.311046,40.046628],"type":"Point"},"properties":{"a":"40.046628","cty":"LANCASTER","id":8837990,"mun":"LANCASTER","nc":4,"o":"-76.311046"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.342069,40.083214],"type":"Point"},"properties":{"a":"40.083214","cty":"LANCASTER","id":8837992,"mun":"MANHEIM TWP","nc":2,"o":"-76.342069"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.394713,41.168351],"type":"Point"},"properties":{"a":"41.168351","cty":"MONROE","id":8838002,"mun":"COOLBAUGH TWP","nc":1,"o":"-75.394713"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.591527,41.016342],"type":"Point"},"properties":{"a":"41.016342","cty":"CARBON","id":8838003,"mun":"PENN FOREST TWP","nc":6,"o":"-75.591527"},"type":"Feature"}
 ]}
