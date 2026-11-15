@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.33238,40.22091],"type":"Point"},"properties":{"a":"40.22091","cty":"CUMBERLAND","hp":true,"id":8838005,"mun":"WEST PENNSBORO TWP","nc":15,"ne":{"a":"40.22728","o":"-77.3275"},"o":"-77.33238","sw":{"a":"40.21455","o":"-77.33726"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.11381,39.82263],"type":"Point"},"properties":{"a":"39.82263","cty":"LANCASTER","hp":true,"id":8838018,"mun":"LITTLE BRITAIN TWP","nc":9,"ne":{"a":"39.824","o":"-76.1127"},"o":"-76.11381","sw":{"a":"39.82127","o":"-76.11492"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.330051,40.09003],"type":"Point"},"properties":{"a":"40.09003","cty":"LANCASTER","id":8838019,"mun":"MANHEIM TWP","nc":1,"o":"-76.330051"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.32779,40.64315],"type":"Point"},"properties":{"a":"40.64315","cty":"NORTHAMPTON","hp":true,"id":8838021,"mun":"BETHLEHEM TWP","nc":13,"ne":{"a":"40.64402","o":"-75.32768"},"o":"-75.32779","sw":{"a":"40.64227","o":"-75.32791"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.246172,40.319005],"type":"Point"},"properties":{"a":"40.319005","cty":"BUCKS","id":8838022,"mun":"HILLTOWN TWP","nc":2,"o":"-75.246172"},"type":"Feature"},
@@ -11,5 +9,6 @@
 {"geometry":{"coordinates":[-75.978568,40.960414],"type":"Point"},"properties":{"a":"40.960414","cty":"LUZERNE","id":8838041,"mun":"HAZLETON","nc":16,"o":"-75.978568"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.21246,40.989748],"type":"Point"},"properties":{"a":"40.989748","cty":"MONROE","id":8838042,"mun":"STROUD TWP","nc":1,"o":"-75.21246"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.074311,41.29808],"type":"Point"},"properties":{"a":"41.29808","cty":"LYCOMING","id":8838043,"mun":"LYCOMING TWP","nc":1,"o":"-77.074311"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.861272,40.269399],"type":"Point"},"properties":{"a":"40.269399","cty":"DAUPHIN","id":8838044,"mun":"HARRISBURG","nc":1,"o":"-76.861272"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.882013,41.157634],"type":"Point"},"properties":{"a":"41.157634","cty":"LUZERNE","id":8838045,"mun":"FAIRVIEW TWP","nc":5,"o":"-75.882013"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.282395,40.622227],"type":"Point"},"properties":{"a":"40.622227","cty":"NORTHAMPTON","id":8838046,"mun":"LOWER SAUCON TWP","nc":3,"o":"-75.282395"},"type":"Feature"}
 ]}
