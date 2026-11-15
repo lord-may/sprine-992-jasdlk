@@ -5,5 +5,7 @@
 {"geometry":{"coordinates":[-71.307389,41.494373],"type":"Point"},"properties":{"a":"41.494373","cty":"NEWPORT","id":20261072207,"mun":"NEWPORT","nc":36,"o":"-71.307389"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.402307,41.703357],"type":"Point"},"properties":{"a":"41.703357","cty":"KENT","id":20261072210,"mun":"WARWICK","nc":1,"o":"-71.402307"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.416851,41.873038],"type":"Point"},"properties":{"a":"41.873038","cty":"PROVIDENCE","id":20261072211,"mun":"PAWTUCKET","nc":1,"o":"-71.416851"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.638024,41.836126],"type":"Point"},"properties":{"a":"41.836126","cty":"PROVIDENCE","id":20261072212,"mun":"SCITUATE","nc":1,"o":"-71.638024"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.638024,41.836126],"type":"Point"},"properties":{"a":"41.836126","cty":"PROVIDENCE","id":20261072212,"mun":"SCITUATE","nc":1,"o":"-71.638024"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.773677,41.347945],"type":"Point"},"properties":{"a":"41.347945","cty":"WASHINGTON","id":20261072213,"mun":"WESTERLY","nc":1,"o":"-71.773677"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.405735,41.840515],"type":"Point"},"properties":{"a":"41.840515","cty":"PROVIDENCE","id":20261072214,"mun":"PROVIDENCE","nc":1,"o":"-71.405735"},"type":"Feature"}
 ]}

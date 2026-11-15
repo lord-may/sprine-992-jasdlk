@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.330051,40.09003],"type":"Point"},"properties":{"a":"40.09003","cty":"LANCASTER","id":8838019,"mun":"MANHEIM TWP","nc":1,"o":"-76.330051"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.803954,40.551321],"type":"Point"},"properties":{"a":"40.551321","cty":"DAUPHIN","id":8838027,"mun":"WASHINGTON TWP","nc":3,"o":"-76.803954"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.223376,40.295208],"type":"Point"},"properties":{"a":"40.295208","cty":"LEBANON","id":8838030,"mun":"HEIDELBERG TWP","nc":1,"o":"-76.223376"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.081846,40.354071],"type":"Point"},"properties":{"a":"40.354071","cty":"BERKS","id":8838037,"mun":"LOWER HEIDELBERG TWP","nc":1,"o":"-76.081846"},"type":"Feature"},
