@@ -4,8 +4,5 @@
 {"geometry":{"coordinates":[-75.619658,41.427634],"type":"Point"},"properties":{"a":"41.427634","cty":"LACKAWANNA","id":8837985,"mun":"DUNMORE BORO","nc":1,"o":"-75.619658"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.311046,40.046628],"type":"Point"},"properties":{"a":"40.046628","cty":"LANCASTER","id":8837990,"mun":"LANCASTER","nc":4,"o":"-76.311046"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.342069,40.083214],"type":"Point"},"properties":{"a":"40.083214","cty":"LANCASTER","id":8837992,"mun":"MANHEIM TWP","nc":2,"o":"-76.342069"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.927054,40.178098],"type":"Point"},"properties":{"a":"40.178098","cty":"CUMBERLAND","id":8837994,"mun":"LOWER ALLEN TWP","nc":1,"o":"-76.927054"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.448404,40.608414],"type":"Point"},"properties":{"a":"40.608414","cty":"LEHIGH","id":8837995,"mun":"ALLENTOWN","nc":18,"o":"-75.448404"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.613879,40.55539],"type":"Point"},"properties":{"a":"40.55539","cty":"LEHIGH","id":8837997,"mun":"UPPER MACUNGIE TWP","nc":1,"o":"-75.613879"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.677765,41.402774],"type":"Point"},"properties":{"a":"41.402774","cty":"LACKAWANNA","id":8837998,"mun":"SCRANTON","nc":1,"o":"-75.677765"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.927054,40.178098],"type":"Point"},"properties":{"a":"40.178098","cty":"CUMBERLAND","id":8837994,"mun":"LOWER ALLEN TWP","nc":1,"o":"-76.927054"},"type":"Feature"}
 ]}
