@@ -3,6 +3,7 @@
 {"geometry":{"coordinates":[-75.22531,41.06239],"type":"Point"},"properties":{"a":"41.06239","cty":"MONROE","hp":true,"id":8838110,"mun":"STROUD TWP","nc":17,"ne":{"a":"41.06458","o":"-75.22474"},"o":"-75.22531","sw":{"a":"41.0602","o":"-75.22588"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.239316,41.428299],"type":"Point"},"properties":{"a":"41.428299","cty":"WAYNE","id":8838121,"mun":"PAUPACK TWP","nc":2,"o":"-75.239316"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.779059,41.330574],"type":"Point"},"properties":{"a":"41.330574","cty":"LUZERNE","id":8838122,"mun":"PITTSTON","nc":5,"o":"-75.779059"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.843717,40.284376],"type":"Point"},"properties":{"a":"40.284376","cty":"DAUPHIN","id":8838123,"mun":"PENBROOK BORO","nc":9,"o":"-76.843717"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.449965,40.605766],"type":"Point"},"properties":{"a":"40.605766","cty":"LEHIGH","id":8838124,"mun":"ALLENTOWN","nc":1,"o":"-75.449965"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.449965,40.605766],"type":"Point"},"properties":{"a":"40.605766","cty":"LEHIGH","id":8838124,"mun":"ALLENTOWN","nc":1,"o":"-75.449965"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.474478,40.554466],"type":"Point"},"properties":{"a":"40.554466","cty":"LEHIGH","id":8838125,"mun":"ALLENTOWN","nc":1,"o":"-75.474478"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.470011,40.126895],"type":"Point"},"properties":{"a":"40.126895","cty":"LANCASTER","id":8838126,"mun":"RAPHO TWP","nc":10,"o":"-76.470011"},"type":"Feature"}
 ]}
