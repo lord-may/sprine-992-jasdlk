@@ -1,12 +1,8 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.803954,40.551321],"type":"Point"},"properties":{"a":"40.551321","cty":"DAUPHIN","id":8838027,"mun":"WASHINGTON TWP","nc":3,"o":"-76.803954"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.448404,40.608414],"type":"Point"},"properties":{"a":"40.608414","cty":"LEHIGH","id":8838071,"mun":"ALLENTOWN","nc":18,"o":"-75.448404"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.446126,40.622286],"type":"Point"},"properties":{"a":"40.622286","cty":"LEHIGH","id":8838072,"mun":"ALLENTOWN","nc":11,"o":"-75.446126"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.4463,40.622927],"type":"Point"},"properties":{"a":"40.622927","cty":"LEHIGH","id":8838077,"mun":"ALLENTOWN","nc":1,"o":"-75.4463"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.906688,40.774665],"type":"Point"},"properties":{"a":"40.774665","cty":"SNYDER","id":8838082,"mun":"WASHINGTON TWP","nc":1,"o":"-76.906688"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.411731,40.599329],"type":"Point"},"properties":{"a":"40.599329","cty":"LEHIGH","id":8838084,"mun":"SALISBURY TWP","nc":6,"o":"-75.411731"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.680626,41.363008],"type":"Point"},"properties":{"a":"41.363008","cty":"LACKAWANNA","id":8838089,"mun":"MOOSIC BORO","nc":2,"o":"-75.680626"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.495604,40.399618],"type":"Point"},"properties":{"a":"40.399618","cty":"MONTGOMERY","id":8838090,"mun":"UPPER HANOVER TWP","nc":5,"o":"-75.495604"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.768935,40.271248],"type":"Point"},"properties":{"a":"40.271248","cty":"DAUPHIN","id":8838095,"mun":"SWATARA TWP","nc":4,"o":"-76.768935"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.356339,40.641774],"type":"Point"},"properties":{"a":"40.641774","cty":"NORTHAMPTON","id":8838097,"mun":"BETHLEHEM","nc":10,"o":"-75.356339"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.768935,40.271248],"type":"Point"},"properties":{"a":"40.271248","cty":"DAUPHIN","id":8838095,"mun":"SWATARA TWP","nc":4,"o":"-76.768935"},"type":"Feature"}
 ]}
