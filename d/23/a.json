@@ -4,5 +4,6 @@
 {"geometry":{"coordinates":[-75.685629,40.907192],"type":"Point"},"properties":{"a":"40.907192","cty":"CARBON","id":8838138,"mun":"PENN FOREST TWP","nc":1,"o":"-75.685629"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.40992,40.86448],"type":"Point"},"properties":{"a":"40.86448","cty":"MONROE","hp":true,"id":8838141,"mun":"ELDRED TWP","nc":32,"ne":{"a":"40.86629","o":"-75.40496"},"o":"-75.40992","sw":{"a":"40.86268","o":"-75.41487"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.87052,40.26554],"type":"Point"},"properties":{"a":"40.26554","cty":"DAUPHIN","hp":true,"id":8838158,"mun":"HARRISBURG","nc":434,"ne":{"a":"40.26725","o":"-76.86778"},"o":"-76.87052","sw":{"a":"40.26382","o":"-76.87327"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.466399,40.577993],"type":"Point"},"properties":{"a":"40.577993","cty":"LEHIGH","id":8838160,"mun":"ALLENTOWN","nc":28,"o":"-75.466399"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.466399,40.577993],"type":"Point"},"properties":{"a":"40.577993","cty":"LEHIGH","id":8838160,"mun":"ALLENTOWN","nc":28,"o":"-75.466399"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.337907,40.696345],"type":"Point"},"properties":{"a":"40.696345","cty":"NORTHAMPTON","id":8838169,"mun":"LOWER NAZARETH TWP","nc":4,"o":"-75.337907"},"type":"Feature"}
 ]}
