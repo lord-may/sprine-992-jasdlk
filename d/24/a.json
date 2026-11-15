@@ -1,11 +1,9 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.49147,41.65339],"type":"Point"},"properties":{"a":"41.65339","cty":"KENT","hp":true,"id":20261072195,"mun":"EAST GREENWICH","nc":24,"ne":{"a":"41.65498","o":"-71.48977"},"o":"-71.49147","sw":{"a":"41.65179","o":"-71.49317"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.53105,41.9919],"type":"Point"},"properties":{"a":"41.9919","cty":"PROVIDENCE","hp":true,"id":20261072205,"mun":"WOONSOCKET","nc":43,"ne":{"a":"41.99291","o":"-71.5298"},"o":"-71.53105","sw":{"a":"41.99089","o":"-71.53229"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.30871,41.49784],"type":"Point"},"properties":{"a":"41.49784","cty":"NEWPORT","hp":true,"id":20261072206,"mun":"NEWPORT","nc":96,"ne":{"a":"41.49854","o":"-71.30772"},"o":"-71.30871","sw":{"a":"41.49714","o":"-71.3097"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.307389,41.494373],"type":"Point"},"properties":{"a":"41.494373","cty":"NEWPORT","id":20261072207,"mun":"NEWPORT","nc":36,"o":"-71.307389"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.402307,41.703357],"type":"Point"},"properties":{"a":"41.703357","cty":"KENT","id":20261072210,"mun":"WARWICK","nc":1,"o":"-71.402307"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.416851,41.873038],"type":"Point"},"properties":{"a":"41.873038","cty":"PROVIDENCE","id":20261072211,"mun":"PAWTUCKET","nc":1,"o":"-71.416851"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.638024,41.836126],"type":"Point"},"properties":{"a":"41.836126","cty":"PROVIDENCE","id":20261072212,"mun":"SCITUATE","nc":1,"o":"-71.638024"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.773677,41.347945],"type":"Point"},"properties":{"a":"41.347945","cty":"WASHINGTON","id":20261072213,"mun":"WESTERLY","nc":1,"o":"-71.773677"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.405735,41.840515],"type":"Point"},"properties":{"a":"41.840515","cty":"PROVIDENCE","id":20261072214,"mun":"PROVIDENCE","nc":1,"o":"-71.405735"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.405735,41.840515],"type":"Point"},"properties":{"a":"41.840515","cty":"PROVIDENCE","id":20261072214,"mun":"PROVIDENCE","nc":1,"o":"-71.405735"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.490086,41.652477],"type":"Point"},"properties":{"a":"41.652477","cty":"KENT","id":20261072216,"mun":"EAST GREENWICH","nc":6,"o":"-71.490086"},"type":"Feature"}
 ]}
