@@ -1,7 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.475884,42.019147],"type":"Point"},"properties":{"EstRest":"11/15/2026 7:15:00 PM","Outages":6,"county":"BROOME","customers":91450,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.476746,42.018667],"type":"Point"},"properties":{"EstRest":"11/15/2026 7:15:00 PM","Outages":2,"cause":"","county":"BROOME","crewstatus":"DISP ","customers":27,"hamlet":"DEPOSIT","incidentnumber":"011F3A","incidents":1,"level":"street","opco":"NYSEG","street":"BLUEBERRY DR","town":"SANFORD T"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.509804,42.626001],"type":"Point"},"properties":{"EstRest":"11/15/2026 6:00:00 PM","Outages":46,"county":"CHENANGO","customers":22859,"incidents":6,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.401777,42.639781],"type":"Point"},"properties":{"EstRest":"11/15/2026 6:00:00 PM","Outages":46,"county":"CHENANGO","customers":22859,"incidents":6,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.473284,42.774597],"type":"Point"},"properties":{"EstRest":"11/15/2026 7:45:00 PM","Outages":7,"county":"MADISON","customers":6357,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-74.917451,42.559219],"type":"Point"},"properties":{"EstRest":"11/15/2026 7:30:00 PM","Outages":12,"county":"OTSEGO","customers":25548,"incidents":3,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
