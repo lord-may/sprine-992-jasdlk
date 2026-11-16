@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"geometries":[{"coordinates":[[[-70.55411,41.59451],[-70.55066,41.59583],[-70.54984,41.59792],[-70.55114,41.59773],[-70.55293,41.59744],[-70.55411,41.59451]]],"type":"Polygon"},{"coordinates":[-70.55197,41.5964],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"VHCL","cluster":false,"cust_a":{"val":33},"etr":"2026-11-15T20:15:00-0500","inc_id":"E1546729-0","start":"2026-11-15T18:15:20-0500","title":"Outage Information"},"type":"Feature"},
-{"geometry":{"coordinates":[-72.33854,41.78077],"type":"Point"},"properties":{"cluster":false,"cust_a":{"masked":true,"val":4},"etr":"2026-11-15T23:00:00-0500","inc_id":"W6142090-0","start":"2026-11-15T19:26:03-0500","title":"Outage Information"},"type":"Feature"}
+{"geometry":{"coordinates":[-72.33854,41.78077],"type":"Point"},"properties":{"cluster":false,"cust_a":{"val":7},"etr":"2026-11-15T23:00:00-0500","inc_id":"W6142090-0","start":"2026-11-15T19:26:03-0500","title":"Outage Information"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.44295,41.65204],"type":"Point"},"properties":{"cause":"EQUP","cluster":false,"cust_a":{"masked":true,"val":4},"etr":"2026-11-15T21:30:00-0500","inc_id":"E1546733-0","start":"2026-11-15T19:41:25-0500","title":"Outage Information"},"type":"Feature"}
 ]}
