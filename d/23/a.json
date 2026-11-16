@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.718843,40.729199],"type":"Point"},"properties":{"a":"40.729199","cty":"LEHIGH","id":8838197,"mun":"HEIDELBERG TWP","nc":2,"o":"-75.718843"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.718843,40.729199],"type":"Point"},"properties":{"a":"40.729199","cty":"LEHIGH","id":8838197,"mun":"HEIDELBERG TWP","nc":2,"o":"-75.718843"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.181454,40.235496],"type":"Point"},"properties":{"a":"40.235496","cty":"CUMBERLAND","id":8838212,"mun":"NORTH MIDDLETON TWP","nc":6,"o":"-77.181454"},"type":"Feature"}
 ]}
