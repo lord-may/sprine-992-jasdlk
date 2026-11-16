@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.509617,43.890124],"type":"Point"},"properties":{"EstRest":"11/16/2026 9:15:00 AM","Outages":34,"county":"CUMBERLAND","customers":182407,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.142026,44.219343],"type":"Point"},"properties":{"EstRest":"11/16/2026 8:45:00 AM","Outages":3,"cause":"","county":"KNOX","crewstatus":"ONST ","customers":6,"hamlet":"CAMDEN","incidentnumber":"00476X","incidents":1,"level":"street","opco":"CMP","street":"BLUEBERRY LN","town":"CAMDEN"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.143112,44.220497],"type":"Point"},"properties":{"EstRest":"11/16/2026 8:45:00 AM","Outages":14,"county":"KNOX","customers":27251,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.195449,44.474104],"type":"Point"},"properties":{"EstRest":"11/16/2026 9:30:00 AM","Outages":7,"cause":"","county":"ANDROSCOGGIN","crewstatus":"DISP ","customers":7,"hamlet":"LIVERMORE","incidentnumber":"004777","incidents":1,"level":"street","opco":"CMP","street":"SPRUCE MOUNTAIN RD","town":"LIVERMORE"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.202707,44.47739],"type":"Point"},"properties":{"EstRest":"11/16/2026 9:30:00 AM","Outages":8,"county":"ANDROSCOGGIN","customers":59602,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.509617,43.890124],"type":"Point"},"properties":{"EstRest":"11/16/2026 9:30:00 AM","Outages":39,"county":"CUMBERLAND","customers":182407,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
