@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.685391,41.364343],"type":"Point"},"properties":{"a":"41.364343","cty":"LACKAWANNA","id":8838089,"mun":"MOOSIC BORO","nc":2,"o":"-75.685391"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.40992,40.86448],"type":"Point"},"properties":{"a":"40.86448","cty":"MONROE","hp":true,"id":8838141,"mun":"ELDRED TWP","nc":32,"ne":{"a":"40.86629","o":"-75.40496"},"o":"-75.40992","sw":{"a":"40.86268","o":"-75.41487"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.40992,40.86448],"type":"Point"},"properties":{"a":"40.86448","cty":"MONROE","hp":true,"id":8838141,"mun":"ELDRED TWP","nc":32,"ne":{"a":"40.86629","o":"-75.40496"},"o":"-75.40992","sw":{"a":"40.86268","o":"-75.41487"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.500747,40.613604],"type":"Point"},"properties":{"a":"40.613604","cty":"LEHIGH","id":8838193,"mun":"ALLENTOWN","nc":12,"o":"-75.500747"},"type":"Feature"}
 ]}
