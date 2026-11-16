@@ -5,5 +5,6 @@
 {"geometry":{"coordinates":[-71.30719,41.49394],"type":"Point"},"properties":{"a":"41.49394","cty":"NEWPORT","hp":true,"id":20261072354,"mun":"NEWPORT","nc":39,"ne":{"a":"41.49464","o":"-71.30676"},"o":"-71.30719","sw":{"a":"41.49325","o":"-71.30763"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.696956,41.920823],"type":"Point"},"properties":{"a":"41.920823","cty":"PROVIDENCE","id":20261072357,"mun":"GLOCESTER","nc":1,"o":"-71.696956"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.494475,41.864435],"type":"Point"},"properties":{"a":"41.864435","cty":"PROVIDENCE","id":20261072359,"mun":"JOHNSTON","nc":1,"o":"-71.494475"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.474501,41.790238],"type":"Point"},"properties":{"a":"41.790238","cty":"PROVIDENCE","id":20261072362,"mun":"CRANSTON","nc":1,"o":"-71.474501"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.474501,41.790238],"type":"Point"},"properties":{"a":"41.790238","cty":"PROVIDENCE","id":20261072362,"mun":"CRANSTON","nc":1,"o":"-71.474501"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.466321,41.957995],"type":"Point"},"properties":{"a":"41.957995","cty":"PROVIDENCE","id":20261072365,"mun":"LINCOLN","nc":1,"o":"-71.466321"},"type":"Feature"}
 ]}
