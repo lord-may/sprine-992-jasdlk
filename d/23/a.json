@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-77.297375,40.344323],"type":"Point"},"properties":{"a":"40.344323","cty":"PERRY","id":8838215,"mun":"TYRONE TWP","nc":2,"o":"-77.297375"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.53507,40.56276],"type":"Point"},"properties":{"a":"40.56276","cty":"LEHIGH","hp":true,"id":8838229,"mun":"LOWER MACUNGIE TWP","nc":24,"ne":{"a":"40.564","o":"-75.53345"},"o":"-75.53507","sw":{"a":"40.56151","o":"-75.53669"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.135529,40.685814],"type":"Point"},"properties":{"a":"40.685814","cty":"SNYDER","id":8838250,"mun":"WEST PERRY TWP","nc":1,"o":"-77.135529"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.014152,40.225405],"type":"Point"},"properties":{"a":"40.225405","cty":"LANCASTER","id":8838256,"mun":"BRECKNOCK TWP","nc":1,"o":"-76.014152"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.426091,40.078936],"type":"Point"},"properties":{"a":"40.078936","cty":"LANCASTER","id":8838264,"mun":"WEST HEMPFIELD TWP","nc":1,"o":"-76.426091"},"type":"Feature"},
@@ -11,8 +10,11 @@
 {"geometry":{"coordinates":[-75.481956,41.258746],"type":"Point"},"properties":{"a":"41.258746","cty":"LACKAWANNA","id":8838274,"mun":"CLIFTON TWP","nc":4,"o":"-75.481956"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.853987,41.263011],"type":"Point"},"properties":{"a":"41.263011","cty":"LUZERNE","id":8838275,"mun":"WILKES-BARRE","nc":1,"o":"-75.853987"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.32754,40.57449],"type":"Point"},"properties":{"a":"40.57449","cty":"NORTHAMPTON","hp":true,"id":8838276,"mun":"HELLERTOWN BORO","nc":15,"ne":{"a":"40.57561","o":"-75.32722"},"o":"-75.32754","sw":{"a":"40.57337","o":"-75.32785"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.31842,40.32318],"type":"Point"},"properties":{"a":"40.32318","cty":"MONTGOMERY","hp":true,"id":8838277,"mun":"TELFORD BORO","nc":820,"ne":{"a":"40.32979","o":"-75.30934"},"o":"-75.31842","sw":{"a":"40.31657","o":"-75.32751"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.95748,41.250322],"type":"Point"},"properties":{"a":"41.250322","cty":"LYCOMING","id":8838278,"mun":"LOYALSOCK TWP","nc":1,"o":"-76.95748"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.966992,40.382106],"type":"Point"},"properties":{"a":"40.382106","cty":"DAUPHIN","id":8838285,"mun":"MIDDLE PAXTON TWP","nc":2,"o":"-76.966992"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.910411,40.700224],"type":"Point"},"properties":{"a":"40.700224","cty":"SNYDER","id":8838286,"mun":"CHAPMAN TWP","nc":1,"o":"-76.910411"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.910411,40.700224],"type":"Point"},"properties":{"a":"40.700224","cty":"SNYDER","id":8838286,"mun":"CHAPMAN TWP","nc":1,"o":"-76.910411"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.358986,40.61178],"type":"Point"},"properties":{"a":"40.61178","cty":"NORTHAMPTON","id":8838287,"mun":"BETHLEHEM","nc":40,"o":"-75.358986"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.551326,40.792609],"type":"Point"},"properties":{"a":"40.792609","cty":"NORTHAMPTON","id":8838288,"mun":"LEHIGH TWP","nc":4,"o":"-75.551326"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.326496,40.322549],"type":"Point"},"properties":{"a":"40.322549","cty":"MONTGOMERY","id":8838290,"mun":"TELFORD BORO","nc":5,"o":"-75.326496"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.139405,41.035167],"type":"Point"},"properties":{"a":"41.035167","cty":"LUZERNE","id":8838291,"mun":"NESCOPECK TWP","nc":1,"o":"-76.139405"},"type":"Feature"}
 ]}

@@ -4,5 +4,11 @@
 {"geometry":{"coordinates":[-71.281008,41.50021],"type":"Point"},"properties":{"a":"41.50021","cty":"NEWPORT","id":20261072291,"mun":"MIDDLETOWN","nc":1,"o":"-71.281008"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.319228,41.494086],"type":"Point"},"properties":{"a":"41.494086","cty":"NEWPORT","id":20261072293,"mun":"NEWPORT","nc":10,"o":"-71.319228"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.393613,41.856922],"type":"Point"},"properties":{"a":"41.856922","cty":"PROVIDENCE","id":20261072294,"mun":"PAWTUCKET","nc":1,"o":"-71.393613"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.270025,41.664531],"type":"Point"},"properties":{"a":"41.664531","cty":"BRISTOL","id":20261072296,"mun":"BRISTOL","nc":1,"o":"-71.270025"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.270025,41.664531],"type":"Point"},"properties":{"a":"41.664531","cty":"BRISTOL","id":20261072296,"mun":"BRISTOL","nc":1,"o":"-71.270025"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.475336,41.633935],"type":"Point"},"properties":{"a":"41.633935","cty":"KENT","id":20261072297,"mun":"EAST GREENWICH","nc":1,"o":"-71.475336"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.435175,41.740439],"type":"Point"},"properties":{"a":"41.740439","cty":"KENT","id":20261072298,"mun":"WARWICK","nc":1,"o":"-71.435175"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.316428,41.492962],"type":"Point"},"properties":{"a":"41.492962","cty":"NEWPORT","id":20261072299,"mun":"NEWPORT","nc":18,"o":"-71.316428"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.752793,41.825052],"type":"Point"},"properties":{"a":"41.825052","cty":"PROVIDENCE","id":20261072301,"mun":"FOSTER","nc":1,"o":"-71.752793"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.405909,41.793207],"type":"Point"},"properties":{"a":"41.793207","cty":"PROVIDENCE","id":20261072303,"mun":"PROVIDENCE","nc":1,"o":"-71.405909"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.275636,41.535361],"type":"Point"},"properties":{"a":"41.535361","cty":"NEWPORT","id":20261072304,"mun":"MIDDLETOWN","nc":1,"o":"-71.275636"},"type":"Feature"}
 ]}
