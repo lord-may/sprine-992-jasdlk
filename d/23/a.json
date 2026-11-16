@@ -16,7 +16,6 @@
 {"geometry":{"coordinates":[-75.265159,41.188356],"type":"Point"},"properties":{"a":"41.188356","cty":"MONROE","id":8838357,"mun":"BARRETT TWP","nc":2,"o":"-75.265159"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.06077,41.71087],"type":"Point"},"properties":{"a":"41.71087","cty":"WAYNE","hp":true,"id":8838358,"mun":"DAMASCUS TWP","nc":14,"ne":{"a":"41.71561","o":"-75.05147"},"o":"-75.06077","sw":{"a":"41.70614","o":"-75.07007"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.469965,40.061459],"type":"Point"},"properties":{"a":"40.061459","cty":"LANCASTER","id":8838361,"mun":"WEST HEMPFIELD TWP","nc":1,"o":"-76.469965"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.557848,40.090972],"type":"Point"},"properties":{"a":"40.090972","cty":"LANCASTER","id":8838365,"mun":"EAST DONEGAL TWP","nc":2,"o":"-76.557848"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.302765,41.203397],"type":"Point"},"properties":{"a":"41.203397","cty":"CLINTON","id":8838368,"mun":"PINE CREEK TWP","nc":5,"o":"-77.302765"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.978153,40.340763],"type":"Point"},"properties":{"a":"40.340763","cty":"BERKS","id":8838371,"mun":"WYOMISSING BORO","nc":2,"o":"-75.978153"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.857022,40.115415],"type":"Point"},"properties":{"a":"40.115415","cty":"CHESTER","id":8838373,"mun":"HONEYBROOK TWP","nc":1,"o":"-75.857022"},"type":"Feature"},
@@ -25,9 +24,10 @@
 {"geometry":{"coordinates":[-75.85063,40.82565],"type":"Point"},"properties":{"a":"40.82565","cty":"CARBON","hp":true,"id":8838384,"mun":"SUMMIT HILL BORO","nc":808,"ne":{"a":"40.84064","o":"-75.81436"},"o":"-75.85063","sw":{"a":"40.81066","o":"-75.88691"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.461038,40.919421],"type":"Point"},"properties":{"a":"40.919421","cty":"MONROE","id":8838386,"mun":"POLK TWP","nc":6,"o":"-75.461038"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.099303,41.500926],"type":"Point"},"properties":{"a":"41.500926","cty":"PIKE","id":8838399,"mun":"LACKAWAXEN TWP","nc":5,"o":"-75.099303"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.011086,40.233418],"type":"Point"},"properties":{"a":"40.233418","cty":"CUMBERLAND","id":8838407,"mun":"SILVER SPRING TWP","nc":8,"o":"-77.011086"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.60883,41.39279],"type":"Point"},"properties":{"a":"41.39279","cty":"LACKAWANNA","hp":true,"id":8838419,"mun":"SCRANTON","nc":626,"ne":{"a":"41.40482","o":"-75.59211"},"o":"-75.60883","sw":{"a":"41.38076","o":"-75.62555"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.427776,41.235448],"type":"Point"},"properties":{"a":"41.235448","cty":"COLUMBIA","id":8838423,"mun":"JACKSON TWP","nc":1,"o":"-76.427776"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.847765,41.014979],"type":"Point"},"properties":{"a":"41.014979","cty":"NORTHUMBERLAND","id":8838424,"mun":"MILTON BORO","nc":15,"o":"-76.847765"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.390876,40.56003],"type":"Point"},"properties":{"a":"40.56003","cty":"SCHUYLKILL","id":8838427,"mun":"PINE GROVE TWP","nc":28,"o":"-76.390876"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.390876,40.56003],"type":"Point"},"properties":{"a":"40.56003","cty":"SCHUYLKILL","id":8838427,"mun":"PINE GROVE TWP","nc":28,"o":"-76.390876"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.133577,40.686965],"type":"Point"},"properties":{"a":"40.686965","cty":"SNYDER","id":8838434,"mun":"WEST PERRY TWP","nc":1,"o":"-77.133577"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.96683,40.132928],"type":"Point"},"properties":{"a":"40.132928","cty":"LANCASTER","id":8838436,"mun":"CAERNARVON TWP","nc":9,"o":"-75.96683"},"type":"Feature"}
 ]}
