@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-69.0638,47.0796],[-69.0269,47.0828],[-68.9487,47.1039],[-68.638,47.2355],[-68.63169,47.2383],[-68.63039,47.2394],[-68.6306,47.24],[-68.63079,47.2405],[-68.6862,47.2429],[-68.6896,47.2428],[-68.7135,47.2383],[-69.10129,47.1261],[-69.116,47.1211],[-69.1182,47.1199],[-69.12009,47.1143],[-69.1175,47.1097],[-69.0638,47.0796]]],"type":"Polygon"},{"coordinates":[-68.90362,47.15635],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"Requested by Fire/Police ","orig":"Requested by Fire/Police "},"cluster":false,"comments":null,"crew_icon":false,"crew_status":null,"cust_a":{"val":848},"etr":"2026-11-16T22:00:00Z","etr_confidence":null,"inc_id":"577153-1","n_out":1,"start_time":null,"title":"Area Outage"},"type":"Feature"}
 ]}
