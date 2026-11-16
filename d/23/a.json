@@ -1,8 +1,9 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-77.297375,40.344323],"type":"Point"},"properties":{"a":"40.344323","cty":"PERRY","id":8838215,"mun":"TYRONE TWP","nc":2,"o":"-77.297375"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.500747,40.613604],"type":"Point"},"properties":{"a":"40.613604","cty":"LEHIGH","id":8838220,"mun":"ALLENTOWN","nc":12,"o":"-75.500747"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.53507,40.56276],"type":"Point"},"properties":{"a":"40.56276","cty":"LEHIGH","hp":true,"id":8838229,"mun":"LOWER MACUNGIE TWP","nc":24,"ne":{"a":"40.564","o":"-75.53345"},"o":"-75.53507","sw":{"a":"40.56151","o":"-75.53669"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.126506,41.492602],"type":"Point"},"properties":{"a":"41.492602","cty":"PIKE","id":8838230,"mun":"LACKAWAXEN TWP","nc":2,"o":"-75.126506"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.352861,40.084486],"type":"Point"},"properties":{"a":"40.084486","cty":"LANCASTER","id":8838234,"mun":"EAST HEMPFIELD TWP","nc":3,"o":"-76.352861"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.482859,40.595419],"type":"Point"},"properties":{"a":"40.595419","cty":"LEHIGH","id":8838235,"mun":"ALLENTOWN","nc":1,"o":"-75.482859"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.021291,40.970106],"type":"Point"},"properties":{"a":"40.970106","cty":"LUZERNE","id":8838236,"mun":"WEST HAZLETON BORO","nc":2,"o":"-76.021291"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.786449,41.324242],"type":"Point"},"properties":{"a":"41.324242","cty":"LUZERNE","id":8838241,"mun":"PITTSTON","nc":14,"o":"-75.786449"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.033513,40.978474],"type":"Point"},"properties":{"a":"40.978474","cty":"LUZERNE","id":8838243,"mun":"WEST HAZLETON BORO","nc":3,"o":"-76.033513"},"type":"Feature"}
 ]}
