@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-74.698843,42.281897],"type":"Point"},"properties":{"EstRest":"11/16/2026 9:45:00 AM","Outages":2,"cause":"","county":"DELAWARE","crewstatus":"     ","customers":3,"hamlet":"BOVINA CENTER","incidentnumber":"011F5S","incidents":1,"level":"street","opco":"NYSEG","street":"BOGGS RD","town":"BOVINA T"},"type":"Feature"},
-{"geometry":{"coordinates":[-74.698843,42.281897],"type":"Point"},"properties":{"EstRest":"11/16/2026 9:45:00 AM","Outages":2,"county":"DELAWARE","customers":28318,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+{"geometry":{"coordinates":[-74.698843,42.281897],"type":"Point"},"properties":{"EstRest":"11/16/2026 9:45:00 AM","Outages":2,"county":"DELAWARE","customers":28318,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.003548,42.475778],"type":"Point"},"properties":{"EstRest":"11/16/2026 9:15:00 AM","Outages":1,"cause":"","county":"SCHUYLER","crewstatus":"     ","customers":10,"hamlet":"DUNDEE","incidentnumber":"011F5T","incidents":1,"level":"street","opco":"NYSEG","street":"BIGELOW HILL RD","town":"TYRONE T"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.003548,42.475778],"type":"Point"},"properties":{"EstRest":"11/16/2026 9:15:00 AM","Outages":1,"county":"SCHUYLER","customers":10031,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}

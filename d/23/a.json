@@ -2,6 +2,5 @@
 {"geometry":{"coordinates":[-77.181454,40.235496],"type":"Point"},"properties":{"a":"40.235496","cty":"CUMBERLAND","id":8838212,"mun":"NORTH MIDDLETON TWP","nc":6,"o":"-77.181454"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.297375,40.344323],"type":"Point"},"properties":{"a":"40.344323","cty":"PERRY","id":8838215,"mun":"TYRONE TWP","nc":2,"o":"-77.297375"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.500747,40.613604],"type":"Point"},"properties":{"a":"40.613604","cty":"LEHIGH","id":8838220,"mun":"ALLENTOWN","nc":12,"o":"-75.500747"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.223556,40.674441],"type":"Point"},"properties":{"a":"40.674441","cty":"SCHUYLKILL","id":8838222,"mun":"POTTSVILLE","nc":1,"o":"-76.223556"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.482859,40.595419],"type":"Point"},"properties":{"a":"40.595419","cty":"LEHIGH","id":8838224,"mun":"ALLENTOWN","nc":1,"o":"-75.482859"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.184866,40.673787],"type":"Point"},"properties":{"a":"40.673787","cty":"SCHUYLKILL","id":8838226,"mun":"NORTH MANHEIM TWP","nc":1,"o":"-76.184866"},"type":"Feature"}
 ]}
