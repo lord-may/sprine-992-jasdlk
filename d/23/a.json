@@ -8,7 +8,6 @@
 {"geometry":{"coordinates":[-75.067888,41.713336],"type":"Point"},"properties":{"a":"41.713336","cty":"WAYNE","id":8838272,"mun":"DAMASCUS TWP","nc":4,"o":"-75.067888"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.853987,41.263011],"type":"Point"},"properties":{"a":"41.263011","cty":"LUZERNE","id":8838275,"mun":"WILKES-BARRE","nc":1,"o":"-75.853987"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.32754,40.57449],"type":"Point"},"properties":{"a":"40.57449","cty":"NORTHAMPTON","hp":true,"id":8838276,"mun":"HELLERTOWN BORO","nc":15,"ne":{"a":"40.57561","o":"-75.32722"},"o":"-75.32754","sw":{"a":"40.57337","o":"-75.32785"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.95748,41.250322],"type":"Point"},"properties":{"a":"41.250322","cty":"LYCOMING","id":8838278,"mun":"LOYALSOCK TWP","nc":1,"o":"-76.95748"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.966992,40.382106],"type":"Point"},"properties":{"a":"40.382106","cty":"DAUPHIN","id":8838285,"mun":"MIDDLE PAXTON TWP","nc":2,"o":"-76.966992"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.910411,40.700224],"type":"Point"},"properties":{"a":"40.700224","cty":"SNYDER","id":8838286,"mun":"CHAPMAN TWP","nc":1,"o":"-76.910411"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.551326,40.792609],"type":"Point"},"properties":{"a":"40.792609","cty":"NORTHAMPTON","id":8838288,"mun":"LEHIGH TWP","nc":4,"o":"-75.551326"},"type":"Feature"},
@@ -28,7 +27,12 @@
 {"geometry":{"coordinates":[-77.109112,40.840521],"type":"Point"},"properties":{"a":"40.840521","cty":"SNYDER","id":8838326,"mun":"CENTRE TWP","nc":3,"o":"-77.109112"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.180312,40.65281],"type":"Point"},"properties":{"a":"40.65281","cty":"SCHUYLKILL","id":8838327,"mun":"NORTH MANHEIM TWP","nc":2,"o":"-76.180312"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.873751,41.235129],"type":"Point"},"properties":{"a":"41.235129","cty":"LUZERNE","id":8838328,"mun":"WILKES-BARRE","nc":10,"o":"-75.873751"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.225378,41.062546],"type":"Point"},"properties":{"a":"41.062546","cty":"MONROE","id":8838329,"mun":"STROUD TWP","nc":5,"o":"-75.225378"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.22767,39.752639],"type":"Point"},"properties":{"a":"39.752639","cty":"LANCASTER","id":8838331,"mun":"FULTON TWP","nc":2,"o":"-76.22767"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.037491,40.92986],"type":"Point"},"properties":{"a":"40.92986","cty":"UNION","id":8838332,"mun":"WEST BUFFALO TWP","nc":1,"o":"-77.037491"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.037491,40.92986],"type":"Point"},"properties":{"a":"40.92986","cty":"UNION","id":8838332,"mun":"WEST BUFFALO TWP","nc":1,"o":"-77.037491"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.162171,39.929441],"type":"Point"},"properties":{"a":"39.929441","cty":"LANCASTER","id":8838334,"mun":"EDEN TWP","nc":2,"o":"-76.162171"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.551649,40.782811],"type":"Point"},"properties":{"a":"40.782811","cty":"NORTHUMBERLAND","id":8838335,"mun":"COAL TWP","nc":6,"o":"-76.551649"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.126243,41.617168],"type":"Point"},"properties":{"a":"41.617168","cty":"WAYNE","id":8838340,"mun":"BERLIN TWP","nc":1,"o":"-75.126243"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.61073,41.26335],"type":"Point"},"properties":{"a":"41.26335","cty":"LYCOMING","hp":true,"id":8838344,"mun":"FRANKLIN TWP","nc":45,"ne":{"a":"41.28507","o":"-76.60047"},"o":"-76.61073","sw":{"a":"41.24163","o":"-76.62098"}},"type":"Feature"},
+{"geometry":{"coordinates":[-77.100423,41.262729],"type":"Point"},"properties":{"a":"41.262729","cty":"LYCOMING","id":8838345,"mun":"OLD LYCOMING TWP","nc":1,"o":"-77.100423"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.861272,40.269399],"type":"Point"},"properties":{"a":"40.269399","cty":"DAUPHIN","id":8838347,"mun":"HARRISBURG","nc":37,"o":"-76.861272"},"type":"Feature"}
 ]}
