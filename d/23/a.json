@@ -3,7 +3,7 @@
 {"geometry":{"coordinates":[-75.816771,40.869815],"type":"Point"},"properties":{"a":"40.869815","cty":"CARBON","id":8838506,"mun":"NESQUEHONING BORO","nc":1,"o":"-75.816771"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.428925,40.626291],"type":"Point"},"properties":{"a":"40.626291","cty":"LEHIGH","id":8838558,"mun":"ALLENTOWN","nc":11,"o":"-75.428925"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.520384,40.590622],"type":"Point"},"properties":{"a":"40.590622","cty":"LEHIGH","id":8838559,"mun":"ALLENTOWN","nc":7,"o":"-75.520384"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.36416,41.44072],"type":"Point"},"properties":{"a":"41.44072","cty":"WAYNE","id":8838566,"mun":"LAKE TWP","nc":3,"o":"-75.36416"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.579746,40.076482],"type":"Point"},"properties":{"a":"40.076482","cty":"LANCASTER","id":8838571,"mun":"EAST DONEGAL TWP","nc":1,"o":"-76.579746"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.616282,41.400083],"type":"Point"},"properties":{"a":"41.400083","cty":"LACKAWANNA","id":8838573,"mun":"DUNMORE BORO","nc":2,"o":"-75.616282"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.36416,41.44072],"type":"Point"},"properties":{"a":"41.44072","cty":"WAYNE","id":8838576,"mun":"LAKE TWP","nc":3,"o":"-75.36416"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.159942,40.220701],"type":"Point"},"properties":{"a":"40.220701","cty":"CUMBERLAND","id":8838578,"mun":"MIDDLESEX TWP","nc":6,"o":"-77.159942"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.500747,40.613604],"type":"Point"},"properties":{"a":"40.613604","cty":"LEHIGH","id":8838580,"mun":"ALLENTOWN","nc":12,"o":"-75.500747"},"type":"Feature"}
 ]}
