@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-72.130586,41.560964],"type":"Point"},"properties":{"ADDRESS":"12 GIFFORD LN, NORWICH, CT, 06360","CUSTOMER_COUNT":13,"DEVICE_OID":19236,"FACILITY_ID":"2322","FEEDER_ID":"912","GDB_GEOMATTR_DATA":"","ID":45224,"INCIDENT_ID":50411,"OBJECTID":7893,"ORIG_FID":null,"REGION":3,"RxOID":19236,"TIME_OUTAGE":"11/16/2026 10:08 AM","TIME_RESTORED_EST":"Is still under review"},"type":"Feature"}
+
 ]}
