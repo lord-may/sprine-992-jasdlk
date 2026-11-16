@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.031277,42.868128],"type":"Point"},"properties":{"EstRest":"11/16/2026 12:15:00 AM","Outages":2,"county":"OTSEGO","customers":25548,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.255944,42.201775],"type":"Point"},"properties":{"EstRest":"11/15/2026 11:00:00 PM","Outages":1,"cause":"","county":"TIOGA","crewstatus":"DISP ","customers":29,"hamlet":"NEWARK VALLEY","incidentnumber":"011F50","incidents":1,"level":"street","opco":"NYSEG","street":"LOWER FAIRFIELD RD","town":"CANDOR T"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.255944,42.201775],"type":"Point"},"properties":{"EstRest":"11/15/2026 11:00:00 PM","Outages":1,"county":"TIOGA","customers":20231,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.255944,42.201775],"type":"Point"},"properties":{"EstRest":"11/16/2026 12:15:00 AM","Outages":1,"cause":"","county":"TIOGA","crewstatus":"DISP ","customers":29,"hamlet":"NEWARK VALLEY","incidentnumber":"011F50","incidents":1,"level":"street","opco":"NYSEG","street":"LOWER FAIRFIELD RD","town":"CANDOR T"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.255944,42.201775],"type":"Point"},"properties":{"EstRest":"11/16/2026 12:15:00 AM","Outages":1,"county":"TIOGA","customers":20231,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
