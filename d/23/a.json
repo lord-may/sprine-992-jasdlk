@@ -1,8 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.628226,41.443279],"type":"Point"},"properties":{"a":"41.443279","cty":"LACKAWANNA","id":8838298,"mun":"SCRANTON","nc":3,"o":"-75.628226"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.873953,41.234452],"type":"Point"},"properties":{"a":"41.234452","cty":"LUZERNE","id":8838446,"mun":"WILKES-BARRE","nc":16,"o":"-75.873953"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.668631,41.518649],"type":"Point"},"properties":{"a":"41.518649","cty":"LACKAWANNA","id":8838447,"mun":"SOUTH ABINGTON TWP","nc":4,"o":"-75.668631"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.964507,41.147258],"type":"Point"},"properties":{"a":"41.147258","cty":"LUZERNE","id":8838449,"mun":"RICE TWP","nc":1,"o":"-75.964507"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.816771,40.869815],"type":"Point"},"properties":{"a":"40.869815","cty":"CARBON","id":8838506,"mun":"NESQUEHONING BORO","nc":1,"o":"-75.816771"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.60883,41.39279],"type":"Point"},"properties":{"a":"41.39279","cty":"LACKAWANNA","hp":true,"id":8838533,"mun":"SCRANTON","nc":626,"ne":{"a":"41.40482","o":"-75.59211"},"o":"-75.60883","sw":{"a":"41.38076","o":"-75.62555"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.977519,39.991529],"type":"Point"},"properties":{"a":"39.991529","cty":"LANCASTER","id":8838549,"mun":"SALISBURY TWP","nc":7,"o":"-75.977519"},"type":"Feature"}
 ]}
