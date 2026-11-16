@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-70.301249,43.953785],"type":"Point"},"properties":{"EstRest":"11/16/2026 12:45:00 AM","Outages":1,"cause":"","county":"CUMBERLAND","crewstatus":"     ","customers":186,"hamlet":"NEW GLOUCESTER","incidentnumber":"00476N","incidents":1,"level":"street","opco":"CMP","street":"LEWISTON RD","town":"NEW GLOUCESTER"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.301249,43.953785],"type":"Point"},"properties":{"EstRest":"11/16/2026 12:45:00 AM","Outages":1,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
