@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.549077,43.076706],"type":"Point"},"properties":{"EstRest":"","Outages":15,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":33,"hamlet":"PITTSFORD","incidentnumber":"011EVW","incidents":1,"level":"street","opco":"RGE","street":"WEXFORD GLEN","town":"PITTSFORD"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.549077,43.076706],"type":"Point"},"properties":{"EstRest":"","Outages":15,"county":"MONROE","customers":303529,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.56438,43.114021],"type":"Point"},"properties":{"EstRest":"11/16/2026 12:30:00 PM","Outages":174,"county":"MONROE","customers":303529,"incidents":4,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}

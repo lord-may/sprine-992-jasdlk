@@ -17,8 +17,6 @@
 {"geometry":{"coordinates":[-77.037491,40.92986],"type":"Point"},"properties":{"a":"40.92986","cty":"UNION","id":8838332,"mun":"WEST BUFFALO TWP","nc":1,"o":"-77.037491"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.162171,39.929441],"type":"Point"},"properties":{"a":"39.929441","cty":"LANCASTER","id":8838334,"mun":"EDEN TWP","nc":2,"o":"-76.162171"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.551649,40.782811],"type":"Point"},"properties":{"a":"40.782811","cty":"NORTHUMBERLAND","id":8838335,"mun":"COAL TWP","nc":6,"o":"-76.551649"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.126243,41.617168],"type":"Point"},"properties":{"a":"41.617168","cty":"WAYNE","id":8838340,"mun":"BERLIN TWP","nc":1,"o":"-75.126243"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.61073,41.26335],"type":"Point"},"properties":{"a":"41.26335","cty":"LYCOMING","hp":true,"id":8838344,"mun":"FRANKLIN TWP","nc":45,"ne":{"a":"41.28507","o":"-76.60047"},"o":"-76.61073","sw":{"a":"41.24163","o":"-76.62098"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.100423,41.262729],"type":"Point"},"properties":{"a":"41.262729","cty":"LYCOMING","id":8838345,"mun":"OLD LYCOMING TWP","nc":1,"o":"-77.100423"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.560241,40.642121],"type":"Point"},"properties":{"a":"40.642121","cty":"SCHUYLKILL","id":8838349,"mun":"HEGINS TWP","nc":3,"o":"-76.560241"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.850106,41.009891],"type":"Point"},"properties":{"a":"41.009891","cty":"NORTHUMBERLAND","id":8838353,"mun":"MILTON BORO","nc":7,"o":"-76.850106"},"type":"Feature"},
@@ -32,6 +30,9 @@
 {"geometry":{"coordinates":[-75.857022,40.115415],"type":"Point"},"properties":{"a":"40.115415","cty":"CHESTER","id":8838373,"mun":"HONEYBROOK TWP","nc":1,"o":"-75.857022"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.51887,40.9685],"type":"Point"},"properties":{"a":"40.9685","cty":"MONROE","hp":true,"id":8838374,"mun":"POLK TWP","nc":78,"ne":{"a":"40.97222","o":"-75.5153"},"o":"-75.51887","sw":{"a":"40.96477","o":"-75.52244"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.227234,39.752136],"type":"Point"},"properties":{"a":"39.752136","cty":"LANCASTER","id":8838375,"mun":"FULTON TWP","nc":3,"o":"-76.227234"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.85063,40.82565],"type":"Point"},"properties":{"a":"40.82565","cty":"CARBON","hp":true,"id":8838384,"mun":"LANSFORD BORO","nc":1850,"ne":{"a":"40.84064","o":"-75.81436"},"o":"-75.85063","sw":{"a":"40.81066","o":"-75.88691"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.461038,40.919421],"type":"Point"},"properties":{"a":"40.919421","cty":"MONROE","id":8838386,"mun":"POLK TWP","nc":6,"o":"-75.461038"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.85063,40.82565],"type":"Point"},"properties":{"a":"40.82565","cty":"CARBON","hp":true,"id":8838384,"mun":"SUMMIT HILL BORO","nc":808,"ne":{"a":"40.84064","o":"-75.81436"},"o":"-75.85063","sw":{"a":"40.81066","o":"-75.88691"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.461038,40.919421],"type":"Point"},"properties":{"a":"40.919421","cty":"MONROE","id":8838386,"mun":"POLK TWP","nc":6,"o":"-75.461038"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.06407,40.96075],"type":"Point"},"properties":{"a":"40.96075","cty":"UNION","hp":true,"id":8838388,"mun":"WEST BUFFALO TWP","nc":9,"ne":{"a":"40.96222","o":"-77.06206"},"o":"-77.06407","sw":{"a":"40.95928","o":"-77.06608"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.86873,40.826231],"type":"Point"},"properties":{"a":"40.826231","cty":"CARBON","id":8838396,"mun":"SUMMIT HILL BORO","nc":19,"o":"-75.86873"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.099303,41.500926],"type":"Point"},"properties":{"a":"41.500926","cty":"PIKE","id":8838399,"mun":"LACKAWAXEN TWP","nc":5,"o":"-75.099303"},"type":"Feature"}
 ]}
