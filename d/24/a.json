@@ -1,9 +1,8 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.609099,41.902639],"type":"Point"},"properties":{"a":"41.902639","cty":"PROVIDENCE","id":20261072378,"mun":"GLOCESTER","nc":4,"o":"-71.609099"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.543519,41.682425],"type":"Point"},"properties":{"a":"41.682425","cty":"KENT","id":20261072384,"mun":"COVENTRY","nc":1,"o":"-71.543519"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.281008,41.50021],"type":"Point"},"properties":{"a":"41.50021","cty":"NEWPORT","id":20261072387,"mun":"MIDDLETOWN","nc":1,"o":"-71.281008"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.418216,41.796479],"type":"Point"},"properties":{"a":"41.796479","cty":"PROVIDENCE","id":20261072391,"mun":"PROVIDENCE","nc":1,"o":"-71.418216"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.387652,41.750804],"type":"Point"},"properties":{"a":"41.750804","cty":"KENT","id":20261072392,"mun":"WARWICK","nc":1,"o":"-71.387652"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.421593,41.824867],"type":"Point"},"properties":{"a":"41.824867","cty":"PROVIDENCE","id":20261072396,"mun":"PROVIDENCE","nc":1,"o":"-71.421593"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.496846,41.721489],"type":"Point"},"properties":{"a":"41.721489","cty":"KENT","id":20261072398,"mun":"WEST WARWICK","nc":1,"o":"-71.496846"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.496846,41.721489],"type":"Point"},"properties":{"a":"41.721489","cty":"KENT","id":20261072398,"mun":"WEST WARWICK","nc":1,"o":"-71.496846"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.393187,41.953646],"type":"Point"},"properties":{"a":"41.953646","cty":"PROVIDENCE","id":20261072404,"mun":"CUMBERLAND","nc":1,"o":"-71.393187"},"type":"Feature"}
 ]}

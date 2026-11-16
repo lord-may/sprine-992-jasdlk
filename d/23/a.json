@@ -3,5 +3,7 @@
 {"geometry":{"coordinates":[-75.816771,40.869815],"type":"Point"},"properties":{"a":"40.869815","cty":"CARBON","id":8838506,"mun":"NESQUEHONING BORO","nc":1,"o":"-75.816771"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.428925,40.626291],"type":"Point"},"properties":{"a":"40.626291","cty":"LEHIGH","id":8838558,"mun":"ALLENTOWN","nc":11,"o":"-75.428925"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.520384,40.590622],"type":"Point"},"properties":{"a":"40.590622","cty":"LEHIGH","id":8838559,"mun":"ALLENTOWN","nc":7,"o":"-75.520384"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.686496,41.4142],"type":"Point"},"properties":{"a":"41.4142","cty":"LACKAWANNA","id":8838560,"mun":"SCRANTON","nc":1,"o":"-75.686496"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.686496,41.4142],"type":"Point"},"properties":{"a":"41.4142","cty":"LACKAWANNA","id":8838560,"mun":"SCRANTON","nc":1,"o":"-75.686496"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.36416,41.44072],"type":"Point"},"properties":{"a":"41.44072","cty":"WAYNE","id":8838566,"mun":"LAKE TWP","nc":3,"o":"-75.36416"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.461999,40.615793],"type":"Point"},"properties":{"a":"40.615793","cty":"LEHIGH","id":8838569,"mun":"ALLENTOWN","nc":11,"o":"-75.461999"},"type":"Feature"}
 ]}
