@@ -16,5 +16,10 @@
 {"geometry":{"coordinates":[-75.358986,40.61178],"type":"Point"},"properties":{"a":"40.61178","cty":"NORTHAMPTON","id":8838287,"mun":"BETHLEHEM","nc":40,"o":"-75.358986"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.551326,40.792609],"type":"Point"},"properties":{"a":"40.792609","cty":"NORTHAMPTON","id":8838288,"mun":"LEHIGH TWP","nc":4,"o":"-75.551326"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.326496,40.322549],"type":"Point"},"properties":{"a":"40.322549","cty":"MONTGOMERY","id":8838290,"mun":"TELFORD BORO","nc":5,"o":"-75.326496"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.139405,41.035167],"type":"Point"},"properties":{"a":"41.035167","cty":"LUZERNE","id":8838291,"mun":"NESCOPECK TWP","nc":1,"o":"-76.139405"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.139405,41.035167],"type":"Point"},"properties":{"a":"41.035167","cty":"LUZERNE","id":8838291,"mun":"NESCOPECK TWP","nc":1,"o":"-76.139405"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.759999,41.211167],"type":"Point"},"properties":{"a":"41.211167","cty":"LYCOMING","id":8838294,"mun":"MUNCY CREEK TWP","nc":4,"o":"-76.759999"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.040037,41.146005],"type":"Point"},"properties":{"a":"41.146005","cty":"LUZERNE","id":8838295,"mun":"SLOCUM TWP","nc":4,"o":"-76.040037"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.571024,40.147441],"type":"Point"},"properties":{"a":"40.147441","cty":"LANCASTER","id":8838297,"mun":"MOUNT JOY TWP","nc":9,"o":"-76.571024"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.628226,41.443279],"type":"Point"},"properties":{"a":"41.443279","cty":"LACKAWANNA","id":8838298,"mun":"SCRANTON","nc":3,"o":"-75.628226"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.046098,40.201678],"type":"Point"},"properties":{"a":"40.201678","cty":"LANCASTER","id":8838302,"mun":"BRECKNOCK TWP","nc":2,"o":"-76.046098"},"type":"Feature"}
 ]}
