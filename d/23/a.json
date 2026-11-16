@@ -7,7 +7,6 @@
 {"geometry":{"coordinates":[-75.49527,40.662115],"type":"Point"},"properties":{"a":"40.662115","cty":"LEHIGH","id":8838267,"mun":"WHITEHALL TWP","nc":6,"o":"-75.49527"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.40202,40.65043],"type":"Point"},"properties":{"a":"40.65043","cty":"NORTHAMPTON","hp":true,"id":8838270,"mun":"HANOVER TWP","nc":61,"ne":{"a":"40.65143","o":"-75.39949"},"o":"-75.40202","sw":{"a":"40.64943","o":"-75.40454"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.067888,41.713336],"type":"Point"},"properties":{"a":"41.713336","cty":"WAYNE","id":8838272,"mun":"DAMASCUS TWP","nc":4,"o":"-75.067888"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.481956,41.258746],"type":"Point"},"properties":{"a":"41.258746","cty":"LACKAWANNA","id":8838274,"mun":"CLIFTON TWP","nc":4,"o":"-75.481956"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.853987,41.263011],"type":"Point"},"properties":{"a":"41.263011","cty":"LUZERNE","id":8838275,"mun":"WILKES-BARRE","nc":1,"o":"-75.853987"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.32754,40.57449],"type":"Point"},"properties":{"a":"40.57449","cty":"NORTHAMPTON","hp":true,"id":8838276,"mun":"HELLERTOWN BORO","nc":15,"ne":{"a":"40.57561","o":"-75.32722"},"o":"-75.32754","sw":{"a":"40.57337","o":"-75.32785"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.95748,41.250322],"type":"Point"},"properties":{"a":"41.250322","cty":"LYCOMING","id":8838278,"mun":"LOYALSOCK TWP","nc":1,"o":"-76.95748"},"type":"Feature"},
@@ -21,5 +20,9 @@
 {"geometry":{"coordinates":[-76.040037,41.146005],"type":"Point"},"properties":{"a":"41.146005","cty":"LUZERNE","id":8838295,"mun":"SLOCUM TWP","nc":4,"o":"-76.040037"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.571024,40.147441],"type":"Point"},"properties":{"a":"40.147441","cty":"LANCASTER","id":8838297,"mun":"MOUNT JOY TWP","nc":9,"o":"-76.571024"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.628226,41.443279],"type":"Point"},"properties":{"a":"41.443279","cty":"LACKAWANNA","id":8838298,"mun":"SCRANTON","nc":3,"o":"-75.628226"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.046098,40.201678],"type":"Point"},"properties":{"a":"40.201678","cty":"LANCASTER","id":8838302,"mun":"BRECKNOCK TWP","nc":2,"o":"-76.046098"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.046098,40.201678],"type":"Point"},"properties":{"a":"40.201678","cty":"LANCASTER","id":8838302,"mun":"BRECKNOCK TWP","nc":2,"o":"-76.046098"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.458259,40.3917],"type":"Point"},"properties":{"a":"40.3917","cty":"MONTGOMERY","id":8838303,"mun":"UPPER HANOVER TWP","nc":2,"o":"-75.458259"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.994896,40.342943],"type":"Point"},"properties":{"a":"40.342943","cty":"BERKS","id":8838305,"mun":"SPRING TWP","nc":2,"o":"-75.994896"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.485509,40.026733],"type":"Point"},"properties":{"a":"40.026733","cty":"LANCASTER","id":8838308,"mun":"COLUMBIA BORO","nc":7,"o":"-76.485509"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.482102,41.259268],"type":"Point"},"properties":{"a":"41.259268","cty":"LACKAWANNA","id":8838309,"mun":"CLIFTON TWP","nc":2,"o":"-75.482102"},"type":"Feature"}
 ]}
