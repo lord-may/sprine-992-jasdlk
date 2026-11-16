@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-76.604432,43.190644],"type":"Point"},"properties":{"EstRest":"11/16/2026 2:15:00 PM","Outages":61,"county":"CAYUGA","customers":6132,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.606993,43.190206],"type":"Point"},"properties":{"EstRest":"11/16/2026 2:15:00 PM","Outages":19,"cause":"","county":"CAYUGA","crewstatus":"     ","customers":26,"hamlet":"CATO","incidentnumber":"011FBM","incidents":1,"level":"street","opco":"RGE","street":"POPLE RD","town":"VICTORY"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.56438,43.114021],"type":"Point"},"properties":{"EstRest":"","Outages":168,"county":"MONROE","customers":303529,"incidents":3,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
