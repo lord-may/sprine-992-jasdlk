@@ -1,10 +1,10 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.30719,41.49394],"type":"Point"},"properties":{"a":"41.49394","cty":"NEWPORT","hp":true,"id":20261072354,"mun":"NEWPORT","nc":39,"ne":{"a":"41.49464","o":"-71.30676"},"o":"-71.30719","sw":{"a":"41.49325","o":"-71.30763"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.318326,41.492864],"type":"Point"},"properties":{"a":"41.492864","cty":"NEWPORT","id":20261072367,"mun":"NEWPORT","nc":1,"o":"-71.318326"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.416737,41.806248],"type":"Point"},"properties":{"a":"41.806248","cty":"PROVIDENCE","id":20261072372,"mun":"PROVIDENCE","nc":1,"o":"-71.416737"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.314904,41.493107],"type":"Point"},"properties":{"a":"41.493107","cty":"NEWPORT","id":20261072373,"mun":"NEWPORT","nc":1,"o":"-71.314904"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.4629,41.726688],"type":"Point"},"properties":{"a":"41.726688","cty":"KENT","id":20261072375,"mun":"WARWICK","nc":1,"o":"-71.4629"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.609099,41.902639],"type":"Point"},"properties":{"a":"41.902639","cty":"PROVIDENCE","id":20261072378,"mun":"GLOCESTER","nc":1,"o":"-71.609099"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.464719,41.832893],"type":"Point"},"properties":{"a":"41.832893","cty":"PROVIDENCE","id":20261072381,"mun":"PROVIDENCE","nc":9,"o":"-71.464719"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.465641,41.805325],"type":"Point"},"properties":{"a":"41.805325","cty":"PROVIDENCE","id":20261072383,"mun":"JOHNSTON","nc":1,"o":"-71.465641"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.543519,41.682425],"type":"Point"},"properties":{"a":"41.682425","cty":"KENT","id":20261072384,"mun":"COVENTRY","nc":1,"o":"-71.543519"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.31459,41.492782],"type":"Point"},"properties":{"a":"41.492782","cty":"NEWPORT","id":20261072385,"mun":"NEWPORT","nc":1,"o":"-71.31459"},"type":"Feature"}
 ]}
