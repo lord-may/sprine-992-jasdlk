@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.331534,40.247337],"type":"Point"},"properties":{"cause":"Motor Vehicle","comment":"Adams Electric is currently experiencing an outage due to an emergency situation from a motor vehicle accident. Crews have been dispatched and we appreciate your cooperation while this issue is resolved. Thank you.","crewAssigned":true,"id":"475878","lifeCycleStatus":"Assigned","nbrOut":341,"planned":false,"timeOff":1794852953000},"type":"Feature"}
+
 ]}
