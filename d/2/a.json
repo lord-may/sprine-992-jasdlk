@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-73.92336,41.1087],"type":"Point"},"properties":{"cause":"Single Service Incident","cluster":false,"cust_a":{"val":1},"etr":"2026-11-16T12:05:26-0500","inc_id":"563399","title":"Outage Information"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.97663,40.94084],"type":"Point"},"properties":{"cause":"Single Service Incident","cluster":false,"cust_a":{"val":1},"etr":"2026-11-16T12:54:03-0500","inc_id":"563403","title":"Outage Information"},"type":"Feature"},
+{"geometry":{"coordinates":[-73.97663,40.94084],"type":"Point"},"properties":{"cluster":false,"cust_a":{"val":1},"etr":"2026-11-16T12:54:03-0500","inc_id":"563403","title":"Outage Information"},"type":"Feature"},
 {"geometry":{"coordinates":[-73.97768,40.94033],"type":"Point"},"properties":{"cause":"Single Service Incident","cluster":false,"cust_a":{"val":1},"etr":"2026-11-16T13:15:54-0500","inc_id":"563407","title":"Outage Information"},"type":"Feature"}
 ]}
