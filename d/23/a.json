@@ -4,6 +4,6 @@
 {"geometry":{"coordinates":[-75.36416,41.44072],"type":"Point"},"properties":{"a":"41.44072","cty":"WAYNE","id":8838576,"mun":"LAKE TWP","nc":3,"o":"-75.36416"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.933038,40.579952],"type":"Point"},"properties":{"a":"40.579952","cty":"DAUPHIN","id":8838603,"mun":"UPPER PAXTON TWP","nc":3,"o":"-76.933038"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.932869,40.580001],"type":"Point"},"properties":{"a":"40.580001","cty":"DAUPHIN","id":8838605,"mun":"UPPER PAXTON TWP","nc":2,"o":"-76.932869"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.057446,40.85669],"type":"Point"},"properties":{"a":"40.85669","cty":"SNYDER","id":8838607,"mun":"CENTRE TWP","nc":2,"o":"-77.057446"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.618957,41.400641],"type":"Point"},"properties":{"a":"41.400641","cty":"LACKAWANNA","id":8838609,"mun":"SCRANTON","nc":1,"o":"-75.618957"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.635795,40.75814],"type":"Point"},"properties":{"a":"40.75814","cty":"LEHIGH","id":8838611,"mun":"WASHINGTON TWP","nc":2,"o":"-75.635795"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.975877,40.958965],"type":"Point"},"properties":{"a":"40.958965","cty":"LUZERNE","id":8838613,"mun":"HAZLETON","nc":17,"o":"-75.975877"},"type":"Feature"}
 ]}
