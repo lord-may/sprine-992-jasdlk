@@ -4,6 +4,7 @@
 {"geometry":{"coordinates":[-75.428925,40.626291],"type":"Point"},"properties":{"a":"40.626291","cty":"LEHIGH","id":8838558,"mun":"ALLENTOWN","nc":11,"o":"-75.428925"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.520384,40.590622],"type":"Point"},"properties":{"a":"40.590622","cty":"LEHIGH","id":8838559,"mun":"ALLENTOWN","nc":7,"o":"-75.520384"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.36416,41.44072],"type":"Point"},"properties":{"a":"41.44072","cty":"WAYNE","id":8838576,"mun":"LAKE TWP","nc":3,"o":"-75.36416"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.159942,40.220701],"type":"Point"},"properties":{"a":"40.220701","cty":"CUMBERLAND","id":8838578,"mun":"MIDDLESEX TWP","nc":6,"o":"-77.159942"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.500747,40.613604],"type":"Point"},"properties":{"a":"40.613604","cty":"LEHIGH","id":8838580,"mun":"ALLENTOWN","nc":12,"o":"-75.500747"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.500747,40.613604],"type":"Point"},"properties":{"a":"40.613604","cty":"LEHIGH","id":8838580,"mun":"ALLENTOWN","nc":12,"o":"-75.500747"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.160902,40.226137],"type":"Point"},"properties":{"a":"40.226137","cty":"CUMBERLAND","id":8838584,"mun":"MIDDLESEX TWP","nc":6,"o":"-77.160902"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.954557,40.261876],"type":"Point"},"properties":{"a":"40.261876","cty":"CUMBERLAND","id":8838590,"mun":"HAMPDEN TWP","nc":4,"o":"-76.954557"},"type":"Feature"}
 ]}
