@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-73.226761,43.606965],"type":"Point"},"properties":{"active":true,"affectingCustomers":true,"cause":0,"county":"Rutland","crew_name":",POUL-DECELLE","customers_affected":12,"customers_affected_label":"12 Customers","device":"FUSE","has_etor":0,"incident_id":1018342,"status":"CREW_ASSIGNED","street":"VT ROUTE 4A W","town":"Castleton","trouble":"NO_POWER"},"type":"Feature"},
 {"geometry":{"coordinates":[-72.386428,43.49177],"type":"Point"},"properties":{"active":true,"affectingCustomers":true,"cause":123,"county":"Windsor","crew_name":",SPRI-DESRAVILES","customers_affected":20,"customers_affected_label":"20 Customers","device":"TRANSFORMER","etor":"2026-11-16T14:00-05:00","has_etor":1,"incident_id":1018344,"status":"CREW_ASSIGNED","street":"US ROUTE 5 N","town":"Windsor","trouble":"NO_POWER"},"type":"Feature"}
 ]}
