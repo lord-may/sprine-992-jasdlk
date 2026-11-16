@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.031277,42.868128],"type":"Point"},"properties":{"EstRest":"11/16/2026 2:00:00 AM","Outages":2,"county":"OTSEGO","customers":25548,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.031277,42.868128],"type":"Point"},"properties":{"EstRest":"11/16/2026 2:00:00 AM","Outages":1,"cause":"","county":"OTSEGO","crewstatus":"DISP ","customers":93,"hamlet":"RICHFIELD SPRINGS","incidentnumber":"011F54","incidents":1,"level":"street","opco":"NYSEG","street":"US HIGHWAY 20","town":"RICHFIELD T"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.031277,42.868128],"type":"Point"},"properties":{"EstRest":"11/16/2026 2:00:00 AM","Outages":1,"county":"OTSEGO","customers":25548,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.255944,42.201775],"type":"Point"},"properties":{"EstRest":"11/16/2026 12:15:00 AM","Outages":1,"cause":"","county":"TIOGA","crewstatus":"DISP ","customers":29,"hamlet":"NEWARK VALLEY","incidentnumber":"011F50","incidents":1,"level":"street","opco":"NYSEG","street":"LOWER FAIRFIELD RD","town":"CANDOR T"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.255944,42.201775],"type":"Point"},"properties":{"EstRest":"11/16/2026 12:15:00 AM","Outages":1,"county":"TIOGA","customers":20231,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
