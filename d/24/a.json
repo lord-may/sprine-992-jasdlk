@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.496846,41.721489],"type":"Point"},"properties":{"a":"41.721489","cty":"KENT","id":20261072398,"mun":"WEST WARWICK","nc":1,"o":"-71.496846"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.393187,41.953646],"type":"Point"},"properties":{"a":"41.953646","cty":"PROVIDENCE","id":20261072404,"mun":"CUMBERLAND","nc":1,"o":"-71.393187"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.395566,41.791852],"type":"Point"},"properties":{"a":"41.791852","cty":"PROVIDENCE","id":20261072416,"mun":"PROVIDENCE","nc":1,"o":"-71.395566"},"type":"Feature"}
 ]}
