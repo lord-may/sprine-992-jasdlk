@@ -2,8 +2,8 @@
 {"geometry":{"coordinates":[-75.816771,40.869815],"type":"Point"},"properties":{"a":"40.869815","cty":"CARBON","id":8838506,"mun":"NESQUEHONING BORO","nc":1,"o":"-75.816771"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.520384,40.590622],"type":"Point"},"properties":{"a":"40.590622","cty":"LEHIGH","id":8838559,"mun":"ALLENTOWN","nc":7,"o":"-75.520384"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.36416,41.44072],"type":"Point"},"properties":{"a":"41.44072","cty":"WAYNE","id":8838576,"mun":"LAKE TWP","nc":3,"o":"-75.36416"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.954557,40.261876],"type":"Point"},"properties":{"a":"40.261876","cty":"CUMBERLAND","id":8838590,"mun":"HAMPDEN TWP","nc":1,"o":"-76.954557"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.933038,40.579952],"type":"Point"},"properties":{"a":"40.579952","cty":"DAUPHIN","id":8838603,"mun":"UPPER PAXTON TWP","nc":3,"o":"-76.933038"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.932869,40.580001],"type":"Point"},"properties":{"a":"40.580001","cty":"DAUPHIN","id":8838605,"mun":"UPPER PAXTON TWP","nc":2,"o":"-76.932869"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.057446,40.85669],"type":"Point"},"properties":{"a":"40.85669","cty":"SNYDER","id":8838607,"mun":"CENTRE TWP","nc":2,"o":"-77.057446"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.057446,40.85669],"type":"Point"},"properties":{"a":"40.85669","cty":"SNYDER","id":8838607,"mun":"CENTRE TWP","nc":2,"o":"-77.057446"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.618957,41.400641],"type":"Point"},"properties":{"a":"41.400641","cty":"LACKAWANNA","id":8838609,"mun":"SCRANTON","nc":1,"o":"-75.618957"},"type":"Feature"}
 ]}
