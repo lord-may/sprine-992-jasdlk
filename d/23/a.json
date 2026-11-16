@@ -6,7 +6,6 @@
 {"geometry":{"coordinates":[-76.806138,40.272109],"type":"Point"},"properties":{"a":"40.272109","cty":"DAUPHIN","id":8838314,"mun":"LOWER PAXTON TWP","nc":1,"o":"-76.806138"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.162171,39.929441],"type":"Point"},"properties":{"a":"39.929441","cty":"LANCASTER","id":8838334,"mun":"EDEN TWP","nc":2,"o":"-76.162171"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.850106,41.009891],"type":"Point"},"properties":{"a":"41.009891","cty":"NORTHUMBERLAND","id":8838353,"mun":"MILTON BORO","nc":7,"o":"-76.850106"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.265159,41.188356],"type":"Point"},"properties":{"a":"41.188356","cty":"MONROE","id":8838357,"mun":"BARRETT TWP","nc":2,"o":"-75.265159"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.06077,41.71087],"type":"Point"},"properties":{"a":"41.71087","cty":"WAYNE","hp":true,"id":8838358,"mun":"DAMASCUS TWP","nc":14,"ne":{"a":"41.71561","o":"-75.05147"},"o":"-75.06077","sw":{"a":"41.70614","o":"-75.07007"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.469965,40.061459],"type":"Point"},"properties":{"a":"40.061459","cty":"LANCASTER","id":8838361,"mun":"WEST HEMPFIELD TWP","nc":1,"o":"-76.469965"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.51887,40.9685],"type":"Point"},"properties":{"a":"40.9685","cty":"MONROE","hp":true,"id":8838374,"mun":"POLK TWP","nc":78,"ne":{"a":"40.97222","o":"-75.5153"},"o":"-75.51887","sw":{"a":"40.96477","o":"-75.52244"}},"type":"Feature"},
@@ -15,13 +14,13 @@
 {"geometry":{"coordinates":[-75.61113,41.38606],"type":"Point"},"properties":{"a":"41.38606","cty":"LACKAWANNA","hp":true,"id":8838419,"mun":"SCRANTON","nc":998,"ne":{"a":"41.40828","o":"-75.59211"},"o":"-75.61113","sw":{"a":"41.36384","o":"-75.63016"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.427776,41.235448],"type":"Point"},"properties":{"a":"41.235448","cty":"COLUMBIA","id":8838423,"mun":"JACKSON TWP","nc":1,"o":"-76.427776"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.847765,41.014979],"type":"Point"},"properties":{"a":"41.014979","cty":"NORTHUMBERLAND","id":8838424,"mun":"MILTON BORO","nc":15,"o":"-76.847765"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.133577,40.686965],"type":"Point"},"properties":{"a":"40.686965","cty":"SNYDER","id":8838434,"mun":"WEST PERRY TWP","nc":1,"o":"-77.133577"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.96683,40.132928],"type":"Point"},"properties":{"a":"40.132928","cty":"LANCASTER","id":8838436,"mun":"CAERNARVON TWP","nc":9,"o":"-75.96683"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.005305,41.245952],"type":"Point"},"properties":{"a":"41.245952","cty":"LYCOMING","id":8838445,"mun":"WILLIAMSPORT","nc":14,"o":"-77.005305"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.873953,41.234452],"type":"Point"},"properties":{"a":"41.234452","cty":"LUZERNE","id":8838446,"mun":"WILKES-BARRE","nc":16,"o":"-75.873953"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.668631,41.518649],"type":"Point"},"properties":{"a":"41.518649","cty":"LACKAWANNA","id":8838447,"mun":"SOUTH ABINGTON TWP","nc":4,"o":"-75.668631"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.551901,40.783573],"type":"Point"},"properties":{"a":"40.783573","cty":"NORTHUMBERLAND","id":8838448,"mun":"COAL TWP","nc":14,"o":"-76.551901"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.964507,41.147258],"type":"Point"},"properties":{"a":"41.147258","cty":"LUZERNE","id":8838449,"mun":"RICE TWP","nc":1,"o":"-75.964507"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.036979,40.930878],"type":"Point"},"properties":{"a":"40.930878","cty":"UNION","id":8838450,"mun":"WEST BUFFALO TWP","nc":1,"o":"-77.036979"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.504885,40.956796],"type":"Point"},"properties":{"a":"40.956796","cty":"MONROE","id":8838479,"mun":"POLK TWP","nc":2,"o":"-75.504885"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.504885,40.956796],"type":"Point"},"properties":{"a":"40.956796","cty":"MONROE","id":8838479,"mun":"POLK TWP","nc":2,"o":"-75.504885"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.873327,40.824605],"type":"Point"},"properties":{"a":"40.824605","cty":"CARBON","id":8838481,"mun":"SUMMIT HILL BORO","nc":13,"o":"-75.873327"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.283952,41.562421],"type":"Point"},"properties":{"a":"41.562421","cty":"WAYNE","id":8838485,"mun":"TEXAS TWP","nc":1,"o":"-75.283952"},"type":"Feature"}
 ]}
