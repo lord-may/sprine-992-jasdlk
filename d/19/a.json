@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.867742,42.023019],"type":"Point"},"properties":{"EstRest":"11/16/2026 1:30:00 AM","Outages":25,"cause":"","county":"BROOME","crewstatus":"DISP ","customers":26,"hamlet":"BINGHAMTON","incidentnumber":"011F5G","incidents":1,"level":"street","opco":"NYSEG","street":"GREGORY RD","town":"CONKLIN T"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.891026,42.022735],"type":"Point"},"properties":{"EstRest":"11/16/2026 1:30:00 AM","Outages":30,"county":"BROOME","customers":91450,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.031277,42.868128],"type":"Point"},"properties":{"EstRest":"11/16/2026 2:00:00 AM","Outages":1,"cause":"","county":"OTSEGO","crewstatus":"DISP ","customers":93,"hamlet":"RICHFIELD SPRINGS","incidentnumber":"011F54","incidents":1,"level":"street","opco":"NYSEG","street":"US HIGHWAY 20","town":"RICHFIELD T"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.031277,42.868128],"type":"Point"},"properties":{"EstRest":"11/16/2026 2:00:00 AM","Outages":1,"county":"OTSEGO","customers":25548,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
