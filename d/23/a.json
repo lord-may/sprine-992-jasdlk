@@ -1,9 +1,11 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-77.297375,40.344323],"type":"Point"},"properties":{"a":"40.344323","cty":"PERRY","id":8838215,"mun":"TYRONE TWP","nc":2,"o":"-77.297375"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.53507,40.56276],"type":"Point"},"properties":{"a":"40.56276","cty":"LEHIGH","hp":true,"id":8838229,"mun":"LOWER MACUNGIE TWP","nc":24,"ne":{"a":"40.564","o":"-75.53345"},"o":"-75.53507","sw":{"a":"40.56151","o":"-75.53669"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.126506,41.492602],"type":"Point"},"properties":{"a":"41.492602","cty":"PIKE","id":8838230,"mun":"LACKAWAXEN TWP","nc":2,"o":"-75.126506"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.352861,40.084486],"type":"Point"},"properties":{"a":"40.084486","cty":"LANCASTER","id":8838234,"mun":"EAST HEMPFIELD TWP","nc":3,"o":"-76.352861"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.021291,40.970106],"type":"Point"},"properties":{"a":"40.970106","cty":"LUZERNE","id":8838236,"mun":"WEST HAZLETON BORO","nc":2,"o":"-76.021291"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.786449,41.324242],"type":"Point"},"properties":{"a":"41.324242","cty":"LUZERNE","id":8838241,"mun":"PITTSTON","nc":14,"o":"-75.786449"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.033513,40.978474],"type":"Point"},"properties":{"a":"40.978474","cty":"LUZERNE","id":8838243,"mun":"WEST HAZLETON BORO","nc":3,"o":"-76.033513"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.033513,40.978474],"type":"Point"},"properties":{"a":"40.978474","cty":"LUZERNE","id":8838243,"mun":"WEST HAZLETON BORO","nc":3,"o":"-76.033513"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.135529,40.685814],"type":"Point"},"properties":{"a":"40.685814","cty":"SNYDER","id":8838250,"mun":"WEST PERRY TWP","nc":1,"o":"-77.135529"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.867733,40.271448],"type":"Point"},"properties":{"a":"40.271448","cty":"DAUPHIN","id":8838253,"mun":"HARRISBURG","nc":1,"o":"-76.867733"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.014152,40.225405],"type":"Point"},"properties":{"a":"40.225405","cty":"LANCASTER","id":8838256,"mun":"BRECKNOCK TWP","nc":1,"o":"-76.014152"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.326496,40.322549],"type":"Point"},"properties":{"a":"40.322549","cty":"MONTGOMERY","id":8838259,"mun":"TELFORD BORO","nc":5,"o":"-75.326496"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.482028,40.383034],"type":"Point"},"properties":{"a":"40.383034","cty":"MONTGOMERY","id":8838260,"mun":"UPPER HANOVER TWP","nc":13,"o":"-75.482028"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.500308,40.390132],"type":"Point"},"properties":{"a":"40.390132","cty":"MONTGOMERY","id":8838262,"mun":"UPPER HANOVER TWP","nc":7,"o":"-75.500308"},"type":"Feature"}
 ]}
