@@ -1,7 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.628226,41.443279],"type":"Point"},"properties":{"a":"41.443279","cty":"LACKAWANNA","id":8838298,"mun":"SCRANTON","nc":3,"o":"-75.628226"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.668631,41.518649],"type":"Point"},"properties":{"a":"41.518649","cty":"LACKAWANNA","id":8838447,"mun":"SOUTH ABINGTON TWP","nc":4,"o":"-75.668631"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.964507,41.147258],"type":"Point"},"properties":{"a":"41.147258","cty":"LUZERNE","id":8838449,"mun":"RICE TWP","nc":1,"o":"-75.964507"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.816771,40.869815],"type":"Point"},"properties":{"a":"40.869815","cty":"CARBON","id":8838506,"mun":"NESQUEHONING BORO","nc":1,"o":"-75.816771"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.977519,39.991529],"type":"Point"},"properties":{"a":"39.991529","cty":"LANCASTER","id":8838549,"mun":"SALISBURY TWP","nc":7,"o":"-75.977519"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.428925,40.626291],"type":"Point"},"properties":{"a":"40.626291","cty":"LEHIGH","id":8838558,"mun":"ALLENTOWN","nc":11,"o":"-75.428925"},"type":"Feature"}
 ]}
