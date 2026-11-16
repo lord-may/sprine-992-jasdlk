@@ -2,5 +2,5 @@
 {"geometry":{"coordinates":[-75.718843,40.729199],"type":"Point"},"properties":{"a":"40.729199","cty":"LEHIGH","id":8838197,"mun":"HEIDELBERG TWP","nc":2,"o":"-75.718843"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.181454,40.235496],"type":"Point"},"properties":{"a":"40.235496","cty":"CUMBERLAND","id":8838212,"mun":"NORTH MIDDLETON TWP","nc":6,"o":"-77.181454"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.297113,40.348824],"type":"Point"},"properties":{"a":"40.348824","cty":"PERRY","id":8838215,"mun":"TYRONE TWP","nc":1,"o":"-77.297113"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.057446,40.85669],"type":"Point"},"properties":{"a":"40.85669","cty":"SNYDER","id":8838216,"mun":"CENTRE TWP","nc":2,"o":"-77.057446"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.298908,40.348604],"type":"Point"},"properties":{"a":"40.348604","cty":"PERRY","id":8838217,"mun":"TYRONE TWP","nc":1,"o":"-77.298908"},"type":"Feature"}
 ]}
