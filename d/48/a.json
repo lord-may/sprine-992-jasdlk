@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-72.098112,41.548539],"type":"Point"},"properties":{"ADDRESS":"46 WEST TOWN ST BSMT, NORWICH, CT, 06360","CUSTOMER_COUNT":27,"DEVICE_OID":18939,"FACILITY_ID":"6369","FEEDER_ID":"C79","GDB_GEOMATTR_DATA":"","ID":45228,"INCIDENT_ID":50415,"OBJECTID":7897,"ORIG_FID":null,"REGION":3,"RxOID":18939,"TIME_OUTAGE":"11/17/2026 10:08 AM","TIME_RESTORED_EST":"Is still under review"},"type":"Feature"}
+
 ]}
