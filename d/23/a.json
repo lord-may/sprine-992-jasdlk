@@ -1,8 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.701706,41.632688],"type":"Point"},"properties":{"a":"41.632688","cty":"LACKAWANNA","id":8838766,"mun":"BENTON TWP","nc":1,"o":"-75.701706"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.391381,40.652511],"type":"Point"},"properties":{"a":"40.652511","cty":"NORTHAMPTON","id":8838804,"mun":"HANOVER TWP","nc":4,"o":"-75.391381"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.294978,41.268978],"type":"Point"},"properties":{"a":"41.268978","cty":"PIKE","id":8838937,"mun":"GREENE TWP","nc":1,"o":"-75.294978"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.069542,41.247576],"type":"Point"},"properties":{"a":"41.247576","cty":"PIKE","id":8838940,"mun":"PORTER TWP","nc":1,"o":"-75.069542"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.149334,41.578479],"type":"Point"},"properties":{"a":"41.578479","cty":"WAYNE","id":8838941,"mun":"BERLIN TWP","nc":1,"o":"-75.149334"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.554211,41.625851],"type":"Point"},"properties":{"a":"41.625851","cty":"LACKAWANNA","id":8838953,"mun":"GREENFIELD TWP","nc":2,"o":"-75.554211"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.387911,40.608914],"type":"Point"},"properties":{"a":"40.608914","cty":"NORTHAMPTON","id":8838958,"mun":"BETHLEHEM","nc":1,"o":"-75.387911"},"type":"Feature"},
@@ -13,5 +11,6 @@
 {"geometry":{"coordinates":[-75.096656,41.383225],"type":"Point"},"properties":{"a":"41.383225","cty":"PIKE","id":8838981,"mun":"BLOOMING GROVE TWP","nc":2,"o":"-75.096656"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.387911,40.608914],"type":"Point"},"properties":{"a":"40.608914","cty":"NORTHAMPTON","id":8838986,"mun":"BETHLEHEM","nc":1,"o":"-75.387911"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.953529,40.238703],"type":"Point"},"properties":{"a":"40.238703","cty":"CUMBERLAND","id":8838996,"mun":"HAMPDEN TWP","nc":9,"o":"-76.953529"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.26049,41.36527],"type":"Point"},"properties":{"a":"41.36527","cty":"PIKE","hp":true,"id":8839001,"mun":"PALMYRA TWP","nc":287,"ne":{"a":"41.37056","o":"-75.25101"},"o":"-75.26049","sw":{"a":"41.35998","o":"-75.26997"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.26049,41.36527],"type":"Point"},"properties":{"a":"41.36527","cty":"PIKE","hp":true,"id":8839001,"mun":"PALMYRA TWP","nc":287,"ne":{"a":"41.37056","o":"-75.25101"},"o":"-75.26049","sw":{"a":"41.35998","o":"-75.26997"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.17978,41.42821],"type":"Point"},"properties":{"a":"41.42821","cty":"PIKE","hp":true,"id":8839008,"mun":"PALMYRA TWP","nc":56,"ne":{"a":"41.42997","o":"-75.1788"},"o":"-75.17978","sw":{"a":"41.42645","o":"-75.18077"}},"type":"Feature"}
 ]}
