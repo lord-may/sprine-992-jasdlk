@@ -3,5 +3,5 @@
 {"geometry":{"coordinates":[-73.00654,41.56187],"type":"Point"},"properties":{"cluster":false,"cust_a":{"masked":true,"val":4},"etr":"2026-11-17T10:15:00-0500","inc_id":"W6142930-0","start":"2026-11-17T02:59:25-0500","title":"Outage Information"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.84834,41.74408],"type":"Point"},"properties":{"cause":"EQUP","cluster":false,"cust_a":{"masked":true,"val":4},"etr":"2026-11-17T07:15:00-0500","inc_id":"E1547245-0","start":"2026-11-17T05:28:43-0500","title":"Outage Information"},"type":"Feature"},
 {"geometry":{"coordinates":[-72.06298,41.95301],"type":"Point"},"properties":{"cluster":false,"cust_a":{"masked":true,"val":4},"etr":"2026-11-17T09:45:00-0500","inc_id":"W6142933-0","start":"2026-11-17T06:09:11-0500","title":"Outage Information"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.48538,43.56812],"type":"Point"},"properties":{"cluster":false,"cust_a":{"masked":true,"val":4},"etr":"2026-11-17T08:15:00-0500","inc_id":"W6142934-0","start":"2026-11-17T06:21:08-0500","title":"Outage Information"},"type":"Feature"}
+{"geometry":{"coordinates":[-72.54978,41.77353],"type":"Point"},"properties":{"cluster":false,"cust_a":{"masked":true,"val":4},"etr":"2026-11-17T10:15:00-0500","inc_id":"W6142936-0","start":"2026-11-17T06:30:14-0500","title":"Outage Information"},"type":"Feature"}
 ]}
