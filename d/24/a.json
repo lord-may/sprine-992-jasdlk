@@ -1,17 +1,9 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.279523,41.696956],"type":"Point"},"properties":{"a":"41.696956","cty":"BRISTOL","id":20261072527,"mun":"BRISTOL","nc":1,"o":"-71.279523"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.417384,41.802948],"type":"Point"},"properties":{"a":"41.802948","cty":"PROVIDENCE","id":20261072531,"mun":"PROVIDENCE","nc":1,"o":"-71.417384"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.510469,41.993305],"type":"Point"},"properties":{"a":"41.993305","cty":"PROVIDENCE","id":20261072532,"mun":"WOONSOCKET","nc":1,"o":"-71.510469"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.434311,41.810981],"type":"Point"},"properties":{"a":"41.810981","cty":"PROVIDENCE","id":20261072534,"mun":"PROVIDENCE","nc":1,"o":"-71.434311"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.445571,41.475935],"type":"Point"},"properties":{"a":"41.475935","cty":"WASHINGTON","id":20261072540,"mun":"NARRAGANSETT","nc":1,"o":"-71.445571"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.474501,41.790238],"type":"Point"},"properties":{"a":"41.790238","cty":"PROVIDENCE","id":20261072541,"mun":"CRANSTON","nc":1,"o":"-71.474501"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.450246,41.873396],"type":"Point"},"properties":{"a":"41.873396","cty":"PROVIDENCE","id":20261072542,"mun":"NORTH PROVIDENCE","nc":3,"o":"-71.450246"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.538525,42.014545],"type":"Point"},"properties":{"a":"42.014545","cty":"PROVIDENCE","id":20261072543,"mun":"NORTH SMITHFIELD","nc":1,"o":"-71.538525"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.40128,41.819971],"type":"Point"},"properties":{"a":"41.819971","cty":"PROVIDENCE","id":20261072545,"mun":"PROVIDENCE","nc":1,"o":"-71.40128"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.514574,41.996537],"type":"Point"},"properties":{"a":"41.996537","cty":"PROVIDENCE","id":20261072552,"mun":"WOONSOCKET","nc":1,"o":"-71.514574"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.638024,41.836126],"type":"Point"},"properties":{"a":"41.836126","cty":"PROVIDENCE","id":20261072553,"mun":"SCITUATE","nc":1,"o":"-71.638024"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.340232,41.889864],"type":"Point"},"properties":{"a":"41.889864","cty":"PROVIDENCE","id":20261072556,"mun":"PAWTUCKET","nc":1,"o":"-71.340232"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.281283,41.722247],"type":"Point"},"properties":{"a":"41.722247","cty":"BRISTOL","id":20261072558,"mun":"WARREN","nc":1,"o":"-71.281283"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.411064,41.828594],"type":"Point"},"properties":{"a":"41.828594","cty":"PROVIDENCE","id":20261072559,"mun":"PROVIDENCE","nc":1,"o":"-71.411064"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.448896,41.812876],"type":"Point"},"properties":{"a":"41.812876","cty":"PROVIDENCE","id":20261072561,"mun":"PROVIDENCE","nc":1,"o":"-71.448896"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.448896,41.812876],"type":"Point"},"properties":{"a":"41.812876","cty":"PROVIDENCE","id":20261072561,"mun":"PROVIDENCE","nc":1,"o":"-71.448896"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.409311,41.800171],"type":"Point"},"properties":{"a":"41.800171","cty":"PROVIDENCE","id":20261072562,"mun":"PROVIDENCE","nc":1,"o":"-71.409311"},"type":"Feature"}
 ]}

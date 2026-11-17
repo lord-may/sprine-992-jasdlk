@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.84206,44.284575],"type":"Point"},"properties":{"EstRest":"11/17/2026 5:15:00 PM","Outages":2,"cause":"","county":"KENNEBEC","crewstatus":"ONST ","customers":35,"hamlet":"HALLOWELL","incidentnumber":"0047D8","incidents":1,"level":"street","opco":"CMP","street":"OUTLET RD","town":"HALLOWELL"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.84206,44.284575],"type":"Point"},"properties":{"EstRest":"11/17/2026 5:15:00 PM","Outages":2,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+
 ]}
