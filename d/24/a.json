@@ -7,11 +7,7 @@
 {"geometry":{"coordinates":[-71.399128,41.945342],"type":"Point"},"properties":{"a":"41.945342","cty":"PROVIDENCE","id":20261072474,"mun":"CUMBERLAND","nc":1,"o":"-71.399128"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.409311,41.800171],"type":"Point"},"properties":{"a":"41.800171","cty":"PROVIDENCE","id":20261072476,"mun":"PROVIDENCE","nc":1,"o":"-71.409311"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.586484,41.864273],"type":"Point"},"properties":{"a":"41.864273","cty":"PROVIDENCE","id":20261072480,"mun":"GLOCESTER","nc":1,"o":"-71.586484"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.427843,41.846943],"type":"Point"},"properties":{"a":"41.846943","cty":"PROVIDENCE","id":20261072481,"mun":"PROVIDENCE","nc":1,"o":"-71.427843"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.805669,41.403285],"type":"Point"},"properties":{"a":"41.403285","cty":"WASHINGTON","id":20261072482,"mun":"WESTERLY","nc":1,"o":"-71.805669"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.429507,41.484024],"type":"Point"},"properties":{"a":"41.484024","cty":"WASHINGTON","id":20261072483,"mun":"NARRAGANSETT","nc":1,"o":"-71.429507"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.455811,41.687497],"type":"Point"},"properties":{"a":"41.687497","cty":"KENT","id":20261072484,"mun":"WARWICK","nc":1,"o":"-71.455811"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.309013,41.456292],"type":"Point"},"properties":{"a":"41.456292","cty":"NEWPORT","id":20261072485,"mun":"NEWPORT","nc":1,"o":"-71.309013"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.42618,41.788188],"type":"Point"},"properties":{"a":"41.788188","cty":"PROVIDENCE","id":20261072487,"mun":"PROVIDENCE","nc":1,"o":"-71.42618"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.426509,41.746263],"type":"Point"},"properties":{"a":"41.746263","cty":"KENT","id":20261072488,"mun":"WARWICK","nc":1,"o":"-71.426509"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.426509,41.746263],"type":"Point"},"properties":{"a":"41.746263","cty":"KENT","id":20261072488,"mun":"WARWICK","nc":1,"o":"-71.426509"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.397063,41.873013],"type":"Point"},"properties":{"a":"41.873013","cty":"PROVIDENCE","id":20261072489,"mun":"PAWTUCKET","nc":1,"o":"-71.397063"},"type":"Feature"}
 ]}
