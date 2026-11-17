@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-76.506531,43.168246],"type":"Point"},"properties":{"EstRest":"11/16/2026 11:15:00 PM","Outages":1,"cause":"","county":"CAYUGA","crewstatus":"     ","customers":5,"hamlet":"CATO","incidentnumber":"011FFS","incidents":1,"level":"street","opco":"RGE","street":"SOUTHARD RD","town":"CATO"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.506531,43.168246],"type":"Point"},"properties":{"EstRest":"11/16/2026 11:15:00 PM","Outages":1,"county":"CAYUGA","customers":6132,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.56438,43.114021],"type":"Point"},"properties":{"EstRest":"","Outages":168,"county":"MONROE","customers":303529,"incidents":3,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
