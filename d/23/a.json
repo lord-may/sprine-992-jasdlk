@@ -1,13 +1,12 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.701706,41.632688],"type":"Point"},"properties":{"a":"41.632688","cty":"LACKAWANNA","id":8838766,"mun":"BENTON TWP","nc":1,"o":"-75.701706"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.294978,41.268978],"type":"Point"},"properties":{"a":"41.268978","cty":"PIKE","id":8838937,"mun":"GREENE TWP","nc":1,"o":"-75.294978"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.149334,41.578479],"type":"Point"},"properties":{"a":"41.578479","cty":"WAYNE","id":8838941,"mun":"BERLIN TWP","nc":1,"o":"-75.149334"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.554211,41.625851],"type":"Point"},"properties":{"a":"41.625851","cty":"LACKAWANNA","id":8838953,"mun":"GREENFIELD TWP","nc":2,"o":"-75.554211"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.410663,40.631153],"type":"Point"},"properties":{"a":"40.631153","cty":"LEHIGH","id":8838968,"mun":"BETHLEHEM","nc":8,"o":"-75.410663"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.684577,40.758983],"type":"Point"},"properties":{"a":"40.758983","cty":"LEHIGH","id":8838970,"mun":"WASHINGTON TWP","nc":1,"o":"-75.684577"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.953529,40.238703],"type":"Point"},"properties":{"a":"40.238703","cty":"CUMBERLAND","id":8838996,"mun":"HAMPDEN TWP","nc":9,"o":"-76.953529"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.17978,41.42821],"type":"Point"},"properties":{"a":"41.42821","cty":"PIKE","hp":true,"id":8839008,"mun":"PALMYRA TWP","nc":56,"ne":{"a":"41.42997","o":"-75.1788"},"o":"-75.17978","sw":{"a":"41.42645","o":"-75.18077"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.35138,40.431822],"type":"Point"},"properties":{"a":"40.431822","cty":"BUCKS","id":8839010,"mun":"QUAKERTOWN BORO","nc":2,"o":"-75.35138"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.261861,41.367315],"type":"Point"},"properties":{"a":"41.367315","cty":"PIKE","id":8839012,"mun":"PALMYRA TWP","nc":2,"o":"-75.261861"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.264657,41.368267],"type":"Point"},"properties":{"a":"41.368267","cty":"PIKE","id":8839013,"mun":"PALMYRA TWP","nc":2,"o":"-75.264657"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.264657,41.368267],"type":"Point"},"properties":{"a":"41.368267","cty":"PIKE","id":8839013,"mun":"PALMYRA TWP","nc":2,"o":"-75.264657"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.014759,40.321233],"type":"Point"},"properties":{"a":"40.321233","cty":"BERKS","id":8839014,"mun":"SINKING SPRING BORO","nc":1,"o":"-76.014759"},"type":"Feature"}
 ]}
