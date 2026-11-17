@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-80.20643,40.47383],"type":"Point"},"properties":{"additionalProperties":[{"property":"jobNumber","value":"Job.26.11.17.00153"},{"property":"zips","value":["15108"]},{"property":"counties","value":["ALLEGHENY"]},{"property":"municipalities","value":["CORAOPOLIS"]}],"cause":"Under Investigation","etrTime":1794961800000,"id":2251548,"identifier":"Job.26.11.17.00153_6afcc9487924e36ccf35af6c","lastUpdatedTime":1794952227000,"latitude":40.47383,"longitude":-80.20643,"numPeople":1,"startTime":1794951494000,"status":"Crew Assigned","title":"Outage"},"type":"Feature"}
 ]}
