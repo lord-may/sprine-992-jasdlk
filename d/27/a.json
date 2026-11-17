@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-75.896359,41.924583],[-75.893259,41.933398],[-75.92859,41.949408],[-75.929596,41.949288],[-75.929749,41.948292],[-75.929084,41.945406],[-75.921197,41.927256],[-75.896359,41.924583]]],"type":"Polygon"},{"coordinates":[-75.91234,41.934915],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"CONSTRUCTION","comment":"CREW ONSITE","estimateTime":1794945600000,"id":"366182","nbrOut":72,"planned":true,"timeOff":1794938440000},"type":"Feature"}
+
 ]}

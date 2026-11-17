@@ -10,12 +10,11 @@
 {"geometry":{"coordinates":[-71.417384,41.802948],"type":"Point"},"properties":{"a":"41.802948","cty":"PROVIDENCE","id":20261072531,"mun":"PROVIDENCE","nc":1,"o":"-71.417384"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.510469,41.993305],"type":"Point"},"properties":{"a":"41.993305","cty":"PROVIDENCE","id":20261072532,"mun":"WOONSOCKET","nc":1,"o":"-71.510469"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.434311,41.810981],"type":"Point"},"properties":{"a":"41.810981","cty":"PROVIDENCE","id":20261072534,"mun":"PROVIDENCE","nc":1,"o":"-71.434311"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.281283,41.722247],"type":"Point"},"properties":{"a":"41.722247","cty":"BRISTOL","id":20261072536,"mun":"WARREN","nc":1,"o":"-71.281283"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.445571,41.475935],"type":"Point"},"properties":{"a":"41.475935","cty":"WASHINGTON","id":20261072540,"mun":"NARRAGANSETT","nc":1,"o":"-71.445571"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.474501,41.790238],"type":"Point"},"properties":{"a":"41.790238","cty":"PROVIDENCE","id":20261072541,"mun":"CRANSTON","nc":1,"o":"-71.474501"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.450246,41.873396],"type":"Point"},"properties":{"a":"41.873396","cty":"PROVIDENCE","id":20261072542,"mun":"NORTH PROVIDENCE","nc":3,"o":"-71.450246"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.538525,42.014545],"type":"Point"},"properties":{"a":"42.014545","cty":"PROVIDENCE","id":20261072543,"mun":"NORTH SMITHFIELD","nc":1,"o":"-71.538525"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.297989,41.517522],"type":"Point"},"properties":{"a":"41.517522","cty":"NEWPORT","id":20261072544,"mun":"MIDDLETOWN","nc":1,"o":"-71.297989"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.40128,41.819971],"type":"Point"},"properties":{"a":"41.819971","cty":"PROVIDENCE","id":20261072545,"mun":"PROVIDENCE","nc":1,"o":"-71.40128"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.534081,41.530969],"type":"Point"},"properties":{"a":"41.530969","cty":"WASHINGTON","id":20261072546,"mun":"EXETER","nc":1,"o":"-71.534081"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.448716,41.826166],"type":"Point"},"properties":{"a":"41.826166","cty":"PROVIDENCE","id":20261072549,"mun":"PROVIDENCE","nc":1,"o":"-71.448716"},"type":"Feature"}
 ]}
