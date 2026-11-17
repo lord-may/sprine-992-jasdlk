@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-73.92509,41.05681],[-73.92486,41.05856],[-73.92654,41.06968],[-73.92672,41.06998],[-73.92722,41.07034],[-73.92707,41.06529],[-73.92509,41.05681]]],"type":"Polygon"},{"coordinates":[-73.92616,41.06407],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Under Investigation","cluster":false,"cust_a":{"val":35},"etr":"2026-11-17T08:38:52-0500","inc_id":"563472","title":"Outage Information"},"type":"Feature"}
 ]}
