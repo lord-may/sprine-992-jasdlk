@@ -5,5 +5,5 @@
 {"geometry":{"coordinates":[-76.933038,40.579952],"type":"Point"},"properties":{"a":"40.579952","cty":"DAUPHIN","id":8838603,"mun":"UPPER PAXTON TWP","nc":3,"o":"-76.933038"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.932869,40.580001],"type":"Point"},"properties":{"a":"40.580001","cty":"DAUPHIN","id":8838605,"mun":"UPPER PAXTON TWP","nc":2,"o":"-76.932869"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.635795,40.75814],"type":"Point"},"properties":{"a":"40.75814","cty":"LEHIGH","id":8838611,"mun":"WASHINGTON TWP","nc":2,"o":"-75.635795"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.975877,40.958965],"type":"Point"},"properties":{"a":"40.958965","cty":"LUZERNE","id":8838613,"mun":"HAZLETON","nc":17,"o":"-75.975877"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.933565,40.346119],"type":"Point"},"properties":{"a":"40.346119","cty":"PERRY","id":8838616,"mun":"MARYSVILLE BORO","nc":5,"o":"-76.933565"},"type":"Feature"}
 ]}
