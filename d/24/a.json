@@ -11,5 +11,7 @@
 {"geometry":{"coordinates":[-71.805669,41.403285],"type":"Point"},"properties":{"a":"41.403285","cty":"WASHINGTON","id":20261072482,"mun":"WESTERLY","nc":1,"o":"-71.805669"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.429507,41.484024],"type":"Point"},"properties":{"a":"41.484024","cty":"WASHINGTON","id":20261072483,"mun":"NARRAGANSETT","nc":1,"o":"-71.429507"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.455811,41.687497],"type":"Point"},"properties":{"a":"41.687497","cty":"KENT","id":20261072484,"mun":"WARWICK","nc":1,"o":"-71.455811"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.309013,41.456292],"type":"Point"},"properties":{"a":"41.456292","cty":"NEWPORT","id":20261072485,"mun":"NEWPORT","nc":1,"o":"-71.309013"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.309013,41.456292],"type":"Point"},"properties":{"a":"41.456292","cty":"NEWPORT","id":20261072485,"mun":"NEWPORT","nc":1,"o":"-71.309013"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.42618,41.788188],"type":"Point"},"properties":{"a":"41.788188","cty":"PROVIDENCE","id":20261072487,"mun":"PROVIDENCE","nc":1,"o":"-71.42618"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.426509,41.746263],"type":"Point"},"properties":{"a":"41.746263","cty":"KENT","id":20261072488,"mun":"WARWICK","nc":1,"o":"-71.426509"},"type":"Feature"}
 ]}
