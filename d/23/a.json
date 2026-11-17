@@ -1,3 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.640671,40.850607],"type":"Point"},"properties":{"a":"40.850607","cty":"CARBON","id":8838667,"mun":"FRANKLIN TWP","nc":1,"o":"-75.640671"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.640671,40.850607],"type":"Point"},"properties":{"a":"40.850607","cty":"CARBON","id":8838667,"mun":"FRANKLIN TWP","nc":1,"o":"-75.640671"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.564789,40.787849],"type":"Point"},"properties":{"a":"40.787849","cty":"NORTHUMBERLAND","id":8838673,"mun":"COAL TWP","nc":13,"o":"-76.564789"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.979554,40.2047],"type":"Point"},"properties":{"a":"40.2047","cty":"CUMBERLAND","id":8838675,"mun":"UPPER ALLEN TWP","nc":12,"o":"-76.979554"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.979859,40.967219],"type":"Point"},"properties":{"a":"40.967219","cty":"LUZERNE","id":8838676,"mun":"HAZLETON","nc":16,"o":"-75.979859"},"type":"Feature"}
 ]}
