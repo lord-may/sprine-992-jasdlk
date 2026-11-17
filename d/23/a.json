@@ -7,5 +7,8 @@
 {"geometry":{"coordinates":[-76.142128,40.812122],"type":"Point"},"properties":{"a":"40.812122","cty":"SCHUYLKILL","id":8838683,"mun":"MAHANOY TWP","nc":128,"o":"-76.142128"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.238635,40.029713],"type":"Point"},"properties":{"a":"40.029713","cty":"LANCASTER","id":8838685,"mun":"EAST LAMPETER TWP","nc":2,"o":"-76.238635"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.257233,41.576677],"type":"Point"},"properties":{"a":"41.576677","cty":"WAYNE","id":8838689,"mun":"HONESDALE BORO","nc":9,"o":"-75.257233"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.517335,41.565494],"type":"Point"},"properties":{"a":"41.565494","cty":"LACKAWANNA","id":8838690,"mun":"CARBONDALE","nc":6,"o":"-75.517335"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.349211,40.608608],"type":"Point"},"properties":{"a":"40.608608","cty":"NORTHAMPTON","id":8838691,"mun":"BETHLEHEM","nc":14,"o":"-75.349211"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.54815,40.881191],"type":"Point"},"properties":{"a":"40.881191","cty":"NORTHUMBERLAND","id":8838693,"mun":"RALPHO TWP","nc":2,"o":"-76.54815"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.468051,41.249089],"type":"Point"},"properties":{"a":"41.249089","cty":"LACKAWANNA","id":8838695,"mun":"CLIFTON TWP","nc":5,"o":"-75.468051"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.431391,40.06325],"type":"Point"},"properties":{"a":"40.06325","cty":"LANCASTER","id":8838697,"mun":"WEST HEMPFIELD TWP","nc":4,"o":"-76.431391"},"type":"Feature"}
 ]}
