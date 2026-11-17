@@ -4,7 +4,6 @@
 {"geometry":{"coordinates":[-75.391381,40.652511],"type":"Point"},"properties":{"a":"40.652511","cty":"NORTHAMPTON","id":8838804,"mun":"HANOVER TWP","nc":4,"o":"-75.391381"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.77364,41.07413],"type":"Point"},"properties":{"a":"41.07413","cty":"LUZERNE","hp":true,"id":8838877,"mun":"DENNISON TWP","nc":6,"ne":{"a":"41.07505","o":"-75.77356"},"o":"-75.77364","sw":{"a":"41.07321","o":"-75.77371"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.58576,40.73069],"type":"Point"},"properties":{"a":"40.73069","cty":"LEHIGH","hp":true,"id":8838895,"mun":"WASHINGTON TWP","nc":90,"ne":{"a":"40.7378","o":"-75.57012"},"o":"-75.58576","sw":{"a":"40.72357","o":"-75.6014"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.326071,41.00082],"type":"Point"},"properties":{"a":"41.00082","cty":"MONROE","id":8838923,"mun":"JACKSON TWP","nc":2,"o":"-75.326071"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.103784,41.04391],"type":"Point"},"properties":{"a":"41.04391","cty":"LUZERNE","id":8838930,"mun":"HOLLENBACK TWP","nc":2,"o":"-76.103784"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.2436,40.431973],"type":"Point"},"properties":{"a":"40.431973","cty":"PERRY","id":8838934,"mun":"CENTRE TWP","nc":1,"o":"-77.2436"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.34401,41.36429],"type":"Point"},"properties":{"a":"41.36429","cty":"PIKE","id":8838936,"mun":"GREENE TWP","nc":1,"o":"-75.34401"},"type":"Feature"},
@@ -22,5 +21,6 @@
 {"geometry":{"coordinates":[-76.30195,40.298427],"type":"Point"},"properties":{"a":"40.298427","cty":"LEBANON","id":8838961,"mun":"HEIDELBERG TWP","nc":14,"o":"-76.30195"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.683405,41.407681],"type":"Point"},"properties":{"a":"41.407681","cty":"LACKAWANNA","id":8838963,"mun":"SCRANTON","nc":1,"o":"-75.683405"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.354828,40.094431],"type":"Point"},"properties":{"a":"40.094431","cty":"LANCASTER","id":8838964,"mun":"EAST HEMPFIELD TWP","nc":5,"o":"-76.354828"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.410663,40.631153],"type":"Point"},"properties":{"a":"40.631153","cty":"LEHIGH","id":8838968,"mun":"BETHLEHEM","nc":8,"o":"-75.410663"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.410663,40.631153],"type":"Point"},"properties":{"a":"40.631153","cty":"LEHIGH","id":8838968,"mun":"BETHLEHEM","nc":8,"o":"-75.410663"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.684577,40.758983],"type":"Point"},"properties":{"a":"40.758983","cty":"LEHIGH","id":8838970,"mun":"WASHINGTON TWP","nc":1,"o":"-75.684577"},"type":"Feature"}
 ]}
