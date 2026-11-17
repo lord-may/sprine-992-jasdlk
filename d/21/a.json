@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.864707,43.750422],"type":"Point"},"properties":{"EstRest":"11/17/2026 7:45:00 AM","Outages":1,"cause":"","county":"SAGADAHOC","crewstatus":"     ","customers":2,"hamlet":"PHIPPSBURG","incidentnumber":"0047AS","incidents":1,"level":"street","opco":"CMP","street":"FARAWAY LN","town":"PHIPPSBURG"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.864707,43.750422],"type":"Point"},"properties":{"EstRest":"11/17/2026 7:45:00 AM","Outages":1,"county":"SAGADAHOC","customers":23026,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.864807,43.750365],"type":"Point"},"properties":{"EstRest":"11/17/2026 8:00:00 AM","Outages":2,"cause":"","county":"SAGADAHOC","crewstatus":"     ","customers":2,"hamlet":"PHIPPSBURG","incidentnumber":"0047AT","incidents":1,"level":"street","opco":"CMP","street":"FARAWAY LN","town":"PHIPPSBURG"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.864807,43.750365],"type":"Point"},"properties":{"EstRest":"11/17/2026 8:00:00 AM","Outages":2,"county":"SAGADAHOC","customers":23026,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
