@@ -3,5 +3,7 @@
 {"geometry":{"coordinates":[-71.320943,41.494613],"type":"Point"},"properties":{"a":"41.494613","cty":"NEWPORT","id":20261072464,"mun":"NEWPORT","nc":1,"o":"-71.320943"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.421756,41.79539],"type":"Point"},"properties":{"a":"41.79539","cty":"PROVIDENCE","id":20261072465,"mun":"PROVIDENCE","nc":1,"o":"-71.421756"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.441873,41.769353],"type":"Point"},"properties":{"a":"41.769353","cty":"PROVIDENCE","id":20261072470,"mun":"CRANSTON","nc":1,"o":"-71.441873"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.43273,41.866225],"type":"Point"},"properties":{"a":"41.866225","cty":"PROVIDENCE","id":20261072471,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.43273"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.43273,41.866225],"type":"Point"},"properties":{"a":"41.866225","cty":"PROVIDENCE","id":20261072471,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.43273"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.399128,41.945342],"type":"Point"},"properties":{"a":"41.945342","cty":"PROVIDENCE","id":20261072474,"mun":"CUMBERLAND","nc":1,"o":"-71.399128"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.248477,41.52543],"type":"Point"},"properties":{"a":"41.52543","cty":"NEWPORT","id":20261072475,"mun":"MIDDLETOWN","nc":1,"o":"-71.248477"},"type":"Feature"}
 ]}
