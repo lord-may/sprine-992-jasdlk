@@ -6,13 +6,11 @@
 {"geometry":{"coordinates":[-75.701706,41.632688],"type":"Point"},"properties":{"a":"41.632688","cty":"LACKAWANNA","id":8838766,"mun":"BENTON TWP","nc":1,"o":"-75.701706"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.285797,39.960441],"type":"Point"},"properties":{"a":"39.960441","cty":"LANCASTER","id":8838770,"mun":"PEQUEA TWP","nc":2,"o":"-76.285797"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.592476,40.758377],"type":"Point"},"properties":{"a":"40.758377","cty":"NORTHAMPTON","id":8838776,"mun":"WALNUTPORT BORO","nc":5,"o":"-75.592476"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.21721,40.038827],"type":"Point"},"properties":{"a":"40.038827","cty":"LANCASTER","id":8838785,"mun":"EAST LAMPETER TWP","nc":5,"o":"-76.21721"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.629698,41.442948],"type":"Point"},"properties":{"a":"41.442948","cty":"LACKAWANNA","id":8838791,"mun":"SCRANTON","nc":1,"o":"-75.629698"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.773565,41.073211],"type":"Point"},"properties":{"a":"41.073211","cty":"LUZERNE","id":8838803,"mun":"DENNISON TWP","nc":1,"o":"-75.773565"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.391381,40.652511],"type":"Point"},"properties":{"a":"40.652511","cty":"NORTHAMPTON","id":8838804,"mun":"HANOVER TWP","nc":5,"o":"-75.391381"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.872762,41.234174],"type":"Point"},"properties":{"a":"41.234174","cty":"LUZERNE","id":8838815,"mun":"WILKES-BARRE","nc":1,"o":"-75.872762"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.815801,40.580195],"type":"Point"},"properties":{"a":"40.580195","cty":"DAUPHIN","id":8838837,"mun":"WASHINGTON TWP","nc":1,"o":"-76.815801"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.275979,40.279629],"type":"Point"},"properties":{"a":"40.279629","cty":"LEBANON","id":8838843,"mun":"HEIDELBERG TWP","nc":3,"o":"-76.275979"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.410663,40.631153],"type":"Point"},"properties":{"a":"40.631153","cty":"LEHIGH","id":8838846,"mun":"BETHLEHEM","nc":8,"o":"-75.410663"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.279623,41.555996],"type":"Point"},"properties":{"a":"41.555996","cty":"WAYNE","id":8838851,"mun":"CHERRY RIDGE TWP","nc":1,"o":"-75.279623"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.499789,40.593533],"type":"Point"},"properties":{"a":"40.593533","cty":"LEHIGH","id":8838870,"mun":"ALLENTOWN","nc":6,"o":"-75.499789"},"type":"Feature"},
@@ -23,5 +21,8 @@
 {"geometry":{"coordinates":[-75.58576,40.73069],"type":"Point"},"properties":{"a":"40.73069","cty":"LEHIGH","hp":true,"id":8838895,"mun":"WASHINGTON TWP","nc":90,"ne":{"a":"40.7378","o":"-75.57012"},"o":"-75.58576","sw":{"a":"40.72357","o":"-75.6014"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.78491,40.77696],"type":"Point"},"properties":{"a":"40.77696","cty":"CARBON","hp":true,"id":8838901,"mun":"EAST PENN TWP","nc":8,"ne":{"a":"40.7784","o":"-75.78263"},"o":"-75.78491","sw":{"a":"40.77553","o":"-75.78718"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.152423,40.356086],"type":"Point"},"properties":{"a":"40.356086","cty":"BERKS","id":8838902,"mun":"HEIDELBERG TWP","nc":2,"o":"-76.152423"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.029287,40.677794],"type":"Point"},"properties":{"a":"40.677794","cty":"SCHUYLKILL","id":8838910,"mun":"EAST BRUNSWICK TWP","nc":1,"o":"-76.029287"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.029287,40.677794],"type":"Point"},"properties":{"a":"40.677794","cty":"SCHUYLKILL","id":8838910,"mun":"EAST BRUNSWICK TWP","nc":1,"o":"-76.029287"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.644532,40.64793],"type":"Point"},"properties":{"a":"40.64793","cty":"LEHIGH","id":8838912,"mun":"LOWHILL TWP","nc":5,"o":"-75.644532"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.32544,41.60315],"type":"Point"},"properties":{"a":"41.60315","cty":"WAYNE","hp":true,"id":8838913,"mun":"TEXAS TWP","nc":284,"ne":{"a":"41.63021","o":"-75.30149"},"o":"-75.32544","sw":{"a":"41.57609","o":"-75.34938"}},"type":"Feature"},
+{"geometry":{"coordinates":[-77.002218,40.264086],"type":"Point"},"properties":{"a":"40.264086","cty":"CUMBERLAND","id":8838917,"mun":"HAMPDEN TWP","nc":4,"o":"-77.002218"},"type":"Feature"}
 ]}
