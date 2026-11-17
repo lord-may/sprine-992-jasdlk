@@ -1,7 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.701706,41.632688],"type":"Point"},"properties":{"a":"41.632688","cty":"LACKAWANNA","id":8838766,"mun":"BENTON TWP","nc":1,"o":"-75.701706"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.391381,40.652511],"type":"Point"},"properties":{"a":"40.652511","cty":"NORTHAMPTON","id":8838804,"mun":"HANOVER TWP","nc":4,"o":"-75.391381"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.34401,41.36429],"type":"Point"},"properties":{"a":"41.36429","cty":"PIKE","id":8838936,"mun":"GREENE TWP","nc":1,"o":"-75.34401"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.294978,41.268978],"type":"Point"},"properties":{"a":"41.268978","cty":"PIKE","id":8838937,"mun":"GREENE TWP","nc":1,"o":"-75.294978"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.608318,40.700356],"type":"Point"},"properties":{"a":"40.700356","cty":"NORTHUMBERLAND","id":8838938,"mun":"UPPER MAHANOY TWP","nc":1,"o":"-76.608318"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.069542,41.247576],"type":"Point"},"properties":{"a":"41.247576","cty":"PIKE","id":8838940,"mun":"PORTER TWP","nc":1,"o":"-75.069542"},"type":"Feature"},
@@ -17,6 +16,6 @@
 {"geometry":{"coordinates":[-75.096656,41.383225],"type":"Point"},"properties":{"a":"41.383225","cty":"PIKE","id":8838981,"mun":"BLOOMING GROVE TWP","nc":2,"o":"-75.096656"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.387911,40.608914],"type":"Point"},"properties":{"a":"40.608914","cty":"NORTHAMPTON","id":8838986,"mun":"BETHLEHEM","nc":1,"o":"-75.387911"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.831794,40.271847],"type":"Point"},"properties":{"a":"40.271847","cty":"DAUPHIN","id":8838989,"mun":"SUSQUEHANNA TWP","nc":1,"o":"-76.831794"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.383274,41.202082],"type":"Point"},"properties":{"a":"41.202082","cty":"MONROE","id":8838990,"mun":"COOLBAUGH TWP","nc":3,"o":"-75.383274"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.501427,40.954592],"type":"Point"},"properties":{"a":"40.954592","cty":"MONROE","id":8838991,"mun":"POLK TWP","nc":2,"o":"-75.501427"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.782777,40.208819],"type":"Point"},"properties":{"a":"40.208819","cty":"DAUPHIN","id":8838995,"mun":"HIGHSPIRE BORO","nc":1,"o":"-76.782777"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.953529,40.238703],"type":"Point"},"properties":{"a":"40.238703","cty":"CUMBERLAND","id":8838996,"mun":"HAMPDEN TWP","nc":9,"o":"-76.953529"},"type":"Feature"}
 ]}
