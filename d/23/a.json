@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.816771,40.869815],"type":"Point"},"properties":{"a":"40.869815","cty":"CARBON","id":8838506,"mun":"NESQUEHONING BORO","nc":1,"o":"-75.816771"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.636446,40.75657],"type":"Point"},"properties":{"a":"40.75657","cty":"LEHIGH","id":8838611,"mun":"WASHINGTON TWP","nc":3,"o":"-75.636446"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.37201,40.624977],"type":"Point"},"properties":{"a":"40.624977","cty":"NORTHAMPTON","id":8838630,"mun":"BETHLEHEM","nc":29,"o":"-75.37201"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.37201,40.624977],"type":"Point"},"properties":{"a":"40.624977","cty":"NORTHAMPTON","id":8838630,"mun":"BETHLEHEM","nc":29,"o":"-75.37201"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.500747,40.613604],"type":"Point"},"properties":{"a":"40.613604","cty":"LEHIGH","id":8838635,"mun":"ALLENTOWN","nc":12,"o":"-75.500747"},"type":"Feature"}
 ]}
