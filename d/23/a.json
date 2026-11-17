@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.979859,40.967219],"type":"Point"},"properties":{"a":"40.967219","cty":"LUZERNE","id":8838676,"mun":"HAZLETON","nc":16,"o":"-75.979859"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.142128,40.812122],"type":"Point"},"properties":{"a":"40.812122","cty":"SCHUYLKILL","id":8838683,"mun":"MAHANOY TWP","nc":128,"o":"-76.142128"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.468051,41.249089],"type":"Point"},"properties":{"a":"41.249089","cty":"LACKAWANNA","id":8838695,"mun":"CLIFTON TWP","nc":5,"o":"-75.468051"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.249322,39.879059],"type":"Point"},"properties":{"a":"39.879059","cty":"LANCASTER","id":8838714,"mun":"PROVIDENCE TWP","nc":3,"o":"-76.249322"},"type":"Feature"},
@@ -24,7 +23,6 @@
 {"geometry":{"coordinates":[-76.815801,40.580195],"type":"Point"},"properties":{"a":"40.580195","cty":"DAUPHIN","id":8838837,"mun":"WASHINGTON TWP","nc":1,"o":"-76.815801"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.275979,40.279629],"type":"Point"},"properties":{"a":"40.279629","cty":"LEBANON","id":8838843,"mun":"HEIDELBERG TWP","nc":3,"o":"-76.275979"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.410663,40.631153],"type":"Point"},"properties":{"a":"40.631153","cty":"LEHIGH","id":8838846,"mun":"BETHLEHEM","nc":8,"o":"-75.410663"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.198071,40.985239],"type":"Point"},"properties":{"a":"40.985239","cty":"MONROE","id":8838850,"mun":"STROUDSBURG BORO","nc":1,"o":"-75.198071"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.279623,41.555996],"type":"Point"},"properties":{"a":"41.555996","cty":"WAYNE","id":8838851,"mun":"CHERRY RIDGE TWP","nc":1,"o":"-75.279623"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.190747,40.986146],"type":"Point"},"properties":{"a":"40.986146","cty":"MONROE","id":8838864,"mun":"STROUDSBURG BORO","nc":7,"o":"-75.190747"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.191672,40.985164],"type":"Point"},"properties":{"a":"40.985164","cty":"MONROE","id":8838866,"mun":"STROUDSBURG BORO","nc":12,"o":"-75.191672"},"type":"Feature"},
@@ -34,5 +32,6 @@
 {"geometry":{"coordinates":[-75.672767,41.31013],"type":"Point"},"properties":{"a":"41.31013","cty":"LACKAWANNA","id":8838875,"mun":"SPRING BROOK TWP","nc":1,"o":"-75.672767"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.77364,41.07413],"type":"Point"},"properties":{"a":"41.07413","cty":"LUZERNE","hp":true,"id":8838877,"mun":"DENNISON TWP","nc":6,"ne":{"a":"41.07505","o":"-75.77356"},"o":"-75.77364","sw":{"a":"41.07321","o":"-75.77371"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.002853,41.246431],"type":"Point"},"properties":{"a":"41.246431","cty":"LYCOMING","id":8838879,"mun":"WILLIAMSPORT","nc":11,"o":"-77.002853"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.159371,39.948002],"type":"Point"},"properties":{"a":"39.948002","cty":"LANCASTER","id":8838881,"mun":"STRASBURG TWP","nc":2,"o":"-76.159371"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.275352,40.281493],"type":"Point"},"properties":{"a":"40.281493","cty":"LEBANON","id":8838885,"mun":"HEIDELBERG TWP","nc":2,"o":"-76.275352"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.224901,40.859213],"type":"Point"},"properties":{"a":"40.859213","cty":"UNION","id":8838886,"mun":"HARTLEY TWP","nc":3,"o":"-77.224901"},"type":"Feature"}
 ]}
