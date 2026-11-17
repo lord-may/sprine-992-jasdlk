@@ -4,8 +4,6 @@
 {"geometry":{"coordinates":[-76.142128,40.812122],"type":"Point"},"properties":{"a":"40.812122","cty":"SCHUYLKILL","id":8838683,"mun":"MAHANOY TWP","nc":128,"o":"-76.142128"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.257233,41.576677],"type":"Point"},"properties":{"a":"41.576677","cty":"WAYNE","id":8838689,"mun":"HONESDALE BORO","nc":9,"o":"-75.257233"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.468051,41.249089],"type":"Point"},"properties":{"a":"41.249089","cty":"LACKAWANNA","id":8838695,"mun":"CLIFTON TWP","nc":5,"o":"-75.468051"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.431391,40.06325],"type":"Point"},"properties":{"a":"40.06325","cty":"LANCASTER","id":8838697,"mun":"WEST HEMPFIELD TWP","nc":4,"o":"-76.431391"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.135145,41.036872],"type":"Point"},"properties":{"a":"41.036872","cty":"LUZERNE","id":8838703,"mun":"NESCOPECK TWP","nc":1,"o":"-76.135145"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.89791,40.228485],"type":"Point"},"properties":{"a":"40.228485","cty":"CUMBERLAND","id":8838708,"mun":"LOWER ALLEN TWP","nc":1,"o":"-76.89791"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.249322,39.879059],"type":"Point"},"properties":{"a":"39.879059","cty":"LANCASTER","id":8838714,"mun":"PROVIDENCE TWP","nc":3,"o":"-76.249322"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.995465,41.153004],"type":"Point"},"properties":{"a":"41.153004","cty":"LUZERNE","id":8838719,"mun":"SLOCUM TWP","nc":2,"o":"-75.995465"},"type":"Feature"},
@@ -39,8 +37,11 @@
 {"geometry":{"coordinates":[-75.875813,40.824515],"type":"Point"},"properties":{"a":"40.824515","cty":"CARBON","id":8838818,"mun":"SUMMIT HILL BORO","nc":1,"o":"-75.875813"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.668767,40.980359],"type":"Point"},"properties":{"a":"40.980359","cty":"CARBON","id":8838819,"mun":"PENN FOREST TWP","nc":2,"o":"-75.668767"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.997306,41.251497],"type":"Point"},"properties":{"a":"41.251497","cty":"LYCOMING","id":8838824,"mun":"WILLIAMSPORT","nc":12,"o":"-76.997306"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.846392,40.682186],"type":"Point"},"properties":{"a":"40.682186","cty":"NORTHUMBERLAND","id":8838829,"mun":"LOWER MAHANOY TWP","nc":1,"o":"-76.846392"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.86997,40.676805],"type":"Point"},"properties":{"a":"40.676805","cty":"NORTHUMBERLAND","id":8838830,"mun":"LOWER MAHANOY TWP","nc":2,"o":"-76.86997"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.341607,40.095782],"type":"Point"},"properties":{"a":"40.095782","cty":"LANCASTER","id":8838831,"mun":"NA","nc":8,"o":"-76.341607"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.836439,40.949026],"type":"Point"},"properties":{"a":"40.949026","cty":"NORTHUMBERLAND","id":8838834,"mun":"WEST CHILLISQUAQUE TWP","nc":10,"o":"-76.836439"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.815801,40.580195],"type":"Point"},"properties":{"a":"40.580195","cty":"DAUPHIN","id":8838837,"mun":"WASHINGTON TWP","nc":1,"o":"-76.815801"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.870276,40.27445],"type":"Point"},"properties":{"a":"40.27445","cty":"DAUPHIN","id":8838840,"mun":"HARRISBURG","nc":1,"o":"-76.870276"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.190414,40.99523],"type":"Point"},"properties":{"a":"40.99523","cty":"MONROE","id":8838842,"mun":"STROUDSBURG BORO","nc":16,"o":"-75.190414"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.275979,40.279629],"type":"Point"},"properties":{"a":"40.279629","cty":"LEBANON","id":8838843,"mun":"HEIDELBERG TWP","nc":3,"o":"-76.275979"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.995647,40.323682],"type":"Point"},"properties":{"a":"40.323682","cty":"BERKS","id":8838844,"mun":"SPRING TWP","nc":9,"o":"-75.995647"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.410663,40.631153],"type":"Point"},"properties":{"a":"40.631153","cty":"LEHIGH","id":8838846,"mun":"BETHLEHEM","nc":8,"o":"-75.410663"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.834042,40.331183],"type":"Point"},"properties":{"a":"40.331183","cty":"DAUPHIN","id":8838847,"mun":"LOWER PAXTON TWP","nc":11,"o":"-76.834042"},"type":"Feature"}
 ]}
