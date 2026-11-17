@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-79.94934,40.46215],"type":"Point"},"properties":{"additionalProperties":[{"property":"jobNumber","value":"Job.26.11.17.00147"},{"property":"zips","value":["15224"]},{"property":"counties","value":["ALLEGHENY"]},{"property":"municipalities","value":["PITTSBURGH"]}],"cause":"Under Investigation","etrTime":1794952800000,"id":2251499,"identifier":"Job.26.11.17.00147_6afcb2307924e36ccf359f27","lastUpdatedTime":1794945623000,"latitude":40.46215,"longitude":-79.94934,"numPeople":1,"startTime":1794945580000,"status":"Assessment Needed","title":"Outage"},"type":"Feature"}
+
 ]}
