@@ -1,8 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.142128,40.812122],"type":"Point"},"properties":{"a":"40.812122","cty":"SCHUYLKILL","id":8838683,"mun":"MAHANOY TWP","nc":128,"o":"-76.142128"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.701706,41.632688],"type":"Point"},"properties":{"a":"41.632688","cty":"LACKAWANNA","id":8838766,"mun":"BENTON TWP","nc":1,"o":"-75.701706"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.391381,40.652511],"type":"Point"},"properties":{"a":"40.652511","cty":"NORTHAMPTON","id":8838804,"mun":"HANOVER TWP","nc":4,"o":"-75.391381"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.58576,40.73069],"type":"Point"},"properties":{"a":"40.73069","cty":"LEHIGH","hp":true,"id":8838895,"mun":"WASHINGTON TWP","nc":90,"ne":{"a":"40.7378","o":"-75.57012"},"o":"-75.58576","sw":{"a":"40.72357","o":"-75.6014"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.103784,41.04391],"type":"Point"},"properties":{"a":"41.04391","cty":"LUZERNE","id":8838930,"mun":"HOLLENBACK TWP","nc":2,"o":"-76.103784"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.2436,40.431973],"type":"Point"},"properties":{"a":"40.431973","cty":"PERRY","id":8838934,"mun":"CENTRE TWP","nc":1,"o":"-77.2436"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.34401,41.36429],"type":"Point"},"properties":{"a":"41.36429","cty":"PIKE","id":8838936,"mun":"GREENE TWP","nc":1,"o":"-75.34401"},"type":"Feature"},
@@ -18,8 +16,9 @@
 {"geometry":{"coordinates":[-75.387911,40.608914],"type":"Point"},"properties":{"a":"40.608914","cty":"NORTHAMPTON","id":8838958,"mun":"BETHLEHEM","nc":1,"o":"-75.387911"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.112207,40.388636],"type":"Point"},"properties":{"a":"40.388636","cty":"PERRY","id":8838959,"mun":"WHEATFIELD TWP","nc":1,"o":"-77.112207"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.683405,41.407681],"type":"Point"},"properties":{"a":"41.407681","cty":"LACKAWANNA","id":8838963,"mun":"SCRANTON","nc":1,"o":"-75.683405"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.354828,40.094431],"type":"Point"},"properties":{"a":"40.094431","cty":"LANCASTER","id":8838964,"mun":"EAST HEMPFIELD TWP","nc":5,"o":"-76.354828"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.410663,40.631153],"type":"Point"},"properties":{"a":"40.631153","cty":"LEHIGH","id":8838968,"mun":"BETHLEHEM","nc":8,"o":"-75.410663"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.684577,40.758983],"type":"Point"},"properties":{"a":"40.758983","cty":"LEHIGH","id":8838970,"mun":"WASHINGTON TWP","nc":1,"o":"-75.684577"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.577646,41.66991],"type":"Point"},"properties":{"a":"41.66991","cty":"SUSQUEHANNA","id":8838974,"mun":"CLIFFORD TWP","nc":3,"o":"-75.577646"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.577646,41.66991],"type":"Point"},"properties":{"a":"41.66991","cty":"SUSQUEHANNA","id":8838974,"mun":"CLIFFORD TWP","nc":3,"o":"-75.577646"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.24195,40.25604],"type":"Point"},"properties":{"a":"40.25604","cty":"LANCASTER","hp":true,"id":8838978,"mun":"CLAY TWP","nc":38,"ne":{"a":"40.26332","o":"-76.23478"},"o":"-76.24195","sw":{"a":"40.24876","o":"-76.24912"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.096656,41.383225],"type":"Point"},"properties":{"a":"41.383225","cty":"PIKE","id":8838981,"mun":"BLOOMING GROVE TWP","nc":2,"o":"-75.096656"},"type":"Feature"}
 ]}
