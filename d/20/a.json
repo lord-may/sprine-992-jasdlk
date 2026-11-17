@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.597315,43.219596],"type":"Point"},"properties":{"EstRest":"11/17/2026 11:30:00 AM","Outages":81,"county":"MONROE","customers":303529,"incidents":2,"level":"county","opco":"RGE"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.632533,43.105258],"type":"Point"},"properties":{"EstRest":"11/17/2026 11:30:00 AM","Outages":28,"cause":"","county":"MONROE","crewstatus":"     ","customers":28,"hamlet":"ROCHESTER","incidentnumber":"011FI3","incidents":1,"level":"street","opco":"RGE","street":"LANTERN LA","town":"BRIGHTON"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.632533,43.105258],"type":"Point"},"properties":{"EstRest":"11/17/2026 11:30:00 AM","Outages":28,"county":"MONROE","customers":303529,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
