@@ -3,9 +3,6 @@
 {"geometry":{"coordinates":[-71.320943,41.494613],"type":"Point"},"properties":{"a":"41.494613","cty":"NEWPORT","id":20261072464,"mun":"NEWPORT","nc":1,"o":"-71.320943"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.421756,41.79539],"type":"Point"},"properties":{"a":"41.79539","cty":"PROVIDENCE","id":20261072465,"mun":"PROVIDENCE","nc":1,"o":"-71.421756"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.43273,41.866225],"type":"Point"},"properties":{"a":"41.866225","cty":"PROVIDENCE","id":20261072471,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.43273"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.409311,41.800171],"type":"Point"},"properties":{"a":"41.800171","cty":"PROVIDENCE","id":20261072476,"mun":"PROVIDENCE","nc":1,"o":"-71.409311"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.586484,41.864273],"type":"Point"},"properties":{"a":"41.864273","cty":"PROVIDENCE","id":20261072480,"mun":"GLOCESTER","nc":1,"o":"-71.586484"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.426509,41.746263],"type":"Point"},"properties":{"a":"41.746263","cty":"KENT","id":20261072488,"mun":"WARWICK","nc":1,"o":"-71.426509"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.397063,41.873013],"type":"Point"},"properties":{"a":"41.873013","cty":"PROVIDENCE","id":20261072489,"mun":"PAWTUCKET","nc":1,"o":"-71.397063"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.577279,41.834758],"type":"Point"},"properties":{"a":"41.834758","cty":"PROVIDENCE","id":20261072491,"mun":"SCITUATE","nc":1,"o":"-71.577279"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.434311,41.810981],"type":"Point"},"properties":{"a":"41.810981","cty":"PROVIDENCE","id":20261072493,"mun":"PROVIDENCE","nc":1,"o":"-71.434311"},"type":"Feature"},
@@ -16,5 +13,8 @@
 {"geometry":{"coordinates":[-71.401419,41.839756],"type":"Point"},"properties":{"a":"41.839756","cty":"PROVIDENCE","id":20261072499,"mun":"PROVIDENCE","nc":1,"o":"-71.401419"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.562168,42.0078],"type":"Point"},"properties":{"a":"42.0078","cty":"PROVIDENCE","id":20261072500,"mun":"NORTH SMITHFIELD","nc":3,"o":"-71.562168"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.308253,41.49877],"type":"Point"},"properties":{"a":"41.49877","cty":"NEWPORT","id":20261072503,"mun":"NEWPORT","nc":21,"o":"-71.308253"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.547476,41.731706],"type":"Point"},"properties":{"a":"41.731706","cty":"PROVIDENCE","id":20261072504,"mun":"SCITUATE","nc":1,"o":"-71.547476"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.547476,41.731706],"type":"Point"},"properties":{"a":"41.731706","cty":"PROVIDENCE","id":20261072504,"mun":"SCITUATE","nc":1,"o":"-71.547476"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.461683,41.434143],"type":"Point"},"properties":{"a":"41.434143","cty":"WASHINGTON","id":20261072510,"mun":"NARRAGANSETT","nc":1,"o":"-71.461683"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.404473,41.745393],"type":"Point"},"properties":{"a":"41.745393","cty":"KENT","id":20261072511,"mun":"WARWICK","nc":1,"o":"-71.404473"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.534081,41.530969],"type":"Point"},"properties":{"a":"41.530969","cty":"WASHINGTON","id":20261072512,"mun":"EXETER","nc":1,"o":"-71.534081"},"type":"Feature"}
 ]}
