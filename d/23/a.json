@@ -19,5 +19,8 @@
 {"geometry":{"coordinates":[-75.500747,40.613604],"type":"Point"},"properties":{"a":"40.613604","cty":"LEHIGH","id":8838957,"mun":"ALLENTOWN","nc":12,"o":"-75.500747"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.387911,40.608914],"type":"Point"},"properties":{"a":"40.608914","cty":"NORTHAMPTON","id":8838958,"mun":"BETHLEHEM","nc":1,"o":"-75.387911"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.112207,40.388636],"type":"Point"},"properties":{"a":"40.388636","cty":"PERRY","id":8838959,"mun":"WHEATFIELD TWP","nc":1,"o":"-77.112207"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.30195,40.298427],"type":"Point"},"properties":{"a":"40.298427","cty":"LEBANON","id":8838961,"mun":"HEIDELBERG TWP","nc":14,"o":"-76.30195"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.30195,40.298427],"type":"Point"},"properties":{"a":"40.298427","cty":"LEBANON","id":8838961,"mun":"HEIDELBERG TWP","nc":14,"o":"-76.30195"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.683405,41.407681],"type":"Point"},"properties":{"a":"41.407681","cty":"LACKAWANNA","id":8838963,"mun":"SCRANTON","nc":1,"o":"-75.683405"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.354828,40.094431],"type":"Point"},"properties":{"a":"40.094431","cty":"LANCASTER","id":8838964,"mun":"EAST HEMPFIELD TWP","nc":5,"o":"-76.354828"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.410663,40.631153],"type":"Point"},"properties":{"a":"40.631153","cty":"LEHIGH","id":8838968,"mun":"BETHLEHEM","nc":8,"o":"-75.410663"},"type":"Feature"}
 ]}
