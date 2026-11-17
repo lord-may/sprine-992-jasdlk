@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.112177,43.854818],"type":"Point"},"properties":{"EstRest":"11/17/2026 10:30:00 AM","Outages":30,"county":"CUMBERLAND","customers":182407,"incidents":3,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.776711,43.120897],"type":"Point"},"properties":{"EstRest":"11/17/2026 10:45:00 AM","Outages":1,"cause":"","county":"YORK","crewstatus":"DISP ","customers":3,"hamlet":"ELIOT","incidentnumber":"0047BE","incidents":1,"level":"street","opco":"CMP","street":"ASHLEY LN","town":"ELIOT"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.77732,43.118344],"type":"Point"},"properties":{"EstRest":"11/17/2026 10:45:00 AM","Outages":3,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.112177,43.854818],"type":"Point"},"properties":{"EstRest":"11/17/2026 11:15:00 AM","Outages":854,"county":"CUMBERLAND","customers":182407,"incidents":4,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.929443,44.226964],"type":"Point"},"properties":{"EstRest":"11/17/2026 11:15:00 AM","Outages":11,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.937736,44.227123],"type":"Point"},"properties":{"EstRest":"11/17/2026 11:15:00 AM","Outages":6,"cause":"","county":"KENNEBEC","crewstatus":"ENRT ","customers":6,"hamlet":"LITCHFIELD","incidentnumber":"0047BO","incidents":1,"level":"street","opco":"CMP","street":"SLEEPY HOLLOW DR","town":"LITCHFIELD"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.495157,43.671128],"type":"Point"},"properties":{"EstRest":"11/17/2026 11:15:00 AM","Outages":193,"county":"YORK","customers":132723,"incidents":3,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
