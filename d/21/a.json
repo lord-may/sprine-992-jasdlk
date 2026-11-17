@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.482915,43.354372],"type":"Point"},"properties":{"EstRest":"11/17/2026 2:15:00 PM","Outages":1,"cause":"","county":"YORK","crewstatus":"CNCL ","customers":26,"hamlet":"KENNEBUNK","incidentnumber":"0047CJ","incidents":1,"level":"street","opco":"CMP","street":"FAIRFIELD DR","town":"KENNEBUNK"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.482915,43.354372],"type":"Point"},"properties":{"EstRest":"11/17/2026 2:15:00 PM","Outages":1,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+
 ]}

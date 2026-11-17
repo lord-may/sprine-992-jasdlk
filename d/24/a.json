@@ -7,6 +7,7 @@
 {"geometry":{"coordinates":[-71.276917,41.671484],"type":"Point"},"properties":{"a":"41.671484","cty":"BRISTOL","id":20261072495,"mun":"BRISTOL","nc":1,"o":"-71.276917"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.562168,42.0078],"type":"Point"},"properties":{"a":"42.0078","cty":"PROVIDENCE","id":20261072500,"mun":"NORTH SMITHFIELD","nc":3,"o":"-71.562168"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.308253,41.49877],"type":"Point"},"properties":{"a":"41.49877","cty":"NEWPORT","id":20261072503,"mun":"NEWPORT","nc":21,"o":"-71.308253"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.547476,41.731706],"type":"Point"},"properties":{"a":"41.731706","cty":"PROVIDENCE","id":20261072504,"mun":"SCITUATE","nc":1,"o":"-71.547476"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.42593,41.812822],"type":"Point"},"properties":{"a":"41.812822","cty":"PROVIDENCE","id":20261072515,"mun":"PROVIDENCE","nc":1,"o":"-71.42593"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.270511,41.694815],"type":"Point"},"properties":{"a":"41.694815","cty":"BRISTOL","id":20261072517,"mun":"BRISTOL","nc":1,"o":"-71.270511"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.662454,41.652577],"type":"Point"},"properties":{"a":"41.652577","cty":"KENT","id":20261072518,"mun":"WEST GREENWICH","nc":1,"o":"-71.662454"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.56094,42.00644],"type":"Point"},"properties":{"a":"42.00644","cty":"PROVIDENCE","hp":true,"id":20261072519,"mun":"NORTH SMITHFIELD","nc":69,"ne":{"a":"42.01185","o":"-71.5553"},"o":"-71.56094","sw":{"a":"42.00103","o":"-71.56657"}},"type":"Feature"}
 ]}
