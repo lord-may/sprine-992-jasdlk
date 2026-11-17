@@ -3,6 +3,6 @@
 {"geometry":{"coordinates":[-71.638024,41.836126],"type":"Point"},"properties":{"a":"41.836126","cty":"PROVIDENCE","id":20261072553,"mun":"SCITUATE","nc":1,"o":"-71.638024"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.340232,41.889864],"type":"Point"},"properties":{"a":"41.889864","cty":"PROVIDENCE","id":20261072556,"mun":"PAWTUCKET","nc":1,"o":"-71.340232"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.409311,41.800171],"type":"Point"},"properties":{"a":"41.800171","cty":"PROVIDENCE","id":20261072562,"mun":"PROVIDENCE","nc":1,"o":"-71.409311"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.423542,41.82405],"type":"Point"},"properties":{"a":"41.82405","cty":"PROVIDENCE","id":20261072565,"mun":"PROVIDENCE","nc":1,"o":"-71.423542"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.453067,41.829203],"type":"Point"},"properties":{"a":"41.829203","cty":"PROVIDENCE","id":20261072567,"mun":"PROVIDENCE","nc":1,"o":"-71.453067"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.453067,41.829203],"type":"Point"},"properties":{"a":"41.829203","cty":"PROVIDENCE","id":20261072567,"mun":"PROVIDENCE","nc":1,"o":"-71.453067"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.474501,41.790238],"type":"Point"},"properties":{"a":"41.790238","cty":"PROVIDENCE","id":20261072568,"mun":"CRANSTON","nc":1,"o":"-71.474501"},"type":"Feature"}
 ]}

@@ -15,7 +15,6 @@
 {"geometry":{"coordinates":[-76.24195,40.25604],"type":"Point"},"properties":{"a":"40.25604","cty":"LANCASTER","hp":true,"id":8838978,"mun":"CLAY TWP","nc":38,"ne":{"a":"40.26332","o":"-76.23478"},"o":"-76.24195","sw":{"a":"40.24876","o":"-76.24912"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.096656,41.383225],"type":"Point"},"properties":{"a":"41.383225","cty":"PIKE","id":8838981,"mun":"BLOOMING GROVE TWP","nc":2,"o":"-75.096656"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.387911,40.608914],"type":"Point"},"properties":{"a":"40.608914","cty":"NORTHAMPTON","id":8838986,"mun":"BETHLEHEM","nc":1,"o":"-75.387911"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.831794,40.271847],"type":"Point"},"properties":{"a":"40.271847","cty":"DAUPHIN","id":8838989,"mun":"SUSQUEHANNA TWP","nc":1,"o":"-76.831794"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.782777,40.208819],"type":"Point"},"properties":{"a":"40.208819","cty":"DAUPHIN","id":8838995,"mun":"HIGHSPIRE BORO","nc":1,"o":"-76.782777"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.953529,40.238703],"type":"Point"},"properties":{"a":"40.238703","cty":"CUMBERLAND","id":8838996,"mun":"HAMPDEN TWP","nc":9,"o":"-76.953529"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.953529,40.238703],"type":"Point"},"properties":{"a":"40.238703","cty":"CUMBERLAND","id":8838996,"mun":"HAMPDEN TWP","nc":9,"o":"-76.953529"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.26049,41.36527],"type":"Point"},"properties":{"a":"41.36527","cty":"PIKE","hp":true,"id":8839001,"mun":"PALMYRA TWP","nc":287,"ne":{"a":"41.37056","o":"-75.25101"},"o":"-75.26049","sw":{"a":"41.35998","o":"-75.26997"}},"type":"Feature"}
 ]}
