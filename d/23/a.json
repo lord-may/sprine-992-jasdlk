@@ -3,5 +3,9 @@
 {"geometry":{"coordinates":[-76.564789,40.787849],"type":"Point"},"properties":{"a":"40.787849","cty":"NORTHUMBERLAND","id":8838673,"mun":"COAL TWP","nc":13,"o":"-76.564789"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.979859,40.967219],"type":"Point"},"properties":{"a":"40.967219","cty":"LUZERNE","id":8838676,"mun":"HAZLETON","nc":16,"o":"-75.979859"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.363902,41.131372],"type":"Point"},"properties":{"a":"41.131372","cty":"MONROE","id":8838679,"mun":"MOUNT POCONO BORO","nc":1,"o":"-75.363902"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.887702,40.241515],"type":"Point"},"properties":{"a":"40.241515","cty":"CUMBERLAND","id":8838680,"mun":"LEMOYNE BORO","nc":2,"o":"-76.887702"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.887702,40.241515],"type":"Point"},"properties":{"a":"40.241515","cty":"CUMBERLAND","id":8838680,"mun":"LEMOYNE BORO","nc":2,"o":"-76.887702"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.142128,40.812122],"type":"Point"},"properties":{"a":"40.812122","cty":"SCHUYLKILL","id":8838683,"mun":"MAHANOY TWP","nc":128,"o":"-76.142128"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.238635,40.029713],"type":"Point"},"properties":{"a":"40.029713","cty":"LANCASTER","id":8838685,"mun":"EAST LAMPETER TWP","nc":2,"o":"-76.238635"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.257233,41.576677],"type":"Point"},"properties":{"a":"41.576677","cty":"WAYNE","id":8838689,"mun":"HONESDALE BORO","nc":9,"o":"-75.257233"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.517335,41.565494],"type":"Point"},"properties":{"a":"41.565494","cty":"LACKAWANNA","id":8838690,"mun":"CARBONDALE","nc":6,"o":"-75.517335"},"type":"Feature"}
 ]}

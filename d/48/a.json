@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-72.101523,41.563432],"type":"Point"},"properties":{"ADDRESS":"20 TANGLEWOOD DR, NORWICH, CT, 06360","CUSTOMER_COUNT":5,"DEVICE_OID":19288,"FACILITY_ID":"6321","FEEDER_ID":"914","GDB_GEOMATTR_DATA":"","ID":45225,"INCIDENT_ID":50412,"OBJECTID":7894,"ORIG_FID":null,"REGION":3,"RxOID":19288,"TIME_OUTAGE":"11/17/2026 08:12 AM","TIME_RESTORED_EST":"Is still under review"},"type":"Feature"}
 ]}
