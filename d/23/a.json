@@ -1,5 +1,7 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.554211,41.625851],"type":"Point"},"properties":{"a":"41.625851","cty":"LACKAWANNA","id":8838953,"mun":"GREENFIELD TWP","nc":2,"o":"-75.554211"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.5543,41.626577],"type":"Point"},"properties":{"a":"41.626577","cty":"LACKAWANNA","id":8838953,"mun":"GREENFIELD TWP","nc":5,"o":"-75.5543"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.9637,41.248444],"type":"Point"},"properties":{"a":"41.248444","cty":"LYCOMING","id":8839021,"mun":"LOYALSOCK TWP","nc":5,"o":"-76.9637"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.179789,41.429131],"type":"Point"},"properties":{"a":"41.429131","cty":"PIKE","id":8839036,"mun":"PALMYRA TWP","nc":11,"o":"-75.179789"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.179789,41.429131],"type":"Point"},"properties":{"a":"41.429131","cty":"PIKE","id":8839036,"mun":"PALMYRA TWP","nc":11,"o":"-75.179789"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.533192,40.893853],"type":"Point"},"properties":{"a":"40.893853","cty":"CARBON","id":8839042,"mun":"TOWAMENSING TWP","nc":2,"o":"-75.533192"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.55321,40.553522],"type":"Point"},"properties":{"a":"40.553522","cty":"LEHIGH","id":8839043,"mun":"LOWER MACUNGIE TWP","nc":8,"o":"-75.55321"},"type":"Feature"}
 ]}
