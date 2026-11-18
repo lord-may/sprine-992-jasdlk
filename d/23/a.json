@@ -13,5 +13,11 @@
 {"geometry":{"coordinates":[-75.54008,40.610215],"type":"Point"},"properties":{"a":"40.610215","cty":"LEHIGH","id":8839111,"mun":"SOUTH WHITEHALL TWP","nc":16,"o":"-75.54008"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.376312,40.644274],"type":"Point"},"properties":{"a":"40.644274","cty":"NORTHAMPTON","id":8839113,"mun":"BETHLEHEM","nc":3,"o":"-75.376312"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.537687,40.990124],"type":"Point"},"properties":{"a":"40.990124","cty":"CARBON","id":8839114,"mun":"PENN FOREST TWP","nc":2,"o":"-75.537687"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.674928,41.311583],"type":"Point"},"properties":{"a":"41.311583","cty":"LACKAWANNA","id":8839115,"mun":"SPRING BROOK TWP","nc":2,"o":"-75.674928"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.674928,41.311583],"type":"Point"},"properties":{"a":"41.311583","cty":"LACKAWANNA","id":8839115,"mun":"SPRING BROOK TWP","nc":2,"o":"-75.674928"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.766506,41.351419],"type":"Point"},"properties":{"a":"41.351419","cty":"LUZERNE","id":8839116,"mun":"DURYEA BORO","nc":19,"o":"-75.766506"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.226463,39.751249],"type":"Point"},"properties":{"a":"39.751249","cty":"LANCASTER","id":8839117,"mun":"FULTON TWP","nc":6,"o":"-76.226463"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.61049,41.06488],"type":"Point"},"properties":{"a":"41.06488","cty":"CARBON","hp":true,"id":8839118,"mun":"KIDDER TWP","nc":140,"ne":{"a":"41.06806","o":"-75.60683"},"o":"-75.61049","sw":{"a":"41.0617","o":"-75.61416"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.050659,41.6186],"type":"Point"},"properties":{"a":"41.6186","cty":"WAYNE","id":8839122,"mun":"DAMASCUS TWP","nc":1,"o":"-75.050659"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.384661,40.54508],"type":"Point"},"properties":{"a":"40.54508","cty":"LEHIGH","id":8839125,"mun":"UPPER SAUCON TWP","nc":2,"o":"-75.384661"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.106316,40.097082],"type":"Point"},"properties":{"a":"40.097082","cty":"LANCASTER","id":8839126,"mun":"EARL TWP","nc":5,"o":"-76.106316"},"type":"Feature"}
 ]}

@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-73.7985,40.69218],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"NEW","cust_a":{"val":1},"etr":"2026-11-18T10:30:00-0500","outages":null,"reported_problem":"No Lights","title":"Outage Information"},"type":"Feature"},
+{"geometry":{"coordinates":[-73.72967,40.72334],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"NEW","cust_a":{"val":1},"etr":"ETR-NULL","outages":null,"reported_problem":"Partial Outage","title":"Outage Information"},"type":"Feature"},
 {"geometry":{"geometries":[{"coordinates":[[[-73.8484,41.01123],[-73.84757,41.01237],[-73.8476,41.0125],[-73.84844,41.01182],[-73.8484,41.01123]]],"type":"Polygon"},{"coordinates":[-73.84809,41.01189],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"DSP","cust_a":{"val":42},"etr":"2026-11-18T10:00:00-0500","outages":null,"reported_problem":"Partial Outage","title":"Outage Information"},"type":"Feature"}
 ]}

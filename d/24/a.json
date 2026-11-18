@@ -1,5 +1,7 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.72907,41.348178],"type":"Point"},"properties":{"a":"41.348178","cty":"WASHINGTON","id":20261072626,"mun":"CHARLESTOWN","nc":1,"o":"-71.72907"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.457245,41.806262],"type":"Point"},"properties":{"a":"41.806262","cty":"PROVIDENCE","id":20261072627,"mun":"PROVIDENCE","nc":15,"o":"-71.457245"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.646292,41.709364],"type":"Point"},"properties":{"a":"41.709364","cty":"KENT","id":20261072636,"mun":"COVENTRY","nc":1,"o":"-71.646292"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.646292,41.709364],"type":"Point"},"properties":{"a":"41.709364","cty":"KENT","id":20261072636,"mun":"COVENTRY","nc":1,"o":"-71.646292"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.558264,41.695613],"type":"Point"},"properties":{"a":"41.695613","cty":"KENT","id":20261072637,"mun":"COVENTRY","nc":4,"o":"-71.558264"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.242594,41.684691],"type":"Point"},"properties":{"a":"41.684691","cty":"BRISTOL","id":20261072639,"mun":"BRISTOL","nc":1,"o":"-71.242594"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.595983,41.887685],"type":"Point"},"properties":{"a":"41.887685","cty":"PROVIDENCE","id":20261072642,"mun":"GLOCESTER","nc":1,"o":"-71.595983"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.407547,41.771319],"type":"Point"},"properties":{"a":"41.771319","cty":"PROVIDENCE","id":20261072643,"mun":"CRANSTON","nc":1,"o":"-71.407547"},"type":"Feature"}
 ]}
