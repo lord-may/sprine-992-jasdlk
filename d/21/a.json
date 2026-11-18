@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.89177,43.657163],"type":"Point"},"properties":{"EstRest":"11/18/2026 5:30:00 AM","Outages":158,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.908232,43.647192],"type":"Point"},"properties":{"EstRest":"11/18/2026 5:30:00 AM","Outages":43,"cause":"Tree","county":"YORK","crewstatus":"ONST ","customers":43,"hamlet":"NEWFIELD","incidentnumber":"0047E3","incidents":1,"level":"street","opco":"CMP","street":"ONAMOR DR","town":"NEWFIELD"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.904424,43.651737],"type":"Point"},"properties":{"EstRest":"11/18/2026 5:30:00 AM","Outages":1,"cause":"Tree","county":"YORK","crewstatus":"ONST ","customers":1,"hamlet":"NEWFIELD","incidentnumber":"0047E3","incidents":1,"level":"street","opco":"CMP","street":"CHESLEY RD","town":"NEWFIELD"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.907817,43.650212],"type":"Point"},"properties":{"EstRest":"11/18/2026 5:30:00 AM","Outages":158,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
