@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-69.960569,43.804581],"type":"Point"},"properties":{"EstRest":"11/18/2026 8:45:00 AM","Outages":60,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.963739,43.797348],"type":"Point"},"properties":{"EstRest":"11/18/2026 8:45:00 AM","Outages":14,"cause":"","county":"CUMBERLAND","crewstatus":"     ","customers":14,"hamlet":"HARPSWELL","incidentnumber":"0047E4","incidents":1,"level":"street","opco":"CMP","street":"HEADLAND RD","town":"HARPSWELL"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.963739,43.797348],"type":"Point"},"properties":{"EstRest":"11/18/2026 8:45:00 AM","Outages":14,"cause":"","county":"CUMBERLAND","crewstatus":"DISP ","customers":14,"hamlet":"HARPSWELL","incidentnumber":"0047E4","incidents":1,"level":"street","opco":"CMP","street":"HEADLAND RD","town":"HARPSWELL"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.320068,44.410371],"type":"Point"},"properties":{"EstRest":"11/18/2026 9:00:00 AM","Outages":46,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.324166,44.415635],"type":"Point"},"properties":{"EstRest":"11/18/2026 9:00:00 AM","Outages":13,"cause":"","county":"OXFORD","crewstatus":"DISP ","customers":13,"hamlet":"HARTFORD","incidentnumber":"0047E6","incidents":1,"level":"street","opco":"CMP","street":"LAKE VIEW DR","town":"HARTFORD"},"type":"Feature"}
 ]}
