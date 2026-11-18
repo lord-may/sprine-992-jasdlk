@@ -6,5 +6,7 @@
 {"geometry":{"coordinates":[-75.1975,41.33043],"type":"Point"},"properties":{"a":"41.33043","cty":"PIKE","hp":true,"id":8839084,"mun":"PALMYRA TWP","nc":99,"ne":{"a":"41.33171","o":"-75.19119"},"o":"-75.1975","sw":{"a":"41.32915","o":"-75.20381"}},"type":"Feature"},
 {"geometry":{"coordinates":[-74.902998,41.373979],"type":"Point"},"properties":{"a":"41.373979","cty":"PIKE","id":8839085,"mun":"SHOHOLA TWP","nc":3,"o":"-74.902998"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.96683,40.132928],"type":"Point"},"properties":{"a":"40.132928","cty":"LANCASTER","id":8839087,"mun":"CAERNARVON TWP","nc":9,"o":"-75.96683"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.313719,40.026623],"type":"Point"},"properties":{"a":"40.026623","cty":"LANCASTER","id":8839094,"mun":"LANCASTER","nc":13,"o":"-76.313719"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.281548,40.06877],"type":"Point"},"properties":{"a":"40.06877","cty":"LANCASTER","id":8839096,"mun":"MANHEIM TWP","nc":4,"o":"-76.281548"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.5179,40.550903],"type":"Point"},"properties":{"a":"40.550903","cty":"LEHIGH","id":8839097,"mun":"LOWER MACUNGIE TWP","nc":3,"o":"-75.5179"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.917062,41.141045],"type":"Point"},"properties":{"a":"41.141045","cty":"LUZERNE","id":8839101,"mun":"RICE TWP","nc":4,"o":"-75.917062"},"type":"Feature"}
 ]}
