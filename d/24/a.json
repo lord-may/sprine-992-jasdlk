@@ -3,5 +3,7 @@
 {"geometry":{"coordinates":[-71.595983,41.887685],"type":"Point"},"properties":{"a":"41.887685","cty":"PROVIDENCE","id":20261072642,"mun":"GLOCESTER","nc":1,"o":"-71.595983"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.407547,41.771319],"type":"Point"},"properties":{"a":"41.771319","cty":"PROVIDENCE","id":20261072643,"mun":"CRANSTON","nc":1,"o":"-71.407547"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.414531,41.862242],"type":"Point"},"properties":{"a":"41.862242","cty":"PROVIDENCE","id":20261072651,"mun":"PAWTUCKET","nc":1,"o":"-71.414531"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.534081,41.530969],"type":"Point"},"properties":{"a":"41.530969","cty":"WASHINGTON","id":20261072652,"mun":"EXETER","nc":1,"o":"-71.534081"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.534081,41.530969],"type":"Point"},"properties":{"a":"41.530969","cty":"WASHINGTON","id":20261072652,"mun":"EXETER","nc":1,"o":"-71.534081"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.462237,41.663552],"type":"Point"},"properties":{"a":"41.663552","cty":"KENT","id":20261072654,"mun":"EAST GREENWICH","nc":1,"o":"-71.462237"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.315042,41.49325],"type":"Point"},"properties":{"a":"41.49325","cty":"NEWPORT","id":20261072655,"mun":"NEWPORT","nc":30,"o":"-71.315042"},"type":"Feature"}
 ]}
