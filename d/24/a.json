@@ -1,11 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.70611,41.65278],"type":"Point"},"properties":{"a":"41.65278","cty":"KENT","hp":true,"id":20261072664,"mun":"WEST GREENWICH","nc":43,"ne":{"a":"41.65737","o":"-71.70258"},"o":"-71.70611","sw":{"a":"41.6482","o":"-71.70964"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.704392,41.646013],"type":"Point"},"properties":{"a":"41.646013","cty":"KENT","id":20261072666,"mun":"WEST GREENWICH","nc":5,"o":"-71.704392"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.318326,41.492864],"type":"Point"},"properties":{"a":"41.492864","cty":"NEWPORT","id":20261072692,"mun":"NEWPORT","nc":1,"o":"-71.318326"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.391967,41.73959],"type":"Point"},"properties":{"a":"41.73959","cty":"KENT","id":20261072700,"mun":"WARWICK","nc":1,"o":"-71.391967"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.358413,41.841779],"type":"Point"},"properties":{"a":"41.841779","cty":"PROVIDENCE","id":20261072701,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.358413"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.547541,41.38061],"type":"Point"},"properties":{"a":"41.38061","cty":"WASHINGTON","id":20261072704,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.547541"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.470364,41.970446],"type":"Point"},"properties":{"a":"41.970446","cty":"PROVIDENCE","id":20261072705,"mun":"LINCOLN","nc":1,"o":"-71.470364"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.502471,41.700309],"type":"Point"},"properties":{"a":"41.700309","cty":"KENT","id":20261072706,"mun":"WARWICK","nc":1,"o":"-71.502471"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.308987,41.5161],"type":"Point"},"properties":{"a":"41.5161","cty":"NEWPORT","id":20261072710,"mun":"NEWPORT","nc":1,"o":"-71.308987"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.502471,41.700309],"type":"Point"},"properties":{"a":"41.700309","cty":"KENT","id":20261072706,"mun":"WARWICK","nc":1,"o":"-71.502471"},"type":"Feature"}
 ]}
