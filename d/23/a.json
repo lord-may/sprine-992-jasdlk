@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.825796,40.258933],"type":"Point"},"properties":{"a":"40.258933","cty":"DAUPHIN","id":8839058,"mun":"SWATARA TWP","nc":24,"o":"-76.825796"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.790195,40.250194],"type":"Point"},"properties":{"a":"40.250194","cty":"DAUPHIN","id":8839064,"mun":"SWATARA TWP","nc":3,"o":"-76.790195"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.790195,40.250194],"type":"Point"},"properties":{"a":"40.250194","cty":"DAUPHIN","id":8839064,"mun":"SWATARA TWP","nc":3,"o":"-76.790195"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.55321,40.553522],"type":"Point"},"properties":{"a":"40.553522","cty":"LEHIGH","id":8839066,"mun":"LOWER MACUNGIE TWP","nc":1,"o":"-75.55321"},"type":"Feature"}
 ]}
