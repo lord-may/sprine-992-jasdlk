@@ -1,13 +1,8 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.54008,40.610215],"type":"Point"},"properties":{"a":"40.610215","cty":"LEHIGH","id":8839111,"mun":"SOUTH WHITEHALL TWP","nc":16,"o":"-75.54008"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.316302,40.740944],"type":"Point"},"properties":{"a":"40.740944","cty":"SCHUYLKILL","id":8839135,"mun":"BUTLER TWP","nc":1,"o":"-76.316302"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.301473,40.74072],"type":"Point"},"properties":{"a":"40.74072","cty":"SCHUYLKILL","id":8839139,"mun":"BUTLER TWP","nc":1,"o":"-76.301473"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.420314,40.645279],"type":"Point"},"properties":{"a":"40.645279","cty":"LEHIGH","id":8839157,"mun":"BETHLEHEM","nc":25,"o":"-75.420314"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.8423,40.76249],"type":"Point"},"properties":{"a":"40.76249","cty":"SCHUYLKILL","hp":true,"id":8839170,"mun":"WEST PENN TWP","nc":20,"ne":{"a":"40.7652","o":"-75.8345"},"o":"-75.8423","sw":{"a":"40.75977","o":"-75.85011"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.27228,40.26737],"type":"Point"},"properties":{"a":"40.26737","cty":"LEBANON","hp":true,"id":8839174,"mun":"HEIDELBERG TWP","nc":7,"ne":{"a":"40.26894","o":"-76.2715"},"o":"-76.27228","sw":{"a":"40.2658","o":"-76.27306"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.55641,40.49655],"type":"Point"},"properties":{"a":"40.49655","cty":"LEHIGH","hp":true,"id":8839186,"mun":"MACUNGIE BORO","nc":166,"ne":{"a":"40.50799","o":"-75.54531"},"o":"-75.55641","sw":{"a":"40.48512","o":"-75.56751"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.911813,41.23052],"type":"Point"},"properties":{"a":"41.23052","cty":"LUZERNE","id":8839190,"mun":"HANOVER TWP","nc":21,"o":"-75.911813"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.455058,40.629455],"type":"Point"},"properties":{"a":"40.629455","cty":"LEHIGH","id":8839191,"mun":"ALLENTOWN","nc":1,"o":"-75.455058"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.308986,40.162411],"type":"Point"},"properties":{"a":"40.162411","cty":"LANCASTER","id":8839193,"mun":"WARWICK TWP","nc":12,"o":"-76.308986"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.557517,41.492993],"type":"Point"},"properties":{"a":"41.492993","cty":"LACKAWANNA","id":8839194,"mun":"ARCHBALD BORO","nc":9,"o":"-75.557517"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.394963,40.652126],"type":"Point"},"properties":{"a":"40.652126","cty":"NORTHAMPTON","id":8839236,"mun":"HANOVER TWP","nc":4,"o":"-75.394963"},"type":"Feature"},
@@ -23,5 +18,8 @@
 {"geometry":{"coordinates":[-75.466178,41.250489],"type":"Point"},"properties":{"a":"41.250489","cty":"LACKAWANNA","id":8839306,"mun":"CLIFTON TWP","nc":3,"o":"-75.466178"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.513543,41.260154],"type":"Point"},"properties":{"a":"41.260154","cty":"LYCOMING","id":8839307,"mun":"JORDAN TWP","nc":1,"o":"-76.513543"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.762037,40.929449],"type":"Point"},"properties":{"a":"40.929449","cty":"NORTHUMBERLAND","id":8839308,"mun":"POINT TWP","nc":1,"o":"-76.762037"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.426505,41.016477],"type":"Point"},"properties":{"a":"41.016477","cty":"COLUMBIA","id":8839311,"mun":"SCOTT TWP","nc":3,"o":"-76.426505"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.426505,41.016477],"type":"Point"},"properties":{"a":"41.016477","cty":"COLUMBIA","id":8839311,"mun":"SCOTT TWP","nc":3,"o":"-76.426505"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.65679,41.390954],"type":"Point"},"properties":{"a":"41.390954","cty":"LACKAWANNA","id":8839312,"mun":"SCRANTON","nc":1,"o":"-75.65679"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.298234,40.038161],"type":"Point"},"properties":{"a":"40.038161","cty":"LANCASTER","id":8839314,"mun":"LANCASTER","nc":1,"o":"-76.298234"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.500988,41.008284],"type":"Point"},"properties":{"a":"41.008284","cty":"MONROE","id":8839318,"mun":"TUNKHANNOCK TWP","nc":1,"o":"-75.500988"},"type":"Feature"}
 ]}
