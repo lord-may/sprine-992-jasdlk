@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.534081,41.530969],"type":"Point"},"properties":{"a":"41.530969","cty":"WASHINGTON","id":20261072593,"mun":"EXETER","nc":1,"o":"-71.534081"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.447871,41.862809],"type":"Point"},"properties":{"a":"41.862809","cty":"PROVIDENCE","id":20261072594,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.447871"},"type":"Feature"}
 ]}
