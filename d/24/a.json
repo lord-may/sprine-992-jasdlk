@@ -4,11 +4,10 @@
 {"geometry":{"coordinates":[-71.70611,41.65278],"type":"Point"},"properties":{"a":"41.65278","cty":"KENT","hp":true,"id":20261072664,"mun":"WEST GREENWICH","nc":43,"ne":{"a":"41.65737","o":"-71.70258"},"o":"-71.70611","sw":{"a":"41.6482","o":"-71.70964"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.704392,41.646013],"type":"Point"},"properties":{"a":"41.646013","cty":"KENT","id":20261072666,"mun":"WEST GREENWICH","nc":5,"o":"-71.704392"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.428962,41.820641],"type":"Point"},"properties":{"a":"41.820641","cty":"PROVIDENCE","id":20261072668,"mun":"PROVIDENCE","nc":1,"o":"-71.428962"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.477935,41.850602],"type":"Point"},"properties":{"a":"41.850602","cty":"PROVIDENCE","id":20261072673,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.477935"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.495579,41.789994],"type":"Point"},"properties":{"a":"41.789994","cty":"PROVIDENCE","id":20261072674,"mun":"CRANSTON","nc":1,"o":"-71.495579"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.397772,41.819526],"type":"Point"},"properties":{"a":"41.819526","cty":"PROVIDENCE","id":20261072677,"mun":"PROVIDENCE","nc":37,"o":"-71.397772"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.389168,41.843374],"type":"Point"},"properties":{"a":"41.843374","cty":"PROVIDENCE","id":20261072687,"mun":"PROVIDENCE","nc":1,"o":"-71.389168"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.445876,41.826366],"type":"Point"},"properties":{"a":"41.826366","cty":"PROVIDENCE","id":20261072688,"mun":"PROVIDENCE","nc":1,"o":"-71.445876"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.269907,41.676059],"type":"Point"},"properties":{"a":"41.676059","cty":"BRISTOL","id":20261072690,"mun":"BRISTOL","nc":25,"o":"-71.269907"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.318326,41.492864],"type":"Point"},"properties":{"a":"41.492864","cty":"NEWPORT","id":20261072692,"mun":"NEWPORT","nc":1,"o":"-71.318326"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.318326,41.492864],"type":"Point"},"properties":{"a":"41.492864","cty":"NEWPORT","id":20261072692,"mun":"NEWPORT","nc":1,"o":"-71.318326"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.335946,41.74772],"type":"Point"},"properties":{"a":"41.74772","cty":"BRISTOL","id":20261072695,"mun":"BARRINGTON","nc":1,"o":"-71.335946"},"type":"Feature"}
 ]}
