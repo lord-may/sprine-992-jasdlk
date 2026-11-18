@@ -2,5 +2,9 @@
 {"geometry":{"coordinates":[-76.790195,40.250194],"type":"Point"},"properties":{"a":"40.250194","cty":"DAUPHIN","id":8839064,"mun":"SWATARA TWP","nc":3,"o":"-76.790195"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.55321,40.553522],"type":"Point"},"properties":{"a":"40.553522","cty":"LEHIGH","id":8839066,"mun":"LOWER MACUNGIE TWP","nc":1,"o":"-75.55321"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.245306,41.027911],"type":"Point"},"properties":{"a":"41.027911","cty":"MONROE","id":8839076,"mun":"STROUD TWP","nc":2,"o":"-75.245306"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.548761,40.491941],"type":"Point"},"properties":{"a":"40.491941","cty":"LEHIGH","id":8839078,"mun":"UPPER MILFORD TWP","nc":1,"o":"-75.548761"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.548761,40.491941],"type":"Point"},"properties":{"a":"40.491941","cty":"LEHIGH","id":8839078,"mun":"UPPER MILFORD TWP","nc":1,"o":"-75.548761"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.1975,41.33043],"type":"Point"},"properties":{"a":"41.33043","cty":"PIKE","hp":true,"id":8839084,"mun":"PALMYRA TWP","nc":99,"ne":{"a":"41.33171","o":"-75.19119"},"o":"-75.1975","sw":{"a":"41.32915","o":"-75.20381"}},"type":"Feature"},
+{"geometry":{"coordinates":[-74.902998,41.373979],"type":"Point"},"properties":{"a":"41.373979","cty":"PIKE","id":8839085,"mun":"SHOHOLA TWP","nc":3,"o":"-74.902998"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.333894,40.65132],"type":"Point"},"properties":{"a":"40.65132","cty":"NORTHAMPTON","id":8839086,"mun":"BETHLEHEM TWP","nc":18,"o":"-75.333894"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.96683,40.132928],"type":"Point"},"properties":{"a":"40.132928","cty":"LANCASTER","id":8839087,"mun":"CAERNARVON TWP","nc":9,"o":"-75.96683"},"type":"Feature"}
 ]}
