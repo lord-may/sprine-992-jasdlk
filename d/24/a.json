@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.46628,41.85628],"type":"Point"},"properties":{"a":"41.85628","cty":"PROVIDENCE","id":20261072719,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.46628"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.438161,41.81155],"type":"Point"},"properties":{"a":"41.81155","cty":"PROVIDENCE","id":20261072721,"mun":"PROVIDENCE","nc":1,"o":"-71.438161"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.425869,41.805964],"type":"Point"},"properties":{"a":"41.805964","cty":"PROVIDENCE","id":20261072734,"mun":"PROVIDENCE","nc":1,"o":"-71.425869"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.423793,41.868885],"type":"Point"},"properties":{"a":"41.868885","cty":"PROVIDENCE","id":20261072737,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.423793"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.279377,41.491187],"type":"Point"},"properties":{"a":"41.491187","cty":"NEWPORT","id":20261072741,"mun":"MIDDLETOWN","nc":1,"o":"-71.279377"},"type":"Feature"}
 ]}
