@@ -1,8 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.825796,40.258933],"type":"Point"},"properties":{"a":"40.258933","cty":"DAUPHIN","id":8839058,"mun":"SWATARA TWP","nc":24,"o":"-76.825796"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.790195,40.250194],"type":"Point"},"properties":{"a":"40.250194","cty":"DAUPHIN","id":8839064,"mun":"SWATARA TWP","nc":3,"o":"-76.790195"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.55321,40.553522],"type":"Point"},"properties":{"a":"40.553522","cty":"LEHIGH","id":8839066,"mun":"LOWER MACUNGIE TWP","nc":1,"o":"-75.55321"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.825662,40.258896],"type":"Point"},"properties":{"a":"40.258896","cty":"DAUPHIN","id":8839075,"mun":"SWATARA TWP","nc":9,"o":"-76.825662"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.245306,41.027911],"type":"Point"},"properties":{"a":"41.027911","cty":"MONROE","id":8839076,"mun":"STROUD TWP","nc":2,"o":"-75.245306"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.548761,40.491941],"type":"Point"},"properties":{"a":"40.491941","cty":"LEHIGH","id":8839078,"mun":"UPPER MILFORD TWP","nc":1,"o":"-75.548761"},"type":"Feature"}
 ]}
