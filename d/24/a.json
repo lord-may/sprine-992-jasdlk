@@ -2,5 +2,7 @@
 {"geometry":{"coordinates":[-71.46628,41.85628],"type":"Point"},"properties":{"a":"41.85628","cty":"PROVIDENCE","id":20261072719,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.46628"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.457245,41.806262],"type":"Point"},"properties":{"a":"41.806262","cty":"PROVIDENCE","id":20261072745,"mun":"PROVIDENCE","nc":1,"o":"-71.457245"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.421593,41.824867],"type":"Point"},"properties":{"a":"41.824867","cty":"PROVIDENCE","id":20261072750,"mun":"PROVIDENCE","nc":1,"o":"-71.421593"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.495579,41.789994],"type":"Point"},"properties":{"a":"41.789994","cty":"PROVIDENCE","id":20261072751,"mun":"CRANSTON","nc":1,"o":"-71.495579"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.42055,41.869648],"type":"Point"},"properties":{"a":"41.869648","cty":"PROVIDENCE","id":20261072755,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.42055"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.517598,42.001697],"type":"Point"},"properties":{"a":"42.001697","cty":"PROVIDENCE","id":20261072757,"mun":"WOONSOCKET","nc":1,"o":"-71.517598"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.445789,41.822652],"type":"Point"},"properties":{"a":"41.822652","cty":"PROVIDENCE","id":20261072758,"mun":"PROVIDENCE","nc":1,"o":"-71.445789"},"type":"Feature"}
 ]}
