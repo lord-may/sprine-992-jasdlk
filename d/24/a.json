@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.46628,41.85628],"type":"Point"},"properties":{"a":"41.85628","cty":"PROVIDENCE","id":20261072719,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.46628"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.423793,41.868885],"type":"Point"},"properties":{"a":"41.868885","cty":"PROVIDENCE","id":20261072737,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.423793"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.457245,41.806262],"type":"Point"},"properties":{"a":"41.806262","cty":"PROVIDENCE","id":20261072745,"mun":"PROVIDENCE","nc":1,"o":"-71.457245"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.457245,41.806262],"type":"Point"},"properties":{"a":"41.806262","cty":"PROVIDENCE","id":20261072745,"mun":"PROVIDENCE","nc":1,"o":"-71.457245"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.534081,41.530969],"type":"Point"},"properties":{"a":"41.530969","cty":"WASHINGTON","id":20261072749,"mun":"EXETER","nc":1,"o":"-71.534081"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.421593,41.824867],"type":"Point"},"properties":{"a":"41.824867","cty":"PROVIDENCE","id":20261072750,"mun":"PROVIDENCE","nc":1,"o":"-71.421593"},"type":"Feature"}
 ]}
