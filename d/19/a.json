@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-74.273029,42.018508],"type":"Point"},"properties":{"EstRest":"","Outages":3,"cause":"","county":"ULSTER","crewstatus":"DISP ","customers":3,"hamlet":"BOICEVILLE","incidentnumber":"011FS5","incidents":1,"level":"street","opco":"NYSEG","street":"COLDBROOK RD","town":"SHANDAKEN T"},"type":"Feature"},
 {"geometry":{"coordinates":[-74.274516,42.019973],"type":"Point"},"properties":{"EstRest":"","Outages":7,"county":"ULSTER","customers":5407,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.528742,41.213512],"type":"Point"},"properties":{"EstRest":"11/18/2026 6:40:00 PM","Outages":13,"cause":"","county":"WESTCHESTER","crewstatus":"DISP ","customers":13,"hamlet":"POUND RIDGE","incidentnumber":"011FY7","incidents":1,"level":"street","opco":"NYSEG","street":"NANCYS LN","town":"POUNDRIDGE T"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.529436,41.217718],"type":"Point"},"properties":{"EstRest":"11/18/2026 6:40:00 PM","Outages":190,"county":"WESTCHESTER","customers":33728,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+{"geometry":{"coordinates":[-73.538866,41.210855],"type":"Point"},"properties":{"EstRest":"11/18/2026 6:40:00 PM","Outages":18,"cause":"","county":"WESTCHESTER","crewstatus":"DISP ","customers":78,"hamlet":"POUND RIDGE","incidentnumber":"011FY7","incidents":1,"level":"street","opco":"NYSEG","street":"EASTWOODS RD","town":"POUNDRIDGE T"},"type":"Feature"},
+{"geometry":{"coordinates":[-73.542057,41.20785],"type":"Point"},"properties":{"EstRest":"11/18/2026 6:40:00 PM","Outages":31,"county":"WESTCHESTER","customers":33728,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}

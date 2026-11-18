@@ -2,11 +2,8 @@
 {"geometry":{"coordinates":[-71.46628,41.85628],"type":"Point"},"properties":{"a":"41.85628","cty":"PROVIDENCE","id":20261072719,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.46628"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.457245,41.806262],"type":"Point"},"properties":{"a":"41.806262","cty":"PROVIDENCE","id":20261072745,"mun":"PROVIDENCE","nc":1,"o":"-71.457245"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.421593,41.824867],"type":"Point"},"properties":{"a":"41.824867","cty":"PROVIDENCE","id":20261072750,"mun":"PROVIDENCE","nc":1,"o":"-71.421593"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.42055,41.869648],"type":"Point"},"properties":{"a":"41.869648","cty":"PROVIDENCE","id":20261072755,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.42055"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.517598,42.001697],"type":"Point"},"properties":{"a":"42.001697","cty":"PROVIDENCE","id":20261072757,"mun":"WOONSOCKET","nc":1,"o":"-71.517598"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.445789,41.822652],"type":"Point"},"properties":{"a":"41.822652","cty":"PROVIDENCE","id":20261072758,"mun":"PROVIDENCE","nc":1,"o":"-71.445789"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.435745,41.808048],"type":"Point"},"properties":{"a":"41.808048","cty":"PROVIDENCE","id":20261072759,"mun":"PROVIDENCE","nc":1,"o":"-71.435745"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.439561,41.86583],"type":"Point"},"properties":{"a":"41.86583","cty":"PROVIDENCE","id":20261072760,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.439561"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.417877,41.9228],"type":"Point"},"properties":{"a":"41.9228","cty":"PROVIDENCE","id":20261072761,"mun":"CUMBERLAND","nc":1,"o":"-71.417877"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.253494,41.581008],"type":"Point"},"properties":{"a":"41.581008","cty":"NEWPORT","id":20261072763,"mun":"PORTSMOUTH","nc":1,"o":"-71.253494"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.25348,41.58102],"type":"Point"},"properties":{"a":"41.58102","cty":"NEWPORT","hp":true,"id":20261072763,"mun":"PORTSMOUTH","nc":18,"ne":{"a":"41.5817","o":"-71.25327"},"o":"-71.25348","sw":{"a":"41.58034","o":"-71.25369"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.161852,41.521697],"type":"Point"},"properties":{"a":"41.521697","cty":"NEWPORT","id":20261072765,"mun":"LITTLE COMPTON","nc":1,"o":"-71.161852"},"type":"Feature"}
 ]}
