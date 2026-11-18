@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.828944,41.320659],"type":"Point"},"properties":{"a":"41.320659","cty":"LUZERNE","id":8839262,"mun":"EXETER BORO","nc":1,"o":"-75.828944"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.973926,41.141594],"type":"Point"},"properties":{"a":"41.141594","cty":"LUZERNE","id":8839287,"mun":"DORRANCE TWP","nc":1,"o":"-75.973926"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.54835,41.048787],"type":"Point"},"properties":{"a":"41.048787","cty":"MONROE","id":8839292,"mun":"TUNKHANNOCK TWP","nc":1,"o":"-75.54835"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.49151,40.532804],"type":"Point"},"properties":{"a":"40.532804","cty":"LEHIGH","id":8839298,"mun":"EMMAUS BORO","nc":18,"o":"-75.49151"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.762037,40.929449],"type":"Point"},"properties":{"a":"40.929449","cty":"NORTHUMBERLAND","id":8839308,"mun":"POINT TWP","nc":1,"o":"-76.762037"},"type":"Feature"},
@@ -13,5 +12,7 @@
 {"geometry":{"coordinates":[-75.258092,40.750996],"type":"Point"},"properties":{"a":"40.750996","cty":"NORTHAMPTON","id":8839362,"mun":"STOCKERTON BORO","nc":1,"o":"-75.258092"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.05885,41.298899],"type":"Point"},"properties":{"a":"41.298899","cty":"PIKE","id":8839369,"mun":"BLOOMING GROVE TWP","nc":2,"o":"-75.05885"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.15207,39.99377],"type":"Point"},"properties":{"a":"39.99377","cty":"LANCASTER","hp":true,"id":8839374,"mun":"STRASBURG TWP","nc":9,"ne":{"a":"39.9974","o":"-76.14886"},"o":"-76.15207","sw":{"a":"39.99015","o":"-76.15529"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.892431,40.275987],"type":"Point"},"properties":{"a":"40.275987","cty":"DAUPHIN","id":8839377,"mun":"HARRISBURG","nc":6,"o":"-76.892431"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.892431,40.275987],"type":"Point"},"properties":{"a":"40.275987","cty":"DAUPHIN","id":8839377,"mun":"HARRISBURG","nc":6,"o":"-76.892431"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.4194,40.64489],"type":"Point"},"properties":{"a":"40.64489","cty":"LEHIGH","hp":true,"id":8839380,"mun":"BETHLEHEM","nc":178,"ne":{"a":"40.64736","o":"-75.41709"},"o":"-75.4194","sw":{"a":"40.64241","o":"-75.42171"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.02733,41.092983],"type":"Point"},"properties":{"a":"41.092983","cty":"LUZERNE","id":8839384,"mun":"DORRANCE TWP","nc":1,"o":"-76.02733"},"type":"Feature"}
 ]}
