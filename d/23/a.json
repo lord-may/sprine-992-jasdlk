@@ -16,6 +16,7 @@
 {"geometry":{"coordinates":[-76.699939,40.794934],"type":"Point"},"properties":{"a":"40.794934","cty":"NORTHUMBERLAND","id":8839322,"mun":"ROCKEFELLER TWP","nc":1,"o":"-76.699939"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.424182,40.042469],"type":"Point"},"properties":{"a":"40.042469","cty":"LANCASTER","id":8839324,"mun":"MOUNTVILLE BORO","nc":1,"o":"-76.424182"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.28575,41.567302],"type":"Point"},"properties":{"a":"41.567302","cty":"WAYNE","id":8839325,"mun":"TEXAS TWP","nc":1,"o":"-75.28575"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.756822,40.272614],"type":"Point"},"properties":{"a":"40.272614","cty":"DAUPHIN","id":8839328,"mun":"SWATARA TWP","nc":6,"o":"-76.756822"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.975877,40.958965],"type":"Point"},"properties":{"a":"40.958965","cty":"LUZERNE","id":8839331,"mun":"HAZLETON","nc":17,"o":"-75.975877"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.975877,40.958965],"type":"Point"},"properties":{"a":"40.958965","cty":"LUZERNE","id":8839331,"mun":"HAZLETON","nc":17,"o":"-75.975877"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.208475,40.621795],"type":"Point"},"properties":{"a":"40.621795","cty":"SCHUYLKILL","id":8839335,"mun":"NORTH MANHEIM TWP","nc":1,"o":"-76.208475"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.839526,40.762279],"type":"Point"},"properties":{"a":"40.762279","cty":"SCHUYLKILL","id":8839338,"mun":"WEST PENN TWP","nc":1,"o":"-75.839526"},"type":"Feature"}
 ]}

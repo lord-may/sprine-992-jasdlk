@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-74.273029,42.018508],"type":"Point"},"properties":{"EstRest":"","Outages":3,"cause":"","county":"ULSTER","crewstatus":"DISP ","customers":3,"hamlet":"BOICEVILLE","incidentnumber":"011FS5","incidents":1,"level":"street","opco":"NYSEG","street":"COLDBROOK RD","town":"SHANDAKEN T"},"type":"Feature"},
-{"geometry":{"coordinates":[-74.274516,42.019973],"type":"Point"},"properties":{"EstRest":"","Outages":7,"county":"ULSTER","customers":5407,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.924576,42.507938],"type":"Point"},"properties":{"EstRest":"11/18/2026 4:30:00 PM","Outages":2,"cause":"","county":"YATES","crewstatus":"DISP ","customers":63,"hamlet":"DUNDEE","incidentnumber":"011FXD","incidents":1,"level":"street","opco":"NYSEG","street":"STATE ROUTE 14","town":"STARKEY T"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.924576,42.507938],"type":"Point"},"properties":{"EstRest":"11/18/2026 4:30:00 PM","Outages":2,"county":"YATES","customers":11944,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+{"geometry":{"coordinates":[-74.274516,42.019973],"type":"Point"},"properties":{"EstRest":"","Outages":7,"county":"ULSTER","customers":5407,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
