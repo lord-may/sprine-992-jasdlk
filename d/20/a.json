@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.336037,42.814857],"type":"Point"},"properties":{"EstRest":"11/18/2026 4:00:00 AM","Outages":17,"cause":"","county":"ONTARIO","crewstatus":"DISP ","customers":17,"hamlet":"CANANDAIGUA","incidentnumber":"011FRH","incidents":1,"level":"street","opco":"RGE","street":"BUNNELL RD","town":"CANANDAIGUA T"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.336037,42.814857],"type":"Point"},"properties":{"EstRest":"11/18/2026 4:00:00 AM","Outages":17,"cause":"","county":"ONTARIO","crewstatus":"ONST ","customers":17,"hamlet":"CANANDAIGUA","incidentnumber":"011FRH","incidents":1,"level":"street","opco":"RGE","street":"BUNNELL RD","town":"CANANDAIGUA T"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.351292,42.809895],"type":"Point"},"properties":{"EstRest":"11/18/2026 4:00:00 AM","Outages":300,"county":"ONTARIO","customers":35928,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}

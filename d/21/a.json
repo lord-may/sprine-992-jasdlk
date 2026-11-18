@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-70.102892,44.242363],"type":"Point"},"properties":{"EstRest":"11/18/2026 4:30:00 AM","Outages":2,"cause":"","county":"ANDROSCOGGIN","crewstatus":"ENRT ","customers":25,"hamlet":"LEEDS","incidentnumber":"0047DW","incidents":1,"level":"street","opco":"CMP","street":"PLAINS RD","town":"LEEDS"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.105343,44.241711],"type":"Point"},"properties":{"EstRest":"11/18/2026 4:30:00 AM","Outages":49,"county":"ANDROSCOGGIN","customers":59602,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
