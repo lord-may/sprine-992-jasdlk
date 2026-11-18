@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-72.89462,42.976765],"type":"Point"},"properties":{"active":true,"affectingCustomers":true,"cause":0,"county":"Windham","crew_name":",WILM-BUDROW","customers_affected":4,"customers_affected_label":"4 Customers","device":"TRANSFORMER","etor":"2026-11-18T00:00-05:00","has_etor":1,"incident_id":1018457,"status":"CREW_ASSIGNED","street":"BARTLETT LN EXT","town":"Dover","trouble":"NO_POWER"},"type":"Feature"}
+
 ]}
