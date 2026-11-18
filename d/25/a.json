@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-73.012351,43.557401],"type":"Point"},"properties":{"active":true,"affectingCustomers":true,"cause":0,"county":"Rutland","crew_name":",RUT- HOGAN","customers_affected":28,"customers_affected_label":"28 Customers","device":"FUSE","etor":"2026-11-18T11:00-05:00","has_etor":1,"incident_id":1018466,"status":"CREW_ASSIGNED","street":"SCHOOLHOUSE HILL RD","town":"Clarendon","trouble":"NO_POWER"},"type":"Feature"}
 ]}
