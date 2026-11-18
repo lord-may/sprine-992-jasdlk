@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.264442,43.630838],"type":"Point"},"properties":{"EstRest":"11/17/2026 10:00:00 PM","Outages":17,"cause":"","county":"CUMBERLAND","crewstatus":"     ","customers":19,"hamlet":"SOUTH PORTLAND","incidentnumber":"0047DQ","incidents":1,"level":"street","opco":"CMP","street":"KELLEY ST","town":"SOUTH PORTLAND"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.264442,43.630838],"type":"Point"},"properties":{"EstRest":"11/17/2026 10:00:00 PM","Outages":17,"cause":"","county":"CUMBERLAND","crewstatus":"ENRT ","customers":19,"hamlet":"SOUTH PORTLAND","incidentnumber":"0047DQ","incidents":1,"level":"street","opco":"CMP","street":"KELLEY ST","town":"SOUTH PORTLAND"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.264442,43.630838],"type":"Point"},"properties":{"EstRest":"11/17/2026 10:00:00 PM","Outages":17,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
