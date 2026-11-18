@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.5543,41.626577],"type":"Point"},"properties":{"a":"41.626577","cty":"LACKAWANNA","id":8838953,"mun":"GREENFIELD TWP","nc":5,"o":"-75.5543"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.55321,40.553522],"type":"Point"},"properties":{"a":"40.553522","cty":"LEHIGH","id":8839043,"mun":"LOWER MACUNGIE TWP","nc":8,"o":"-75.55321"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.738676,40.864085],"type":"Point"},"properties":{"a":"40.864085","cty":"CARBON","id":8839046,"mun":"JIM THORPE BORO","nc":27,"o":"-75.738676"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.379187,40.588021],"type":"Point"},"properties":{"a":"40.588021","cty":"JUNIATA","id":8839047,"mun":"FERMANAGH TWP","nc":10,"o":"-77.379187"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.379187,40.588021],"type":"Point"},"properties":{"a":"40.588021","cty":"JUNIATA","id":8839047,"mun":"FERMANAGH TWP","nc":10,"o":"-77.379187"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.411921,40.599917],"type":"Point"},"properties":{"a":"40.599917","cty":"JUNIATA","id":8839049,"mun":"FERMANAGH TWP","nc":1,"o":"-77.411921"},"type":"Feature"}
 ]}
