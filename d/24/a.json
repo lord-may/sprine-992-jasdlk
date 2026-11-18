@@ -3,9 +3,6 @@
 {"geometry":{"coordinates":[-71.457245,41.806262],"type":"Point"},"properties":{"a":"41.806262","cty":"PROVIDENCE","id":20261072745,"mun":"PROVIDENCE","nc":1,"o":"-71.457245"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.25348,41.58102],"type":"Point"},"properties":{"a":"41.58102","cty":"NEWPORT","hp":true,"id":20261072763,"mun":"PORTSMOUTH","nc":18,"ne":{"a":"41.5817","o":"-71.25327"},"o":"-71.25348","sw":{"a":"41.58034","o":"-71.25369"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.161852,41.521697],"type":"Point"},"properties":{"a":"41.521697","cty":"NEWPORT","id":20261072765,"mun":"LITTLE COMPTON","nc":1,"o":"-71.161852"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.499162,41.868032],"type":"Point"},"properties":{"a":"41.868032","cty":"PROVIDENCE","id":20261072771,"mun":"JOHNSTON","nc":1,"o":"-71.499162"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.457987,41.862229],"type":"Point"},"properties":{"a":"41.862229","cty":"PROVIDENCE","id":20261072772,"mun":"NORTH PROVIDENCE","nc":10,"o":"-71.457987"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.534081,41.530969],"type":"Point"},"properties":{"a":"41.530969","cty":"WASHINGTON","id":20261072773,"mun":"EXETER","nc":1,"o":"-71.534081"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.423793,41.868885],"type":"Point"},"properties":{"a":"41.868885","cty":"PROVIDENCE","id":20261072774,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.423793"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.427092,41.871078],"type":"Point"},"properties":{"a":"41.871078","cty":"PROVIDENCE","id":20261072775,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.427092"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.638024,41.836126],"type":"Point"},"properties":{"a":"41.836126","cty":"PROVIDENCE","id":20261072777,"mun":"SCITUATE","nc":1,"o":"-71.638024"},"type":"Feature"}
 ]}
