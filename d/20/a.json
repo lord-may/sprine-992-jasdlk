@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.505359,43.204173],"type":"Point"},"properties":{"EstRest":"11/18/2026 10:00:00 AM","Outages":8,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":41,"hamlet":"WEBSTER","incidentnumber":"011FS0","incidents":1,"level":"street","opco":"RGE","street":"CHERRY HILL LA","town":"WEBSTER"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.505359,43.204173],"type":"Point"},"properties":{"EstRest":"11/18/2026 10:00:00 AM","Outages":9,"county":"MONROE","customers":303529,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.358051,42.88103],"type":"Point"},"properties":{"EstRest":"11/18/2026 9:30:00 AM","Outages":6,"cause":"","county":"ONTARIO","crewstatus":"DISP ","customers":53,"hamlet":"CANANDAIGUA","incidentnumber":"011FS9","incidents":1,"level":"street","opco":"RGE","street":"ROUTE 5 & 20 W","town":"CANANDAIGUA T"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.358051,42.88103],"type":"Point"},"properties":{"EstRest":"11/18/2026 9:30:00 AM","Outages":6,"county":"ONTARIO","customers":35928,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}

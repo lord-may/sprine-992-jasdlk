@@ -1,12 +1,17 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.790195,40.250194],"type":"Point"},"properties":{"a":"40.250194","cty":"DAUPHIN","id":8839064,"mun":"SWATARA TWP","nc":3,"o":"-76.790195"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.55321,40.553522],"type":"Point"},"properties":{"a":"40.553522","cty":"LEHIGH","id":8839066,"mun":"LOWER MACUNGIE TWP","nc":1,"o":"-75.55321"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.245306,41.027911],"type":"Point"},"properties":{"a":"41.027911","cty":"MONROE","id":8839076,"mun":"STROUD TWP","nc":2,"o":"-75.245306"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.548761,40.491941],"type":"Point"},"properties":{"a":"40.491941","cty":"LEHIGH","id":8839078,"mun":"UPPER MILFORD TWP","nc":1,"o":"-75.548761"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.1975,41.33043],"type":"Point"},"properties":{"a":"41.33043","cty":"PIKE","hp":true,"id":8839084,"mun":"PALMYRA TWP","nc":99,"ne":{"a":"41.33171","o":"-75.19119"},"o":"-75.1975","sw":{"a":"41.32915","o":"-75.20381"}},"type":"Feature"},
 {"geometry":{"coordinates":[-74.902998,41.373979],"type":"Point"},"properties":{"a":"41.373979","cty":"PIKE","id":8839085,"mun":"SHOHOLA TWP","nc":3,"o":"-74.902998"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.96683,40.132928],"type":"Point"},"properties":{"a":"40.132928","cty":"LANCASTER","id":8839087,"mun":"CAERNARVON TWP","nc":9,"o":"-75.96683"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.281548,40.06877],"type":"Point"},"properties":{"a":"40.06877","cty":"LANCASTER","id":8839096,"mun":"MANHEIM TWP","nc":4,"o":"-76.281548"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.5179,40.550903],"type":"Point"},"properties":{"a":"40.550903","cty":"LEHIGH","id":8839097,"mun":"LOWER MACUNGIE TWP","nc":3,"o":"-75.5179"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.917062,41.141045],"type":"Point"},"properties":{"a":"41.141045","cty":"LUZERNE","id":8839101,"mun":"RICE TWP","nc":4,"o":"-75.917062"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.579022,40.615874],"type":"Point"},"properties":{"a":"40.615874","cty":"LEHIGH","id":8839105,"mun":"SOUTH WHITEHALL TWP","nc":12,"o":"-75.579022"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.574927,40.96707],"type":"Point"},"properties":{"a":"40.96707","cty":"MONTOUR","id":8839107,"mun":"MAHONING TWP","nc":3,"o":"-76.574927"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.335192,40.041884],"type":"Point"},"properties":{"a":"40.041884","cty":"LANCASTER","id":8839109,"mun":"LANCASTER TWP","nc":3,"o":"-76.335192"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.54008,40.610215],"type":"Point"},"properties":{"a":"40.610215","cty":"LEHIGH","id":8839111,"mun":"SOUTH WHITEHALL TWP","nc":16,"o":"-75.54008"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.376312,40.644274],"type":"Point"},"properties":{"a":"40.644274","cty":"NORTHAMPTON","id":8839113,"mun":"BETHLEHEM","nc":3,"o":"-75.376312"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.537687,40.990124],"type":"Point"},"properties":{"a":"40.990124","cty":"CARBON","id":8839114,"mun":"PENN FOREST TWP","nc":2,"o":"-75.537687"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.674928,41.311583],"type":"Point"},"properties":{"a":"41.311583","cty":"LACKAWANNA","id":8839115,"mun":"SPRING BROOK TWP","nc":2,"o":"-75.674928"},"type":"Feature"}
 ]}
