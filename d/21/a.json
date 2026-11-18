@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-69.960569,43.804581],"type":"Point"},"properties":{"EstRest":"11/18/2026 8:45:00 AM","Outages":60,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.963739,43.797348],"type":"Point"},"properties":{"EstRest":"11/18/2026 8:45:00 AM","Outages":14,"cause":"","county":"CUMBERLAND","crewstatus":"     ","customers":14,"hamlet":"HARPSWELL","incidentnumber":"0047E4","incidents":1,"level":"street","opco":"CMP","street":"HEADLAND RD","town":"HARPSWELL"},"type":"Feature"}
 ]}

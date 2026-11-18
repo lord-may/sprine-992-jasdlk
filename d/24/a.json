@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.499162,41.868032],"type":"Point"},"properties":{"a":"41.868032","cty":"PROVIDENCE","id":20261072616,"mun":"JOHNSTON","nc":1,"o":"-71.499162"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.490955,41.721017],"type":"Point"},"properties":{"a":"41.721017","cty":"KENT","id":20261072618,"mun":"WEST WARWICK","nc":1,"o":"-71.490955"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.498221,41.713733],"type":"Point"},"properties":{"a":"41.713733","cty":"KENT","id":20261072619,"mun":"WEST WARWICK","nc":1,"o":"-71.498221"},"type":"Feature"}
 ]}
