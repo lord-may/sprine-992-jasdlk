@@ -43,7 +43,9 @@
 {"geometry":{"coordinates":[-75.187899,41.095794],"type":"Point"},"properties":{"a":"41.095794","cty":"MONROE","id":8839204,"mun":"PRICE TWP","nc":3,"o":"-75.187899"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.990746,41.131914],"type":"Point"},"properties":{"a":"41.131914","cty":"LUZERNE","id":8839205,"mun":"DORRANCE TWP","nc":1,"o":"-75.990746"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.022217,40.273883],"type":"Point"},"properties":{"a":"40.273883","cty":"CUMBERLAND","id":8839206,"mun":"SILVER SPRING TWP","nc":3,"o":"-77.022217"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.359633,41.217445],"type":"Point"},"properties":{"a":"41.217445","cty":"MONROE","id":8839210,"mun":"COOLBAUGH TWP","nc":4,"o":"-75.359633"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.499371,40.977964],"type":"Point"},"properties":{"a":"40.977964","cty":"COLUMBIA","id":8839211,"mun":"MONTOUR TWP","nc":1,"o":"-76.499371"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.326567,41.25754],"type":"Point"},"properties":{"a":"41.25754","cty":"PIKE","id":8839213,"mun":"GREENE TWP","nc":1,"o":"-75.326567"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.326567,41.25754],"type":"Point"},"properties":{"a":"41.25754","cty":"PIKE","id":8839213,"mun":"GREENE TWP","nc":1,"o":"-75.326567"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.818514,41.297679],"type":"Point"},"properties":{"a":"41.297679","cty":"LUZERNE","id":8839215,"mun":"JENKINS TWP","nc":8,"o":"-75.818514"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.799304,40.304784],"type":"Point"},"properties":{"a":"40.304784","cty":"DAUPHIN","id":8839217,"mun":"LOWER PAXTON TWP","nc":4,"o":"-76.799304"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.1234,40.99298],"type":"Point"},"properties":{"a":"40.99298","cty":"LUZERNE","hp":true,"id":8839220,"mun":"SUGARLOAF TWP","nc":12,"ne":{"a":"40.99435","o":"-76.12025"},"o":"-76.1234","sw":{"a":"40.99161","o":"-76.12656"}},"type":"Feature"}
 ]}
