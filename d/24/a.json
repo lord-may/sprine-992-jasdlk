@@ -5,5 +5,7 @@
 {"geometry":{"coordinates":[-71.161852,41.521697],"type":"Point"},"properties":{"a":"41.521697","cty":"NEWPORT","id":20261072765,"mun":"LITTLE COMPTON","nc":1,"o":"-71.161852"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.499162,41.868032],"type":"Point"},"properties":{"a":"41.868032","cty":"PROVIDENCE","id":20261072771,"mun":"JOHNSTON","nc":1,"o":"-71.499162"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.457987,41.862229],"type":"Point"},"properties":{"a":"41.862229","cty":"PROVIDENCE","id":20261072772,"mun":"NORTH PROVIDENCE","nc":10,"o":"-71.457987"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.534081,41.530969],"type":"Point"},"properties":{"a":"41.530969","cty":"WASHINGTON","id":20261072773,"mun":"EXETER","nc":1,"o":"-71.534081"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.534081,41.530969],"type":"Point"},"properties":{"a":"41.530969","cty":"WASHINGTON","id":20261072773,"mun":"EXETER","nc":1,"o":"-71.534081"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.423793,41.868885],"type":"Point"},"properties":{"a":"41.868885","cty":"PROVIDENCE","id":20261072774,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.423793"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.427092,41.871078],"type":"Point"},"properties":{"a":"41.871078","cty":"PROVIDENCE","id":20261072775,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.427092"},"type":"Feature"}
 ]}
