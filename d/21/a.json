@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-70.541989,44.3569],"type":"Point"},"properties":{"EstRest":"11/18/2026 1:45:00 AM","Outages":17,"cause":"","county":"OXFORD","crewstatus":"     ","customers":17,"hamlet":"WOODSTOCK","incidentnumber":"0047DU","incidents":1,"level":"street","opco":"CMP","street":"HARBOR RD","town":"WOODSTOCK"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.545905,44.361967],"type":"Point"},"properties":{"EstRest":"11/18/2026 1:45:00 AM","Outages":20,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
