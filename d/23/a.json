@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.54835,41.048787],"type":"Point"},"properties":{"a":"41.048787","cty":"MONROE","id":8839292,"mun":"TUNKHANNOCK TWP","nc":1,"o":"-75.54835"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.49151,40.532804],"type":"Point"},"properties":{"a":"40.532804","cty":"LEHIGH","id":8839298,"mun":"EMMAUS BORO","nc":18,"o":"-75.49151"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.500988,41.008284],"type":"Point"},"properties":{"a":"41.008284","cty":"MONROE","id":8839318,"mun":"TUNKHANNOCK TWP","nc":1,"o":"-75.500988"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.208475,40.621795],"type":"Point"},"properties":{"a":"40.621795","cty":"SCHUYLKILL","id":8839335,"mun":"NORTH MANHEIM TWP","nc":1,"o":"-76.208475"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.980648,41.192529],"type":"Point"},"properties":{"a":"41.192529","cty":"LYCOMING","id":8839345,"mun":"ARMSTRONG TWP","nc":1,"o":"-76.980648"},"type":"Feature"},
@@ -10,5 +9,5 @@
 {"geometry":{"coordinates":[-75.4194,40.64489],"type":"Point"},"properties":{"a":"40.64489","cty":"LEHIGH","hp":true,"id":8839380,"mun":"BETHLEHEM","nc":178,"ne":{"a":"40.64736","o":"-75.41709"},"o":"-75.4194","sw":{"a":"40.64241","o":"-75.42171"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.18417,40.51371],"type":"Point"},"properties":{"a":"40.51371","cty":"PERRY","hp":true,"id":8839397,"mun":"JUNIATA TWP","nc":244,"ne":{"a":"40.53657","o":"-77.14749"},"o":"-77.18417","sw":{"a":"40.49085","o":"-77.22086"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.798414,41.111063],"type":"Point"},"properties":{"a":"41.111063","cty":"LUZERNE","id":8839400,"mun":"DENNISON TWP","nc":1,"o":"-75.798414"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.590383,40.581894],"type":"Point"},"properties":{"a":"40.581894","cty":"LEHIGH","id":8839405,"mun":"UPPER MACUNGIE TWP","nc":4,"o":"-75.590383"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.159877,40.546777],"type":"Point"},"properties":{"a":"40.546777","cty":"PERRY","id":8839412,"mun":"TUSCARORA TWP","nc":7,"o":"-77.159877"},"type":"Feature"}
 ]}
