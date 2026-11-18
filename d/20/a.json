@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.782712,43.117897],"type":"Point"},"properties":{"EstRest":"11/18/2026 11:45:00 AM","Outages":34,"county":"MONROE","customers":303529,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.786666,43.118008],"type":"Point"},"properties":{"EstRest":"11/18/2026 11:45:00 AM","Outages":23,"cause":"System Upgrade","county":"MONROE","crewstatus":"DISP ","customers":37,"hamlet":"ROCHESTER","incidentnumber":"011FTB","incidents":1,"level":"street","opco":"RGE","street":"SAND PEBBLE DR","town":"CHILI"},"type":"Feature"}
+
 ]}
