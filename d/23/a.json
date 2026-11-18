@@ -3,5 +3,6 @@
 {"geometry":{"coordinates":[-76.953529,40.238703],"type":"Point"},"properties":{"a":"40.238703","cty":"CUMBERLAND","id":8838996,"mun":"HAMPDEN TWP","nc":9,"o":"-76.953529"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.17979,41.42761],"type":"Point"},"properties":{"a":"41.42761","cty":"PIKE","hp":true,"id":8839008,"mun":"PALMYRA TWP","nc":20,"ne":{"a":"41.42877","o":"-75.17916"},"o":"-75.17979","sw":{"a":"41.42645","o":"-75.18041"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.9637,41.248444],"type":"Point"},"properties":{"a":"41.248444","cty":"LYCOMING","id":8839021,"mun":"LOYALSOCK TWP","nc":5,"o":"-76.9637"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.17914,41.429365],"type":"Point"},"properties":{"a":"41.429365","cty":"PIKE","id":8839023,"mun":"PALMYRA TWP","nc":18,"o":"-75.17914"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.17914,41.429365],"type":"Point"},"properties":{"a":"41.429365","cty":"PIKE","id":8839023,"mun":"PALMYRA TWP","nc":18,"o":"-75.17914"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.782777,40.208819],"type":"Point"},"properties":{"a":"40.208819","cty":"DAUPHIN","id":8839026,"mun":"HIGHSPIRE BORO","nc":1,"o":"-76.782777"},"type":"Feature"}
 ]}
