@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.451163,41.845665],"type":"Point"},"properties":{"a":"41.845665","cty":"PROVIDENCE","id":20261072941,"mun":"PROVIDENCE","nc":1,"o":"-71.451163"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.468901,41.983574],"type":"Point"},"properties":{"a":"41.983574","cty":"PROVIDENCE","id":20261072957,"mun":"CUMBERLAND","nc":1,"o":"-71.468901"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.374422,41.889667],"type":"Point"},"properties":{"a":"41.889667","cty":"PROVIDENCE","id":20261072961,"mun":"PAWTUCKET","nc":1,"o":"-71.374422"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.496836,41.653413],"type":"Point"},"properties":{"a":"41.653413","cty":"KENT","id":20261072965,"mun":"EAST GREENWICH","nc":1,"o":"-71.496836"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.462269,41.850492],"type":"Point"},"properties":{"a":"41.850492","cty":"PROVIDENCE","id":20261072966,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.462269"},"type":"Feature"}
 ]}
