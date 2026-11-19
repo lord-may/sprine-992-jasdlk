@@ -24,11 +24,13 @@
 {"geometry":{"coordinates":[-76.992707,41.270609],"type":"Point"},"properties":{"a":"41.270609","cty":"LYCOMING","id":8839562,"mun":"LOYALSOCK TWP","nc":2,"o":"-76.992707"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.498535,41.028109],"type":"Point"},"properties":{"a":"41.028109","cty":"MONROE","id":8839564,"mun":"TUNKHANNOCK TWP","nc":1,"o":"-75.498535"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.49989,41.03041],"type":"Point"},"properties":{"a":"41.03041","cty":"MONROE","id":8839574,"mun":"TUNKHANNOCK TWP","nc":1,"o":"-75.49989"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.473986,40.604589],"type":"Point"},"properties":{"a":"40.604589","cty":"LEHIGH","id":8839577,"mun":"ALLENTOWN","nc":1,"o":"-75.473986"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.89698,40.321424],"type":"Point"},"properties":{"a":"40.321424","cty":"DAUPHIN","id":8839578,"mun":"SUSQUEHANNA TWP","nc":4,"o":"-76.89698"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.45247,40.6739],"type":"Point"},"properties":{"a":"40.6739","cty":"SCHUYLKILL","hp":true,"id":8839579,"mun":"HEGINS TWP","nc":31,"ne":{"a":"40.6774","o":"-76.44502"},"o":"-76.45247","sw":{"a":"40.6704","o":"-76.45993"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.05709,41.307366],"type":"Point"},"properties":{"a":"41.307366","cty":"PIKE","id":8839580,"mun":"BLOOMING GROVE TWP","nc":7,"o":"-75.05709"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.77835,40.76887],"type":"Point"},"properties":{"a":"40.76887","cty":"CARBON","hp":true,"id":8839584,"mun":"EAST PENN TWP","nc":7,"ne":{"a":"40.77157","o":"-75.77683"},"o":"-75.77835","sw":{"a":"40.76618","o":"-75.77988"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.14218,40.88744],"type":"Point"},"properties":{"a":"40.88744","cty":"SCHUYLKILL","hp":true,"id":8839590,"mun":"EAST UNION TWP","nc":5,"ne":{"a":"40.89159","o":"-76.13101"},"o":"-76.14218","sw":{"a":"40.88329","o":"-76.15334"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.670309,41.597292],"type":"Point"},"properties":{"a":"41.597292","cty":"LACKAWANNA","id":8839594,"mun":"BENTON TWP","nc":3,"o":"-75.670309"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.670309,41.597292],"type":"Point"},"properties":{"a":"41.597292","cty":"LACKAWANNA","id":8839594,"mun":"BENTON TWP","nc":3,"o":"-75.670309"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.473286,41.631463],"type":"Point"},"properties":{"a":"41.631463","cty":"LACKAWANNA","id":8839601,"mun":"VANDLING BORO","nc":2,"o":"-75.473286"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.422343,40.630785],"type":"Point"},"properties":{"a":"40.630785","cty":"LEHIGH","id":8839602,"mun":"ALLENTOWN","nc":13,"o":"-75.422343"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.993629,40.808066],"type":"Point"},"properties":{"a":"40.808066","cty":"SNYDER","id":8839603,"mun":"MIDDLECREEK TWP","nc":1,"o":"-76.993629"},"type":"Feature"}
 ]}
