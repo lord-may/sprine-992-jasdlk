@@ -7,8 +7,9 @@
 {"geometry":{"coordinates":[-75.471637,40.603994],"type":"Point"},"properties":{"a":"40.603994","cty":"LEHIGH","id":8839706,"mun":"ALLENTOWN","nc":46,"o":"-75.471637"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.391472,40.034685],"type":"Point"},"properties":{"a":"40.034685","cty":"LANCASTER","id":8839719,"mun":"MANOR TWP","nc":5,"o":"-76.391472"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.096976,41.299356],"type":"Point"},"properties":{"a":"41.299356","cty":"PIKE","id":8839725,"mun":"BLOOMING GROVE TWP","nc":1,"o":"-75.096976"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.14896,40.65344],"type":"Point"},"properties":{"a":"40.65344","cty":"SCHUYLKILL","hp":true,"id":8839741,"mun":"NORTH MANHEIM TWP","nc":607,"ne":{"a":"40.66961","o":"-76.13447"},"o":"-76.14896","sw":{"a":"40.63728","o":"-76.16345"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.15933,40.64338],"type":"Point"},"properties":{"a":"40.64338","cty":"SCHUYLKILL","hp":true,"id":8839741,"mun":"NORTH MANHEIM TWP","nc":251,"ne":{"a":"40.64948","o":"-76.15569"},"o":"-76.15933","sw":{"a":"40.63728","o":"-76.16297"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.152947,40.785238],"type":"Point"},"properties":{"a":"40.785238","cty":"SNYDER","id":8839742,"mun":"BEAVER TWP","nc":1,"o":"-77.152947"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.839051,40.075551],"type":"Point"},"properties":{"a":"40.075551","cty":"CHESTER","id":8839745,"mun":"HONEYBROOK TWP","nc":1,"o":"-75.839051"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.99108,40.313981],"type":"Point"},"properties":{"a":"40.313981","cty":"BERKS","id":8839749,"mun":"SPRING TWP","nc":15,"o":"-75.99108"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.99665,40.957464],"type":"Point"},"properties":{"a":"40.957464","cty":"LUZERNE","id":8839752,"mun":"HAZLE TWP","nc":12,"o":"-75.99665"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.040975,41.499646],"type":"Point"},"properties":{"a":"41.499646","cty":"PIKE","id":8839754,"mun":"LACKAWAXEN TWP","nc":2,"o":"-75.040975"},"type":"Feature"}
 ]}
