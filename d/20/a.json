@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-77.599642,43.219044],"type":"Point"},"properties":{"EstRest":"11/19/2026 11:45:00 AM","Outages":39,"county":"MONROE","customers":303529,"incidents":2,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}

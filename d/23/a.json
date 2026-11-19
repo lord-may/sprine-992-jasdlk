@@ -1,7 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.21341,40.32028],"type":"Point"},"properties":{"a":"40.32028","cty":"LEBANON","hp":true,"id":8839458,"mun":"MILLCREEK TWP","nc":19,"ne":{"a":"40.32451","o":"-76.20877"},"o":"-76.21341","sw":{"a":"40.31604","o":"-76.21804"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.330021,41.118469],"type":"Point"},"properties":{"a":"41.118469","cty":"MONROE","id":8839459,"mun":"PARADISE TWP","nc":3,"o":"-75.330021"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.841314,40.073164],"type":"Point"},"properties":{"a":"40.073164","cty":"CHESTER","id":8839465,"mun":"HONEYBROOK TWP","nc":16,"o":"-75.841314"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.966421,40.96406],"type":"Point"},"properties":{"a":"40.96406","cty":"LUZERNE","id":8839470,"mun":"HAZLETON","nc":18,"o":"-75.966421"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.893812,41.216611],"type":"Point"},"properties":{"a":"41.216611","cty":"LUZERNE","id":8839477,"mun":"HANOVER TWP","nc":11,"o":"-75.893812"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.2714,40.27865],"type":"Point"},"properties":{"a":"40.27865","cty":"LEBANON","hp":true,"id":8839481,"mun":"HEIDELBERG TWP","nc":7,"ne":{"a":"40.27988","o":"-76.26867"},"o":"-76.2714","sw":{"a":"40.27741","o":"-76.27413"}},"type":"Feature"},
@@ -14,6 +13,10 @@
 {"geometry":{"coordinates":[-75.24443,41.451019],"type":"Point"},"properties":{"a":"41.451019","cty":"WAYNE","id":8839493,"mun":"PAUPACK TWP","nc":2,"o":"-75.24443"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.617149,41.46776],"type":"Point"},"properties":{"a":"41.46776","cty":"LACKAWANNA","id":8839495,"mun":"DICKSON CITY BORO","nc":15,"o":"-75.617149"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.553413,40.563992],"type":"Point"},"properties":{"a":"40.563992","cty":"LEHIGH","id":8839500,"mun":"LOWER MACUNGIE TWP","nc":7,"o":"-75.553413"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.490343,40.602376],"type":"Point"},"properties":{"a":"40.602376","cty":"LEHIGH","id":8839501,"mun":"ALLENTOWN","nc":1,"o":"-75.490343"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.052428,40.172517],"type":"Point"},"properties":{"a":"40.172517","cty":"LANCASTER","id":8839502,"mun":"EAST EARL TWP","nc":3,"o":"-76.052428"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.165006,40.702188],"type":"Point"},"properties":{"a":"40.702188","cty":"SCHUYLKILL","id":8839503,"mun":"PORT CARBON BORO","nc":13,"o":"-76.165006"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.99633,40.20479],"type":"Point"},"properties":{"a":"40.20479","cty":"LANCASTER","hp":true,"id":8839504,"mun":"BRECKNOCK TWP","nc":6,"ne":{"a":"40.20564","o":"-75.99593"},"o":"-75.99633","sw":{"a":"40.20394","o":"-75.99673"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.464358,41.250455],"type":"Point"},"properties":{"a":"41.250455","cty":"LACKAWANNA","id":8839505,"mun":"CLIFTON TWP","nc":4,"o":"-75.464358"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.376478,40.645419],"type":"Point"},"properties":{"a":"40.645419","cty":"NORTHAMPTON","id":8839506,"mun":"BETHLEHEM","nc":3,"o":"-75.376478"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.113822,40.094969],"type":"Point"},"properties":{"a":"40.094969","cty":"LANCASTER","id":8839508,"mun":"EARL TWP","nc":4,"o":"-76.113822"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.34827,40.650038],"type":"Point"},"properties":{"a":"40.650038","cty":"NORTHAMPTON","id":8839510,"mun":"BETHLEHEM","nc":14,"o":"-75.34827"},"type":"Feature"}
 ]}

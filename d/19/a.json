@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-78.713996,42.770639],"type":"Point"},"properties":{"EstRest":"11/19/2026 11:10:00 AM","Outages":6,"cause":"System Upgrade","county":"ERIE","crewstatus":"ONST ","customers":84,"hamlet":"ORCHARD PARK","incidentnumber":"011G1L","incidents":1,"level":"street","opco":"NYSEG","street":"E QUAKER ST","town":"ORCHARD PAR T"},"type":"Feature"},
+{"geometry":{"coordinates":[-78.713996,42.770639],"type":"Point"},"properties":{"EstRest":"11/19/2026 11:10:00 AM","Outages":6,"county":"ERIE","customers":157708,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.879273,42.558773],"type":"Point"},"properties":{"EstRest":"11/19/2026 11:30:00 AM","Outages":6,"county":"SENECA","customers":17802,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
