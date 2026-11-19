@@ -20,7 +20,6 @@
 {"geometry":{"coordinates":[-76.37201,39.95505],"type":"Point"},"properties":{"a":"39.95505","cty":"LANCASTER","hp":true,"id":8839550,"mun":"MANOR TWP","nc":14,"ne":{"a":"39.96347","o":"-76.36899"},"o":"-76.37201","sw":{"a":"39.94662","o":"-76.37503"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.931662,40.713237],"type":"Point"},"properties":{"a":"40.713237","cty":"SNYDER","id":8839557,"mun":"CHAPMAN TWP","nc":1,"o":"-76.931662"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.774176,41.097584],"type":"Point"},"properties":{"a":"41.097584","cty":"LUZERNE","id":8839561,"mun":"DENNISON TWP","nc":1,"o":"-75.774176"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.992707,41.270609],"type":"Point"},"properties":{"a":"41.270609","cty":"LYCOMING","id":8839562,"mun":"LOYALSOCK TWP","nc":2,"o":"-76.992707"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.498535,41.028109],"type":"Point"},"properties":{"a":"41.028109","cty":"MONROE","id":8839564,"mun":"TUNKHANNOCK TWP","nc":1,"o":"-75.498535"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.49989,41.03041],"type":"Point"},"properties":{"a":"41.03041","cty":"MONROE","id":8839574,"mun":"TUNKHANNOCK TWP","nc":1,"o":"-75.49989"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.89698,40.321424],"type":"Point"},"properties":{"a":"40.321424","cty":"DAUPHIN","id":8839578,"mun":"SUSQUEHANNA TWP","nc":4,"o":"-76.89698"},"type":"Feature"},
@@ -30,9 +29,14 @@
 {"geometry":{"coordinates":[-75.670309,41.597292],"type":"Point"},"properties":{"a":"41.597292","cty":"LACKAWANNA","id":8839594,"mun":"BENTON TWP","nc":3,"o":"-75.670309"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.422343,40.630785],"type":"Point"},"properties":{"a":"40.630785","cty":"LEHIGH","id":8839602,"mun":"ALLENTOWN","nc":13,"o":"-75.422343"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.993629,40.808066],"type":"Point"},"properties":{"a":"40.808066","cty":"SNYDER","id":8839603,"mun":"MIDDLECREEK TWP","nc":1,"o":"-76.993629"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.205537,40.816737],"type":"Point"},"properties":{"a":"40.816737","cty":"SCHUYLKILL","id":8839606,"mun":"SHENANDOAH BORO","nc":1,"o":"-76.205537"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.530627,40.541496],"type":"Point"},"properties":{"a":"40.541496","cty":"LEHIGH","id":8839607,"mun":"LOWER MACUNGIE TWP","nc":1,"o":"-75.530627"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.431558,41.241528],"type":"Point"},"properties":{"a":"41.241528","cty":"COLUMBIA","id":8839609,"mun":"JACKSON TWP","nc":1,"o":"-76.431558"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.470905,41.219752],"type":"Point"},"properties":{"a":"41.219752","cty":"COLUMBIA","id":8839610,"mun":"PINE TWP","nc":1,"o":"-76.470905"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.4765,40.031753],"type":"Point"},"properties":{"a":"40.031753","cty":"LANCASTER","id":8839613,"mun":"WEST HEMPFIELD TWP","nc":1,"o":"-76.4765"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.4765,40.031753],"type":"Point"},"properties":{"a":"40.031753","cty":"LANCASTER","id":8839613,"mun":"WEST HEMPFIELD TWP","nc":1,"o":"-76.4765"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.234942,41.364565],"type":"Point"},"properties":{"a":"41.364565","cty":"PIKE","id":8839617,"mun":"PALMYRA TWP","nc":3,"o":"-75.234942"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.066238,41.320672],"type":"Point"},"properties":{"a":"41.320672","cty":"PIKE","id":8839618,"mun":"BLOOMING GROVE TWP","nc":1,"o":"-75.066238"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.283237,41.568319],"type":"Point"},"properties":{"a":"41.568319","cty":"WAYNE","id":8839619,"mun":"TEXAS TWP","nc":1,"o":"-75.283237"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.87183,41.2422],"type":"Point"},"properties":{"a":"41.2422","cty":"LUZERNE","hp":true,"id":8839620,"mun":"WILKES-BARRE","nc":750,"ne":{"a":"41.24899","o":"-75.86413"},"o":"-75.87183","sw":{"a":"41.23541","o":"-75.87953"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.103301,40.935783],"type":"Point"},"properties":{"a":"40.935783","cty":"LUZERNE","id":8839621,"mun":"HAZLE TWP","nc":2,"o":"-76.103301"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.214806,41.531994],"type":"Point"},"properties":{"a":"41.531994","cty":"WAYNE","id":8839623,"mun":"TEXAS TWP","nc":7,"o":"-75.214806"},"type":"Feature"}
 ]}
