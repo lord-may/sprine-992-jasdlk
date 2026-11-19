@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.43793,41.702212],"type":"Point"},"properties":{"a":"41.702212","cty":"KENT","id":20261072994,"mun":"WARWICK","nc":1,"o":"-71.43793"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.377541,41.82085],"type":"Point"},"properties":{"a":"41.82085","cty":"PROVIDENCE","id":20261072995,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.377541"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.377541,41.82085],"type":"Point"},"properties":{"a":"41.82085","cty":"PROVIDENCE","id":20261072995,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.377541"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.395513,41.885252],"type":"Point"},"properties":{"a":"41.885252","cty":"PROVIDENCE","id":20261072997,"mun":"CENTRAL FALLS","nc":1,"o":"-71.395513"},"type":"Feature"}
 ]}
