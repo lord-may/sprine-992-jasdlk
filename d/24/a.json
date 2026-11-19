@@ -7,6 +7,7 @@
 {"geometry":{"coordinates":[-71.317675,41.493543],"type":"Point"},"properties":{"a":"41.493543","cty":"NEWPORT","id":20261072861,"mun":"NEWPORT","nc":14,"o":"-71.317675"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.437895,41.82665],"type":"Point"},"properties":{"a":"41.82665","cty":"PROVIDENCE","id":20261072862,"mun":"PROVIDENCE","nc":106,"o":"-71.437895"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.526493,41.991406],"type":"Point"},"properties":{"a":"41.991406","cty":"PROVIDENCE","id":20261072868,"mun":"WOONSOCKET","nc":1,"o":"-71.526493"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.451546,41.828963],"type":"Point"},"properties":{"a":"41.828963","cty":"PROVIDENCE","id":20261072871,"mun":"PROVIDENCE","nc":1,"o":"-71.451546"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.449472,41.845506],"type":"Point"},"properties":{"a":"41.845506","cty":"PROVIDENCE","id":20261072872,"mun":"PROVIDENCE","nc":1,"o":"-71.449472"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.471268,41.734427],"type":"Point"},"properties":{"a":"41.734427","cty":"PROVIDENCE","id":20261072874,"mun":"CRANSTON","nc":1,"o":"-71.471268"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.397583,41.886263],"type":"Point"},"properties":{"a":"41.886263","cty":"PROVIDENCE","id":20261072875,"mun":"CENTRAL FALLS","nc":1,"o":"-71.397583"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.534081,41.530969],"type":"Point"},"properties":{"a":"41.530969","cty":"WASHINGTON","id":20261072877,"mun":"EXETER","nc":1,"o":"-71.534081"},"type":"Feature"}
 ]}
