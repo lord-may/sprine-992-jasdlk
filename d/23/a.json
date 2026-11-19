@@ -10,14 +10,10 @@
 {"geometry":{"coordinates":[-76.371802,39.958267],"type":"Point"},"properties":{"a":"39.958267","cty":"LANCASTER","id":8839527,"mun":"MANOR TWP","nc":4,"o":"-76.371802"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.397271,40.651888],"type":"Point"},"properties":{"a":"40.651888","cty":"NORTHAMPTON","id":8839530,"mun":"HANOVER TWP","nc":1,"o":"-75.397271"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.49989,41.03041],"type":"Point"},"properties":{"a":"41.03041","cty":"MONROE","id":8839574,"mun":"TUNKHANNOCK TWP","nc":1,"o":"-75.49989"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.89698,40.321424],"type":"Point"},"properties":{"a":"40.321424","cty":"DAUPHIN","id":8839578,"mun":"SUSQUEHANNA TWP","nc":4,"o":"-76.89698"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.14218,40.88744],"type":"Point"},"properties":{"a":"40.88744","cty":"SCHUYLKILL","hp":true,"id":8839590,"mun":"EAST UNION TWP","nc":5,"ne":{"a":"40.89159","o":"-76.13101"},"o":"-76.14218","sw":{"a":"40.88329","o":"-76.15334"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.670309,41.597292],"type":"Point"},"properties":{"a":"41.597292","cty":"LACKAWANNA","id":8839594,"mun":"BENTON TWP","nc":3,"o":"-75.670309"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.422343,40.630785],"type":"Point"},"properties":{"a":"40.630785","cty":"LEHIGH","id":8839602,"mun":"ALLENTOWN","nc":13,"o":"-75.422343"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.530627,40.541496],"type":"Point"},"properties":{"a":"40.541496","cty":"LEHIGH","id":8839607,"mun":"LOWER MACUNGIE TWP","nc":1,"o":"-75.530627"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.431558,41.241528],"type":"Point"},"properties":{"a":"41.241528","cty":"COLUMBIA","id":8839609,"mun":"JACKSON TWP","nc":1,"o":"-76.431558"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.470905,41.219752],"type":"Point"},"properties":{"a":"41.219752","cty":"COLUMBIA","id":8839610,"mun":"PINE TWP","nc":1,"o":"-76.470905"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.234942,41.364565],"type":"Point"},"properties":{"a":"41.364565","cty":"PIKE","id":8839617,"mun":"PALMYRA TWP","nc":3,"o":"-75.234942"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.283237,41.568319],"type":"Point"},"properties":{"a":"41.568319","cty":"WAYNE","id":8839619,"mun":"TEXAS TWP","nc":1,"o":"-75.283237"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.489984,41.021692],"type":"Point"},"properties":{"a":"41.021692","cty":"MONROE","id":8839628,"mun":"TUNKHANNOCK TWP","nc":1,"o":"-75.489984"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.491943,41.408643],"type":"Point"},"properties":{"a":"41.408643","cty":"LACKAWANNA","id":8839632,"mun":"JEFFERSON TWP","nc":3,"o":"-75.491943"},"type":"Feature"},
@@ -29,6 +25,5 @@
 {"geometry":{"coordinates":[-75.726958,40.890446],"type":"Point"},"properties":{"a":"40.890446","cty":"CARBON","id":8839659,"mun":"JIM THORPE BORO","nc":1,"o":"-75.726958"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.110436,40.739623],"type":"Point"},"properties":{"a":"40.739623","cty":"SCHUYLKILL","id":8839667,"mun":"BLYTHE TWP","nc":1,"o":"-76.110436"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.988993,41.151638],"type":"Point"},"properties":{"a":"41.151638","cty":"LUZERNE","id":8839668,"mun":"SLOCUM TWP","nc":1,"o":"-75.988993"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.79039,40.25144],"type":"Point"},"properties":{"a":"40.25144","cty":"DAUPHIN","hp":true,"id":8839669,"mun":"SWATARA TWP","nc":10,"ne":{"a":"40.25215","o":"-76.79002"},"o":"-76.79039","sw":{"a":"40.25072","o":"-76.79076"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.516242,41.125342],"type":"Point"},"properties":{"a":"41.125342","cty":"COLUMBIA","id":8839670,"mun":"MILLVILLE BORO","nc":3,"o":"-76.516242"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.51703,41.12723],"type":"Point"},"properties":{"a":"41.12723","cty":"COLUMBIA","hp":true,"id":8839672,"mun":"MILLVILLE BORO","nc":6,"ne":{"a":"41.12938","o":"-76.51414"},"o":"-76.51703","sw":{"a":"41.12507","o":"-76.51992"}},"type":"Feature"}
 ]}
