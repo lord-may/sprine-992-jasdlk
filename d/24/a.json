@@ -1,6 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.406242,41.806171],"type":"Point"},"properties":{"a":"41.806171","cty":"PROVIDENCE","id":20261072786,"mun":"PROVIDENCE","nc":1,"o":"-71.406242"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.39089,41.74056],"type":"Point"},"properties":{"a":"41.74056","cty":"KENT","hp":true,"id":20261072787,"mun":"WARWICK","nc":33,"ne":{"a":"41.74206","o":"-71.38911"},"o":"-71.39089","sw":{"a":"41.73906","o":"-71.39267"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.638024,41.836126],"type":"Point"},"properties":{"a":"41.836126","cty":"PROVIDENCE","id":20261072788,"mun":"SCITUATE","nc":1,"o":"-71.638024"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.435745,41.808048],"type":"Point"},"properties":{"a":"41.808048","cty":"PROVIDENCE","id":20261072789,"mun":"PROVIDENCE","nc":1,"o":"-71.435745"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.39089,41.74056],"type":"Point"},"properties":{"a":"41.74056","cty":"KENT","hp":true,"id":20261072787,"mun":"WARWICK","nc":33,"ne":{"a":"41.74206","o":"-71.38911"},"o":"-71.39089","sw":{"a":"41.73906","o":"-71.39267"}},"type":"Feature"}
 ]}
