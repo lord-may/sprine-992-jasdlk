@@ -4,5 +4,6 @@
 {"geometry":{"coordinates":[-76.615936,41.08944],"type":"Point"},"properties":{"a":"41.08944","cty":"COLUMBIA","id":8839455,"mun":"MADISON TWP","nc":1,"o":"-76.615936"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.215563,40.319947],"type":"Point"},"properties":{"a":"40.319947","cty":"LEBANON","id":8839458,"mun":"MILLCREEK TWP","nc":2,"o":"-76.215563"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.330021,41.118469],"type":"Point"},"properties":{"a":"41.118469","cty":"MONROE","id":8839459,"mun":"PARADISE TWP","nc":3,"o":"-75.330021"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.20936,40.321989],"type":"Point"},"properties":{"a":"40.321989","cty":"LEBANON","id":8839461,"mun":"MILLCREEK TWP","nc":1,"o":"-76.20936"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.20936,40.321989],"type":"Point"},"properties":{"a":"40.321989","cty":"LEBANON","id":8839461,"mun":"MILLCREEK TWP","nc":1,"o":"-76.20936"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.841314,40.073164],"type":"Point"},"properties":{"a":"40.073164","cty":"CHESTER","id":8839465,"mun":"HONEYBROOK TWP","nc":16,"o":"-75.841314"},"type":"Feature"}
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-72.08681,41.53711],"type":"Point"},"properties":{"ADDRESS":"94 WILLIAMS ST, NORWICH, CT, 06360","CUSTOMER_COUNT":141,"DEVICE_OID":2764,"FACILITY_ID":"FUS-S29","FEEDER_ID":"524","GDB_GEOMATTR_DATA":"","ID":45231,"INCIDENT_ID":50418,"OBJECTID":7898,"ORIG_FID":null,"REGION":1,"RxOID":2764,"TIME_OUTAGE":"11/19/2026 06:50 AM","TIME_RESTORED_EST":"Is still under review"},"type":"Feature"}
 ]}
