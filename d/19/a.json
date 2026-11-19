@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.562595,43.045934],"type":"Point"},"properties":{"EstRest":"11/19/2026 5:00:00 AM","Outages":1,"cause":"","county":"CAYUGA","crewstatus":"ONST ","customers":85,"hamlet":"WEEDSPORT","incidentnumber":"011G07","incidents":1,"level":"street","opco":"NYSEG","street":"S SENECA ST","town":"WEEDSPORT V"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.562595,43.045934],"type":"Point"},"properties":{"EstRest":"11/19/2026 5:00:00 AM","Outages":7,"county":"CAYUGA","customers":32360,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.8792,42.557817],"type":"Point"},"properties":{"EstRest":"11/19/2026 6:30:00 AM","Outages":2,"cause":"","county":"SENECA","crewstatus":"ENRT ","customers":4,"hamlet":"LODI","incidentnumber":"011G0B","incidents":1,"level":"street","opco":"NYSEG","street":"STOWE RD","town":"LODI T"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.8792,42.557817],"type":"Point"},"properties":{"EstRest":"11/19/2026 6:30:00 AM","Outages":2,"county":"SENECA","customers":17802,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}

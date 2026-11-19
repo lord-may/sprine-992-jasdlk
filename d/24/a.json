@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.534081,41.530969],"type":"Point"},"properties":{"a":"41.530969","cty":"WASHINGTON","id":20261072818,"mun":"EXETER","nc":1,"o":"-71.534081"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.449408,41.757795],"type":"Point"},"properties":{"a":"41.757795","cty":"PROVIDENCE","id":20261072819,"mun":"CRANSTON","nc":1,"o":"-71.449408"},"type":"Feature"}
+
 ]}
