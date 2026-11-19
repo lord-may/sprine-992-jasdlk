@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-77.633339,43.148232],"type":"Point"},"properties":{"EstRest":"11/18/2026 9:15:00 PM","Outages":2,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":9,"hamlet":"ROCHESTER","incidentnumber":"011FZ5","incidents":1,"level":"street","opco":"RGE","street":"ROCKLAND PK","town":"ROCHESTER"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.633339,43.148232],"type":"Point"},"properties":{"EstRest":"11/18/2026 9:15:00 PM","Outages":9,"county":"MONROE","customers":303529,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.633339,43.148232],"type":"Point"},"properties":{"EstRest":"11/18/2026 9:15:00 PM","Outages":9,"county":"MONROE","customers":303529,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.344667,43.183922],"type":"Point"},"properties":{"EstRest":"11/18/2026 10:00:00 PM","Outages":1,"cause":"","county":"WAYNE","crewstatus":"DISP ","customers":41,"hamlet":"MACEDON","incidentnumber":"011FZB","incidents":1,"level":"street","opco":"RGE","street":"PLANK RD","town":"WALWORTH"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.344667,43.183922],"type":"Point"},"properties":{"EstRest":"11/18/2026 10:00:00 PM","Outages":1,"county":"WAYNE","customers":27021,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
