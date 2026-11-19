@@ -1,7 +1,8 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.496836,41.653413],"type":"Point"},"properties":{"a":"41.653413","cty":"KENT","id":20261072965,"mun":"EAST GREENWICH","nc":1,"o":"-71.496836"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.395363,41.887111],"type":"Point"},"properties":{"a":"41.887111","cty":"PROVIDENCE","id":20261072976,"mun":"CENTRAL FALLS","nc":1,"o":"-71.395363"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.385211,41.812902],"type":"Point"},"properties":{"a":"41.812902","cty":"PROVIDENCE","id":20261072977,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.385211"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.638024,41.836126],"type":"Point"},"properties":{"a":"41.836126","cty":"PROVIDENCE","id":20261072979,"mun":"SCITUATE","nc":1,"o":"-71.638024"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.534081,41.530969],"type":"Point"},"properties":{"a":"41.530969","cty":"WASHINGTON","id":20261072980,"mun":"EXETER","nc":1,"o":"-71.534081"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.534081,41.530969],"type":"Point"},"properties":{"a":"41.530969","cty":"WASHINGTON","id":20261072980,"mun":"EXETER","nc":1,"o":"-71.534081"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.388729,41.889474],"type":"Point"},"properties":{"a":"41.889474","cty":"PROVIDENCE","id":20261072984,"mun":"CENTRAL FALLS","nc":1,"o":"-71.388729"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.284252,41.507812],"type":"Point"},"properties":{"a":"41.507812","cty":"NEWPORT","id":20261072985,"mun":"MIDDLETOWN","nc":1,"o":"-71.284252"},"type":"Feature"}
 ]}

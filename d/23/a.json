@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.995984,40.205087],"type":"Point"},"properties":{"a":"40.205087","cty":"LANCASTER","id":8839504,"mun":"BRECKNOCK TWP","nc":1,"o":"-75.995984"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.530627,40.541496],"type":"Point"},"properties":{"a":"40.541496","cty":"LEHIGH","id":8839607,"mun":"LOWER MACUNGIE TWP","nc":1,"o":"-75.530627"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.283237,41.568319],"type":"Point"},"properties":{"a":"41.568319","cty":"WAYNE","id":8839619,"mun":"TEXAS TWP","nc":1,"o":"-75.283237"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.988993,41.151638],"type":"Point"},"properties":{"a":"41.151638","cty":"LUZERNE","id":8839668,"mun":"SLOCUM TWP","nc":1,"o":"-75.988993"},"type":"Feature"},
@@ -10,6 +9,5 @@
 {"geometry":{"coordinates":[-75.45664,40.60163],"type":"Point"},"properties":{"a":"40.60163","cty":"LEHIGH","id":8839704,"mun":"ALLENTOWN","nc":1,"o":"-75.45664"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.471637,40.603994],"type":"Point"},"properties":{"a":"40.603994","cty":"LEHIGH","id":8839706,"mun":"ALLENTOWN","nc":46,"o":"-75.471637"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.391472,40.034685],"type":"Point"},"properties":{"a":"40.034685","cty":"LANCASTER","id":8839719,"mun":"MANOR TWP","nc":5,"o":"-76.391472"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.096976,41.299356],"type":"Point"},"properties":{"a":"41.299356","cty":"PIKE","id":8839725,"mun":"BLOOMING GROVE TWP","nc":1,"o":"-75.096976"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.103301,40.935783],"type":"Point"},"properties":{"a":"40.935783","cty":"LUZERNE","id":8839727,"mun":"HAZLE TWP","nc":2,"o":"-76.103301"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.096976,41.299356],"type":"Point"},"properties":{"a":"41.299356","cty":"PIKE","id":8839725,"mun":"BLOOMING GROVE TWP","nc":1,"o":"-75.096976"},"type":"Feature"}
 ]}
