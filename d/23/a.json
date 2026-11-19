@@ -8,6 +8,5 @@
 {"geometry":{"coordinates":[-76.15207,39.99377],"type":"Point"},"properties":{"a":"39.99377","cty":"LANCASTER","hp":true,"id":8839374,"mun":"STRASBURG TWP","nc":9,"ne":{"a":"39.9974","o":"-76.14886"},"o":"-76.15207","sw":{"a":"39.99015","o":"-76.15529"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.4194,40.64489],"type":"Point"},"properties":{"a":"40.64489","cty":"LEHIGH","hp":true,"id":8839380,"mun":"BETHLEHEM","nc":178,"ne":{"a":"40.64736","o":"-75.41709"},"o":"-75.4194","sw":{"a":"40.64241","o":"-75.42171"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.18417,40.51371],"type":"Point"},"properties":{"a":"40.51371","cty":"PERRY","hp":true,"id":8839397,"mun":"JUNIATA TWP","nc":244,"ne":{"a":"40.53657","o":"-77.14749"},"o":"-77.18417","sw":{"a":"40.49085","o":"-77.22086"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.798414,41.111063],"type":"Point"},"properties":{"a":"41.111063","cty":"LUZERNE","id":8839400,"mun":"DENNISON TWP","nc":1,"o":"-75.798414"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.159877,40.546777],"type":"Point"},"properties":{"a":"40.546777","cty":"PERRY","id":8839412,"mun":"TUSCARORA TWP","nc":7,"o":"-77.159877"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.798414,41.111063],"type":"Point"},"properties":{"a":"41.111063","cty":"LUZERNE","id":8839400,"mun":"DENNISON TWP","nc":1,"o":"-75.798414"},"type":"Feature"}
 ]}

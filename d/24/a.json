@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.46628,41.85628],"type":"Point"},"properties":{"a":"41.85628","cty":"PROVIDENCE","id":20261072719,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.46628"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.457245,41.806262],"type":"Point"},"properties":{"a":"41.806262","cty":"PROVIDENCE","id":20261072745,"mun":"PROVIDENCE","nc":1,"o":"-71.457245"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.25348,41.58102],"type":"Point"},"properties":{"a":"41.58102","cty":"NEWPORT","hp":true,"id":20261072763,"mun":"PORTSMOUTH","nc":18,"ne":{"a":"41.5817","o":"-71.25327"},"o":"-71.25348","sw":{"a":"41.58034","o":"-71.25369"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.161852,41.521697],"type":"Point"},"properties":{"a":"41.521697","cty":"NEWPORT","id":20261072765,"mun":"LITTLE COMPTON","nc":1,"o":"-71.161852"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.161852,41.521697],"type":"Point"},"properties":{"a":"41.521697","cty":"NEWPORT","id":20261072765,"mun":"LITTLE COMPTON","nc":1,"o":"-71.161852"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.439561,41.86583],"type":"Point"},"properties":{"a":"41.86583","cty":"PROVIDENCE","id":20261072781,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.439561"},"type":"Feature"}
 ]}
