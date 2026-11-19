@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-74.523096,41.209808],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":31,"customersOutNow":31,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-19T13:22:00-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-19T09:27:39.173-05:00","outageName":"C P28-14-3-1","outagePoint":{"lat":41.20980764897375,"lng":-74.5230960298856},"outageRecID":"2026-11-19-0031","outageStartTime":"2026-11-19T09:22:00-05:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}

@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.21341,40.32028],"type":"Point"},"properties":{"a":"40.32028","cty":"LEBANON","hp":true,"id":8839458,"mun":"MILLCREEK TWP","nc":19,"ne":{"a":"40.32451","o":"-76.20877"},"o":"-76.21341","sw":{"a":"40.31604","o":"-76.21804"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.330021,41.118469],"type":"Point"},"properties":{"a":"41.118469","cty":"MONROE","id":8839459,"mun":"PARADISE TWP","nc":3,"o":"-75.330021"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.966421,40.96406],"type":"Point"},"properties":{"a":"40.96406","cty":"LUZERNE","id":8839470,"mun":"HAZLETON","nc":18,"o":"-75.966421"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.893812,41.216611],"type":"Point"},"properties":{"a":"41.216611","cty":"LUZERNE","id":8839477,"mun":"HANOVER TWP","nc":11,"o":"-75.893812"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.2714,40.27865],"type":"Point"},"properties":{"a":"40.27865","cty":"LEBANON","hp":true,"id":8839481,"mun":"HEIDELBERG TWP","nc":7,"ne":{"a":"40.27988","o":"-76.26867"},"o":"-76.2714","sw":{"a":"40.27741","o":"-76.27413"}},"type":"Feature"},
@@ -8,7 +7,6 @@
 {"geometry":{"coordinates":[-77.05429,40.54166],"type":"Point"},"properties":{"a":"40.54166","cty":"PERRY","hp":true,"id":8839483,"mun":"GREENWOOD TWP","nc":6,"ne":{"a":"40.54518","o":"-77.04874"},"o":"-77.05429","sw":{"a":"40.53814","o":"-77.05984"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.331633,40.575043],"type":"Point"},"properties":{"a":"40.575043","cty":"NORTHAMPTON","id":8839484,"mun":"HELLERTOWN BORO","nc":21,"o":"-75.331633"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.798856,40.482199],"type":"Point"},"properties":{"a":"40.482199","cty":"DAUPHIN","id":8839485,"mun":"WAYNE TWP","nc":1,"o":"-76.798856"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.344609,40.364175],"type":"Point"},"properties":{"a":"40.364175","cty":"PERRY","id":8839488,"mun":"TYRONE TWP","nc":12,"o":"-77.344609"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.465268,40.986621],"type":"Point"},"properties":{"a":"40.986621","cty":"MONROE","id":8839489,"mun":"CHESTNUT HILL TWP","nc":2,"o":"-75.465268"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.24443,41.451019],"type":"Point"},"properties":{"a":"41.451019","cty":"WAYNE","id":8839493,"mun":"PAUPACK TWP","nc":2,"o":"-75.24443"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.617149,41.46776],"type":"Point"},"properties":{"a":"41.46776","cty":"LACKAWANNA","id":8839495,"mun":"DICKSON CITY BORO","nc":15,"o":"-75.617149"},"type":"Feature"},
@@ -18,5 +16,9 @@
 {"geometry":{"coordinates":[-75.464358,41.250455],"type":"Point"},"properties":{"a":"41.250455","cty":"LACKAWANNA","id":8839505,"mun":"CLIFTON TWP","nc":4,"o":"-75.464358"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.376478,40.645419],"type":"Point"},"properties":{"a":"40.645419","cty":"NORTHAMPTON","id":8839506,"mun":"BETHLEHEM","nc":3,"o":"-75.376478"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.113822,40.094969],"type":"Point"},"properties":{"a":"40.094969","cty":"LANCASTER","id":8839508,"mun":"EARL TWP","nc":4,"o":"-76.113822"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.34827,40.650038],"type":"Point"},"properties":{"a":"40.650038","cty":"NORTHAMPTON","id":8839510,"mun":"BETHLEHEM","nc":14,"o":"-75.34827"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.34827,40.650038],"type":"Point"},"properties":{"a":"40.650038","cty":"NORTHAMPTON","id":8839510,"mun":"BETHLEHEM","nc":14,"o":"-75.34827"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.978987,40.967161],"type":"Point"},"properties":{"a":"40.967161","cty":"LUZERNE","id":8839511,"mun":"HAZLETON","nc":31,"o":"-75.978987"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.478724,40.609312],"type":"Point"},"properties":{"a":"40.609312","cty":"LEHIGH","id":8839513,"mun":"ALLENTOWN","nc":18,"o":"-75.478724"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.493759,40.980219],"type":"Point"},"properties":{"a":"40.980219","cty":"COLUMBIA","id":8839514,"mun":"MONTOUR TWP","nc":6,"o":"-76.493759"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.272536,40.417269],"type":"Point"},"properties":{"a":"40.417269","cty":"BUCKS","id":8839515,"mun":"EAST ROCKHILL TWP","nc":2,"o":"-75.272536"},"type":"Feature"}
 ]}
