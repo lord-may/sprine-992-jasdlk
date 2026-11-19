@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.468901,41.983574],"type":"Point"},"properties":{"a":"41.983574","cty":"PROVIDENCE","id":20261072957,"mun":"CUMBERLAND","nc":1,"o":"-71.468901"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.496836,41.653413],"type":"Point"},"properties":{"a":"41.653413","cty":"KENT","id":20261072965,"mun":"EAST GREENWICH","nc":1,"o":"-71.496836"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.496836,41.653413],"type":"Point"},"properties":{"a":"41.653413","cty":"KENT","id":20261072965,"mun":"EAST GREENWICH","nc":1,"o":"-71.496836"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.315013,41.471296],"type":"Point"},"properties":{"a":"41.471296","cty":"NEWPORT","id":20261072971,"mun":"NEWPORT","nc":1,"o":"-71.315013"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.29844,41.50267],"type":"Point"},"properties":{"a":"41.50267","cty":"NEWPORT","id":20261072972,"mun":"NEWPORT","nc":5,"o":"-71.29844"},"type":"Feature"}
 ]}

@@ -4,8 +4,6 @@
 {"geometry":{"coordinates":[-76.371802,39.958267],"type":"Point"},"properties":{"a":"39.958267","cty":"LANCASTER","id":8839527,"mun":"MANOR TWP","nc":4,"o":"-76.371802"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.530627,40.541496],"type":"Point"},"properties":{"a":"40.541496","cty":"LEHIGH","id":8839607,"mun":"LOWER MACUNGIE TWP","nc":1,"o":"-75.530627"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.283237,41.568319],"type":"Point"},"properties":{"a":"41.568319","cty":"WAYNE","id":8839619,"mun":"TEXAS TWP","nc":1,"o":"-75.283237"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.829418,40.730208],"type":"Point"},"properties":{"a":"40.730208","cty":"NORTHUMBERLAND","id":8839648,"mun":"JACKSON TWP","nc":2,"o":"-76.829418"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.707866,41.222156],"type":"Point"},"properties":{"a":"41.222156","cty":"LYCOMING","id":8839649,"mun":"WOLF TWP","nc":1,"o":"-76.707866"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.988993,41.151638],"type":"Point"},"properties":{"a":"41.151638","cty":"LUZERNE","id":8839668,"mun":"SLOCUM TWP","nc":1,"o":"-75.988993"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.408929,40.594853],"type":"Point"},"properties":{"a":"40.594853","cty":"LEHIGH","id":8839678,"mun":"SALISBURY TWP","nc":2,"o":"-75.408929"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.235959,40.569313],"type":"Point"},"properties":{"a":"40.569313","cty":"SCHUYLKILL","id":8839684,"mun":"WAYNE TWP","nc":1,"o":"-76.235959"},"type":"Feature"},
@@ -14,5 +12,5 @@
 {"geometry":{"coordinates":[-75.45664,40.60163],"type":"Point"},"properties":{"a":"40.60163","cty":"LEHIGH","id":8839704,"mun":"ALLENTOWN","nc":1,"o":"-75.45664"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.471637,40.603994],"type":"Point"},"properties":{"a":"40.603994","cty":"LEHIGH","id":8839706,"mun":"ALLENTOWN","nc":46,"o":"-75.471637"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.470469,40.610947],"type":"Point"},"properties":{"a":"40.610947","cty":"LEHIGH","id":8839712,"mun":"ALLENTOWN","nc":12,"o":"-75.470469"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.473992,40.605659],"type":"Point"},"properties":{"a":"40.605659","cty":"LEHIGH","id":8839713,"mun":"ALLENTOWN","nc":1,"o":"-75.473992"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.975877,40.958965],"type":"Point"},"properties":{"a":"40.958965","cty":"LUZERNE","id":8839716,"mun":"HAZLETON","nc":17,"o":"-75.975877"},"type":"Feature"}
 ]}
