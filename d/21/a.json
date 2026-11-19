@@ -1,3 +1,6 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-70.145087,44.093163],"type":"Point"},"properties":{"EstRest":"11/19/2026 8:45:00 AM","Outages":114,"county":"ANDROSCOGGIN","customers":59602,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.147656,44.094683],"type":"Point"},"properties":{"EstRest":"11/19/2026 8:45:00 AM","Outages":29,"cause":"","county":"ANDROSCOGGIN","crewstatus":"DISP ","customers":30,"hamlet":"LEWISTON","incidentnumber":"0047HI","incidents":1,"level":"street","opco":"CMP","street":"GINA ST","town":"LEWISTON"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.216113,44.543373],"type":"Point"},"properties":{"EstRest":"11/19/2026 8:45:00 AM","Outages":45,"county":"FRANKLIN","customers":24700,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.21634,44.542097],"type":"Point"},"properties":{"EstRest":"11/19/2026 8:45:00 AM","Outages":36,"cause":"","county":"FRANKLIN","crewstatus":"     ","customers":77,"hamlet":"JAY","incidentnumber":"0047HG","incidents":1,"level":"street","opco":"CMP","street":"MACOMBER HILL RD","town":"JAY"},"type":"Feature"}
 ]}
