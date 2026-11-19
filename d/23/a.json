@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.81727,40.28048],"type":"Point"},"properties":{"a":"40.28048","cty":"NA","hp":true,"id":8839429,"mun":"NA","nc":396,"ne":{"a":"40.28179","o":"-76.81603"},"o":"-76.81727","sw":{"a":"40.27917","o":"-76.8185"}},"type":"Feature"}
+{"geometry":{"coordinates":[-76.81727,40.28048],"type":"Point"},"properties":{"a":"40.28048","cty":"NA","hp":true,"id":8839429,"mun":"NA","nc":396,"ne":{"a":"40.28179","o":"-76.81603"},"o":"-76.81727","sw":{"a":"40.27917","o":"-76.8185"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.579701,40.992483],"type":"Point"},"properties":{"a":"40.992483","cty":"CARBON","id":8839449,"mun":"PENN FOREST TWP","nc":5,"o":"-75.579701"},"type":"Feature"}
 ]}
