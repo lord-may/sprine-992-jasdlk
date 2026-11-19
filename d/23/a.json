@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.980648,41.192529],"type":"Point"},"properties":{"a":"41.192529","cty":"LYCOMING","id":8839345,"mun":"ARMSTRONG TWP","nc":1,"o":"-76.980648"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.579701,40.992483],"type":"Point"},"properties":{"a":"40.992483","cty":"CARBON","id":8839425,"mun":"PENN FOREST TWP","nc":5,"o":"-75.579701"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.579701,40.992483],"type":"Point"},"properties":{"a":"40.992483","cty":"CARBON","id":8839425,"mun":"PENN FOREST TWP","nc":5,"o":"-75.579701"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.265229,41.002069],"type":"Point"},"properties":{"a":"41.002069","cty":"MONROE","id":8839427,"mun":"STROUD TWP","nc":1,"o":"-75.265229"},"type":"Feature"}
 ]}
