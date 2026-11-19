@@ -2,7 +2,7 @@
 {"geometry":{"coordinates":[-75.530627,40.541496],"type":"Point"},"properties":{"a":"40.541496","cty":"LEHIGH","id":8839607,"mun":"LOWER MACUNGIE TWP","nc":1,"o":"-75.530627"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.283237,41.568319],"type":"Point"},"properties":{"a":"41.568319","cty":"WAYNE","id":8839619,"mun":"TEXAS TWP","nc":1,"o":"-75.283237"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.235959,40.569313],"type":"Point"},"properties":{"a":"40.569313","cty":"SCHUYLKILL","id":8839684,"mun":"WAYNE TWP","nc":1,"o":"-76.235959"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.46748,40.60079],"type":"Point"},"properties":{"a":"40.60079","cty":"LEHIGH","hp":true,"id":8839700,"mun":"ALLENTOWN","nc":1437,"ne":{"a":"40.60363","o":"-75.45904"},"o":"-75.46748","sw":{"a":"40.59796","o":"-75.47592"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.462717,40.599956],"type":"Point"},"properties":{"a":"40.599956","cty":"NA","id":8839700,"mun":"NA","nc":2,"o":"-75.462717"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.45664,40.60163],"type":"Point"},"properties":{"a":"40.60163","cty":"LEHIGH","id":8839704,"mun":"ALLENTOWN","nc":1,"o":"-75.45664"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.471637,40.603994],"type":"Point"},"properties":{"a":"40.603994","cty":"LEHIGH","id":8839706,"mun":"ALLENTOWN","nc":46,"o":"-75.471637"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.391472,40.034685],"type":"Point"},"properties":{"a":"40.034685","cty":"LANCASTER","id":8839719,"mun":"MANOR TWP","nc":5,"o":"-76.391472"},"type":"Feature"},
@@ -12,5 +12,8 @@
 {"geometry":{"coordinates":[-75.839051,40.075551],"type":"Point"},"properties":{"a":"40.075551","cty":"CHESTER","id":8839745,"mun":"HONEYBROOK TWP","nc":1,"o":"-75.839051"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.99665,40.957464],"type":"Point"},"properties":{"a":"40.957464","cty":"LUZERNE","id":8839752,"mun":"HAZLE TWP","nc":12,"o":"-75.99665"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.040975,41.499646],"type":"Point"},"properties":{"a":"41.499646","cty":"PIKE","id":8839754,"mun":"LACKAWAXEN TWP","nc":2,"o":"-75.040975"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.63845,40.162778],"type":"Point"},"properties":{"a":"40.162778","cty":"LANCASTER","id":8839759,"mun":"WEST DONEGAL TWP","nc":1,"o":"-76.63845"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.63845,40.162778],"type":"Point"},"properties":{"a":"40.162778","cty":"LANCASTER","id":8839759,"mun":"WEST DONEGAL TWP","nc":1,"o":"-76.63845"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.465988,40.600353],"type":"Point"},"properties":{"a":"40.600353","cty":"LEHIGH","id":8839760,"mun":"ALLENTOWN","nc":1,"o":"-75.465988"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.468131,40.600531],"type":"Point"},"properties":{"a":"40.600531","cty":"LEHIGH","id":8839761,"mun":"ALLENTOWN","nc":1,"o":"-75.468131"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.39486,40.07483],"type":"Point"},"properties":{"a":"40.07483","cty":"LANCASTER","hp":true,"id":8839763,"mun":"EAST HEMPFIELD TWP","nc":432,"ne":{"a":"40.0815","o":"-76.38982"},"o":"-76.39486","sw":{"a":"40.06815","o":"-76.3999"}},"type":"Feature"}
 ]}
