@@ -3,6 +3,5 @@
 {"geometry":{"coordinates":[-71.395363,41.887111],"type":"Point"},"properties":{"a":"41.887111","cty":"PROVIDENCE","id":20261072976,"mun":"CENTRAL FALLS","nc":1,"o":"-71.395363"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.638024,41.836126],"type":"Point"},"properties":{"a":"41.836126","cty":"PROVIDENCE","id":20261072979,"mun":"SCITUATE","nc":1,"o":"-71.638024"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.534081,41.530969],"type":"Point"},"properties":{"a":"41.530969","cty":"WASHINGTON","id":20261072980,"mun":"EXETER","nc":1,"o":"-71.534081"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.388729,41.889474],"type":"Point"},"properties":{"a":"41.889474","cty":"PROVIDENCE","id":20261072984,"mun":"CENTRAL FALLS","nc":1,"o":"-71.388729"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.284252,41.507812],"type":"Point"},"properties":{"a":"41.507812","cty":"NEWPORT","id":20261072985,"mun":"MIDDLETOWN","nc":1,"o":"-71.284252"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.644708,41.391805],"type":"Point"},"properties":{"a":"41.391805","cty":"WASHINGTON","id":20261072987,"mun":"CHARLESTOWN","nc":1,"o":"-71.644708"},"type":"Feature"}
 ]}
