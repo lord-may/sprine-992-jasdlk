@@ -1,9 +1,8 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-77.092513,40.959386],"type":"Point"},"properties":{"a":"40.959386","cty":"UNION","id":8839451,"mun":"WEST BUFFALO TWP","nc":1,"o":"-77.092513"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.068275,40.965758],"type":"Point"},"properties":{"a":"40.965758","cty":"UNION","id":8839452,"mun":"WEST BUFFALO TWP","nc":1,"o":"-77.068275"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.615936,41.08944],"type":"Point"},"properties":{"a":"41.08944","cty":"COLUMBIA","id":8839455,"mun":"MADISON TWP","nc":1,"o":"-76.615936"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.21341,40.32028],"type":"Point"},"properties":{"a":"40.32028","cty":"LEBANON","hp":true,"id":8839458,"mun":"MILLCREEK TWP","nc":19,"ne":{"a":"40.32451","o":"-76.20877"},"o":"-76.21341","sw":{"a":"40.31604","o":"-76.21804"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.330021,41.118469],"type":"Point"},"properties":{"a":"41.118469","cty":"MONROE","id":8839459,"mun":"PARADISE TWP","nc":3,"o":"-75.330021"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.841314,40.073164],"type":"Point"},"properties":{"a":"40.073164","cty":"CHESTER","id":8839465,"mun":"HONEYBROOK TWP","nc":16,"o":"-75.841314"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.966421,40.96406],"type":"Point"},"properties":{"a":"40.96406","cty":"LUZERNE","id":8839470,"mun":"HAZLETON","nc":18,"o":"-75.966421"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.966421,40.96406],"type":"Point"},"properties":{"a":"40.96406","cty":"LUZERNE","id":8839470,"mun":"HAZLETON","nc":18,"o":"-75.966421"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.653631,41.029241],"type":"Point"},"properties":{"a":"41.029241","cty":"MONTOUR","id":8839476,"mun":"DERRY TWP","nc":1,"o":"-76.653631"},"type":"Feature"}
 ]}
