@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.579701,40.992483],"type":"Point"},"properties":{"a":"40.992483","cty":"CARBON","id":8839425,"mun":"PENN FOREST TWP","nc":1,"o":"-75.579701"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.265229,41.002069],"type":"Point"},"properties":{"a":"41.002069","cty":"MONROE","id":8839427,"mun":"STROUD TWP","nc":1,"o":"-75.265229"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.265229,41.002069],"type":"Point"},"properties":{"a":"41.002069","cty":"MONROE","id":8839427,"mun":"STROUD TWP","nc":1,"o":"-75.265229"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.81426,40.28234],"type":"Point"},"properties":{"a":"40.28234","cty":"DAUPHIN","hp":true,"id":8839429,"mun":"LOWER PAXTON TWP","nc":1015,"ne":{"a":"40.28676","o":"-76.8097"},"o":"-76.81426","sw":{"a":"40.27792","o":"-76.81881"}},"type":"Feature"}
 ]}
