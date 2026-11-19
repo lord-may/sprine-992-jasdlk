@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.433929,43.136798],"type":"Point"},"properties":{"EstRest":"11/19/2026 2:30:00 AM","Outages":12,"cause":"","county":"MONROE","crewstatus":"     ","customers":12,"hamlet":"PENFIELD","incidentnumber":"011G05","incidents":1,"level":"street","opco":"RGE","street":"BRANDYWINE CIR","town":"PENFIELD"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.433929,43.136798],"type":"Point"},"properties":{"EstRest":"11/19/2026 2:30:00 AM","Outages":12,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":12,"hamlet":"PENFIELD","incidentnumber":"011G05","incidents":1,"level":"street","opco":"RGE","street":"BRANDYWINE CIR","town":"PENFIELD"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.433966,43.136122],"type":"Point"},"properties":{"EstRest":"11/19/2026 2:30:00 AM","Outages":23,"county":"MONROE","customers":303529,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
