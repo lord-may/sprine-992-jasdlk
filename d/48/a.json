@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-72.049049,41.557525],"type":"Point"},"properties":{"ADDRESS":"205 NORWICH AVE APT B, TAFTVILLE, CT, 06380","CUSTOMER_COUNT":4,"DEVICE_OID":201176,"FACILITY_ID":null,"FEEDER_ID":"602","GDB_GEOMATTR_DATA":"","ID":45237,"INCIDENT_ID":50424,"OBJECTID":7908,"ORIG_FID":null,"REGION":5,"RxOID":201176,"TIME_OUTAGE":"11/19/2026 11:06 AM","TIME_RESTORED_EST":"Is still under review"},"type":"Feature"}
+{"geometry":{"coordinates":[-72.049049,41.557525],"type":"Point"},"properties":{"ADDRESS":"205 NORWICH AVE APT B, TAFTVILLE, CT, 06380","CUSTOMER_COUNT":4,"DEVICE_OID":201176,"FACILITY_ID":null,"FEEDER_ID":"602","GDB_GEOMATTR_DATA":"","ID":45237,"INCIDENT_ID":50424,"OBJECTID":7909,"ORIG_FID":null,"REGION":5,"RxOID":201176,"TIME_OUTAGE":"11/19/2026 11:06 AM","TIME_RESTORED_EST":"Is still under review"},"type":"Feature"}
 ]}
