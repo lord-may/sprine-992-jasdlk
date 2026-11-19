@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-72.784019,43.810782],"type":"Point"},"properties":{"active":true,"affectingCustomers":true,"cause":0,"county":"Windsor","crew_name":",ROYA-MESSIER","customers_affected":13,"customers_affected_label":"13 Customers","device":"FUSE","etor":"2026-11-19T14:00-05:00","has_etor":1,"incident_id":1018532,"status":"CREW_ASSIGNED","street":"VT ROUTE 100 S","town":"Rochester","trouble":"NO_POWER"},"type":"Feature"}
+
 ]}
