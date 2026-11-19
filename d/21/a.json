@@ -1,7 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.189869,44.081097],"type":"Point"},"properties":{"EstRest":"11/19/2026 10:15:00 AM","Outages":137,"county":"ANDROSCOGGIN","customers":59602,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.696942,44.42704],"type":"Point"},"properties":{"EstRest":"11/19/2026 10:15:00 AM","Outages":57,"county":"KENNEBEC","customers":75925,"incidents":3,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.32118,44.532376],"type":"Point"},"properties":{"EstRest":"11/19/2026 9:15:00 AM","Outages":11,"cause":"","county":"WALDO","crewstatus":"ONST ","customers":13,"hamlet":"FREEDOM","incidentnumber":"0047HU","incidents":1,"level":"street","opco":"CMP","street":"RAVEN RD","town":"FREEDOM"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.32118,44.532376],"type":"Point"},"properties":{"EstRest":"11/19/2026 9:15:00 AM","Outages":11,"county":"WALDO","customers":26703,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.704831,43.606121],"type":"Point"},"properties":{"EstRest":"11/19/2026 10:00:00 AM","Outages":132,"county":"YORK","customers":132723,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.191143,44.080609],"type":"Point"},"properties":{"EstRest":"11/19/2026 12:45:00 PM","Outages":137,"county":"ANDROSCOGGIN","customers":59602,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.581264,44.492324],"type":"Point"},"properties":{"EstRest":"11/19/2026 10:15:00 AM","Outages":20,"county":"KENNEBEC","customers":75925,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.638568,43.161585],"type":"Point"},"properties":{"EstRest":"11/19/2026 10:30:00 AM","Outages":141,"county":"YORK","customers":132723,"incidents":3,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
