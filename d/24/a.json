@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.311193,41.518529],"type":"Point"},"properties":{"a":"41.518529","cty":"NEWPORT","id":20261072799,"mun":"NEWPORT","nc":1,"o":"-71.311193"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.534081,41.530969],"type":"Point"},"properties":{"a":"41.530969","cty":"WASHINGTON","id":20261072804,"mun":"EXETER","nc":1,"o":"-71.534081"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.475052,41.865352],"type":"Point"},"properties":{"a":"41.865352","cty":"PROVIDENCE","id":20261072808,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.475052"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.534081,41.530969],"type":"Point"},"properties":{"a":"41.530969","cty":"WASHINGTON","id":20261072804,"mun":"EXETER","nc":1,"o":"-71.534081"},"type":"Feature"}
 ]}
