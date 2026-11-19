@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-73.70323,40.70315],[-73.70313,40.70328],[-73.7028,40.70377],[-73.70329,40.70385],[-73.70358,40.70349],[-73.70368,40.70318],[-73.70323,40.70315]]],"type":"Polygon"},{"coordinates":[-73.70327,40.7035],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"Outage for safe repairs","es-US":"Corte por reparaciones de seguridad","orig":"801101894"},"cluster":false,"comments":null,"crew_icon":true,"crew_status":{"EN-US":"Restoration in Progress","es-US":"Restauración en progreso","orig":"On Site"},"cust_a":{"val":14},"etr":"ETR-NULL","etrRange":"Today by 8:00AM","etr_confidence":null,"id":"QN-RED-2005917820","inc_id":null,"n_out":1,"start_time":null,"title":"Area Outage"},"type":"Feature"}
 ]}
