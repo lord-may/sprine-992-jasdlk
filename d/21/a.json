@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.280692,43.560876],"type":"Point"},"properties":{"EstRest":"11/19/2026 1:45:00 AM","Outages":5,"cause":"","county":"CUMBERLAND","crewstatus":"ONST ","customers":48,"hamlet":"SCARBOROUGH","incidentnumber":"0047HD","incidents":1,"level":"street","opco":"CMP","street":"OCEAN AVE","town":"SCARBOROUGH"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.280692,43.560876],"type":"Point"},"properties":{"EstRest":"11/19/2026 1:45:00 AM","Outages":9,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.802922,43.878352],"type":"Point"},"properties":{"EstRest":"11/19/2026 3:15:00 AM","Outages":1,"cause":"","county":"OXFORD","crewstatus":"ENRT ","customers":24,"hamlet":"HIRAM","incidentnumber":"0047HE","incidents":1,"level":"street","opco":"CMP","street":"MAIN ST","town":"HIRAM"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.802922,43.878352],"type":"Point"},"properties":{"EstRest":"11/19/2026 3:15:00 AM","Outages":1,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
