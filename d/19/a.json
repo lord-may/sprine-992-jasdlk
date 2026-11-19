@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.562595,43.045934],"type":"Point"},"properties":{"EstRest":"11/19/2026 3:00:00 AM","Outages":1,"cause":"","county":"CAYUGA","crewstatus":"DISP ","customers":85,"hamlet":"WEEDSPORT","incidentnumber":"011G07","incidents":1,"level":"street","opco":"NYSEG","street":"S SENECA ST","town":"WEEDSPORT V"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.562595,43.045934],"type":"Point"},"properties":{"EstRest":"11/19/2026 3:00:00 AM","Outages":7,"county":"CAYUGA","customers":32360,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-78.627384,43.011877],"type":"Point"},"properties":{"EstRest":"11/19/2026 3:00:00 AM","Outages":21,"cause":"","county":"ERIE","crewstatus":"DISP ","customers":26,"hamlet":"CLARENCE CENTER","incidentnumber":"011FZK","incidents":1,"level":"street","opco":"NYSEG","street":"HERR RD","town":"CLARENCE T"},"type":"Feature"},
-{"geometry":{"coordinates":[-78.628499,43.01182],"type":"Point"},"properties":{"EstRest":"11/19/2026 3:00:00 AM","Outages":123,"county":"ERIE","customers":157708,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.562595,43.045934],"type":"Point"},"properties":{"EstRest":"11/19/2026 3:00:00 AM","Outages":7,"county":"CAYUGA","customers":32360,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
