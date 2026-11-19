@@ -2,10 +2,6 @@
 {"geometry":{"coordinates":[-71.141968,41.659929],"type":"Point"},"properties":{"a":"41.659929","cty":"NEWPORT","id":20261072858,"mun":"TIVERTON","nc":1,"o":"-71.141968"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.437895,41.82665],"type":"Point"},"properties":{"a":"41.82665","cty":"PROVIDENCE","id":20261072862,"mun":"PROVIDENCE","nc":106,"o":"-71.437895"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.35422,41.80619],"type":"Point"},"properties":{"a":"41.80619","cty":"PROVIDENCE","id":20261072882,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.35422"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.336325,41.756877],"type":"Point"},"properties":{"a":"41.756877","cty":"BRISTOL","id":20261072891,"mun":"BARRINGTON","nc":1,"o":"-71.336325"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.422468,41.851996],"type":"Point"},"properties":{"a":"41.851996","cty":"PROVIDENCE","id":20261072904,"mun":"PROVIDENCE","nc":1,"o":"-71.422468"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.462269,41.850492],"type":"Point"},"properties":{"a":"41.850492","cty":"PROVIDENCE","id":20261072910,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.462269"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.575064,41.993903],"type":"Point"},"properties":{"a":"41.993903","cty":"PROVIDENCE","id":20261072911,"mun":"NORTH SMITHFIELD","nc":1,"o":"-71.575064"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.460105,41.769628],"type":"Point"},"properties":{"a":"41.769628","cty":"PROVIDENCE","id":20261072915,"mun":"CRANSTON","nc":1,"o":"-71.460105"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.300065,41.49247],"type":"Point"},"properties":{"a":"41.49247","cty":"NEWPORT","id":20261072916,"mun":"NEWPORT","nc":1,"o":"-71.300065"},"type":"Feature"}
 ]}
