@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-69.172749,45.261225],"type":"Point"},"properties":{"EstRest":"11/19/2026 8:45:00 PM","Outages":210,"county":"PISCATAQUIS","customers":10243,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.174079,45.262353],"type":"Point"},"properties":{"EstRest":"11/19/2026 8:45:00 PM","Outages":12,"cause":"Equipment Interruption","county":"PISCATAQUIS","crewstatus":"ONST ","customers":13,"hamlet":"SEBEC","incidentnumber":"0047KX","incidents":1,"level":"street","opco":"CMP","street":"CITRON HILL RD","town":"SEBEC"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.392036,43.407544],"type":"Point"},"properties":{"EstRest":"11/19/2026 6:45:00 PM","Outages":1,"cause":"Equipment Interruption","county":"YORK","crewstatus":"DISP ","customers":68,"hamlet":"BIDDEFORD","incidentnumber":"0047KQ","incidents":1,"level":"street","opco":"CMP","street":"GRANITE POINT RD","town":"BIDDEFORD"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.392036,43.407544],"type":"Point"},"properties":{"EstRest":"11/19/2026 6:45:00 PM","Outages":1,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
