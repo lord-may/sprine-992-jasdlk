@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.966421,40.96406],"type":"Point"},"properties":{"a":"40.96406","cty":"LUZERNE","id":8839470,"mun":"HAZLETON","nc":18,"o":"-75.966421"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.893812,41.216611],"type":"Point"},"properties":{"a":"41.216611","cty":"LUZERNE","id":8839477,"mun":"HANOVER TWP","nc":11,"o":"-75.893812"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.2714,40.27865],"type":"Point"},"properties":{"a":"40.27865","cty":"LEBANON","hp":true,"id":8839481,"mun":"HEIDELBERG TWP","nc":7,"ne":{"a":"40.27988","o":"-76.26867"},"o":"-76.2714","sw":{"a":"40.27741","o":"-76.27413"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.391778,40.88221],"type":"Point"},"properties":{"a":"40.88221","cty":"COLUMBIA","id":8839482,"mun":"LOCUST TWP","nc":4,"o":"-76.391778"},"type":"Feature"},
@@ -25,5 +24,9 @@
 {"geometry":{"coordinates":[-75.397271,40.651888],"type":"Point"},"properties":{"a":"40.651888","cty":"NORTHAMPTON","id":8839530,"mun":"HANOVER TWP","nc":1,"o":"-75.397271"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.871827,40.276267],"type":"Point"},"properties":{"a":"40.276267","cty":"DAUPHIN","id":8839539,"mun":"HARRISBURG","nc":38,"o":"-76.871827"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.845247,41.014069],"type":"Point"},"properties":{"a":"41.014069","cty":"NORTHUMBERLAND","id":8839540,"mun":"MILTON BORO","nc":3,"o":"-76.845247"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.986821,41.151542],"type":"Point"},"properties":{"a":"41.151542","cty":"LUZERNE","id":8839541,"mun":"SLOCUM TWP","nc":1,"o":"-75.986821"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.986821,41.151542],"type":"Point"},"properties":{"a":"41.151542","cty":"LUZERNE","id":8839541,"mun":"SLOCUM TWP","nc":1,"o":"-75.986821"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.872232,40.275278],"type":"Point"},"properties":{"a":"40.275278","cty":"DAUPHIN","id":8839544,"mun":"HARRISBURG","nc":7,"o":"-76.872232"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.414258,40.798759],"type":"Point"},"properties":{"a":"40.798759","cty":"NORTHUMBERLAND","id":8839547,"mun":"MOUNT CARMEL TWP","nc":1,"o":"-76.414258"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.279384,41.365571],"type":"Point"},"properties":{"a":"41.365571","cty":"PIKE","id":8839548,"mun":"PALMYRA TWP","nc":9,"o":"-75.279384"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.957152,41.259692],"type":"Point"},"properties":{"a":"41.259692","cty":"LYCOMING","id":8839549,"mun":"LOYALSOCK TWP","nc":9,"o":"-76.957152"},"type":"Feature"}
 ]}
