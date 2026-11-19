@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.391357,41.739241],"type":"Point"},"properties":{"a":"41.739241","cty":"KENT","id":20261072793,"mun":"WARWICK","nc":1,"o":"-71.391357"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.275633,41.670567],"type":"Point"},"properties":{"a":"41.670567","cty":"BRISTOL","id":20261072795,"mun":"BRISTOL","nc":1,"o":"-71.275633"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.275633,41.670567],"type":"Point"},"properties":{"a":"41.670567","cty":"BRISTOL","id":20261072795,"mun":"BRISTOL","nc":1,"o":"-71.275633"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.311193,41.518529],"type":"Point"},"properties":{"a":"41.518529","cty":"NEWPORT","id":20261072799,"mun":"NEWPORT","nc":1,"o":"-71.311193"},"type":"Feature"}
 ]}
