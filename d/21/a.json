@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.216941,43.593738],"type":"Point"},"properties":{"EstRest":"11/18/2026 7:30:00 PM","Outages":1,"cause":"Animal","county":"CUMBERLAND","crewstatus":"CMPL ","customers":5,"hamlet":"CAPE ELIZABETH","incidentnumber":"0047H6","incidents":1,"level":"street","opco":"CMP","street":"ZEB COVE RD","town":"CAPE ELIZABETH"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.216941,43.593738],"type":"Point"},"properties":{"EstRest":"11/18/2026 7:30:00 PM","Outages":1,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.280586,43.560925],"type":"Point"},"properties":{"EstRest":"11/18/2026 9:45:00 PM","Outages":1,"cause":"","county":"CUMBERLAND","crewstatus":"ACKN ","customers":2,"hamlet":"SCARBOROUGH","incidentnumber":"0047HA","incidents":1,"level":"street","opco":"CMP","street":"OCEAN AVE HB","town":"SCARBOROUGH"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.280586,43.560925],"type":"Point"},"properties":{"EstRest":"11/18/2026 9:45:00 PM","Outages":1,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
