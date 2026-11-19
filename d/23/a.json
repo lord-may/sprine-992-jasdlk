@@ -1,9 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.2714,40.27865],"type":"Point"},"properties":{"a":"40.27865","cty":"LEBANON","hp":true,"id":8839481,"mun":"HEIDELBERG TWP","nc":7,"ne":{"a":"40.27988","o":"-76.26867"},"o":"-76.2714","sw":{"a":"40.27741","o":"-76.27413"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.05429,40.54166],"type":"Point"},"properties":{"a":"40.54166","cty":"PERRY","hp":true,"id":8839483,"mun":"GREENWOOD TWP","nc":6,"ne":{"a":"40.54518","o":"-77.04874"},"o":"-77.05429","sw":{"a":"40.53814","o":"-77.05984"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.331633,40.575043],"type":"Point"},"properties":{"a":"40.575043","cty":"NORTHAMPTON","id":8839484,"mun":"HELLERTOWN BORO","nc":21,"o":"-75.331633"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.99633,40.20479],"type":"Point"},"properties":{"a":"40.20479","cty":"LANCASTER","hp":true,"id":8839504,"mun":"BRECKNOCK TWP","nc":6,"ne":{"a":"40.20564","o":"-75.99593"},"o":"-75.99633","sw":{"a":"40.20394","o":"-75.99673"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.376478,40.645419],"type":"Point"},"properties":{"a":"40.645419","cty":"NORTHAMPTON","id":8839506,"mun":"BETHLEHEM","nc":3,"o":"-75.376478"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.478724,40.609312],"type":"Point"},"properties":{"a":"40.609312","cty":"LEHIGH","id":8839513,"mun":"ALLENTOWN","nc":18,"o":"-75.478724"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.493759,40.980219],"type":"Point"},"properties":{"a":"40.980219","cty":"COLUMBIA","id":8839514,"mun":"MONTOUR TWP","nc":6,"o":"-76.493759"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.371802,39.958267],"type":"Point"},"properties":{"a":"39.958267","cty":"LANCASTER","id":8839527,"mun":"MANOR TWP","nc":4,"o":"-76.371802"},"type":"Feature"},
@@ -19,9 +16,9 @@
 {"geometry":{"coordinates":[-75.431372,40.623467],"type":"Point"},"properties":{"a":"40.623467","cty":"LEHIGH","id":8839641,"mun":"ALLENTOWN","nc":7,"o":"-75.431372"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.829418,40.730208],"type":"Point"},"properties":{"a":"40.730208","cty":"NORTHUMBERLAND","id":8839648,"mun":"JACKSON TWP","nc":2,"o":"-76.829418"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.707866,41.222156],"type":"Point"},"properties":{"a":"41.222156","cty":"LYCOMING","id":8839649,"mun":"WOLF TWP","nc":1,"o":"-76.707866"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.726958,40.890446],"type":"Point"},"properties":{"a":"40.890446","cty":"CARBON","id":8839659,"mun":"JIM THORPE BORO","nc":1,"o":"-75.726958"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.988993,41.151638],"type":"Point"},"properties":{"a":"41.151638","cty":"LUZERNE","id":8839668,"mun":"SLOCUM TWP","nc":1,"o":"-75.988993"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.51703,41.12723],"type":"Point"},"properties":{"a":"41.12723","cty":"COLUMBIA","hp":true,"id":8839672,"mun":"MILLVILLE BORO","nc":6,"ne":{"a":"41.12938","o":"-76.51414"},"o":"-76.51703","sw":{"a":"41.12507","o":"-76.51992"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.408929,40.594853],"type":"Point"},"properties":{"a":"40.594853","cty":"LEHIGH","id":8839678,"mun":"SALISBURY TWP","nc":2,"o":"-75.408929"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.259113,40.694599],"type":"Point"},"properties":{"a":"40.694599","cty":"SCHUYLKILL","id":8839681,"mun":"MINERSVILLE BORO","nc":1,"o":"-76.259113"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.235959,40.569313],"type":"Point"},"properties":{"a":"40.569313","cty":"SCHUYLKILL","id":8839684,"mun":"WAYNE TWP","nc":1,"o":"-76.235959"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.364228,41.173425],"type":"Point"},"properties":{"a":"41.173425","cty":"MONROE","id":8839685,"mun":"COOLBAUGH TWP","nc":7,"o":"-75.364228"},"type":"Feature"}
 ]}
