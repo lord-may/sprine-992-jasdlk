@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.475052,41.865352],"type":"Point"},"properties":{"a":"41.865352","cty":"PROVIDENCE","id":20261072843,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.475052"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.534081,41.530969],"type":"Point"},"properties":{"a":"41.530969","cty":"WASHINGTON","id":20261072844,"mun":"EXETER","nc":1,"o":"-71.534081"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.566997,41.411694],"type":"Point"},"properties":{"a":"41.411694","cty":"WASHINGTON","id":20261072845,"mun":"SOUTH KINGSTOWN","nc":2,"o":"-71.566997"},"type":"Feature"}
 ]}
