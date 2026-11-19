@@ -19,18 +19,19 @@
 {"geometry":{"coordinates":[-76.438233,41.253723],"type":"Point"},"properties":{"a":"41.253723","cty":"COLUMBIA","id":8839524,"mun":"JACKSON TWP","nc":2,"o":"-76.438233"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.291582,40.460101],"type":"Point"},"properties":{"a":"40.460101","cty":"BUCKS","id":8839526,"mun":"HAYCOCK TWP","nc":2,"o":"-75.291582"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.371802,39.958267],"type":"Point"},"properties":{"a":"39.958267","cty":"LANCASTER","id":8839527,"mun":"MANOR TWP","nc":4,"o":"-76.371802"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.906271,41.116718],"type":"Point"},"properties":{"a":"41.116718","cty":"LUZERNE","id":8839529,"mun":"WRIGHT TWP","nc":25,"o":"-75.906271"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.397271,40.651888],"type":"Point"},"properties":{"a":"40.651888","cty":"NORTHAMPTON","id":8839530,"mun":"HANOVER TWP","nc":1,"o":"-75.397271"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.871827,40.276267],"type":"Point"},"properties":{"a":"40.276267","cty":"DAUPHIN","id":8839539,"mun":"HARRISBURG","nc":38,"o":"-76.871827"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.845247,41.014069],"type":"Point"},"properties":{"a":"41.014069","cty":"NORTHUMBERLAND","id":8839540,"mun":"MILTON BORO","nc":3,"o":"-76.845247"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.986821,41.151542],"type":"Point"},"properties":{"a":"41.151542","cty":"LUZERNE","id":8839541,"mun":"SLOCUM TWP","nc":1,"o":"-75.986821"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.279384,41.365571],"type":"Point"},"properties":{"a":"41.365571","cty":"PIKE","id":8839548,"mun":"PALMYRA TWP","nc":9,"o":"-75.279384"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.957152,41.259692],"type":"Point"},"properties":{"a":"41.259692","cty":"LYCOMING","id":8839549,"mun":"LOYALSOCK TWP","nc":9,"o":"-76.957152"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.37201,39.95505],"type":"Point"},"properties":{"a":"39.95505","cty":"LANCASTER","hp":true,"id":8839550,"mun":"MANOR TWP","nc":14,"ne":{"a":"39.96347","o":"-76.36899"},"o":"-76.37201","sw":{"a":"39.94662","o":"-76.37503"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.931662,40.713237],"type":"Point"},"properties":{"a":"40.713237","cty":"SNYDER","id":8839557,"mun":"CHAPMAN TWP","nc":1,"o":"-76.931662"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.488373,41.020175],"type":"Point"},"properties":{"a":"41.020175","cty":"MONROE","id":8839559,"mun":"TUNKHANNOCK TWP","nc":2,"o":"-75.488373"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.774176,41.097584],"type":"Point"},"properties":{"a":"41.097584","cty":"LUZERNE","id":8839561,"mun":"DENNISON TWP","nc":1,"o":"-75.774176"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.992707,41.270609],"type":"Point"},"properties":{"a":"41.270609","cty":"LYCOMING","id":8839562,"mun":"LOYALSOCK TWP","nc":2,"o":"-76.992707"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.868928,41.172004],"type":"Point"},"properties":{"a":"41.172004","cty":"LYCOMING","id":8839563,"mun":"MONTGOMERY BORO","nc":1,"o":"-76.868928"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.498535,41.028109],"type":"Point"},"properties":{"a":"41.028109","cty":"MONROE","id":8839564,"mun":"TUNKHANNOCK TWP","nc":1,"o":"-75.498535"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.498535,41.028109],"type":"Point"},"properties":{"a":"41.028109","cty":"MONROE","id":8839564,"mun":"TUNKHANNOCK TWP","nc":1,"o":"-75.498535"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.49989,41.03041],"type":"Point"},"properties":{"a":"41.03041","cty":"MONROE","id":8839574,"mun":"TUNKHANNOCK TWP","nc":1,"o":"-75.49989"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.473986,40.604589],"type":"Point"},"properties":{"a":"40.604589","cty":"LEHIGH","id":8839577,"mun":"ALLENTOWN","nc":1,"o":"-75.473986"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.89698,40.321424],"type":"Point"},"properties":{"a":"40.321424","cty":"DAUPHIN","id":8839578,"mun":"SUSQUEHANNA TWP","nc":4,"o":"-76.89698"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.45247,40.6739],"type":"Point"},"properties":{"a":"40.6739","cty":"SCHUYLKILL","hp":true,"id":8839579,"mun":"HEGINS TWP","nc":31,"ne":{"a":"40.6774","o":"-76.44502"},"o":"-76.45247","sw":{"a":"40.6704","o":"-76.45993"}},"type":"Feature"}
 ]}
