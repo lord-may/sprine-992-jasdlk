@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-79.89206,40.35681],"type":"Point"},"properties":{"additionalProperties":[{"property":"jobNumber","value":"Job.26.11.19.00056"},{"property":"zips","value":["15034"]},{"property":"counties","value":["ALLEGHENY"]},{"property":"municipalities","value":["DRAVOSBURG"]}],"cause":"Under Investigation","etrTime":1795107600000,"id":2252479,"identifier":"Job.26.11.19.00056_6aff11ce7924e36ccf36b70b","lastUpdatedTime":1795105820000,"latitude":40.35681,"longitude":-79.89206,"numPeople":1,"startTime":1795101132000,"status":"Assessment Needed","title":"Outage"},"type":"Feature"}
+
 ]}
