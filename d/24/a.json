@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.638024,41.836126],"type":"Point"},"properties":{"a":"41.836126","cty":"PROVIDENCE","id":20261073033,"mun":"SCITUATE","nc":1,"o":"-71.638024"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.499162,41.868032],"type":"Point"},"properties":{"a":"41.868032","cty":"PROVIDENCE","id":20261073035,"mun":"JOHNSTON","nc":1,"o":"-71.499162"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.70222,41.52402],"type":"Point"},"properties":{"a":"41.52402","cty":"WASHINGTON","id":20261073038,"mun":"HOPKINTON","nc":1,"o":"-71.70222"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.70222,41.52402],"type":"Point"},"properties":{"a":"41.52402","cty":"WASHINGTON","id":20261073038,"mun":"HOPKINTON","nc":1,"o":"-71.70222"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.534081,41.530969],"type":"Point"},"properties":{"a":"41.530969","cty":"WASHINGTON","id":20261073042,"mun":"EXETER","nc":1,"o":"-71.534081"},"type":"Feature"}
 ]}

@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.612953,43.052485],"type":"Point"},"properties":{"EstRest":"","Outages":32,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":32,"hamlet":"HENRIETTA","incidentnumber":"011G9V","incidents":1,"level":"street","opco":"RGE","street":"MYRTLEWOOD DR B109","town":"HENRIETTA"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.612953,43.052485],"type":"Point"},"properties":{"EstRest":"","Outages":66,"county":"MONROE","customers":303529,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
+
 ]}
