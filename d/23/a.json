@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.34561,40.63309],"type":"Point"},"properties":{"a":"40.63309","cty":"NORTHAMPTON","hp":true,"id":8839881,"mun":"FREEMANSBURG BORO","nc":41,"ne":{"a":"40.63443","o":"-75.34348"},"o":"-75.34561","sw":{"a":"40.63175","o":"-75.34774"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.76225,40.92765],"type":"Point"},"properties":{"a":"40.92765","cty":"NORTHUMBERLAND","hp":true,"id":8839887,"mun":"POINT TWP","nc":12,"ne":{"a":"40.92858","o":"-76.7611"},"o":"-76.76225","sw":{"a":"40.92671","o":"-76.76339"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.845287,40.924015],"type":"Point"},"properties":{"a":"40.924015","cty":"NORTHUMBERLAND","id":8839928,"mun":"POINT TWP","nc":4,"o":"-76.845287"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.845619,40.923984],"type":"Point"},"properties":{"a":"40.923984","cty":"NORTHUMBERLAND","id":8839933,"mun":"POINT TWP","nc":1,"o":"-76.845619"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.432174,41.253437],"type":"Point"},"properties":{"a":"41.253437","cty":"COLUMBIA","id":8839957,"mun":"JACKSON TWP","nc":1,"o":"-76.432174"},"type":"Feature"},
@@ -8,7 +7,6 @@
 {"geometry":{"coordinates":[-76.532072,41.118825],"type":"Point"},"properties":{"a":"41.118825","cty":"COLUMBIA","id":8839987,"mun":"MADISON TWP","nc":3,"o":"-76.532072"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.497625,41.028363],"type":"Point"},"properties":{"a":"41.028363","cty":"MONROE","id":8839997,"mun":"TUNKHANNOCK TWP","nc":2,"o":"-75.497625"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.75696,40.92867],"type":"Point"},"properties":{"a":"40.92867","cty":"NORTHUMBERLAND","hp":true,"id":8840007,"mun":"POINT TWP","nc":10,"ne":{"a":"40.92956","o":"-76.75569"},"o":"-76.75696","sw":{"a":"40.92777","o":"-76.75823"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.534787,40.788222],"type":"Point"},"properties":{"a":"40.788222","cty":"NORTHUMBERLAND","id":8840012,"mun":"COAL TWP","nc":20,"o":"-76.534787"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.4922,41.409139],"type":"Point"},"properties":{"a":"41.409139","cty":"LACKAWANNA","id":8840019,"mun":"JEFFERSON TWP","nc":4,"o":"-75.4922"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.84761,41.268122],"type":"Point"},"properties":{"a":"41.268122","cty":"LUZERNE","id":8840037,"mun":"WILKES-BARRE","nc":30,"o":"-75.84761"},"type":"Feature"}
 ]}
