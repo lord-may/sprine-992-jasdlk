@@ -5,6 +5,6 @@
 {"geometry":{"coordinates":[-76.170226,39.937637],"type":"Point"},"properties":{"a":"39.937637","cty":"LANCASTER","id":8840095,"mun":"STRASBURG TWP","nc":1,"o":"-76.170226"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.211281,41.161976],"type":"Point"},"properties":{"a":"41.161976","cty":"MONROE","id":8840118,"mun":"PRICE TWP","nc":2,"o":"-75.211281"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.18991,41.41735],"type":"Point"},"properties":{"a":"41.41735","cty":"PIKE","hp":true,"id":8840128,"mun":"PALMYRA TWP","nc":43,"ne":{"a":"41.4213","o":"-75.1881"},"o":"-75.18991","sw":{"a":"41.41341","o":"-75.19172"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.1912,40.169838],"type":"Point"},"properties":{"a":"40.169838","cty":"LANCASTER","id":8840132,"mun":"EPHRATA TWP","nc":5,"o":"-76.1912"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.5284,40.55934],"type":"Point"},"properties":{"a":"40.55934","cty":"LEHIGH","hp":true,"id":8840133,"mun":"LOWER MACUNGIE TWP","nc":42,"ne":{"a":"40.56163","o":"-75.52492"},"o":"-75.5284","sw":{"a":"40.55705","o":"-75.53187"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.5284,40.55934],"type":"Point"},"properties":{"a":"40.55934","cty":"LEHIGH","hp":true,"id":8840133,"mun":"LOWER MACUNGIE TWP","nc":42,"ne":{"a":"40.56163","o":"-75.52492"},"o":"-75.5284","sw":{"a":"40.55705","o":"-75.53187"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.99564,40.957977],"type":"Point"},"properties":{"a":"40.957977","cty":"LUZERNE","id":8840138,"mun":"WEST HAZLETON BORO","nc":33,"o":"-75.99564"},"type":"Feature"}
 ]}
