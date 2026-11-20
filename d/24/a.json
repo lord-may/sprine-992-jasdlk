@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.408107,41.737997],"type":"Point"},"properties":{"a":"41.737997","cty":"KENT","id":20261073012,"mun":"WARWICK","nc":1,"o":"-71.408107"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.408107,41.737997],"type":"Point"},"properties":{"a":"41.737997","cty":"KENT","id":20261073012,"mun":"WARWICK","nc":1,"o":"-71.408107"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.240826,41.619405],"type":"Point"},"properties":{"a":"41.619405","cty":"NEWPORT","id":20261073014,"mun":"PORTSMOUTH","nc":1,"o":"-71.240826"},"type":"Feature"}
 ]}
