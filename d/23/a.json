@@ -4,5 +4,6 @@
 {"geometry":{"coordinates":[-76.281205,40.231953],"type":"Point"},"properties":{"a":"40.231953","cty":"LANCASTER","id":8840077,"mun":"CLAY TWP","nc":5,"o":"-76.281205"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.170226,39.937637],"type":"Point"},"properties":{"a":"39.937637","cty":"LANCASTER","id":8840095,"mun":"STRASBURG TWP","nc":1,"o":"-76.170226"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.215752,40.590227],"type":"Point"},"properties":{"a":"40.590227","cty":"SCHUYLKILL","id":8840100,"mun":"WAYNE TWP","nc":3,"o":"-76.215752"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.835992,40.285051],"type":"Point"},"properties":{"a":"40.285051","cty":"DAUPHIN","id":8840113,"mun":"SUSQUEHANNA TWP","nc":16,"o":"-76.835992"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.835992,40.285051],"type":"Point"},"properties":{"a":"40.285051","cty":"DAUPHIN","id":8840113,"mun":"SUSQUEHANNA TWP","nc":16,"o":"-76.835992"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.211281,41.161976],"type":"Point"},"properties":{"a":"41.161976","cty":"MONROE","id":8840118,"mun":"PRICE TWP","nc":2,"o":"-75.211281"},"type":"Feature"}
 ]}
