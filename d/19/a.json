@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.997585,42.103667],"type":"Point"},"properties":{"EstRest":"11/20/2026 3:30:00 PM","Outages":6,"cause":"","county":"STEUBEN","crewstatus":"ONST ","customers":22,"hamlet":"CORNING","incidentnumber":"011GFG","incidents":1,"level":"street","opco":"NYSEG","street":"BROWN HOLLOW RD","town":"CORNING T"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.371292,42.258171],"type":"Point"},"properties":{"EstRest":"11/20/2026 5:00:00 PM","Outages":22,"county":"DELAWARE","customers":28318,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.380951,42.26524],"type":"Point"},"properties":{"EstRest":"11/20/2026 5:00:00 PM","Outages":7,"cause":"","county":"DELAWARE","crewstatus":"     ","customers":13,"hamlet":"SIDNEY","incidentnumber":"011GG6","incidents":1,"level":"street","opco":"NYSEG","street":"BUNDY HOLLOW RD","town":"MASONVILLE T"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.997585,42.103667],"type":"Point"},"properties":{"EstRest":"11/20/2026 3:30:00 PM","Outages":6,"cause":"Tree","county":"STEUBEN","crewstatus":"CMPL ","customers":22,"hamlet":"CORNING","incidentnumber":"011GFG","incidents":1,"level":"street","opco":"NYSEG","street":"BROWN HOLLOW RD","town":"CORNING T"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.997585,42.103667],"type":"Point"},"properties":{"EstRest":"11/20/2026 3:30:00 PM","Outages":6,"county":"STEUBEN","customers":42828,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
