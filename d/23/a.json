@@ -4,6 +4,5 @@
 {"geometry":{"coordinates":[-76.15856,40.64621],"type":"Point"},"properties":{"a":"40.64621","cty":"NA","hp":true,"id":8839741,"mun":"NA","nc":138,"ne":{"a":"40.64948","o":"-76.15569"},"o":"-76.15856","sw":{"a":"40.64294","o":"-76.16143"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.152947,40.785238],"type":"Point"},"properties":{"a":"40.785238","cty":"SNYDER","id":8839742,"mun":"BEAVER TWP","nc":1,"o":"-77.152947"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.3955,40.07113],"type":"Point"},"properties":{"a":"40.07113","cty":"LANCASTER","hp":true,"id":8839763,"mun":"EAST HEMPFIELD TWP","nc":135,"ne":{"a":"40.07412","o":"-76.3913"},"o":"-76.3955","sw":{"a":"40.06815","o":"-76.39969"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.492951,40.979653],"type":"Point"},"properties":{"a":"40.979653","cty":"COLUMBIA","id":8839768,"mun":"MONTOUR TWP","nc":8,"o":"-76.492951"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.465236,40.600524],"type":"Point"},"properties":{"a":"40.600524","cty":"LEHIGH","id":8839771,"mun":"ALLENTOWN","nc":1,"o":"-75.465236"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.492951,40.979653],"type":"Point"},"properties":{"a":"40.979653","cty":"COLUMBIA","id":8839768,"mun":"MONTOUR TWP","nc":8,"o":"-76.492951"},"type":"Feature"}
 ]}
