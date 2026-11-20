@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.387208,41.867758],"type":"Point"},"properties":{"a":"41.867758","cty":"PROVIDENCE","id":20261073118,"mun":"PAWTUCKET","nc":1,"o":"-71.387208"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.367464,41.809623],"type":"Point"},"properties":{"a":"41.809623","cty":"PROVIDENCE","id":20261073121,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.367464"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.2677,41.713676],"type":"Point"},"properties":{"a":"41.713676","cty":"BRISTOL","id":20261073137,"mun":"WARREN","nc":108,"o":"-71.2677"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.421593,41.824867],"type":"Point"},"properties":{"a":"41.824867","cty":"PROVIDENCE","id":20261073152,"mun":"PROVIDENCE","nc":1,"o":"-71.421593"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.421593,41.824867],"type":"Point"},"properties":{"a":"41.824867","cty":"PROVIDENCE","id":20261073152,"mun":"PROVIDENCE","nc":1,"o":"-71.421593"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.247636,41.57891],"type":"Point"},"properties":{"a":"41.57891","cty":"NEWPORT","id":20261073155,"mun":"PORTSMOUTH","nc":1,"o":"-71.247636"},"type":"Feature"}
 ]}

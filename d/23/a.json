@@ -6,7 +6,5 @@
 {"geometry":{"coordinates":[-75.261644,41.407685],"type":"Point"},"properties":{"a":"41.407685","cty":"WAYNE","id":8840072,"mun":"PAUPACK TWP","nc":1,"o":"-75.261644"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.2754,40.23562],"type":"Point"},"properties":{"a":"40.23562","cty":"LANCASTER","hp":true,"id":8840077,"mun":"CLAY TWP","nc":257,"ne":{"a":"40.24468","o":"-76.26021"},"o":"-76.2754","sw":{"a":"40.22656","o":"-76.29059"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.170226,39.937637],"type":"Point"},"properties":{"a":"39.937637","cty":"LANCASTER","id":8840095,"mun":"STRASBURG TWP","nc":1,"o":"-76.170226"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.215752,40.590227],"type":"Point"},"properties":{"a":"40.590227","cty":"SCHUYLKILL","id":8840100,"mun":"WAYNE TWP","nc":3,"o":"-76.215752"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.24921,41.141162],"type":"Point"},"properties":{"a":"41.141162","cty":"CLINTON","id":8840102,"mun":"CRAWFORD TWP","nc":2,"o":"-77.24921"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.289485,40.028488],"type":"Point"},"properties":{"a":"40.028488","cty":"LANCASTER","id":8840103,"mun":"LANCASTER","nc":14,"o":"-76.289485"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.215752,40.590227],"type":"Point"},"properties":{"a":"40.590227","cty":"SCHUYLKILL","id":8840100,"mun":"WAYNE TWP","nc":3,"o":"-76.215752"},"type":"Feature"}
 ]}
