@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-74.37517,41.17409],"type":"Point"},"properties":{"cause":"Single Service Incident","cluster":false,"cust_a":{"val":1},"etr":"ETR-EXP","inc_id":"563914","title":"Outage Information"},"type":"Feature"}
+{"geometry":{"coordinates":[-74.37517,41.17409],"type":"Point"},"properties":{"cause":"Single Service Incident","cluster":false,"cust_a":{"val":1},"etr":"ETR-EXP","inc_id":"563914","title":"Outage Information"},"type":"Feature"},
+{"geometry":{"coordinates":[-74.43523,41.44563],"type":"Point"},"properties":{"cause":"Single Service Incident","cluster":false,"cust_a":{"val":1},"etr":"ETR-NULL","inc_id":"563945","title":"Outage Information"},"type":"Feature"}
 ]}
