@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.392036,43.407544],"type":"Point"},"properties":{"EstRest":"11/19/2026 7:15:00 PM","Outages":1,"cause":"Equipment Interruption","county":"YORK","crewstatus":"DISP ","customers":68,"hamlet":"BIDDEFORD","incidentnumber":"0047KQ","incidents":1,"level":"street","opco":"CMP","street":"GRANITE POINT RD","town":"BIDDEFORD"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.392036,43.407544],"type":"Point"},"properties":{"EstRest":"11/19/2026 7:15:00 PM","Outages":1,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+
 ]}
