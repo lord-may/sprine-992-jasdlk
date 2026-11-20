@@ -1,7 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.2677,41.713676],"type":"Point"},"properties":{"a":"41.713676","cty":"BRISTOL","id":20261073137,"mun":"WARREN","nc":108,"o":"-71.2677"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.421593,41.824867],"type":"Point"},"properties":{"a":"41.824867","cty":"PROVIDENCE","id":20261073152,"mun":"PROVIDENCE","nc":1,"o":"-71.421593"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.534081,41.530969],"type":"Point"},"properties":{"a":"41.530969","cty":"WASHINGTON","id":20261073161,"mun":"EXETER","nc":1,"o":"-71.534081"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.439835,41.817892],"type":"Point"},"properties":{"a":"41.817892","cty":"PROVIDENCE","id":20261073162,"mun":"PROVIDENCE","nc":1,"o":"-71.439835"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.499162,41.868032],"type":"Point"},"properties":{"a":"41.868032","cty":"PROVIDENCE","id":20261073163,"mun":"JOHNSTON","nc":1,"o":"-71.499162"},"type":"Feature"}
 ]}
