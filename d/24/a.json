@@ -1,10 +1,9 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.360705,41.762906],"type":"Point"},"properties":{"a":"41.762906","cty":"PROVIDENCE","id":20261073055,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.360705"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.40275,41.776242],"type":"Point"},"properties":{"a":"41.776242","cty":"PROVIDENCE","id":20261073095,"mun":"CRANSTON","nc":1,"o":"-71.40275"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.418918,41.765458],"type":"Point"},"properties":{"a":"41.765458","cty":"PROVIDENCE","id":20261073100,"mun":"CRANSTON","nc":1,"o":"-71.418918"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.315636,41.49252],"type":"Point"},"properties":{"a":"41.49252","cty":"NEWPORT","id":20261073104,"mun":"NEWPORT","nc":1,"o":"-71.315636"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.300524,41.65265],"type":"Point"},"properties":{"a":"41.65265","cty":"BRISTOL","id":20261073105,"mun":"BRISTOL","nc":1,"o":"-71.300524"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.307389,41.494373],"type":"Point"},"properties":{"a":"41.494373","cty":"NEWPORT","id":20261073109,"mun":"NEWPORT","nc":36,"o":"-71.307389"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.38701,41.863462],"type":"Point"},"properties":{"a":"41.863462","cty":"PROVIDENCE","id":20261073110,"mun":"PAWTUCKET","nc":1,"o":"-71.38701"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.454066,41.719341],"type":"Point"},"properties":{"a":"41.719341","cty":"KENT","id":20261073113,"mun":"WARWICK","nc":1,"o":"-71.454066"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.454066,41.719341],"type":"Point"},"properties":{"a":"41.719341","cty":"KENT","id":20261073113,"mun":"WARWICK","nc":1,"o":"-71.454066"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.481935,41.995796],"type":"Point"},"properties":{"a":"41.995796","cty":"PROVIDENCE","id":20261073114,"mun":"WOONSOCKET","nc":1,"o":"-71.481935"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.528482,41.673275],"type":"Point"},"properties":{"a":"41.673275","cty":"KENT","id":20261073116,"mun":"WEST WARWICK","nc":1,"o":"-71.528482"},"type":"Feature"}
 ]}
