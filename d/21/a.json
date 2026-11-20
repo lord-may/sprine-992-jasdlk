@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.747535,44.213333],"type":"Point"},"properties":{"EstRest":"11/20/2026 9:45:00 AM","Outages":1,"cause":"","county":"KENNEBEC","crewstatus":"ONST ","customers":183,"hamlet":"PITTSTON","incidentnumber":"0047L6","incidents":1,"level":"street","opco":"CMP","street":"E PITTSTON RD","town":"PITTSTON"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.747535,44.213333],"type":"Point"},"properties":{"EstRest":"11/20/2026 9:45:00 AM","Outages":1,"cause":"Animal","county":"KENNEBEC","crewstatus":"CMPL ","customers":183,"hamlet":"PITTSTON","incidentnumber":"0047L6","incidents":1,"level":"street","opco":"CMP","street":"E PITTSTON RD","town":"PITTSTON"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.747535,44.213333],"type":"Point"},"properties":{"EstRest":"11/20/2026 9:45:00 AM","Outages":1,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}

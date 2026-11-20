@@ -6,5 +6,9 @@
 {"geometry":{"coordinates":[-75.579701,40.992483],"type":"Point"},"properties":{"a":"40.992483","cty":"CARBON","id":8839833,"mun":"PENN FOREST TWP","nc":5,"o":"-75.579701"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.828785,40.281202],"type":"Point"},"properties":{"a":"40.281202","cty":"DAUPHIN","id":8839838,"mun":"SUSQUEHANNA TWP","nc":8,"o":"-76.828785"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.184337,40.21183],"type":"Point"},"properties":{"a":"40.21183","cty":"CUMBERLAND","id":8839841,"mun":"CARLISLE BORO","nc":4,"o":"-77.184337"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.19387,40.3624],"type":"Point"},"properties":{"a":"40.3624","cty":"BUCKS","hp":true,"id":8839844,"mun":"HILLTOWN TWP","nc":13,"ne":{"a":"40.36406","o":"-75.1908"},"o":"-75.19387","sw":{"a":"40.36075","o":"-75.19694"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.19387,40.3624],"type":"Point"},"properties":{"a":"40.3624","cty":"BUCKS","hp":true,"id":8839844,"mun":"HILLTOWN TWP","nc":13,"ne":{"a":"40.36406","o":"-75.1908"},"o":"-75.19387","sw":{"a":"40.36075","o":"-75.19694"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.90167,40.53633],"type":"Point"},"properties":{"a":"40.53633","cty":"DAUPHIN","hp":true,"id":8839845,"mun":"UPPER PAXTON TWP","nc":14,"ne":{"a":"40.53728","o":"-76.8996"},"o":"-76.90167","sw":{"a":"40.53538","o":"-76.90374"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.766144,40.314078],"type":"Point"},"properties":{"a":"40.314078","cty":"DAUPHIN","id":8839846,"mun":"LOWER PAXTON TWP","nc":7,"o":"-76.766144"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.385328,41.767574],"type":"Point"},"properties":{"a":"41.767574","cty":"WAYNE","id":8839847,"mun":"MOUNT PLEASANT TWP","nc":1,"o":"-75.385328"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.483847,40.611746],"type":"Point"},"properties":{"a":"40.611746","cty":"LEHIGH","id":8839848,"mun":"ALLENTOWN","nc":10,"o":"-75.483847"},"type":"Feature"}
 ]}
