@@ -2,5 +2,6 @@
 {"geometry":{"coordinates":[-75.462717,40.599956],"type":"Point"},"properties":{"a":"40.599956","cty":"NA","id":8839700,"mun":"NA","nc":2,"o":"-75.462717"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.538129,40.484152],"type":"Point"},"properties":{"a":"40.484152","cty":"LEHIGH","id":8839776,"mun":"UPPER MILFORD TWP","nc":1,"o":"-75.538129"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.925504,40.227191],"type":"Point"},"properties":{"a":"40.227191","cty":"CUMBERLAND","id":8839779,"mun":"LOWER ALLEN TWP","nc":18,"o":"-76.925504"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.38533,40.517047],"type":"Point"},"properties":{"a":"40.517047","cty":"LEHIGH","id":8839804,"mun":"UPPER SAUCON TWP","nc":5,"o":"-75.38533"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.38533,40.517047],"type":"Point"},"properties":{"a":"40.517047","cty":"LEHIGH","id":8839804,"mun":"UPPER SAUCON TWP","nc":5,"o":"-75.38533"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.898133,40.08565],"type":"Point"},"properties":{"a":"40.08565","cty":"CHESTER","id":8839813,"mun":"HONEYBROOK TWP","nc":2,"o":"-75.898133"},"type":"Feature"}
 ]}
