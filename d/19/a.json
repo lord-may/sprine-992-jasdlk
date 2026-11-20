@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-73.969997,44.766571],"type":"Point"},"properties":{"EstRest":"11/20/2026 7:00:00 AM","Outages":9,"cause":"","county":"CLINTON","crewstatus":"ONST ","customers":12,"hamlet":"LYON MOUNTAIN","incidentnumber":"011GA5","incidents":1,"level":"street","opco":"NYSEG","street":"HOLTZMAN WAY","town":"ELLENBURG T"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.969997,44.766571],"type":"Point"},"properties":{"EstRest":"11/20/2026 7:00:00 AM","Outages":9,"county":"CLINTON","customers":28857,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+
 ]}
