@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.610658,43.053146],"type":"Point"},"properties":{"EstRest":"11/20/2026 2:45:00 AM","Outages":120,"cause":"","county":"MONROE","crewstatus":"     ","customers":166,"hamlet":"HENRIETTA","incidentnumber":"011G9V","incidents":1,"level":"street","opco":"RGE","street":"MYRTLEWOOD DR","town":"HENRIETTA"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.610658,43.053146],"type":"Point"},"properties":{"EstRest":"11/20/2026 2:45:00 AM","Outages":120,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":166,"hamlet":"HENRIETTA","incidentnumber":"011G9V","incidents":1,"level":"street","opco":"RGE","street":"MYRTLEWOOD DR","town":"HENRIETTA"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.612953,43.052485],"type":"Point"},"properties":{"EstRest":"11/20/2026 2:45:00 AM","Outages":152,"county":"MONROE","customers":303529,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
