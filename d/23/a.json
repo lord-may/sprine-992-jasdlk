@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.462717,40.599956],"type":"Point"},"properties":{"a":"40.599956","cty":"NA","id":8839700,"mun":"NA","nc":2,"o":"-75.462717"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.391472,40.034685],"type":"Point"},"properties":{"a":"40.034685","cty":"LANCASTER","id":8839719,"mun":"MANOR TWP","nc":5,"o":"-76.391472"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.06239,40.63576],"type":"Point"},"properties":{"a":"40.63576","cty":"JUNIATA","hp":true,"id":8839775,"mun":"SUSQUEHANNA TWP","nc":10,"ne":{"a":"40.6373","o":"-77.05392"},"o":"-77.06239","sw":{"a":"40.63423","o":"-77.07085"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.538129,40.484152],"type":"Point"},"properties":{"a":"40.484152","cty":"LEHIGH","id":8839776,"mun":"UPPER MILFORD TWP","nc":1,"o":"-75.538129"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.925504,40.227191],"type":"Point"},"properties":{"a":"40.227191","cty":"CUMBERLAND","id":8839779,"mun":"LOWER ALLEN TWP","nc":18,"o":"-76.925504"},"type":"Feature"},
