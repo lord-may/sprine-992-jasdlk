@@ -8,5 +8,7 @@
 {"geometry":{"coordinates":[-75.497625,41.028363],"type":"Point"},"properties":{"a":"41.028363","cty":"MONROE","id":8839997,"mun":"TUNKHANNOCK TWP","nc":2,"o":"-75.497625"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.75696,40.92867],"type":"Point"},"properties":{"a":"40.92867","cty":"NORTHUMBERLAND","hp":true,"id":8840007,"mun":"POINT TWP","nc":10,"ne":{"a":"40.92956","o":"-76.75569"},"o":"-76.75696","sw":{"a":"40.92777","o":"-76.75823"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.4922,41.409139],"type":"Point"},"properties":{"a":"41.409139","cty":"LACKAWANNA","id":8840019,"mun":"JEFFERSON TWP","nc":4,"o":"-75.4922"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.84761,41.268122],"type":"Point"},"properties":{"a":"41.268122","cty":"LUZERNE","id":8840037,"mun":"WILKES-BARRE","nc":30,"o":"-75.84761"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.84761,41.268122],"type":"Point"},"properties":{"a":"41.268122","cty":"LUZERNE","id":8840037,"mun":"WILKES-BARRE","nc":30,"o":"-75.84761"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.042162,41.258791],"type":"Point"},"properties":{"a":"41.258791","cty":"LYCOMING","id":8840046,"mun":"OLD LYCOMING TWP","nc":13,"o":"-77.042162"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.28725,40.03278],"type":"Point"},"properties":{"a":"40.03278","cty":"LANCASTER","hp":true,"id":8840048,"mun":"LANCASTER","nc":384,"ne":{"a":"40.03822","o":"-76.28256"},"o":"-76.28725","sw":{"a":"40.02734","o":"-76.29194"}},"type":"Feature"}
 ]}
