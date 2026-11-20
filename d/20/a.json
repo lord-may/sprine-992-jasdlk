@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.715891,43.201692],"type":"Point"},"properties":{"EstRest":"11/20/2026 11:30:00 AM","Outages":55,"county":"MONROE","customers":303529,"incidents":2,"level":"county","opco":"RGE"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.433139,43.215051],"type":"Point"},"properties":{"EstRest":"11/20/2026 11:30:00 AM","Outages":4,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":17,"hamlet":"WEBSTER","incidentnumber":"011GBM","incidents":1,"level":"street","opco":"RGE","street":"ASHWOOD LA","town":"WEBSTER V WEBSTER"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.43321,43.213802],"type":"Point"},"properties":{"EstRest":"11/20/2026 11:30:00 AM","Outages":22,"county":"MONROE","customers":303529,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}

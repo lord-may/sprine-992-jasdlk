@@ -1,8 +1,8 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.422483,41.813486],"type":"Point"},"properties":{"a":"41.813486","cty":"PROVIDENCE","id":20261073052,"mun":"PROVIDENCE","nc":8,"o":"-71.422483"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.360705,41.762906],"type":"Point"},"properties":{"a":"41.762906","cty":"PROVIDENCE","id":20261073055,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.360705"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.427813,41.789396],"type":"Point"},"properties":{"a":"41.789396","cty":"PROVIDENCE","id":20261073058,"mun":"PROVIDENCE","nc":1,"o":"-71.427813"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.425498,41.818539],"type":"Point"},"properties":{"a":"41.818539","cty":"PROVIDENCE","id":20261073071,"mun":"PROVIDENCE","nc":1,"o":"-71.425498"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.247636,41.57891],"type":"Point"},"properties":{"a":"41.57891","cty":"NEWPORT","id":20261073072,"mun":"PORTSMOUTH","nc":1,"o":"-71.247636"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.55115,41.832913],"type":"Point"},"properties":{"a":"41.832913","cty":"PROVIDENCE","id":20261073073,"mun":"JOHNSTON","nc":1,"o":"-71.55115"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.55115,41.832913],"type":"Point"},"properties":{"a":"41.832913","cty":"PROVIDENCE","id":20261073073,"mun":"JOHNSTON","nc":1,"o":"-71.55115"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.412502,41.870835],"type":"Point"},"properties":{"a":"41.870835","cty":"PROVIDENCE","id":20261073075,"mun":"PAWTUCKET","nc":1,"o":"-71.412502"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.27136,41.69214],"type":"Point"},"properties":{"a":"41.69214","cty":"BRISTOL","id":20261073077,"mun":"BRISTOL","nc":1,"o":"-71.27136"},"type":"Feature"}
 ]}
