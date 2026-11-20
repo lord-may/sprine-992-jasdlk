@@ -27,5 +27,6 @@
 {"geometry":{"coordinates":[-75.282677,41.568951],"type":"Point"},"properties":{"a":"41.568951","cty":"WAYNE","id":8839960,"mun":"TEXAS TWP","nc":2,"o":"-75.282677"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.83946,40.17618],"type":"Point"},"properties":{"a":"40.17618","cty":"YORK","hp":true,"id":8839966,"mun":"FAIRVIEW TWP","nc":64,"ne":{"a":"40.18365","o":"-76.8341"},"o":"-76.83946","sw":{"a":"40.16871","o":"-76.84483"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.282439,41.569356],"type":"Point"},"properties":{"a":"41.569356","cty":"WAYNE","id":8839967,"mun":"TEXAS TWP","nc":1,"o":"-75.282439"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.519577,40.513491],"type":"Point"},"properties":{"a":"40.513491","cty":"LEHIGH","id":8839970,"mun":"UPPER MILFORD TWP","nc":3,"o":"-75.519577"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.281316,40.36112],"type":"Point"},"properties":{"a":"40.36112","cty":"BUCKS","id":8839972,"mun":"HILLTOWN TWP","nc":2,"o":"-75.281316"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.274882,40.283945],"type":"Point"},"properties":{"a":"40.283945","cty":"LEBANON","id":8839975,"mun":"HEIDELBERG TWP","nc":2,"o":"-76.274882"},"type":"Feature"}
 ]}
