@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-73.213447,44.159931],"type":"Point"},"properties":{"active":true,"affectingCustomers":true,"cause":0,"county":"Addison","crew_name":",MIDD-WIMETT","customers_affected":15,"customers_affected_label":"15 Customers","device":"FUSE","etor":"2026-11-20T17:00-05:00","has_etor":1,"incident_id":1018609,"status":"CREW_ASSIGNED","street":"PLANK RD","town":"Ferrisburgh","trouble":"NO_POWER"},"type":"Feature"}
+
 ]}

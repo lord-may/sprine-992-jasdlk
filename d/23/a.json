@@ -2,14 +2,12 @@
 {"geometry":{"coordinates":[-75.34561,40.63309],"type":"Point"},"properties":{"a":"40.63309","cty":"NORTHAMPTON","hp":true,"id":8839881,"mun":"FREEMANSBURG BORO","nc":41,"ne":{"a":"40.63443","o":"-75.34348"},"o":"-75.34561","sw":{"a":"40.63175","o":"-75.34774"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.845287,40.924015],"type":"Point"},"properties":{"a":"40.924015","cty":"NORTHUMBERLAND","id":8839928,"mun":"POINT TWP","nc":4,"o":"-76.845287"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.845619,40.923984],"type":"Point"},"properties":{"a":"40.923984","cty":"NORTHUMBERLAND","id":8839933,"mun":"POINT TWP","nc":1,"o":"-76.845619"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.432174,41.253437],"type":"Point"},"properties":{"a":"41.253437","cty":"COLUMBIA","id":8839957,"mun":"JACKSON TWP","nc":1,"o":"-76.432174"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.281316,40.36112],"type":"Point"},"properties":{"a":"40.36112","cty":"BUCKS","id":8839972,"mun":"HILLTOWN TWP","nc":2,"o":"-75.281316"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.532072,41.118825],"type":"Point"},"properties":{"a":"41.118825","cty":"COLUMBIA","id":8839987,"mun":"MADISON TWP","nc":3,"o":"-76.532072"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.497625,41.028363],"type":"Point"},"properties":{"a":"41.028363","cty":"MONROE","id":8839997,"mun":"TUNKHANNOCK TWP","nc":2,"o":"-75.497625"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.4922,41.409139],"type":"Point"},"properties":{"a":"41.409139","cty":"LACKAWANNA","id":8840019,"mun":"JEFFERSON TWP","nc":4,"o":"-75.4922"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.84761,41.268122],"type":"Point"},"properties":{"a":"41.268122","cty":"LUZERNE","id":8840037,"mun":"WILKES-BARRE","nc":30,"o":"-75.84761"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.28725,40.03278],"type":"Point"},"properties":{"a":"40.03278","cty":"LANCASTER","hp":true,"id":8840048,"mun":"LANCASTER","nc":384,"ne":{"a":"40.03822","o":"-76.28256"},"o":"-76.28725","sw":{"a":"40.02734","o":"-76.29194"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.043166,41.258631],"type":"Point"},"properties":{"a":"41.258631","cty":"LYCOMING","id":8840052,"mun":"OLD LYCOMING TWP","nc":26,"o":"-77.043166"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.826667,41.329654],"type":"Point"},"properties":{"a":"41.329654","cty":"LUZERNE","id":8840053,"mun":"EXETER BORO","nc":10,"o":"-75.826667"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.576773,41.458371],"type":"Point"},"properties":{"a":"41.458371","cty":"LACKAWANNA","id":8840057,"mun":"OLYPHANT BORO","nc":11,"o":"-75.576773"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.24472,41.005543],"type":"Point"},"properties":{"a":"41.005543","cty":"MONROE","id":8840060,"mun":"STROUD TWP","nc":3,"o":"-75.24472"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.31969,41.01807],"type":"Point"},"properties":{"a":"41.01807","cty":"MONROE","hp":true,"id":8840065,"mun":"JACKSON TWP","nc":189,"ne":{"a":"41.02459","o":"-75.30969"},"o":"-75.31969","sw":{"a":"41.01156","o":"-75.32969"}},"type":"Feature"}
 ]}

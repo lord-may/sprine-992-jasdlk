@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.187443,44.151861],"type":"Point"},"properties":{"EstRest":"11/20/2026 3:00:00 PM","Outages":1,"cause":"","county":"ANDROSCOGGIN","crewstatus":"     ","customers":33,"hamlet":"LEWISTON","incidentnumber":"0047NH","incidents":1,"level":"street","opco":"CMP","street":"MERRILL RD","town":"LEWISTON"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.187443,44.151861],"type":"Point"},"properties":{"EstRest":"11/20/2026 3:00:00 PM","Outages":1,"cause":"","county":"ANDROSCOGGIN","crewstatus":"ONST ","customers":33,"hamlet":"LEWISTON","incidentnumber":"0047NH","incidents":1,"level":"street","opco":"CMP","street":"MERRILL RD","town":"LEWISTON"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.187443,44.151861],"type":"Point"},"properties":{"EstRest":"11/20/2026 3:00:00 PM","Outages":1,"county":"ANDROSCOGGIN","customers":59602,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.499239,44.041712],"type":"Point"},"properties":{"EstRest":"11/20/2026 4:15:00 PM","Outages":38,"county":"OXFORD","customers":44086,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.499345,44.041779],"type":"Point"},"properties":{"EstRest":"11/20/2026 4:30:00 PM","Outages":39,"county":"OXFORD","customers":44086,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
