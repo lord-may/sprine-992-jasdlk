@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-74.876021,41.592452],"type":"Point"},"properties":{"EstRest":"11/20/2026 10:15:00 AM","Outages":28,"county":"SULLIVAN","customers":50189,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-74.877432,41.602742],"type":"Point"},"properties":{"EstRest":"11/20/2026 10:15:00 AM","Outages":25,"cause":"","county":"SULLIVAN","crewstatus":"DISP ","customers":140,"hamlet":"ELDRED","incidentnumber":"011GAE","incidents":1,"level":"street","opco":"NYSEG","street":"STATE ROUTE 55","town":"HIGHLAND T"},"type":"Feature"}
 ]}
