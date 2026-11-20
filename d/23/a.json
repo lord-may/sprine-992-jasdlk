@@ -17,6 +17,12 @@
 {"geometry":{"coordinates":[-76.197044,40.6291],"type":"Point"},"properties":{"a":"40.6291","cty":"SCHUYLKILL","id":8839856,"mun":"CRESSONA BORO","nc":1,"o":"-76.197044"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.98651,41.260794],"type":"Point"},"properties":{"a":"41.260794","cty":"LYCOMING","id":8839860,"mun":"WILLIAMSPORT","nc":1,"o":"-76.98651"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.021074,40.294395],"type":"Point"},"properties":{"a":"40.294395","cty":"BERKS","id":8839861,"mun":"SPRING TWP","nc":1,"o":"-76.021074"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.848023,40.259256],"type":"Point"},"properties":{"a":"40.259256","cty":"DAUPHIN","id":8839862,"mun":"HARRISBURG","nc":19,"o":"-76.848023"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.596107,40.849151],"type":"Point"},"properties":{"a":"40.849151","cty":"CARBON","id":8839864,"mun":"TOWAMENSING TWP","nc":4,"o":"-75.596107"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.596107,40.849151],"type":"Point"},"properties":{"a":"40.849151","cty":"CARBON","id":8839864,"mun":"TOWAMENSING TWP","nc":4,"o":"-75.596107"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.215787,41.442019],"type":"Point"},"properties":{"a":"41.442019","cty":"WAYNE","id":8839866,"mun":"PAUPACK TWP","nc":2,"o":"-75.215787"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.944912,41.181617],"type":"Point"},"properties":{"a":"41.181617","cty":"LYCOMING","id":8839869,"mun":"BRADY TWP","nc":1,"o":"-76.944912"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.744505,41.215113],"type":"Point"},"properties":{"a":"41.215113","cty":"LYCOMING","id":8839871,"mun":"MUNCY CREEK TWP","nc":9,"o":"-76.744505"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.396097,40.652009],"type":"Point"},"properties":{"a":"40.652009","cty":"NORTHAMPTON","id":8839872,"mun":"HANOVER TWP","nc":2,"o":"-75.396097"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.651165,41.409456],"type":"Point"},"properties":{"a":"41.409456","cty":"LACKAWANNA","id":8839873,"mun":"SCRANTON","nc":36,"o":"-75.651165"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.238012,41.716336],"type":"Point"},"properties":{"a":"41.716336","cty":"WAYNE","id":8839874,"mun":"LEBANON TWP","nc":3,"o":"-75.238012"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.057109,41.235787],"type":"Point"},"properties":{"a":"41.235787","cty":"LYCOMING","id":8839875,"mun":"WILLIAMSPORT","nc":13,"o":"-77.057109"},"type":"Feature"}
 ]}
