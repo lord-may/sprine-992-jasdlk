@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-79.058294,41.521448],"type":"Point"},"properties":{"cause":"Investigating","crewAssigned":true,"id":"336825","nbrOut":1,"planned":false,"timeOff":1795186980613},"type":"Feature"},
-{"geometry":{"geometries":[{"coordinates":[[[-79.011096,41.58187],[-79.008042,41.588603],[-79.007988,41.588872],[-79.008752,41.589087],[-79.009542,41.58865],[-79.009964,41.588166],[-79.011132,41.586023],[-79.01203,41.58304],[-79.012291,41.581944],[-79.011959,41.581897],[-79.011096,41.58187]]],"type":"Polygon"},{"coordinates":[-79.01027,41.585553],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Investigating","comment":"Crew ran into issues while working on the line.  Had to kill the power for safety.  Should be restored within an hour.","crewAssigned":true,"id":"336827","nbrOut":39,"planned":false,"timeOff":1795188600000},"type":"Feature"}
+{"geometry":{"coordinates":[-79.058294,41.521448],"type":"Point"},"properties":{"cause":"Investigating","crewAssigned":true,"id":"336825","nbrOut":1,"planned":false,"timeOff":1795186980613},"type":"Feature"}
 ]}
