@@ -3,10 +3,10 @@
 {"geometry":{"coordinates":[-71.425498,41.818539],"type":"Point"},"properties":{"a":"41.818539","cty":"PROVIDENCE","id":20261073071,"mun":"PROVIDENCE","nc":1,"o":"-71.425498"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.55115,41.832913],"type":"Point"},"properties":{"a":"41.832913","cty":"PROVIDENCE","id":20261073073,"mun":"JOHNSTON","nc":1,"o":"-71.55115"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.27136,41.69214],"type":"Point"},"properties":{"a":"41.69214","cty":"BRISTOL","id":20261073077,"mun":"BRISTOL","nc":1,"o":"-71.27136"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.524173,41.79001],"type":"Point"},"properties":{"a":"41.79001","cty":"PROVIDENCE","id":20261073082,"mun":"JOHNSTON","nc":1,"o":"-71.524173"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.308118,41.492998],"type":"Point"},"properties":{"a":"41.492998","cty":"NEWPORT","id":20261073084,"mun":"NEWPORT","nc":16,"o":"-71.308118"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.456634,41.799321],"type":"Point"},"properties":{"a":"41.799321","cty":"PROVIDENCE","id":20261073089,"mun":"CRANSTON","nc":1,"o":"-71.456634"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.41861,41.83127],"type":"Point"},"properties":{"a":"41.83127","cty":"PROVIDENCE","id":20261073090,"mun":"PROVIDENCE","nc":1,"o":"-71.41861"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.423399,41.693755],"type":"Point"},"properties":{"a":"41.693755","cty":"KENT","id":20261073091,"mun":"WARWICK","nc":6,"o":"-71.423399"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.40275,41.776242],"type":"Point"},"properties":{"a":"41.776242","cty":"PROVIDENCE","id":20261073095,"mun":"CRANSTON","nc":1,"o":"-71.40275"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.40275,41.776242],"type":"Point"},"properties":{"a":"41.776242","cty":"PROVIDENCE","id":20261073095,"mun":"CRANSTON","nc":1,"o":"-71.40275"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.206313,41.622906],"type":"Point"},"properties":{"a":"41.622906","cty":"NEWPORT","id":20261073096,"mun":"TIVERTON","nc":1,"o":"-71.206313"},"type":"Feature"}
 ]}
