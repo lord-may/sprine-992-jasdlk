@@ -5,8 +5,6 @@
 {"geometry":{"coordinates":[-71.528482,41.673275],"type":"Point"},"properties":{"a":"41.673275","cty":"KENT","id":20261073116,"mun":"WEST WARWICK","nc":1,"o":"-71.528482"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.387208,41.867758],"type":"Point"},"properties":{"a":"41.867758","cty":"PROVIDENCE","id":20261073118,"mun":"PAWTUCKET","nc":1,"o":"-71.387208"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.367464,41.809623],"type":"Point"},"properties":{"a":"41.809623","cty":"PROVIDENCE","id":20261073121,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.367464"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.371526,41.86546],"type":"Point"},"properties":{"a":"41.86546","cty":"PROVIDENCE","id":20261073126,"mun":"PAWTUCKET","nc":1,"o":"-71.371526"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.427951,41.840023],"type":"Point"},"properties":{"a":"41.840023","cty":"PROVIDENCE","id":20261073127,"mun":"PROVIDENCE","nc":1,"o":"-71.427951"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.345182,41.812831],"type":"Point"},"properties":{"a":"41.812831","cty":"PROVIDENCE","id":20261073129,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.345182"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.39609,41.886777],"type":"Point"},"properties":{"a":"41.886777","cty":"PROVIDENCE","id":20261073130,"mun":"CENTRAL FALLS","nc":1,"o":"-71.39609"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.345182,41.812831],"type":"Point"},"properties":{"a":"41.812831","cty":"PROVIDENCE","id":20261073129,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.345182"},"type":"Feature"}
 ]}
