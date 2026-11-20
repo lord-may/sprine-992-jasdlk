@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.418918,41.765458],"type":"Point"},"properties":{"a":"41.765458","cty":"PROVIDENCE","id":20261073100,"mun":"CRANSTON","nc":1,"o":"-71.418918"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.315636,41.49252],"type":"Point"},"properties":{"a":"41.49252","cty":"NEWPORT","id":20261073104,"mun":"NEWPORT","nc":1,"o":"-71.315636"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.300524,41.65265],"type":"Point"},"properties":{"a":"41.65265","cty":"BRISTOL","id":20261073105,"mun":"BRISTOL","nc":1,"o":"-71.300524"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.38701,41.863462],"type":"Point"},"properties":{"a":"41.863462","cty":"PROVIDENCE","id":20261073110,"mun":"PAWTUCKET","nc":1,"o":"-71.38701"},"type":"Feature"},
