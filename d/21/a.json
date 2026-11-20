@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.515793,44.218002],"type":"Point"},"properties":{"EstRest":"11/20/2026 10:30:00 AM","Outages":1,"cause":"","county":"OXFORD","crewstatus":"     ","customers":41,"hamlet":"PARIS","incidentnumber":"0047L9","incidents":1,"level":"street","opco":"CMP","street":"PINE ST","town":"PARIS"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.515793,44.218002],"type":"Point"},"properties":{"EstRest":"11/20/2026 10:30:00 AM","Outages":1,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.515793,44.218002],"type":"Point"},"properties":{"EstRest":"11/20/2026 10:45:00 AM","Outages":11,"county":"OXFORD","customers":44086,"incidents":3,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.346086,44.334115],"type":"Point"},"properties":{"EstRest":"11/20/2026 10:45:00 AM","Outages":1,"cause":"","county":"SOMERSET","crewstatus":"ENRT ","customers":1,"hamlet":"HARTFORD","incidentnumber":"0047LG","incidents":1,"level":"street","opco":"CMP","street":"HOWARD RD","town":"HARTFORD"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.346086,44.334115],"type":"Point"},"properties":{"EstRest":"11/20/2026 10:45:00 AM","Outages":1,"county":"SOMERSET","customers":31730,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}

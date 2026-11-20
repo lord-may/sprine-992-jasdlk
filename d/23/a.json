@@ -11,6 +11,12 @@
 {"geometry":{"coordinates":[-76.766144,40.314078],"type":"Point"},"properties":{"a":"40.314078","cty":"DAUPHIN","id":8839846,"mun":"LOWER PAXTON TWP","nc":7,"o":"-76.766144"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.385328,41.767574],"type":"Point"},"properties":{"a":"41.767574","cty":"WAYNE","id":8839847,"mun":"MOUNT PLEASANT TWP","nc":1,"o":"-75.385328"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.46071,40.38997],"type":"Point"},"properties":{"a":"40.38997","cty":"MONTGOMERY","hp":true,"id":8839850,"mun":"UPPER HANOVER TWP","nc":55,"ne":{"a":"40.39371","o":"-75.45603"},"o":"-75.46071","sw":{"a":"40.38623","o":"-75.46539"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.97028,40.90582],"type":"Point"},"properties":{"a":"40.90582","cty":"CARBON","hp":true,"id":8839851,"mun":"BANKS TWP","nc":979,"ne":{"a":"40.92789","o":"-75.93372"},"o":"-75.97028","sw":{"a":"40.88376","o":"-76.00684"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.990695,40.902161],"type":"Point"},"properties":{"a":"40.902161","cty":"SCHUYLKILL","id":8839852,"mun":"MCADOO BORO","nc":16,"o":"-75.990695"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.95157,40.92016],"type":"Point"},"properties":{"a":"40.92016","cty":"CARBON","hp":true,"id":8839851,"mun":"BANKS TWP","nc":572,"ne":{"a":"40.92789","o":"-75.93372"},"o":"-75.95157","sw":{"a":"40.91243","o":"-75.96942"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.492611,41.4099],"type":"Point"},"properties":{"a":"41.4099","cty":"LACKAWANNA","id":8839853,"mun":"JEFFERSON TWP","nc":2,"o":"-75.492611"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.316461,40.383116],"type":"Point"},"properties":{"a":"40.383116","cty":"BUCKS","id":8839855,"mun":"WEST ROCKHILL TWP","nc":3,"o":"-75.316461"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.197044,40.6291],"type":"Point"},"properties":{"a":"40.6291","cty":"SCHUYLKILL","id":8839856,"mun":"CRESSONA BORO","nc":1,"o":"-76.197044"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.98651,41.260794],"type":"Point"},"properties":{"a":"41.260794","cty":"LYCOMING","id":8839860,"mun":"WILLIAMSPORT","nc":1,"o":"-76.98651"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.021074,40.294395],"type":"Point"},"properties":{"a":"40.294395","cty":"BERKS","id":8839861,"mun":"SPRING TWP","nc":1,"o":"-76.021074"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.848023,40.259256],"type":"Point"},"properties":{"a":"40.259256","cty":"DAUPHIN","id":8839862,"mun":"HARRISBURG","nc":19,"o":"-76.848023"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.596107,40.849151],"type":"Point"},"properties":{"a":"40.849151","cty":"CARBON","id":8839864,"mun":"TOWAMENSING TWP","nc":4,"o":"-75.596107"},"type":"Feature"}
 ]}
