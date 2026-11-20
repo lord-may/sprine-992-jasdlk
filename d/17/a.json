@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.3759,38.29817],"type":"Point"},"properties":{"cause":{"EN-US":"PLANNED OUTAGE/MAINTAINENCE","orig":"1801"},"cluster":false,"comments":null,"crew_icon":true,"crew_status":{"EN-US":"Working","orig":"W"},"cust_a":{"val":1},"etr":"2026-11-20T21:11:20Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-11-20T14:02:47Z","title":"Area Outage"},"type":"Feature"}
+
 ]}
