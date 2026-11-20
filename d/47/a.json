@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-67.69036,44.947099],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":4,"customersOutNow":4,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-20T11:49:26.813-05:00","outageName":"F41030-6","outagePoint":{"lat":44.94709935065372,"lng":-67.69036049910036},"outageRecID":"2026-11-20-0269","outageStartTime":"2026-11-20T11:41:43-05:00","outageWorkStatus":"","streetsAffected":["CARLOW RD","CARLOW RD LOT 42 & 43"],"verified":true},"type":"Feature"}
+
 ]}
