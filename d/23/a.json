@@ -5,6 +5,5 @@
 {"geometry":{"coordinates":[-75.437071,40.635219],"type":"Point"},"properties":{"a":"40.635219","cty":"LEHIGH","id":8839814,"mun":"ALLENTOWN","nc":3,"o":"-75.437071"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.398066,40.645175],"type":"Point"},"properties":{"a":"40.645175","cty":"NORTHAMPTON","id":8839815,"mun":"HANOVER TWP","nc":4,"o":"-75.398066"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.840329,41.247137],"type":"Point"},"properties":{"a":"41.247137","cty":"LUZERNE","id":8839816,"mun":"WILKES-BARRE TWP","nc":1,"o":"-75.840329"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.130054,40.303902],"type":"Point"},"properties":{"a":"40.303902","cty":"BERKS","id":8839819,"mun":"SOUTH HEIDELBERG TWP","nc":2,"o":"-76.130054"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.729805,41.354936],"type":"Point"},"properties":{"a":"41.354936","cty":"LACKAWANNA","id":8839820,"mun":"MOOSIC BORO","nc":19,"o":"-75.729805"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.130054,40.303902],"type":"Point"},"properties":{"a":"40.303902","cty":"BERKS","id":8839819,"mun":"SOUTH HEIDELBERG TWP","nc":2,"o":"-76.130054"},"type":"Feature"}
 ]}
