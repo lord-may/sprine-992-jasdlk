@@ -1,5 +1,9 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.462717,40.599956],"type":"Point"},"properties":{"a":"40.599956","cty":"NA","id":8839700,"mun":"NA","nc":2,"o":"-75.462717"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.538129,40.484152],"type":"Point"},"properties":{"a":"40.484152","cty":"LEHIGH","id":8839776,"mun":"UPPER MILFORD TWP","nc":1,"o":"-75.538129"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.925504,40.227191],"type":"Point"},"properties":{"a":"40.227191","cty":"CUMBERLAND","id":8839779,"mun":"LOWER ALLEN TWP","nc":18,"o":"-76.925504"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.925504,40.227191],"type":"Point"},"properties":{"a":"40.227191","cty":"CUMBERLAND","id":8839779,"mun":"LOWER ALLEN TWP","nc":18,"o":"-76.925504"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.40592,40.57714],"type":"Point"},"properties":{"a":"40.57714","cty":"LEHIGH","hp":true,"id":8839802,"mun":"UPPER SAUCON TWP","nc":619,"ne":{"a":"40.64017","o":"-75.39291"},"o":"-75.40592","sw":{"a":"40.51411","o":"-75.41893"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.865896,40.268111],"type":"Point"},"properties":{"a":"40.268111","cty":"DAUPHIN","id":8839803,"mun":"HARRISBURG","nc":1,"o":"-76.865896"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.38533,40.517047],"type":"Point"},"properties":{"a":"40.517047","cty":"LEHIGH","id":8839804,"mun":"UPPER SAUCON TWP","nc":5,"o":"-75.38533"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.279286,41.578168],"type":"Point"},"properties":{"a":"41.578168","cty":"WAYNE","id":8839805,"mun":"TEXAS TWP","nc":10,"o":"-75.279286"},"type":"Feature"}
 ]}
