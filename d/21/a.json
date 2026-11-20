@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-69.658001,44.292539],"type":"Point"},"properties":{"EstRest":"11/20/2026 8:15:00 AM","Outages":1,"cause":"","county":"KENNEBEC","crewstatus":"     ","customers":24,"hamlet":"AUGUSTA","incidentnumber":"0047L4","incidents":1,"level":"street","opco":"CMP","street":"MUD MILLS RD","town":"AUGUSTA"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.658001,44.292539],"type":"Point"},"properties":{"EstRest":"11/20/2026 8:15:00 AM","Outages":1,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}

@@ -1,7 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.840329,41.247137],"type":"Point"},"properties":{"a":"41.247137","cty":"LUZERNE","id":8839816,"mun":"WILKES-BARRE TWP","nc":1,"o":"-75.840329"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.863632,41.240609],"type":"Point"},"properties":{"a":"41.240609","cty":"LUZERNE","id":8839822,"mun":"WILKES-BARRE","nc":64,"o":"-75.863632"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.213658,41.463927],"type":"Point"},"properties":{"a":"41.463927","cty":"WAYNE","id":8839824,"mun":"PAUPACK TWP","nc":4,"o":"-75.213658"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.84139,40.830147],"type":"Point"},"properties":{"a":"40.830147","cty":"SNYDER","id":8839827,"mun":"MONROE TWP","nc":5,"o":"-76.84139"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.349944,41.064259],"type":"Point"},"properties":{"a":"41.064259","cty":"CLINTON","id":8839829,"mun":"GREENE TWP","nc":2,"o":"-77.349944"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.175676,40.704731],"type":"Point"},"properties":{"a":"40.704731","cty":"SCHUYLKILL","id":8839830,"mun":"EAST NORWEGIAN TWP","nc":1,"o":"-76.175676"},"type":"Feature"},
