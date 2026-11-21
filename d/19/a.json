@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.933946,42.111991],"type":"Point"},"properties":{"EstRest":"11/21/2026 5:15:00 PM","Outages":1,"cause":"","county":"BROOME","crewstatus":"ENRT ","customers":62,"hamlet":"BINGHAMTON","incidentnumber":"011GMB","incidents":1,"level":"street","opco":"NYSEG","street":"HAZEL ST","town":"BINGHAMTON C"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.933946,42.111991],"type":"Point"},"properties":{"EstRest":"11/21/2026 5:15:00 PM","Outages":1,"county":"BROOME","customers":91450,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+
 ]}
