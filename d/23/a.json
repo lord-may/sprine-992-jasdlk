@@ -1,10 +1,12 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.06248,41.49175],"type":"Point"},"properties":{"a":"41.49175","cty":"PIKE","hp":true,"id":8840166,"mun":"LACKAWAXEN TWP","nc":29,"ne":{"a":"41.49931","o":"-75.05614"},"o":"-75.06248","sw":{"a":"41.48418","o":"-75.06881"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.05445,41.47171],"type":"Point"},"properties":{"a":"41.47171","cty":"PIKE","hp":true,"id":8840166,"mun":"LACKAWAXEN TWP","nc":323,"ne":{"a":"41.49931","o":"-75.02795"},"o":"-75.05445","sw":{"a":"41.44411","o":"-75.08096"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.517624,41.428493],"type":"Point"},"properties":{"a":"41.428493","cty":"LACKAWANNA","id":8840413,"mun":"JEFFERSON TWP","nc":2,"o":"-75.517624"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.127529,40.789312],"type":"Point"},"properties":{"a":"40.789312","cty":"SNYDER","id":8840418,"mun":"BEAVER TWP","nc":1,"o":"-77.127529"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.19666,41.485408],"type":"Point"},"properties":{"a":"41.485408","cty":"WAYNE","id":8840429,"mun":"PALMYRA TWP","nc":2,"o":"-75.19666"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.856463,40.221666],"type":"Point"},"properties":{"a":"40.221666","cty":"YORK","id":8840430,"mun":"FAIRVIEW TWP","nc":16,"o":"-76.856463"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.735905,40.372147],"type":"Point"},"properties":{"a":"40.372147","cty":"DAUPHIN","id":8840432,"mun":"WEST HANOVER TWP","nc":1,"o":"-76.735905"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.779606,41.329053],"type":"Point"},"properties":{"a":"41.329053","cty":"LUZERNE","id":8840436,"mun":"PITTSTON","nc":1,"o":"-75.779606"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.556543,40.779479],"type":"Point"},"properties":{"a":"40.779479","cty":"NORTHAMPTON","id":8840437,"mun":"LEHIGH TWP","nc":7,"o":"-75.556543"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.556543,40.779479],"type":"Point"},"properties":{"a":"40.779479","cty":"NORTHAMPTON","id":8840437,"mun":"LEHIGH TWP","nc":7,"o":"-75.556543"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.735323,41.371528],"type":"Point"},"properties":{"a":"41.371528","cty":"LACKAWANNA","id":8840441,"mun":"OLD FORGE BORO","nc":1,"o":"-75.735323"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.571063,40.834026],"type":"Point"},"properties":{"a":"40.834026","cty":"CARBON","id":8840442,"mun":"LOWER TOWAMENSING TWP","nc":1,"o":"-75.571063"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.895892,41.02019],"type":"Point"},"properties":{"a":"41.02019","cty":"LUZERNE","id":8840444,"mun":"FOSTER TWP","nc":18,"o":"-75.895892"},"type":"Feature"}
 ]}
