@@ -1,12 +1,13 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.06248,41.49175],"type":"Point"},"properties":{"a":"41.49175","cty":"PIKE","hp":true,"id":8840166,"mun":"LACKAWAXEN TWP","nc":29,"ne":{"a":"41.49931","o":"-75.05614"},"o":"-75.06248","sw":{"a":"41.48418","o":"-75.06881"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.382668,41.111346],"type":"Point"},"properties":{"a":"41.111346","cty":"MONROE","id":8840273,"mun":"TOBYHANNA TWP","nc":1,"o":"-75.382668"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.221441,40.991904],"type":"Point"},"properties":{"a":"40.991904","cty":"MONROE","id":8840282,"mun":"STROUD TWP","nc":2,"o":"-75.221441"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.74732,41.599561],"type":"Point"},"properties":{"a":"41.599561","cty":"LACKAWANNA","id":8840307,"mun":"BENTON TWP","nc":5,"o":"-75.74732"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.577697,40.784126],"type":"Point"},"properties":{"a":"40.784126","cty":"NORTHUMBERLAND","id":8840316,"mun":"COAL TWP","nc":18,"o":"-76.577697"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.871135,40.189566],"type":"Point"},"properties":{"a":"40.189566","cty":"YORK","id":8840319,"mun":"FAIRVIEW TWP","nc":2,"o":"-76.871135"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.144533,40.364112],"type":"Point"},"properties":{"a":"40.364112","cty":"BERKS","id":8840320,"mun":"HEIDELBERG TWP","nc":1,"o":"-76.144533"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.603021,41.213144],"type":"Point"},"properties":{"a":"41.213144","cty":"LACKAWANNA","id":8840321,"mun":"THORNHURST TWP","nc":2,"o":"-75.603021"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.360339,40.664728],"type":"Point"},"properties":{"a":"40.664728","cty":"NORTHAMPTON","id":8840322,"mun":"BETHLEHEM","nc":7,"o":"-75.360339"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.361386,40.664065],"type":"Point"},"properties":{"a":"40.664065","cty":"NORTHAMPTON","id":8840323,"mun":"BETHLEHEM","nc":6,"o":"-75.361386"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.361386,40.664065],"type":"Point"},"properties":{"a":"40.664065","cty":"NORTHAMPTON","id":8840323,"mun":"BETHLEHEM","nc":6,"o":"-75.361386"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.597717,40.913148],"type":"Point"},"properties":{"a":"40.913148","cty":"CARBON","id":8840325,"mun":"PENN FOREST TWP","nc":1,"o":"-75.597717"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.01101,40.971322],"type":"Point"},"properties":{"a":"40.971322","cty":"LUZERNE","id":8840326,"mun":"WEST HAZLETON BORO","nc":2,"o":"-76.01101"},"type":"Feature"}
 ]}
