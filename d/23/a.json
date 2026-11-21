@@ -7,6 +7,5 @@
 {"geometry":{"coordinates":[-77.15988,41.15526],"type":"Point"},"properties":{"a":"41.15526","cty":"LYCOMING","hp":true,"id":8840450,"mun":"LIMESTONE TWP","nc":5,"ne":{"a":"41.15831","o":"-77.15875"},"o":"-77.15988","sw":{"a":"41.15222","o":"-77.161"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.374578,39.921517],"type":"Point"},"properties":{"a":"39.921517","cty":"LANCASTER","id":8840451,"mun":"CONESTOGA TWP","nc":1,"o":"-76.374578"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.468057,40.981575],"type":"Point"},"properties":{"a":"40.981575","cty":"MONROE","id":8840452,"mun":"CHESTNUT HILL TWP","nc":2,"o":"-75.468057"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.037155,41.453177],"type":"Point"},"properties":{"a":"41.453177","cty":"PIKE","id":8840457,"mun":"LACKAWAXEN TWP","nc":6,"o":"-75.037155"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.423738,40.621924],"type":"Point"},"properties":{"a":"40.621924","cty":"LEHIGH","id":8840458,"mun":"ALLENTOWN","nc":11,"o":"-75.423738"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.865361,41.103643],"type":"Point"},"properties":{"a":"41.103643","cty":"NORTHUMBERLAND","id":8840459,"mun":"DELAWARE TWP","nc":7,"o":"-76.865361"},"type":"Feature"}
 ]}
