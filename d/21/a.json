@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-69.985192,43.94188],"type":"Point"},"properties":{"EstRest":"11/21/2026 6:30:00 PM","Outages":1,"cause":"","county":"SAGADAHOC","crewstatus":"ENRT ","customers":1,"hamlet":"TOPSHAM","incidentnumber":"0047QY","incidents":1,"level":"street","opco":"CMP","street":"SMITH RD","town":"TOPSHAM"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.985192,43.94188],"type":"Point"},"properties":{"EstRest":"11/21/2026 6:30:00 PM","Outages":1,"county":"SAGADAHOC","customers":23026,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.441447,44.880757],"type":"Point"},"properties":{"EstRest":"11/21/2026 6:00:00 PM","Outages":1,"cause":"","county":"SOMERSET","crewstatus":"ONST ","customers":1,"hamlet":"HARTLAND","incidentnumber":"0047QV","incidents":1,"level":"street","opco":"CMP","street":"DIAMOND DR","town":"HARTLAND"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.444064,44.880273],"type":"Point"},"properties":{"EstRest":"11/21/2026 6:00:00 PM","Outages":33,"county":"SOMERSET","customers":31730,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.985192,43.94188],"type":"Point"},"properties":{"EstRest":"11/21/2026 6:30:00 PM","Outages":1,"county":"SAGADAHOC","customers":23026,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}

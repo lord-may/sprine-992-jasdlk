@@ -1,7 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.127529,40.789312],"type":"Point"},"properties":{"a":"40.789312","cty":"SNYDER","id":8840418,"mun":"BEAVER TWP","nc":1,"o":"-77.127529"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.779606,41.329053],"type":"Point"},"properties":{"a":"41.329053","cty":"LUZERNE","id":8840436,"mun":"PITTSTON","nc":1,"o":"-75.779606"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.556543,40.779479],"type":"Point"},"properties":{"a":"40.779479","cty":"NORTHAMPTON","id":8840437,"mun":"LEHIGH TWP","nc":7,"o":"-75.556543"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.571063,40.834026],"type":"Point"},"properties":{"a":"40.834026","cty":"CARBON","id":8840442,"mun":"LOWER TOWAMENSING TWP","nc":1,"o":"-75.571063"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.895892,41.02019],"type":"Point"},"properties":{"a":"41.02019","cty":"LUZERNE","id":8840444,"mun":"FOSTER TWP","nc":18,"o":"-75.895892"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.15988,41.15526],"type":"Point"},"properties":{"a":"41.15526","cty":"LYCOMING","hp":true,"id":8840450,"mun":"LIMESTONE TWP","nc":5,"ne":{"a":"41.15831","o":"-77.15875"},"o":"-77.15988","sw":{"a":"41.15222","o":"-77.161"}},"type":"Feature"},
