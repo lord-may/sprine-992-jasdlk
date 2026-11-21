@@ -4,8 +4,8 @@
 {"geometry":{"coordinates":[-76.62974,40.97267],"type":"Point"},"properties":{"a":"40.97267","cty":"MONTOUR","hp":true,"id":8840349,"mun":"MAHONING TWP","nc":54,"ne":{"a":"40.97595","o":"-76.62363"},"o":"-76.62974","sw":{"a":"40.96939","o":"-76.63584"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.320047,40.717119],"type":"Point"},"properties":{"a":"40.717119","cty":"SNYDER","id":8840352,"mun":"WEST BEAVER TWP","nc":1,"o":"-77.320047"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.394219,40.924111],"type":"Point"},"properties":{"a":"40.924111","cty":"MONROE","id":8840377,"mun":"CHESTNUT HILL TWP","nc":6,"o":"-75.394219"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.195479,41.456486],"type":"Point"},"properties":{"a":"41.456486","cty":"WAYNE","id":8840379,"mun":"PAUPACK TWP","nc":1,"o":"-75.195479"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.363902,41.131372],"type":"Point"},"properties":{"a":"41.131372","cty":"MONROE","id":8840391,"mun":"MOUNT POCONO BORO","nc":1,"o":"-75.363902"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.042879,40.012386],"type":"Point"},"properties":{"a":"40.012386","cty":"LANCASTER","id":8840394,"mun":"SALISBURY TWP","nc":3,"o":"-76.042879"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.263861,40.03714],"type":"Point"},"properties":{"a":"40.03714","cty":"LANCASTER","id":8840412,"mun":"EAST LAMPETER TWP","nc":7,"o":"-76.263861"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.263861,40.03714],"type":"Point"},"properties":{"a":"40.03714","cty":"LANCASTER","id":8840412,"mun":"EAST LAMPETER TWP","nc":7,"o":"-76.263861"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.517624,41.428493],"type":"Point"},"properties":{"a":"41.428493","cty":"LACKAWANNA","id":8840413,"mun":"JEFFERSON TWP","nc":2,"o":"-75.517624"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.735905,40.372147],"type":"Point"},"properties":{"a":"40.372147","cty":"DAUPHIN","id":8840416,"mun":"WEST HANOVER TWP","nc":1,"o":"-76.735905"},"type":"Feature"}
 ]}
