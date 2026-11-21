@@ -14,5 +14,7 @@
 {"geometry":{"coordinates":[-76.411602,40.793889],"type":"Point"},"properties":{"a":"40.793889","cty":"NORTHUMBERLAND","id":8840351,"mun":"MOUNT CARMEL TWP","nc":19,"o":"-76.411602"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.320047,40.717119],"type":"Point"},"properties":{"a":"40.717119","cty":"SNYDER","id":8840352,"mun":"WEST BEAVER TWP","nc":1,"o":"-77.320047"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.971903,40.959964],"type":"Point"},"properties":{"a":"40.959964","cty":"LUZERNE","id":8840353,"mun":"HAZLETON","nc":14,"o":"-75.971903"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.972264,40.95928],"type":"Point"},"properties":{"a":"40.95928","cty":"LUZERNE","id":8840354,"mun":"HAZLETON","nc":23,"o":"-75.972264"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.972264,40.95928],"type":"Point"},"properties":{"a":"40.95928","cty":"LUZERNE","id":8840354,"mun":"HAZLETON","nc":23,"o":"-75.972264"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.562613,40.488914],"type":"Point"},"properties":{"a":"40.488914","cty":"LEHIGH","id":8840358,"mun":"UPPER MILFORD TWP","nc":2,"o":"-75.562613"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.347233,41.155984],"type":"Point"},"properties":{"a":"41.155984","cty":"MONROE","id":8840359,"mun":"COOLBAUGH TWP","nc":2,"o":"-75.347233"},"type":"Feature"}
 ]}
