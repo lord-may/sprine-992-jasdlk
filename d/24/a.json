@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.47429,41.8654],"type":"Point"},"properties":{"a":"41.8654","cty":"PROVIDENCE","hp":true,"id":20261073248,"mun":"NORTH PROVIDENCE","nc":197,"ne":{"a":"41.86623","o":"-71.47297"},"o":"-71.47429","sw":{"a":"41.86457","o":"-71.47561"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.534081,41.530969],"type":"Point"},"properties":{"a":"41.530969","cty":"WASHINGTON","id":20261073346,"mun":"EXETER","nc":1,"o":"-71.534081"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.534081,41.530969],"type":"Point"},"properties":{"a":"41.530969","cty":"WASHINGTON","id":20261073346,"mun":"EXETER","nc":1,"o":"-71.534081"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.638024,41.836126],"type":"Point"},"properties":{"a":"41.836126","cty":"PROVIDENCE","id":20261073350,"mun":"SCITUATE","nc":1,"o":"-71.638024"},"type":"Feature"}
 ]}
