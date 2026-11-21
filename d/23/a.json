@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.06248,41.49175],"type":"Point"},"properties":{"a":"41.49175","cty":"PIKE","hp":true,"id":8840166,"mun":"LACKAWAXEN TWP","nc":29,"ne":{"a":"41.49931","o":"-75.05614"},"o":"-75.06248","sw":{"a":"41.48418","o":"-75.06881"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.376646,40.646576],"type":"Point"},"properties":{"a":"40.646576","cty":"NORTHAMPTON","id":8840327,"mun":"BETHLEHEM","nc":4,"o":"-75.376646"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.29148,40.10271],"type":"Point"},"properties":{"a":"40.10271","cty":"LANCASTER","hp":true,"id":8840341,"mun":"MANHEIM TWP","nc":152,"ne":{"a":"40.10541","o":"-76.28935"},"o":"-76.29148","sw":{"a":"40.10002","o":"-76.2936"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.62974,40.97267],"type":"Point"},"properties":{"a":"40.97267","cty":"MONTOUR","hp":true,"id":8840349,"mun":"MAHONING TWP","nc":54,"ne":{"a":"40.97595","o":"-76.62363"},"o":"-76.62974","sw":{"a":"40.96939","o":"-76.63584"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.320047,40.717119],"type":"Point"},"properties":{"a":"40.717119","cty":"SNYDER","id":8840352,"mun":"WEST BEAVER TWP","nc":1,"o":"-77.320047"},"type":"Feature"},
@@ -9,5 +8,7 @@
 {"geometry":{"coordinates":[-75.363902,41.131372],"type":"Point"},"properties":{"a":"41.131372","cty":"MONROE","id":8840391,"mun":"MOUNT POCONO BORO","nc":1,"o":"-75.363902"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.042879,40.012386],"type":"Point"},"properties":{"a":"40.012386","cty":"LANCASTER","id":8840394,"mun":"SALISBURY TWP","nc":3,"o":"-76.042879"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.538968,40.962422],"type":"Point"},"properties":{"a":"40.962422","cty":"MONROE","id":8840399,"mun":"PENN FOREST TWP","nc":1,"o":"-75.538968"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.724592,41.506057],"type":"Point"},"properties":{"a":"41.506057","cty":"LACKAWANNA","id":8840400,"mun":"GLENBURN TWP","nc":4,"o":"-75.724592"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.724592,41.506057],"type":"Point"},"properties":{"a":"41.506057","cty":"LACKAWANNA","id":8840400,"mun":"GLENBURN TWP","nc":4,"o":"-75.724592"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.033351,41.469826],"type":"Point"},"properties":{"a":"41.469826","cty":"PIKE","id":8840409,"mun":"LACKAWAXEN TWP","nc":1,"o":"-75.033351"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.302168,40.391282],"type":"Point"},"properties":{"a":"40.391282","cty":"BUCKS","id":8840410,"mun":"EAST ROCKHILL TWP","nc":5,"o":"-75.302168"},"type":"Feature"}
 ]}
