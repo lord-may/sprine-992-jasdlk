@@ -5,6 +5,7 @@
 {"geometry":{"coordinates":[-71.437396,41.779383],"type":"Point"},"properties":{"a":"41.779383","cty":"PROVIDENCE","id":20261073259,"mun":"CRANSTON","nc":47,"o":"-71.437396"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.52837,41.68935],"type":"Point"},"properties":{"a":"41.68935","cty":"KENT","hp":true,"id":20261073265,"mun":"WEST WARWICK","nc":25,"ne":{"a":"41.69059","o":"-71.52801"},"o":"-71.52837","sw":{"a":"41.6881","o":"-71.52873"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.261303,41.709376],"type":"Point"},"properties":{"a":"41.709376","cty":"BRISTOL","id":20261073269,"mun":"BRISTOL","nc":1,"o":"-71.261303"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.42124,41.852725],"type":"Point"},"properties":{"a":"41.852725","cty":"PROVIDENCE","id":20261073270,"mun":"PROVIDENCE","nc":1,"o":"-71.42124"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.416851,41.873038],"type":"Point"},"properties":{"a":"41.873038","cty":"PROVIDENCE","id":20261073271,"mun":"PAWTUCKET","nc":1,"o":"-71.416851"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.302632,41.501916],"type":"Point"},"properties":{"a":"41.501916","cty":"NEWPORT","id":20261073272,"mun":"NEWPORT","nc":21,"o":"-71.302632"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.169013,41.586844],"type":"Point"},"properties":{"a":"41.586844","cty":"NEWPORT","id":20261073273,"mun":"TIVERTON","nc":1,"o":"-71.169013"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.400291,41.84242],"type":"Point"},"properties":{"a":"41.84242","cty":"PROVIDENCE","id":20261073275,"mun":"PROVIDENCE","nc":1,"o":"-71.400291"},"type":"Feature"}
 ]}
