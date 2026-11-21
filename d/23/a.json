@@ -1,14 +1,14 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.06248,41.49175],"type":"Point"},"properties":{"a":"41.49175","cty":"PIKE","hp":true,"id":8840166,"mun":"LACKAWAXEN TWP","nc":29,"ne":{"a":"41.49931","o":"-75.05614"},"o":"-75.06248","sw":{"a":"41.48418","o":"-75.06881"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.01101,40.971322],"type":"Point"},"properties":{"a":"40.971322","cty":"LUZERNE","id":8840326,"mun":"WEST HAZLETON BORO","nc":2,"o":"-76.01101"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.376646,40.646576],"type":"Point"},"properties":{"a":"40.646576","cty":"NORTHAMPTON","id":8840327,"mun":"BETHLEHEM","nc":4,"o":"-75.376646"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.886581,41.232324],"type":"Point"},"properties":{"a":"41.232324","cty":"LUZERNE","id":8840329,"mun":"WILKES-BARRE","nc":18,"o":"-75.886581"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.29148,40.10271],"type":"Point"},"properties":{"a":"40.10271","cty":"LANCASTER","hp":true,"id":8840341,"mun":"MANHEIM TWP","nc":152,"ne":{"a":"40.10541","o":"-76.28935"},"o":"-76.29148","sw":{"a":"40.10002","o":"-76.2936"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.62974,40.97267],"type":"Point"},"properties":{"a":"40.97267","cty":"MONTOUR","hp":true,"id":8840349,"mun":"MAHONING TWP","nc":54,"ne":{"a":"40.97595","o":"-76.62363"},"o":"-76.62974","sw":{"a":"40.96939","o":"-76.63584"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.320047,40.717119],"type":"Point"},"properties":{"a":"40.717119","cty":"SNYDER","id":8840352,"mun":"WEST BEAVER TWP","nc":1,"o":"-77.320047"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.347233,41.155984],"type":"Point"},"properties":{"a":"41.155984","cty":"MONROE","id":8840359,"mun":"COOLBAUGH TWP","nc":2,"o":"-75.347233"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.30879,40.55657],"type":"Point"},"properties":{"a":"40.55657","cty":"NORTHAMPTON","hp":true,"id":8840371,"mun":"LOWER SAUCON TWP","nc":65,"ne":{"a":"40.56271","o":"-75.29544"},"o":"-75.30879","sw":{"a":"40.55043","o":"-75.32214"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.394219,40.924111],"type":"Point"},"properties":{"a":"40.924111","cty":"MONROE","id":8840377,"mun":"CHESTNUT HILL TWP","nc":6,"o":"-75.394219"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.195479,41.456486],"type":"Point"},"properties":{"a":"41.456486","cty":"WAYNE","id":8840379,"mun":"PAUPACK TWP","nc":1,"o":"-75.195479"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.872061,41.234828],"type":"Point"},"properties":{"a":"41.234828","cty":"LUZERNE","id":8840381,"mun":"WILKES-BARRE","nc":16,"o":"-75.872061"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.872061,41.234828],"type":"Point"},"properties":{"a":"41.234828","cty":"LUZERNE","id":8840381,"mun":"WILKES-BARRE","nc":16,"o":"-75.872061"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.363902,41.131372],"type":"Point"},"properties":{"a":"41.131372","cty":"MONROE","id":8840391,"mun":"MOUNT POCONO BORO","nc":1,"o":"-75.363902"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.042879,40.012386],"type":"Point"},"properties":{"a":"40.012386","cty":"LANCASTER","id":8840394,"mun":"SALISBURY TWP","nc":3,"o":"-76.042879"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.839369,40.236146],"type":"Point"},"properties":{"a":"40.236146","cty":"DAUPHIN","id":8840395,"mun":"STEELTON BORO","nc":1,"o":"-76.839369"},"type":"Feature"}
 ]}
