@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.2677,41.713676],"type":"Point"},"properties":{"a":"41.713676","cty":"BRISTOL","id":20261073137,"mun":"WARREN","nc":108,"o":"-71.2677"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.2677,41.713676],"type":"Point"},"properties":{"a":"41.713676","cty":"BRISTOL","id":20261073137,"mun":"WARREN","nc":108,"o":"-71.2677"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.357284,41.824257],"type":"Point"},"properties":{"a":"41.824257","cty":"PROVIDENCE","id":20261073204,"mun":"EAST PROVIDENCE","nc":10,"o":"-71.357284"},"type":"Feature"}
 ]}
