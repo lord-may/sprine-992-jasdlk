@@ -2,8 +2,9 @@
 {"geometry":{"coordinates":[-75.06248,41.49175],"type":"Point"},"properties":{"a":"41.49175","cty":"PIKE","hp":true,"id":8840166,"mun":"LACKAWAXEN TWP","nc":29,"ne":{"a":"41.49931","o":"-75.05614"},"o":"-75.06248","sw":{"a":"41.48418","o":"-75.06881"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.382668,41.111346],"type":"Point"},"properties":{"a":"41.111346","cty":"MONROE","id":8840273,"mun":"TOBYHANNA TWP","nc":1,"o":"-75.382668"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.221441,40.991904],"type":"Point"},"properties":{"a":"40.991904","cty":"MONROE","id":8840282,"mun":"STROUD TWP","nc":2,"o":"-75.221441"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.536501,40.788309],"type":"Point"},"properties":{"a":"40.788309","cty":"NORTHUMBERLAND","id":8840306,"mun":"COAL TWP","nc":14,"o":"-76.536501"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.74732,41.599561],"type":"Point"},"properties":{"a":"41.599561","cty":"LACKAWANNA","id":8840307,"mun":"BENTON TWP","nc":5,"o":"-75.74732"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.403846,41.105154],"type":"Point"},"properties":{"a":"41.105154","cty":"MONROE","id":8840314,"mun":"TOBYHANNA TWP","nc":8,"o":"-75.403846"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.868976,40.188602],"type":"Point"},"properties":{"a":"40.188602","cty":"YORK","id":8840315,"mun":"FAIRVIEW TWP","nc":1,"o":"-76.868976"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.577697,40.784126],"type":"Point"},"properties":{"a":"40.784126","cty":"NORTHUMBERLAND","id":8840316,"mun":"COAL TWP","nc":18,"o":"-76.577697"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.634282,40.548609],"type":"Point"},"properties":{"a":"40.548609","cty":"LEHIGH","id":8840318,"mun":"UPPER MACUNGIE TWP","nc":4,"o":"-75.634282"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.871135,40.189566],"type":"Point"},"properties":{"a":"40.189566","cty":"YORK","id":8840319,"mun":"FAIRVIEW TWP","nc":2,"o":"-76.871135"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.144533,40.364112],"type":"Point"},"properties":{"a":"40.364112","cty":"BERKS","id":8840320,"mun":"HEIDELBERG TWP","nc":1,"o":"-76.144533"},"type":"Feature"}
 ]}
