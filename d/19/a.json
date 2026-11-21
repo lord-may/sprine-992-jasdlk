@@ -1,3 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-74.239629,42.339376],"type":"Point"},"properties":{"EstRest":"11/20/2026 11:15:00 PM","Outages":5,"county":"GREENE","customers":4933,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"}
+{"geometry":{"coordinates":[-74.980777,42.01545],"type":"Point"},"properties":{"EstRest":"11/21/2026 2:15:00 AM","Outages":436,"county":"DELAWARE","customers":28318,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.000211,42.01696],"type":"Point"},"properties":{"EstRest":"11/21/2026 2:15:00 AM","Outages":6,"cause":"","county":"DELAWARE","crewstatus":"DISP ","customers":6,"hamlet":"COOKS FALLS","incidentnumber":"011GJ3","incidents":1,"level":"street","opco":"NYSEG","street":"FULLER HILL RD","town":"COLCHESTER T"},"type":"Feature"},
+{"geometry":{"coordinates":[-74.999264,41.99566],"type":"Point"},"properties":{"EstRest":"11/21/2026 2:15:00 AM","Outages":1,"cause":"","county":"SULLIVAN","crewstatus":"DISP ","customers":1,"hamlet":"ROSCOE","incidentnumber":"011GJ3","incidents":1,"level":"street","opco":"NYSEG","street":"PETERSON DR","town":"COLCHESTER T"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.007016,41.995662],"type":"Point"},"properties":{"EstRest":"11/21/2026 2:15:00 AM","Outages":3,"county":"SULLIVAN","customers":50189,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
