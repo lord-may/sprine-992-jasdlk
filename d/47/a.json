@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-67.162877,45.081558],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":22,"customersOutNow":22,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-21T14:37:20.36-05:00","outageName":"F51055-4","outagePoint":{"lat":45.08155803822668,"lng":-67.16287726026648},"outageRecID":"2026-11-21-0282","outageStartTime":"2026-11-21T14:32:19-05:00","outageWorkStatus":"","streetsAffected":["COLD SPRING LN","SHERMAN HILL","SHERMAN HILL RD","SHERMAN RD","SHERMAN RD - HOUSE","SHERMAN RD TRAILER","STERNER RD"],"verified":true},"type":"Feature"}
 ]}
