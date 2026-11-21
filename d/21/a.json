@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-70.380003,43.774337],"type":"Point"},"properties":{"EstRest":"11/21/2026 12:15:00 AM","Outages":1,"cause":"","county":"CUMBERLAND","crewstatus":"ACKN ","customers":803,"hamlet":"WINDHAM","incidentnumber":"0047OR","incidents":1,"level":"street","opco":"CMP","street":"ROOSEVELT TRL","town":"WINDHAM"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.380003,43.774337],"type":"Point"},"properties":{"EstRest":"11/21/2026 12:15:00 AM","Outages":1,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
