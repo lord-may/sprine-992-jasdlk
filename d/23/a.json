@@ -4,6 +4,6 @@
 {"geometry":{"coordinates":[-75.221441,40.991904],"type":"Point"},"properties":{"a":"40.991904","cty":"MONROE","id":8840282,"mun":"STROUD TWP","nc":2,"o":"-75.221441"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.536501,40.788309],"type":"Point"},"properties":{"a":"40.788309","cty":"NORTHUMBERLAND","id":8840306,"mun":"COAL TWP","nc":14,"o":"-76.536501"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.74732,41.599561],"type":"Point"},"properties":{"a":"41.599561","cty":"LACKAWANNA","id":8840307,"mun":"BENTON TWP","nc":5,"o":"-75.74732"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.696385,40.712323],"type":"Point"},"properties":{"a":"40.712323","cty":"NORTHUMBERLAND","id":8840308,"mun":"WASHINGTON TWP","nc":3,"o":"-76.696385"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.37114,41.079119],"type":"Point"},"properties":{"a":"41.079119","cty":"MONROE","id":8840309,"mun":"POCONO TWP","nc":1,"o":"-75.37114"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.403846,41.105154],"type":"Point"},"properties":{"a":"41.105154","cty":"MONROE","id":8840314,"mun":"TOBYHANNA TWP","nc":8,"o":"-75.403846"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.868976,40.188602],"type":"Point"},"properties":{"a":"40.188602","cty":"YORK","id":8840315,"mun":"FAIRVIEW TWP","nc":1,"o":"-76.868976"},"type":"Feature"}
 ]}
