@@ -5,6 +5,5 @@
 {"geometry":{"coordinates":[-75.483454,40.44578],"type":"Point"},"properties":{"a":"40.44578","cty":"LEHIGH","id":8840206,"mun":"LOWER MILFORD TWP","nc":2,"o":"-75.483454"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.642314,41.452488],"type":"Point"},"properties":{"a":"41.452488","cty":"LACKAWANNA","id":8840211,"mun":"SCRANTON","nc":1,"o":"-75.642314"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.311561,41.023653],"type":"Point"},"properties":{"a":"41.023653","cty":"MONROE","id":8840237,"mun":"POCONO TWP","nc":3,"o":"-75.311561"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.865361,41.103643],"type":"Point"},"properties":{"a":"41.103643","cty":"NORTHUMBERLAND","id":8840240,"mun":"DELAWARE TWP","nc":7,"o":"-76.865361"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.262855,40.755711],"type":"Point"},"properties":{"a":"40.755711","cty":"NORTHAMPTON","id":8840242,"mun":"STOCKERTON BORO","nc":14,"o":"-75.262855"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.865361,41.103643],"type":"Point"},"properties":{"a":"41.103643","cty":"NORTHUMBERLAND","id":8840240,"mun":"DELAWARE TWP","nc":7,"o":"-76.865361"},"type":"Feature"}
 ]}
