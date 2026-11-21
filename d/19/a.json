@@ -1,7 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-74.239629,42.339376],"type":"Point"},"properties":{"EstRest":"11/20/2026 11:15:00 PM","Outages":5,"county":"GREENE","customers":4933,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.747821,42.642164],"type":"Point"},"properties":{"EstRest":"11/20/2026 8:30:00 PM","Outages":92,"county":"LIVINGSTON","customers":7183,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.760268,42.656972],"type":"Point"},"properties":{"EstRest":"11/20/2026 8:30:00 PM","Outages":5,"cause":"Equipment Interruption","county":"LIVINGSTON","crewstatus":"CMPL ","customers":5,"hamlet":"GROVELAND","incidentnumber":"011GIP","incidents":1,"level":"street","opco":"NYSEG","street":"CALDWELL RD","town":"SPARTA T"},"type":"Feature"},
 {"geometry":{"coordinates":[-74.903991,42.761591],"type":"Point"},"properties":{"EstRest":"11/20/2026 11:15:00 PM","Outages":1,"cause":"","county":"OTSEGO","crewstatus":"DISP ","customers":2,"hamlet":"COOPERSTOWN","incidentnumber":"011GIQ","incidents":1,"level":"street","opco":"NYSEG","street":"PARSHALL RD","town":"OTSEGO T"},"type":"Feature"},
 {"geometry":{"coordinates":[-74.903991,42.761591],"type":"Point"},"properties":{"EstRest":"11/20/2026 11:15:00 PM","Outages":1,"county":"OTSEGO","customers":25548,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
