@@ -1,5 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-73.93232,40.69905],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"NEW","cust_a":{"val":1},"etr":"ETR-NULL","outages":null,"reported_problem":"Partial Outage","title":"Outage Information"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.93268,40.62896],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"NEW","cust_a":{"val":1},"etr":"ETR-NULL","outages":null,"reported_problem":"No Lights","title":"Outage Information"},"type":"Feature"},
-{"geometry":{"geometries":[{"coordinates":[[[-73.80477,40.75476],[-73.8047,40.75494],[-73.80449,40.75573],[-73.80456,40.75596],[-73.80464,40.75574],[-73.80473,40.75506],[-73.80473,40.75502],[-73.80475,40.75491],[-73.80476,40.7548],[-73.80477,40.75476]]],"type":"Polygon"},{"coordinates":[-73.80462,40.75545],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"DSP","cust_a":{"val":112},"etr":"2026-11-21T04:00:00-0500","outages":null,"reported_problem":"Partial Outage","title":"Outage Information"},"type":"Feature"}
+
 ]}
