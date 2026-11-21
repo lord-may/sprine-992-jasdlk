@@ -4,5 +4,6 @@
 {"geometry":{"coordinates":[-75.211281,41.161976],"type":"Point"},"properties":{"a":"41.161976","cty":"MONROE","id":8840118,"mun":"PRICE TWP","nc":2,"o":"-75.211281"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.18991,41.41735],"type":"Point"},"properties":{"a":"41.41735","cty":"PIKE","hp":true,"id":8840128,"mun":"PALMYRA TWP","nc":43,"ne":{"a":"41.4213","o":"-75.1881"},"o":"-75.18991","sw":{"a":"41.41341","o":"-75.19172"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.99564,40.957977],"type":"Point"},"properties":{"a":"40.957977","cty":"LUZERNE","id":8840138,"mun":"WEST HAZLETON BORO","nc":33,"o":"-75.99564"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.836615,40.684754],"type":"Point"},"properties":{"a":"40.684754","cty":"NORTHUMBERLAND","id":8840151,"mun":"LOWER MAHANOY TWP","nc":2,"o":"-76.836615"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.05445,41.47171],"type":"Point"},"properties":{"a":"41.47171","cty":"PIKE","hp":true,"id":8840166,"mun":"LACKAWAXEN TWP","nc":319,"ne":{"a":"41.49931","o":"-75.02795"},"o":"-75.05445","sw":{"a":"41.44411","o":"-75.08096"}},"type":"Feature"},
+{"geometry":{"coordinates":[-74.990526,41.487462],"type":"Point"},"properties":{"a":"41.487462","cty":"PIKE","id":8840170,"mun":"LACKAWAXEN TWP","nc":5,"o":"-74.990526"},"type":"Feature"}
 ]}
