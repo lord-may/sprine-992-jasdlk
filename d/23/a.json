@@ -11,6 +11,8 @@
 {"geometry":{"coordinates":[-75.886581,41.232324],"type":"Point"},"properties":{"a":"41.232324","cty":"LUZERNE","id":8840329,"mun":"WILKES-BARRE","nc":18,"o":"-75.886581"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.601102,41.549263],"type":"Point"},"properties":{"a":"41.549263","cty":"LACKAWANNA","id":8840330,"mun":"SCOTT TWP","nc":3,"o":"-75.601102"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.29148,40.10271],"type":"Point"},"properties":{"a":"40.10271","cty":"LANCASTER","hp":true,"id":8840341,"mun":"MANHEIM TWP","nc":152,"ne":{"a":"40.10541","o":"-76.28935"},"o":"-76.29148","sw":{"a":"40.10002","o":"-76.2936"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.304649,40.089405],"type":"Point"},"properties":{"a":"40.089405","cty":"LANCASTER","id":8840342,"mun":"MANHEIM TWP","nc":5,"o":"-76.304649"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.603021,41.213144],"type":"Point"},"properties":{"a":"41.213144","cty":"LACKAWANNA","id":8840344,"mun":"THORNHURST TWP","nc":2,"o":"-75.603021"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.308892,40.096809],"type":"Point"},"properties":{"a":"40.096809","cty":"LANCASTER","id":8840346,"mun":"MANHEIM TWP","nc":2,"o":"-76.308892"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.202664,40.690444],"type":"Point"},"properties":{"a":"40.690444","cty":"SCHUYLKILL","id":8840347,"mun":"POTTSVILLE","nc":4,"o":"-76.202664"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.873617,41.23555],"type":"Point"},"properties":{"a":"41.23555","cty":"LUZERNE","id":8840348,"mun":"WILKES-BARRE","nc":9,"o":"-75.873617"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.63096,40.97249],"type":"Point"},"properties":{"a":"40.97249","cty":"MONTOUR","hp":true,"id":8840349,"mun":"MAHONING TWP","nc":59,"ne":{"a":"40.97595","o":"-76.62363"},"o":"-76.63096","sw":{"a":"40.96903","o":"-76.63829"}},"type":"Feature"}
 ]}
