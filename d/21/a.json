@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-70.657677,43.211801],"type":"Point"},"properties":{"EstRest":"11/21/2026 9:00:00 AM","Outages":12,"cause":"","county":"YORK","crewstatus":"ENRT ","customers":25,"hamlet":"YORK","incidentnumber":"0047OW","incidents":1,"level":"street","opco":"CMP","street":"GROUNDNUT HILL RD","town":"YORK"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.657677,43.211801],"type":"Point"},"properties":{"EstRest":"11/21/2026 9:00:00 AM","Outages":12,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
