@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-72.125403,41.547097],"type":"Point"},"properties":{"ADDRESS":"43 BAYBERRY HILL RD, NORWICH, CT, 06360","CUSTOMER_COUNT":22,"DEVICE_OID":2848,"FACILITY_ID":"FUS-6028","FEEDER_ID":"912","GDB_GEOMATTR_DATA":"","ID":45238,"INCIDENT_ID":50425,"OBJECTID":7916,"ORIG_FID":null,"REGION":3,"RxOID":2848,"TIME_OUTAGE":"11/21/2026 09:02 AM","TIME_RESTORED_EST":"Is still under review"},"type":"Feature"}
 ]}
