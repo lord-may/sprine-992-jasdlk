@@ -1,12 +1,9 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.06248,41.49175],"type":"Point"},"properties":{"a":"41.49175","cty":"PIKE","hp":true,"id":8840166,"mun":"LACKAWAXEN TWP","nc":29,"ne":{"a":"41.49931","o":"-75.05614"},"o":"-75.06248","sw":{"a":"41.48418","o":"-75.06881"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.26325,40.74703],"type":"Point"},"properties":{"a":"40.74703","cty":"NORTHAMPTON","hp":true,"id":8840197,"mun":"TATAMY BORO","nc":11,"ne":{"a":"40.74807","o":"-75.26277"},"o":"-75.26325","sw":{"a":"40.74599","o":"-75.26373"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.45118,40.04822],"type":"Point"},"properties":{"a":"40.04822","cty":"LANCASTER","hp":true,"id":8840259,"mun":"WEST HEMPFIELD TWP","nc":50,"ne":{"a":"40.0494","o":"-76.44876"},"o":"-76.45118","sw":{"a":"40.04703","o":"-76.45361"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.38149,41.08563],"type":"Point"},"properties":{"a":"41.08563","cty":"MONROE","hp":true,"id":8840270,"mun":"TOBYHANNA TWP","nc":680,"ne":{"a":"41.10581","o":"-75.35025"},"o":"-75.38149","sw":{"a":"41.06544","o":"-75.41272"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.407734,41.112182],"type":"Point"},"properties":{"a":"41.112182","cty":"MONROE","id":8840271,"mun":"TOBYHANNA TWP","nc":2,"o":"-75.407734"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.184395,40.209539],"type":"Point"},"properties":{"a":"40.209539","cty":"CUMBERLAND","id":8840272,"mun":"CARLISLE BORO","nc":8,"o":"-77.184395"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.382668,41.111346],"type":"Point"},"properties":{"a":"41.111346","cty":"MONROE","id":8840273,"mun":"TOBYHANNA TWP","nc":1,"o":"-75.382668"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.339261,40.083099],"type":"Point"},"properties":{"a":"40.083099","cty":"LANCASTER","id":8840276,"mun":"MANHEIM TWP","nc":7,"o":"-76.339261"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.033351,41.469826],"type":"Point"},"properties":{"a":"41.469826","cty":"PIKE","id":8840277,"mun":"LACKAWAXEN TWP","nc":1,"o":"-75.033351"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.262855,40.755711],"type":"Point"},"properties":{"a":"40.755711","cty":"NORTHAMPTON","id":8840278,"mun":"STOCKERTON BORO","nc":14,"o":"-75.262855"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.537726,41.042485],"type":"Point"},"properties":{"a":"41.042485","cty":"MONROE","id":8840279,"mun":"TUNKHANNOCK TWP","nc":1,"o":"-75.537726"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.221441,40.991904],"type":"Point"},"properties":{"a":"40.991904","cty":"MONROE","id":8840282,"mun":"STROUD TWP","nc":2,"o":"-75.221441"},"type":"Feature"}
 ]}
