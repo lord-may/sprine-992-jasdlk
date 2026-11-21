@@ -2,5 +2,9 @@
 {"geometry":{"coordinates":[-71.534081,41.530969],"type":"Point"},"properties":{"a":"41.530969","cty":"WASHINGTON","id":20261073223,"mun":"EXETER","nc":1,"o":"-71.534081"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.474805,41.921088],"type":"Point"},"properties":{"a":"41.921088","cty":"PROVIDENCE","id":20261073244,"mun":"LINCOLN","nc":1,"o":"-71.474805"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.204914,41.638838],"type":"Point"},"properties":{"a":"41.638838","cty":"NEWPORT","id":20261073247,"mun":"TIVERTON","nc":13,"o":"-71.204914"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.47429,41.8654],"type":"Point"},"properties":{"a":"41.8654","cty":"PROVIDENCE","hp":true,"id":20261073248,"mun":"NORTH PROVIDENCE","nc":197,"ne":{"a":"41.86623","o":"-71.47297"},"o":"-71.47429","sw":{"a":"41.86457","o":"-71.47561"}},"type":"Feature"}
+{"geometry":{"coordinates":[-71.47429,41.8654],"type":"Point"},"properties":{"a":"41.8654","cty":"PROVIDENCE","hp":true,"id":20261073248,"mun":"NORTH PROVIDENCE","nc":197,"ne":{"a":"41.86623","o":"-71.47297"},"o":"-71.47429","sw":{"a":"41.86457","o":"-71.47561"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.437396,41.779383],"type":"Point"},"properties":{"a":"41.779383","cty":"PROVIDENCE","id":20261073259,"mun":"CRANSTON","nc":47,"o":"-71.437396"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.261303,41.709376],"type":"Point"},"properties":{"a":"41.709376","cty":"BRISTOL","id":20261073263,"mun":"BRISTOL","nc":1,"o":"-71.261303"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.589862,41.871942],"type":"Point"},"properties":{"a":"41.871942","cty":"PROVIDENCE","id":20261073264,"mun":"GLOCESTER","nc":1,"o":"-71.589862"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.52837,41.689543],"type":"Point"},"properties":{"a":"41.689543","cty":"KENT","id":20261073265,"mun":"WEST WARWICK","nc":1,"o":"-71.52837"},"type":"Feature"}
 ]}
