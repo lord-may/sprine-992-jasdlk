@@ -1,6 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.31563,41.01809],"type":"Point"},"properties":{"a":"41.01809","cty":"MONROE","hp":true,"id":8840065,"mun":"JACKSON TWP","nc":156,"ne":{"a":"41.02459","o":"-75.30969"},"o":"-75.31563","sw":{"a":"41.01159","o":"-75.32156"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.281205,40.231953],"type":"Point"},"properties":{"a":"40.231953","cty":"LANCASTER","id":8840077,"mun":"CLAY TWP","nc":5,"o":"-76.281205"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.18991,41.41735],"type":"Point"},"properties":{"a":"41.41735","cty":"PIKE","hp":true,"id":8840128,"mun":"PALMYRA TWP","nc":43,"ne":{"a":"41.4213","o":"-75.1881"},"o":"-75.18991","sw":{"a":"41.41341","o":"-75.19172"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.05445,41.47171],"type":"Point"},"properties":{"a":"41.47171","cty":"PIKE","hp":true,"id":8840166,"mun":"LACKAWAXEN TWP","nc":319,"ne":{"a":"41.49931","o":"-75.02795"},"o":"-75.05445","sw":{"a":"41.44411","o":"-75.08096"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.190936,41.420765],"type":"Point"},"properties":{"a":"41.420765","cty":"PIKE","id":8840128,"mun":"PALMYRA TWP","nc":4,"o":"-75.190936"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.05445,41.47171],"type":"Point"},"properties":{"a":"41.47171","cty":"PIKE","hp":true,"id":8840166,"mun":"LACKAWAXEN TWP","nc":319,"ne":{"a":"41.49931","o":"-75.02795"},"o":"-75.05445","sw":{"a":"41.44411","o":"-75.08096"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.415072,41.271536],"type":"Point"},"properties":{"a":"41.271536","cty":"WAYNE","id":8840181,"mun":"LEHIGH TWP","nc":2,"o":"-75.415072"},"type":"Feature"}
 ]}
