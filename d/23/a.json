@@ -1,11 +1,9 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.06248,41.49175],"type":"Point"},"properties":{"a":"41.49175","cty":"PIKE","hp":true,"id":8840166,"mun":"LACKAWAXEN TWP","nc":29,"ne":{"a":"41.49931","o":"-75.05614"},"o":"-75.06248","sw":{"a":"41.48418","o":"-75.06881"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.26325,40.74703],"type":"Point"},"properties":{"a":"40.74703","cty":"NORTHAMPTON","hp":true,"id":8840197,"mun":"TATAMY BORO","nc":11,"ne":{"a":"40.74807","o":"-75.26277"},"o":"-75.26325","sw":{"a":"40.74599","o":"-75.26373"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.407734,41.112182],"type":"Point"},"properties":{"a":"41.112182","cty":"MONROE","id":8840271,"mun":"TOBYHANNA TWP","nc":2,"o":"-75.407734"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.382668,41.111346],"type":"Point"},"properties":{"a":"41.111346","cty":"MONROE","id":8840273,"mun":"TOBYHANNA TWP","nc":1,"o":"-75.382668"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.537726,41.042485],"type":"Point"},"properties":{"a":"41.042485","cty":"MONROE","id":8840279,"mun":"TUNKHANNOCK TWP","nc":1,"o":"-75.537726"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.221441,40.991904],"type":"Point"},"properties":{"a":"40.991904","cty":"MONROE","id":8840282,"mun":"STROUD TWP","nc":2,"o":"-75.221441"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.41541,40.04955],"type":"Point"},"properties":{"a":"40.04955","cty":"LANCASTER","hp":true,"id":8840304,"mun":"WEST HEMPFIELD TWP","nc":1081,"ne":{"a":"40.05777","o":"-76.40258"},"o":"-76.41541","sw":{"a":"40.04134","o":"-76.42824"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.38723,40.04559],"type":"Point"},"properties":{"a":"40.04559","cty":"LANCASTER","hp":true,"id":8840305,"mun":"WEST HEMPFIELD TWP","nc":168,"ne":{"a":"40.05156","o":"-76.36671"},"o":"-76.38723","sw":{"a":"40.03962","o":"-76.40776"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.536501,40.788309],"type":"Point"},"properties":{"a":"40.788309","cty":"NORTHUMBERLAND","id":8840306,"mun":"COAL TWP","nc":14,"o":"-76.536501"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.536501,40.788309],"type":"Point"},"properties":{"a":"40.788309","cty":"NORTHUMBERLAND","id":8840306,"mun":"COAL TWP","nc":14,"o":"-76.536501"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.74732,41.599561],"type":"Point"},"properties":{"a":"41.599561","cty":"LACKAWANNA","id":8840307,"mun":"BENTON TWP","nc":5,"o":"-75.74732"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.696385,40.712323],"type":"Point"},"properties":{"a":"40.712323","cty":"NORTHUMBERLAND","id":8840308,"mun":"WASHINGTON TWP","nc":3,"o":"-76.696385"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.37114,41.079119],"type":"Point"},"properties":{"a":"41.079119","cty":"MONROE","id":8840309,"mun":"POCONO TWP","nc":1,"o":"-75.37114"},"type":"Feature"}
 ]}
