@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.47429,41.8654],"type":"Point"},"properties":{"a":"41.8654","cty":"PROVIDENCE","hp":true,"id":20261073248,"mun":"NORTH PROVIDENCE","nc":197,"ne":{"a":"41.86623","o":"-71.47297"},"o":"-71.47429","sw":{"a":"41.86457","o":"-71.47561"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.301645,41.503389],"type":"Point"},"properties":{"a":"41.503389","cty":"NEWPORT","id":20261073316,"mun":"NEWPORT","nc":1,"o":"-71.301645"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.301645,41.503389],"type":"Point"},"properties":{"a":"41.503389","cty":"NEWPORT","id":20261073316,"mun":"NEWPORT","nc":1,"o":"-71.301645"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.31339,41.477542],"type":"Point"},"properties":{"a":"41.477542","cty":"NEWPORT","id":20261073319,"mun":"NEWPORT","nc":31,"o":"-71.31339"},"type":"Feature"}
 ]}

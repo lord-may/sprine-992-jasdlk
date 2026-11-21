@@ -1,7 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.06248,41.49175],"type":"Point"},"properties":{"a":"41.49175","cty":"PIKE","hp":true,"id":8840166,"mun":"LACKAWAXEN TWP","nc":29,"ne":{"a":"41.49931","o":"-75.05614"},"o":"-75.06248","sw":{"a":"41.48418","o":"-75.06881"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.74732,41.599561],"type":"Point"},"properties":{"a":"41.599561","cty":"LACKAWANNA","id":8840307,"mun":"BENTON TWP","nc":5,"o":"-75.74732"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.144533,40.364112],"type":"Point"},"properties":{"a":"40.364112","cty":"BERKS","id":8840320,"mun":"HEIDELBERG TWP","nc":1,"o":"-76.144533"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.01101,40.971322],"type":"Point"},"properties":{"a":"40.971322","cty":"LUZERNE","id":8840326,"mun":"WEST HAZLETON BORO","nc":2,"o":"-76.01101"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.376646,40.646576],"type":"Point"},"properties":{"a":"40.646576","cty":"NORTHAMPTON","id":8840327,"mun":"BETHLEHEM","nc":4,"o":"-75.376646"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.886581,41.232324],"type":"Point"},"properties":{"a":"41.232324","cty":"LUZERNE","id":8840329,"mun":"WILKES-BARRE","nc":18,"o":"-75.886581"},"type":"Feature"},
