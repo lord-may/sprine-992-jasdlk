@@ -1,9 +1,10 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.06248,41.49175],"type":"Point"},"properties":{"a":"41.49175","cty":"PIKE","hp":true,"id":8840166,"mun":"LACKAWAXEN TWP","nc":29,"ne":{"a":"41.49931","o":"-75.05614"},"o":"-75.06248","sw":{"a":"41.48418","o":"-75.06881"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.62974,40.97267],"type":"Point"},"properties":{"a":"40.97267","cty":"MONTOUR","hp":true,"id":8840349,"mun":"MAHONING TWP","nc":54,"ne":{"a":"40.97595","o":"-76.62363"},"o":"-76.62974","sw":{"a":"40.96939","o":"-76.63584"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.394219,40.924111],"type":"Point"},"properties":{"a":"40.924111","cty":"MONROE","id":8840377,"mun":"CHESTNUT HILL TWP","nc":6,"o":"-75.394219"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.363902,41.131372],"type":"Point"},"properties":{"a":"41.131372","cty":"MONROE","id":8840391,"mun":"MOUNT POCONO BORO","nc":1,"o":"-75.363902"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.517624,41.428493],"type":"Point"},"properties":{"a":"41.428493","cty":"LACKAWANNA","id":8840413,"mun":"JEFFERSON TWP","nc":2,"o":"-75.517624"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.127529,40.789312],"type":"Point"},"properties":{"a":"40.789312","cty":"SNYDER","id":8840418,"mun":"BEAVER TWP","nc":1,"o":"-77.127529"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.19666,41.485408],"type":"Point"},"properties":{"a":"41.485408","cty":"WAYNE","id":8840429,"mun":"PALMYRA TWP","nc":2,"o":"-75.19666"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.19666,41.485408],"type":"Point"},"properties":{"a":"41.485408","cty":"WAYNE","id":8840429,"mun":"PALMYRA TWP","nc":2,"o":"-75.19666"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.856463,40.221666],"type":"Point"},"properties":{"a":"40.221666","cty":"YORK","id":8840430,"mun":"FAIRVIEW TWP","nc":16,"o":"-76.856463"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.735905,40.372147],"type":"Point"},"properties":{"a":"40.372147","cty":"DAUPHIN","id":8840432,"mun":"WEST HANOVER TWP","nc":1,"o":"-76.735905"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.376058,40.379822],"type":"Point"},"properties":{"a":"40.379822","cty":"BUCKS","id":8840433,"mun":"WEST ROCKHILL TWP","nc":2,"o":"-75.376058"},"type":"Feature"}
 ]}
