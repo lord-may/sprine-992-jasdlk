@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-77.868166,42.724611],"type":"Point"},"properties":{"EstRest":"11/21/2026 8:15:00 PM","Outages":38,"county":"LIVINGSTON","customers":6499,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.8693,42.723775],"type":"Point"},"properties":{"EstRest":"11/21/2026 8:15:00 PM","Outages":11,"cause":"","county":"LIVINGSTON","crewstatus":"DISP ","customers":13,"hamlet":"MOUNT MORRIS","incidentnumber":"011GN8","incidents":1,"level":"street","opco":"RGE","street":"PARK LA","town":"MT MORRIS V MT MORRIS"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.483189,43.068471],"type":"Point"},"properties":{"EstRest":"11/21/2026 8:45:00 PM","Outages":10,"county":"MONROE","customers":303529,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.483189,43.068471],"type":"Point"},"properties":{"EstRest":"11/21/2026 8:45:00 PM","Outages":9,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":37,"hamlet":"PITTSFORD","incidentnumber":"011GNG","incidents":1,"level":"street","opco":"RGE","street":"SMALLWOOD DR","town":"PERINTON"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.8693,42.723775],"type":"Point"},"properties":{"EstRest":"11/21/2026 8:15:00 PM","Outages":11,"cause":"","county":"LIVINGSTON","crewstatus":"DISP ","customers":13,"hamlet":"MOUNT MORRIS","incidentnumber":"011GN8","incidents":1,"level":"street","opco":"RGE","street":"PARK LA","town":"MT MORRIS V MT MORRIS"},"type":"Feature"}
 ]}
