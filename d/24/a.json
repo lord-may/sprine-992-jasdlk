@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.2677,41.713676],"type":"Point"},"properties":{"a":"41.713676","cty":"BRISTOL","id":20261073137,"mun":"WARREN","nc":108,"o":"-71.2677"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.534081,41.530969],"type":"Point"},"properties":{"a":"41.530969","cty":"WASHINGTON","id":20261073188,"mun":"EXETER","nc":1,"o":"-71.534081"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.2677,41.713676],"type":"Point"},"properties":{"a":"41.713676","cty":"BRISTOL","id":20261073137,"mun":"WARREN","nc":108,"o":"-71.2677"},"type":"Feature"}
 ]}
