@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-74.668387,41.748094],"type":"Point"},"properties":{"EstRest":"11/21/2026 10:15:00 AM","Outages":1,"cause":"","county":"SULLIVAN","crewstatus":"     ","customers":1,"hamlet":"HURLEYVILLE","incidentnumber":"011GJM","incidents":1,"level":"street","opco":"NYSEG","street":"W MAIN ST LEFT","town":"FALLSBURG T"},"type":"Feature"},
+{"geometry":{"coordinates":[-74.668387,41.748094],"type":"Point"},"properties":{"EstRest":"11/21/2026 10:15:00 AM","Outages":4,"county":"SULLIVAN","customers":50189,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
