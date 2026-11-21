@@ -1,9 +1,8 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.31563,41.01809],"type":"Point"},"properties":{"a":"41.01809","cty":"MONROE","hp":true,"id":8840065,"mun":"JACKSON TWP","nc":156,"ne":{"a":"41.02459","o":"-75.30969"},"o":"-75.31563","sw":{"a":"41.01159","o":"-75.32156"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.190936,41.420765],"type":"Point"},"properties":{"a":"41.420765","cty":"PIKE","id":8840128,"mun":"PALMYRA TWP","nc":4,"o":"-75.190936"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.05445,41.47171],"type":"Point"},"properties":{"a":"41.47171","cty":"PIKE","hp":true,"id":8840166,"mun":"LACKAWAXEN TWP","nc":319,"ne":{"a":"41.49931","o":"-75.02795"},"o":"-75.05445","sw":{"a":"41.44411","o":"-75.08096"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.05445,41.47171],"type":"Point"},"properties":{"a":"41.47171","cty":"PIKE","hp":true,"id":8840166,"mun":"LACKAWAXEN TWP","nc":323,"ne":{"a":"41.49931","o":"-75.02795"},"o":"-75.05445","sw":{"a":"41.44411","o":"-75.08096"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.415072,41.271536],"type":"Point"},"properties":{"a":"41.271536","cty":"WAYNE","id":8840181,"mun":"LEHIGH TWP","nc":2,"o":"-75.415072"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.03786,41.50735],"type":"Point"},"properties":{"a":"41.50735","cty":"PIKE","hp":true,"id":8840192,"mun":"LACKAWAXEN TWP","nc":888,"ne":{"a":"41.51944","o":"-75.0069"},"o":"-75.03786","sw":{"a":"41.49526","o":"-75.06881"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.586968,40.965741],"type":"Point"},"properties":{"a":"40.965741","cty":"MONTOUR","id":8840195,"mun":"MAHONING TWP","nc":9,"o":"-76.586968"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.26325,40.74703],"type":"Point"},"properties":{"a":"40.74703","cty":"NORTHAMPTON","hp":true,"id":8840197,"mun":"TATAMY BORO","nc":11,"ne":{"a":"40.74807","o":"-75.26277"},"o":"-75.26325","sw":{"a":"40.74599","o":"-75.26373"}},"type":"Feature"}
 ]}
