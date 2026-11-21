@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-80.67718,38.34407],[-80.67366,38.34642],[-80.66672,38.35147],[-80.65762,38.37968],[-80.65899,38.38032],[-80.66361,38.38127],[-80.66575,38.38166],[-80.66755,38.38162],[-80.66954,38.38159],[-80.67133,38.37952],[-80.67143,38.37938],[-80.68154,38.36192],[-80.68164,38.3615],[-80.67718,38.34407]]],"type":"Polygon"},{"coordinates":[-80.67032,38.36457],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"Pending Investigation","orig":"Pending Investigation"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Preparing for Dispatch - The next available crew will be dispatched to investigate your outage.","orig":"Preparing for Dispatch"},"cust_a":{"val":112},"etr":"2026-11-21T18:00:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":null,"title":"Area Outage"},"type":"Feature"}
 ]}

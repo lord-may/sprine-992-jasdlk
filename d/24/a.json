@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.534081,41.530969],"type":"Point"},"properties":{"a":"41.530969","cty":"WASHINGTON","id":20261073223,"mun":"EXETER","nc":1,"o":"-71.534081"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.526382,41.466544],"type":"Point"},"properties":{"a":"41.466544","cty":"WASHINGTON","id":20261073230,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.526382"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.416851,41.873038],"type":"Point"},"properties":{"a":"41.873038","cty":"PROVIDENCE","id":20261073234,"mun":"PAWTUCKET","nc":1,"o":"-71.416851"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.521848,41.395333],"type":"Point"},"properties":{"a":"41.395333","cty":"WASHINGTON","id":20261073235,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.521848"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.521848,41.395333],"type":"Point"},"properties":{"a":"41.395333","cty":"WASHINGTON","id":20261073235,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.521848"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.662195,41.901677],"type":"Point"},"properties":{"a":"41.901677","cty":"PROVIDENCE","id":20261073238,"mun":"GLOCESTER","nc":1,"o":"-71.662195"},"type":"Feature"}
 ]}
