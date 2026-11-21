@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.2677,41.713676],"type":"Point"},"properties":{"a":"41.713676","cty":"BRISTOL","id":20261073137,"mun":"WARREN","nc":108,"o":"-71.2677"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.433599,41.940723],"type":"Point"},"properties":{"a":"41.940723","cty":"PROVIDENCE","id":20261073173,"mun":"CUMBERLAND","nc":1,"o":"-71.433599"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.475052,41.865352],"type":"Point"},"properties":{"a":"41.865352","cty":"PROVIDENCE","id":20261073179,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.475052"},"type":"Feature"}
 ]}
