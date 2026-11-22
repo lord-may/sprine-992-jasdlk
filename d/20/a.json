@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-77.869033,42.723359],"type":"Point"},"properties":{"EstRest":"11/22/2026 7:00:00 AM","Outages":6,"cause":"","county":"LIVINGSTON","crewstatus":"DISP ","customers":13,"hamlet":"MOUNT MORRIS","incidentnumber":"011GN8","incidents":1,"level":"street","opco":"RGE","street":"PARK LA","town":"MT MORRIS V MT MORRIS"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.869033,42.723359],"type":"Point"},"properties":{"EstRest":"11/22/2026 7:00:00 AM","Outages":6,"county":"LIVINGSTON","customers":6499,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.591568,43.224218],"type":"Point"},"properties":{"EstRest":"11/22/2026 5:45:00 AM","Outages":976,"county":"MONROE","customers":303529,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.59301,43.22143],"type":"Point"},"properties":{"EstRest":"11/22/2026 5:45:00 AM","Outages":48,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":48,"hamlet":"ROCHESTER","incidentnumber":"011GOU","incidents":1,"level":"street","opco":"RGE","street":"LIST AVE","town":"IRONDEQUOIT"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.869033,42.723359],"type":"Point"},"properties":{"EstRest":"11/22/2026 7:00:00 AM","Outages":6,"county":"LIVINGSTON","customers":6499,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
