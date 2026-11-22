@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.250468,44.103289],"type":"Point"},"properties":{"EstRest":"11/22/2026 6:00:00 PM","Outages":1,"cause":"","county":"ANDROSCOGGIN","crewstatus":"     ","customers":26,"hamlet":"AUBURN","incidentnumber":"0047T1","incidents":1,"level":"street","opco":"CMP","street":"NOTTINGHAM RD","town":"AUBURN"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.250468,44.103289],"type":"Point"},"properties":{"EstRest":"11/22/2026 6:00:00 PM","Outages":1,"cause":"","county":"ANDROSCOGGIN","crewstatus":"DISP ","customers":26,"hamlet":"AUBURN","incidentnumber":"0047T1","incidents":1,"level":"street","opco":"CMP","street":"NOTTINGHAM RD","town":"AUBURN"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.250468,44.103289],"type":"Point"},"properties":{"EstRest":"11/22/2026 6:00:00 PM","Outages":1,"county":"ANDROSCOGGIN","customers":59602,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.984468,44.053526],"type":"Point"},"properties":{"EstRest":"11/22/2026 6:00:00 PM","Outages":35,"county":"OXFORD","customers":44086,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.984468,44.053526],"type":"Point"},"properties":{"EstRest":"11/22/2026 6:00:00 PM","Outages":1,"cause":"","county":"OXFORD","crewstatus":"ENRT ","customers":116,"hamlet":"FRYEBURG","incidentnumber":"0047T2","incidents":1,"level":"street","opco":"CMP","street":"W FRYEBURG RD","town":"FRYEBURG"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.984468,44.053526],"type":"Point"},"properties":{"EstRest":"11/22/2026 6:00:00 PM","Outages":1,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}

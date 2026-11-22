@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.47878,40.61178],"type":"Point"},"properties":{"a":"40.61178","cty":"LEHIGH","hp":true,"id":8840570,"mun":"ALLENTOWN","nc":385,"ne":{"a":"40.61307","o":"-75.4767"},"o":"-75.47878","sw":{"a":"40.61049","o":"-75.48086"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.267869,39.89226],"type":"Point"},"properties":{"a":"39.89226","cty":"LANCASTER","id":8840587,"mun":"PROVIDENCE TWP","nc":1,"o":"-76.267869"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.267869,39.89226],"type":"Point"},"properties":{"a":"39.89226","cty":"LANCASTER","id":8840587,"mun":"PROVIDENCE TWP","nc":1,"o":"-76.267869"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.32889,40.59875],"type":"Point"},"properties":{"a":"40.59875","cty":"SCHUYLKILL","hp":true,"id":8840597,"mun":"WASHINGTON TWP","nc":9,"ne":{"a":"40.60044","o":"-76.32775"},"o":"-76.32889","sw":{"a":"40.59706","o":"-76.33003"}},"type":"Feature"}
 ]}
