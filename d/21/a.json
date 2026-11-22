@@ -1,5 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-70.341197,43.695028],"type":"Point"},"properties":{"EstRest":"11/22/2026 3:45:00 PM","Outages":2,"county":"CUMBERLAND","customers":182407,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.117515,44.873339],"type":"Point"},"properties":{"EstRest":"11/22/2026 4:00:00 PM","Outages":3,"cause":"","county":"SOMERSET","crewstatus":"DISP ","customers":7,"hamlet":"NEW PORTLAND","incidentnumber":"0047SR","incidents":1,"level":"street","opco":"CMP","street":"COLEGROVE RD","town":"NEW PORTLAND"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.893433,44.396868],"type":"Point"},"properties":{"EstRest":"11/22/2026 4:15:00 PM","Outages":29,"cause":"","county":"OXFORD","crewstatus":"     ","customers":29,"hamlet":"GILEAD","incidentnumber":"0047ST","incidents":1,"level":"street","opco":"CMP","street":"BOG RD","town":"GILEAD"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.896209,44.3956],"type":"Point"},"properties":{"EstRest":"11/22/2026 4:15:00 PM","Outages":34,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.117515,44.873339],"type":"Point"},"properties":{"EstRest":"11/22/2026 4:00:00 PM","Outages":3,"cause":"","county":"SOMERSET","crewstatus":"ONST ","customers":7,"hamlet":"NEW PORTLAND","incidentnumber":"0047SR","incidents":1,"level":"street","opco":"CMP","street":"COLEGROVE RD","town":"NEW PORTLAND"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.117515,44.873339],"type":"Point"},"properties":{"EstRest":"11/22/2026 4:00:00 PM","Outages":3,"county":"SOMERSET","customers":31730,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}

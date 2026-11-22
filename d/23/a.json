@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.063846,39.99872],"type":"Point"},"properties":{"a":"39.99872","cty":"LANCASTER","id":8840559,"mun":"PARADISE TWP","nc":5,"o":"-76.063846"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.476989,40.61128],"type":"Point"},"properties":{"a":"40.61128","cty":"LEHIGH","id":8840565,"mun":"ALLENTOWN","nc":18,"o":"-75.476989"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.47887,40.61178],"type":"Point"},"properties":{"a":"40.61178","cty":"LEHIGH","hp":true,"id":8840570,"mun":"ALLENTOWN","nc":367,"ne":{"a":"40.61307","o":"-75.47687"},"o":"-75.47887","sw":{"a":"40.61049","o":"-75.48086"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.47878,40.61178],"type":"Point"},"properties":{"a":"40.61178","cty":"LEHIGH","hp":true,"id":8840570,"mun":"ALLENTOWN","nc":385,"ne":{"a":"40.61307","o":"-75.4767"},"o":"-75.47878","sw":{"a":"40.61049","o":"-75.48086"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.865361,41.103643],"type":"Point"},"properties":{"a":"41.103643","cty":"NORTHUMBERLAND","id":8840576,"mun":"DELAWARE TWP","nc":7,"o":"-76.865361"},"type":"Feature"}
 ]}
