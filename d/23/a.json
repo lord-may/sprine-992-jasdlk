@@ -6,6 +6,5 @@
 {"geometry":{"coordinates":[-76.294438,40.02965],"type":"Point"},"properties":{"a":"40.02965","cty":"LANCASTER","id":8840492,"mun":"LANCASTER","nc":15,"o":"-76.294438"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.820584,40.280846],"type":"Point"},"properties":{"a":"40.280846","cty":"DAUPHIN","id":8840493,"mun":"LOWER PAXTON TWP","nc":1,"o":"-76.820584"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.32508,41.19105],"type":"Point"},"properties":{"a":"41.19105","cty":"COLUMBIA","hp":true,"id":8840494,"mun":"BENTON TWP","nc":26,"ne":{"a":"41.19613","o":"-76.31582"},"o":"-76.32508","sw":{"a":"41.18597","o":"-76.33434"}},"type":"Feature"},
-{"geometry":{"coordinates":[-77.50453,41.13098],"type":"Point"},"properties":{"a":"41.13098","cty":"CLINTON","hp":true,"id":8840497,"mun":"BALD EAGLE TWP","nc":5,"ne":{"a":"41.1328","o":"-77.50311"},"o":"-77.50453","sw":{"a":"41.12916","o":"-77.50595"}},"type":"Feature"},
-{"geometry":{"coordinates":[-77.506408,41.130102],"type":"Point"},"properties":{"a":"41.130102","cty":"CLINTON","id":8840498,"mun":"BALD EAGLE TWP","nc":1,"o":"-77.506408"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.50453,41.13098],"type":"Point"},"properties":{"a":"41.13098","cty":"CLINTON","hp":true,"id":8840497,"mun":"BALD EAGLE TWP","nc":5,"ne":{"a":"41.1328","o":"-77.50311"},"o":"-77.50453","sw":{"a":"41.12916","o":"-77.50595"}},"type":"Feature"}
 ]}
