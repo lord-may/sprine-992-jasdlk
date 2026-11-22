@@ -1,7 +1,9 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.49936,40.894255],"type":"Point"},"properties":{"a":"40.894255","cty":"MONROE","id":8840511,"mun":"POLK TWP","nc":2,"o":"-75.49936"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.724592,41.506057],"type":"Point"},"properties":{"a":"41.506057","cty":"LACKAWANNA","id":8840517,"mun":"GLENBURN TWP","nc":4,"o":"-75.724592"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.312332,40.543232],"type":"Point"},"properties":{"a":"40.543232","cty":"JUNIATA","id":8840519,"mun":"WALKER TWP","nc":4,"o":"-77.312332"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.398247,40.637135],"type":"Point"},"properties":{"a":"40.637135","cty":"LEHIGH","id":8840520,"mun":"BETHLEHEM","nc":4,"o":"-75.398247"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.528687,40.513857],"type":"Point"},"properties":{"a":"40.513857","cty":"LEHIGH","id":8840521,"mun":"UPPER MILFORD TWP","nc":4,"o":"-75.528687"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.528687,40.513857],"type":"Point"},"properties":{"a":"40.513857","cty":"LEHIGH","id":8840521,"mun":"UPPER MILFORD TWP","nc":4,"o":"-75.528687"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.710758,40.240044],"type":"Point"},"properties":{"a":"40.240044","cty":"DAUPHIN","id":8840522,"mun":"DERRY TWP","nc":4,"o":"-76.710758"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.708757,40.253386],"type":"Point"},"properties":{"a":"40.253386","cty":"DAUPHIN","id":8840523,"mun":"DERRY TWP","nc":3,"o":"-76.708757"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.9035,40.08523],"type":"Point"},"properties":{"a":"40.08523","cty":"CHESTER","hp":true,"id":8840524,"mun":"HONEYBROOK TWP","nc":13,"ne":{"a":"40.08618","o":"-75.90228"},"o":"-75.9035","sw":{"a":"40.08429","o":"-75.90473"}},"type":"Feature"}
 ]}
