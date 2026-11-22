@@ -1,7 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-68.740635,44.584141],"type":"Point"},"properties":{"EstRest":"11/22/2026 11:15:00 AM","Outages":2,"cause":"","county":"HANCOCK","crewstatus":"ENRT ","customers":2,"hamlet":"ORLAND","incidentnumber":"0047S1","incidents":1,"level":"street","opco":"CMP","street":"GRANT RD","town":"ORLAND"},"type":"Feature"},
-{"geometry":{"coordinates":[-68.740635,44.584141],"type":"Point"},"properties":{"EstRest":"11/22/2026 11:15:00 AM","Outages":2,"county":"HANCOCK","customers":6519,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.702407,44.440567],"type":"Point"},"properties":{"EstRest":"11/22/2026 10:45:00 AM","Outages":86,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.710588,44.422229],"type":"Point"},"properties":{"EstRest":"11/22/2026 10:45:00 AM","Outages":66,"cause":"Equipment Interruption","county":"KENNEBEC","crewstatus":"ONST ","customers":162,"hamlet":"SIDNEY","incidentnumber":"0047RZ","incidents":1,"level":"street","opco":"CMP","street":"W RIVER RD","town":"SIDNEY"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.532952,44.372085],"type":"Point"},"properties":{"EstRest":"11/22/2026 10:30:00 AM","Outages":3,"county":"OXFORD","customers":44086,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-68.740635,44.584141],"type":"Point"},"properties":{"EstRest":"11/22/2026 11:15:00 AM","Outages":2,"county":"HANCOCK","customers":6519,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
