@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-74.159237,42.240989],"type":"Point"},"properties":{"EstRest":"11/22/2026 7:30:00 PM","Outages":2,"county":"GREENE","customers":4933,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-74.159733,42.239884],"type":"Point"},"properties":{"EstRest":"11/22/2026 7:30:00 PM","Outages":1,"cause":"","county":"GREENE","crewstatus":"DISP ","customers":1,"hamlet":"EAST JEWETT","incidentnumber":"011GRP","incidents":1,"level":"street","opco":"NYSEG","street":"VANS RD","town":"JEWETT T"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.397173,42.263617],"type":"Point"},"properties":{"EstRest":"11/22/2026 6:30:00 PM","Outages":25,"county":"TIOGA","customers":20231,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.400088,42.267585],"type":"Point"},"properties":{"EstRest":"11/22/2026 6:30:00 PM","Outages":10,"cause":"","county":"TIOGA","crewstatus":"ONST ","customers":10,"hamlet":"WILLSEYVILLE","incidentnumber":"011GRF","incidents":1,"level":"street","opco":"NYSEG","street":"TALLOW HILL RD","town":"CANDOR T"},"type":"Feature"}
 ]}
