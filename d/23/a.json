@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.063846,39.99872],"type":"Point"},"properties":{"a":"39.99872","cty":"LANCASTER","id":8840559,"mun":"PARADISE TWP","nc":5,"o":"-76.063846"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.47878,40.61178],"type":"Point"},"properties":{"a":"40.61178","cty":"LEHIGH","hp":true,"id":8840570,"mun":"ALLENTOWN","nc":385,"ne":{"a":"40.61307","o":"-75.4767"},"o":"-75.47878","sw":{"a":"40.61049","o":"-75.48086"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.47878,40.61178],"type":"Point"},"properties":{"a":"40.61178","cty":"LEHIGH","hp":true,"id":8840570,"mun":"ALLENTOWN","nc":385,"ne":{"a":"40.61307","o":"-75.4767"},"o":"-75.47878","sw":{"a":"40.61049","o":"-75.48086"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.975877,40.958965],"type":"Point"},"properties":{"a":"40.958965","cty":"LUZERNE","id":8840583,"mun":"HAZLETON","nc":17,"o":"-75.975877"},"type":"Feature"}
 ]}
