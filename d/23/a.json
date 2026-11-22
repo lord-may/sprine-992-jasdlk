@@ -1,7 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.063846,39.99872],"type":"Point"},"properties":{"a":"39.99872","cty":"LANCASTER","id":8840559,"mun":"PARADISE TWP","nc":5,"o":"-76.063846"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.476989,40.61128],"type":"Point"},"properties":{"a":"40.61128","cty":"LEHIGH","id":8840565,"mun":"ALLENTOWN","nc":18,"o":"-75.476989"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.47887,40.61178],"type":"Point"},"properties":{"a":"40.61178","cty":"LEHIGH","hp":true,"id":8840570,"mun":"ALLENTOWN","nc":367,"ne":{"a":"40.61307","o":"-75.47687"},"o":"-75.47887","sw":{"a":"40.61049","o":"-75.48086"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.226022,40.357768],"type":"Point"},"properties":{"a":"40.357768","cty":"BUCKS","id":8840573,"mun":"HILLTOWN TWP","nc":6,"o":"-75.226022"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.477174,40.612263],"type":"Point"},"properties":{"a":"40.612263","cty":"LEHIGH","id":8840574,"mun":"ALLENTOWN","nc":1,"o":"-75.477174"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.47887,40.61178],"type":"Point"},"properties":{"a":"40.61178","cty":"LEHIGH","hp":true,"id":8840570,"mun":"ALLENTOWN","nc":367,"ne":{"a":"40.61307","o":"-75.47687"},"o":"-75.47887","sw":{"a":"40.61049","o":"-75.48086"}},"type":"Feature"}
 ]}
