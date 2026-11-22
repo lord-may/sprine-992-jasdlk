@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-73.640055,42.25238],"type":"Point"},"properties":{"EstRest":"11/22/2026 4:30:00 PM","Outages":33,"cause":"","county":"COLUMBIA","crewstatus":"     ","customers":222,"hamlet":"PHILMONT","incidentnumber":"011GR1","incidents":1,"level":"street","opco":"NYSEG","street":"MAIN ST","town":"PHILMONT V"},"type":"Feature"},
+{"geometry":{"coordinates":[-73.640055,42.25238],"type":"Point"},"properties":{"EstRest":"11/22/2026 4:30:00 PM","Outages":33,"cause":"","county":"COLUMBIA","crewstatus":"DISP ","customers":222,"hamlet":"PHILMONT","incidentnumber":"011GR1","incidents":1,"level":"street","opco":"NYSEG","street":"MAIN ST","town":"PHILMONT V"},"type":"Feature"},
 {"geometry":{"coordinates":[-73.640055,42.25238],"type":"Point"},"properties":{"EstRest":"11/22/2026 4:30:00 PM","Outages":33,"county":"COLUMBIA","customers":15375,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
