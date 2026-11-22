@@ -2,5 +2,6 @@
 {"geometry":{"coordinates":[-76.884867,40.702653],"type":"Point"},"properties":{"a":"40.702653","cty":"SNYDER","id":8840472,"mun":"UNION TWP","nc":3,"o":"-76.884867"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.50757,40.608246],"type":"Point"},"properties":{"a":"40.608246","cty":"LEHIGH","id":8840482,"mun":"ALLENTOWN","nc":4,"o":"-75.50757"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.642314,41.452488],"type":"Point"},"properties":{"a":"41.452488","cty":"LACKAWANNA","id":8840486,"mun":"SCRANTON","nc":1,"o":"-75.642314"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.478005,41.112843],"type":"Point"},"properties":{"a":"41.112843","cty":"CLINTON","id":8840490,"mun":"BALD EAGLE TWP","nc":1,"o":"-77.478005"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.478005,41.112843],"type":"Point"},"properties":{"a":"41.112843","cty":"CLINTON","id":8840490,"mun":"BALD EAGLE TWP","nc":1,"o":"-77.478005"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.298709,40.05248],"type":"Point"},"properties":{"a":"40.05248","cty":"LANCASTER","id":8840491,"mun":"LANCASTER","nc":1,"o":"-76.298709"},"type":"Feature"}
 ]}
