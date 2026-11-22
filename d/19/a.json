@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-73.640055,42.25238],"type":"Point"},"properties":{"EstRest":"11/22/2026 4:30:00 PM","Outages":33,"cause":"","county":"COLUMBIA","crewstatus":"DISP ","customers":222,"hamlet":"PHILMONT","incidentnumber":"011GR1","incidents":1,"level":"street","opco":"NYSEG","street":"MAIN ST","town":"PHILMONT V"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.640055,42.25238],"type":"Point"},"properties":{"EstRest":"11/22/2026 4:30:00 PM","Outages":33,"county":"COLUMBIA","customers":15375,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+{"geometry":{"coordinates":[-73.640055,42.25238],"type":"Point"},"properties":{"EstRest":"11/22/2026 4:30:00 PM","Outages":33,"county":"COLUMBIA","customers":15375,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.214966,42.247068],"type":"Point"},"properties":{"EstRest":"11/22/2026 4:17:00 PM","Outages":1,"cause":"","county":"STEUBEN","crewstatus":"ONST ","customers":2,"hamlet":"CAMPBELL","incidentnumber":"011GRA","incidents":1,"level":"street","opco":"NYSEG","street":"TOWN RTE 4","town":"CAMPBELL T"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.214966,42.247068],"type":"Point"},"properties":{"EstRest":"11/22/2026 4:17:00 PM","Outages":4,"county":"STEUBEN","customers":42828,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
