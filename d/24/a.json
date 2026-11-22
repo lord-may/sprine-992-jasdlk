@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.47429,41.8654],"type":"Point"},"properties":{"a":"41.8654","cty":"PROVIDENCE","hp":true,"id":20261073405,"mun":"NORTH PROVIDENCE","nc":197,"ne":{"a":"41.86623","o":"-71.47297"},"o":"-71.47429","sw":{"a":"41.86457","o":"-71.47561"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.308482,41.493177],"type":"Point"},"properties":{"a":"41.493177","cty":"NEWPORT","id":20261073410,"mun":"NEWPORT","nc":46,"o":"-71.308482"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.30801,41.492523],"type":"Point"},"properties":{"a":"41.492523","cty":"NEWPORT","id":20261073410,"mun":"NEWPORT","nc":66,"o":"-71.30801"},"type":"Feature"}
 ]}
