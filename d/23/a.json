@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.571063,40.834026],"type":"Point"},"properties":{"a":"40.834026","cty":"CARBON","id":8840442,"mun":"LOWER TOWAMENSING TWP","nc":1,"o":"-75.571063"},"type":"Feature"},
 {"geometry":{"coordinates":[-74.940252,41.459154],"type":"Point"},"properties":{"a":"41.459154","cty":"PIKE","id":8840461,"mun":"SHOHOLA TWP","nc":1,"o":"-74.940252"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.884867,40.702653],"type":"Point"},"properties":{"a":"40.702653","cty":"SNYDER","id":8840472,"mun":"UNION TWP","nc":3,"o":"-76.884867"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.884867,40.702653],"type":"Point"},"properties":{"a":"40.702653","cty":"SNYDER","id":8840472,"mun":"UNION TWP","nc":3,"o":"-76.884867"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.313748,40.014402],"type":"Point"},"properties":{"a":"40.014402","cty":"LANCASTER","id":8840478,"mun":"LANCASTER TWP","nc":9,"o":"-76.313748"},"type":"Feature"}
 ]}
