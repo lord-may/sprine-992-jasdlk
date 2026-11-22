@@ -1,3 +1,6 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-70.320737,43.755724],"type":"Point"},"properties":{"EstRest":"11/22/2026 9:30:00 AM","Outages":4,"cause":"","county":"CUMBERLAND","crewstatus":"ACKN ","customers":10,"hamlet":"FALMOUTH","incidentnumber":"0047RG","incidents":1,"level":"street","opco":"CMP","street":"BENTRIDGE DR","town":"FALMOUTH"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.320737,43.755724],"type":"Point"},"properties":{"EstRest":"11/22/2026 9:30:00 AM","Outages":4,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.173664,44.080103],"type":"Point"},"properties":{"EstRest":"11/22/2026 9:30:00 AM","Outages":18,"cause":"","county":"KNOX","crewstatus":"ENRT ","customers":27,"hamlet":"THOMASTON","incidentnumber":"0047RO","incidents":1,"level":"street","opco":"CMP","street":"PINE ST","town":"THOMASTON"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.173664,44.080103],"type":"Point"},"properties":{"EstRest":"11/22/2026 9:30:00 AM","Outages":18,"county":"KNOX","customers":27251,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
