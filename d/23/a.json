@@ -3,7 +3,8 @@
 {"geometry":{"coordinates":[-75.50757,40.608246],"type":"Point"},"properties":{"a":"40.608246","cty":"LEHIGH","id":8840482,"mun":"ALLENTOWN","nc":4,"o":"-75.50757"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.642314,41.452488],"type":"Point"},"properties":{"a":"41.452488","cty":"LACKAWANNA","id":8840486,"mun":"SCRANTON","nc":1,"o":"-75.642314"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.298709,40.05248],"type":"Point"},"properties":{"a":"40.05248","cty":"LANCASTER","id":8840491,"mun":"LANCASTER","nc":1,"o":"-76.298709"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.293986,40.029382],"type":"Point"},"properties":{"a":"40.029382","cty":"LANCASTER","id":8840492,"mun":"LANCASTER","nc":13,"o":"-76.293986"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.294438,40.02965],"type":"Point"},"properties":{"a":"40.02965","cty":"LANCASTER","id":8840492,"mun":"LANCASTER","nc":15,"o":"-76.294438"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.820584,40.280846],"type":"Point"},"properties":{"a":"40.280846","cty":"DAUPHIN","id":8840493,"mun":"LOWER PAXTON TWP","nc":1,"o":"-76.820584"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.32508,41.19105],"type":"Point"},"properties":{"a":"41.19105","cty":"COLUMBIA","hp":true,"id":8840494,"mun":"BENTON TWP","nc":26,"ne":{"a":"41.19613","o":"-76.31582"},"o":"-76.32508","sw":{"a":"41.18597","o":"-76.33434"}},"type":"Feature"}
+{"geometry":{"coordinates":[-76.32508,41.19105],"type":"Point"},"properties":{"a":"41.19105","cty":"COLUMBIA","hp":true,"id":8840494,"mun":"BENTON TWP","nc":26,"ne":{"a":"41.19613","o":"-76.31582"},"o":"-76.32508","sw":{"a":"41.18597","o":"-76.33434"}},"type":"Feature"},
+{"geometry":{"coordinates":[-77.505053,41.130406],"type":"Point"},"properties":{"a":"41.130406","cty":"CLINTON","id":8840495,"mun":"BALD EAGLE TWP","nc":1,"o":"-77.505053"},"type":"Feature"}
 ]}
