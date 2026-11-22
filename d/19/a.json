@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-74.62663,42.512123],"type":"Point"},"properties":{"EstRest":"11/21/2026 9:30:00 PM","Outages":1,"cause":"","county":"SCHOHARIE","crewstatus":"ONST ","customers":33,"hamlet":"JEFFERSON","incidentnumber":"011GNJ","incidents":1,"level":"street","opco":"NYSEG","street":"MOXLEY ST","town":"JEFFERSON T"},"type":"Feature"},
-{"geometry":{"coordinates":[-74.62663,42.512123],"type":"Point"},"properties":{"EstRest":"11/21/2026 9:30:00 PM","Outages":1,"county":"SCHOHARIE","customers":2256,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+
 ]}

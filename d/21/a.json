@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.533885,44.222379],"type":"Point"},"properties":{"EstRest":"11/21/2026 8:45:00 PM","Outages":9,"cause":"Equipment Interruption","county":"OXFORD","crewstatus":"ONST ","customers":9,"hamlet":"PARIS","incidentnumber":"0047R5","incidents":1,"level":"street","opco":"CMP","street":"COTTAGE ST","town":"PARIS"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.533885,44.222379],"type":"Point"},"properties":{"EstRest":"11/21/2026 8:45:00 PM","Outages":9,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.986962,45.213328],"type":"Point"},"properties":{"EstRest":"11/21/2026 9:15:00 PM","Outages":1,"cause":"","county":"SOMERSET","crewstatus":"DISP ","customers":5,"hamlet":"CARATUNK","incidentnumber":"0047R6","incidents":1,"level":"street","opco":"CMP","street":"SCHOOLHOUSE BROOK RD","town":"CARATUNK"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.986962,45.213328],"type":"Point"},"properties":{"EstRest":"11/21/2026 9:15:00 PM","Outages":1,"county":"SOMERSET","customers":31730,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
