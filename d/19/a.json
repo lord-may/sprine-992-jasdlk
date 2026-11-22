@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.214966,42.247068],"type":"Point"},"properties":{"EstRest":"11/22/2026 4:17:00 PM","Outages":1,"cause":"","county":"STEUBEN","crewstatus":"ONST ","customers":2,"hamlet":"CAMPBELL","incidentnumber":"011GRA","incidents":1,"level":"street","opco":"NYSEG","street":"TOWN RTE 4","town":"CAMPBELL T"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.214966,42.247068],"type":"Point"},"properties":{"EstRest":"11/22/2026 4:17:00 PM","Outages":4,"county":"STEUBEN","customers":42828,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.397173,42.263617],"type":"Point"},"properties":{"EstRest":"11/22/2026 6:30:00 PM","Outages":25,"county":"TIOGA","customers":20231,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.400088,42.267585],"type":"Point"},"properties":{"EstRest":"11/22/2026 6:30:00 PM","Outages":10,"cause":"","county":"TIOGA","crewstatus":"ACKN ","customers":10,"hamlet":"WILLSEYVILLE","incidentnumber":"011GRF","incidents":1,"level":"street","opco":"NYSEG","street":"TALLOW HILL RD","town":"CANDOR T"},"type":"Feature"}
 ]}
