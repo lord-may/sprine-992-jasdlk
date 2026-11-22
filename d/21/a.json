@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.52342,44.450294],"type":"Point"},"properties":{"EstRest":"11/22/2026 1:15:00 PM","Outages":46,"county":"KENNEBEC","customers":75925,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.585221,45.482082],"type":"Point"},"properties":{"EstRest":"11/22/2026 2:15:00 PM","Outages":13,"cause":"","county":"PISCATAQUIS","crewstatus":"     ","customers":17,"hamlet":"GREENVILLE","incidentnumber":"0047SK","incidents":1,"level":"street","opco":"CMP","street":"WAYNE AVE","town":"GREENVILLE"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.687822,44.334257],"type":"Point"},"properties":{"EstRest":"11/22/2026 1:15:00 PM","Outages":6,"cause":"","county":"KENNEBEC","crewstatus":"ENRT ","customers":6,"hamlet":"AUGUSTA","incidentnumber":"0047SG","incidents":1,"level":"street","opco":"CMP","street":"NORMANDS WAY","town":"AUGUSTA"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.689357,44.33325],"type":"Point"},"properties":{"EstRest":"11/22/2026 1:15:00 PM","Outages":40,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.585221,45.482082],"type":"Point"},"properties":{"EstRest":"11/22/2026 2:15:00 PM","Outages":13,"cause":"","county":"PISCATAQUIS","crewstatus":"DISP ","customers":17,"hamlet":"GREENVILLE","incidentnumber":"0047SK","incidents":1,"level":"street","opco":"CMP","street":"WAYNE AVE","town":"GREENVILLE"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.589023,45.48159],"type":"Point"},"properties":{"EstRest":"11/22/2026 2:15:00 PM","Outages":19,"county":"PISCATAQUIS","customers":10243,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
