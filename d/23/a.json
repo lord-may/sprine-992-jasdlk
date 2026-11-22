@@ -1,10 +1,10 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.49936,40.894255],"type":"Point"},"properties":{"a":"40.894255","cty":"MONROE","id":8840511,"mun":"POLK TWP","nc":2,"o":"-75.49936"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.724592,41.506057],"type":"Point"},"properties":{"a":"41.506057","cty":"LACKAWANNA","id":8840517,"mun":"GLENBURN TWP","nc":4,"o":"-75.724592"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.528687,40.513857],"type":"Point"},"properties":{"a":"40.513857","cty":"LEHIGH","id":8840521,"mun":"UPPER MILFORD TWP","nc":4,"o":"-75.528687"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.9035,40.08523],"type":"Point"},"properties":{"a":"40.08523","cty":"CHESTER","hp":true,"id":8840524,"mun":"HONEYBROOK TWP","nc":13,"ne":{"a":"40.08618","o":"-75.90228"},"o":"-75.9035","sw":{"a":"40.08429","o":"-75.90473"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.045323,40.899935],"type":"Point"},"properties":{"a":"40.899935","cty":"UNION","id":8840525,"mun":"LIMESTONE TWP","nc":2,"o":"-77.045323"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.957751,40.799319],"type":"Point"},"properties":{"a":"40.799319","cty":"SCHUYLKILL","id":8840526,"mun":"TAMAQUA BORO","nc":6,"o":"-75.957751"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.473068,40.395175],"type":"Point"},"properties":{"a":"40.395175","cty":"MONTGOMERY","id":8840527,"mun":"UPPER HANOVER TWP","nc":2,"o":"-75.473068"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.324352,40.031047],"type":"Point"},"properties":{"a":"40.031047","cty":"LANCASTER","id":8840530,"mun":"LANCASTER TWP","nc":35,"o":"-76.324352"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.324352,40.031047],"type":"Point"},"properties":{"a":"40.031047","cty":"LANCASTER","id":8840530,"mun":"LANCASTER TWP","nc":35,"o":"-76.324352"},"type":"Feature"},
+{"geometry":{"coordinates":[-74.908662,41.388995],"type":"Point"},"properties":{"a":"41.388995","cty":"PIKE","id":8840531,"mun":"SHOHOLA TWP","nc":3,"o":"-74.908662"},"type":"Feature"}
 ]}
