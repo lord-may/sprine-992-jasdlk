@@ -3,5 +3,7 @@
 {"geometry":{"coordinates":[-75.723992,41.506575],"type":"Point"},"properties":{"a":"41.506575","cty":"LACKAWANNA","id":8840541,"mun":"GLENBURN TWP","nc":2,"o":"-75.723992"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.597173,40.853016],"type":"Point"},"properties":{"a":"40.853016","cty":"CARBON","id":8840543,"mun":"TOWAMENSING TWP","nc":9,"o":"-75.597173"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.591458,40.160897],"type":"Point"},"properties":{"a":"40.160897","cty":"LANCASTER","id":8840545,"mun":"ELIZABETHTOWN BORO","nc":18,"o":"-76.591458"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.460416,41.005944],"type":"Point"},"properties":{"a":"41.005944","cty":"MONROE","id":8840546,"mun":"TUNKHANNOCK TWP","nc":2,"o":"-75.460416"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.460416,41.005944],"type":"Point"},"properties":{"a":"41.005944","cty":"MONROE","id":8840546,"mun":"TUNKHANNOCK TWP","nc":2,"o":"-75.460416"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.578131,40.64554],"type":"Point"},"properties":{"a":"40.64554","cty":"LEHIGH","id":8840547,"mun":"NORTH WHITEHALL TWP","nc":7,"o":"-75.578131"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.008267,41.246802],"type":"Point"},"properties":{"a":"41.246802","cty":"LYCOMING","id":8840548,"mun":"WILLIAMSPORT","nc":14,"o":"-77.008267"},"type":"Feature"}
 ]}

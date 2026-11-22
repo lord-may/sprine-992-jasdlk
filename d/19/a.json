@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.18077,43.124287],"type":"Point"},"properties":{"EstRest":"11/22/2026 11:45:00 AM","Outages":2,"cause":"","county":"WAYNE","crewstatus":"ENRT ","customers":2,"hamlet":"MARION","incidentnumber":"011GPS","incidents":1,"level":"street","opco":"NYSEG","street":"NEWARK RD","town":"PALMYRA T"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.18077,43.124287],"type":"Point"},"properties":{"EstRest":"11/22/2026 11:45:00 AM","Outages":2,"cause":"","county":"WAYNE","crewstatus":"ONST ","customers":2,"hamlet":"MARION","incidentnumber":"011GPS","incidents":1,"level":"street","opco":"NYSEG","street":"NEWARK RD","town":"PALMYRA T"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.192372,43.120112],"type":"Point"},"properties":{"EstRest":"11/22/2026 11:45:00 AM","Outages":96,"county":"WAYNE","customers":19023,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
