@@ -1,7 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.642314,41.452488],"type":"Point"},"properties":{"a":"41.452488","cty":"LACKAWANNA","id":8840486,"mun":"SCRANTON","nc":1,"o":"-75.642314"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.298709,40.05248],"type":"Point"},"properties":{"a":"40.05248","cty":"LANCASTER","id":8840491,"mun":"LANCASTER","nc":1,"o":"-76.298709"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.294438,40.02965],"type":"Point"},"properties":{"a":"40.02965","cty":"LANCASTER","id":8840492,"mun":"LANCASTER","nc":15,"o":"-76.294438"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.32508,41.19105],"type":"Point"},"properties":{"a":"41.19105","cty":"COLUMBIA","hp":true,"id":8840494,"mun":"BENTON TWP","nc":26,"ne":{"a":"41.19613","o":"-76.31582"},"o":"-76.32508","sw":{"a":"41.18597","o":"-76.33434"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.72485,41.5059],"type":"Point"},"properties":{"a":"41.5059","cty":"LACKAWANNA","hp":true,"id":8840503,"mun":"GLENBURN TWP","nc":8,"ne":{"a":"41.50663","o":"-75.72399"},"o":"-75.72485","sw":{"a":"41.50518","o":"-75.72571"}},"type":"Feature"}
 ]}
