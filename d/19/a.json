@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-74.921238,41.782539],"type":"Point"},"properties":{"EstRest":"11/22/2026 3:00:00 PM","Outages":1,"cause":"","county":"SULLIVAN","crewstatus":"DISP ","customers":1,"hamlet":"JEFFERSONVILLE","incidentnumber":"011GQE","incidents":1,"level":"street","opco":"NYSEG","street":"KATHLEEN LANE","town":"CALLICOON T"},"type":"Feature"},
-{"geometry":{"coordinates":[-74.921238,41.782539],"type":"Point"},"properties":{"EstRest":"11/22/2026 3:00:00 PM","Outages":1,"county":"SULLIVAN","customers":50189,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.18077,43.124287],"type":"Point"},"properties":{"EstRest":"11/22/2026 11:45:00 AM","Outages":2,"cause":"","county":"WAYNE","crewstatus":"ONST ","customers":2,"hamlet":"MARION","incidentnumber":"011GPS","incidents":1,"level":"street","opco":"NYSEG","street":"NEWARK RD","town":"PALMYRA T"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.192372,43.120112],"type":"Point"},"properties":{"EstRest":"11/22/2026 11:45:00 AM","Outages":96,"county":"WAYNE","customers":19023,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+{"geometry":{"coordinates":[-74.921238,41.782539],"type":"Point"},"properties":{"EstRest":"11/22/2026 3:00:00 PM","Outages":1,"county":"SULLIVAN","customers":50189,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
