@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.54521,41.92606],"type":"Point"},"properties":{"a":"41.92606","cty":"PROVIDENCE","hp":true,"id":20261073386,"mun":"SMITHFIELD","nc":8,"ne":{"a":"41.92714","o":"-71.543"},"o":"-71.54521","sw":{"a":"41.92498","o":"-71.54743"}},"type":"Feature"}
+{"geometry":{"coordinates":[-71.54521,41.92606],"type":"Point"},"properties":{"a":"41.92606","cty":"PROVIDENCE","hp":true,"id":20261073386,"mun":"SMITHFIELD","nc":8,"ne":{"a":"41.92714","o":"-71.543"},"o":"-71.54521","sw":{"a":"41.92498","o":"-71.54743"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.376854,41.883372],"type":"Point"},"properties":{"a":"41.883372","cty":"PROVIDENCE","id":20261073391,"mun":"PAWTUCKET","nc":17,"o":"-71.376854"},"type":"Feature"}
 ]}
