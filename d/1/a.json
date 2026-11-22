@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-73.75133,40.65906],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"NEW","cust_a":{"val":1},"etr":"ETR-NULL","outages":null,"reported_problem":"No Lights","title":"Outage Information"},"type":"Feature"},
 {"geometry":{"coordinates":[-73.83846,40.696],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"DSP","cust_a":{"val":1},"etr":"2026-11-22T12:00:00-0500","outages":null,"reported_problem":"Partial Outage","title":"Outage Information"},"type":"Feature"},
 {"geometry":{"coordinates":[-73.94721,40.66607],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"ARR","cust_a":{"val":1},"etr":"2026-11-22T13:00:00-0500","outages":null,"reported_problem":"No Lights","title":"Outage Information"},"type":"Feature"},
 {"geometry":{"coordinates":[-74.20292,40.51508],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"DSP","cust_a":{"val":1},"etr":"2026-11-22T11:30:00-0500","outages":null,"reported_problem":"Partial Outage","title":"Outage Information"},"type":"Feature"},

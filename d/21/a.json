@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-69.925638,44.312351],"type":"Point"},"properties":{"EstRest":"11/22/2026 1:15:00 PM","Outages":79,"county":"KENNEBEC","customers":75925,"incidents":3,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.884209,43.946254],"type":"Point"},"properties":{"EstRest":"11/22/2026 1:15:00 PM","Outages":1,"cause":"","county":"OXFORD","crewstatus":"     ","customers":2,"hamlet":"BROWNFIELD","incidentnumber":"0047SH","incidents":1,"level":"street","opco":"CMP","street":"FULCHER LN","town":"BROWNFIELD"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.884209,43.946254],"type":"Point"},"properties":{"EstRest":"11/22/2026 1:15:00 PM","Outages":1,"cause":"","county":"OXFORD","crewstatus":"ENRT ","customers":2,"hamlet":"BROWNFIELD","incidentnumber":"0047SH","incidents":1,"level":"street","opco":"CMP","street":"FULCHER LN","town":"BROWNFIELD"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.884209,43.946254],"type":"Point"},"properties":{"EstRest":"11/22/2026 1:15:00 PM","Outages":1,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
