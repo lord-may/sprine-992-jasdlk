@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.477389,40.611136],"type":"Point"},"properties":{"a":"40.611136","cty":"NA","id":8840570,"mun":"NA","nc":46,"o":"-75.477389"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.32889,40.59875],"type":"Point"},"properties":{"a":"40.59875","cty":"SCHUYLKILL","hp":true,"id":8840597,"mun":"WASHINGTON TWP","nc":9,"ne":{"a":"40.60044","o":"-76.32775"},"o":"-76.32889","sw":{"a":"40.59706","o":"-76.33003"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.294729,40.051749],"type":"Point"},"properties":{"a":"40.051749","cty":"LANCASTER","id":8840604,"mun":"LANCASTER","nc":30,"o":"-76.294729"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.47929,40.612494],"type":"Point"},"properties":{"a":"40.612494","cty":"LEHIGH","id":8840610,"mun":"ALLENTOWN","nc":1,"o":"-75.47929"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.294729,40.051749],"type":"Point"},"properties":{"a":"40.051749","cty":"LANCASTER","id":8840604,"mun":"LANCASTER","nc":30,"o":"-76.294729"},"type":"Feature"}
 ]}
