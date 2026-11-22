@@ -1,5 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.05196,39.99328],"type":"Point"},"properties":{"a":"39.99328","cty":"LANCASTER","hp":true,"id":8840559,"mun":"PARADISE TWP","nc":132,"ne":{"a":"40.00057","o":"-76.03293"},"o":"-76.05196","sw":{"a":"39.986","o":"-76.07099"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.47878,40.61178],"type":"Point"},"properties":{"a":"40.61178","cty":"LEHIGH","hp":true,"id":8840570,"mun":"ALLENTOWN","nc":385,"ne":{"a":"40.61307","o":"-75.4767"},"o":"-75.47878","sw":{"a":"40.61049","o":"-75.48086"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.267869,39.89226],"type":"Point"},"properties":{"a":"39.89226","cty":"LANCASTER","id":8840587,"mun":"PROVIDENCE TWP","nc":1,"o":"-76.267869"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.267869,39.89226],"type":"Point"},"properties":{"a":"39.89226","cty":"LANCASTER","id":8840587,"mun":"PROVIDENCE TWP","nc":1,"o":"-76.267869"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.477174,40.612263],"type":"Point"},"properties":{"a":"40.612263","cty":"LEHIGH","id":8840593,"mun":"ALLENTOWN","nc":1,"o":"-75.477174"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.879618,40.359671],"type":"Point"},"properties":{"a":"40.359671","cty":"DAUPHIN","id":8840594,"mun":"MIDDLE PAXTON TWP","nc":4,"o":"-76.879618"},"type":"Feature"}
 ]}
