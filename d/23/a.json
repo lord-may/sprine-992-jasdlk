@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.571063,40.834026],"type":"Point"},"properties":{"a":"40.834026","cty":"CARBON","id":8840442,"mun":"LOWER TOWAMENSING TWP","nc":1,"o":"-75.571063"},"type":"Feature"},
-{"geometry":{"coordinates":[-74.940252,41.459154],"type":"Point"},"properties":{"a":"41.459154","cty":"PIKE","id":8840461,"mun":"SHOHOLA TWP","nc":1,"o":"-74.940252"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.628445,41.414568],"type":"Point"},"properties":{"a":"41.414568","cty":"LACKAWANNA","id":8840465,"mun":"DUNMORE BORO","nc":1,"o":"-75.628445"},"type":"Feature"}
+{"geometry":{"coordinates":[-74.940252,41.459154],"type":"Point"},"properties":{"a":"41.459154","cty":"PIKE","id":8840461,"mun":"SHOHOLA TWP","nc":1,"o":"-74.940252"},"type":"Feature"}
 ]}
