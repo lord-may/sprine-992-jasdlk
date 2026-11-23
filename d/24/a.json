@@ -3,6 +3,9 @@
 {"geometry":{"coordinates":[-71.30719,41.49394],"type":"Point"},"properties":{"a":"41.49394","cty":"NEWPORT","hp":true,"id":20261073555,"mun":"NEWPORT","nc":39,"ne":{"a":"41.49464","o":"-71.30676"},"o":"-71.30719","sw":{"a":"41.49325","o":"-71.30763"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.30084,41.49287],"type":"Point"},"properties":{"a":"41.49287","cty":"NEWPORT","hp":true,"id":20261073562,"mun":"NEWPORT","nc":22,"ne":{"a":"41.4937","o":"-71.30058"},"o":"-71.30084","sw":{"a":"41.49203","o":"-71.3011"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.31888,41.494731],"type":"Point"},"properties":{"a":"41.494731","cty":"NEWPORT","id":20261073574,"mun":"NEWPORT","nc":20,"o":"-71.31888"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.304321,41.503329],"type":"Point"},"properties":{"a":"41.503329","cty":"NEWPORT","id":20261073597,"mun":"NEWPORT","nc":1,"o":"-71.304321"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.534081,41.530969],"type":"Point"},"properties":{"a":"41.530969","cty":"WASHINGTON","id":20261073609,"mun":"EXETER","nc":1,"o":"-71.534081"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.30786,41.48837],"type":"Point"},"properties":{"a":"41.48837","cty":"NEWPORT","hp":true,"id":20261073614,"mun":"NEWPORT","nc":282,"ne":{"a":"41.49058","o":"-71.30633"},"o":"-71.30786","sw":{"a":"41.48617","o":"-71.30938"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.30814,41.484563],"type":"Point"},"properties":{"a":"41.484563","cty":"NEWPORT","id":20261073615,"mun":"NEWPORT","nc":1,"o":"-71.30814"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.313068,41.473612],"type":"Point"},"properties":{"a":"41.473612","cty":"NEWPORT","id":20261073617,"mun":"NEWPORT","nc":1,"o":"-71.313068"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.195401,41.613063],"type":"Point"},"properties":{"a":"41.613063","cty":"NEWPORT","id":20261073620,"mun":"TIVERTON","nc":1,"o":"-71.195401"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.30531,41.49327],"type":"Point"},"properties":{"a":"41.49327","cty":"NEWPORT","id":20261073621,"mun":"NEWPORT","nc":17,"o":"-71.30531"},"type":"Feature"}
 ]}
