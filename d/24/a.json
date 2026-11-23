@@ -7,5 +7,6 @@
 {"geometry":{"coordinates":[-71.30814,41.484563],"type":"Point"},"properties":{"a":"41.484563","cty":"NEWPORT","id":20261073615,"mun":"NEWPORT","nc":1,"o":"-71.30814"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.313068,41.473612],"type":"Point"},"properties":{"a":"41.473612","cty":"NEWPORT","id":20261073617,"mun":"NEWPORT","nc":1,"o":"-71.313068"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.195401,41.613063],"type":"Point"},"properties":{"a":"41.613063","cty":"NEWPORT","id":20261073620,"mun":"TIVERTON","nc":1,"o":"-71.195401"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.30531,41.49327],"type":"Point"},"properties":{"a":"41.49327","cty":"NEWPORT","id":20261073621,"mun":"NEWPORT","nc":17,"o":"-71.30531"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.30531,41.49327],"type":"Point"},"properties":{"a":"41.49327","cty":"NEWPORT","id":20261073621,"mun":"NEWPORT","nc":17,"o":"-71.30531"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.474501,41.790238],"type":"Point"},"properties":{"a":"41.790238","cty":"PROVIDENCE","id":20261073623,"mun":"CRANSTON","nc":1,"o":"-71.474501"},"type":"Feature"}
 ]}
