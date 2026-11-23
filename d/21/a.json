@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-69.4122,44.738772],"type":"Point"},"properties":{"EstRest":"11/23/2026 6:45:00 PM","Outages":1,"cause":"","county":"SOMERSET","crewstatus":"DISP ","customers":8,"hamlet":"PITTSFIELD","incidentnumber":"0047WM","incidents":1,"level":"street","opco":"CMP","street":"BARNEY CIANCHETT RD","town":"PITTSFIELD"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.4122,44.738772],"type":"Point"},"properties":{"EstRest":"11/23/2026 6:45:00 PM","Outages":1,"county":"SOMERSET","customers":31730,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.412974,43.404266],"type":"Point"},"properties":{"EstRest":"11/23/2026 6:00:00 PM","Outages":16,"cause":"","county":"YORK","crewstatus":"ENRT ","customers":18,"hamlet":"KENNEBUNKPORT","incidentnumber":"0047WL","incidents":1,"level":"street","opco":"CMP","street":"SKYLINE DR","town":"KENNEBUNKPORT"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.413664,43.404617],"type":"Point"},"properties":{"EstRest":"11/23/2026 6:00:00 PM","Outages":16,"cause":"","county":"YORK","crewstatus":"ENRT ","customers":18,"hamlet":"KENNEBUNKPORT","incidentnumber":"0047WL","incidents":1,"level":"street","opco":"CMP","street":"SKYLINE DR","town":"KENNEBUNKPORT"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.415228,43.404696],"type":"Point"},"properties":{"EstRest":"11/23/2026 6:00:00 PM","Outages":22,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
