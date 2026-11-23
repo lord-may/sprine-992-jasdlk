@@ -14,5 +14,5 @@
 {"geometry":{"coordinates":[-76.577323,40.966495],"type":"Point"},"properties":{"a":"40.966495","cty":"MONTOUR","id":8840929,"mun":"MAHONING TWP","nc":1,"o":"-76.577323"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.234187,39.91483],"type":"Point"},"properties":{"a":"39.91483","cty":"LANCASTER","id":8840930,"mun":"PROVIDENCE TWP","nc":2,"o":"-76.234187"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.127297,40.357912],"type":"Point"},"properties":{"a":"40.357912","cty":"PERRY","id":8840932,"mun":"CARROLL TWP","nc":1,"o":"-77.127297"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.873701,40.813264],"type":"Point"},"properties":{"a":"40.813264","cty":"SNYDER","id":8840934,"mun":"PENN TWP","nc":2,"o":"-76.873701"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.42221,40.176176],"type":"Point"},"properties":{"a":"40.176176","cty":"LANCASTER","id":8840940,"mun":"RAPHO TWP","nc":2,"o":"-76.42221"},"type":"Feature"}
 ]}
