@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.477389,40.611136],"type":"Point"},"properties":{"a":"40.611136","cty":"NA","id":8840570,"mun":"NA","nc":25,"o":"-75.477389"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.375828,41.124392],"type":"Point"},"properties":{"a":"41.124392","cty":"MONROE","id":8840625,"mun":"MOUNT POCONO BORO","nc":4,"o":"-75.375828"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.734142,40.817426],"type":"Point"},"properties":{"a":"40.817426","cty":"CARBON","id":8840626,"mun":"MAHONING TWP","nc":1,"o":"-75.734142"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.375828,41.124392],"type":"Point"},"properties":{"a":"41.124392","cty":"MONROE","id":8840625,"mun":"MOUNT POCONO BORO","nc":4,"o":"-75.375828"},"type":"Feature"}
 ]}
