@@ -1,3 +1,13 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-78.242812,40.29204],"type":"Point"},"properties":{"id":"469632","nbrOut":1,"planned":false,"timeOff":1795451316282},"type":"Feature"},
+{"geometry":{"coordinates":[-78.242902,40.29176],"type":"Point"},"properties":{"id":"469633","nbrOut":1,"planned":false,"timeOff":1795451319446},"type":"Feature"},
+{"geometry":{"coordinates":[-78.243531,40.288895],"type":"Point"},"properties":{"id":"469634","nbrOut":1,"planned":false,"timeOff":1795451327783},"type":"Feature"},
+{"geometry":{"coordinates":[-78.224379,40.317607],"type":"Point"},"properties":{"id":"469635","nbrOut":1,"planned":false,"timeOff":1795451375601},"type":"Feature"},
+{"geometry":{"coordinates":[-78.243782,40.287449],"type":"Point"},"properties":{"id":"469636","nbrOut":1,"planned":false,"timeOff":1795451388293},"type":"Feature"},
+{"geometry":{"coordinates":[-78.205981,40.293048],"type":"Point"},"properties":{"id":"469637","nbrOut":1,"planned":false,"timeOff":1795451389148},"type":"Feature"},
+{"geometry":{"geometries":[{"coordinates":[[[-78.248867,40.285257],[-78.244546,40.287114],[-78.247744,40.28697],[-78.248867,40.285257]]],"type":"Polygon"},{"coordinates":[-78.247052,40.286449],"type":"Point"}],"type":"GeometryCollection"},"properties":{"id":"469638","nbrOut":4,"planned":false,"timeOff":1795451287214},"type":"Feature"},
+{"geometry":{"coordinates":[-78.244079,40.294459],"type":"Point"},"properties":{"id":"469639","nbrOut":1,"planned":false,"timeOff":1795451455429},"type":"Feature"},
+{"geometry":{"coordinates":[-78.243306,40.289992],"type":"Point"},"properties":{"id":"469640","nbrOut":1,"planned":false,"timeOff":1795451465933},"type":"Feature"},
+{"geometry":{"coordinates":[-78.240557,40.296391],"type":"Point"},"properties":{"id":"469641","nbrOut":1,"planned":false,"timeOff":1795451472383},"type":"Feature"},
+{"geometry":{"coordinates":[-78.206233,40.296453],"type":"Point"},"properties":{"id":"469642","nbrOut":1,"planned":false,"timeOff":1795451497525},"type":"Feature"}
 ]}
