@@ -2,6 +2,6 @@
 {"geometry":{"coordinates":[-76.372886,40.12215],"type":"Point"},"properties":{"a":"40.12215","cty":"LANCASTER","id":8840902,"mun":"EAST HEMPFIELD TWP","nc":8,"o":"-76.372886"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.127297,40.357912],"type":"Point"},"properties":{"a":"40.357912","cty":"PERRY","id":8840932,"mun":"CARROLL TWP","nc":1,"o":"-77.127297"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.42475,40.41446],"type":"Point"},"properties":{"a":"40.41446","cty":"BUCKS","hp":true,"id":8840984,"mun":"MILFORD TWP","nc":30,"ne":{"a":"40.41667","o":"-75.41989"},"o":"-75.42475","sw":{"a":"40.41226","o":"-75.42961"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.856218,40.223347],"type":"Point"},"properties":{"a":"40.223347","cty":"YORK","id":8840998,"mun":"FAIRVIEW TWP","nc":6,"o":"-76.856218"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.429438,40.573903],"type":"Point"},"properties":{"a":"40.573903","cty":"LEHIGH","id":8841005,"mun":"SALISBURY TWP","nc":2,"o":"-75.429438"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.429438,40.573903],"type":"Point"},"properties":{"a":"40.573903","cty":"LEHIGH","id":8841007,"mun":"SALISBURY TWP","nc":2,"o":"-75.429438"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.407636,40.619502],"type":"Point"},"properties":{"a":"40.619502","cty":"LEHIGH","id":8841008,"mun":"BETHLEHEM","nc":18,"o":"-75.407636"},"type":"Feature"}
 ]}

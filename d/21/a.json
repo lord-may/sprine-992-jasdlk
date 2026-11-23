@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.286385,44.254234],"type":"Point"},"properties":{"EstRest":"11/23/2026 7:30:00 PM","Outages":1,"cause":"","county":"ANDROSCOGGIN","crewstatus":"DISP ","customers":5,"hamlet":"TURNER","incidentnumber":"0047WQ","incidents":1,"level":"street","opco":"CMP","street":"CHASE RD","town":"TURNER"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.286385,44.254234],"type":"Point"},"properties":{"EstRest":"11/23/2026 7:30:00 PM","Outages":1,"county":"ANDROSCOGGIN","customers":59602,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.413664,43.404617],"type":"Point"},"properties":{"EstRest":"11/23/2026 8:00:00 PM","Outages":16,"cause":"","county":"YORK","crewstatus":"ENRT ","customers":18,"hamlet":"KENNEBUNKPORT","incidentnumber":"0047WL","incidents":1,"level":"street","opco":"CMP","street":"SKYLINE DR","town":"KENNEBUNKPORT"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.415228,43.404696],"type":"Point"},"properties":{"EstRest":"11/23/2026 8:00:00 PM","Outages":22,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
