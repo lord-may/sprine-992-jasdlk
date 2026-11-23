@@ -1,9 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.372886,40.12215],"type":"Point"},"properties":{"a":"40.12215","cty":"LANCASTER","id":8840902,"mun":"EAST HEMPFIELD TWP","nc":8,"o":"-76.372886"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.127297,40.357912],"type":"Point"},"properties":{"a":"40.357912","cty":"PERRY","id":8840932,"mun":"CARROLL TWP","nc":1,"o":"-77.127297"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.42475,40.41446],"type":"Point"},"properties":{"a":"40.41446","cty":"BUCKS","hp":true,"id":8840984,"mun":"MILFORD TWP","nc":30,"ne":{"a":"40.41667","o":"-75.41989"},"o":"-75.42475","sw":{"a":"40.41226","o":"-75.42961"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.482805,40.602908],"type":"Point"},"properties":{"a":"40.602908","cty":"LEHIGH","id":8841009,"mun":"ALLENTOWN","nc":30,"o":"-75.482805"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.478935,40.605488],"type":"Point"},"properties":{"a":"40.605488","cty":"LEHIGH","id":8841010,"mun":"ALLENTOWN","nc":1,"o":"-75.478935"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.476682,40.60493],"type":"Point"},"properties":{"a":"40.60493","cty":"LEHIGH","id":8841011,"mun":"ALLENTOWN","nc":1,"o":"-75.476682"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.532715,40.919513],"type":"Point"},"properties":{"a":"40.919513","cty":"MONROE","id":8841012,"mun":"POLK TWP","nc":1,"o":"-75.532715"},"type":"Feature"}
 ]}
