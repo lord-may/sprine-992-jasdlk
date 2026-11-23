@@ -5,8 +5,14 @@
 {"geometry":{"coordinates":[-76.322003,40.052167],"type":"Point"},"properties":{"a":"40.052167","cty":"LANCASTER","id":8840652,"mun":"NA","nc":18,"o":"-76.322003"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.609132,41.646904],"type":"Point"},"properties":{"a":"41.646904","cty":"SUSQUEHANNA","id":8840653,"mun":"CLIFFORD TWP","nc":2,"o":"-75.609132"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.474544,40.642739],"type":"Point"},"properties":{"a":"40.642739","cty":"LEHIGH","id":8840660,"mun":"WHITEHALL TWP","nc":6,"o":"-75.474544"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.824109,40.22638],"type":"Point"},"properties":{"a":"40.22638","cty":"DAUPHIN","id":8840663,"mun":"STEELTON BORO","nc":1,"o":"-76.824109"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.175676,40.704731],"type":"Point"},"properties":{"a":"40.704731","cty":"SCHUYLKILL","id":8840666,"mun":"EAST NORWEGIAN TWP","nc":1,"o":"-76.175676"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.819938,40.296106],"type":"Point"},"properties":{"a":"40.296106","cty":"DAUPHIN","id":8840669,"mun":"LOWER PAXTON TWP","nc":2,"o":"-76.819938"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.24332,41.545558],"type":"Point"},"properties":{"a":"41.545558","cty":"WAYNE","id":8840670,"mun":"TEXAS TWP","nc":1,"o":"-75.24332"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.24332,41.545558],"type":"Point"},"properties":{"a":"41.545558","cty":"WAYNE","id":8840670,"mun":"TEXAS TWP","nc":1,"o":"-75.24332"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.34918,40.63569],"type":"Point"},"properties":{"a":"40.63569","cty":"NORTHAMPTON","id":8840675,"mun":"BETHLEHEM","nc":19,"o":"-75.34918"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.241871,41.392667],"type":"Point"},"properties":{"a":"41.392667","cty":"PIKE","id":8840676,"mun":"PALMYRA TWP","nc":2,"o":"-75.241871"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.500229,40.667045],"type":"Point"},"properties":{"a":"40.667045","cty":"LEHIGH","id":8840677,"mun":"COPLAY BORO","nc":13,"o":"-75.500229"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.896449,40.278993],"type":"Point"},"properties":{"a":"40.278993","cty":"DAUPHIN","id":8840678,"mun":"HARRISBURG","nc":59,"o":"-76.896449"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.866825,40.261196],"type":"Point"},"properties":{"a":"40.261196","cty":"DAUPHIN","id":8840679,"mun":"HARRISBURG","nc":9,"o":"-76.866825"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.556082,41.14327],"type":"Point"},"properties":{"a":"41.14327","cty":"MONROE","id":8840680,"mun":"TOBYHANNA TWP","nc":5,"o":"-75.556082"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.667633,41.39348],"type":"Point"},"properties":{"a":"41.39348","cty":"LACKAWANNA","id":8840682,"mun":"SCRANTON","nc":22,"o":"-75.667633"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.871031,40.276028],"type":"Point"},"properties":{"a":"40.276028","cty":"DAUPHIN","id":8840683,"mun":"HARRISBURG","nc":26,"o":"-76.871031"},"type":"Feature"}
 ]}

@@ -1,3 +1,7 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.448344,41.674435],"type":"Point"},"properties":{"a":"41.674435","cty":"KENT","id":20261073536,"mun":"WARWICK","nc":12,"o":"-71.448344"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.781407,41.706842],"type":"Point"},"properties":{"a":"41.706842","cty":"KENT","id":20261073543,"mun":"COVENTRY","nc":1,"o":"-71.781407"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.534081,41.530969],"type":"Point"},"properties":{"a":"41.530969","cty":"WASHINGTON","id":20261073545,"mun":"EXETER","nc":1,"o":"-71.534081"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.31172,41.480831],"type":"Point"},"properties":{"a":"41.480831","cty":"NEWPORT","id":20261073546,"mun":"NEWPORT","nc":1,"o":"-71.31172"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.315223,41.486619],"type":"Point"},"properties":{"a":"41.486619","cty":"NEWPORT","id":20261073549,"mun":"NEWPORT","nc":1,"o":"-71.315223"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.395112,41.913281],"type":"Point"},"properties":{"a":"41.913281","cty":"PROVIDENCE","id":20261073550,"mun":"CUMBERLAND","nc":1,"o":"-71.395112"},"type":"Feature"}
 ]}
