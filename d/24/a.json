@@ -1,7 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.315223,41.486619],"type":"Point"},"properties":{"a":"41.486619","cty":"NEWPORT","id":20261073549,"mun":"NEWPORT","nc":11,"o":"-71.315223"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.750629,41.81342],"type":"Point"},"properties":{"a":"41.81342","cty":"PROVIDENCE","id":20261073639,"mun":"FOSTER","nc":1,"o":"-71.750629"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.30786,41.48837],"type":"Point"},"properties":{"a":"41.48837","cty":"NEWPORT","hp":true,"id":20261073647,"mun":"NEWPORT","nc":282,"ne":{"a":"41.49058","o":"-71.30633"},"o":"-71.30786","sw":{"a":"41.48617","o":"-71.30938"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.698708,41.928992],"type":"Point"},"properties":{"a":"41.928992","cty":"PROVIDENCE","id":20261073650,"mun":"GLOCESTER","nc":1,"o":"-71.698708"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.660204,41.876139],"type":"Point"},"properties":{"a":"41.876139","cty":"PROVIDENCE","id":20261073651,"mun":"GLOCESTER","nc":1,"o":"-71.660204"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.660204,41.876139],"type":"Point"},"properties":{"a":"41.876139","cty":"PROVIDENCE","id":20261073651,"mun":"GLOCESTER","nc":1,"o":"-71.660204"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.406048,41.952425],"type":"Point"},"properties":{"a":"41.952425","cty":"PROVIDENCE","id":20261073654,"mun":"CUMBERLAND","nc":1,"o":"-71.406048"},"type":"Feature"}
 ]}

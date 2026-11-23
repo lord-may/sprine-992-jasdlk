@@ -1,8 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.781367,44.238735],"type":"Point"},"properties":{"EstRest":"11/23/2026 4:45:00 PM","Outages":13,"cause":"","county":"KENNEBEC","crewstatus":"ONST ","customers":13,"hamlet":"FARMINGDALE","incidentnumber":"0047W8","incidents":1,"level":"street","opco":"CMP","street":"STEVENS LN","town":"FARMINGDALE"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.782656,44.240454],"type":"Point"},"properties":{"EstRest":"11/23/2026 4:45:00 PM","Outages":17,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.91725,44.906147],"type":"Point"},"properties":{"EstRest":"11/23/2026 4:45:00 PM","Outages":1,"cause":"","county":"SOMERSET","crewstatus":"ONST ","customers":7,"hamlet":"EMBDEN","incidentnumber":"0047W3","incidents":1,"level":"street","opco":"CMP","street":"EDGAR AVE","town":"EMBDEN"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.91725,44.906147],"type":"Point"},"properties":{"EstRest":"11/23/2026 4:45:00 PM","Outages":1,"county":"SOMERSET","customers":31730,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.930042,43.33545],"type":"Point"},"properties":{"EstRest":"11/23/2026 4:15:00 PM","Outages":1,"cause":"","county":"YORK","crewstatus":"DISP ","customers":6,"hamlet":"LEBANON","incidentnumber":"0047VW","incidents":1,"level":"street","opco":"CMP","street":"NATURAL HIGH RD","town":"LEBANON"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.930042,43.33545],"type":"Point"},"properties":{"EstRest":"11/23/2026 4:15:00 PM","Outages":1,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
