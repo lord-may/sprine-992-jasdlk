@@ -3,7 +3,6 @@
 {"geometry":{"coordinates":[-75.474544,40.642739],"type":"Point"},"properties":{"a":"40.642739","cty":"LEHIGH","id":8840660,"mun":"WHITEHALL TWP","nc":6,"o":"-75.474544"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.34918,40.63569],"type":"Point"},"properties":{"a":"40.63569","cty":"NORTHAMPTON","id":8840675,"mun":"BETHLEHEM","nc":19,"o":"-75.34918"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.500229,40.667045],"type":"Point"},"properties":{"a":"40.667045","cty":"LEHIGH","id":8840677,"mun":"COPLAY BORO","nc":13,"o":"-75.500229"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.835622,40.729653],"type":"Point"},"properties":{"a":"40.729653","cty":"NORTHUMBERLAND","id":8840692,"mun":"JACKSON TWP","nc":1,"o":"-76.835622"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.885371,41.233374],"type":"Point"},"properties":{"a":"41.233374","cty":"LUZERNE","id":8840703,"mun":"WILKES-BARRE","nc":6,"o":"-75.885371"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.794134,40.910198],"type":"Point"},"properties":{"a":"40.910198","cty":"NORTHUMBERLAND","id":8840713,"mun":"POINT TWP","nc":5,"o":"-76.794134"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.85906,40.070885],"type":"Point"},"properties":{"a":"40.070885","cty":"CHESTER","id":8840715,"mun":"HONEYBROOK TWP","nc":2,"o":"-75.85906"},"type":"Feature"},
@@ -19,7 +18,6 @@
 {"geometry":{"coordinates":[-75.970421,41.023347],"type":"Point"},"properties":{"a":"41.023347","cty":"LUZERNE","id":8840798,"mun":"BUTLER TWP","nc":2,"o":"-75.970421"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.16611,41.282268],"type":"Point"},"properties":{"a":"41.282268","cty":"LYCOMING","id":8840807,"mun":"ANTHONY TWP","nc":3,"o":"-77.16611"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.872762,41.234174],"type":"Point"},"properties":{"a":"41.234174","cty":"LUZERNE","id":8840817,"mun":"WILKES-BARRE","nc":1,"o":"-75.872762"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.223643,40.529486],"type":"Point"},"properties":{"a":"40.529486","cty":"BUCKS","id":8840819,"mun":"SPRINGFIELD TWP","nc":3,"o":"-75.223643"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.281853,41.570683],"type":"Point"},"properties":{"a":"41.570683","cty":"WAYNE","id":8840829,"mun":"TEXAS TWP","nc":4,"o":"-75.281853"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.89696,40.27571],"type":"Point"},"properties":{"a":"40.27571","cty":"DAUPHIN","hp":true,"id":8840830,"mun":"HARRISBURG","nc":12,"ne":{"a":"40.27648","o":"-76.89667"},"o":"-76.89696","sw":{"a":"40.27495","o":"-76.89724"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.841319,40.915185],"type":"Point"},"properties":{"a":"40.915185","cty":"NORTHUMBERLAND","id":8840831,"mun":"POINT TWP","nc":5,"o":"-76.841319"},"type":"Feature"},
@@ -34,5 +32,10 @@
 {"geometry":{"coordinates":[-77.342868,40.616884],"type":"Point"},"properties":{"a":"40.616884","cty":"JUNIATA","id":8840852,"mun":"FERMANAGH TWP","nc":2,"o":"-77.342868"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.246796,40.748439],"type":"Point"},"properties":{"a":"40.748439","cty":"NORTHAMPTON","id":8840861,"mun":"FORKS TWP","nc":3,"o":"-75.246796"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.89667,40.274946],"type":"Point"},"properties":{"a":"40.274946","cty":"DAUPHIN","id":8840865,"mun":"HARRISBURG","nc":10,"o":"-76.89667"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.24319,41.437922],"type":"Point"},"properties":{"a":"41.437922","cty":"WAYNE","id":8840867,"mun":"PAUPACK TWP","nc":1,"o":"-75.24319"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.24319,41.437922],"type":"Point"},"properties":{"a":"41.437922","cty":"WAYNE","id":8840867,"mun":"PAUPACK TWP","nc":1,"o":"-75.24319"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.606146,40.992177],"type":"Point"},"properties":{"a":"40.992177","cty":"CARBON","id":8840873,"mun":"PENN FOREST TWP","nc":3,"o":"-75.606146"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.336021,40.583005],"type":"Point"},"properties":{"a":"40.583005","cty":"NORTHAMPTON","id":8840874,"mun":"HELLERTOWN BORO","nc":12,"o":"-75.336021"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.500162,40.667709],"type":"Point"},"properties":{"a":"40.667709","cty":"LEHIGH","id":8840875,"mun":"COPLAY BORO","nc":5,"o":"-75.500162"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.275071,41.556756],"type":"Point"},"properties":{"a":"41.556756","cty":"WAYNE","id":8840877,"mun":"CHERRY RIDGE TWP","nc":6,"o":"-75.275071"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.491904,40.981375],"type":"Point"},"properties":{"a":"40.981375","cty":"COLUMBIA","id":8840879,"mun":"MONTOUR TWP","nc":2,"o":"-76.491904"},"type":"Feature"}
 ]}
