@@ -2,5 +2,7 @@
 {"geometry":{"coordinates":[-71.315223,41.486619],"type":"Point"},"properties":{"a":"41.486619","cty":"NEWPORT","id":20261073549,"mun":"NEWPORT","nc":11,"o":"-71.315223"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.750629,41.81342],"type":"Point"},"properties":{"a":"41.81342","cty":"PROVIDENCE","id":20261073639,"mun":"FOSTER","nc":1,"o":"-71.750629"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.660204,41.876139],"type":"Point"},"properties":{"a":"41.876139","cty":"PROVIDENCE","id":20261073651,"mun":"GLOCESTER","nc":1,"o":"-71.660204"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.285867,41.528134],"type":"Point"},"properties":{"a":"41.528134","cty":"NEWPORT","id":20261073659,"mun":"MIDDLETOWN","nc":1,"o":"-71.285867"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.285867,41.528134],"type":"Point"},"properties":{"a":"41.528134","cty":"NEWPORT","id":20261073659,"mun":"MIDDLETOWN","nc":1,"o":"-71.285867"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.315148,41.486623],"type":"Point"},"properties":{"a":"41.486623","cty":"NEWPORT","id":20261073665,"mun":"NEWPORT","nc":22,"o":"-71.315148"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.314432,41.485991],"type":"Point"},"properties":{"a":"41.485991","cty":"NEWPORT","id":20261073666,"mun":"NEWPORT","nc":1,"o":"-71.314432"},"type":"Feature"}
 ]}
