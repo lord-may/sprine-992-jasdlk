@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-70.402717,43.403477],"type":"Point"},"properties":{"EstRest":"11/23/2026 5:45:00 AM","Outages":79,"county":"YORK","customers":132723,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
