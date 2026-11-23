@@ -4,5 +4,7 @@
 {"geometry":{"coordinates":[-71.660204,41.876139],"type":"Point"},"properties":{"a":"41.876139","cty":"PROVIDENCE","id":20261073651,"mun":"GLOCESTER","nc":1,"o":"-71.660204"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.315148,41.486623],"type":"Point"},"properties":{"a":"41.486623","cty":"NEWPORT","id":20261073665,"mun":"NEWPORT","nc":22,"o":"-71.315148"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.57628,41.400796],"type":"Point"},"properties":{"a":"41.400796","cty":"WASHINGTON","id":20261073669,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.57628"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.687242,41.533483],"type":"Point"},"properties":{"a":"41.533483","cty":"WASHINGTON","id":20261073670,"mun":"RICHMOND","nc":1,"o":"-71.687242"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.687242,41.533483],"type":"Point"},"properties":{"a":"41.533483","cty":"WASHINGTON","id":20261073670,"mun":"RICHMOND","nc":1,"o":"-71.687242"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.46006,41.882362],"type":"Point"},"properties":{"a":"41.882362","cty":"PROVIDENCE","id":20261073677,"mun":"LINCOLN","nc":1,"o":"-71.46006"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.388543,41.886377],"type":"Point"},"properties":{"a":"41.886377","cty":"PROVIDENCE","id":20261073678,"mun":"CENTRAL FALLS","nc":1,"o":"-71.388543"},"type":"Feature"}
 ]}
