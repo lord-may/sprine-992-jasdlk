@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-72.772016,42.788219],"type":"Point"},"properties":{"active":true,"affectingCustomers":true,"cause":0,"county":"Windham","crew_name":"","customers_affected":1,"customers_affected_label":"1 Customer","device":"SERVICE","has_etor":0,"incident_id":1018707,"status":"CREATED","street":"COLLINS RD","town":"Halifax","trouble":"NO_POWER"},"type":"Feature"}
+{"geometry":{"coordinates":[-72.772016,42.788219],"type":"Point"},"properties":{"active":true,"affectingCustomers":true,"cause":0,"county":"Windham","crew_name":",WILM-SMITH","customers_affected":1,"customers_affected_label":"1 Customer","device":"SERVICE","etor":"2026-11-23T06:00-05:00","has_etor":1,"incident_id":1018707,"status":"CREW_ASSIGNED","street":"COLLINS RD","town":"Halifax","trouble":"NO_POWER"},"type":"Feature"}
 ]}
