@@ -4,7 +4,9 @@
 {"geometry":{"coordinates":[-75.476989,40.61128],"type":"Point"},"properties":{"a":"40.61128","cty":"LEHIGH","id":8840643,"mun":"ALLENTOWN","nc":18,"o":"-75.476989"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.322003,40.052167],"type":"Point"},"properties":{"a":"40.052167","cty":"LANCASTER","id":8840652,"mun":"NA","nc":18,"o":"-76.322003"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.609132,41.646904],"type":"Point"},"properties":{"a":"41.646904","cty":"SUSQUEHANNA","id":8840653,"mun":"CLIFFORD TWP","nc":2,"o":"-75.609132"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.235031,41.429883],"type":"Point"},"properties":{"a":"41.429883","cty":"WAYNE","id":8840657,"mun":"PAUPACK TWP","nc":2,"o":"-75.235031"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.462825,40.610366],"type":"Point"},"properties":{"a":"40.610366","cty":"LEHIGH","id":8840658,"mun":"ALLENTOWN","nc":1,"o":"-75.462825"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.474544,40.642739],"type":"Point"},"properties":{"a":"40.642739","cty":"LEHIGH","id":8840660,"mun":"WHITEHALL TWP","nc":6,"o":"-75.474544"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.474544,40.642739],"type":"Point"},"properties":{"a":"40.642739","cty":"LEHIGH","id":8840660,"mun":"WHITEHALL TWP","nc":6,"o":"-75.474544"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.824109,40.22638],"type":"Point"},"properties":{"a":"40.22638","cty":"DAUPHIN","id":8840663,"mun":"STEELTON BORO","nc":1,"o":"-76.824109"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.175676,40.704731],"type":"Point"},"properties":{"a":"40.704731","cty":"SCHUYLKILL","id":8840666,"mun":"EAST NORWEGIAN TWP","nc":1,"o":"-76.175676"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.819938,40.296106],"type":"Point"},"properties":{"a":"40.296106","cty":"DAUPHIN","id":8840669,"mun":"LOWER PAXTON TWP","nc":2,"o":"-76.819938"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.24332,41.545558],"type":"Point"},"properties":{"a":"41.545558","cty":"WAYNE","id":8840670,"mun":"TEXAS TWP","nc":1,"o":"-75.24332"},"type":"Feature"}
 ]}
