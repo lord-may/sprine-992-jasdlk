@@ -5,6 +5,5 @@
 {"geometry":{"coordinates":[-71.626771,41.644328],"type":"Point"},"properties":{"a":"41.644328","cty":"KENT","id":20261073463,"mun":"WEST GREENWICH","nc":15,"o":"-71.626771"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.717559,41.817642],"type":"Point"},"properties":{"a":"41.817642","cty":"PROVIDENCE","id":20261073466,"mun":"FOSTER","nc":1,"o":"-71.717559"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.703334,41.525715],"type":"Point"},"properties":{"a":"41.525715","cty":"WASHINGTON","id":20261073468,"mun":"HOPKINTON","nc":1,"o":"-71.703334"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.71315,41.52793],"type":"Point"},"properties":{"a":"41.52793","cty":"WASHINGTON","hp":true,"id":20261073472,"mun":"HOPKINTON","nc":32,"ne":{"a":"41.53165","o":"-71.70585"},"o":"-71.71315","sw":{"a":"41.52422","o":"-71.72045"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.499162,41.868032],"type":"Point"},"properties":{"a":"41.868032","cty":"PROVIDENCE","id":20261073496,"mun":"JOHNSTON","nc":1,"o":"-71.499162"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.71315,41.52793],"type":"Point"},"properties":{"a":"41.52793","cty":"WASHINGTON","hp":true,"id":20261073472,"mun":"HOPKINTON","nc":32,"ne":{"a":"41.53165","o":"-71.70585"},"o":"-71.71315","sw":{"a":"41.52422","o":"-71.72045"}},"type":"Feature"}
 ]}
