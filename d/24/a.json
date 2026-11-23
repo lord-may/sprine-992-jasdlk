@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.315223,41.486619],"type":"Point"},"properties":{"a":"41.486619","cty":"NEWPORT","id":20261073549,"mun":"NEWPORT","nc":11,"o":"-71.315223"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.30719,41.49394],"type":"Point"},"properties":{"a":"41.49394","cty":"NEWPORT","hp":true,"id":20261073555,"mun":"NEWPORT","nc":39,"ne":{"a":"41.49464","o":"-71.30676"},"o":"-71.30719","sw":{"a":"41.49325","o":"-71.30763"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.30786,41.48837],"type":"Point"},"properties":{"a":"41.48837","cty":"NEWPORT","hp":true,"id":20261073614,"mun":"NEWPORT","nc":282,"ne":{"a":"41.49058","o":"-71.30633"},"o":"-71.30786","sw":{"a":"41.48617","o":"-71.30938"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.534081,41.530969],"type":"Point"},"properties":{"a":"41.530969","cty":"WASHINGTON","id":20261073634,"mun":"EXETER","nc":1,"o":"-71.534081"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.453271,41.557197],"type":"Point"},"properties":{"a":"41.557197","cty":"WASHINGTON","id":20261073635,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.453271"},"type":"Feature"}
