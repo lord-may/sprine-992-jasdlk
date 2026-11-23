@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.522857,42.047626],"type":"Point"},"properties":{"EstRest":"11/22/2026 10:15:00 PM","Outages":1,"cause":"","county":"BROOME","crewstatus":"     ","customers":10,"hamlet":"WINDSOR","incidentnumber":"011GSI","incidents":1,"level":"street","opco":"NYSEG","street":"TENNENT RD","town":"SANFORD T"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.522857,42.047626],"type":"Point"},"properties":{"EstRest":"11/22/2026 10:15:00 PM","Outages":1,"cause":"","county":"BROOME","crewstatus":"DISP ","customers":10,"hamlet":"WINDSOR","incidentnumber":"011GSI","incidents":1,"level":"street","opco":"NYSEG","street":"TENNENT RD","town":"SANFORD T"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.522857,42.047626],"type":"Point"},"properties":{"EstRest":"11/22/2026 10:15:00 PM","Outages":1,"county":"BROOME","customers":91450,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.638151,42.198102],"type":"Point"},"properties":{"EstRest":"11/22/2026 10:45:00 PM","Outages":690,"county":"COLUMBIA","customers":15375,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-73.66197,42.164431],"type":"Point"},"properties":{"EstRest":"11/22/2026 10:45:00 PM","Outages":690,"county":"COLUMBIA","customers":15375,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-73.627654,42.208301],"type":"Point"},"properties":{"EstRest":"11/22/2026 10:45:00 PM","Outages":2,"county":"DUTCHESS","customers":16330,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}

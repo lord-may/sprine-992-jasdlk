@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.440992,41.78608],"type":"Point"},"properties":{"a":"41.78608","cty":"PROVIDENCE","id":20261073453,"mun":"CRANSTON","nc":1,"o":"-71.440992"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.435732,41.472074],"type":"Point"},"properties":{"a":"41.472074","cty":"WASHINGTON","id":20261073454,"mun":"NARRAGANSETT","nc":1,"o":"-71.435732"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.440992,41.78608],"type":"Point"},"properties":{"a":"41.78608","cty":"PROVIDENCE","id":20261073453,"mun":"CRANSTON","nc":1,"o":"-71.440992"},"type":"Feature"}
 ]}
