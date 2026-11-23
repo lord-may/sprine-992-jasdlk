@@ -30,7 +30,11 @@
 {"geometry":{"coordinates":[-75.33593,40.584972],"type":"Point"},"properties":{"a":"40.584972","cty":"NORTHAMPTON","id":8840741,"mun":"HELLERTOWN BORO","nc":12,"o":"-75.33593"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.45942,41.255522],"type":"Point"},"properties":{"a":"41.255522","cty":"LACKAWANNA","id":8840743,"mun":"CLIFTON TWP","nc":3,"o":"-75.45942"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.538074,40.788389],"type":"Point"},"properties":{"a":"40.788389","cty":"NORTHUMBERLAND","id":8840749,"mun":"COAL TWP","nc":18,"o":"-76.538074"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.903359,40.804301],"type":"Point"},"properties":{"a":"40.804301","cty":"SNYDER","id":8840750,"mun":"PENN TWP","nc":13,"o":"-76.903359"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.345522,40.661612],"type":"Point"},"properties":{"a":"40.661612","cty":"NORTHAMPTON","id":8840752,"mun":"BETHLEHEM","nc":1,"o":"-75.345522"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.268923,40.424955],"type":"Point"},"properties":{"a":"40.424955","cty":"PERRY","id":8840755,"mun":"CENTRE TWP","nc":2,"o":"-77.268923"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.268923,40.424955],"type":"Point"},"properties":{"a":"40.424955","cty":"PERRY","id":8840755,"mun":"CENTRE TWP","nc":2,"o":"-77.268923"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.871224,40.276458],"type":"Point"},"properties":{"a":"40.276458","cty":"DAUPHIN","id":8840758,"mun":"HARRISBURG","nc":18,"o":"-76.871224"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.376306,40.631018],"type":"Point"},"properties":{"a":"40.631018","cty":"NORTHAMPTON","id":8840759,"mun":"BETHLEHEM","nc":12,"o":"-75.376306"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.352714,40.6616],"type":"Point"},"properties":{"a":"40.6616","cty":"NORTHAMPTON","id":8840760,"mun":"BETHLEHEM","nc":2,"o":"-75.352714"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.871011,41.237606],"type":"Point"},"properties":{"a":"41.237606","cty":"LUZERNE","id":8840768,"mun":"WILKES-BARRE","nc":12,"o":"-75.871011"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.3509,40.43446],"type":"Point"},"properties":{"a":"40.43446","cty":"BUCKS","hp":true,"id":8840769,"mun":"RICHLAND TWP","nc":594,"ne":{"a":"40.45057","o":"-75.33768"},"o":"-75.3509","sw":{"a":"40.41835","o":"-75.36413"}},"type":"Feature"}
 ]}
