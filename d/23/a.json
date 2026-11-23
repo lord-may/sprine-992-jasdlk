@@ -1,7 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.322003,40.052167],"type":"Point"},"properties":{"a":"40.052167","cty":"LANCASTER","id":8840652,"mun":"NA","nc":18,"o":"-76.322003"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.34918,40.63569],"type":"Point"},"properties":{"a":"40.63569","cty":"NORTHAMPTON","id":8840675,"mun":"BETHLEHEM","nc":19,"o":"-75.34918"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.794134,40.910198],"type":"Point"},"properties":{"a":"40.910198","cty":"NORTHUMBERLAND","id":8840713,"mun":"POINT TWP","nc":5,"o":"-76.794134"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.45942,41.255522],"type":"Point"},"properties":{"a":"41.255522","cty":"LACKAWANNA","id":8840743,"mun":"CLIFTON TWP","nc":3,"o":"-75.45942"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.352714,40.6616],"type":"Point"},"properties":{"a":"40.6616","cty":"NORTHAMPTON","id":8840760,"mun":"BETHLEHEM","nc":2,"o":"-75.352714"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.45265,41.00599],"type":"Point"},"properties":{"a":"41.00599","cty":"COLUMBIA","id":8840775,"mun":"BLOOMSBURG","nc":29,"o":"-76.45265"},"type":"Feature"},
@@ -10,7 +8,6 @@
 {"geometry":{"coordinates":[-75.516749,40.929757],"type":"Point"},"properties":{"a":"40.929757","cty":"MONROE","id":8840834,"mun":"POLK TWP","nc":6,"o":"-75.516749"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.872334,41.093047],"type":"Point"},"properties":{"a":"41.093047","cty":"NORTHUMBERLAND","id":8840836,"mun":"DELAWARE TWP","nc":5,"o":"-76.872334"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.280923,41.022648],"type":"Point"},"properties":{"a":"41.022648","cty":"MONROE","id":8840841,"mun":"POCONO TWP","nc":8,"o":"-75.280923"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.28017,40.700508],"type":"Point"},"properties":{"a":"40.700508","cty":"SCHUYLKILL","id":8840846,"mun":"CASS TWP","nc":1,"o":"-76.28017"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.575013,40.779432],"type":"Point"},"properties":{"a":"40.779432","cty":"NORTHUMBERLAND","id":8840848,"mun":"COAL TWP","nc":5,"o":"-76.575013"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.567948,41.497642],"type":"Point"},"properties":{"a":"41.497642","cty":"LACKAWANNA","id":8840849,"mun":"ARCHBALD BORO","nc":4,"o":"-75.567948"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.342868,40.616884],"type":"Point"},"properties":{"a":"40.616884","cty":"JUNIATA","id":8840852,"mun":"FERMANAGH TWP","nc":2,"o":"-77.342868"},"type":"Feature"},
@@ -19,9 +16,9 @@
 {"geometry":{"coordinates":[-76.491904,40.981375],"type":"Point"},"properties":{"a":"40.981375","cty":"COLUMBIA","id":8840879,"mun":"MONTOUR TWP","nc":2,"o":"-76.491904"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.474661,40.587458],"type":"Point"},"properties":{"a":"40.587458","cty":"LEHIGH","id":8840886,"mun":"ALLENTOWN","nc":2,"o":"-75.474661"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.945255,41.325773],"type":"Point"},"properties":{"a":"41.325773","cty":"LYCOMING","id":8840888,"mun":"ELDRED TWP","nc":4,"o":"-76.945255"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.344409,40.661159],"type":"Point"},"properties":{"a":"40.661159","cty":"NORTHAMPTON","id":8840897,"mun":"BETHLEHEM","nc":3,"o":"-75.344409"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.372886,40.12215],"type":"Point"},"properties":{"a":"40.12215","cty":"LANCASTER","id":8840902,"mun":"EAST HEMPFIELD TWP","nc":8,"o":"-76.372886"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.334087,41.375487],"type":"Point"},"properties":{"a":"41.375487","cty":"WAYNE","id":8840907,"mun":"SALEM TWP","nc":7,"o":"-75.334087"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.33695,41.37779],"type":"Point"},"properties":{"a":"41.37779","cty":"WAYNE","hp":true,"id":8840908,"mun":"SALEM TWP","nc":16,"ne":{"a":"41.3792","o":"-75.33539"},"o":"-75.33695","sw":{"a":"41.37637","o":"-75.33851"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.53952,40.6594],"type":"Point"},"properties":{"a":"40.6594","cty":"SCHUYLKILL","hp":true,"id":8840917,"mun":"HEGINS TWP","nc":43,"ne":{"a":"40.6662","o":"-76.52572"},"o":"-76.53952","sw":{"a":"40.6526","o":"-76.55332"}},"type":"Feature"}
+{"geometry":{"coordinates":[-76.53952,40.6594],"type":"Point"},"properties":{"a":"40.6594","cty":"SCHUYLKILL","hp":true,"id":8840917,"mun":"HEGINS TWP","nc":43,"ne":{"a":"40.6662","o":"-76.52572"},"o":"-76.53952","sw":{"a":"40.6526","o":"-76.55332"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.536501,40.788309],"type":"Point"},"properties":{"a":"40.788309","cty":"NORTHUMBERLAND","id":8840919,"mun":"COAL TWP","nc":14,"o":"-76.536501"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.3319,41.37861],"type":"Point"},"properties":{"a":"41.37861","cty":"WAYNE","hp":true,"id":8840924,"mun":"SALEM TWP","nc":179,"ne":{"a":"41.38684","o":"-75.32528"},"o":"-75.3319","sw":{"a":"41.37037","o":"-75.33851"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.578766,40.784654],"type":"Point"},"properties":{"a":"40.784654","cty":"NORTHUMBERLAND","id":8840926,"mun":"COAL TWP","nc":12,"o":"-76.578766"},"type":"Feature"}
 ]}
