@@ -4,5 +4,7 @@
 {"geometry":{"coordinates":[-71.534081,41.530969],"type":"Point"},"properties":{"a":"41.530969","cty":"WASHINGTON","id":20261073634,"mun":"EXETER","nc":1,"o":"-71.534081"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.453271,41.557197],"type":"Point"},"properties":{"a":"41.557197","cty":"WASHINGTON","id":20261073635,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.453271"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.406066,41.835515],"type":"Point"},"properties":{"a":"41.835515","cty":"PROVIDENCE","id":20261073638,"mun":"PROVIDENCE","nc":1,"o":"-71.406066"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.750629,41.81342],"type":"Point"},"properties":{"a":"41.81342","cty":"PROVIDENCE","id":20261073639,"mun":"FOSTER","nc":1,"o":"-71.750629"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.750629,41.81342],"type":"Point"},"properties":{"a":"41.81342","cty":"PROVIDENCE","id":20261073639,"mun":"FOSTER","nc":1,"o":"-71.750629"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.31062,41.49551],"type":"Point"},"properties":{"a":"41.49551","cty":"NEWPORT","hp":true,"id":20261073640,"mun":"NEWPORT","nc":23,"ne":{"a":"41.49632","o":"-71.30962"},"o":"-71.31062","sw":{"a":"41.49471","o":"-71.31163"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.310104,41.494362],"type":"Point"},"properties":{"a":"41.494362","cty":"NEWPORT","id":20261073641,"mun":"NEWPORT","nc":23,"o":"-71.310104"},"type":"Feature"}
 ]}

@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.719576,43.164492],"type":"Point"},"properties":{"EstRest":"11/23/2026 2:15:00 PM","Outages":1,"cause":"System Upgrade","county":"MONROE","crewstatus":"ONST ","customers":67,"hamlet":"ROCHESTER","incidentnumber":"011GZF","incidents":1,"level":"street","opco":"RGE","street":"BURNING BRUSH DR","town":"GATES"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.719576,43.164492],"type":"Point"},"properties":{"EstRest":"11/23/2026 2:15:00 PM","Outages":4,"county":"MONROE","customers":303529,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.600065,43.182025],"type":"Point"},"properties":{"EstRest":"11/23/2026 4:15:00 PM","Outages":92,"county":"MONROE","customers":303529,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.600724,43.182423],"type":"Point"},"properties":{"EstRest":"11/23/2026 4:15:00 PM","Outages":18,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":35,"hamlet":"ROCHESTER","incidentnumber":"011GZU","incidents":1,"level":"street","opco":"RGE","street":"WARSAW ST","town":"ROCHESTER"},"type":"Feature"}
 ]}
