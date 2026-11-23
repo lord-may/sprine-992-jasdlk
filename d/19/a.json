@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.522857,42.047626],"type":"Point"},"properties":{"EstRest":"11/22/2026 10:15:00 PM","Outages":1,"cause":"","county":"BROOME","crewstatus":"     ","customers":10,"hamlet":"WINDSOR","incidentnumber":"011GSI","incidents":1,"level":"street","opco":"NYSEG","street":"TENNENT RD","town":"SANFORD T"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.522857,42.047626],"type":"Point"},"properties":{"EstRest":"11/22/2026 10:15:00 PM","Outages":1,"county":"BROOME","customers":91450,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.397173,42.263617],"type":"Point"},"properties":{"EstRest":"11/22/2026 8:30:00 PM","Outages":25,"county":"TIOGA","customers":20231,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.400088,42.267585],"type":"Point"},"properties":{"EstRest":"11/22/2026 8:30:00 PM","Outages":10,"cause":"","county":"TIOGA","crewstatus":"ONST ","customers":10,"hamlet":"WILLSEYVILLE","incidentnumber":"011GRF","incidents":1,"level":"street","opco":"NYSEG","street":"TALLOW HILL RD","town":"CANDOR T"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.391514,42.257663],"type":"Point"},"properties":{"EstRest":"11/22/2026 8:30:00 PM","Outages":14,"cause":"","county":"TIOGA","crewstatus":"ONST ","customers":12,"hamlet":"WILLSEYVILLE","incidentnumber":"011GRF","incidents":1,"level":"street","opco":"NYSEG","street":"DRY BROOK RD","town":"CANDOR T"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.405905,42.269609],"type":"Point"},"properties":{"EstRest":"11/22/2026 8:30:00 PM","Outages":25,"county":"TIOGA","customers":20231,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}

@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.477389,40.611136],"type":"Point"},"properties":{"a":"40.611136","cty":"NA","id":8840570,"mun":"NA","nc":46,"o":"-75.477389"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.294729,40.051749],"type":"Point"},"properties":{"a":"40.051749","cty":"LANCASTER","id":8840604,"mun":"LANCASTER","nc":30,"o":"-76.294729"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.2008,40.27179],"type":"Point"},"properties":{"a":"40.27179","cty":"CUMBERLAND","hp":true,"id":8840621,"mun":"MIDDLESEX TWP","nc":64,"ne":{"a":"40.27968","o":"-77.16919"},"o":"-77.2008","sw":{"a":"40.2639","o":"-77.23241"}},"type":"Feature"}
 ]}
