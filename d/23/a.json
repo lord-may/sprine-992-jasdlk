@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.477389,40.611136],"type":"Point"},"properties":{"a":"40.611136","cty":"NA","id":8840570,"mun":"NA","nc":25,"o":"-75.477389"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.21455,40.27179],"type":"Point"},"properties":{"a":"40.27179","cty":"CUMBERLAND","hp":true,"id":8840621,"mun":"MIDDLESEX TWP","nc":53,"ne":{"a":"40.27968","o":"-77.1967"},"o":"-77.21455","sw":{"a":"40.2639","o":"-77.23241"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.375828,41.124392],"type":"Point"},"properties":{"a":"41.124392","cty":"MONROE","id":8840625,"mun":"MOUNT POCONO BORO","nc":4,"o":"-75.375828"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.734142,40.817426],"type":"Point"},"properties":{"a":"40.817426","cty":"CARBON","id":8840626,"mun":"MAHONING TWP","nc":1,"o":"-75.734142"},"type":"Feature"}
 ]}
