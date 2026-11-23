@@ -4,5 +4,7 @@
 {"geometry":{"coordinates":[-71.30719,41.49394],"type":"Point"},"properties":{"a":"41.49394","cty":"NEWPORT","hp":true,"id":20261073555,"mun":"NEWPORT","nc":39,"ne":{"a":"41.49464","o":"-71.30676"},"o":"-71.30719","sw":{"a":"41.49325","o":"-71.30763"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.312872,41.493234],"type":"Point"},"properties":{"a":"41.493234","cty":"NEWPORT","id":20261073560,"mun":"NEWPORT","nc":36,"o":"-71.312872"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.30084,41.49287],"type":"Point"},"properties":{"a":"41.49287","cty":"NEWPORT","hp":true,"id":20261073562,"mun":"NEWPORT","nc":22,"ne":{"a":"41.4937","o":"-71.30058"},"o":"-71.30084","sw":{"a":"41.49203","o":"-71.3011"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.382508,41.691444],"type":"Point"},"properties":{"a":"41.691444","cty":"KENT","id":20261073563,"mun":"WARWICK","nc":1,"o":"-71.382508"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.382508,41.691444],"type":"Point"},"properties":{"a":"41.691444","cty":"KENT","id":20261073563,"mun":"WARWICK","nc":1,"o":"-71.382508"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.534081,41.530969],"type":"Point"},"properties":{"a":"41.530969","cty":"WASHINGTON","id":20261073568,"mun":"EXETER","nc":1,"o":"-71.534081"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.394952,41.888891],"type":"Point"},"properties":{"a":"41.888891","cty":"PROVIDENCE","id":20261073569,"mun":"CENTRAL FALLS","nc":1,"o":"-71.394952"},"type":"Feature"}
 ]}
