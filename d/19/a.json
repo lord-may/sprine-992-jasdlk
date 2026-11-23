@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.98095,42.328934],"type":"Point"},"properties":{"EstRest":"11/23/2026 7:30:00 PM","Outages":20,"county":"BROOME","customers":91450,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.980216,42.329353],"type":"Point"},"properties":{"EstRest":"11/23/2026 7:30:00 PM","Outages":4,"cause":"","county":"BROOME","crewstatus":"DISP ","customers":4,"hamlet":"WHITNEY POINT","incidentnumber":"011H1D","incidents":1,"level":"street","opco":"NYSEG","street":"ICHABOD LN","town":"WHITNEY POI V"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.98095,42.328934],"type":"Point"},"properties":{"EstRest":"11/23/2026 7:30:00 PM","Outages":19,"county":"BROOME","customers":91450,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-78.775847,42.782072],"type":"Point"},"properties":{"EstRest":"11/23/2026 6:30:00 PM","Outages":3,"cause":"System Upgrade","county":"ERIE","crewstatus":"DISP ","customers":264,"hamlet":"ORCHARD PARK","incidentnumber":"011H1B","incidents":1,"level":"street","opco":"NYSEG","street":"SOUTHWESTERN BLVD","town":"ORCHARD PAR T"},"type":"Feature"},
 {"geometry":{"coordinates":[-78.775847,42.782072],"type":"Point"},"properties":{"EstRest":"11/23/2026 6:30:00 PM","Outages":3,"county":"ERIE","customers":157708,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
