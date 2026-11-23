@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.802683,42.090567],"type":"Point"},"properties":{"EstRest":"11/23/2026 6:00:00 AM","Outages":22,"cause":"","county":"CHEMUNG","crewstatus":"DISP ","customers":143,"hamlet":"ELMIRA","incidentnumber":"011GU9","incidents":1,"level":"street","opco":"NYSEG","street":"BALDWIN ST","town":"ELMIRA C"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.805185,42.090275],"type":"Point"},"properties":{"EstRest":"11/23/2026 6:00:00 AM","Outages":156,"county":"CHEMUNG","customers":39913,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+
 ]}
