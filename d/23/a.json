@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-77.015094,41.161433],"type":"Point"},"properties":{"a":"41.161433","cty":"LYCOMING","id":8840641,"mun":"WASHINGTON TWP","nc":1,"o":"-77.015094"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.084935,41.662655],"type":"Point"},"properties":{"a":"41.662655","cty":"WAYNE","id":8840642,"mun":"DAMASCUS TWP","nc":1,"o":"-75.084935"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.084935,41.662655],"type":"Point"},"properties":{"a":"41.662655","cty":"WAYNE","id":8840642,"mun":"DAMASCUS TWP","nc":1,"o":"-75.084935"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.476989,40.61128],"type":"Point"},"properties":{"a":"40.61128","cty":"LEHIGH","id":8840643,"mun":"ALLENTOWN","nc":18,"o":"-75.476989"},"type":"Feature"}
 ]}

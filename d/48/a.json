@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-72.12396,41.507813],"type":"Point"},"properties":{"ADDRESS":"145 OLD SALEM RD M & R, NORWICH, CT, 06360","CUSTOMER_COUNT":6,"DEVICE_OID":17741,"FACILITY_ID":"4938","FEEDER_ID":"515","GDB_GEOMATTR_DATA":"","ID":45239,"INCIDENT_ID":50426,"OBJECTID":7917,"ORIG_FID":null,"REGION":2,"RxOID":17741,"TIME_OUTAGE":"11/23/2026 06:51 AM","TIME_RESTORED_EST":"Is still under review"},"type":"Feature"}
 ]}
