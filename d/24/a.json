@@ -5,6 +5,8 @@
 {"geometry":{"coordinates":[-71.315148,41.486623],"type":"Point"},"properties":{"a":"41.486623","cty":"NEWPORT","id":20261073665,"mun":"NEWPORT","nc":22,"o":"-71.315148"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.57628,41.400796],"type":"Point"},"properties":{"a":"41.400796","cty":"WASHINGTON","id":20261073669,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.57628"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.687242,41.533483],"type":"Point"},"properties":{"a":"41.533483","cty":"WASHINGTON","id":20261073670,"mun":"RICHMOND","nc":1,"o":"-71.687242"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.46006,41.882362],"type":"Point"},"properties":{"a":"41.882362","cty":"PROVIDENCE","id":20261073677,"mun":"LINCOLN","nc":1,"o":"-71.46006"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.388543,41.886377],"type":"Point"},"properties":{"a":"41.886377","cty":"PROVIDENCE","id":20261073678,"mun":"CENTRAL FALLS","nc":1,"o":"-71.388543"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.388543,41.886377],"type":"Point"},"properties":{"a":"41.886377","cty":"PROVIDENCE","id":20261073678,"mun":"CENTRAL FALLS","nc":1,"o":"-71.388543"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.376549,41.87545],"type":"Point"},"properties":{"a":"41.87545","cty":"PROVIDENCE","id":20261073680,"mun":"PAWTUCKET","nc":1,"o":"-71.376549"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.462746,41.808714],"type":"Point"},"properties":{"a":"41.808714","cty":"PROVIDENCE","id":20261073681,"mun":"PROVIDENCE","nc":1,"o":"-71.462746"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.386763,41.885012],"type":"Point"},"properties":{"a":"41.885012","cty":"PROVIDENCE","id":20261073682,"mun":"CENTRAL FALLS","nc":31,"o":"-71.386763"},"type":"Feature"}
 ]}
