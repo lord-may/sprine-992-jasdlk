@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.61479,41.74585],"type":"Point"},"properties":{"cause":"EQUP","cluster":false,"cust_a":{"masked":true,"val":4},"etr":"2026-11-23T04:00:00-0500","inc_id":"E1549554-0","start":"2026-11-23T02:09:19-0500","title":"Outage Information"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.14043,42.40981],"type":"Point"},"properties":{"cluster":false,"cust_a":{"val":19},"etr":"2026-11-23T04:30:00-0500","inc_id":"E1549555-0","start":"2026-11-23T02:31:41-0500","title":"Outage Information"},"type":"Feature"}
 ]}
