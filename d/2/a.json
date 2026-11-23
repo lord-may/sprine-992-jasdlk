@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-74.00682,41.17091],"type":"Point"},"properties":{"cause":"Under Investigation","cluster":false,"cust_a":{"val":2},"etr":"ETR-EXP","inc_id":"564141","title":"Outage Information"},"type":"Feature"}
+{"geometry":{"coordinates":[-74.00682,41.17091],"type":"Point"},"properties":{"cause":"Under Investigation","cluster":false,"cust_a":{"val":2},"etr":"2026-11-23T14:30:00-0500","inc_id":"564141","title":"Outage Information"},"type":"Feature"},
+{"geometry":{"geometries":[{"coordinates":[[[-74.1925,41.00795],[-74.19373,41.00818],[-74.19355,41.00798],[-74.1925,41.00795]]],"type":"Polygon"},{"coordinates":[-74.19326,41.00804],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Under Investigation","cluster":false,"cust_a":{"val":3},"etr":"ETR-NULL","inc_id":"564153","title":"Outage Information"},"type":"Feature"}
 ]}
