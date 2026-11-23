@@ -1,8 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.29053,41.67095],"type":"Point"},"properties":{"a":"41.67095","cty":"BRISTOL","hp":true,"id":20261073458,"mun":"BRISTOL","nc":5,"ne":{"a":"41.67168","o":"-71.29011"},"o":"-71.29053","sw":{"a":"41.67022","o":"-71.29094"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.2931,41.671744],"type":"Point"},"properties":{"a":"41.671744","cty":"BRISTOL","id":20261073459,"mun":"BRISTOL","nc":1,"o":"-71.2931"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.64764,41.64816],"type":"Point"},"properties":{"a":"41.64816","cty":"KENT","hp":true,"id":20261073462,"mun":"WEST GREENWICH","nc":111,"ne":{"a":"41.65311","o":"-71.6271"},"o":"-71.64764","sw":{"a":"41.64322","o":"-71.66818"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.626771,41.644328],"type":"Point"},"properties":{"a":"41.644328","cty":"KENT","id":20261073463,"mun":"WEST GREENWICH","nc":15,"o":"-71.626771"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.703334,41.525715],"type":"Point"},"properties":{"a":"41.525715","cty":"WASHINGTON","id":20261073468,"mun":"HOPKINTON","nc":1,"o":"-71.703334"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.71315,41.52793],"type":"Point"},"properties":{"a":"41.52793","cty":"WASHINGTON","hp":true,"id":20261073472,"mun":"HOPKINTON","nc":32,"ne":{"a":"41.53165","o":"-71.70585"},"o":"-71.71315","sw":{"a":"41.52422","o":"-71.72045"}},"type":"Feature"}
+{"geometry":{"coordinates":[-71.626771,41.644328],"type":"Point"},"properties":{"a":"41.644328","cty":"KENT","id":20261073463,"mun":"WEST GREENWICH","nc":15,"o":"-71.626771"},"type":"Feature"}
 ]}
