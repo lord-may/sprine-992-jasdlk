@@ -1,6 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.666213,44.273761],"type":"Point"},"properties":{"EstRest":"11/23/2026 1:15:00 PM","Outages":1,"cause":"","county":"KENNEBEC","crewstatus":"DISP ","customers":7,"hamlet":"CHELSEA","incidentnumber":"0047UW","incidents":1,"level":"street","opco":"CMP","street":"THOMASTON RD","town":"CHELSEA"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.666213,44.273761],"type":"Point"},"properties":{"EstRest":"11/23/2026 1:15:00 PM","Outages":1,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.363103,44.4932],"type":"Point"},"properties":{"EstRest":"11/23/2026 12:45:00 PM","Outages":2,"cause":"","county":"OXFORD","crewstatus":"ONST ","customers":83,"hamlet":"DIXFIELD","incidentnumber":"0047UO","incidents":1,"level":"street","opco":"CMP","street":"CANTON POINT RD","town":"DIXFIELD"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.363103,44.4932],"type":"Point"},"properties":{"EstRest":"11/23/2026 12:45:00 PM","Outages":2,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.814932,44.230738],"type":"Point"},"properties":{"EstRest":"11/23/2026 2:00:00 PM","Outages":2,"county":"KENNEBEC","customers":75925,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
