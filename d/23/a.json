@@ -18,7 +18,6 @@
 {"geometry":{"coordinates":[-75.885371,41.233374],"type":"Point"},"properties":{"a":"41.233374","cty":"LUZERNE","id":8840703,"mun":"WILKES-BARRE","nc":6,"o":"-75.885371"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.82972,41.37094],"type":"Point"},"properties":{"a":"41.37094","cty":"LUZERNE","hp":true,"id":8840704,"mun":"EXETER TWP","nc":21,"ne":{"a":"41.37411","o":"-75.82919"},"o":"-75.82972","sw":{"a":"41.36778","o":"-75.83026"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.427456,40.560138],"type":"Point"},"properties":{"a":"40.560138","cty":"LEHIGH","id":8840706,"mun":"UPPER SAUCON TWP","nc":2,"o":"-75.427456"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.506766,41.135351],"type":"Point"},"properties":{"a":"41.135351","cty":"COLUMBIA","id":8840707,"mun":"GREENWOOD TWP","nc":1,"o":"-76.506766"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.247499,40.749049],"type":"Point"},"properties":{"a":"40.749049","cty":"NORTHAMPTON","id":8840711,"mun":"FORKS TWP","nc":2,"o":"-75.247499"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.637491,40.547],"type":"Point"},"properties":{"a":"40.547","cty":"LEHIGH","id":8840712,"mun":"UPPER MACUNGIE TWP","nc":4,"o":"-75.637491"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.794134,40.910198],"type":"Point"},"properties":{"a":"40.910198","cty":"NORTHUMBERLAND","id":8840713,"mun":"POINT TWP","nc":5,"o":"-76.794134"},"type":"Feature"},
@@ -30,5 +29,8 @@
 {"geometry":{"coordinates":[-75.358684,40.285302],"type":"Point"},"properties":{"a":"40.285302","cty":"MONTGOMERY","id":8840732,"mun":"FRANCONIA TWP","nc":9,"o":"-75.358684"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.33593,40.584972],"type":"Point"},"properties":{"a":"40.584972","cty":"NORTHAMPTON","id":8840741,"mun":"HELLERTOWN BORO","nc":12,"o":"-75.33593"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.45942,41.255522],"type":"Point"},"properties":{"a":"41.255522","cty":"LACKAWANNA","id":8840743,"mun":"CLIFTON TWP","nc":3,"o":"-75.45942"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.662324,41.432383],"type":"Point"},"properties":{"a":"41.432383","cty":"LACKAWANNA","id":8840746,"mun":"SCRANTON","nc":7,"o":"-75.662324"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.538074,40.788389],"type":"Point"},"properties":{"a":"40.788389","cty":"NORTHUMBERLAND","id":8840749,"mun":"COAL TWP","nc":18,"o":"-76.538074"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.903359,40.804301],"type":"Point"},"properties":{"a":"40.804301","cty":"SNYDER","id":8840750,"mun":"PENN TWP","nc":13,"o":"-76.903359"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.345522,40.661612],"type":"Point"},"properties":{"a":"40.661612","cty":"NORTHAMPTON","id":8840752,"mun":"BETHLEHEM","nc":1,"o":"-75.345522"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.268923,40.424955],"type":"Point"},"properties":{"a":"40.424955","cty":"PERRY","id":8840755,"mun":"CENTRE TWP","nc":2,"o":"-77.268923"},"type":"Feature"}
 ]}

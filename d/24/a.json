@@ -1,11 +1,10 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.315223,41.486619],"type":"Point"},"properties":{"a":"41.486619","cty":"NEWPORT","id":20261073549,"mun":"NEWPORT","nc":11,"o":"-71.315223"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.746157,41.699343],"type":"Point"},"properties":{"a":"41.699343","cty":"KENT","id":20261073553,"mun":"COVENTRY","nc":1,"o":"-71.746157"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.30719,41.49394],"type":"Point"},"properties":{"a":"41.49394","cty":"NEWPORT","hp":true,"id":20261073555,"mun":"NEWPORT","nc":39,"ne":{"a":"41.49464","o":"-71.30676"},"o":"-71.30719","sw":{"a":"41.49325","o":"-71.30763"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.312872,41.493234],"type":"Point"},"properties":{"a":"41.493234","cty":"NEWPORT","id":20261073560,"mun":"NEWPORT","nc":36,"o":"-71.312872"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.30084,41.49287],"type":"Point"},"properties":{"a":"41.49287","cty":"NEWPORT","hp":true,"id":20261073562,"mun":"NEWPORT","nc":22,"ne":{"a":"41.4937","o":"-71.30058"},"o":"-71.30084","sw":{"a":"41.49203","o":"-71.3011"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.382508,41.691444],"type":"Point"},"properties":{"a":"41.691444","cty":"KENT","id":20261073563,"mun":"WARWICK","nc":1,"o":"-71.382508"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.534081,41.530969],"type":"Point"},"properties":{"a":"41.530969","cty":"WASHINGTON","id":20261073568,"mun":"EXETER","nc":1,"o":"-71.534081"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.31062,41.49551],"type":"Point"},"properties":{"a":"41.49551","cty":"NEWPORT","hp":true,"id":20261073570,"mun":"NEWPORT","nc":23,"ne":{"a":"41.49632","o":"-71.30962"},"o":"-71.31062","sw":{"a":"41.49471","o":"-71.31163"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.307172,41.45931],"type":"Point"},"properties":{"a":"41.45931","cty":"NEWPORT","id":20261073572,"mun":"NEWPORT","nc":1,"o":"-71.307172"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.31888,41.494731],"type":"Point"},"properties":{"a":"41.494731","cty":"NEWPORT","id":20261073574,"mun":"NEWPORT","nc":20,"o":"-71.31888"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.396722,41.919918],"type":"Point"},"properties":{"a":"41.919918","cty":"PROVIDENCE","id":20261073578,"mun":"CUMBERLAND","nc":22,"o":"-71.396722"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.448696,41.856228],"type":"Point"},"properties":{"a":"41.856228","cty":"PROVIDENCE","id":20261073579,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.448696"},"type":"Feature"}
 ]}

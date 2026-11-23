@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.479246,44.202526],"type":"Point"},"properties":{"EstRest":"11/23/2026 12:00:00 PM","Outages":2,"county":"LINCOLN","customers":29091,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.479246,44.202526],"type":"Point"},"properties":{"EstRest":"11/23/2026 12:00:00 PM","Outages":1,"cause":"","county":"LINCOLN","crewstatus":"ENRT ","customers":15,"hamlet":"JEFFERSON","incidentnumber":"0047UG","incidents":1,"level":"street","opco":"CMP","street":"LAKE FARM CIR","town":"JEFFERSON"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.479246,44.202526],"type":"Point"},"properties":{"EstRest":"11/23/2026 12:00:00 PM","Outages":1,"county":"LINCOLN","customers":29091,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.994564,45.236557],"type":"Point"},"properties":{"EstRest":"11/23/2026 11:15:00 AM","Outages":261,"county":"SOMERSET","customers":31730,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
