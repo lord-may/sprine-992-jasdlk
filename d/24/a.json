@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-71.447937,41.592919],"type":"Point"},"properties":{"a":"41.592919","cty":"WASHINGTON","id":20261073526,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.447937"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.270511,41.694815],"type":"Point"},"properties":{"a":"41.694815","cty":"BRISTOL","id":20261073527,"mun":"BRISTOL","nc":1,"o":"-71.270511"},"type":"Feature"}
 ]}

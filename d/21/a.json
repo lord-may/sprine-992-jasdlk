@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.402717,43.403477],"type":"Point"},"properties":{"EstRest":"11/23/2026 8:45:00 AM","Outages":48,"county":"YORK","customers":132723,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.994564,45.236557],"type":"Point"},"properties":{"EstRest":"11/23/2026 9:00:00 AM","Outages":1,"cause":"","county":"SOMERSET","crewstatus":"     ","customers":30,"hamlet":"CARATUNK","incidentnumber":"0047TO","incidents":1,"level":"street","opco":"CMP","street":"MAIN ST","town":"CARATUNK"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.994564,45.236557],"type":"Point"},"properties":{"EstRest":"11/23/2026 9:00:00 AM","Outages":1,"county":"SOMERSET","customers":31730,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.75665,43.419685],"type":"Point"},"properties":{"EstRest":"11/23/2026 9:00:00 AM","Outages":53,"county":"YORK","customers":132723,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
