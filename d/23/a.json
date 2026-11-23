@@ -4,5 +4,7 @@
 {"geometry":{"coordinates":[-76.234187,39.91483],"type":"Point"},"properties":{"a":"39.91483","cty":"LANCASTER","id":8840930,"mun":"PROVIDENCE TWP","nc":2,"o":"-76.234187"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.127297,40.357912],"type":"Point"},"properties":{"a":"40.357912","cty":"PERRY","id":8840932,"mun":"CARROLL TWP","nc":1,"o":"-77.127297"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.970387,41.022663],"type":"Point"},"properties":{"a":"41.022663","cty":"LUZERNE","id":8840964,"mun":"BUTLER TWP","nc":1,"o":"-75.970387"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.058213,41.286327],"type":"Point"},"properties":{"a":"41.286327","cty":"PIKE","id":8840979,"mun":"PORTER TWP","nc":3,"o":"-75.058213"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.058213,41.286327],"type":"Point"},"properties":{"a":"41.286327","cty":"PIKE","id":8840979,"mun":"PORTER TWP","nc":3,"o":"-75.058213"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.42475,40.41446],"type":"Point"},"properties":{"a":"40.41446","cty":"BUCKS","hp":true,"id":8840984,"mun":"MILFORD TWP","nc":30,"ne":{"a":"40.41667","o":"-75.41989"},"o":"-75.42475","sw":{"a":"40.41226","o":"-75.42961"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.35456,40.51948],"type":"Point"},"properties":{"a":"40.51948","cty":"LEHIGH","hp":true,"id":8840991,"mun":"UPPER SAUCON TWP","nc":261,"ne":{"a":"40.53033","o":"-75.33455"},"o":"-75.35456","sw":{"a":"40.50862","o":"-75.37457"}},"type":"Feature"}
 ]}
