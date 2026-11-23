@@ -1,21 +1,18 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.45942,41.255522],"type":"Point"},"properties":{"a":"41.255522","cty":"LACKAWANNA","id":8840743,"mun":"CLIFTON TWP","nc":3,"o":"-75.45942"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.352714,40.6616],"type":"Point"},"properties":{"a":"40.6616","cty":"NORTHAMPTON","id":8840760,"mun":"BETHLEHEM","nc":2,"o":"-75.352714"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.970421,41.023347],"type":"Point"},"properties":{"a":"41.023347","cty":"LUZERNE","id":8840798,"mun":"BUTLER TWP","nc":2,"o":"-75.970421"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.872762,41.234174],"type":"Point"},"properties":{"a":"41.234174","cty":"LUZERNE","id":8840817,"mun":"WILKES-BARRE","nc":1,"o":"-75.872762"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.872334,41.093047],"type":"Point"},"properties":{"a":"41.093047","cty":"NORTHUMBERLAND","id":8840836,"mun":"DELAWARE TWP","nc":5,"o":"-76.872334"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.280923,41.022648],"type":"Point"},"properties":{"a":"41.022648","cty":"MONROE","id":8840841,"mun":"POCONO TWP","nc":8,"o":"-75.280923"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.575013,40.779432],"type":"Point"},"properties":{"a":"40.779432","cty":"NORTHUMBERLAND","id":8840848,"mun":"COAL TWP","nc":5,"o":"-76.575013"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.567948,41.497642],"type":"Point"},"properties":{"a":"41.497642","cty":"LACKAWANNA","id":8840849,"mun":"ARCHBALD BORO","nc":4,"o":"-75.567948"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.342868,40.616884],"type":"Point"},"properties":{"a":"40.616884","cty":"JUNIATA","id":8840852,"mun":"FERMANAGH TWP","nc":2,"o":"-77.342868"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.246796,40.748439],"type":"Point"},"properties":{"a":"40.748439","cty":"NORTHAMPTON","id":8840861,"mun":"FORKS TWP","nc":3,"o":"-75.246796"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.491904,40.981375],"type":"Point"},"properties":{"a":"40.981375","cty":"COLUMBIA","id":8840879,"mun":"MONTOUR TWP","nc":2,"o":"-76.491904"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.945255,41.325773],"type":"Point"},"properties":{"a":"41.325773","cty":"LYCOMING","id":8840888,"mun":"ELDRED TWP","nc":4,"o":"-76.945255"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.372886,40.12215],"type":"Point"},"properties":{"a":"40.12215","cty":"LANCASTER","id":8840902,"mun":"EAST HEMPFIELD TWP","nc":8,"o":"-76.372886"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.53952,40.6594],"type":"Point"},"properties":{"a":"40.6594","cty":"SCHUYLKILL","hp":true,"id":8840917,"mun":"HEGINS TWP","nc":43,"ne":{"a":"40.6662","o":"-76.52572"},"o":"-76.53952","sw":{"a":"40.6526","o":"-76.55332"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.536501,40.788309],"type":"Point"},"properties":{"a":"40.788309","cty":"NORTHUMBERLAND","id":8840919,"mun":"COAL TWP","nc":14,"o":"-76.536501"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.3319,41.37861],"type":"Point"},"properties":{"a":"41.37861","cty":"WAYNE","hp":true,"id":8840924,"mun":"SALEM TWP","nc":179,"ne":{"a":"41.38684","o":"-75.32528"},"o":"-75.3319","sw":{"a":"41.37037","o":"-75.33851"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.578766,40.784654],"type":"Point"},"properties":{"a":"40.784654","cty":"NORTHUMBERLAND","id":8840926,"mun":"COAL TWP","nc":12,"o":"-76.578766"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.577323,40.966495],"type":"Point"},"properties":{"a":"40.966495","cty":"MONTOUR","id":8840929,"mun":"MAHONING TWP","nc":1,"o":"-76.577323"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.234187,39.91483],"type":"Point"},"properties":{"a":"39.91483","cty":"LANCASTER","id":8840930,"mun":"PROVIDENCE TWP","nc":2,"o":"-76.234187"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.234187,39.91483],"type":"Point"},"properties":{"a":"39.91483","cty":"LANCASTER","id":8840930,"mun":"PROVIDENCE TWP","nc":2,"o":"-76.234187"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.127297,40.357912],"type":"Point"},"properties":{"a":"40.357912","cty":"PERRY","id":8840932,"mun":"CARROLL TWP","nc":1,"o":"-77.127297"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.873701,40.813264],"type":"Point"},"properties":{"a":"40.813264","cty":"SNYDER","id":8840934,"mun":"PENN TWP","nc":2,"o":"-76.873701"},"type":"Feature"}
 ]}
