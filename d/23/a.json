@@ -18,5 +18,15 @@
 {"geometry":{"coordinates":[-76.396119,40.870439],"type":"Point"},"properties":{"a":"40.870439","cty":"COLUMBIA","id":8840688,"mun":"LOCUST TWP","nc":1,"o":"-76.396119"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.33736,40.589599],"type":"Point"},"properties":{"a":"40.589599","cty":"NORTHAMPTON","id":8840689,"mun":"HELLERTOWN BORO","nc":11,"o":"-75.33736"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.898253,40.278904],"type":"Point"},"properties":{"a":"40.278904","cty":"DAUPHIN","id":8840691,"mun":"HARRISBURG","nc":4,"o":"-76.898253"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.835622,40.729653],"type":"Point"},"properties":{"a":"40.729653","cty":"NORTHUMBERLAND","id":8840692,"mun":"JACKSON TWP","nc":1,"o":"-76.835622"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.835622,40.729653],"type":"Point"},"properties":{"a":"40.729653","cty":"NORTHUMBERLAND","id":8840692,"mun":"JACKSON TWP","nc":1,"o":"-76.835622"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.586968,40.965741],"type":"Point"},"properties":{"a":"40.965741","cty":"MONTOUR","id":8840693,"mun":"MAHONING TWP","nc":9,"o":"-76.586968"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.240442,41.538102],"type":"Point"},"properties":{"a":"41.538102","cty":"WAYNE","id":8840694,"mun":"TEXAS TWP","nc":1,"o":"-75.240442"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.35047,41.418684],"type":"Point"},"properties":{"a":"41.418684","cty":"WAYNE","id":8840695,"mun":"SALEM TWP","nc":3,"o":"-75.35047"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.271833,41.442167],"type":"Point"},"properties":{"a":"41.442167","cty":"WAYNE","id":8840696,"mun":"PAUPACK TWP","nc":2,"o":"-75.271833"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.867771,41.236616],"type":"Point"},"properties":{"a":"41.236616","cty":"LUZERNE","id":8840699,"mun":"WILKES-BARRE","nc":7,"o":"-75.867771"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.299189,41.370586],"type":"Point"},"properties":{"a":"41.370586","cty":"WAYNE","id":8840702,"mun":"SALEM TWP","nc":5,"o":"-75.299189"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.885371,41.233374],"type":"Point"},"properties":{"a":"41.233374","cty":"LUZERNE","id":8840703,"mun":"WILKES-BARRE","nc":6,"o":"-75.885371"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.82972,41.37094],"type":"Point"},"properties":{"a":"41.37094","cty":"LUZERNE","hp":true,"id":8840704,"mun":"EXETER TWP","nc":21,"ne":{"a":"41.37411","o":"-75.82919"},"o":"-75.82972","sw":{"a":"41.36778","o":"-75.83026"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.427456,40.560138],"type":"Point"},"properties":{"a":"40.560138","cty":"LEHIGH","id":8840706,"mun":"UPPER SAUCON TWP","nc":2,"o":"-75.427456"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.506766,41.135351],"type":"Point"},"properties":{"a":"41.135351","cty":"COLUMBIA","id":8840707,"mun":"GREENWOOD TWP","nc":1,"o":"-76.506766"},"type":"Feature"}
 ]}
