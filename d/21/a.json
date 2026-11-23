@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.190878,44.205223],"type":"Point"},"properties":{"EstRest":"11/22/2026 10:45:00 PM","Outages":1,"cause":"","county":"KNOX","crewstatus":"     ","customers":5,"hamlet":"HOPE","incidentnumber":"0047TA","incidents":1,"level":"street","opco":"CMP","street":"WILLIS DR","town":"HOPE"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.190878,44.205223],"type":"Point"},"properties":{"EstRest":"11/22/2026 10:45:00 PM","Outages":1,"cause":"","county":"KNOX","crewstatus":"ONST ","customers":5,"hamlet":"HOPE","incidentnumber":"0047TA","incidents":1,"level":"street","opco":"CMP","street":"WILLIS DR","town":"HOPE"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.190878,44.205223],"type":"Point"},"properties":{"EstRest":"11/22/2026 10:45:00 PM","Outages":1,"county":"KNOX","customers":27251,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}

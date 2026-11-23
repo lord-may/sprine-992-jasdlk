@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.440992,41.78608],"type":"Point"},"properties":{"a":"41.78608","cty":"PROVIDENCE","id":20261073453,"mun":"CRANSTON","nc":1,"o":"-71.440992"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.38352,41.696321],"type":"Point"},"properties":{"a":"41.696321","cty":"KENT","id":20261073456,"mun":"WARWICK","nc":1,"o":"-71.38352"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.38352,41.696321],"type":"Point"},"properties":{"a":"41.696321","cty":"KENT","id":20261073456,"mun":"WARWICK","nc":1,"o":"-71.38352"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.29053,41.67095],"type":"Point"},"properties":{"a":"41.67095","cty":"BRISTOL","hp":true,"id":20261073458,"mun":"BRISTOL","nc":5,"ne":{"a":"41.67168","o":"-71.29011"},"o":"-71.29053","sw":{"a":"41.67022","o":"-71.29094"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.2931,41.671744],"type":"Point"},"properties":{"a":"41.671744","cty":"BRISTOL","id":20261073459,"mun":"BRISTOL","nc":1,"o":"-71.2931"},"type":"Feature"}
 ]}

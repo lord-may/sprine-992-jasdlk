@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-77.612628,43.198377],"type":"Point"},"properties":{"EstRest":"11/22/2026 11:30:00 PM","Outages":90,"county":"MONROE","customers":303529,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.613597,43.195755],"type":"Point"},"properties":{"EstRest":"11/22/2026 11:30:00 PM","Outages":19,"cause":"","county":"MONROE","crewstatus":"     ","customers":66,"hamlet":"ROCHESTER","incidentnumber":"011GU5","incidents":1,"level":"street","opco":"RGE","street":"VERSAILLES RD","town":"ROCHESTER"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.613597,43.195755],"type":"Point"},"properties":{"EstRest":"11/22/2026 11:30:00 PM","Outages":19,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":66,"hamlet":"ROCHESTER","incidentnumber":"011GU5","incidents":1,"level":"street","opco":"RGE","street":"VERSAILLES RD","town":"ROCHESTER"},"type":"Feature"}
 ]}
