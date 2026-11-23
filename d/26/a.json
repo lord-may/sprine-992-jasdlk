@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-71.777071,43.573228],[-71.776101,43.573338],[-71.7754,43.573807],[-71.776065,43.573976],[-71.777385,43.573703],[-71.777071,43.573228]]],"type":"Polygon"},{"coordinates":[-71.776451,43.573612],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"The outage affecting your area is caused by an animal contact. Crews are on scene making repairs. Estimated time of restoration is 9:45AM","estimateTime":1795448700000,"id":"595301","nbrOut":5,"timeOff":1795441860759},"type":"Feature"}
+
 ]}
