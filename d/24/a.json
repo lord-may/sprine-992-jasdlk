@@ -2,9 +2,9 @@
 {"geometry":{"coordinates":[-71.76365,41.34982],"type":"Point"},"properties":{"a":"41.34982","cty":"WASHINGTON","hp":true,"id":20261073757,"mun":"WESTERLY","nc":78,"ne":{"a":"41.35077","o":"-71.7623"},"o":"-71.76365","sw":{"a":"41.34888","o":"-71.765"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.306087,41.494229],"type":"Point"},"properties":{"a":"41.494229","cty":"NEWPORT","id":20261073835,"mun":"NEWPORT","nc":22,"o":"-71.306087"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.711649,41.358413],"type":"Point"},"properties":{"a":"41.358413","cty":"WASHINGTON","id":20261073836,"mun":"CHARLESTOWN","nc":1,"o":"-71.711649"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.434969,41.874867],"type":"Point"},"properties":{"a":"41.874867","cty":"PROVIDENCE","id":20261073839,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.434969"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.60972,41.697919],"type":"Point"},"properties":{"a":"41.697919","cty":"KENT","id":20261073841,"mun":"COVENTRY","nc":14,"o":"-71.60972"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.56877,41.7219],"type":"Point"},"properties":{"a":"41.7219","cty":"KENT","hp":true,"id":20261073843,"mun":"COVENTRY","nc":9,"ne":{"a":"41.72278","o":"-71.56691"},"o":"-71.56877","sw":{"a":"41.72103","o":"-71.57063"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.500635,41.390898],"type":"Point"},"properties":{"a":"41.390898","cty":"WASHINGTON","id":20261073845,"mun":"NARRAGANSETT","nc":1,"o":"-71.500635"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.450493,41.475632],"type":"Point"},"properties":{"a":"41.475632","cty":"WASHINGTON","id":20261073847,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.450493"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.413332,41.879516],"type":"Point"},"properties":{"a":"41.879516","cty":"PROVIDENCE","id":20261073849,"mun":"PAWTUCKET","nc":1,"o":"-71.413332"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.456634,41.799321],"type":"Point"},"properties":{"a":"41.799321","cty":"PROVIDENCE","id":20261073850,"mun":"CRANSTON","nc":1,"o":"-71.456634"},"type":"Feature"}
 ]}
