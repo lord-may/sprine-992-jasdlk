@@ -1,17 +1,14 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.189269,40.783125],"type":"Point"},"properties":{"a":"40.783125","cty":"NORTHAMPTON","id":8841096,"mun":"LOWER MOUNT BETHEL TWP","nc":6,"o":"-75.189269"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.291634,40.150008],"type":"Point"},"properties":{"a":"40.150008","cty":"LANCASTER","id":8841129,"mun":"WARWICK TWP","nc":10,"o":"-76.291634"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.794387,40.908044],"type":"Point"},"properties":{"a":"40.908044","cty":"NORTHUMBERLAND","id":8841131,"mun":"POINT TWP","nc":5,"o":"-76.794387"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.74849,40.85789],"type":"Point"},"properties":{"a":"40.85789","cty":"NA","hp":true,"id":8841138,"mun":"NA","nc":92,"ne":{"a":"40.86001","o":"-76.74011"},"o":"-76.74849","sw":{"a":"40.85578","o":"-76.75687"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.793231,40.908593],"type":"Point"},"properties":{"a":"40.908593","cty":"NORTHUMBERLAND","id":8841147,"mun":"POINT TWP","nc":2,"o":"-76.793231"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.34331,40.39692],"type":"Point"},"properties":{"a":"40.39692","cty":"BUCKS","hp":true,"id":8841151,"mun":"RICHLAND TWP","nc":37,"ne":{"a":"40.4012","o":"-75.33716"},"o":"-75.34331","sw":{"a":"40.39263","o":"-75.34946"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.740607,40.783788],"type":"Point"},"properties":{"a":"40.783788","cty":"NORTHUMBERLAND","id":8841195,"mun":"ROCKEFELLER TWP","nc":4,"o":"-76.740607"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.217487,41.065712],"type":"Point"},"properties":{"a":"41.065712","cty":"MONROE","id":8841244,"mun":"STROUD TWP","nc":3,"o":"-75.217487"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.551472,41.627486],"type":"Point"},"properties":{"a":"41.627486","cty":"LACKAWANNA","id":8841249,"mun":"GREENFIELD TWP","nc":10,"o":"-75.551472"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.404134,40.844023],"type":"Point"},"properties":{"a":"40.844023","cty":"MONROE","id":8841259,"mun":"ELDRED TWP","nc":1,"o":"-75.404134"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.427523,40.570868],"type":"Point"},"properties":{"a":"40.570868","cty":"LEHIGH","id":8841286,"mun":"SALISBURY TWP","nc":2,"o":"-75.427523"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.36544,40.60611],"type":"Point"},"properties":{"a":"40.60611","cty":"NORTHAMPTON","hp":true,"id":8841300,"mun":"BETHLEHEM","nc":12,"ne":{"a":"40.6068","o":"-75.36526"},"o":"-75.36544","sw":{"a":"40.60541","o":"-75.36563"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.861669,40.331912],"type":"Point"},"properties":{"a":"40.331912","cty":"DAUPHIN","id":8841318,"mun":"SUSQUEHANNA TWP","nc":4,"o":"-76.861669"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.292208,41.392873],"type":"Point"},"properties":{"a":"41.392873","cty":"WAYNE","id":8841324,"mun":"PAUPACK TWP","nc":5,"o":"-75.292208"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.23583,40.62386],"type":"Point"},"properties":{"a":"40.62386","cty":"NORTHAMPTON","hp":true,"id":8841327,"mun":"WILLIAMS TWP","nc":5,"ne":{"a":"40.626","o":"-75.23382"},"o":"-75.23583","sw":{"a":"40.62172","o":"-75.23784"}},"type":"Feature"}
 ]}
