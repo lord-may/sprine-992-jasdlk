@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.404134,40.844023],"type":"Point"},"properties":{"a":"40.844023","cty":"MONROE","id":8841259,"mun":"ELDRED TWP","nc":1,"o":"-75.404134"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.23583,40.62386],"type":"Point"},"properties":{"a":"40.62386","cty":"NORTHAMPTON","hp":true,"id":8841327,"mun":"WILLIAMS TWP","nc":5,"ne":{"a":"40.626","o":"-75.23382"},"o":"-75.23583","sw":{"a":"40.62172","o":"-75.23784"}},"type":"Feature"},
-{"geometry":{"coordinates":[-77.23834,41.13422],"type":"Point"},"properties":{"a":"41.13422","cty":"LYCOMING","hp":true,"id":8841342,"mun":"LIMESTONE TWP","nc":630,"ne":{"a":"41.16192","o":"-77.19214"},"o":"-77.23834","sw":{"a":"41.10653","o":"-77.28454"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.500219,40.0344],"type":"Point"},"properties":{"a":"40.0344","cty":"LANCASTER","id":8841391,"mun":"COLUMBIA BORO","nc":1,"o":"-76.500219"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.550444,40.562156],"type":"Point"},"properties":{"a":"40.562156","cty":"LEHIGH","id":8841392,"mun":"LOWER MACUNGIE TWP","nc":7,"o":"-75.550444"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.23711,41.136488],"type":"Point"},"properties":{"a":"41.136488","cty":"CLINTON","id":8841394,"mun":"CRAWFORD TWP","nc":3,"o":"-77.23711"},"type":"Feature"}
 ]}
