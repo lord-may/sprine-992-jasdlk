@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-77.538057,40.180741],"type":"Point"},"properties":{"cause":"Tree Failure Without Ice/Snow","crewAssigned":true,"estimateTime":1795546800000,"id":"475940","lifeCycleStatus":"Assigned","nbrOut":119,"planned":false,"timeOff":1795535219201},"type":"Feature"}
 ]}
