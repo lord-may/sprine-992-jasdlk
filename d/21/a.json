@@ -1,6 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.043481,44.597933],"type":"Point"},"properties":{"EstRest":"11/24/2026 9:45:00 AM","Outages":1,"cause":"","county":"FRANKLIN","crewstatus":"ONST ","customers":2,"hamlet":"CHESTERVILLE","incidentnumber":"0047XK","incidents":1,"level":"street","opco":"CMP","street":"CAHOON RD","town":"CHESTERVILLE"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.043481,44.597933],"type":"Point"},"properties":{"EstRest":"11/24/2026 9:45:00 AM","Outages":1,"county":"FRANKLIN","customers":24700,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.170412,44.271779],"type":"Point"},"properties":{"EstRest":"11/24/2026 9:30:00 AM","Outages":8,"cause":"","county":"KNOX","crewstatus":"ONST ","customers":9,"hamlet":"HOPE","incidentnumber":"0047XH","incidents":1,"level":"street","opco":"CMP","street":"BULL HILL RD","town":"HOPE"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.170412,44.271779],"type":"Point"},"properties":{"EstRest":"11/24/2026 9:30:00 AM","Outages":8,"county":"KNOX","customers":27251,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+
 ]}
