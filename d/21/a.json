@@ -1,10 +1,8 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.576357,43.967355],"type":"Point"},"properties":{"EstRest":"11/24/2026 3:15:00 PM","Outages":89,"county":"CUMBERLAND","customers":182407,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.241108,44.182868],"type":"Point"},"properties":{"EstRest":"11/24/2026 3:15:00 PM","Outages":11,"county":"KNOX","customers":27251,"incidents":3,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.576357,43.967355],"type":"Point"},"properties":{"EstRest":"11/24/2026 3:15:00 PM","Outages":70,"county":"CUMBERLAND","customers":182407,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.241108,44.182868],"type":"Point"},"properties":{"EstRest":"11/24/2026 3:15:00 PM","Outages":2,"county":"KNOX","customers":27251,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.859783,44.016136],"type":"Point"},"properties":{"EstRest":"11/24/2026 3:15:00 PM","Outages":1,"cause":"","county":"OXFORD","crewstatus":"ACKN ","customers":65,"hamlet":"DENMARK","incidentnumber":"004811","incidents":1,"level":"street","opco":"CMP","street":"DENMARK RD","town":"DENMARK"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.859783,44.016136],"type":"Point"},"properties":{"EstRest":"11/24/2026 3:15:00 PM","Outages":1,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.21871,44.850105],"type":"Point"},"properties":{"EstRest":"11/24/2026 3:00:00 PM","Outages":55,"county":"PENOBSCOT","customers":15447,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.223005,44.837725],"type":"Point"},"properties":{"EstRest":"11/24/2026 3:00:00 PM","Outages":13,"cause":"","county":"PENOBSCOT","crewstatus":"ONST ","customers":15,"hamlet":"NEWPORT","incidentnumber":"004814","incidents":1,"level":"street","opco":"CMP","street":"SHORE DR","town":"NEWPORT"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.470027,44.897833],"type":"Point"},"properties":{"EstRest":"11/24/2026 3:30:00 PM","Outages":158,"county":"SOMERSET","customers":31730,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.956519,43.386724],"type":"Point"},"properties":{"EstRest":"11/24/2026 3:00:00 PM","Outages":21,"county":"YORK","customers":132723,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
