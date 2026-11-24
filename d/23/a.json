@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-77.384382,40.06491],"type":"Point"},"properties":{"a":"40.06491","cty":"CUMBERLAND","id":8841058,"mun":"SOUTH NEWTON TWP","nc":2,"o":"-77.384382"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.472322,40.605876],"type":"Point"},"properties":{"a":"40.605876","cty":"LEHIGH","id":8841060,"mun":"ALLENTOWN","nc":30,"o":"-75.472322"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.293128,40.471113],"type":"Point"},"properties":{"a":"40.471113","cty":"BUCKS","id":8841064,"mun":"HAYCOCK TWP","nc":1,"o":"-75.293128"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.18758,40.98749],"type":"Point"},"properties":{"a":"40.98749","cty":"UNION","hp":true,"id":8841077,"mun":"HARTLEY TWP","nc":18,"ne":{"a":"40.99365","o":"-77.17167"},"o":"-77.18758","sw":{"a":"40.98134","o":"-77.20349"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.691767,41.387686],"type":"Point"},"properties":{"a":"41.387686","cty":"LACKAWANNA","id":8841080,"mun":"SCRANTON","nc":1,"o":"-75.691767"},"type":"Feature"},
@@ -33,6 +32,11 @@
 {"geometry":{"coordinates":[-75.285007,41.567575],"type":"Point"},"properties":{"a":"41.567575","cty":"WAYNE","id":8841149,"mun":"TEXAS TWP","nc":3,"o":"-75.285007"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.34331,40.39692],"type":"Point"},"properties":{"a":"40.39692","cty":"BUCKS","hp":true,"id":8841151,"mun":"RICHLAND TWP","nc":37,"ne":{"a":"40.4012","o":"-75.33716"},"o":"-75.34331","sw":{"a":"40.39263","o":"-75.34946"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.573662,40.779476],"type":"Point"},"properties":{"a":"40.779476","cty":"NORTHUMBERLAND","id":8841154,"mun":"COAL TWP","nc":2,"o":"-76.573662"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.927493,41.271377],"type":"Point"},"properties":{"a":"41.271377","cty":"LYCOMING","id":8841157,"mun":"LOYALSOCK TWP","nc":4,"o":"-76.927493"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.297875,40.523905],"type":"Point"},"properties":{"a":"40.523905","cty":"BUCKS","id":8841160,"mun":"SPRINGFIELD TWP","nc":1,"o":"-75.297875"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.297875,40.523905],"type":"Point"},"properties":{"a":"40.523905","cty":"BUCKS","id":8841160,"mun":"SPRINGFIELD TWP","nc":1,"o":"-75.297875"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.061165,41.068472],"type":"Point"},"properties":{"a":"41.068472","cty":"LUZERNE","id":8841163,"mun":"HOLLENBACK TWP","nc":1,"o":"-76.061165"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.550444,40.562156],"type":"Point"},"properties":{"a":"40.562156","cty":"LEHIGH","id":8841165,"mun":"LOWER MACUNGIE TWP","nc":7,"o":"-75.550444"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.112157,40.280992],"type":"Point"},"properties":{"a":"40.280992","cty":"LANCASTER","id":8841166,"mun":"WEST COCALICO TWP","nc":1,"o":"-76.112157"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.744552,41.322474],"type":"Point"},"properties":{"a":"41.322474","cty":"LUZERNE","id":8841168,"mun":"DUPONT BORO","nc":8,"o":"-75.744552"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.484259,40.673465],"type":"Point"},"properties":{"a":"40.673465","cty":"NORTHAMPTON","id":8841169,"mun":"NORTHAMPTON BORO","nc":7,"o":"-75.484259"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.671245,41.395612],"type":"Point"},"properties":{"a":"41.395612","cty":"LACKAWANNA","id":8841170,"mun":"SCRANTON","nc":1,"o":"-75.671245"},"type":"Feature"}
 ]}
