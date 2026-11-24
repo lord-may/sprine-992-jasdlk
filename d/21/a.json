@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.121176,44.106521],"type":"Point"},"properties":{"EstRest":"11/24/2026 11:15:00 AM","Outages":1,"cause":"","county":"KNOX","crewstatus":"DISP ","customers":3,"hamlet":"ROCKLAND","incidentnumber":"0047Y1","incidents":1,"level":"street","opco":"CMP","street":"WOODLAND RD","town":"ROCKLAND"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.121176,44.106521],"type":"Point"},"properties":{"EstRest":"11/24/2026 11:15:00 AM","Outages":1,"cause":"System Upgrade","county":"KNOX","crewstatus":"ONST ","customers":3,"hamlet":"ROCKLAND","incidentnumber":"0047Y1","incidents":1,"level":"street","opco":"CMP","street":"WOODLAND RD","town":"ROCKLAND"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.121176,44.106521],"type":"Point"},"properties":{"EstRest":"11/24/2026 11:15:00 AM","Outages":1,"county":"KNOX","customers":27251,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
