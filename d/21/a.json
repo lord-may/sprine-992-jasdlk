@@ -1,6 +1,8 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-69.990765,43.901901],"type":"Point"},"properties":{"EstRest":"","Outages":69,"cause":"","county":"CUMBERLAND","crewstatus":"ONST ","customers":89,"hamlet":"BRUNSWICK","incidentnumber":"0047Y5","incidents":1,"level":"street","opco":"CMP","street":"WILLOW GROVE RD","town":"BRUNSWICK"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.990765,43.901901],"type":"Point"},"properties":{"EstRest":"","Outages":69,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.169389,44.99868],"type":"Point"},"properties":{"EstRest":"11/24/2026 5:15:00 PM","Outages":1,"cause":"","county":"FRANKLIN","crewstatus":"     ","customers":7,"hamlet":"KINGFIELD","incidentnumber":"00481V","incidents":1,"level":"street","opco":"CMP","street":"LEDGE RD","town":"KINGFIELD"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.169389,44.99868],"type":"Point"},"properties":{"EstRest":"11/24/2026 5:15:00 PM","Outages":1,"county":"FRANKLIN","customers":24700,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.362528,44.257143],"type":"Point"},"properties":{"EstRest":"11/24/2026 4:30:00 PM","Outages":1,"cause":"","county":"KNOX","crewstatus":"DISP ","customers":13,"hamlet":"WASHINGTON","incidentnumber":"00480R","incidents":1,"level":"street","opco":"CMP","street":"SPRAGUE RD","town":"WASHINGTON"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.362528,44.257143],"type":"Point"},"properties":{"EstRest":"11/24/2026 4:30:00 PM","Outages":1,"county":"KNOX","customers":27251,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
