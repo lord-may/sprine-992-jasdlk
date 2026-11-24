@@ -2,8 +2,8 @@
 {"geometry":{"coordinates":[-76.740607,40.783788],"type":"Point"},"properties":{"a":"40.783788","cty":"NORTHUMBERLAND","id":8841195,"mun":"ROCKEFELLER TWP","nc":4,"o":"-76.740607"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.404134,40.844023],"type":"Point"},"properties":{"a":"40.844023","cty":"MONROE","id":8841259,"mun":"ELDRED TWP","nc":1,"o":"-75.404134"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.427523,40.570868],"type":"Point"},"properties":{"a":"40.570868","cty":"LEHIGH","id":8841286,"mun":"SALISBURY TWP","nc":2,"o":"-75.427523"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.861669,40.331912],"type":"Point"},"properties":{"a":"40.331912","cty":"DAUPHIN","id":8841318,"mun":"SUSQUEHANNA TWP","nc":4,"o":"-76.861669"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.23583,40.62386],"type":"Point"},"properties":{"a":"40.62386","cty":"NORTHAMPTON","hp":true,"id":8841327,"mun":"WILLIAMS TWP","nc":5,"ne":{"a":"40.626","o":"-75.23382"},"o":"-75.23583","sw":{"a":"40.62172","o":"-75.23784"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.23834,41.13422],"type":"Point"},"properties":{"a":"41.13422","cty":"LYCOMING","hp":true,"id":8841342,"mun":"LIMESTONE TWP","nc":630,"ne":{"a":"41.16192","o":"-77.19214"},"o":"-77.23834","sw":{"a":"41.10653","o":"-77.28454"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.896449,40.278993],"type":"Point"},"properties":{"a":"40.278993","cty":"DAUPHIN","id":8841347,"mun":"HARRISBURG","nc":1,"o":"-76.896449"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.896449,40.278993],"type":"Point"},"properties":{"a":"40.278993","cty":"DAUPHIN","id":8841347,"mun":"HARRISBURG","nc":1,"o":"-76.896449"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.71703,40.85368],"type":"Point"},"properties":{"a":"40.85368","cty":"NORTHUMBERLAND","hp":true,"id":8841361,"mun":"ROCKEFELLER TWP","nc":45,"ne":{"a":"40.85958","o":"-76.70753"},"o":"-76.71703","sw":{"a":"40.84778","o":"-76.72654"}},"type":"Feature"}
 ]}
