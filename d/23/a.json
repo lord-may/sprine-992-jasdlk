@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.585889,41.556659],"type":"Point"},"properties":{"a":"41.556659","cty":"LACKAWANNA","id":8841029,"mun":"SCOTT TWP","nc":3,"o":"-75.585889"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.863746,40.262864],"type":"Point"},"properties":{"a":"40.262864","cty":"DAUPHIN","id":8841034,"mun":"HARRISBURG","nc":1,"o":"-76.863746"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.387207,40.552067],"type":"Point"},"properties":{"a":"40.552067","cty":"SCHUYLKILL","id":8841035,"mun":"PINE GROVE TWP","nc":12,"o":"-76.387207"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.759141,41.550709],"type":"Point"},"properties":{"a":"41.550709","cty":"LACKAWANNA","id":8841039,"mun":"DALTON BORO","nc":2,"o":"-75.759141"},"type":"Feature"}
 ]}
