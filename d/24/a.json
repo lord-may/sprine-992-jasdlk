@@ -2,5 +2,8 @@
 {"geometry":{"coordinates":[-71.76365,41.34982],"type":"Point"},"properties":{"a":"41.34982","cty":"WASHINGTON","hp":true,"id":20261073757,"mun":"WESTERLY","nc":78,"ne":{"a":"41.35077","o":"-71.7623"},"o":"-71.76365","sw":{"a":"41.34888","o":"-71.765"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.56877,41.7219],"type":"Point"},"properties":{"a":"41.7219","cty":"KENT","hp":true,"id":20261073843,"mun":"COVENTRY","nc":9,"ne":{"a":"41.72278","o":"-71.56691"},"o":"-71.56877","sw":{"a":"41.72103","o":"-71.57063"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.413332,41.879516],"type":"Point"},"properties":{"a":"41.879516","cty":"PROVIDENCE","id":20261073849,"mun":"PAWTUCKET","nc":1,"o":"-71.413332"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.30084,41.49287],"type":"Point"},"properties":{"a":"41.49287","cty":"NEWPORT","hp":true,"id":20261073884,"mun":"NEWPORT","nc":22,"ne":{"a":"41.4937","o":"-71.30058"},"o":"-71.30084","sw":{"a":"41.49203","o":"-71.3011"}},"type":"Feature"}
+{"geometry":{"coordinates":[-71.30084,41.49287],"type":"Point"},"properties":{"a":"41.49287","cty":"NEWPORT","hp":true,"id":20261073884,"mun":"NEWPORT","nc":22,"ne":{"a":"41.4937","o":"-71.30058"},"o":"-71.30084","sw":{"a":"41.49203","o":"-71.3011"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.662867,41.716316],"type":"Point"},"properties":{"a":"41.716316","cty":"KENT","id":20261073899,"mun":"COVENTRY","nc":1,"o":"-71.662867"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.456634,41.799321],"type":"Point"},"properties":{"a":"41.799321","cty":"PROVIDENCE","id":20261073900,"mun":"CRANSTON","nc":1,"o":"-71.456634"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.40535,41.83684],"type":"Point"},"properties":{"a":"41.83684","cty":"PROVIDENCE","hp":true,"id":20261073901,"mun":"PROVIDENCE","nc":17,"ne":{"a":"41.83841","o":"-71.40437"},"o":"-71.40535","sw":{"a":"41.83527","o":"-71.40632"}},"type":"Feature"}
 ]}

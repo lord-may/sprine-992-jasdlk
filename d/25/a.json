@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-72.54761,42.816789],"type":"Point"},"properties":{"active":true,"affectingCustomers":true,"cause":120,"county":"Windham","crew_name":",BRAT-SNOW","customers_affected":2,"customers_affected_label":"2 Customers","device":"FUSE","etor":"2026-11-24T17:38:29-05:00","has_etor":1,"incident_id":1018806,"status":"CREW_ASSIGNED","street":"FORT BRIDGMAN RD","town":"Vernon","trouble":"NO_POWER"},"type":"Feature"}
 ]}
