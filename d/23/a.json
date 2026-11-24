@@ -8,5 +8,7 @@
 {"geometry":{"coordinates":[-76.841672,40.28238],"type":"Point"},"properties":{"a":"40.28238","cty":"DAUPHIN","id":8841070,"mun":"SUSQUEHANNA TWP","nc":5,"o":"-76.841672"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.340235,40.669809],"type":"Point"},"properties":{"a":"40.669809","cty":"NORTHAMPTON","id":8841071,"mun":"BETHLEHEM TWP","nc":4,"o":"-75.340235"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.323344,40.464044],"type":"Point"},"properties":{"a":"40.464044","cty":"BUCKS","id":8841075,"mun":"RICHLAND TWP","nc":6,"o":"-75.323344"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.18758,40.98749],"type":"Point"},"properties":{"a":"40.98749","cty":"UNION","hp":true,"id":8841077,"mun":"HARTLEY TWP","nc":18,"ne":{"a":"40.99365","o":"-77.17167"},"o":"-77.18758","sw":{"a":"40.98134","o":"-77.20349"}},"type":"Feature"}
+{"geometry":{"coordinates":[-77.18758,40.98749],"type":"Point"},"properties":{"a":"40.98749","cty":"UNION","hp":true,"id":8841077,"mun":"HARTLEY TWP","nc":18,"ne":{"a":"40.99365","o":"-77.17167"},"o":"-77.18758","sw":{"a":"40.98134","o":"-77.20349"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.691767,41.387686],"type":"Point"},"properties":{"a":"41.387686","cty":"LACKAWANNA","id":8841080,"mun":"SCRANTON","nc":1,"o":"-75.691767"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.925825,40.307528],"type":"Point"},"properties":{"a":"40.307528","cty":"CUMBERLAND","id":8841082,"mun":"EAST PENNSBORO TWP","nc":9,"o":"-76.925825"},"type":"Feature"}
 ]}
