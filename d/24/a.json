@@ -1,7 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.76365,41.34982],"type":"Point"},"properties":{"a":"41.34982","cty":"WASHINGTON","hp":true,"id":20261073757,"mun":"WESTERLY","nc":78,"ne":{"a":"41.35077","o":"-71.7623"},"o":"-71.76365","sw":{"a":"41.34888","o":"-71.765"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.300065,41.49247],"type":"Point"},"properties":{"a":"41.49247","cty":"NEWPORT","id":20261073775,"mun":"NEWPORT","nc":12,"o":"-71.300065"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.59089,41.873686],"type":"Point"},"properties":{"a":"41.873686","cty":"PROVIDENCE","id":20261073790,"mun":"GLOCESTER","nc":4,"o":"-71.59089"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.496836,41.653413],"type":"Point"},"properties":{"a":"41.653413","cty":"KENT","id":20261073808,"mun":"EAST GREENWICH","nc":1,"o":"-71.496836"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.31542,41.478548],"type":"Point"},"properties":{"a":"41.478548","cty":"NEWPORT","id":20261073811,"mun":"NEWPORT","nc":1,"o":"-71.31542"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.60972,41.697919],"type":"Point"},"properties":{"a":"41.697919","cty":"KENT","id":20261073814,"mun":"COVENTRY","nc":1,"o":"-71.60972"},"type":"Feature"},

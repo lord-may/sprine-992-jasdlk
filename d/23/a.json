@@ -38,5 +38,8 @@
 {"geometry":{"coordinates":[-76.946243,41.324142],"type":"Point"},"properties":{"a":"41.324142","cty":"LYCOMING","id":8841192,"mun":"ELDRED TWP","nc":2,"o":"-76.946243"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.737699,40.785365],"type":"Point"},"properties":{"a":"40.785365","cty":"NORTHUMBERLAND","id":8841195,"mun":"ROCKEFELLER TWP","nc":2,"o":"-76.737699"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.653154,41.40716],"type":"Point"},"properties":{"a":"41.40716","cty":"LACKAWANNA","id":8841196,"mun":"SCRANTON","nc":1,"o":"-75.653154"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.196469,41.502028],"type":"Point"},"properties":{"a":"41.502028","cty":"WAYNE","id":8841200,"mun":"PALMYRA TWP","nc":3,"o":"-75.196469"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.196469,41.502028],"type":"Point"},"properties":{"a":"41.502028","cty":"WAYNE","id":8841200,"mun":"PALMYRA TWP","nc":3,"o":"-75.196469"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.522596,41.066383],"type":"Point"},"properties":{"a":"41.066383","cty":"COLUMBIA","id":8841205,"mun":"MADISON TWP","nc":1,"o":"-76.522596"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.475683,40.557088],"type":"Point"},"properties":{"a":"40.557088","cty":"LEHIGH","id":8841210,"mun":"ALLENTOWN","nc":10,"o":"-75.475683"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.550444,40.562156],"type":"Point"},"properties":{"a":"40.562156","cty":"LEHIGH","id":8841211,"mun":"LOWER MACUNGIE TWP","nc":7,"o":"-75.550444"},"type":"Feature"}
 ]}
