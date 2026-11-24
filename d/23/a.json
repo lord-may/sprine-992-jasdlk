@@ -5,5 +5,6 @@
 {"geometry":{"coordinates":[-75.472817,40.605715],"type":"Point"},"properties":{"a":"40.605715","cty":"LEHIGH","id":8841061,"mun":"ALLENTOWN","nc":28,"o":"-75.472817"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.472403,40.605256],"type":"Point"},"properties":{"a":"40.605256","cty":"LEHIGH","id":8841062,"mun":"ALLENTOWN","nc":29,"o":"-75.472403"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.201851,41.151688],"type":"Point"},"properties":{"a":"41.151688","cty":"MONROE","id":8841063,"mun":"PRICE TWP","nc":1,"o":"-75.201851"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.293128,40.471113],"type":"Point"},"properties":{"a":"40.471113","cty":"BUCKS","id":8841064,"mun":"HAYCOCK TWP","nc":1,"o":"-75.293128"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.293128,40.471113],"type":"Point"},"properties":{"a":"40.471113","cty":"BUCKS","id":8841064,"mun":"HAYCOCK TWP","nc":1,"o":"-75.293128"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.359366,40.296769],"type":"Point"},"properties":{"a":"40.296769","cty":"MONTGOMERY","id":8841065,"mun":"FRANCONIA TWP","nc":2,"o":"-75.359366"},"type":"Feature"}
 ]}
