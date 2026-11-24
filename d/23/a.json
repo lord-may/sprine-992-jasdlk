@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.189269,40.783125],"type":"Point"},"properties":{"a":"40.783125","cty":"NORTHAMPTON","id":8841096,"mun":"LOWER MOUNT BETHEL TWP","nc":6,"o":"-75.189269"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.840043,41.175109],"type":"Point"},"properties":{"a":"41.175109","cty":"LYCOMING","id":8841113,"mun":"CLINTON TWP","nc":6,"o":"-76.840043"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.897133,40.275569],"type":"Point"},"properties":{"a":"40.275569","cty":"DAUPHIN","id":8841115,"mun":"HARRISBURG","nc":1,"o":"-76.897133"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.911959,40.843502],"type":"Point"},"properties":{"a":"40.843502","cty":"CARBON","id":8841128,"mun":"NESQUEHONING BORO","nc":10,"o":"-75.911959"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.291634,40.150008],"type":"Point"},"properties":{"a":"40.150008","cty":"LANCASTER","id":8841129,"mun":"WARWICK TWP","nc":10,"o":"-76.291634"},"type":"Feature"},
@@ -21,5 +20,9 @@
 {"geometry":{"coordinates":[-75.404134,40.844023],"type":"Point"},"properties":{"a":"40.844023","cty":"MONROE","id":8841259,"mun":"ELDRED TWP","nc":1,"o":"-75.404134"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.281091,41.572491],"type":"Point"},"properties":{"a":"41.572491","cty":"WAYNE","id":8841262,"mun":"TEXAS TWP","nc":3,"o":"-75.281091"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.281469,41.57144],"type":"Point"},"properties":{"a":"41.57144","cty":"WAYNE","id":8841267,"mun":"TEXAS TWP","nc":1,"o":"-75.281469"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.382283,41.203632],"type":"Point"},"properties":{"a":"41.203632","cty":"MONROE","id":8841284,"mun":"COOLBAUGH TWP","nc":2,"o":"-75.382283"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.382283,41.203632],"type":"Point"},"properties":{"a":"41.203632","cty":"MONROE","id":8841284,"mun":"COOLBAUGH TWP","nc":2,"o":"-75.382283"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.428316,40.571445],"type":"Point"},"properties":{"a":"40.571445","cty":"LEHIGH","id":8841286,"mun":"SALISBURY TWP","nc":1,"o":"-75.428316"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.968892,41.324795],"type":"Point"},"properties":{"a":"41.324795","cty":"LYCOMING","id":8841287,"mun":"ELDRED TWP","nc":2,"o":"-76.968892"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.932012,40.297612],"type":"Point"},"properties":{"a":"40.297612","cty":"CUMBERLAND","id":8841289,"mun":"EAST PENNSBORO TWP","nc":3,"o":"-76.932012"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.541345,40.558806],"type":"Point"},"properties":{"a":"40.558806","cty":"LEHIGH","id":8841291,"mun":"LOWER MACUNGIE TWP","nc":4,"o":"-75.541345"},"type":"Feature"}
 ]}

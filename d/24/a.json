@@ -4,7 +4,7 @@
 {"geometry":{"coordinates":[-71.711649,41.358413],"type":"Point"},"properties":{"a":"41.358413","cty":"WASHINGTON","id":20261073836,"mun":"CHARLESTOWN","nc":1,"o":"-71.711649"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.60972,41.697919],"type":"Point"},"properties":{"a":"41.697919","cty":"KENT","id":20261073841,"mun":"COVENTRY","nc":14,"o":"-71.60972"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.56877,41.7219],"type":"Point"},"properties":{"a":"41.7219","cty":"KENT","hp":true,"id":20261073843,"mun":"COVENTRY","nc":9,"ne":{"a":"41.72278","o":"-71.56691"},"o":"-71.56877","sw":{"a":"41.72103","o":"-71.57063"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.500635,41.390898],"type":"Point"},"properties":{"a":"41.390898","cty":"WASHINGTON","id":20261073845,"mun":"NARRAGANSETT","nc":1,"o":"-71.500635"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.413332,41.879516],"type":"Point"},"properties":{"a":"41.879516","cty":"PROVIDENCE","id":20261073849,"mun":"PAWTUCKET","nc":1,"o":"-71.413332"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.456634,41.799321],"type":"Point"},"properties":{"a":"41.799321","cty":"PROVIDENCE","id":20261073850,"mun":"CRANSTON","nc":1,"o":"-71.456634"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.496569,41.716133],"type":"Point"},"properties":{"a":"41.716133","cty":"KENT","id":20261073853,"mun":"WEST WARWICK","nc":1,"o":"-71.496569"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.354117,41.892266],"type":"Point"},"properties":{"a":"41.892266","cty":"PROVIDENCE","id":20261073854,"mun":"PAWTUCKET","nc":1,"o":"-71.354117"},"type":"Feature"}
 ]}
