@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-70.579234,43.324165],"type":"Point"},"properties":{"EstRest":"11/24/2026 11:00:00 AM","Outages":1,"cause":"","county":"YORK","crewstatus":"     ","customers":1212,"hamlet":"WELLS","incidentnumber":"0047XW","incidents":1,"level":"street","opco":"CMP","street":"POST RD","town":"WELLS"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.579234,43.324165],"type":"Point"},"properties":{"EstRest":"11/24/2026 11:00:00 AM","Outages":1,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
