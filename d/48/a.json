@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-72.068307,41.526411],"type":"Point"},"properties":{"ADDRESS":"72 NORTH MAIN ST FL 1, NORWICH, CT, 06360","CUSTOMER_COUNT":2,"DEVICE_OID":183791,"FACILITY_ID":null,"FEEDER_ID":null,"GDB_GEOMATTR_DATA":"","ID":45248,"INCIDENT_ID":50435,"OBJECTID":7928,"ORIG_FID":null,"REGION":1,"RxOID":183791,"TIME_OUTAGE":"11/24/2026 08:53 AM","TIME_RESTORED_EST":"Is still under review"},"type":"Feature"}
+{"geometry":{"coordinates":[-72.068307,41.526411],"type":"Point"},"properties":{"ADDRESS":"72 NORTH MAIN ST FL 1, NORWICH, CT, 06360","CUSTOMER_COUNT":2,"DEVICE_OID":183791,"FACILITY_ID":null,"FEEDER_ID":null,"GDB_GEOMATTR_DATA":"","ID":45248,"INCIDENT_ID":50435,"OBJECTID":7929,"ORIG_FID":null,"REGION":1,"RxOID":183791,"TIME_OUTAGE":"11/24/2026 08:53 AM","TIME_RESTORED_EST":"Is still under review"},"type":"Feature"}
 ]}

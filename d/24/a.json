@@ -6,5 +6,8 @@
 {"geometry":{"coordinates":[-71.56877,41.7219],"type":"Point"},"properties":{"a":"41.7219","cty":"KENT","hp":true,"id":20261073843,"mun":"COVENTRY","nc":9,"ne":{"a":"41.72278","o":"-71.56691"},"o":"-71.56877","sw":{"a":"41.72103","o":"-71.57063"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.413332,41.879516],"type":"Point"},"properties":{"a":"41.879516","cty":"PROVIDENCE","id":20261073849,"mun":"PAWTUCKET","nc":1,"o":"-71.413332"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.354117,41.892266],"type":"Point"},"properties":{"a":"41.892266","cty":"PROVIDENCE","id":20261073854,"mun":"PAWTUCKET","nc":1,"o":"-71.354117"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.450493,41.475632],"type":"Point"},"properties":{"a":"41.475632","cty":"WASHINGTON","id":20261073856,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.450493"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.450493,41.475632],"type":"Point"},"properties":{"a":"41.475632","cty":"WASHINGTON","id":20261073856,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.450493"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.456634,41.799321],"type":"Point"},"properties":{"a":"41.799321","cty":"PROVIDENCE","id":20261073860,"mun":"CRANSTON","nc":1,"o":"-71.456634"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.307507,41.495507],"type":"Point"},"properties":{"a":"41.495507","cty":"NEWPORT","id":20261073861,"mun":"NEWPORT","nc":1,"o":"-71.307507"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.412133,41.704287],"type":"Point"},"properties":{"a":"41.704287","cty":"KENT","id":20261073862,"mun":"WARWICK","nc":1,"o":"-71.412133"},"type":"Feature"}
 ]}
