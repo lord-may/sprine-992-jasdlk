@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.759141,41.550709],"type":"Point"},"properties":{"a":"41.550709","cty":"LACKAWANNA","id":8841039,"mun":"DALTON BORO","nc":2,"o":"-75.759141"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.189362,40.709846],"type":"Point"},"properties":{"a":"40.709846","cty":"SCHUYLKILL","id":8841041,"mun":"EAST NORWEGIAN TWP","nc":1,"o":"-76.189362"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.189362,40.709846],"type":"Point"},"properties":{"a":"40.709846","cty":"SCHUYLKILL","id":8841041,"mun":"EAST NORWEGIAN TWP","nc":1,"o":"-76.189362"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.262744,41.39234],"type":"Point"},"properties":{"a":"41.39234","cty":"WAYNE","id":8841053,"mun":"PAUPACK TWP","nc":2,"o":"-75.262744"},"type":"Feature"}
 ]}
