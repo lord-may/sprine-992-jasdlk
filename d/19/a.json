@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-76.859105,42.51071],"type":"Point"},"properties":{"EstRest":"11/24/2026 12:45:00 AM","Outages":1,"cause":"","county":"SCHUYLER","crewstatus":"DISP ","customers":32,"hamlet":"HECTOR","incidentnumber":"011H30","incidents":1,"level":"street","opco":"NYSEG","street":"BALL DIAMOND RD","town":"HECTOR T"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.859105,42.51071],"type":"Point"},"properties":{"EstRest":"11/24/2026 12:45:00 AM","Outages":1,"county":"SCHUYLER","customers":9946,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
