@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.792532,43.283422],"type":"Point"},"properties":{"EstRest":"11/24/2026 12:30:00 AM","Outages":1,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":25,"hamlet":"HILTON","incidentnumber":"011H32","incidents":1,"level":"street","opco":"RGE","street":"OVERLOOK DR","town":"PARMA V HILTON"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.792532,43.283422],"type":"Point"},"properties":{"EstRest":"11/24/2026 12:30:00 AM","Outages":1,"county":"MONROE","customers":304665,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
+
 ]}
