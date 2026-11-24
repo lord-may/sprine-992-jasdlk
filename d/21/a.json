@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-68.713263,44.590656],"type":"Point"},"properties":{"EstRest":"11/23/2026 10:00:00 PM","Outages":6,"cause":"","county":"HANCOCK","crewstatus":"DISP ","customers":6,"hamlet":"ORLAND","incidentnumber":"0047WZ","incidents":1,"level":"street","opco":"CMP","street":"RIVERS EDGE LN","town":"ORLAND"},"type":"Feature"},
-{"geometry":{"coordinates":[-68.713696,44.586949],"type":"Point"},"properties":{"EstRest":"11/23/2026 10:00:00 PM","Outages":39,"county":"HANCOCK","customers":6519,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.600023,43.664833],"type":"Point"},"properties":{"EstRest":"11/23/2026 8:30:00 PM","Outages":1,"cause":"Equipment Interruption","county":"YORK","crewstatus":"CMPL ","customers":172,"hamlet":"BUXTON","incidentnumber":"0047WU","incidents":1,"level":"street","opco":"CMP","street":"RIVER RD","town":"BUXTON"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.600023,43.664833],"type":"Point"},"properties":{"EstRest":"11/23/2026 8:30:00 PM","Outages":1,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-68.713696,44.586949],"type":"Point"},"properties":{"EstRest":"11/23/2026 10:00:00 PM","Outages":39,"county":"HANCOCK","customers":6519,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
