@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.956812,43.905513],"type":"Point"},"properties":{"EstRest":"11/24/2026 12:30:00 PM","Outages":2761,"county":"CUMBERLAND","customers":182407,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.989412,43.90305],"type":"Point"},"properties":{"EstRest":"11/24/2026 12:00:00 PM","Outages":88,"cause":"","county":"CUMBERLAND","crewstatus":"ONST ","customers":89,"hamlet":"BRUNSWICK","incidentnumber":"0047Y5","incidents":1,"level":"street","opco":"CMP","street":"WILLOW GROVE RD","town":"BRUNSWICK"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.989412,43.90305],"type":"Point"},"properties":{"EstRest":"11/24/2026 12:00:00 PM","Outages":88,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.73016,44.593976],"type":"Point"},"properties":{"EstRest":"11/24/2026 12:30:00 PM","Outages":3,"cause":"","county":"OXFORD","crewstatus":"DISP ","customers":7,"hamlet":"ANDOVER","incidentnumber":"0047ZT","incidents":1,"level":"street","opco":"CMP","street":"COVERED BRIDGE RD","town":"ANDOVER"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.73016,44.593976],"type":"Point"},"properties":{"EstRest":"11/24/2026 12:30:00 PM","Outages":3,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}

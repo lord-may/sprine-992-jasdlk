@@ -23,20 +23,19 @@
 {"geometry":{"coordinates":[-76.7498,40.85858],"type":"Point"},"properties":{"a":"40.85858","cty":"NORTHUMBERLAND","hp":true,"id":8841138,"mun":"UPPER AUGUSTA TWP","nc":155,"ne":{"a":"40.86138","o":"-76.74011"},"o":"-76.7498","sw":{"a":"40.85578","o":"-76.75949"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.298404,40.774152],"type":"Point"},"properties":{"a":"40.774152","cty":"SCHUYLKILL","id":8841143,"mun":"BUTLER TWP","nc":2,"o":"-76.298404"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.250846,41.365178],"type":"Point"},"properties":{"a":"41.365178","cty":"PIKE","id":8841145,"mun":"PALMYRA TWP","nc":4,"o":"-75.250846"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.229828,40.337918],"type":"Point"},"properties":{"a":"40.337918","cty":"BUCKS","id":8841146,"mun":"HILLTOWN TWP","nc":6,"o":"-75.229828"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.793231,40.908593],"type":"Point"},"properties":{"a":"40.908593","cty":"NORTHUMBERLAND","id":8841147,"mun":"POINT TWP","nc":2,"o":"-76.793231"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.285007,41.567575],"type":"Point"},"properties":{"a":"41.567575","cty":"WAYNE","id":8841149,"mun":"TEXAS TWP","nc":3,"o":"-75.285007"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.34331,40.39692],"type":"Point"},"properties":{"a":"40.39692","cty":"BUCKS","hp":true,"id":8841151,"mun":"RICHLAND TWP","nc":37,"ne":{"a":"40.4012","o":"-75.33716"},"o":"-75.34331","sw":{"a":"40.39263","o":"-75.34946"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.573662,40.779476],"type":"Point"},"properties":{"a":"40.779476","cty":"NORTHUMBERLAND","id":8841154,"mun":"COAL TWP","nc":2,"o":"-76.573662"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.297875,40.523905],"type":"Point"},"properties":{"a":"40.523905","cty":"BUCKS","id":8841160,"mun":"SPRINGFIELD TWP","nc":1,"o":"-75.297875"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.061165,41.068472],"type":"Point"},"properties":{"a":"41.068472","cty":"LUZERNE","id":8841163,"mun":"HOLLENBACK TWP","nc":1,"o":"-76.061165"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.112157,40.280992],"type":"Point"},"properties":{"a":"40.280992","cty":"LANCASTER","id":8841166,"mun":"WEST COCALICO TWP","nc":1,"o":"-76.112157"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.744552,41.322474],"type":"Point"},"properties":{"a":"41.322474","cty":"LUZERNE","id":8841168,"mun":"DUPONT BORO","nc":8,"o":"-75.744552"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.484259,40.673465],"type":"Point"},"properties":{"a":"40.673465","cty":"NORTHAMPTON","id":8841169,"mun":"NORTHAMPTON BORO","nc":7,"o":"-75.484259"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.75863,40.92871],"type":"Point"},"properties":{"a":"40.92871","cty":"NORTHUMBERLAND","hp":true,"id":8841172,"mun":"POINT TWP","nc":83,"ne":{"a":"40.93293","o":"-76.75261"},"o":"-76.75863","sw":{"a":"40.9245","o":"-76.76466"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.759939,40.915143],"type":"Point"},"properties":{"a":"40.915143","cty":"NORTHUMBERLAND","id":8841176,"mun":"POINT TWP","nc":5,"o":"-76.759939"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.217052,40.430886],"type":"Point"},"properties":{"a":"40.430886","cty":"PERRY","id":8841177,"mun":"CENTRE TWP","nc":1,"o":"-77.217052"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.832482,40.160735],"type":"Point"},"properties":{"a":"40.160735","cty":"YORK","id":8841178,"mun":"FAIRVIEW TWP","nc":3,"o":"-76.832482"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.870388,40.922318],"type":"Point"},"properties":{"a":"40.922318","cty":"CARBON","id":8841179,"mun":"PACKER TWP","nc":1,"o":"-75.870388"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.538131,41.003823],"type":"Point"},"properties":{"a":"41.003823","cty":"CARBON","id":8841181,"mun":"PENN FOREST TWP","nc":3,"o":"-75.538131"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.872643,41.234496],"type":"Point"},"properties":{"a":"41.234496","cty":"LUZERNE","id":8841183,"mun":"WILKES-BARRE","nc":5,"o":"-75.872643"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.491923,40.663928],"type":"Point"},"properties":{"a":"40.663928","cty":"LEHIGH","id":8841187,"mun":"WHITEHALL TWP","nc":6,"o":"-75.491923"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.74334,41.322253],"type":"Point"},"properties":{"a":"41.322253","cty":"LUZERNE","id":8841188,"mun":"DUPONT BORO","nc":1,"o":"-75.74334"},"type":"Feature"}
 ]}
