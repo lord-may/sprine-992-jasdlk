@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-73.732441,41.301641],"type":"Point"},"properties":{"EstRest":"11/24/2026 9:30:00 AM","Outages":13,"county":"WESTCHESTER","customers":33736,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-73.734868,41.302514],"type":"Point"},"properties":{"EstRest":"11/24/2026 9:30:00 AM","Outages":7,"cause":"","county":"WESTCHESTER","crewstatus":"DISP ","customers":8,"hamlet":"KATONAH","incidentnumber":"011H3C","incidents":1,"level":"street","opco":"NYSEG","street":"LAKEWOOD DR","town":"SOMERS T"},"type":"Feature"}
 ]}
