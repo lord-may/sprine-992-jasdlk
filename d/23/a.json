@@ -6,5 +6,8 @@
 {"geometry":{"coordinates":[-75.472403,40.605256],"type":"Point"},"properties":{"a":"40.605256","cty":"LEHIGH","id":8841062,"mun":"ALLENTOWN","nc":29,"o":"-75.472403"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.201851,41.151688],"type":"Point"},"properties":{"a":"41.151688","cty":"MONROE","id":8841063,"mun":"PRICE TWP","nc":1,"o":"-75.201851"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.293128,40.471113],"type":"Point"},"properties":{"a":"40.471113","cty":"BUCKS","id":8841064,"mun":"HAYCOCK TWP","nc":1,"o":"-75.293128"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.359366,40.296769],"type":"Point"},"properties":{"a":"40.296769","cty":"MONTGOMERY","id":8841065,"mun":"FRANCONIA TWP","nc":2,"o":"-75.359366"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.359366,40.296769],"type":"Point"},"properties":{"a":"40.296769","cty":"MONTGOMERY","id":8841065,"mun":"FRANCONIA TWP","nc":2,"o":"-75.359366"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.6139,40.56372],"type":"Point"},"properties":{"a":"40.56372","cty":"LEHIGH","hp":true,"id":8841068,"mun":"UPPER MACUNGIE TWP","nc":52,"ne":{"a":"40.57099","o":"-75.60622"},"o":"-75.6139","sw":{"a":"40.55645","o":"-75.62159"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.841672,40.28238],"type":"Point"},"properties":{"a":"40.28238","cty":"DAUPHIN","id":8841070,"mun":"SUSQUEHANNA TWP","nc":5,"o":"-76.841672"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.340235,40.669809],"type":"Point"},"properties":{"a":"40.669809","cty":"NORTHAMPTON","id":8841071,"mun":"BETHLEHEM TWP","nc":4,"o":"-75.340235"},"type":"Feature"}
 ]}
