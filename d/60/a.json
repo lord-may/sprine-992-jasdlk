@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-80.13913,40.44234],"type":"Point"},"properties":{"additionalProperties":[{"property":"jobNumber","value":"Job.26.11.23.00108"},{"property":"zips","value":["15205","15136"]},{"property":"counties","value":["ALLEGHENY"]},{"property":"municipalities","value":["MCKEES ROCKS","PITTSBURGH"]}],"cause":"Vehicle Accident","etrTime":1795501800000,"id":2255621,"identifier":"Job.26.11.23.00108_6b04de3b1dd8c73cfe6f5c3d","lastUpdatedTime":1795494615000,"latitude":40.44234,"longitude":-80.13913,"numPeople":804,"startTime":1795481129000,"status":"Crew On-Site Working","title":"Outage"},"type":"Feature"}
+
 ]}

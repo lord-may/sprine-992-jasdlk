@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-68.713263,44.590656],"type":"Point"},"properties":{"EstRest":"11/24/2026 12:00:00 AM","Outages":6,"cause":"","county":"HANCOCK","crewstatus":"ONST ","customers":6,"hamlet":"ORLAND","incidentnumber":"0047WZ","incidents":1,"level":"street","opco":"CMP","street":"RIVERS EDGE LN","town":"ORLAND"},"type":"Feature"},
-{"geometry":{"coordinates":[-68.713696,44.586949],"type":"Point"},"properties":{"EstRest":"11/24/2026 12:00:00 AM","Outages":39,"county":"HANCOCK","customers":6519,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+
 ]}
