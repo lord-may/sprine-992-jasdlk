@@ -22,7 +22,6 @@
 {"geometry":{"coordinates":[-75.461589,41.254316],"type":"Point"},"properties":{"a":"41.254316","cty":"LACKAWANNA","id":8841110,"mun":"CLIFTON TWP","nc":3,"o":"-75.461589"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.249231,40.751005],"type":"Point"},"properties":{"a":"40.751005","cty":"NORTHAMPTON","id":8841111,"mun":"FORKS TWP","nc":8,"o":"-75.249231"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.840043,41.175109],"type":"Point"},"properties":{"a":"41.175109","cty":"LYCOMING","id":8841113,"mun":"CLINTON TWP","nc":6,"o":"-76.840043"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.630906,40.544069],"type":"Point"},"properties":{"a":"40.544069","cty":"LEHIGH","id":8841114,"mun":"UPPER MACUNGIE TWP","nc":8,"o":"-75.630906"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.897133,40.275569],"type":"Point"},"properties":{"a":"40.275569","cty":"DAUPHIN","id":8841115,"mun":"HARRISBURG","nc":1,"o":"-76.897133"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.396873,41.243915],"type":"Point"},"properties":{"a":"41.243915","cty":"COLUMBIA","id":8841118,"mun":"SUGARLOAF TWP","nc":2,"o":"-76.396873"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.018747,41.29841],"type":"Point"},"properties":{"a":"41.29841","cty":"LYCOMING","id":8841120,"mun":"HEPBURN TWP","nc":4,"o":"-77.018747"},"type":"Feature"},
@@ -32,7 +31,14 @@
 {"geometry":{"coordinates":[-76.291634,40.150008],"type":"Point"},"properties":{"a":"40.150008","cty":"LANCASTER","id":8841129,"mun":"WARWICK TWP","nc":10,"o":"-76.291634"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.493576,40.982274],"type":"Point"},"properties":{"a":"40.982274","cty":"COLUMBIA","id":8841130,"mun":"MONTOUR TWP","nc":2,"o":"-76.493576"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.794387,40.908044],"type":"Point"},"properties":{"a":"40.908044","cty":"NORTHUMBERLAND","id":8841131,"mun":"POINT TWP","nc":5,"o":"-76.794387"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.979664,40.17534],"type":"Point"},"properties":{"a":"40.17534","cty":"CUMBERLAND","id":8841132,"mun":"UPPER ALLEN TWP","nc":4,"o":"-76.979664"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.922744,40.709718],"type":"Point"},"properties":{"a":"40.709718","cty":"SNYDER","id":8841133,"mun":"UNION TWP","nc":1,"o":"-76.922744"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.99453,40.901112],"type":"Point"},"properties":{"a":"40.901112","cty":"SCHUYLKILL","id":8841135,"mun":"MCADOO BORO","nc":1,"o":"-75.99453"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.99453,40.901112],"type":"Point"},"properties":{"a":"40.901112","cty":"SCHUYLKILL","id":8841135,"mun":"MCADOO BORO","nc":1,"o":"-75.99453"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.321068,39.922726],"type":"Point"},"properties":{"a":"39.922726","cty":"LANCASTER","id":8841136,"mun":"MARTIC TWP","nc":3,"o":"-76.321068"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.7498,40.85858],"type":"Point"},"properties":{"a":"40.85858","cty":"NORTHUMBERLAND","hp":true,"id":8841138,"mun":"UPPER AUGUSTA TWP","nc":155,"ne":{"a":"40.86138","o":"-76.74011"},"o":"-76.7498","sw":{"a":"40.85578","o":"-76.75949"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.033724,40.691633],"type":"Point"},"properties":{"a":"40.691633","cty":"SCHUYLKILL","id":8841139,"mun":"EAST BRUNSWICK TWP","nc":1,"o":"-76.033724"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.344566,40.39544],"type":"Point"},"properties":{"a":"40.39544","cty":"BUCKS","id":8841140,"mun":"WEST ROCKHILL TWP","nc":1,"o":"-75.344566"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.298404,40.774152],"type":"Point"},"properties":{"a":"40.774152","cty":"SCHUYLKILL","id":8841143,"mun":"BUTLER TWP","nc":2,"o":"-76.298404"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.250846,41.365178],"type":"Point"},"properties":{"a":"41.365178","cty":"PIKE","id":8841145,"mun":"PALMYRA TWP","nc":4,"o":"-75.250846"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.229828,40.337918],"type":"Point"},"properties":{"a":"40.337918","cty":"BUCKS","id":8841146,"mun":"HILLTOWN TWP","nc":6,"o":"-75.229828"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.793231,40.908593],"type":"Point"},"properties":{"a":"40.908593","cty":"NORTHUMBERLAND","id":8841147,"mun":"POINT TWP","nc":2,"o":"-76.793231"},"type":"Feature"}
 ]}
