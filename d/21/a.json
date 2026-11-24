@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.521321,44.154146],"type":"Point"},"properties":{"EstRest":"11/23/2026 8:45:00 PM","Outages":10,"cause":"","county":"OXFORD","crewstatus":"ONST ","customers":10,"hamlet":"OXFORD","incidentnumber":"0047WW","incidents":1,"level":"street","opco":"CMP","street":"OLIVER RD","town":"OXFORD"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.521321,44.154146],"type":"Point"},"properties":{"EstRest":"11/23/2026 8:45:00 PM","Outages":202,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.600023,43.664833],"type":"Point"},"properties":{"EstRest":"11/23/2026 8:30:00 PM","Outages":1,"cause":"","county":"YORK","crewstatus":"ONST ","customers":172,"hamlet":"BUXTON","incidentnumber":"0047WU","incidents":1,"level":"street","opco":"CMP","street":"RIVER RD","town":"BUXTON"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.600023,43.664833],"type":"Point"},"properties":{"EstRest":"11/23/2026 8:30:00 PM","Outages":1,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
