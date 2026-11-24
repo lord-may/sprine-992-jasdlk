@@ -1,7 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-70.213078,43.557889],"type":"Point"},"properties":{"EstRest":"11/24/2026 3:00:00 PM","Outages":91,"county":"CUMBERLAND","customers":182407,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.203044,43.96872],"type":"Point"},"properties":{"EstRest":"11/24/2026 1:45:00 PM","Outages":10,"county":"KNOX","customers":27251,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.203044,43.96872],"type":"Point"},"properties":{"EstRest":"11/24/2026 1:45:00 PM","Outages":7,"cause":"","county":"KNOX","crewstatus":"DISP ","customers":11,"hamlet":"ST GEORGE","incidentnumber":"00480I","incidents":1,"level":"street","opco":"CMP","street":"SPRUCE LN","town":"ST GEORGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.203044,43.96872],"type":"Point"},"properties":{"EstRest":"11/24/2026 1:45:00 PM","Outages":7,"cause":"","county":"KNOX","crewstatus":"ENRT ","customers":11,"hamlet":"ST GEORGE","incidentnumber":"00480I","incidents":1,"level":"street","opco":"CMP","street":"SPRUCE LN","town":"ST GEORGE"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.73016,44.593976],"type":"Point"},"properties":{"EstRest":"11/24/2026 12:30:00 PM","Outages":3,"cause":"","county":"OXFORD","crewstatus":"DISP ","customers":7,"hamlet":"ANDOVER","incidentnumber":"0047ZT","incidents":1,"level":"street","opco":"CMP","street":"COVERED BRIDGE RD","town":"ANDOVER"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.73016,44.593976],"type":"Point"},"properties":{"EstRest":"11/24/2026 12:30:00 PM","Outages":3,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
