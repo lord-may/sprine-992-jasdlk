@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.986895,41.753774],"type":"Point"},"properties":{"crewAssigned":true,"id":"373922","nbrOut":1,"planned":false,"timeOff":1795529326000},"type":"Feature"},
-{"geometry":{"coordinates":[-76.638735,41.935369],"type":"Point"},"properties":{"crewAssigned":true,"id":"373923","nbrOut":1,"planned":false,"timeOff":1795529606092},"type":"Feature"},
-{"geometry":{"coordinates":[-76.671731,41.994336],"type":"Point"},"properties":{"crewAssigned":true,"id":"373927","nbrOut":39,"planned":false,"timeOff":1795530836000},"type":"Feature"},
-{"geometry":{"coordinates":[-77.727215,41.633214],"type":"Point"},"properties":{"cause":"Utility Contractor ","crewAssigned":true,"id":"373930","nbrOut":11,"planned":false,"timeOff":1795533679000},"type":"Feature"}
+{"geometry":{"coordinates":[-76.671731,41.994336],"type":"Point"},"properties":{"crewAssigned":true,"id":"373927","nbrOut":39,"planned":false,"timeOff":1795530836000},"type":"Feature"}
 ]}
