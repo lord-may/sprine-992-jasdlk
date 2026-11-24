@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.372886,40.12215],"type":"Point"},"properties":{"a":"40.12215","cty":"LANCASTER","id":8840902,"mun":"EAST HEMPFIELD TWP","nc":8,"o":"-76.372886"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.532715,40.919513],"type":"Point"},"properties":{"a":"40.919513","cty":"MONROE","id":8841012,"mun":"POLK TWP","nc":1,"o":"-75.532715"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.532715,40.919513],"type":"Point"},"properties":{"a":"40.919513","cty":"MONROE","id":8841012,"mun":"POLK TWP","nc":1,"o":"-75.532715"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.585889,41.556659],"type":"Point"},"properties":{"a":"41.556659","cty":"LACKAWANNA","id":8841029,"mun":"SCOTT TWP","nc":3,"o":"-75.585889"},"type":"Feature"}
 ]}
