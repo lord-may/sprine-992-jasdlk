@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-80.14334,40.43605],"type":"Point"},"properties":{"additionalProperties":[{"property":"jobNumber","value":"Job.26.11.23.00108"},{"property":"zips","value":["15205"]},{"property":"counties","value":["ALLEGHENY"]},{"property":"municipalities","value":["PITTSBURGH"]}],"cause":"Vehicle Accident","etrTime":1795501800000,"id":2255657,"identifier":"Job.26.11.23.00108_6b0518531dd8c73cfe6f78a9","lastUpdatedTime":1795496440000,"latitude":40.43605,"longitude":-80.14334,"numPeople":4,"startTime":1795481129000,"status":"Crew On-Site Working","title":"Outage"},"type":"Feature"}
+
 ]}
