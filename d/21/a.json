@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-70.183498,43.794263],"type":"Point"},"properties":{"EstRest":"11/24/2026 9:15:00 AM","Outages":49,"county":"CUMBERLAND","customers":182407,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.183902,43.793827],"type":"Point"},"properties":{"EstRest":"11/24/2026 9:15:00 AM","Outages":33,"cause":"","county":"CUMBERLAND","crewstatus":"ENRT ","customers":34,"hamlet":"YARMOUTH","incidentnumber":"0047XD","incidents":1,"level":"street","opco":"CMP","street":"RAND RD","town":"YARMOUTH"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.183902,43.793827],"type":"Point"},"properties":{"EstRest":"11/24/2026 9:15:00 AM","Outages":33,"cause":"","county":"CUMBERLAND","crewstatus":"ENRT ","customers":34,"hamlet":"YARMOUTH","incidentnumber":"0047XD","incidents":1,"level":"street","opco":"CMP","street":"RAND RD","town":"YARMOUTH"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.170412,44.271779],"type":"Point"},"properties":{"EstRest":"11/24/2026 9:30:00 AM","Outages":8,"cause":"","county":"KNOX","crewstatus":"     ","customers":9,"hamlet":"HOPE","incidentnumber":"0047XH","incidents":1,"level":"street","opco":"CMP","street":"BULL HILL RD","town":"HOPE"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.170412,44.271779],"type":"Point"},"properties":{"EstRest":"11/24/2026 9:30:00 AM","Outages":8,"county":"KNOX","customers":27251,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
