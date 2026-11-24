@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.952862,43.89996],"type":"Point"},"properties":{"EstRest":"11/24/2026 12:30:00 PM","Outages":4661,"county":"CUMBERLAND","customers":182407,"incidents":3,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.121176,44.106521],"type":"Point"},"properties":{"EstRest":"11/24/2026 11:15:00 AM","Outages":1,"cause":"System Upgrade","county":"KNOX","crewstatus":"ONST ","customers":3,"hamlet":"ROCKLAND","incidentnumber":"0047Y1","incidents":1,"level":"street","opco":"CMP","street":"WOODLAND RD","town":"ROCKLAND"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.121176,44.106521],"type":"Point"},"properties":{"EstRest":"11/24/2026 11:15:00 AM","Outages":1,"county":"KNOX","customers":27251,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.956812,43.905513],"type":"Point"},"properties":{"EstRest":"11/24/2026 12:30:00 PM","Outages":2761,"county":"CUMBERLAND","customers":182407,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.73016,44.593976],"type":"Point"},"properties":{"EstRest":"11/24/2026 12:30:00 PM","Outages":3,"cause":"","county":"OXFORD","crewstatus":"DISP ","customers":7,"hamlet":"ANDOVER","incidentnumber":"0047ZT","incidents":1,"level":"street","opco":"CMP","street":"COVERED BRIDGE RD","town":"ANDOVER"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.73016,44.593976],"type":"Point"},"properties":{"EstRest":"11/24/2026 12:30:00 PM","Outages":3,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
