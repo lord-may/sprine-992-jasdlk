@@ -3,6 +3,5 @@
 {"geometry":{"coordinates":[-75.23583,40.62386],"type":"Point"},"properties":{"a":"40.62386","cty":"NORTHAMPTON","hp":true,"id":8841327,"mun":"WILLIAMS TWP","nc":5,"ne":{"a":"40.626","o":"-75.23382"},"o":"-75.23583","sw":{"a":"40.62172","o":"-75.23784"}},"type":"Feature"},
 {"geometry":{"coordinates":[-77.23834,41.13422],"type":"Point"},"properties":{"a":"41.13422","cty":"LYCOMING","hp":true,"id":8841342,"mun":"LIMESTONE TWP","nc":630,"ne":{"a":"41.16192","o":"-77.19214"},"o":"-77.23834","sw":{"a":"41.10653","o":"-77.28454"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.71703,40.85368],"type":"Point"},"properties":{"a":"40.85368","cty":"NORTHUMBERLAND","hp":true,"id":8841361,"mun":"ROCKEFELLER TWP","nc":45,"ne":{"a":"40.85958","o":"-76.70753"},"o":"-76.71703","sw":{"a":"40.84778","o":"-76.72654"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.197834,41.078826],"type":"Point"},"properties":{"a":"41.078826","cty":"MONROE","id":8841378,"mun":"PRICE TWP","nc":5,"o":"-75.197834"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.868768,40.264596],"type":"Point"},"properties":{"a":"40.264596","cty":"DAUPHIN","id":8841379,"mun":"HARRISBURG","nc":1,"o":"-76.868768"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.505225,40.053046],"type":"Point"},"properties":{"a":"40.053046","cty":"LANCASTER","id":8841382,"mun":"WEST HEMPFIELD TWP","nc":1,"o":"-76.505225"},"type":"Feature"}
 ]}
