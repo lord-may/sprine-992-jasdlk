@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-75.420628,40.950197],"type":"Point"},"properties":{"a":"40.950197","cty":"MONROE","id":8841432,"mun":"CHESTNUT HILL TWP","nc":3,"o":"-75.420628"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.470425,40.6158],"type":"Point"},"properties":{"a":"40.6158","cty":"LEHIGH","id":8841433,"mun":"ALLENTOWN","nc":1,"o":"-75.470425"},"type":"Feature"}
 ]}
