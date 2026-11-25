@@ -1,4 +1,8 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-72.90757,41.50657],"type":"Point"},"properties":{"cluster":false,"cust_a":{"masked":true,"val":4},"etr":"2026-11-25T05:45:00-0500","inc_id":"W6147379-0","start":"2026-11-25T02:14:56-0500","title":"Outage Information"},"type":"Feature"},
-{"geometry":{"coordinates":[-72.61189,42.60213],"type":"Point"},"properties":{"cluster":false,"cust_a":{"val":11},"etr":"2026-11-25T07:30:00-0500","inc_id":"W6147397-0","start":"2026-11-25T04:55:22-0500","title":"Outage Information"},"type":"Feature"}
+{"geometry":{"coordinates":[-72.61189,42.60213],"type":"Point"},"properties":{"cluster":false,"cust_a":{"val":11},"etr":"2026-11-25T07:30:00-0500","inc_id":"W6147397-0","start":"2026-11-25T04:55:22-0500","title":"Outage Information"},"type":"Feature"},
+{"geometry":{"coordinates":[-73.24499,42.44775],"type":"Point"},"properties":{"cluster":false,"cust_a":{"val":16},"etr":"2026-11-25T07:15:00-0500","inc_id":"W6147409-0","start":"2026-11-25T05:09:06-0500","title":"Outage Information"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.26887,42.21813],"type":"Point"},"properties":{"cluster":false,"cust_a":{"masked":true,"val":4},"etr":"2026-11-25T07:15:00-0500","inc_id":"E1550414-0","start":"2026-11-25T05:19:26-0500","title":"Outage Information"},"type":"Feature"},
+{"geometry":{"coordinates":[-73.24071,42.44849],"type":"Point"},"properties":{"cluster":false,"cust_a":{"val":13},"etr":"2026-11-25T08:00:00-0500","inc_id":"W6147419-0","start":"2026-11-25T05:23:33-0500","title":"Outage Information"},"type":"Feature"},
+{"geometry":{"coordinates":[-73.24273,42.44786],"type":"Point"},"properties":{"cluster":false,"cust_a":{"val":28},"etr":"2026-11-25T07:30:00-0500","inc_id":"W6147420-0","start":"2026-11-25T05:23:33-0500","title":"Outage Information"},"type":"Feature"},
+{"geometry":{"coordinates":[-73.24359,42.44793],"type":"Point"},"properties":{"cluster":false,"cust_a":{"masked":true,"val":4},"etr":"2026-11-25T07:30:00-0500","inc_id":"W6147421-0","start":"2026-11-25T05:23:53-0500","title":"Outage Information"},"type":"Feature"}
 ]}
