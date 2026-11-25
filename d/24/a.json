@@ -4,5 +4,10 @@
 {"geometry":{"coordinates":[-71.550697,41.698788],"type":"Point"},"properties":{"a":"41.698788","cty":"KENT","id":20261073990,"mun":"COVENTRY","nc":16,"o":"-71.550697"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.557905,41.697534],"type":"Point"},"properties":{"a":"41.697534","cty":"KENT","id":20261073994,"mun":"COVENTRY","nc":1,"o":"-71.557905"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.82716,41.392885],"type":"Point"},"properties":{"a":"41.392885","cty":"WASHINGTON","id":20261073996,"mun":"WESTERLY","nc":1,"o":"-71.82716"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.499519,41.723335],"type":"Point"},"properties":{"a":"41.723335","cty":"KENT","id":20261073998,"mun":"WEST WARWICK","nc":1,"o":"-71.499519"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.499519,41.723335],"type":"Point"},"properties":{"a":"41.723335","cty":"KENT","id":20261073998,"mun":"WEST WARWICK","nc":1,"o":"-71.499519"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.416851,41.873038],"type":"Point"},"properties":{"a":"41.873038","cty":"PROVIDENCE","id":20261074000,"mun":"PAWTUCKET","nc":1,"o":"-71.416851"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.204524,41.529447],"type":"Point"},"properties":{"a":"41.529447","cty":"NEWPORT","id":20261074001,"mun":"LITTLE COMPTON","nc":3,"o":"-71.204524"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.196473,41.53084],"type":"Point"},"properties":{"a":"41.53084","cty":"NEWPORT","id":20261074002,"mun":"LITTLE COMPTON","nc":1,"o":"-71.196473"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.448696,41.80655],"type":"Point"},"properties":{"a":"41.80655","cty":"PROVIDENCE","id":20261074003,"mun":"CRANSTON","nc":1,"o":"-71.448696"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.301458,41.546137],"type":"Point"},"properties":{"a":"41.546137","cty":"NEWPORT","id":20261074005,"mun":"MIDDLETOWN","nc":1,"o":"-71.301458"},"type":"Feature"}
 ]}

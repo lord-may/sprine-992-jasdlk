@@ -15,5 +15,11 @@
 {"geometry":{"coordinates":[-76.396597,41.161691],"type":"Point"},"properties":{"a":"41.161691","cty":"COLUMBIA","id":8841497,"mun":"FISHING CREEK TWP","nc":1,"o":"-76.396597"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.249622,40.751433],"type":"Point"},"properties":{"a":"40.751433","cty":"NORTHAMPTON","id":8841498,"mun":"FORKS TWP","nc":3,"o":"-75.249622"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.84731,40.923443],"type":"Point"},"properties":{"a":"40.923443","cty":"NORTHUMBERLAND","id":8841499,"mun":"POINT TWP","nc":1,"o":"-76.84731"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.501855,40.609876],"type":"Point"},"properties":{"a":"40.609876","cty":"LEHIGH","id":8841501,"mun":"ALLENTOWN","nc":14,"o":"-75.501855"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.741869,41.326493],"type":"Point"},"properties":{"a":"41.326493","cty":"LUZERNE","id":8841502,"mun":"DUPONT BORO","nc":2,"o":"-75.741869"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.146707,41.040752],"type":"Point"},"properties":{"a":"41.040752","cty":"LUZERNE","id":8841503,"mun":"NESCOPECK TWP","nc":2,"o":"-76.146707"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.120341,39.875692],"type":"Point"},"properties":{"a":"39.875692","cty":"LANCASTER","id":8841508,"mun":"COLERAIN TWP","nc":1,"o":"-76.120341"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.474847,40.625986],"type":"Point"},"properties":{"a":"40.625986","cty":"LEHIGH","id":8841509,"mun":"WHITEHALL TWP","nc":5,"o":"-75.474847"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.51687,41.30923],"type":"Point"},"properties":{"a":"41.30923","cty":"CLINTON","hp":true,"id":8841511,"mun":"GALLAGHER TWP","nc":56,"ne":{"a":"41.32877","o":"-77.48982"},"o":"-77.51687","sw":{"a":"41.28969","o":"-77.54391"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.197567,40.680639],"type":"Point"},"properties":{"a":"40.680639","cty":"SCHUYLKILL","id":8841513,"mun":"POTTSVILLE","nc":19,"o":"-76.197567"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.846202,40.926067],"type":"Point"},"properties":{"a":"40.926067","cty":"NORTHUMBERLAND","id":8841514,"mun":"POINT TWP","nc":9,"o":"-76.846202"},"type":"Feature"}
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-72.088276,41.52425],"type":"Point"},"properties":{"ADDRESS":"36 PEARL ST FL 2, NORWICH, CT, 06360","CUSTOMER_COUNT":38,"DEVICE_OID":18168,"FACILITY_ID":"4584","FEEDER_ID":"512","GDB_GEOMATTR_DATA":"","ID":45250,"INCIDENT_ID":50437,"OBJECTID":7933,"ORIG_FID":null,"REGION":1,"RxOID":18168,"TIME_OUTAGE":"11/25/2026 09:00 AM","TIME_RESTORED_EST":"Is still under review"},"type":"Feature"}
+
 ]}
