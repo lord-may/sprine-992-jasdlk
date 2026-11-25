@@ -2,7 +2,6 @@
 {"geometry":{"coordinates":[-71.5915,41.609345],"type":"Point"},"properties":{"a":"41.609345","cty":"KENT","id":20261073948,"mun":"WEST GREENWICH","nc":1,"o":"-71.5915"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.69042,41.642424],"type":"Point"},"properties":{"a":"41.642424","cty":"KENT","id":20261073957,"mun":"WEST GREENWICH","nc":1,"o":"-71.69042"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.462491,41.853018],"type":"Point"},"properties":{"a":"41.853018","cty":"PROVIDENCE","id":20261073959,"mun":"NORTH PROVIDENCE","nc":8,"o":"-71.462491"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.464273,41.853719],"type":"Point"},"properties":{"a":"41.853719","cty":"PROVIDENCE","id":20261073960,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.464273"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.462767,41.851923],"type":"Point"},"properties":{"a":"41.851923","cty":"PROVIDENCE","id":20261073961,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.462767"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.450539,41.859986],"type":"Point"},"properties":{"a":"41.859986","cty":"PROVIDENCE","id":20261073962,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.450539"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.346116,41.83438],"type":"Point"},"properties":{"a":"41.83438","cty":"PROVIDENCE","id":20261073964,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.346116"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.606499,41.682818],"type":"Point"},"properties":{"a":"41.682818","cty":"KENT","id":20261073965,"mun":"COVENTRY","nc":1,"o":"-71.606499"},"type":"Feature"}
 ]}
