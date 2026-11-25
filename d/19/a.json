@@ -1,3 +1,6 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-73.67854,42.905695],"type":"Point"},"properties":{"EstRest":"11/25/2026 6:45:00 PM","Outages":1,"cause":"","county":"RENSSELAER","crewstatus":"DISP ","customers":2,"hamlet":"MECHANICVILLE","incidentnumber":"011HIW","incidents":1,"level":"street","opco":"NYSEG","street":"N LINCOLN ST","town":"SCHAGHTICOK T"},"type":"Feature"},
+{"geometry":{"coordinates":[-73.67854,42.905695],"type":"Point"},"properties":{"EstRest":"11/25/2026 6:45:00 PM","Outages":4,"county":"RENSSELAER","customers":11133,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-73.67854,42.905695],"type":"Point"},"properties":{"EstRest":"11/25/2026 6:45:00 PM","Outages":1,"cause":"","county":"SARATOGA","crewstatus":"DISP ","customers":1,"hamlet":"MECHANICVILLE","incidentnumber":"011HIW","incidents":1,"level":"street","opco":"NYSEG","street":"N LINCOLN AVE","town":"SCHAGHTICOK T"},"type":"Feature"},
+{"geometry":{"coordinates":[-73.67854,42.905695],"type":"Point"},"properties":{"EstRest":"11/25/2026 6:45:00 PM","Outages":1,"county":"SARATOGA","customers":20390,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
