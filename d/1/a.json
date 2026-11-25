@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-73.87157,40.94554],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"ASN","cust_a":{"val":1},"etr":"ETR-NULL","outages":null,"reported_problem":"Partial Outage","title":"Outage Information"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.87199,40.65674],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"NEW","cust_a":{"val":1},"etr":"2026-11-24T22:00:00-0500","outages":null,"reported_problem":null,"title":"Outage Information"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.90868,40.83582],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"ASN","cust_a":{"val":1},"etr":"ETR-NULL","outages":null,"reported_problem":"Burning Wires","title":"Outage Information"},"type":"Feature"}
+{"geometry":{"coordinates":[-73.91428,40.7022],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"NEW","cust_a":{"val":1},"etr":"ETR-NULL","outages":null,"reported_problem":"Partial Outage","title":"Outage Information"},"type":"Feature"},
+{"geometry":{"coordinates":[-73.95043,40.71318],"type":"Point"},"properties":{"cause":"Not Supplied","cluster":false,"crew_status":"DSP","cust_a":{"val":1},"etr":"2026-11-24T23:00:00-0500","outages":null,"reported_problem":"Partial Outage","title":"Outage Information"},"type":"Feature"}
 ]}
