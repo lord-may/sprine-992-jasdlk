@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.381676,41.886814],"type":"Point"},"properties":{"a":"41.886814","cty":"PROVIDENCE","id":20261073932,"mun":"CENTRAL FALLS","nc":1,"o":"-71.381676"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.474501,41.790238],"type":"Point"},"properties":{"a":"41.790238","cty":"PROVIDENCE","id":20261073934,"mun":"CRANSTON","nc":1,"o":"-71.474501"},"type":"Feature"}
 ]}
