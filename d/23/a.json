@@ -3,5 +3,7 @@
 {"geometry":{"coordinates":[-75.752639,41.461817],"type":"Point"},"properties":{"a":"41.461817","cty":"LACKAWANNA","id":8841438,"mun":"NEWTON TWP","nc":1,"o":"-75.752639"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.808002,40.251014],"type":"Point"},"properties":{"a":"40.251014","cty":"DAUPHIN","id":8841439,"mun":"SWATARA TWP","nc":1,"o":"-76.808002"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.912359,40.845213],"type":"Point"},"properties":{"a":"40.845213","cty":"CARBON","id":8841440,"mun":"NESQUEHONING BORO","nc":4,"o":"-75.912359"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.550444,40.562156],"type":"Point"},"properties":{"a":"40.562156","cty":"LEHIGH","id":8841441,"mun":"LOWER MACUNGIE TWP","nc":7,"o":"-75.550444"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.250203,40.751801],"type":"Point"},"properties":{"a":"40.751801","cty":"NORTHAMPTON","id":8841443,"mun":"FORKS TWP","nc":1,"o":"-75.250203"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.473696,40.623139],"type":"Point"},"properties":{"a":"40.623139","cty":"LEHIGH","id":8841445,"mun":"WHITEHALL TWP","nc":20,"o":"-75.473696"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.770318,40.265612],"type":"Point"},"properties":{"a":"40.265612","cty":"DAUPHIN","id":8841448,"mun":"SWATARA TWP","nc":11,"o":"-76.770318"},"type":"Feature"}
 ]}
