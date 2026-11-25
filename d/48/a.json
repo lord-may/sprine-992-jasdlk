@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-72.072462,41.52948],"type":"Point"},"properties":{"ADDRESS":"40 BOSWELL AVE APT 3, NORWICH, CT, 06360","CUSTOMER_COUNT":3,"DEVICE_OID":179760,"FACILITY_ID":null,"FEEDER_ID":null,"GDB_GEOMATTR_DATA":"","ID":45253,"INCIDENT_ID":50440,"OBJECTID":7944,"ORIG_FID":null,"REGION":1,"RxOID":179760,"TIME_OUTAGE":"11/25/2026 11:27 AM","TIME_RESTORED_EST":"Is still under review"},"type":"Feature"}
+{"geometry":{"coordinates":[-72.072462,41.52948],"type":"Point"},"properties":{"ADDRESS":"40 BOSWELL AVE APT 3, NORWICH, CT, 06360","CUSTOMER_COUNT":3,"DEVICE_OID":179760,"FACILITY_ID":null,"FEEDER_ID":null,"GDB_GEOMATTR_DATA":"","ID":45253,"INCIDENT_ID":50440,"OBJECTID":7945,"ORIG_FID":null,"REGION":1,"RxOID":179760,"TIME_OUTAGE":"11/25/2026 11:27 AM","TIME_RESTORED_EST":"Is still under review"},"type":"Feature"}
 ]}
