@@ -1,7 +1,7 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.846202,40.926067],"type":"Point"},"properties":{"a":"40.926067","cty":"NORTHUMBERLAND","id":8841514,"mun":"POINT TWP","nc":9,"o":"-76.846202"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.845866,40.921507],"type":"Point"},"properties":{"a":"40.921507","cty":"NORTHUMBERLAND","id":8841542,"mun":"POINT TWP","nc":1,"o":"-76.845866"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.352103,40.659778],"type":"Point"},"properties":{"a":"40.659778","cty":"NORTHAMPTON","id":8841571,"mun":"BETHLEHEM","nc":1,"o":"-75.352103"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.451695,41.115382],"type":"Point"},"properties":{"a":"41.115382","cty":"COLUMBIA","id":8841637,"mun":"ORANGE TWP","nc":4,"o":"-76.451695"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.65966,40.86855],"type":"Point"},"properties":{"a":"40.86855","cty":"CARBON","hp":true,"id":8841642,"mun":"FRANKLIN TWP","nc":571,"ne":{"a":"40.88707","o":"-75.6367"},"o":"-75.65966","sw":{"a":"40.85004","o":"-75.68262"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.65966,40.86855],"type":"Point"},"properties":{"a":"40.86855","cty":"CARBON","hp":true,"id":8841642,"mun":"FRANKLIN TWP","nc":571,"ne":{"a":"40.88707","o":"-75.6367"},"o":"-75.65966","sw":{"a":"40.85004","o":"-75.68262"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.741578,40.317914],"type":"Point"},"properties":{"a":"40.317914","cty":"DAUPHIN","id":8841647,"mun":"WEST HANOVER TWP","nc":1,"o":"-76.741578"},"type":"Feature"}
 ]}
