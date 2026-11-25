@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.420628,40.950197],"type":"Point"},"properties":{"a":"40.950197","cty":"MONROE","id":8841432,"mun":"CHESTNUT HILL TWP","nc":3,"o":"-75.420628"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.321262,41.081462],"type":"Point"},"properties":{"a":"41.081462","cty":"MONROE","id":8841435,"mun":"POCONO TWP","nc":3,"o":"-75.321262"},"type":"Feature"}
+
 ]}
