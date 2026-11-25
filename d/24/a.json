@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.364582,41.506053],"type":"Point"},"properties":{"a":"41.506053","cty":"NEWPORT","id":20261074111,"mun":"JAMESTOWN","nc":1,"o":"-71.364582"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.395879,41.927588],"type":"Point"},"properties":{"a":"41.927588","cty":"PROVIDENCE","id":20261074119,"mun":"CUMBERLAND","nc":14,"o":"-71.395879"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.258517,41.55367],"type":"Point"},"properties":{"a":"41.55367","cty":"NEWPORT","id":20261074120,"mun":"PORTSMOUTH","nc":1,"o":"-71.258517"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.258517,41.55367],"type":"Point"},"properties":{"a":"41.55367","cty":"NEWPORT","id":20261074120,"mun":"PORTSMOUTH","nc":1,"o":"-71.258517"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.358164,41.886949],"type":"Point"},"properties":{"a":"41.886949","cty":"PROVIDENCE","id":20261074124,"mun":"PAWTUCKET","nc":1,"o":"-71.358164"},"type":"Feature"}
 ]}
