@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.240393,44.1076],"type":"Point"},"properties":{"EstRest":"11/24/2026 10:15:00 PM","Outages":15,"cause":"Equipment Interruption","county":"ANDROSCOGGIN","crewstatus":"ONST ","customers":18,"hamlet":"AUBURN","incidentnumber":"00482O","incidents":1,"level":"street","opco":"CMP","street":"COACHMAN AVE","town":"AUBURN"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.240393,44.1076],"type":"Point"},"properties":{"EstRest":"11/24/2026 10:15:00 PM","Outages":20,"county":"ANDROSCOGGIN","customers":59602,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.240393,44.1076],"type":"Point"},"properties":{"EstRest":"11/25/2026 3:00:00 AM","Outages":15,"cause":"Equipment Interruption","county":"ANDROSCOGGIN","crewstatus":"ONST ","customers":18,"hamlet":"AUBURN","incidentnumber":"00482O","incidents":1,"level":"street","opco":"CMP","street":"COACHMAN AVE","town":"AUBURN"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.240393,44.1076],"type":"Point"},"properties":{"EstRest":"11/25/2026 3:00:00 AM","Outages":20,"county":"ANDROSCOGGIN","customers":59602,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
