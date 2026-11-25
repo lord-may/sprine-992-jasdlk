@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-71.428045,41.585765],"type":"Point"},"properties":{"a":"41.585765","cty":"WASHINGTON","id":20261074091,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.428045"},"type":"Feature"}
 ]}
