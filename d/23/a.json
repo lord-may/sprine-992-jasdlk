@@ -1,9 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.51687,41.30923],"type":"Point"},"properties":{"a":"41.30923","cty":"CLINTON","hp":true,"id":8841511,"mun":"GALLAGHER TWP","nc":56,"ne":{"a":"41.32877","o":"-77.48982"},"o":"-77.51687","sw":{"a":"41.28969","o":"-77.54391"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.846202,40.926067],"type":"Point"},"properties":{"a":"40.926067","cty":"NORTHUMBERLAND","id":8841514,"mun":"POINT TWP","nc":9,"o":"-76.846202"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.481215,40.600421],"type":"Point"},"properties":{"a":"40.600421","cty":"LEHIGH","id":8841529,"mun":"ALLENTOWN","nc":1,"o":"-75.481215"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.845866,40.921507],"type":"Point"},"properties":{"a":"40.921507","cty":"NORTHUMBERLAND","id":8841542,"mun":"POINT TWP","nc":1,"o":"-76.845866"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.352103,40.659778],"type":"Point"},"properties":{"a":"40.659778","cty":"NORTHAMPTON","id":8841571,"mun":"BETHLEHEM","nc":1,"o":"-75.352103"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.35254,40.659907],"type":"Point"},"properties":{"a":"40.659907","cty":"NORTHAMPTON","id":8841577,"mun":"BETHLEHEM","nc":2,"o":"-75.35254"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.320449,40.026862],"type":"Point"},"properties":{"a":"40.026862","cty":"LANCASTER","id":8841626,"mun":"LANCASTER","nc":8,"o":"-76.320449"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.352103,40.659778],"type":"Point"},"properties":{"a":"40.659778","cty":"NORTHAMPTON","id":8841571,"mun":"BETHLEHEM","nc":1,"o":"-75.352103"},"type":"Feature"}
 ]}
