@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-72.570136,44.274472],"type":"Point"},"properties":{"active":true,"affectingCustomers":true,"cause":152,"county":"Washington","crew_name":",MONT-KELLYMONT-JONES","customers_affected":24,"customers_affected_label":"24 Customers","device":"FUSE","etor":"2026-11-24T21:00-05:00","has_etor":1,"incident_id":1018809,"status":"CREW_ASSIGNED","street":"CUMMINGS ST","town":"Montpelier","trouble":"NO_POWER"},"type":"Feature"}
+
 ]}
