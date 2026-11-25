@@ -1,7 +1,8 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.23583,40.62386],"type":"Point"},"properties":{"a":"40.62386","cty":"NORTHAMPTON","hp":true,"id":8841327,"mun":"WILLIAMS TWP","nc":5,"ne":{"a":"40.626","o":"-75.23382"},"o":"-75.23583","sw":{"a":"40.62172","o":"-75.23784"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.553291,40.565381],"type":"Point"},"properties":{"a":"40.565381","cty":"LEHIGH","id":8841400,"mun":"LOWER MACUNGIE TWP","nc":9,"o":"-75.553291"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.453358,40.578359],"type":"Point"},"properties":{"a":"40.578359","cty":"LEHIGH","id":8841409,"mun":"ALLENTOWN","nc":12,"o":"-75.453358"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.166208,40.176696],"type":"Point"},"properties":{"a":"40.176696","cty":"LANCASTER","id":8841411,"mun":"EPHRATA TWP","nc":2,"o":"-76.166208"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.321262,41.081462],"type":"Point"},"properties":{"a":"41.081462","cty":"MONROE","id":8841416,"mun":"POCONO TWP","nc":3,"o":"-75.321262"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.89481,41.23474],"type":"Point"},"properties":{"a":"41.23474","cty":"LUZERNE","hp":true,"id":8841417,"mun":"WILKES-BARRE","nc":574,"ne":{"a":"41.23722","o":"-75.89087"},"o":"-75.89481","sw":{"a":"41.23226","o":"-75.89876"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.580336,40.601559],"type":"Point"},"properties":{"a":"40.601559","cty":"LEHIGH","id":8841420,"mun":"SOUTH WHITEHALL TWP","nc":9,"o":"-75.580336"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.871873,41.237875],"type":"Point"},"properties":{"a":"41.237875","cty":"LUZERNE","id":8841421,"mun":"WILKES-BARRE","nc":1,"o":"-75.871873"},"type":"Feature"}
 ]}
