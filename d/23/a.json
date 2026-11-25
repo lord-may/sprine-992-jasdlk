@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.553291,40.565381],"type":"Point"},"properties":{"a":"40.565381","cty":"LEHIGH","id":8841400,"mun":"LOWER MACUNGIE TWP","nc":9,"o":"-75.553291"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.453358,40.578359],"type":"Point"},"properties":{"a":"40.578359","cty":"LEHIGH","id":8841409,"mun":"ALLENTOWN","nc":12,"o":"-75.453358"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.89481,41.23474],"type":"Point"},"properties":{"a":"41.23474","cty":"LUZERNE","hp":true,"id":8841417,"mun":"WILKES-BARRE","nc":574,"ne":{"a":"41.23722","o":"-75.89087"},"o":"-75.89481","sw":{"a":"41.23226","o":"-75.89876"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.574872,41.096362],"type":"Point"},"properties":{"a":"41.096362","cty":"MONROE","id":8841422,"mun":"TOBYHANNA TWP","nc":2,"o":"-75.574872"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.89481,41.23474],"type":"Point"},"properties":{"a":"41.23474","cty":"LUZERNE","hp":true,"id":8841417,"mun":"WILKES-BARRE","nc":574,"ne":{"a":"41.23722","o":"-75.89087"},"o":"-75.89481","sw":{"a":"41.23226","o":"-75.89876"}},"type":"Feature"}
 ]}
