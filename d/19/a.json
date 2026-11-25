@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.399929,42.541387],"type":"Point"},"properties":{"EstRest":"11/25/2026 12:00:00 AM","Outages":129,"county":"CHENANGO","customers":23228,"incidents":2,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.3601,42.608326],"type":"Point"},"properties":{"EstRest":"11/24/2026 11:00:00 PM","Outages":128,"county":"CHENANGO","customers":23228,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.411942,42.615619],"type":"Point"},"properties":{"EstRest":"11/24/2026 11:00:00 PM","Outages":8,"cause":"","county":"CHENANGO","crewstatus":"ONST ","customers":8,"hamlet":"SOUTH NEW BERLIN","incidentnumber":"011HC0","incidents":1,"level":"street","opco":"NYSEG","street":"COUNTY ROAD 29","town":"NEW BERLIN T"},"type":"Feature"},
 {"geometry":{"coordinates":[-73.777758,41.281306],"type":"Point"},"properties":{"EstRest":"11/25/2026 12:00:00 AM","Outages":9,"cause":"","county":"WESTCHESTER","crewstatus":"ONST ","customers":37,"hamlet":"YORKTOWN HEIGHTS","incidentnumber":"011HBF","incidents":1,"level":"street","opco":"NYSEG","street":"BROOKSIDE AVE","town":"YORKTOWN T"},"type":"Feature"},
 {"geometry":{"coordinates":[-73.777758,41.281306],"type":"Point"},"properties":{"EstRest":"11/25/2026 12:00:00 AM","Outages":9,"county":"WESTCHESTER","customers":33736,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
