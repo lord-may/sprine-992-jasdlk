@@ -8,5 +8,6 @@
 {"geometry":{"coordinates":[-76.113958,40.315533],"type":"Point"},"properties":{"a":"40.315533","cty":"BERKS","id":8841450,"mun":"SOUTH HEIDELBERG TWP","nc":2,"o":"-76.113958"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.30787,41.03281],"type":"Point"},"properties":{"a":"41.03281","cty":"MONROE","hp":true,"id":8841452,"mun":"POCONO TWP","nc":12,"ne":{"a":"41.03354","o":"-75.30591"},"o":"-75.30787","sw":{"a":"41.03208","o":"-75.30983"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.219545,41.435174],"type":"Point"},"properties":{"a":"41.435174","cty":"WAYNE","id":8841454,"mun":"PAUPACK TWP","nc":2,"o":"-75.219545"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.106442,40.450235],"type":"Point"},"properties":{"a":"40.450235","cty":"PERRY","id":8841456,"mun":"MILLER TWP","nc":2,"o":"-77.106442"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.106442,40.450235],"type":"Point"},"properties":{"a":"40.450235","cty":"PERRY","id":8841456,"mun":"MILLER TWP","nc":2,"o":"-77.106442"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.741606,41.325919],"type":"Point"},"properties":{"a":"41.325919","cty":"LUZERNE","id":8841463,"mun":"DUPONT BORO","nc":2,"o":"-75.741606"},"type":"Feature"}
 ]}
