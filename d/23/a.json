@@ -1,7 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.741578,40.317914],"type":"Point"},"properties":{"a":"40.317914","cty":"DAUPHIN","id":8841647,"mun":"WEST HANOVER TWP","nc":1,"o":"-76.741578"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.23631,41.069818],"type":"Point"},"properties":{"a":"41.069818","cty":"COLUMBIA","id":8841656,"mun":"BERWICK BORO","nc":5,"o":"-76.23631"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.354132,41.22128],"type":"Point"},"properties":{"a":"41.22128","cty":"MONROE","id":8841699,"mun":"COOLBAUGH TWP","nc":1,"o":"-75.354132"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.318767,40.04315],"type":"Point"},"properties":{"a":"40.04315","cty":"LANCASTER","id":8841705,"mun":"LANCASTER","nc":34,"o":"-76.318767"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.439788,40.626749],"type":"Point"},"properties":{"a":"40.626749","cty":"LEHIGH","id":8841708,"mun":"ALLENTOWN","nc":7,"o":"-75.439788"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.318767,40.04315],"type":"Point"},"properties":{"a":"40.04315","cty":"LANCASTER","id":8841705,"mun":"LANCASTER","nc":34,"o":"-76.318767"},"type":"Feature"}
 ]}
