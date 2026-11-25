@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.23583,40.62386],"type":"Point"},"properties":{"a":"40.62386","cty":"NORTHAMPTON","hp":true,"id":8841327,"mun":"WILLIAMS TWP","nc":5,"ne":{"a":"40.626","o":"-75.23382"},"o":"-75.23583","sw":{"a":"40.62172","o":"-75.23784"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.553291,40.565381],"type":"Point"},"properties":{"a":"40.565381","cty":"LEHIGH","id":8841400,"mun":"LOWER MACUNGIE TWP","nc":9,"o":"-75.553291"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.860736,41.247545],"type":"Point"},"properties":{"a":"41.247545","cty":"LUZERNE","id":8841403,"mun":"WILKES-BARRE","nc":1,"o":"-75.860736"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.860736,41.247545],"type":"Point"},"properties":{"a":"41.247545","cty":"LUZERNE","id":8841403,"mun":"WILKES-BARRE","nc":1,"o":"-75.860736"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.327203,40.036594],"type":"Point"},"properties":{"a":"40.036594","cty":"LANCASTER","id":8841405,"mun":"LANCASTER TWP","nc":13,"o":"-76.327203"},"type":"Feature"}
 ]}
