@@ -12,6 +12,6 @@
 {"geometry":{"coordinates":[-75.352103,40.659778],"type":"Point"},"properties":{"a":"40.659778","cty":"NORTHAMPTON","id":8841571,"mun":"BETHLEHEM","nc":1,"o":"-75.352103"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.35254,40.659907],"type":"Point"},"properties":{"a":"40.659907","cty":"NORTHAMPTON","id":8841577,"mun":"BETHLEHEM","nc":2,"o":"-75.35254"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.303664,40.31419],"type":"Point"},"properties":{"a":"40.31419","cty":"BUCKS","id":8841588,"mun":"HILLTOWN TWP","nc":1,"o":"-75.303664"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.53287,40.64558],"type":"Point"},"properties":{"a":"40.64558","cty":"SCHUYLKILL","id":8841590,"mun":"HEGINS TWP","nc":6,"o":"-76.53287"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.180068,39.908011],"type":"Point"},"properties":{"a":"39.908011","cty":"LANCASTER","id":8841594,"mun":"PROVIDENCE TWP","nc":7,"o":"-76.180068"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.503372,41.568163],"type":"Point"},"properties":{"a":"41.568163","cty":"LACKAWANNA","id":8841599,"mun":"CARBONDALE","nc":1,"o":"-75.503372"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.314392,40.281463],"type":"Point"},"properties":{"a":"40.281463","cty":"MONTGOMERY","id":8841601,"mun":"HATFIELD TWP","nc":4,"o":"-75.314392"},"type":"Feature"}
 ]}
