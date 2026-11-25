@@ -4,5 +4,5 @@
 {"geometry":{"coordinates":[-71.445633,41.953193],"type":"Point"},"properties":{"a":"41.953193","cty":"PROVIDENCE","id":20261074021,"mun":"CUMBERLAND","nc":8,"o":"-71.445633"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.575079,41.703183],"type":"Point"},"properties":{"a":"41.703183","cty":"KENT","id":20261074030,"mun":"COVENTRY","nc":5,"o":"-71.575079"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.306087,41.494229],"type":"Point"},"properties":{"a":"41.494229","cty":"NEWPORT","id":20261074042,"mun":"NEWPORT","nc":22,"o":"-71.306087"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.755994,41.335284],"type":"Point"},"properties":{"a":"41.335284","cty":"WASHINGTON","id":20261074049,"mun":"WESTERLY","nc":3,"o":"-71.755994"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.474695,41.799406],"type":"Point"},"properties":{"a":"41.799406","cty":"PROVIDENCE","id":20261074055,"mun":"JOHNSTON","nc":1,"o":"-71.474695"},"type":"Feature"}
 ]}

@@ -15,9 +15,10 @@
 {"geometry":{"coordinates":[-75.34857,41.29164],"type":"Point"},"properties":{"a":"41.29164","cty":"WAYNE","hp":true,"id":8841517,"mun":"DREHER TWP","nc":109,"ne":{"a":"41.29599","o":"-75.33174"},"o":"-75.34857","sw":{"a":"41.28728","o":"-75.3654"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.979007,40.322541],"type":"Point"},"properties":{"a":"40.322541","cty":"BERKS","id":8841528,"mun":"WYOMISSING BORO","nc":3,"o":"-75.979007"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.481215,40.600421],"type":"Point"},"properties":{"a":"40.600421","cty":"LEHIGH","id":8841529,"mun":"ALLENTOWN","nc":1,"o":"-75.481215"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.903413,40.92664],"type":"Point"},"properties":{"a":"40.92664","cty":"CARBON","id":8841538,"mun":"BANKS TWP","nc":1,"o":"-75.903413"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.845866,40.921507],"type":"Point"},"properties":{"a":"40.921507","cty":"NORTHUMBERLAND","id":8841542,"mun":"POINT TWP","nc":1,"o":"-76.845866"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.493241,41.39135],"type":"Point"},"properties":{"a":"41.39135","cty":"LACKAWANNA","id":8841558,"mun":"JEFFERSON TWP","nc":1,"o":"-75.493241"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.25478,39.99205],"type":"Point"},"properties":{"a":"39.99205","cty":"LANCASTER","hp":true,"id":8841570,"mun":"WEST LAMPETER TWP","nc":138,"ne":{"a":"40.00336","o":"-76.24206"},"o":"-76.25478","sw":{"a":"39.98074","o":"-76.26751"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.352103,40.659778],"type":"Point"},"properties":{"a":"40.659778","cty":"NORTHAMPTON","id":8841571,"mun":"BETHLEHEM","nc":1,"o":"-75.352103"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.352103,40.659778],"type":"Point"},"properties":{"a":"40.659778","cty":"NORTHAMPTON","id":8841571,"mun":"BETHLEHEM","nc":1,"o":"-75.352103"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.275733,40.083141],"type":"Point"},"properties":{"a":"40.083141","cty":"LANCASTER","id":8841576,"mun":"MANHEIM TWP","nc":4,"o":"-76.275733"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.35254,40.659907],"type":"Point"},"properties":{"a":"40.659907","cty":"NORTHAMPTON","id":8841577,"mun":"BETHLEHEM","nc":2,"o":"-75.35254"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.447158,40.97685],"type":"Point"},"properties":{"a":"40.97685","cty":"COLUMBIA","id":8841579,"mun":"CATAWISSA TWP","nc":3,"o":"-76.447158"},"type":"Feature"}
 ]}
