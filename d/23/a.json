@@ -6,7 +6,6 @@
 {"geometry":{"coordinates":[-75.741606,41.325919],"type":"Point"},"properties":{"a":"41.325919","cty":"LUZERNE","id":8841463,"mun":"DUPONT BORO","nc":2,"o":"-75.741606"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.460108,41.252216],"type":"Point"},"properties":{"a":"41.252216","cty":"LACKAWANNA","id":8841467,"mun":"CLIFTON TWP","nc":3,"o":"-75.460108"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.036204,40.934411],"type":"Point"},"properties":{"a":"40.934411","cty":"UNION","id":8841472,"mun":"WEST BUFFALO TWP","nc":1,"o":"-77.036204"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.276507,40.56561],"type":"Point"},"properties":{"a":"40.56561","cty":"BUCKS","id":8841481,"mun":"SPRINGFIELD TWP","nc":1,"o":"-75.276507"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.972333,40.968243],"type":"Point"},"properties":{"a":"40.968243","cty":"LUZERNE","id":8841484,"mun":"HAZLETON","nc":7,"o":"-75.972333"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.14467,40.809535],"type":"Point"},"properties":{"a":"40.809535","cty":"SCHUYLKILL","id":8841486,"mun":"MAHANOY TWP","nc":22,"o":"-76.14467"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.0695,40.821074],"type":"Point"},"properties":{"a":"40.821074","cty":"SCHUYLKILL","id":8841491,"mun":"RYAN TWP","nc":5,"o":"-76.0695"},"type":"Feature"},
@@ -21,5 +20,14 @@
 {"geometry":{"coordinates":[-75.474847,40.625986],"type":"Point"},"properties":{"a":"40.625986","cty":"LEHIGH","id":8841509,"mun":"WHITEHALL TWP","nc":5,"o":"-75.474847"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.51687,41.30923],"type":"Point"},"properties":{"a":"41.30923","cty":"CLINTON","hp":true,"id":8841511,"mun":"GALLAGHER TWP","nc":56,"ne":{"a":"41.32877","o":"-77.48982"},"o":"-77.51687","sw":{"a":"41.28969","o":"-77.54391"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.197567,40.680639],"type":"Point"},"properties":{"a":"40.680639","cty":"SCHUYLKILL","id":8841513,"mun":"POTTSVILLE","nc":19,"o":"-76.197567"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.846202,40.926067],"type":"Point"},"properties":{"a":"40.926067","cty":"NORTHUMBERLAND","id":8841514,"mun":"POINT TWP","nc":9,"o":"-76.846202"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.846202,40.926067],"type":"Point"},"properties":{"a":"40.926067","cty":"NORTHUMBERLAND","id":8841514,"mun":"POINT TWP","nc":9,"o":"-76.846202"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.82755,41.03959],"type":"Point"},"properties":{"a":"41.03959","cty":"LUZERNE","hp":true,"id":8841515,"mun":"FOSTER TWP","nc":20,"ne":{"a":"41.04075","o":"-75.82658"},"o":"-75.82755","sw":{"a":"41.03843","o":"-75.82851"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.34857,41.29164],"type":"Point"},"properties":{"a":"41.29164","cty":"WAYNE","hp":true,"id":8841517,"mun":"DREHER TWP","nc":109,"ne":{"a":"41.29599","o":"-75.33174"},"o":"-75.34857","sw":{"a":"41.28728","o":"-75.3654"}},"type":"Feature"},
+{"geometry":{"coordinates":[-74.907203,41.417725],"type":"Point"},"properties":{"a":"41.417725","cty":"PIKE","id":8841519,"mun":"SHOHOLA TWP","nc":3,"o":"-74.907203"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.275733,40.083141],"type":"Point"},"properties":{"a":"40.083141","cty":"LANCASTER","id":8841521,"mun":"MANHEIM TWP","nc":4,"o":"-76.275733"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.347774,41.253556],"type":"Point"},"properties":{"a":"41.253556","cty":"WAYNE","id":8841523,"mun":"DREHER TWP","nc":5,"o":"-75.347774"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.478346,40.62708],"type":"Point"},"properties":{"a":"40.62708","cty":"LEHIGH","id":8841525,"mun":"WHITEHALL TWP","nc":1,"o":"-75.478346"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.470829,40.599303],"type":"Point"},"properties":{"a":"40.599303","cty":"LEHIGH","id":8841527,"mun":"ALLENTOWN","nc":1,"o":"-75.470829"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.979007,40.322541],"type":"Point"},"properties":{"a":"40.322541","cty":"BERKS","id":8841528,"mun":"WYOMISSING BORO","nc":3,"o":"-75.979007"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.481215,40.600421],"type":"Point"},"properties":{"a":"40.600421","cty":"LEHIGH","id":8841529,"mun":"ALLENTOWN","nc":1,"o":"-75.481215"},"type":"Feature"}
 ]}
