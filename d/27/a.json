@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.89944,41.712693],"type":"Point"},"properties":{"id":"366399","nbrOut":1,"planned":false,"timeOff":1795634013000},"type":"Feature"}
+{"geometry":{"coordinates":[-75.899664,41.712613],"type":"Point"},"properties":{"comment":"CREW DISPATCHED","estimateTime":1795646688000,"id":"366399","nbrOut":1,"planned":false,"timeOff":1795634013000},"type":"Feature"}
 ]}

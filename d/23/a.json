@@ -1,8 +1,8 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.845866,40.921507],"type":"Point"},"properties":{"a":"40.921507","cty":"NORTHUMBERLAND","id":8841542,"mun":"POINT TWP","nc":1,"o":"-76.845866"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.352103,40.659778],"type":"Point"},"properties":{"a":"40.659778","cty":"NORTHAMPTON","id":8841571,"mun":"BETHLEHEM","nc":1,"o":"-75.352103"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.451695,41.115382],"type":"Point"},"properties":{"a":"41.115382","cty":"COLUMBIA","id":8841637,"mun":"ORANGE TWP","nc":4,"o":"-76.451695"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.65966,40.86855],"type":"Point"},"properties":{"a":"40.86855","cty":"CARBON","hp":true,"id":8841642,"mun":"FRANKLIN TWP","nc":571,"ne":{"a":"40.88707","o":"-75.6367"},"o":"-75.65966","sw":{"a":"40.85004","o":"-75.68262"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.741578,40.317914],"type":"Point"},"properties":{"a":"40.317914","cty":"DAUPHIN","id":8841647,"mun":"WEST HANOVER TWP","nc":1,"o":"-76.741578"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.178662,41.476441],"type":"Point"},"properties":{"a":"41.476441","cty":"WAYNE","id":8841649,"mun":"HAWLEY BORO","nc":11,"o":"-75.178662"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.23631,41.069818],"type":"Point"},"properties":{"a":"41.069818","cty":"COLUMBIA","id":8841656,"mun":"BERWICK BORO","nc":5,"o":"-76.23631"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.14416,41.230313],"type":"Point"},"properties":{"a":"41.230313","cty":"LYCOMING","id":8841657,"mun":"WOODWARD TWP","nc":1,"o":"-77.14416"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.360019,40.793253],"type":"Point"},"properties":{"a":"40.793253","cty":"NORTHAMPTON","id":8841661,"mun":"BUSHKILL TWP","nc":2,"o":"-75.360019"},"type":"Feature"}
 ]}
