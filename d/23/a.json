@@ -5,6 +5,5 @@
 {"geometry":{"coordinates":[-76.845866,40.921507],"type":"Point"},"properties":{"a":"40.921507","cty":"NORTHUMBERLAND","id":8841542,"mun":"POINT TWP","nc":1,"o":"-76.845866"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.352103,40.659778],"type":"Point"},"properties":{"a":"40.659778","cty":"NORTHAMPTON","id":8841571,"mun":"BETHLEHEM","nc":1,"o":"-75.352103"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.35254,40.659907],"type":"Point"},"properties":{"a":"40.659907","cty":"NORTHAMPTON","id":8841577,"mun":"BETHLEHEM","nc":2,"o":"-75.35254"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.303664,40.31419],"type":"Point"},"properties":{"a":"40.31419","cty":"BUCKS","id":8841588,"mun":"HILLTOWN TWP","nc":1,"o":"-75.303664"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.966658,40.332721],"type":"Point"},"properties":{"a":"40.332721","cty":"PERRY","id":8841621,"mun":"RYE TWP","nc":3,"o":"-76.966658"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.320449,40.026862],"type":"Point"},"properties":{"a":"40.026862","cty":"LANCASTER","id":8841626,"mun":"LANCASTER","nc":8,"o":"-76.320449"},"type":"Feature"}
 ]}

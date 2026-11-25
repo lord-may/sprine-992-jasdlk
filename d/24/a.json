@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.619557,41.374461],"type":"Point"},"properties":{"a":"41.374461","cty":"WASHINGTON","id":20261074074,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.619557"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.619557,41.374461],"type":"Point"},"properties":{"a":"41.374461","cty":"WASHINGTON","id":20261074074,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.619557"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.37509,41.54259],"type":"Point"},"properties":{"a":"41.54259","cty":"NEWPORT","hp":true,"id":20261074085,"mun":"JAMESTOWN","nc":6,"ne":{"a":"41.54369","o":"-71.37476"},"o":"-71.37509","sw":{"a":"41.54148","o":"-71.37542"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.474501,41.790238],"type":"Point"},"properties":{"a":"41.790238","cty":"PROVIDENCE","id":20261074086,"mun":"CRANSTON","nc":1,"o":"-71.474501"},"type":"Feature"}
 ]}
