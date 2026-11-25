@@ -1,7 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-70.740259,44.158194],"type":"Point"},"properties":{"EstRest":"11/25/2026 11:00:00 AM","Outages":1,"cause":"","county":"OXFORD","crewstatus":"ENRT ","customers":29,"hamlet":"WATERFORD","incidentnumber":"00483U","incidents":1,"level":"street","opco":"CMP","street":"BLACKGUARD RD","town":"WATERFORD"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.740259,44.158194],"type":"Point"},"properties":{"EstRest":"11/25/2026 11:00:00 AM","Outages":1,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.978606,43.936995],"type":"Point"},"properties":{"EstRest":"11/25/2026 10:45:00 AM","Outages":1,"cause":"","county":"SAGADAHOC","crewstatus":"DISP ","customers":80,"hamlet":"TOPSHAM","incidentnumber":"00483B","incidents":1,"level":"street","opco":"CMP","street":"TOPSHAM FAIR MALL RD","town":"TOPSHAM"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.978606,43.936995],"type":"Point"},"properties":{"EstRest":"11/25/2026 10:45:00 AM","Outages":1,"county":"SAGADAHOC","customers":23026,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.4176,43.506213],"type":"Point"},"properties":{"EstRest":"11/25/2026 12:15:00 PM","Outages":116,"county":"YORK","customers":132723,"incidents":4,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}

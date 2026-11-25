@@ -1,11 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.314427,41.48658],"type":"Point"},"properties":{"a":"41.48658","cty":"NEWPORT","id":20261073974,"mun":"NEWPORT","nc":12,"o":"-71.314427"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.550697,41.698788],"type":"Point"},"properties":{"a":"41.698788","cty":"KENT","id":20261073990,"mun":"COVENTRY","nc":16,"o":"-71.550697"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.154796,41.568962],"type":"Point"},"properties":{"a":"41.568962","cty":"NEWPORT","id":20261074011,"mun":"TIVERTON","nc":1,"o":"-71.154796"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.46998,41.65729],"type":"Point"},"properties":{"a":"41.65729","cty":"KENT","hp":true,"id":20261074014,"mun":"EAST GREENWICH","nc":19,"ne":{"a":"41.65846","o":"-71.46821"},"o":"-71.46998","sw":{"a":"41.65612","o":"-71.47175"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.749352,41.533822],"type":"Point"},"properties":{"a":"41.533822","cty":"WASHINGTON","id":20261074015,"mun":"HOPKINTON","nc":1,"o":"-71.749352"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.619557,41.374461],"type":"Point"},"properties":{"a":"41.374461","cty":"WASHINGTON","id":20261074018,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.619557"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.443542,41.837793],"type":"Point"},"properties":{"a":"41.837793","cty":"PROVIDENCE","id":20261074020,"mun":"PROVIDENCE","nc":1,"o":"-71.443542"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.445633,41.953193],"type":"Point"},"properties":{"a":"41.953193","cty":"PROVIDENCE","id":20261074021,"mun":"CUMBERLAND","nc":8,"o":"-71.445633"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.533483,41.707503],"type":"Point"},"properties":{"a":"41.707503","cty":"KENT","id":20261074022,"mun":"COVENTRY","nc":1,"o":"-71.533483"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.445633,41.953193],"type":"Point"},"properties":{"a":"41.953193","cty":"PROVIDENCE","id":20261074021,"mun":"CUMBERLAND","nc":8,"o":"-71.445633"},"type":"Feature"}
 ]}
