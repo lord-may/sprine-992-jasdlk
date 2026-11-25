@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-73.689698,41.418799],"type":"Point"},"properties":{"EstRest":"11/25/2026 2:15:00 AM","Outages":27,"cause":"","county":"PUTNAM","crewstatus":"ENRT ","customers":79,"hamlet":"CARMEL","incidentnumber":"011HCS","incidents":1,"level":"street","opco":"NYSEG","street":"GLENEIDA RIDGE RD","town":"CARMEL T"},"type":"Feature"},
-{"geometry":{"coordinates":[-73.690466,41.415753],"type":"Point"},"properties":{"EstRest":"11/25/2026 2:15:00 AM","Outages":45,"county":"PUTNAM","customers":39590,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.638271,42.4108],"type":"Point"},"properties":{"EstRest":"11/25/2026 4:00:00 AM","Outages":1,"cause":"","county":"STEUBEN","crewstatus":"ONST ","customers":9,"hamlet":"ARKPORT","incidentnumber":"011HCW","incidents":1,"level":"street","opco":"NYSEG","street":"EVANS RD","town":"FREMONT T"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.638271,42.4108],"type":"Point"},"properties":{"EstRest":"11/25/2026 4:00:00 AM","Outages":1,"county":"STEUBEN","customers":42768,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
