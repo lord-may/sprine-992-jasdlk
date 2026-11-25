@@ -1,7 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.314427,41.48658],"type":"Point"},"properties":{"a":"41.48658","cty":"NEWPORT","id":20261073974,"mun":"NEWPORT","nc":12,"o":"-71.314427"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.619557,41.374461],"type":"Point"},"properties":{"a":"41.374461","cty":"WASHINGTON","id":20261074018,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.619557"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.575079,41.703183],"type":"Point"},"properties":{"a":"41.703183","cty":"KENT","id":20261074030,"mun":"COVENTRY","nc":5,"o":"-71.575079"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.156311,41.540289],"type":"Point"},"properties":{"a":"41.540289","cty":"NEWPORT","id":20261074056,"mun":"LITTLE COMPTON","nc":1,"o":"-71.156311"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.455628,41.627459],"type":"Point"},"properties":{"a":"41.627459","cty":"WASHINGTON","id":20261074061,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.455628"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.455628,41.627459],"type":"Point"},"properties":{"a":"41.627459","cty":"WASHINGTON","id":20261074061,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.455628"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.42909,41.79377],"type":"Point"},"properties":{"a":"41.79377","cty":"PROVIDENCE","id":20261074065,"mun":"PROVIDENCE","nc":1,"o":"-71.42909"},"type":"Feature"}
 ]}
