@@ -6,11 +6,11 @@
 {"geometry":{"coordinates":[-75.250203,40.751801],"type":"Point"},"properties":{"a":"40.751801","cty":"NORTHAMPTON","id":8841443,"mun":"FORKS TWP","nc":1,"o":"-75.250203"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.770318,40.265612],"type":"Point"},"properties":{"a":"40.265612","cty":"DAUPHIN","id":8841448,"mun":"SWATARA TWP","nc":11,"o":"-76.770318"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.113958,40.315533],"type":"Point"},"properties":{"a":"40.315533","cty":"BERKS","id":8841450,"mun":"SOUTH HEIDELBERG TWP","nc":2,"o":"-76.113958"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.219545,41.435174],"type":"Point"},"properties":{"a":"41.435174","cty":"WAYNE","id":8841454,"mun":"PAUPACK TWP","nc":2,"o":"-75.219545"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.106442,40.450235],"type":"Point"},"properties":{"a":"40.450235","cty":"PERRY","id":8841456,"mun":"MILLER TWP","nc":2,"o":"-77.106442"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.741606,41.325919],"type":"Point"},"properties":{"a":"41.325919","cty":"LUZERNE","id":8841463,"mun":"DUPONT BORO","nc":2,"o":"-75.741606"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.460108,41.252216],"type":"Point"},"properties":{"a":"41.252216","cty":"LACKAWANNA","id":8841467,"mun":"CLIFTON TWP","nc":3,"o":"-75.460108"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.036204,40.934411],"type":"Point"},"properties":{"a":"40.934411","cty":"UNION","id":8841472,"mun":"WEST BUFFALO TWP","nc":1,"o":"-77.036204"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.800917,41.193144],"type":"Point"},"properties":{"a":"41.193144","cty":"LUZERNE","id":8841474,"mun":"BEAR CREEK TWP","nc":1,"o":"-75.800917"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.74766,41.32693],"type":"Point"},"properties":{"a":"41.32693","cty":"LUZERNE","hp":true,"id":8841476,"mun":"AVOCA BORO","nc":1644,"ne":{"a":"41.34213","o":"-75.7212"},"o":"-75.74766","sw":{"a":"41.31172","o":"-75.77413"}},"type":"Feature"}
+{"geometry":{"coordinates":[-75.74766,41.32693],"type":"Point"},"properties":{"a":"41.32693","cty":"LUZERNE","hp":true,"id":8841476,"mun":"AVOCA BORO","nc":1644,"ne":{"a":"41.34213","o":"-75.7212"},"o":"-75.74766","sw":{"a":"41.31172","o":"-75.77413"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.459441,40.660327],"type":"Point"},"properties":{"a":"40.660327","cty":"LEHIGH","id":8841480,"mun":"CATASAUQUA BORO","nc":13,"o":"-75.459441"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.276507,40.56561],"type":"Point"},"properties":{"a":"40.56561","cty":"BUCKS","id":8841481,"mun":"SPRINGFIELD TWP","nc":1,"o":"-75.276507"},"type":"Feature"}
 ]}
