@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.354132,41.22128],"type":"Point"},"properties":{"a":"41.22128","cty":"MONROE","id":8841699,"mun":"COOLBAUGH TWP","nc":1,"o":"-75.354132"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.318767,40.04315],"type":"Point"},"properties":{"a":"40.04315","cty":"LANCASTER","id":8841705,"mun":"LANCASTER","nc":34,"o":"-76.318767"},"type":"Feature"}
 ]}
