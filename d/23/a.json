@@ -4,5 +4,6 @@
 {"geometry":{"coordinates":[-76.23631,41.069818],"type":"Point"},"properties":{"a":"41.069818","cty":"COLUMBIA","id":8841656,"mun":"BERWICK BORO","nc":5,"o":"-76.23631"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.360019,40.793253],"type":"Point"},"properties":{"a":"40.793253","cty":"NORTHAMPTON","id":8841661,"mun":"BUSHKILL TWP","nc":2,"o":"-75.360019"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.831794,40.271847],"type":"Point"},"properties":{"a":"40.271847","cty":"DAUPHIN","id":8841684,"mun":"SUSQUEHANNA TWP","nc":1,"o":"-76.831794"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.203726,40.82005],"type":"Point"},"properties":{"a":"40.82005","cty":"SCHUYLKILL","id":8841686,"mun":"SHENANDOAH BORO","nc":19,"o":"-76.203726"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.621112,41.401734],"type":"Point"},"properties":{"a":"41.401734","cty":"LACKAWANNA","id":8841688,"mun":"SCRANTON","nc":3,"o":"-75.621112"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.236168,41.070403],"type":"Point"},"properties":{"a":"41.070403","cty":"COLUMBIA","id":8841689,"mun":"BERWICK BORO","nc":14,"o":"-76.236168"},"type":"Feature"}
 ]}
