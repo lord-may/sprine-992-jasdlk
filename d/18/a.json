@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.0383,45.0793],"type":"Point"},"properties":{"cause":{"EN-US":"Under Investigation","orig":"Under Investigation"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":null,"cust_a":{"val":1},"etr":"ETR-NULL","etr_confidence":null,"inc_id":"577329-1","n_out":1,"start_time":null,"title":"Area Outage"},"type":"Feature"}
+{"geometry":{"geometries":[{"coordinates":[[[-69.0382,45.0783],[-69.0382,45.0786],[-69.0383,45.0793],[-69.0387,45.0784],[-69.0382,45.0783]]],"type":"Polygon"},{"coordinates":[-69.03839,45.07867],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"Under Investigation","orig":"Under Investigation"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":null,"cust_a":{"val":4},"etr":"ETR-NULL","etr_confidence":null,"inc_id":"577329-1","n_out":1,"start_time":null,"title":"Area Outage"},"type":"Feature"}
 ]}
