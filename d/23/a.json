@@ -1,4 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.809247,40.250922],"type":"Point"},"properties":{"a":"40.250922","cty":"DAUPHIN","id":8841436,"mun":"SWATARA TWP","nc":1,"o":"-76.809247"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.752639,41.461817],"type":"Point"},"properties":{"a":"41.461817","cty":"LACKAWANNA","id":8841438,"mun":"NEWTON TWP","nc":1,"o":"-75.752639"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.752639,41.461817],"type":"Point"},"properties":{"a":"41.461817","cty":"LACKAWANNA","id":8841438,"mun":"NEWTON TWP","nc":1,"o":"-75.752639"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.808002,40.251014],"type":"Point"},"properties":{"a":"40.251014","cty":"DAUPHIN","id":8841439,"mun":"SWATARA TWP","nc":1,"o":"-76.808002"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.912359,40.845213],"type":"Point"},"properties":{"a":"40.845213","cty":"CARBON","id":8841440,"mun":"NESQUEHONING BORO","nc":4,"o":"-75.912359"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.550444,40.562156],"type":"Point"},"properties":{"a":"40.562156","cty":"LEHIGH","id":8841441,"mun":"LOWER MACUNGIE TWP","nc":7,"o":"-75.550444"},"type":"Feature"}
 ]}

@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-69.978606,43.936995],"type":"Point"},"properties":{"EstRest":"11/25/2026 9:45:00 AM","Outages":1,"cause":"","county":"SAGADAHOC","crewstatus":"DISP ","customers":80,"hamlet":"TOPSHAM","incidentnumber":"00483B","incidents":1,"level":"street","opco":"CMP","street":"TOPSHAM FAIR MALL RD","town":"TOPSHAM"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.978606,43.936995],"type":"Point"},"properties":{"EstRest":"11/25/2026 9:45:00 AM","Outages":1,"county":"SAGADAHOC","customers":23026,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
