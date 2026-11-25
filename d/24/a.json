@@ -2,6 +2,5 @@
 {"geometry":{"coordinates":[-71.530561,41.6956],"type":"Point"},"properties":{"a":"41.6956","cty":"KENT","id":20261074132,"mun":"WEST WARWICK","nc":9,"o":"-71.530561"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.499162,41.868032],"type":"Point"},"properties":{"a":"41.868032","cty":"PROVIDENCE","id":20261074138,"mun":"JOHNSTON","nc":1,"o":"-71.499162"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.474501,41.790238],"type":"Point"},"properties":{"a":"41.790238","cty":"PROVIDENCE","id":20261074141,"mun":"CRANSTON","nc":1,"o":"-71.474501"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.494989,41.437679],"type":"Point"},"properties":{"a":"41.437679","cty":"WASHINGTON","id":20261074145,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.494989"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.513352,41.990234],"type":"Point"},"properties":{"a":"41.990234","cty":"PROVIDENCE","id":20261074146,"mun":"WOONSOCKET","nc":1,"o":"-71.513352"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.536592,41.827759],"type":"Point"},"properties":{"a":"41.827759","cty":"PROVIDENCE","id":20261074149,"mun":"JOHNSTON","nc":1,"o":"-71.536592"},"type":"Feature"}
 ]}
