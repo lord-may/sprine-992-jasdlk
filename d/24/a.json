@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.453687,41.826723],"type":"Point"},"properties":{"a":"41.826723","cty":"PROVIDENCE","id":20261074399,"mun":"PROVIDENCE","nc":1,"o":"-71.453687"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.391725,41.695465],"type":"Point"},"properties":{"a":"41.695465","cty":"KENT","id":20261074405,"mun":"WARWICK","nc":1,"o":"-71.391725"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.456634,41.799321],"type":"Point"},"properties":{"a":"41.799321","cty":"PROVIDENCE","id":20261074479,"mun":"CRANSTON","nc":1,"o":"-71.456634"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.388469,41.897196],"type":"Point"},"properties":{"a":"41.897196","cty":"PROVIDENCE","id":20261074504,"mun":"CENTRAL FALLS","nc":8,"o":"-71.388469"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.388392,41.896649],"type":"Point"},"properties":{"a":"41.896649","cty":"PROVIDENCE","id":20261074505,"mun":"CENTRAL FALLS","nc":21,"o":"-71.388392"},"type":"Feature"}
 ]}
