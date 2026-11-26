@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.523899,44.132174],"type":"Point"},"properties":{"EstRest":"11/25/2026 11:15:00 PM","Outages":1,"cause":"","county":"OXFORD","crewstatus":"DISP ","customers":1,"hamlet":"OXFORD","incidentnumber":"004869","incidents":1,"level":"street","opco":"CMP","street":"MAPLEDALE LN","town":"OXFORD"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.523899,44.132174],"type":"Point"},"properties":{"EstRest":"11/25/2026 11:15:00 PM","Outages":1,"cause":"","county":"OXFORD","crewstatus":"ONST ","customers":1,"hamlet":"OXFORD","incidentnumber":"004869","incidents":1,"level":"street","opco":"CMP","street":"MAPLEDALE LN","town":"OXFORD"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.523899,44.132174],"type":"Point"},"properties":{"EstRest":"11/25/2026 11:15:00 PM","Outages":1,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
