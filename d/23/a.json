@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-75.346536,40.503566],"type":"Point"},"properties":{"a":"40.503566","cty":"BUCKS","id":8841759,"mun":"SPRINGFIELD TWP","nc":9,"o":"-75.346536"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.166208,40.176696],"type":"Point"},"properties":{"a":"40.176696","cty":"LANCASTER","id":8841765,"mun":"EPHRATA TWP","nc":2,"o":"-76.166208"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.346536,40.503566],"type":"Point"},"properties":{"a":"40.503566","cty":"BUCKS","id":8841759,"mun":"SPRINGFIELD TWP","nc":9,"o":"-75.346536"},"type":"Feature"}
 ]}
