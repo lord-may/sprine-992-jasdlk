@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-78.23029,42.23202],"type":"Point"},"properties":{"cause":{"EN-US":"Under Investigation","ES-ES":"Bajo Investigación","orig":"Null"},"cluster":false,"comments":null,"crew_icon":true,"crew_status":{"EN-US":"Arrived","ES-ES":"Llegó","orig":"Arrived"},"cust_a":{"mask":5,"val":4},"etr":"2026-11-26T06:15:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-11-26T02:40:22Z","title":"Area Outage","town":"Cuba"},"type":"Feature"}
+
 ]}
