@@ -61,7 +61,6 @@
 {"geometry":{"coordinates":[-76.3971,40.17568],"type":"Point"},"properties":{"a":"40.17568","cty":"LANCASTER","hp":true,"id":8842094,"mun":"MANHEIM BORO","nc":21,"ne":{"a":"40.17718","o":"-76.39562"},"o":"-76.3971","sw":{"a":"40.17419","o":"-76.39857"}},"type":"Feature"},
 {"geometry":{"coordinates":[-76.649497,40.576599],"type":"Point"},"properties":{"a":"40.576599","cty":"DAUPHIN","id":8842097,"mun":"WILLIAMS TWP","nc":5,"o":"-76.649497"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.48731,40.53032],"type":"Point"},"properties":{"a":"40.53032","cty":"LEHIGH","hp":true,"id":8842102,"mun":"EMMAUS BORO","nc":40,"ne":{"a":"40.531","o":"-75.48548"},"o":"-75.48731","sw":{"a":"40.52964","o":"-75.48913"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.232417,40.126432],"type":"Point"},"properties":{"a":"40.126432","cty":"LANCASTER","id":8842105,"mun":"WEST EARL TWP","nc":6,"o":"-76.232417"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.489749,40.21845],"type":"Point"},"properties":{"a":"40.21845","cty":"LANCASTER","id":8842106,"mun":"MOUNT JOY TWP","nc":2,"o":"-76.489749"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.316126,40.397794],"type":"Point"},"properties":{"a":"40.397794","cty":"BUCKS","id":8842108,"mun":"EAST ROCKHILL TWP","nc":2,"o":"-75.316126"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.02754,41.04257],"type":"Point"},"properties":{"a":"41.04257","cty":"LUZERNE","hp":true,"id":8842113,"mun":"BUTLER TWP","nc":197,"ne":{"a":"41.05443","o":"-76.01511"},"o":"-76.02754","sw":{"a":"41.03072","o":"-76.03998"}},"type":"Feature"},
@@ -70,8 +69,16 @@
 {"geometry":{"coordinates":[-76.35813,40.052343],"type":"Point"},"properties":{"a":"40.052343","cty":"LANCASTER","id":8842143,"mun":"EAST HEMPFIELD TWP","nc":14,"o":"-76.35813"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.372835,40.055621],"type":"Point"},"properties":{"a":"40.055621","cty":"LANCASTER","id":8842151,"mun":"EAST HEMPFIELD TWP","nc":3,"o":"-76.372835"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.324566,40.039182],"type":"Point"},"properties":{"a":"40.039182","cty":"LANCASTER","id":8842154,"mun":"LANCASTER","nc":1,"o":"-76.324566"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.368911,40.053292],"type":"Point"},"properties":{"a":"40.053292","cty":"LANCASTER","id":8842158,"mun":"EAST HEMPFIELD TWP","nc":16,"o":"-76.368911"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.19609,40.35816],"type":"Point"},"properties":{"a":"40.35816","cty":"BUCKS","hp":true,"id":8842161,"mun":"HILLTOWN TWP","nc":121,"ne":{"a":"40.36528","o":"-75.18684"},"o":"-75.19609","sw":{"a":"40.35104","o":"-75.20533"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.213917,40.339614],"type":"Point"},"properties":{"a":"40.339614","cty":"BUCKS","id":8842162,"mun":"HILLTOWN TWP","nc":10,"o":"-75.213917"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.217213,40.340332],"type":"Point"},"properties":{"a":"40.340332","cty":"BUCKS","id":8842163,"mun":"HILLTOWN TWP","nc":4,"o":"-75.217213"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.236853,40.331151],"type":"Point"},"properties":{"a":"40.331151","cty":"BUCKS","id":8842168,"mun":"HILLTOWN TWP","nc":4,"o":"-75.236853"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.20522,40.34911],"type":"Point"},"properties":{"a":"40.34911","cty":"BUCKS","hp":true,"id":8842169,"mun":"HILLTOWN TWP","nc":253,"ne":{"a":"40.36528","o":"-75.18684"},"o":"-75.20522","sw":{"a":"40.33293","o":"-75.2236"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.230789,40.123143],"type":"Point"},"properties":{"a":"40.123143","cty":"LANCASTER","id":8842171,"mun":"WEST EARL TWP","nc":8,"o":"-76.230789"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.77395,40.22249],"type":"Point"},"properties":{"a":"40.22249","cty":"DAUPHIN","hp":true,"id":8842182,"mun":"LOWER SWATARA TWP","nc":151,"ne":{"a":"40.22906","o":"-76.76173"},"o":"-76.77395","sw":{"a":"40.21592","o":"-76.78617"}},"type":"Feature"},
+{"geometry":{"coordinates":[-75.237101,40.329938],"type":"Point"},"properties":{"a":"40.329938","cty":"BUCKS","id":8842184,"mun":"HILLTOWN TWP","nc":11,"o":"-75.237101"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.74568,40.26083],"type":"Point"},"properties":{"a":"40.26083","cty":"DAUPHIN","id":8842186,"mun":"SWATARA TWP","nc":4,"o":"-76.74568"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.393644,40.055451],"type":"Point"},"properties":{"a":"40.055451","cty":"LANCASTER","id":8842190,"mun":"EAST HEMPFIELD TWP","nc":12,"o":"-76.393644"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.014694,40.043999],"type":"Point"},"properties":{"a":"40.043999","cty":"LANCASTER","id":8842196,"mun":"SALISBURY TWP","nc":1,"o":"-76.014694"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.77791,40.22237],"type":"Point"},"properties":{"a":"40.22237","cty":"DAUPHIN","hp":true,"id":8842206,"mun":"LOWER SWATARA TWP","nc":82,"ne":{"a":"40.22384","o":"-76.77441"},"o":"-76.77791","sw":{"a":"40.2209","o":"-76.78141"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.598347,40.125897],"type":"Point"},"properties":{"a":"40.125897","cty":"LANCASTER","id":8842207,"mun":"WEST DONEGAL TWP","nc":7,"o":"-76.598347"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.392193,40.056549],"type":"Point"},"properties":{"a":"40.056549","cty":"LANCASTER","id":8842218,"mun":"EAST HEMPFIELD TWP","nc":8,"o":"-76.392193"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.730254,40.264051],"type":"Point"},"properties":{"a":"40.264051","cty":"DAUPHIN","id":8842219,"mun":"SWATARA TWP","nc":4,"o":"-76.730254"},"type":"Feature"}
 ]}

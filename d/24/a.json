@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.496359,41.557835],"type":"Point"},"properties":{"a":"41.557835","cty":"WASHINGTON","id":20261074336,"mun":"NORTH KINGSTOWN","nc":3,"o":"-71.496359"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.42447,41.833388],"type":"Point"},"properties":{"a":"41.833388","cty":"PROVIDENCE","id":20261074349,"mun":"PROVIDENCE","nc":1,"o":"-71.42447"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.496359,41.557835],"type":"Point"},"properties":{"a":"41.557835","cty":"WASHINGTON","id":20261074336,"mun":"NORTH KINGSTOWN","nc":3,"o":"-71.496359"},"type":"Feature"}
 ]}
