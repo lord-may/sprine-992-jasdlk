@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-78.812019,42.695524],"type":"Point"},"properties":{"EstRest":"11/25/2026 8:30:00 PM","Outages":1,"cause":"","county":"ERIE","crewstatus":"DISP ","customers":32,"hamlet":"EDEN","incidentnumber":"011HKC","incidents":1,"level":"street","opco":"NYSEG","street":"PINECREST TER","town":"BOSTON T"},"type":"Feature"},
-{"geometry":{"coordinates":[-78.812019,42.695524],"type":"Point"},"properties":{"EstRest":"11/25/2026 8:30:00 PM","Outages":1,"county":"ERIE","customers":157841,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
+
 ]}

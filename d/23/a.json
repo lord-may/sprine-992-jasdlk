@@ -2,6 +2,5 @@
 {"geometry":{"coordinates":[-76.318767,40.04315],"type":"Point"},"properties":{"a":"40.04315","cty":"LANCASTER","id":8841705,"mun":"LANCASTER","nc":34,"o":"-76.318767"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.282195,41.025986],"type":"Point"},"properties":{"a":"41.025986","cty":"MONROE","id":8841721,"mun":"POCONO TWP","nc":4,"o":"-75.282195"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.475478,40.603386],"type":"Point"},"properties":{"a":"40.603386","cty":"LEHIGH","id":8841723,"mun":"ALLENTOWN","nc":1,"o":"-75.475478"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.111797,40.181048],"type":"Point"},"properties":{"a":"40.181048","cty":"LANCASTER","id":8841725,"mun":"EAST COCALICO TWP","nc":2,"o":"-76.111797"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.475933,40.609433],"type":"Point"},"properties":{"a":"40.609433","cty":"LEHIGH","id":8841726,"mun":"ALLENTOWN","nc":1,"o":"-75.475933"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.111797,40.181048],"type":"Point"},"properties":{"a":"40.181048","cty":"LANCASTER","id":8841725,"mun":"EAST COCALICO TWP","nc":2,"o":"-76.111797"},"type":"Feature"}
 ]}
