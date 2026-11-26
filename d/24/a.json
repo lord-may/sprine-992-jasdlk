@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.61519,41.71379],"type":"Point"},"properties":{"a":"41.71379","cty":"KENT","hp":true,"id":20261075276,"mun":"COVENTRY","nc":706,"ne":{"a":"41.73072","o":"-71.5938"},"o":"-71.61519","sw":{"a":"41.69686","o":"-71.63658"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.626466,41.714018],"type":"Point"},"properties":{"a":"41.714018","cty":"KENT","id":20261075287,"mun":"COVENTRY","nc":1,"o":"-71.626466"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.62615,41.71417],"type":"Point"},"properties":{"a":"41.71417","cty":"KENT","hp":true,"id":20261075290,"mun":"COVENTRY","nc":8,"ne":{"a":"41.71487","o":"-71.62509"},"o":"-71.62615","sw":{"a":"41.71347","o":"-71.62721"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.630233,41.714946],"type":"Point"},"properties":{"a":"41.714946","cty":"KENT","id":20261075291,"mun":"COVENTRY","nc":2,"o":"-71.630233"},"type":"Feature"},
@@ -10,7 +9,6 @@
 {"geometry":{"coordinates":[-71.627868,41.714423],"type":"Point"},"properties":{"a":"41.714423","cty":"KENT","id":20261075302,"mun":"COVENTRY","nc":1,"o":"-71.627868"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.632275,41.71531],"type":"Point"},"properties":{"a":"41.71531","cty":"KENT","id":20261075303,"mun":"COVENTRY","nc":1,"o":"-71.632275"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.527727,41.723985],"type":"Point"},"properties":{"a":"41.723985","cty":"KENT","id":20261075306,"mun":"WEST WARWICK","nc":1,"o":"-71.527727"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.442446,41.700326],"type":"Point"},"properties":{"a":"41.700326","cty":"KENT","id":20261075349,"mun":"WARWICK","nc":1,"o":"-71.442446"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.542988,41.689264],"type":"Point"},"properties":{"a":"41.689264","cty":"KENT","id":20261075362,"mun":"COVENTRY","nc":1,"o":"-71.542988"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.631021,41.697426],"type":"Point"},"properties":{"a":"41.697426","cty":"KENT","id":20261075395,"mun":"COVENTRY","nc":1,"o":"-71.631021"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.600853,41.710681],"type":"Point"},"properties":{"a":"41.710681","cty":"KENT","id":20261075418,"mun":"COVENTRY","nc":1,"o":"-71.600853"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.616808,41.699267],"type":"Point"},"properties":{"a":"41.699267","cty":"KENT","id":20261075419,"mun":"COVENTRY","nc":1,"o":"-71.616808"},"type":"Feature"}
 ]}
