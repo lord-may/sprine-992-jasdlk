@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.720598,43.201842],"type":"Point"},"properties":{"EstRest":"11/26/2026 6:15:00 PM","Outages":549,"county":"MONROE","customers":304665,"incidents":5,"level":"county","opco":"RGE"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.598006,43.217353],"type":"Point"},"properties":{"EstRest":"11/26/2026 7:15:00 PM","Outages":11,"cause":"","county":"CAYUGA","crewstatus":"DISP ","customers":28,"hamlet":"CATO","incidentnumber":"011HVO","incidents":1,"level":"street","opco":"RGE","street":"WATKINS RD","town":"IRA (CATO)"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.606024,43.211604],"type":"Point"},"properties":{"EstRest":"11/26/2026 7:15:00 PM","Outages":17,"county":"CAYUGA","customers":6006,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.489691,43.046985],"type":"Point"},"properties":{"EstRest":"11/26/2026 7:00:00 PM","Outages":524,"county":"MONROE","customers":304665,"incidents":4,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}

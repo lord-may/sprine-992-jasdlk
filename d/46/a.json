@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-74.627297,41.342569],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":58,"customersOutNow":58,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-26T20:08:00-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-26T16:11:33.937-05:00","outageName":"C W1-102-33-N1","outagePoint":{"lat":41.34256944243056,"lng":-74.62729656221688},"outageRecID":"2026-11-26-0036","outageStartTime":"2026-11-26T16:08:00-05:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
