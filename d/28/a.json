@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-77.576846,40.131487],"type":"Point"},"properties":{"comment":"Adams Electric is currently experiencing an outage due to unknown cause at this time. Crews have been dispatched and we appreciate your cooperation while this issue is resolved. Thank you.","crewAssigned":true,"id":"475953","lifeCycleStatus":"On-Site","nbrOut":85,"planned":false,"timeOff":1795697992000},"type":"Feature"},
-{"geometry":{"coordinates":[-76.568667,39.795091],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1795713300000,"id":"475955","lifeCycleStatus":"Dispatched","nbrOut":2,"planned":false,"timeOff":1795701998839},"type":"Feature"},
-{"geometry":{"coordinates":[-76.926915,39.871386],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1795714200000,"id":"475961","lifeCycleStatus":"Assigned","nbrOut":38,"planned":false,"timeOff":1795702569113},"type":"Feature"}
+{"geometry":{"coordinates":[-76.568667,39.795091],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1795713300000,"id":"475955","lifeCycleStatus":"Assigned","nbrOut":2,"planned":false,"timeOff":1795701998839},"type":"Feature"},
+{"geometry":{"coordinates":[-76.926915,39.871386],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1795714200000,"id":"475961","lifeCycleStatus":"Dispatched","nbrOut":38,"planned":false,"timeOff":1795702569113},"type":"Feature"}
 ]}
