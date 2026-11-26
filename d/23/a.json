@@ -9,6 +9,7 @@
 {"geometry":{"coordinates":[-75.875069,40.161554],"type":"Point"},"properties":{"a":"40.161554","cty":"BERKS","id":8841835,"mun":"CAERNARVON TWP","nc":4,"o":"-75.875069"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.630192,40.703663],"type":"Point"},"properties":{"a":"40.703663","cty":"LEHIGH","id":8841836,"mun":"WASHINGTON TWP","nc":1,"o":"-75.630192"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.90617,40.18692],"type":"Point"},"properties":{"a":"40.18692","cty":"YORK","hp":true,"id":8841848,"mun":"FAIRVIEW TWP","nc":266,"ne":{"a":"40.19707","o":"-76.8929"},"o":"-76.90617","sw":{"a":"40.17677","o":"-76.91944"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.246417,39.990094],"type":"Point"},"properties":{"a":"39.990094","cty":"LANCASTER","id":8841851,"mun":"WEST LAMPETER TWP","nc":2,"o":"-76.246417"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.166208,40.176696],"type":"Point"},"properties":{"a":"40.176696","cty":"LANCASTER","id":8841854,"mun":"EPHRATA TWP","nc":2,"o":"-76.166208"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.166208,40.176696],"type":"Point"},"properties":{"a":"40.176696","cty":"LANCASTER","id":8841854,"mun":"EPHRATA TWP","nc":2,"o":"-76.166208"},"type":"Feature"},
+{"geometry":{"coordinates":[-75.2472,41.28349],"type":"Point"},"properties":{"a":"41.28349","cty":"PIKE","hp":true,"id":8841855,"mun":"GREENE TWP","nc":23,"ne":{"a":"41.28526","o":"-75.24505"},"o":"-75.2472","sw":{"a":"41.28172","o":"-75.24936"}},"type":"Feature"},
+{"geometry":{"coordinates":[-77.191004,40.222223],"type":"Point"},"properties":{"a":"40.222223","cty":"CUMBERLAND","id":8841856,"mun":"NORTH MIDDLETON TWP","nc":4,"o":"-77.191004"},"type":"Feature"}
 ]}
