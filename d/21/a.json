@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-69.907244,44.310355],"type":"Point"},"properties":{"EstRest":"11/26/2026 5:15:00 PM","Outages":72,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.908071,44.306381],"type":"Point"},"properties":{"EstRest":"11/26/2026 5:15:00 PM","Outages":14,"cause":"","county":"KENNEBEC","crewstatus":"DISP ","customers":14,"hamlet":"WINTHROP","incidentnumber":"004889","incidents":1,"level":"street","opco":"CMP","street":"YUKON LN","town":"WINTHROP"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.908071,44.306381],"type":"Point"},"properties":{"EstRest":"11/26/2026 5:15:00 PM","Outages":14,"cause":"","county":"KENNEBEC","crewstatus":"ENRT ","customers":14,"hamlet":"WINTHROP","incidentnumber":"004889","incidents":1,"level":"street","opco":"CMP","street":"YUKON LN","town":"WINTHROP"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.978726,43.937004],"type":"Point"},"properties":{"EstRest":"11/26/2026 7:00:00 PM","Outages":10,"cause":"Equipment Interruption","county":"SAGADAHOC","crewstatus":"ONST ","customers":80,"hamlet":"TOPSHAM","incidentnumber":"004885","incidents":1,"level":"street","opco":"CMP","street":"TOPSHAM FAIR MALL RD","town":"TOPSHAM"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.978726,43.937004],"type":"Point"},"properties":{"EstRest":"11/26/2026 7:00:00 PM","Outages":10,"county":"SAGADAHOC","customers":23026,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
