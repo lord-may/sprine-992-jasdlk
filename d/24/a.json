@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.629486,41.404367],"type":"Point"},"properties":{"a":"41.404367","cty":"WASHINGTON","id":20261074296,"mun":"CHARLESTOWN","nc":2,"o":"-71.629486"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.672685,41.586418],"type":"Point"},"properties":{"a":"41.586418","cty":"WASHINGTON","id":20261074309,"mun":"EXETER","nc":1,"o":"-71.672685"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.56183,41.88922],"type":"Point"},"properties":{"a":"41.88922","cty":"PROVIDENCE","hp":true,"id":20261074311,"mun":"SMITHFIELD","nc":14,"ne":{"a":"41.89065","o":"-71.56014"},"o":"-71.56183","sw":{"a":"41.8878","o":"-71.56353"}},"type":"Feature"}
+{"geometry":{"coordinates":[-71.496359,41.557835],"type":"Point"},"properties":{"a":"41.557835","cty":"WASHINGTON","id":20261074336,"mun":"NORTH KINGSTOWN","nc":3,"o":"-71.496359"},"type":"Feature"}
 ]}
