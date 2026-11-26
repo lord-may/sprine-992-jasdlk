@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.306385,41.736588],"type":"Point"},"properties":{"a":"41.736588","cty":"BRISTOL","id":20261074155,"mun":"BARRINGTON","nc":1,"o":"-71.306385"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.662195,41.901677],"type":"Point"},"properties":{"a":"41.901677","cty":"PROVIDENCE","id":20261074156,"mun":"GLOCESTER","nc":1,"o":"-71.662195"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.662195,41.901677],"type":"Point"},"properties":{"a":"41.901677","cty":"PROVIDENCE","id":20261074156,"mun":"GLOCESTER","nc":1,"o":"-71.662195"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.520056,41.679821],"type":"Point"},"properties":{"a":"41.679821","cty":"KENT","id":20261074160,"mun":"WEST WARWICK","nc":1,"o":"-71.520056"},"type":"Feature"}
 ]}
