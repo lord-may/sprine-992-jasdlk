@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.112641,44.152493],"type":"Point"},"properties":{"EstRest":"11/26/2026 1:15:00 PM","Outages":6,"county":"KNOX","customers":27251,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.114243,44.151978],"type":"Point"},"properties":{"EstRest":"11/26/2026 1:15:00 PM","Outages":4,"cause":"","county":"KNOX","crewstatus":"ONST ","customers":90,"hamlet":"ROCKPORT","incidentnumber":"00487U","incidents":1,"level":"street","opco":"CMP","street":"ROCKLAND ST","town":"ROCKPORT"},"type":"Feature"}
+
 ]}
