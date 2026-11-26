@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-77.650848,43.193748],"type":"Point"},"properties":{"EstRest":"11/26/2026 12:30:00 PM","Outages":14,"cause":"Equipment Interruption","county":"MONROE","crewstatus":"DISP ","customers":387,"hamlet":"ROCHESTER","incidentnumber":"011HM4","incidents":1,"level":"street","opco":"RGE","street":"RIDGEWAY AVE","town":"ROCHESTER"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.651272,43.194497],"type":"Point"},"properties":{"EstRest":"11/26/2026 12:30:00 PM","Outages":25,"county":"MONROE","customers":304665,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.651272,43.194497],"type":"Point"},"properties":{"EstRest":"11/26/2026 12:30:00 PM","Outages":25,"county":"MONROE","customers":304665,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.288262,43.276686],"type":"Point"},"properties":{"EstRest":"11/26/2026 12:30:00 PM","Outages":8,"cause":"","county":"WAYNE","crewstatus":"     ","customers":243,"hamlet":"ONTARIO","incidentnumber":"011HNL","incidents":1,"level":"street","opco":"RGE","street":"LAKE RD","town":"ONTARIO"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.288262,43.276686],"type":"Point"},"properties":{"EstRest":"11/26/2026 12:30:00 PM","Outages":8,"county":"WAYNE","customers":26815,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
