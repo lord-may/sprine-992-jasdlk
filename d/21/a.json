@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.523899,44.132174],"type":"Point"},"properties":{"EstRest":"11/26/2026 1:15:00 AM","Outages":1,"cause":"Equipment Interruption","county":"OXFORD","crewstatus":"ONST ","customers":1,"hamlet":"OXFORD","incidentnumber":"004869","incidents":1,"level":"street","opco":"CMP","street":"MAPLEDALE LN","town":"OXFORD"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.523899,44.132174],"type":"Point"},"properties":{"EstRest":"11/26/2026 1:15:00 AM","Outages":1,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+
 ]}
