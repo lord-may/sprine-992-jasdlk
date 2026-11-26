@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-76.021065,38.797375],"type":"Point"},"properties":{"dateReceived":"2026-11-26T11:45:00.000Z","id":877060,"latitude":38.7973747,"longitude":-76.0210648,"neighborhood":"Easton-County","problemName":"No Electric","serviceName":"Electric"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.03336,38.789906],"type":"Point"},"properties":{"dateReceived":"2026-11-26T11:46:00.000Z","id":877061,"latitude":38.7899055,"longitude":-76.03336,"neighborhood":"Swann Haven","problemName":"No Electric","serviceName":"Electric"},"type":"Feature"}
 ]}
