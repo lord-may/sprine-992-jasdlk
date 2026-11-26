@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-77.653714,43.19374],"type":"Point"},"properties":{"EstRest":"","Outages":603,"county":"MONROE","customers":304665,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.658233,43.197888],"type":"Point"},"properties":{"EstRest":"","Outages":38,"cause":"","county":"MONROE","crewstatus":"     ","customers":38,"hamlet":"ROCHESTER","incidentnumber":"011HM4","incidents":1,"level":"street","opco":"RGE","street":"PITTSFORD ST","town":"ROCHESTER"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.658233,43.197888],"type":"Point"},"properties":{"EstRest":"","Outages":38,"cause":"Equipment Interruption","county":"MONROE","crewstatus":"DISP ","customers":38,"hamlet":"ROCHESTER","incidentnumber":"011HM4","incidents":1,"level":"street","opco":"RGE","street":"PITTSFORD ST","town":"ROCHESTER"},"type":"Feature"}
 ]}

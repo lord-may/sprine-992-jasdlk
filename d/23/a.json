@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.6448,40.24717],"type":"Point"},"properties":{"a":"40.24717","cty":"DAUPHIN","hp":true,"id":8841779,"mun":"DERRY TWP","nc":111,"ne":{"a":"40.25473","o":"-76.64074"},"o":"-76.6448","sw":{"a":"40.23961","o":"-76.64887"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.27214,40.49608],"type":"Point"},"properties":{"a":"40.49608","cty":"BUCKS","hp":true,"id":8841783,"mun":"HAYCOCK TWP","nc":18,"ne":{"a":"40.49832","o":"-75.26767"},"o":"-75.27214","sw":{"a":"40.49383","o":"-75.27661"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.376982,40.491814],"type":"Point"},"properties":{"a":"40.491814","cty":"BUCKS","id":8841787,"mun":"SPRINGFIELD TWP","nc":2,"o":"-75.376982"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.376982,40.491814],"type":"Point"},"properties":{"a":"40.491814","cty":"BUCKS","id":8841787,"mun":"SPRINGFIELD TWP","nc":2,"o":"-75.376982"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.20141,40.11954],"type":"Point"},"properties":{"a":"40.11954","cty":"LANCASTER","hp":true,"id":8841791,"mun":"WEST EARL TWP","nc":1453,"ne":{"a":"40.14247","o":"-76.16873"},"o":"-76.20141","sw":{"a":"40.09661","o":"-76.23409"}},"type":"Feature"}
 ]}
