@@ -5,13 +5,10 @@
 {"geometry":{"coordinates":[-76.14575,39.91291],"type":"Point"},"properties":{"a":"39.91291","cty":"LANCASTER","hp":true,"id":8841817,"mun":"EDEN TWP","nc":86,"ne":{"a":"39.92007","o":"-76.13481"},"o":"-76.14575","sw":{"a":"39.90575","o":"-76.15669"}},"type":"Feature"},
 {"geometry":{"coordinates":[-75.284043,40.33581],"type":"Point"},"properties":{"a":"40.33581","cty":"BUCKS","id":8841819,"mun":"HILLTOWN TWP","nc":6,"o":"-75.284043"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.36584,39.91413],"type":"Point"},"properties":{"a":"39.91413","cty":"LANCASTER","hp":true,"id":8841822,"mun":"CONESTOGA TWP","nc":11,"ne":{"a":"39.9181","o":"-76.36177"},"o":"-76.36584","sw":{"a":"39.91015","o":"-76.36992"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.644716,40.251686],"type":"Point"},"properties":{"a":"40.251686","cty":"DAUPHIN","id":8841827,"mun":"DERRY TWP","nc":5,"o":"-76.644716"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.321302,40.399655],"type":"Point"},"properties":{"a":"40.399655","cty":"BUCKS","id":8841829,"mun":"EAST ROCKHILL TWP","nc":1,"o":"-75.321302"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.643732,40.250384],"type":"Point"},"properties":{"a":"40.250384","cty":"DAUPHIN","id":8841830,"mun":"DERRY TWP","nc":6,"o":"-76.643732"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.644753,40.248574],"type":"Point"},"properties":{"a":"40.248574","cty":"DAUPHIN","id":8841832,"mun":"DERRY TWP","nc":3,"o":"-76.644753"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.647435,40.253415],"type":"Point"},"properties":{"a":"40.253415","cty":"DAUPHIN","id":8841834,"mun":"DERRY TWP","nc":4,"o":"-76.647435"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.875069,40.161554],"type":"Point"},"properties":{"a":"40.161554","cty":"BERKS","id":8841835,"mun":"CAERNARVON TWP","nc":4,"o":"-75.875069"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.630192,40.703663],"type":"Point"},"properties":{"a":"40.703663","cty":"LEHIGH","id":8841836,"mun":"WASHINGTON TWP","nc":1,"o":"-75.630192"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.645603,40.247281],"type":"Point"},"properties":{"a":"40.247281","cty":"DAUPHIN","id":8841839,"mun":"DERRY TWP","nc":6,"o":"-76.645603"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.897583,40.184061],"type":"Point"},"properties":{"a":"40.184061","cty":"YORK","id":8841842,"mun":"FAIRVIEW TWP","nc":1,"o":"-76.897583"},"type":"Feature"}
+{"geometry":{"coordinates":[-76.90617,40.18692],"type":"Point"},"properties":{"a":"40.18692","cty":"YORK","hp":true,"id":8841848,"mun":"FAIRVIEW TWP","nc":266,"ne":{"a":"40.19707","o":"-76.8929"},"o":"-76.90617","sw":{"a":"40.17677","o":"-76.91944"}},"type":"Feature"},
+{"geometry":{"coordinates":[-76.246417,39.990094],"type":"Point"},"properties":{"a":"39.990094","cty":"LANCASTER","id":8841851,"mun":"WEST LAMPETER TWP","nc":2,"o":"-76.246417"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.166208,40.176696],"type":"Point"},"properties":{"a":"40.176696","cty":"LANCASTER","id":8841854,"mun":"EPHRATA TWP","nc":2,"o":"-76.166208"},"type":"Feature"}
 ]}
