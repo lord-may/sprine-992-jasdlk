@@ -9,5 +9,6 @@
 {"geometry":{"coordinates":[-71.629073,41.714787],"type":"Point"},"properties":{"a":"41.714787","cty":"KENT","id":20261075299,"mun":"COVENTRY","nc":1,"o":"-71.629073"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.627868,41.714423],"type":"Point"},"properties":{"a":"41.714423","cty":"KENT","id":20261075302,"mun":"COVENTRY","nc":1,"o":"-71.627868"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.632275,41.71531],"type":"Point"},"properties":{"a":"41.71531","cty":"KENT","id":20261075303,"mun":"COVENTRY","nc":1,"o":"-71.632275"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.527727,41.723985],"type":"Point"},"properties":{"a":"41.723985","cty":"KENT","id":20261075306,"mun":"WEST WARWICK","nc":1,"o":"-71.527727"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.527727,41.723985],"type":"Point"},"properties":{"a":"41.723985","cty":"KENT","id":20261075306,"mun":"WEST WARWICK","nc":1,"o":"-71.527727"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.442446,41.700326],"type":"Point"},"properties":{"a":"41.700326","cty":"KENT","id":20261075349,"mun":"WARWICK","nc":1,"o":"-71.442446"},"type":"Feature"}
 ]}
