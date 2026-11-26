@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.318767,40.04315],"type":"Point"},"properties":{"a":"40.04315","cty":"LANCASTER","id":8841705,"mun":"LANCASTER","nc":34,"o":"-76.318767"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.95105,40.31436],"type":"Point"},"properties":{"a":"40.31436","cty":"CUMBERLAND","hp":true,"id":8841716,"mun":"EAST PENNSBORO TWP","nc":9,"ne":{"a":"40.31705","o":"-76.94728"},"o":"-76.95105","sw":{"a":"40.31167","o":"-76.95482"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.385157,40.626567],"type":"Point"},"properties":{"a":"40.626567","cty":"NORTHAMPTON","id":8841719,"mun":"BETHLEHEM","nc":1,"o":"-75.385157"},"type":"Feature"}
+{"geometry":{"coordinates":[-75.282195,41.025986],"type":"Point"},"properties":{"a":"41.025986","cty":"MONROE","id":8841721,"mun":"POCONO TWP","nc":4,"o":"-75.282195"},"type":"Feature"}
 ]}
