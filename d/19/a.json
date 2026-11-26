@@ -1,3 +1,6 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-74.954038,41.683869],"type":"Point"},"properties":{"EstRest":"11/26/2026 9:45:00 AM","Outages":1,"cause":"","county":"ONEIDA","crewstatus":"     ","customers":23,"hamlet":"CASSVILLE","incidentnumber":"011HM7","incidents":1,"level":"street","opco":"NYSEG","street":"SHAUL RD","town":"BRIDGEWATER T"},"type":"Feature"},
+{"geometry":{"coordinates":[-74.954038,41.683869],"type":"Point"},"properties":{"EstRest":"11/26/2026 9:45:00 AM","Outages":1,"county":"ONEIDA","customers":3749,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
+{"geometry":{"coordinates":[-74.95378,41.683344],"type":"Point"},"properties":{"EstRest":"11/26/2026 9:45:00 AM","Outages":6,"cause":"","county":"SULLIVAN","crewstatus":"     ","customers":6,"hamlet":"COCHECTON","incidentnumber":"011HM7","incidents":1,"level":"street","opco":"NYSEG","street":"QUALLS RD","town":"COCHECTON T"},"type":"Feature"},
+{"geometry":{"coordinates":[-74.95378,41.683344],"type":"Point"},"properties":{"EstRest":"11/26/2026 9:45:00 AM","Outages":6,"county":"SULLIVAN","customers":49068,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
