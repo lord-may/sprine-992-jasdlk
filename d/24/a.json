@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.71965,41.762],"type":"Point"},"properties":{"a":"41.762","cty":"PROVIDENCE","hp":true,"id":20261074655,"mun":"FOSTER","nc":19,"ne":{"a":"41.76962","o":"-71.71541"},"o":"-71.71965","sw":{"a":"41.75437","o":"-71.72388"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.442446,41.700326],"type":"Point"},"properties":{"a":"41.700326","cty":"KENT","id":20261074697,"mun":"WARWICK","nc":1,"o":"-71.442446"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.442446,41.700326],"type":"Point"},"properties":{"a":"41.700326","cty":"KENT","id":20261074697,"mun":"WARWICK","nc":1,"o":"-71.442446"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.474501,41.790238],"type":"Point"},"properties":{"a":"41.790238","cty":"PROVIDENCE","id":20261074774,"mun":"CRANSTON","nc":1,"o":"-71.474501"},"type":"Feature"}
 ]}
