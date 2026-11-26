@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-77.868166,42.724611],"type":"Point"},"properties":{"EstRest":"11/25/2026 11:15:00 PM","Outages":32,"county":"LIVINGSTON","customers":6498,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.868169,42.725568],"type":"Point"},"properties":{"EstRest":"11/25/2026 11:15:00 PM","Outages":2,"cause":"","county":"LIVINGSTON","crewstatus":"     ","customers":17,"hamlet":"MOUNT MORRIS","incidentnumber":"011HKW","incidents":1,"level":"street","opco":"RGE","street":"SULLIVAN ST","town":"MT MORRIS V MT MORRIS"},"type":"Feature"}
+{"geometry":{"coordinates":[-77.868169,42.725568],"type":"Point"},"properties":{"EstRest":"11/25/2026 11:15:00 PM","Outages":2,"cause":"","county":"LIVINGSTON","crewstatus":"DISP ","customers":17,"hamlet":"MOUNT MORRIS","incidentnumber":"011HKW","incidents":1,"level":"street","opco":"RGE","street":"SULLIVAN ST","town":"MT MORRIS V MT MORRIS"},"type":"Feature"}
 ]}
