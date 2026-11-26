@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.71965,41.762],"type":"Point"},"properties":{"a":"41.762","cty":"PROVIDENCE","hp":true,"id":20261074655,"mun":"FOSTER","nc":19,"ne":{"a":"41.76962","o":"-71.71541"},"o":"-71.71965","sw":{"a":"41.75437","o":"-71.72388"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.613096,41.525329],"type":"Point"},"properties":{"a":"41.525329","cty":"WASHINGTON","id":20261074685,"mun":"RICHMOND","nc":1,"o":"-71.613096"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.613162,41.525266],"type":"Point"},"properties":{"a":"41.525266","cty":"WASHINGTON","id":20261074686,"mun":"RICHMOND","nc":3,"o":"-71.613162"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.442446,41.700326],"type":"Point"},"properties":{"a":"41.700326","cty":"KENT","id":20261074697,"mun":"WARWICK","nc":1,"o":"-71.442446"},"type":"Feature"}
 ]}
