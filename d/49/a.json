@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-76.11417,38.745697],"type":"Point"},"properties":{"dateReceived":"2026-11-26T16:08:00.000Z","id":877092,"latitude":38.745697,"longitude":-76.11417,"neighborhood":"Cedar Point","problemName":"No Electric","serviceName":"Electric"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.16146,38.87681],"type":"Point"},"properties":{"dateReceived":"2026-11-26T16:20:00.000Z","id":877094,"latitude":38.87681,"longitude":-76.16146,"neighborhood":"Presquile","problemName":"No Electric","serviceName":"Electric"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.080925,38.850205],"type":"Point"},"properties":{"dateReceived":"2026-11-26T16:24:00.000Z","id":877096,"latitude":38.8502045,"longitude":-76.080925,"neighborhood":"Longwoods","problemName":"No Electric","serviceName":"Electric"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.11017,38.846863],"type":"Point"},"properties":{"dateReceived":"2026-11-26T16:24:00.000Z","id":877097,"latitude":38.8468628,"longitude":-76.11017,"neighborhood":"Kintore","problemName":"No Electric","serviceName":"Electric"},"type":"Feature"},
