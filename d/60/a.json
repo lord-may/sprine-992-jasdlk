@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-79.87789,40.43585],"type":"Point"},"properties":{"additionalProperties":[{"property":"jobNumber","value":"Job.26.11.25.00143"},{"property":"zips","value":["15221"]},{"property":"counties","value":["ALLEGHENY"]},{"property":"municipalities","value":["PITTSBURGH"]}],"cause":"Equipment Issue","etrTime":1795676400000,"id":2256402,"identifier":"Job.26.11.25.00143_6b07ba4b1dd8c73cfe70eec4","lastUpdatedTime":1795672842000,"latitude":40.43585,"longitude":-79.87789,"numPeople":46,"startTime":1795668360000,"status":"Crew On-Site Working","title":"Outage"},"type":"Feature"}
+
 ]}
