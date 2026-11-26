@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-75.36617,43.61952],"type":"Point"},"properties":{"cause":{"EN-US":"Under Investigation","ES-ES":"Bajo Investigación","orig":"Null"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Unassigned","ES-ES":"Sin Asignar","orig":"Unassigned"},"cust_a":{"mask":5,"val":4},"etr":"2026-11-26T08:30:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-11-26T05:00:09Z","title":"Area Outage","town":"Lyons Falls"},"type":"Feature"},
+{"geometry":{"coordinates":[-73.83293,42.66013],"type":"Point"},"properties":{"cause":{"EN-US":"Under Investigation","ES-ES":"Bajo Investigación","orig":"Null"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Unassigned","ES-ES":"Sin Asignar","orig":"Unassigned"},"cust_a":{"mask":5,"val":4},"etr":"2026-11-26T08:45:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-11-26T05:01:06Z","title":"Area Outage","town":"Bethlehem"},"type":"Feature"}
 ]}
