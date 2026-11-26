@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-76.11417,38.745697],"type":"Point"},"properties":{"dateReceived":"2026-11-26T16:08:00.000Z","id":877092,"latitude":38.745697,"longitude":-76.11417,"neighborhood":"Cedar Point","problemName":"No Electric","serviceName":"Electric"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.11425,38.74573],"type":"Point"},"properties":{"dateReceived":"2026-11-26T16:10:00.000Z","id":877093,"latitude":38.74573,"longitude":-76.11425,"neighborhood":"Cedar Point","problemName":"No Electric","serviceName":"Electric"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.16146,38.87681],"type":"Point"},"properties":{"dateReceived":"2026-11-26T16:20:00.000Z","id":877094,"latitude":38.87681,"longitude":-76.16146,"neighborhood":"Presquile","problemName":"No Electric","serviceName":"Electric"},"type":"Feature"}
 ]}
