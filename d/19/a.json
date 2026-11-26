@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-75.156111,42.931497],"type":"Point"},"properties":{"EstRest":"11/26/2026 12:00:00 PM","Outages":7,"cause":"","county":"HERKIMER","crewstatus":"DISP ","customers":30,"hamlet":"WEST WINFIELD","incidentnumber":"011HN9","incidents":1,"level":"street","opco":"NYSEG","street":"BABCOCK HILL RD","town":"WINFIELD T"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.156111,42.931497],"type":"Point"},"properties":{"EstRest":"11/26/2026 12:00:00 PM","Outages":7,"county":"HERKIMER","customers":1938,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.549197,42.500453],"type":"Point"},"properties":{"EstRest":"11/26/2026 12:30:00 PM","Outages":32,"cause":"","county":"TOMPKINS","crewstatus":"     ","customers":33,"hamlet":"ITHACA","incidentnumber":"011HNE","incidents":1,"level":"street","opco":"NYSEG","street":"PERRY CITY RD","town":"ULYSSES T"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.549197,42.500453],"type":"Point"},"properties":{"EstRest":"11/26/2026 12:30:00 PM","Outages":32,"cause":"","county":"TOMPKINS","crewstatus":"DISP ","customers":33,"hamlet":"ITHACA","incidentnumber":"011HNE","incidents":1,"level":"street","opco":"NYSEG","street":"PERRY CITY RD","town":"ULYSSES T"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.558278,42.499081],"type":"Point"},"properties":{"EstRest":"11/26/2026 12:30:00 PM","Outages":119,"county":"TOMPKINS","customers":49652,"incidents":1,"level":"county","opco":"NYSEG"},"type":"Feature"}
 ]}
