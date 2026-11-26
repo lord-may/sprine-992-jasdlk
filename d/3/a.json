@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-73.48532,41.14952],"type":"Point"},"properties":{"cluster":false,"cust_a":{"masked":true,"val":4},"etr":"2026-11-26T08:15:00-0500","inc_id":"W6148063-0","start":"2026-11-26T04:32:03-0500","title":"Outage Information"},"type":"Feature"},
 {"geometry":{"coordinates":[-72.13082,41.56878],"type":"Point"},"properties":{"cluster":false,"cust_a":{"masked":true,"val":4},"etr":"2026-11-26T08:30:00-0500","inc_id":"W6148065-0","start":"2026-11-26T04:51:51-0500","title":"Outage Information"},"type":"Feature"}
 ]}
