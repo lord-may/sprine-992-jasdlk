@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.10587,38.796806],"type":"Point"},"properties":{"dateReceived":"2026-11-26T14:06:00.000Z","id":877081,"latitude":38.7968063,"longitude":-76.10587,"neighborhood":"Glebe Villa","problemName":"No Electric","serviceName":"Electric"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.06187,38.77089],"type":"Point"},"properties":{"dateReceived":"2026-11-26T14:19:00.000Z","id":877082,"latitude":38.77089,"longitude":-76.06187,"neighborhood":"Carrolls Add","problemName":"No Electric","serviceName":"Electric"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.063484,38.769833],"type":"Point"},"properties":{"dateReceived":"2026-11-26T14:23:00.000Z","id":877083,"latitude":38.7698326,"longitude":-76.0634842,"neighborhood":"","problemName":"No Electric","serviceName":"Electric"},"type":"Feature"}
 ]}
