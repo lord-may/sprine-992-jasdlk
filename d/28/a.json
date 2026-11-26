@@ -1,5 +1,9 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.568667,39.795091],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1795713300000,"id":"475955","lifeCycleStatus":"Assigned","nbrOut":2,"planned":false,"timeOff":1795701998839},"type":"Feature"},
 {"geometry":{"coordinates":[-76.715928,39.898813],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1795718700000,"id":"475974","lifeCycleStatus":"On-Site","nbrOut":11,"planned":false,"timeOff":1795707128065},"type":"Feature"},
-{"geometry":{"coordinates":[-76.84674,40.028612],"type":"Point"},"properties":{"crewAssigned":false,"id":"475979","lifeCycleStatus":"Unacknowledged","nbrOut":1,"planned":false,"timeOff":1795709899950},"type":"Feature"}
+{"geometry":{"coordinates":[-76.846956,40.028282],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1795721400000,"id":"475979","lifeCycleStatus":"Acknowledged","nbrOut":3,"planned":false,"timeOff":1795709899950},"type":"Feature"},
+{"geometry":{"coordinates":[-77.171014,39.840451],"type":"Point"},"properties":{"crewAssigned":false,"id":"475980","lifeCycleStatus":"Acknowledged","nbrOut":8,"planned":false,"timeOff":1795709953590},"type":"Feature"},
+{"geometry":{"coordinates":[-76.619125,39.724384],"type":"Point"},"properties":{"crewAssigned":false,"id":"475984","lifeCycleStatus":"Unacknowledged","nbrOut":1,"planned":false,"timeOff":1795710120000},"type":"Feature"},
+{"geometry":{"coordinates":[-76.835422,39.855141],"type":"Point"},"properties":{"comment":"Adams Electric is currently experiencing an outage due to unknown cause at this time. Crews have been dispatched and we appreciate your cooperation while this issue is resolved. Thank you.","crewAssigned":false,"id":"475986","lifeCycleStatus":"Acknowledged","nbrOut":193,"planned":false,"timeOff":1795710389000},"type":"Feature"},
+{"geometry":{"coordinates":[-76.914779,39.823342],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1795721400000,"id":"475989","lifeCycleStatus":"Acknowledged","nbrOut":2,"planned":false,"timeOff":1795710392228},"type":"Feature"}
 ]}
