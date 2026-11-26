@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.508,41.64989],"type":"Point"},"properties":{"a":"41.64989","cty":"KENT","hp":true,"id":20261075442,"mun":"EAST GREENWICH","nc":86,"ne":{"a":"41.65435","o":"-71.49933"},"o":"-71.508","sw":{"a":"41.64543","o":"-71.51666"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.7774,41.42769],"type":"Point"},"properties":{"a":"41.42769","cty":"WASHINGTON","hp":true,"id":20261075450,"mun":"HOPKINTON","nc":12,"ne":{"a":"41.42946","o":"-71.77495"},"o":"-71.7774","sw":{"a":"41.42592","o":"-71.77985"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.632901,41.726241],"type":"Point"},"properties":{"a":"41.726241","cty":"KENT","id":20261075472,"mun":"COVENTRY","nc":1,"o":"-71.632901"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.7774,41.42769],"type":"Point"},"properties":{"a":"41.42769","cty":"WASHINGTON","hp":true,"id":20261075450,"mun":"HOPKINTON","nc":12,"ne":{"a":"41.42946","o":"-71.77495"},"o":"-71.7774","sw":{"a":"41.42592","o":"-71.77985"}},"type":"Feature"}
 ]}
