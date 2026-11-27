@@ -6,5 +6,7 @@
 {"geometry":{"coordinates":[-71.415731,41.896079],"type":"Point"},"properties":{"a":"41.896079","cty":"PROVIDENCE","id":20261075997,"mun":"LINCOLN","nc":8,"o":"-71.415731"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.590705,41.494988],"type":"Point"},"properties":{"a":"41.494988","cty":"WASHINGTON","id":20261076013,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.590705"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.735632,41.336758],"type":"Point"},"properties":{"a":"41.336758","cty":"WASHINGTON","id":20261076014,"mun":"WESTERLY","nc":1,"o":"-71.735632"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.450659,41.515325],"type":"Point"},"properties":{"a":"41.515325","cty":"WASHINGTON","id":20261076024,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.450659"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.450659,41.515325],"type":"Point"},"properties":{"a":"41.515325","cty":"WASHINGTON","id":20261076024,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.450659"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.24301,41.58538],"type":"Point"},"properties":{"a":"41.58538","cty":"NEWPORT","hp":true,"id":20261076031,"mun":"PORTSMOUTH","nc":35,"ne":{"a":"41.58717","o":"-71.24188"},"o":"-71.24301","sw":{"a":"41.5836","o":"-71.24414"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.459585,41.906106],"type":"Point"},"properties":{"a":"41.906106","cty":"PROVIDENCE","id":20261076032,"mun":"LINCOLN","nc":1,"o":"-71.459585"},"type":"Feature"}
 ]}
