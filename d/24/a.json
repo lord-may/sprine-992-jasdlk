@@ -7,5 +7,11 @@
 {"geometry":{"coordinates":[-71.560722,41.405656],"type":"Point"},"properties":{"a":"41.405656","cty":"WASHINGTON","id":20261075604,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.560722"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.55888,41.51997],"type":"Point"},"properties":{"a":"41.51997","cty":"WASHINGTON","hp":true,"id":20261075613,"mun":"EXETER","nc":13,"ne":{"a":"41.52108","o":"-71.55618"},"o":"-71.55888","sw":{"a":"41.51885","o":"-71.56157"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.43399,41.69426],"type":"Point"},"properties":{"a":"41.69426","cty":"KENT","hp":true,"id":20261075620,"mun":"WARWICK","nc":52,"ne":{"a":"41.69654","o":"-71.43331"},"o":"-71.43399","sw":{"a":"41.69199","o":"-71.43468"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.447549,41.698429],"type":"Point"},"properties":{"a":"41.698429","cty":"KENT","id":20261075621,"mun":"WARWICK","nc":1,"o":"-71.447549"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.447549,41.698429],"type":"Point"},"properties":{"a":"41.698429","cty":"KENT","id":20261075621,"mun":"WARWICK","nc":1,"o":"-71.447549"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.72545,41.53082],"type":"Point"},"properties":{"a":"41.53082","cty":"WASHINGTON","hp":true,"id":20261075630,"mun":"HOPKINTON","nc":72,"ne":{"a":"41.53593","o":"-71.71908"},"o":"-71.72545","sw":{"a":"41.52572","o":"-71.73181"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.724693,41.740731],"type":"Point"},"properties":{"a":"41.740731","cty":"PROVIDENCE","id":20261075631,"mun":"FOSTER","nc":2,"o":"-71.724693"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.739517,41.532365],"type":"Point"},"properties":{"a":"41.532365","cty":"WASHINGTON","id":20261075633,"mun":"HOPKINTON","nc":1,"o":"-71.739517"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.76877,41.5891],"type":"Point"},"properties":{"a":"41.5891","cty":"WASHINGTON","hp":true,"id":20261075634,"mun":"EXETER","nc":16,"ne":{"a":"41.59155","o":"-71.75941"},"o":"-71.76877","sw":{"a":"41.58664","o":"-71.77814"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.654282,41.881963],"type":"Point"},"properties":{"a":"41.881963","cty":"PROVIDENCE","id":20261075639,"mun":"GLOCESTER","nc":1,"o":"-71.654282"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.653937,41.881495],"type":"Point"},"properties":{"a":"41.881495","cty":"PROVIDENCE","id":20261075644,"mun":"GLOCESTER","nc":1,"o":"-71.653937"},"type":"Feature"}
 ]}
