@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.476249,41.85278],"type":"Point"},"properties":{"a":"41.85278","cty":"PROVIDENCE","id":20261076306,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.476249"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.416851,41.873038],"type":"Point"},"properties":{"a":"41.873038","cty":"PROVIDENCE","id":20261076396,"mun":"PAWTUCKET","nc":1,"o":"-71.416851"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.412502,41.870835],"type":"Point"},"properties":{"a":"41.870835","cty":"PROVIDENCE","id":20261076397,"mun":"PAWTUCKET","nc":1,"o":"-71.412502"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.419609,41.831287],"type":"Point"},"properties":{"a":"41.831287","cty":"PROVIDENCE","id":20261076400,"mun":"PROVIDENCE","nc":1,"o":"-71.419609"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.823348,41.345786],"type":"Point"},"properties":{"a":"41.345786","cty":"WASHINGTON","id":20261076408,"mun":"WESTERLY","nc":1,"o":"-71.823348"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.390666,41.976059],"type":"Point"},"properties":{"a":"41.976059","cty":"PROVIDENCE","id":20261076410,"mun":"CUMBERLAND","nc":1,"o":"-71.390666"},"type":"Feature"}
 ]}

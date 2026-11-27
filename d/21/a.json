@@ -1,5 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.456922,44.122807],"type":"Point"},"properties":{"EstRest":"11/27/2026 7:00:00 PM","Outages":369,"county":"LINCOLN","customers":29091,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.938108,44.916447],"type":"Point"},"properties":{"EstRest":"11/27/2026 6:30:00 PM","Outages":32,"county":"SOMERSET","customers":31730,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.938636,44.917574],"type":"Point"},"properties":{"EstRest":"11/27/2026 6:30:00 PM","Outages":7,"cause":"Tree","county":"SOMERSET","crewstatus":"ONST ","customers":7,"hamlet":"EMBDEN","incidentnumber":"0048CW","incidents":1,"level":"street","opco":"CMP","street":"S SHORE DR","town":"EMBDEN"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.457461,44.112591],"type":"Point"},"properties":{"EstRest":"11/27/2026 7:00:00 PM","Outages":369,"county":"LINCOLN","customers":29091,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
