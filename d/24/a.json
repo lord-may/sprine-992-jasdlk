@@ -15,5 +15,8 @@
 {"geometry":{"coordinates":[-71.69382,41.46435],"type":"Point"},"properties":{"a":"41.46435","cty":"WASHINGTON","hp":true,"id":20261075697,"mun":"RICHMOND","nc":17,"ne":{"a":"41.4662","o":"-71.68858"},"o":"-71.69382","sw":{"a":"41.4625","o":"-71.69905"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.770533,41.833978],"type":"Point"},"properties":{"a":"41.833978","cty":"PROVIDENCE","id":20261075721,"mun":"FOSTER","nc":1,"o":"-71.770533"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.601109,41.39444],"type":"Point"},"properties":{"a":"41.39444","cty":"WASHINGTON","id":20261075728,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.601109"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.476249,41.85278],"type":"Point"},"properties":{"a":"41.85278","cty":"PROVIDENCE","id":20261075747,"mun":"NORTH PROVIDENCE","nc":21,"o":"-71.476249"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.415345,41.896065],"type":"Point"},"properties":{"a":"41.896065","cty":"PROVIDENCE","id":20261075750,"mun":"LINCOLN","nc":1,"o":"-71.415345"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.387966,41.925412],"type":"Point"},"properties":{"a":"41.925412","cty":"PROVIDENCE","id":20261075755,"mun":"CUMBERLAND","nc":2,"o":"-71.387966"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.458616,42.014385],"type":"Point"},"properties":{"a":"42.014385","cty":"PROVIDENCE","id":20261075760,"mun":"WOONSOCKET","nc":1,"o":"-71.458616"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.439524,41.834779],"type":"Point"},"properties":{"a":"41.834779","cty":"PROVIDENCE","id":20261075765,"mun":"PROVIDENCE","nc":1,"o":"-71.439524"},"type":"Feature"}
 ]}
