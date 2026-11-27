@@ -1,9 +1,10 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-78.067672,42.500343],"type":"Point"},"properties":{"EstRest":"11/27/2026 11:00:00 AM","Outages":770,"county":"ALLEGANY","customers":11032,"incidents":20,"level":"county","opco":"RGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.643071,43.26199],"type":"Point"},"properties":{"EstRest":"11/27/2026 2:45:00 AM","Outages":65,"county":"CAYUGA","customers":6006,"incidents":5,"level":"county","opco":"RGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.852612,42.563531],"type":"Point"},"properties":{"EstRest":"11/27/2026 11:00:00 AM","Outages":515,"county":"LIVINGSTON","customers":6498,"incidents":7,"level":"county","opco":"RGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.600707,43.23448],"type":"Point"},"properties":{"EstRest":"11/27/2026 2:45:00 AM","Outages":74,"county":"CAYUGA","customers":6006,"incidents":5,"level":"county","opco":"RGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-78.002219,42.545622],"type":"Point"},"properties":{"EstRest":"11/27/2026 11:00:00 AM","Outages":515,"county":"LIVINGSTON","customers":6498,"incidents":7,"level":"county","opco":"RGE"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.506164,43.164169],"type":"Point"},"properties":{"EstRest":"11/27/2026 2:00:00 AM","Outages":382,"county":"MONROE","customers":304665,"incidents":2,"level":"county","opco":"RGE"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.400503,42.69128],"type":"Point"},"properties":{"EstRest":"11/27/2026 5:00:00 AM","Outages":39,"county":"ONTARIO","customers":35980,"incidents":3,"level":"county","opco":"RGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.482216,43.172433],"type":"Point"},"properties":{"EstRest":"11/26/2026 11:30:00 PM","Outages":2,"county":"WAYNE","customers":26815,"incidents":2,"level":"county","opco":"RGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-78.119491,42.528493],"type":"Point"},"properties":{"EstRest":"11/27/2026 11:00:00 AM","Outages":1154,"county":"WYOMING","customers":1197,"incidents":13,"level":"county","opco":"RGE"},"type":"Feature"}
+{"geometry":{"coordinates":[-78.189166,42.260259],"type":"Point"},"properties":{"EstRest":"","Outages":1,"cause":"","county":"WAYNE","crewstatus":"     ","customers":1,"hamlet":"NORTH ROSE","incidentnumber":"011JKS","incidents":1,"level":"street","opco":"RGE","street":"CRESCENT BEACH","town":"BELFAST"},"type":"Feature"},
+{"geometry":{"coordinates":[-78.189166,42.260259],"type":"Point"},"properties":{"EstRest":"","Outages":1,"county":"WAYNE","customers":26815,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-78.118598,42.540685],"type":"Point"},"properties":{"EstRest":"11/27/2026 11:00:00 AM","Outages":1154,"county":"WYOMING","customers":1197,"incidents":13,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
