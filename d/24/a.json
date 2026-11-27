@@ -2,8 +2,6 @@
 {"geometry":{"coordinates":[-71.56388,41.37442],"type":"Point"},"properties":{"a":"41.37442","cty":"WASHINGTON","hp":true,"id":20261075563,"mun":"SOUTH KINGSTOWN","nc":10,"ne":{"a":"41.37663","o":"-71.56266"},"o":"-71.56388","sw":{"a":"41.37221","o":"-71.56511"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.560722,41.405656],"type":"Point"},"properties":{"a":"41.405656","cty":"WASHINGTON","id":20261075604,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.560722"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.739517,41.532365],"type":"Point"},"properties":{"a":"41.532365","cty":"WASHINGTON","id":20261075633,"mun":"HOPKINTON","nc":1,"o":"-71.739517"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.654282,41.881963],"type":"Point"},"properties":{"a":"41.881963","cty":"PROVIDENCE","id":20261075639,"mun":"GLOCESTER","nc":1,"o":"-71.654282"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.653937,41.881495],"type":"Point"},"properties":{"a":"41.881495","cty":"PROVIDENCE","id":20261075644,"mun":"GLOCESTER","nc":5,"o":"-71.653937"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.503946,41.388581],"type":"Point"},"properties":{"a":"41.388581","cty":"WASHINGTON","id":20261075666,"mun":"NARRAGANSETT","nc":1,"o":"-71.503946"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.557882,41.398711],"type":"Point"},"properties":{"a":"41.398711","cty":"WASHINGTON","id":20261075669,"mun":"SOUTH KINGSTOWN","nc":5,"o":"-71.557882"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.581069,41.487839],"type":"Point"},"properties":{"a":"41.487839","cty":"WASHINGTON","id":20261075685,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.581069"},"type":"Feature"},
@@ -19,5 +17,6 @@
 {"geometry":{"coordinates":[-71.299407,41.483903],"type":"Point"},"properties":{"a":"41.483903","cty":"NEWPORT","id":20261075796,"mun":"NEWPORT","nc":21,"o":"-71.299407"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.29888,41.47983],"type":"Point"},"properties":{"a":"41.47983","cty":"NEWPORT","hp":true,"id":20261075797,"mun":"NEWPORT","nc":6,"ne":{"a":"41.48096","o":"-71.29831"},"o":"-71.29888","sw":{"a":"41.47871","o":"-71.29945"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.29836,41.484204],"type":"Point"},"properties":{"a":"41.484204","cty":"NEWPORT","id":20261075798,"mun":"NEWPORT","nc":1,"o":"-71.29836"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.302187,41.479598],"type":"Point"},"properties":{"a":"41.479598","cty":"NEWPORT","id":20261075800,"mun":"NEWPORT","nc":1,"o":"-71.302187"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.302187,41.479598],"type":"Point"},"properties":{"a":"41.479598","cty":"NEWPORT","id":20261075800,"mun":"NEWPORT","nc":1,"o":"-71.302187"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.45568,41.59632],"type":"Point"},"properties":{"a":"41.59632","cty":"WASHINGTON","id":20261075810,"mun":"NORTH KINGSTOWN","nc":2,"o":"-71.45568"},"type":"Feature"}
 ]}
