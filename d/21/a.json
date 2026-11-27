@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.457461,44.112591],"type":"Point"},"properties":{"EstRest":"11/27/2026 7:00:00 PM","Outages":369,"county":"LINCOLN","customers":29091,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.457461,44.112591],"type":"Point"},"properties":{"EstRest":"11/27/2026 11:00:00 PM","Outages":369,"county":"LINCOLN","customers":29091,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
