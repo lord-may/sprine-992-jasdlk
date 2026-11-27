@@ -4,5 +4,10 @@
 {"geometry":{"coordinates":[-71.74684,41.84786],"type":"Point"},"properties":{"a":"41.84786","cty":"PROVIDENCE","hp":true,"id":20261075917,"mun":"FOSTER","nc":25,"ne":{"a":"41.85409","o":"-71.73988"},"o":"-71.74684","sw":{"a":"41.84164","o":"-71.75381"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.639752,41.94677],"type":"Point"},"properties":{"a":"41.94677","cty":"PROVIDENCE","id":20261075922,"mun":"BURRILLVILLE","nc":2,"o":"-71.639752"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.6335,41.67809],"type":"Point"},"properties":{"a":"41.67809","cty":"KENT","hp":true,"id":20261075936,"mun":"COVENTRY","nc":10,"ne":{"a":"41.68214","o":"-71.63148"},"o":"-71.6335","sw":{"a":"41.67405","o":"-71.63552"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.416512,41.895952],"type":"Point"},"properties":{"a":"41.895952","cty":"PROVIDENCE","id":20261075963,"mun":"LINCOLN","nc":1,"o":"-71.416512"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.416512,41.895952],"type":"Point"},"properties":{"a":"41.895952","cty":"PROVIDENCE","id":20261075963,"mun":"LINCOLN","nc":1,"o":"-71.416512"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.372818,41.884341],"type":"Point"},"properties":{"a":"41.884341","cty":"PROVIDENCE","id":20261075970,"mun":"PAWTUCKET","nc":1,"o":"-71.372818"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.405735,41.840515],"type":"Point"},"properties":{"a":"41.840515","cty":"PROVIDENCE","id":20261075971,"mun":"PROVIDENCE","nc":42,"o":"-71.405735"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.419852,41.661611],"type":"Point"},"properties":{"a":"41.661611","cty":"KENT","id":20261075972,"mun":"WARWICK","nc":1,"o":"-71.419852"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.499519,41.723335],"type":"Point"},"properties":{"a":"41.723335","cty":"KENT","id":20261075975,"mun":"WEST WARWICK","nc":1,"o":"-71.499519"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.299407,41.483903],"type":"Point"},"properties":{"a":"41.483903","cty":"NEWPORT","id":20261075977,"mun":"NEWPORT","nc":1,"o":"-71.299407"},"type":"Feature"}
 ]}
