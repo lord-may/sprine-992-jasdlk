@@ -1,9 +1,10 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-77.986851,42.495533],"type":"Point"},"properties":{"EstRest":"11/27/2026 11:00:00 AM","Outages":769,"county":"ALLEGANY","customers":11032,"incidents":19,"level":"county","opco":"RGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-78.067672,42.500343],"type":"Point"},"properties":{"EstRest":"11/27/2026 11:00:00 AM","Outages":770,"county":"ALLEGANY","customers":11032,"incidents":20,"level":"county","opco":"RGE"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.643071,43.26199],"type":"Point"},"properties":{"EstRest":"11/26/2026 11:30:00 PM","Outages":56,"county":"CAYUGA","customers":6006,"incidents":4,"level":"county","opco":"RGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.902601,42.563676],"type":"Point"},"properties":{"EstRest":"11/27/2026 11:00:00 AM","Outages":505,"county":"LIVINGSTON","customers":6498,"incidents":6,"level":"county","opco":"RGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.564568,43.106292],"type":"Point"},"properties":{"EstRest":"11/27/2026 12:45:00 AM","Outages":124,"county":"MONROE","customers":304665,"incidents":2,"level":"county","opco":"RGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.398886,42.703264],"type":"Point"},"properties":{"EstRest":"11/27/2026 11:00:00 AM","Outages":39,"county":"ONTARIO","customers":35980,"incidents":3,"level":"county","opco":"RGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-78.000453,42.520599],"type":"Point"},"properties":{"EstRest":"11/27/2026 11:00:00 AM","Outages":505,"county":"LIVINGSTON","customers":6498,"incidents":6,"level":"county","opco":"RGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.558945,43.102637],"type":"Point"},"properties":{"EstRest":"11/27/2026 12:45:00 AM","Outages":11,"cause":"","county":"MONROE","crewstatus":"DISP ","customers":49,"hamlet":"ROCHESTER","incidentnumber":"011JEX","incidents":1,"level":"street","opco":"RGE","street":"DUNROVIN LA","town":"BRIGHTON"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.558945,43.102637],"type":"Point"},"properties":{"EstRest":"11/27/2026 12:45:00 AM","Outages":11,"county":"MONROE","customers":304665,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-77.980341,42.504053],"type":"Point"},"properties":{"EstRest":"11/27/2026 11:00:00 AM","Outages":39,"county":"ONTARIO","customers":35980,"incidents":3,"level":"county","opco":"RGE"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.482216,43.172433],"type":"Point"},"properties":{"EstRest":"11/26/2026 11:30:00 PM","Outages":2,"county":"WAYNE","customers":26815,"incidents":2,"level":"county","opco":"RGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-78.114366,42.540781],"type":"Point"},"properties":{"EstRest":"11/27/2026 11:00:00 AM","Outages":1154,"county":"WYOMING","customers":1197,"incidents":13,"level":"county","opco":"RGE"},"type":"Feature"}
+{"geometry":{"coordinates":[-78.189474,42.576127],"type":"Point"},"properties":{"EstRest":"11/27/2026 11:00:00 AM","Outages":1154,"county":"WYOMING","customers":1197,"incidents":13,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
