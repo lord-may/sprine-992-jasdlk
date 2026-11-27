@@ -1,9 +1,9 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.43515,41.91137],"type":"Point"},"properties":{"a":"41.91137","cty":"PROVIDENCE","hp":true,"id":20261075902,"mun":"LINCOLN","nc":344,"ne":{"a":"41.92294","o":"-71.41557"},"o":"-71.43515","sw":{"a":"41.8998","o":"-71.45472"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.44858,41.90189],"type":"Point"},"properties":{"a":"41.90189","cty":"PROVIDENCE","hp":true,"id":20261075902,"mun":"LINCOLN","nc":13,"ne":{"a":"41.90276","o":"-71.44737"},"o":"-71.44858","sw":{"a":"41.90103","o":"-71.44979"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.443084,41.93083],"type":"Point"},"properties":{"a":"41.93083","cty":"PROVIDENCE","id":20261075914,"mun":"LINCOLN","nc":1,"o":"-71.443084"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.468653,41.907289],"type":"Point"},"properties":{"a":"41.907289","cty":"PROVIDENCE","id":20261075915,"mun":"LINCOLN","nc":1,"o":"-71.468653"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.74684,41.84786],"type":"Point"},"properties":{"a":"41.84786","cty":"PROVIDENCE","hp":true,"id":20261075917,"mun":"FOSTER","nc":25,"ne":{"a":"41.85409","o":"-71.73988"},"o":"-71.74684","sw":{"a":"41.84164","o":"-71.75381"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.639752,41.94677],"type":"Point"},"properties":{"a":"41.94677","cty":"PROVIDENCE","id":20261075922,"mun":"BURRILLVILLE","nc":2,"o":"-71.639752"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.6335,41.67809],"type":"Point"},"properties":{"a":"41.67809","cty":"KENT","hp":true,"id":20261075936,"mun":"COVENTRY","nc":10,"ne":{"a":"41.68214","o":"-71.63148"},"o":"-71.6335","sw":{"a":"41.67405","o":"-71.63552"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.474501,41.790238],"type":"Point"},"properties":{"a":"41.790238","cty":"PROVIDENCE","id":20261075944,"mun":"CRANSTON","nc":1,"o":"-71.474501"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.299407,41.483903],"type":"Point"},"properties":{"a":"41.483903","cty":"NEWPORT","id":20261075959,"mun":"NEWPORT","nc":1,"o":"-71.299407"},"type":"Feature"}
 ]}
