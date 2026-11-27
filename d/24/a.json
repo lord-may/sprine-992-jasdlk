@@ -16,10 +16,10 @@
 {"geometry":{"coordinates":[-71.503946,41.388581],"type":"Point"},"properties":{"a":"41.388581","cty":"WASHINGTON","id":20261075666,"mun":"NARRAGANSETT","nc":1,"o":"-71.503946"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.557882,41.398711],"type":"Point"},"properties":{"a":"41.398711","cty":"WASHINGTON","id":20261075669,"mun":"SOUTH KINGSTOWN","nc":5,"o":"-71.557882"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.64126,41.382532],"type":"Point"},"properties":{"a":"41.382532","cty":"WASHINGTON","id":20261075673,"mun":"CHARLESTOWN","nc":1,"o":"-71.64126"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.627114,41.386736],"type":"Point"},"properties":{"a":"41.386736","cty":"WASHINGTON","id":20261075679,"mun":"CHARLESTOWN","nc":1,"o":"-71.627114"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.581069,41.487839],"type":"Point"},"properties":{"a":"41.487839","cty":"WASHINGTON","id":20261075685,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.581069"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.580521,41.804867],"type":"Point"},"properties":{"a":"41.804867","cty":"PROVIDENCE","id":20261075689,"mun":"SCITUATE","nc":2,"o":"-71.580521"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.69382,41.46435],"type":"Point"},"properties":{"a":"41.46435","cty":"WASHINGTON","hp":true,"id":20261075697,"mun":"RICHMOND","nc":17,"ne":{"a":"41.4662","o":"-71.68858"},"o":"-71.69382","sw":{"a":"41.4625","o":"-71.69905"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.770533,41.833978],"type":"Point"},"properties":{"a":"41.833978","cty":"PROVIDENCE","id":20261075721,"mun":"FOSTER","nc":1,"o":"-71.770533"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.606395,41.393166],"type":"Point"},"properties":{"a":"41.393166","cty":"WASHINGTON","id":20261075727,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.606395"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.606395,41.393166],"type":"Point"},"properties":{"a":"41.393166","cty":"WASHINGTON","id":20261075727,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.606395"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.601109,41.39444],"type":"Point"},"properties":{"a":"41.39444","cty":"WASHINGTON","id":20261075728,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.601109"},"type":"Feature"}
 ]}

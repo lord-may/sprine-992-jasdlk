@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-70.646415,43.110752],"type":"Point"},"properties":{"EstRest":"11/26/2026 11:30:00 PM","Outages":14,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.649673,43.111083],"type":"Point"},"properties":{"EstRest":"11/26/2026 11:30:00 PM","Outages":12,"cause":"","county":"YORK","crewstatus":"     ","customers":12,"hamlet":"YORK","incidentnumber":"00488I","incidents":1,"level":"street","opco":"CMP","street":"SURF POINT RD","town":"YORK"},"type":"Feature"}
 ]}
