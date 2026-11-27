@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.118256,44.316259],"type":"Point"},"properties":{"EstRest":"11/27/2026 4:00:00 PM","Outages":3,"county":"WALDO","customers":26703,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.118704,44.316959],"type":"Point"},"properties":{"EstRest":"11/27/2026 4:00:00 PM","Outages":1,"cause":"","county":"WALDO","crewstatus":"ONST ","customers":2,"hamlet":"LINCOLNVILLE","incidentnumber":"0048CL","incidents":1,"level":"street","opco":"CMP","street":"BENSON BLVD","town":"LINCOLNVILLE"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.814918,43.94637],"type":"Point"},"properties":{"EstRest":"11/27/2026 4:30:00 PM","Outages":4,"cause":"","county":"SAGADAHOC","crewstatus":"     ","customers":476,"hamlet":"BATH","incidentnumber":"0048CO","incidents":1,"level":"street","opco":"CMP","street":"WASHINGTON ST","town":"BATH"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.814918,43.94637],"type":"Point"},"properties":{"EstRest":"11/27/2026 4:30:00 PM","Outages":4,"county":"SAGADAHOC","customers":23026,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
