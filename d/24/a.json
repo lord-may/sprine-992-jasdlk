@@ -1,10 +1,8 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.639752,41.94677],"type":"Point"},"properties":{"a":"41.94677","cty":"PROVIDENCE","id":20261075922,"mun":"BURRILLVILLE","nc":2,"o":"-71.639752"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.415731,41.896079],"type":"Point"},"properties":{"a":"41.896079","cty":"PROVIDENCE","id":20261075997,"mun":"LINCOLN","nc":8,"o":"-71.415731"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.59101,41.495],"type":"Point"},"properties":{"a":"41.495","cty":"WASHINGTON","hp":true,"id":20261076013,"mun":"SOUTH KINGSTOWN","nc":14,"ne":{"a":"41.49569","o":"-71.59031"},"o":"-71.59101","sw":{"a":"41.49431","o":"-71.59171"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.450659,41.515325],"type":"Point"},"properties":{"a":"41.515325","cty":"WASHINGTON","id":20261076056,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.450659"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.22499,41.623088],"type":"Point"},"properties":{"a":"41.623088","cty":"NEWPORT","id":20261076081,"mun":"PORTSMOUTH","nc":1,"o":"-71.22499"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.502827,41.445671],"type":"Point"},"properties":{"a":"41.445671","cty":"WASHINGTON","id":20261076106,"mun":"SOUTH KINGSTOWN","nc":19,"o":"-71.502827"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.407946,41.6966],"type":"Point"},"properties":{"a":"41.6966","cty":"KENT","id":20261076115,"mun":"WARWICK","nc":1,"o":"-71.407946"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.682711,41.684078],"type":"Point"},"properties":{"a":"41.684078","cty":"KENT","id":20261076116,"mun":"COVENTRY","nc":1,"o":"-71.682711"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.732878,41.780748],"type":"Point"},"properties":{"a":"41.780748","cty":"PROVIDENCE","id":20261076118,"mun":"FOSTER","nc":1,"o":"-71.732878"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.307172,41.45931],"type":"Point"},"properties":{"a":"41.45931","cty":"NEWPORT","id":20261076119,"mun":"NEWPORT","nc":1,"o":"-71.307172"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.451436,41.710021],"type":"Point"},"properties":{"a":"41.710021","cty":"KENT","id":20261076127,"mun":"WARWICK","nc":1,"o":"-71.451436"},"type":"Feature"}
 ]}
