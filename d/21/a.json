@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-69.249903,43.984339],"type":"Point"},"properties":{"EstRest":"11/27/2026 2:30:00 AM","Outages":36,"county":"KNOX","customers":27251,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.251709,43.981754],"type":"Point"},"properties":{"EstRest":"11/27/2026 2:30:00 AM","Outages":24,"cause":"","county":"KNOX","crewstatus":"     ","customers":29,"hamlet":"ST GEORGE","incidentnumber":"00488S","incidents":1,"level":"street","opco":"CMP","street":"OTIS POINT RD","town":"ST GEORGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.646415,43.110752],"type":"Point"},"properties":{"EstRest":"11/27/2026 2:30:00 AM","Outages":87,"county":"YORK","customers":132723,"incidents":3,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.251709,43.981754],"type":"Point"},"properties":{"EstRest":"11/27/2026 2:30:00 AM","Outages":24,"cause":"","county":"KNOX","crewstatus":"DISP ","customers":29,"hamlet":"ST GEORGE","incidentnumber":"00488S","incidents":1,"level":"street","opco":"CMP","street":"OTIS POINT RD","town":"ST GEORGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.646415,43.110752],"type":"Point"},"properties":{"EstRest":"11/27/2026 2:30:00 AM","Outages":54,"county":"YORK","customers":132723,"incidents":2,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}

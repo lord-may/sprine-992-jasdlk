@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-76.697575,39.870214],"type":"Point"},"properties":{"comment":"Adams Electric is currently experiencing an outage due to unknown cause at this time. Crews have been dispatched and we appreciate your cooperation while this issue is resolved. Thank you.","crewAssigned":true,"id":"476015","lifeCycleStatus":"On-Site","nbrOut":22,"planned":false,"timeOff":1795713936369},"type":"Feature"},
-{"geometry":{"coordinates":[-77.460011,40.016333],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1795762800000,"id":"476120","lifeCycleStatus":"Assigned","nbrOut":3,"planned":false,"timeOff":1795751877875},"type":"Feature"}
+
 ]}
