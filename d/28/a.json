@@ -5,5 +5,6 @@
 {"geometry":{"coordinates":[-77.152653,39.962064],"type":"Point"},"properties":{"cause":"Tree Failure Without Ice/Snow","crewAssigned":true,"id":"476075","lifeCycleStatus":"On-Site","nbrOut":19,"planned":false,"timeOff":1795724577969},"type":"Feature"},
 {"geometry":{"coordinates":[-77.42548,40.047278],"type":"Point"},"properties":{"crewAssigned":true,"id":"476099","lifeCycleStatus":"On-Site","nbrOut":10,"planned":false,"timeOff":1795734588359},"type":"Feature"},
 {"geometry":{"coordinates":[-76.566295,39.843389],"type":"Point"},"properties":{"crewAssigned":true,"id":"476104","lifeCycleStatus":"On-Site","nbrOut":39,"planned":false,"timeOff":1795735003653},"type":"Feature"},
-{"geometry":{"coordinates":[-77.345189,39.967992],"type":"Point"},"properties":{"crewAssigned":true,"id":"476108","lifeCycleStatus":"Assigned","nbrOut":23,"planned":false,"timeOff":1795735314050},"type":"Feature"}
+{"geometry":{"coordinates":[-77.345189,39.967992],"type":"Point"},"properties":{"crewAssigned":true,"id":"476108","lifeCycleStatus":"Assigned","nbrOut":23,"planned":false,"timeOff":1795735314050},"type":"Feature"},
+{"geometry":{"coordinates":[-76.437737,39.782204],"type":"Point"},"properties":{"crewAssigned":false,"id":"476111","lifeCycleStatus":"Unacknowledged","nbrOut":1,"planned":false,"timeOff":1795742077761},"type":"Feature"}
 ]}

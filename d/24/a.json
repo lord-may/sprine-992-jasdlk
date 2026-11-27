@@ -13,5 +13,8 @@
 {"geometry":{"coordinates":[-71.739517,41.532365],"type":"Point"},"properties":{"a":"41.532365","cty":"WASHINGTON","id":20261075633,"mun":"HOPKINTON","nc":1,"o":"-71.739517"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.76877,41.5891],"type":"Point"},"properties":{"a":"41.5891","cty":"WASHINGTON","hp":true,"id":20261075634,"mun":"EXETER","nc":16,"ne":{"a":"41.59155","o":"-71.75941"},"o":"-71.76877","sw":{"a":"41.58664","o":"-71.77814"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.654282,41.881963],"type":"Point"},"properties":{"a":"41.881963","cty":"PROVIDENCE","id":20261075639,"mun":"GLOCESTER","nc":1,"o":"-71.654282"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.653937,41.881495],"type":"Point"},"properties":{"a":"41.881495","cty":"PROVIDENCE","id":20261075644,"mun":"GLOCESTER","nc":1,"o":"-71.653937"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.653937,41.881495],"type":"Point"},"properties":{"a":"41.881495","cty":"PROVIDENCE","id":20261075644,"mun":"GLOCESTER","nc":1,"o":"-71.653937"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.522177,41.65053],"type":"Point"},"properties":{"a":"41.65053","cty":"KENT","id":20261075649,"mun":"EAST GREENWICH","nc":1,"o":"-71.522177"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.69885,41.90134],"type":"Point"},"properties":{"a":"41.90134","cty":"PROVIDENCE","hp":true,"id":20261075651,"mun":"GLOCESTER","nc":15,"ne":{"a":"41.90351","o":"-71.6928"},"o":"-71.69885","sw":{"a":"41.89918","o":"-71.7049"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.444247,41.84301],"type":"Point"},"properties":{"a":"41.84301","cty":"PROVIDENCE","id":20261075653,"mun":"PROVIDENCE","nc":1,"o":"-71.444247"},"type":"Feature"}
 ]}
