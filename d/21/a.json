@@ -1,8 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.099348,44.07826],"type":"Point"},"properties":{"EstRest":"11/27/2026 5:00:00 PM","Outages":1,"cause":"Tree","county":"KNOX","crewstatus":"CMPL ","customers":47,"hamlet":"OWLS HEAD","incidentnumber":"0048CP","incidents":1,"level":"street","opco":"CMP","street":"S SHORE DR","town":"OWLS HEAD"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.099348,44.07826],"type":"Point"},"properties":{"EstRest":"11/27/2026 5:00:00 PM","Outages":1,"county":"KNOX","customers":27251,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.468895,44.391182],"type":"Point"},"properties":{"EstRest":"11/27/2026 5:30:00 PM","Outages":1,"cause":"","county":"WALDO","crewstatus":"ENRT ","customers":85,"hamlet":"PALERMO","incidentnumber":"0048CS","incidents":1,"level":"street","opco":"CMP","street":"ROUTE 3","town":"PALERMO"},"type":"Feature"},
-{"geometry":{"coordinates":[-69.468895,44.391182],"type":"Point"},"properties":{"EstRest":"11/27/2026 5:30:00 PM","Outages":1,"county":"WALDO","customers":26703,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.448352,43.4986],"type":"Point"},"properties":{"EstRest":"11/27/2026 5:30:00 PM","Outages":1,"cause":"","county":"YORK","crewstatus":"ONST ","customers":117,"hamlet":"SACO","incidentnumber":"0048CU","incidents":1,"level":"street","opco":"CMP","street":"STORER ST","town":"SACO"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.448352,43.4986],"type":"Point"},"properties":{"EstRest":"11/27/2026 5:30:00 PM","Outages":1,"county":"YORK","customers":132723,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-69.468895,44.391182],"type":"Point"},"properties":{"EstRest":"11/27/2026 5:30:00 PM","Outages":1,"county":"WALDO","customers":26703,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
