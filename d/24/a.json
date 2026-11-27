@@ -8,7 +8,6 @@
 {"geometry":{"coordinates":[-71.55888,41.51997],"type":"Point"},"properties":{"a":"41.51997","cty":"WASHINGTON","hp":true,"id":20261075613,"mun":"EXETER","nc":13,"ne":{"a":"41.52108","o":"-71.55618"},"o":"-71.55888","sw":{"a":"41.51885","o":"-71.56157"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.43399,41.69426],"type":"Point"},"properties":{"a":"41.69426","cty":"KENT","hp":true,"id":20261075620,"mun":"WARWICK","nc":52,"ne":{"a":"41.69654","o":"-71.43331"},"o":"-71.43399","sw":{"a":"41.69199","o":"-71.43468"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.447549,41.698429],"type":"Point"},"properties":{"a":"41.698429","cty":"KENT","id":20261075621,"mun":"WARWICK","nc":1,"o":"-71.447549"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.72545,41.53082],"type":"Point"},"properties":{"a":"41.53082","cty":"WASHINGTON","hp":true,"id":20261075630,"mun":"HOPKINTON","nc":72,"ne":{"a":"41.53593","o":"-71.71908"},"o":"-71.72545","sw":{"a":"41.52572","o":"-71.73181"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.724693,41.740731],"type":"Point"},"properties":{"a":"41.740731","cty":"PROVIDENCE","id":20261075631,"mun":"FOSTER","nc":2,"o":"-71.724693"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.739517,41.532365],"type":"Point"},"properties":{"a":"41.532365","cty":"WASHINGTON","id":20261075633,"mun":"HOPKINTON","nc":1,"o":"-71.739517"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.76877,41.5891],"type":"Point"},"properties":{"a":"41.5891","cty":"WASHINGTON","hp":true,"id":20261075634,"mun":"EXETER","nc":16,"ne":{"a":"41.59155","o":"-71.75941"},"o":"-71.76877","sw":{"a":"41.58664","o":"-71.77814"}},"type":"Feature"},
@@ -16,5 +15,15 @@
 {"geometry":{"coordinates":[-71.653937,41.881495],"type":"Point"},"properties":{"a":"41.881495","cty":"PROVIDENCE","id":20261075644,"mun":"GLOCESTER","nc":1,"o":"-71.653937"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.522177,41.65053],"type":"Point"},"properties":{"a":"41.65053","cty":"KENT","id":20261075649,"mun":"EAST GREENWICH","nc":1,"o":"-71.522177"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.69885,41.90134],"type":"Point"},"properties":{"a":"41.90134","cty":"PROVIDENCE","hp":true,"id":20261075651,"mun":"GLOCESTER","nc":15,"ne":{"a":"41.90351","o":"-71.6928"},"o":"-71.69885","sw":{"a":"41.89918","o":"-71.7049"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.444247,41.84301],"type":"Point"},"properties":{"a":"41.84301","cty":"PROVIDENCE","id":20261075653,"mun":"PROVIDENCE","nc":1,"o":"-71.444247"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.59939,41.38596],"type":"Point"},"properties":{"a":"41.38596","cty":"WASHINGTON","hp":true,"id":20261075659,"mun":"SOUTH KINGSTOWN","nc":1396,"ne":{"a":"41.40774","o":"-71.57945"},"o":"-71.59939","sw":{"a":"41.36418","o":"-71.61934"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.357055,41.831583],"type":"Point"},"properties":{"a":"41.831583","cty":"PROVIDENCE","id":20261075665,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.357055"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.503946,41.388581],"type":"Point"},"properties":{"a":"41.388581","cty":"WASHINGTON","id":20261075666,"mun":"NARRAGANSETT","nc":1,"o":"-71.503946"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.557882,41.398711],"type":"Point"},"properties":{"a":"41.398711","cty":"WASHINGTON","id":20261075669,"mun":"SOUTH KINGSTOWN","nc":5,"o":"-71.557882"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.64126,41.382532],"type":"Point"},"properties":{"a":"41.382532","cty":"WASHINGTON","id":20261075673,"mun":"CHARLESTOWN","nc":1,"o":"-71.64126"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.629805,41.385618],"type":"Point"},"properties":{"a":"41.385618","cty":"WASHINGTON","id":20261075678,"mun":"CHARLESTOWN","nc":1,"o":"-71.629805"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.627114,41.386736],"type":"Point"},"properties":{"a":"41.386736","cty":"WASHINGTON","id":20261075679,"mun":"CHARLESTOWN","nc":1,"o":"-71.627114"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.52569,41.388956],"type":"Point"},"properties":{"a":"41.388956","cty":"WASHINGTON","id":20261075682,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.52569"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.626679,41.392064],"type":"Point"},"properties":{"a":"41.392064","cty":"WASHINGTON","id":20261075684,"mun":"CHARLESTOWN","nc":1,"o":"-71.626679"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.581069,41.487839],"type":"Point"},"properties":{"a":"41.487839","cty":"WASHINGTON","id":20261075685,"mun":"SOUTH KINGSTOWN","nc":1,"o":"-71.581069"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.580521,41.804867],"type":"Point"},"properties":{"a":"41.804867","cty":"PROVIDENCE","id":20261075689,"mun":"SCITUATE","nc":2,"o":"-71.580521"},"type":"Feature"}
 ]}
