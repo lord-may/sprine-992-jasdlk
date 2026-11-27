@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.45568,41.59632],"type":"Point"},"properties":{"a":"41.59632","cty":"WASHINGTON","id":20261075810,"mun":"NORTH KINGSTOWN","nc":2,"o":"-71.45568"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.413416,41.896264],"type":"Point"},"properties":{"a":"41.896264","cty":"PROVIDENCE","id":20261075902,"mun":"LINCOLN","nc":14,"o":"-71.413416"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.444247,41.84301],"type":"Point"},"properties":{"a":"41.84301","cty":"PROVIDENCE","id":20261075907,"mun":"PROVIDENCE","nc":1,"o":"-71.444247"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.413416,41.896264],"type":"Point"},"properties":{"a":"41.896264","cty":"PROVIDENCE","id":20261075902,"mun":"LINCOLN","nc":14,"o":"-71.413416"},"type":"Feature"}
 ]}
