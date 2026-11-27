@@ -3,9 +3,9 @@
 {"geometry":{"coordinates":[-71.415731,41.896079],"type":"Point"},"properties":{"a":"41.896079","cty":"PROVIDENCE","id":20261075997,"mun":"LINCOLN","nc":8,"o":"-71.415731"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.59101,41.495],"type":"Point"},"properties":{"a":"41.495","cty":"WASHINGTON","hp":true,"id":20261076013,"mun":"SOUTH KINGSTOWN","nc":14,"ne":{"a":"41.49569","o":"-71.59031"},"o":"-71.59101","sw":{"a":"41.49431","o":"-71.59171"}},"type":"Feature"},
 {"geometry":{"coordinates":[-71.62679,41.4034],"type":"Point"},"properties":{"a":"41.4034","cty":"WASHINGTON","hp":true,"id":20261076040,"mun":"CHARLESTOWN","nc":90,"ne":{"a":"41.40872","o":"-71.6225"},"o":"-71.62679","sw":{"a":"41.39807","o":"-71.63109"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.301872,41.493739],"type":"Point"},"properties":{"a":"41.493739","cty":"NEWPORT","id":20261076054,"mun":"NEWPORT","nc":1,"o":"-71.301872"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.450659,41.515325],"type":"Point"},"properties":{"a":"41.515325","cty":"WASHINGTON","id":20261076056,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.450659"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.22499,41.623088],"type":"Point"},"properties":{"a":"41.623088","cty":"NEWPORT","id":20261076081,"mun":"PORTSMOUTH","nc":1,"o":"-71.22499"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.61777,41.95159],"type":"Point"},"properties":{"a":"41.95159","cty":"PROVIDENCE","hp":true,"id":20261076096,"mun":"BURRILLVILLE","nc":41,"ne":{"a":"41.95529","o":"-71.60655"},"o":"-71.61777","sw":{"a":"41.94788","o":"-71.62899"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.372818,41.884341],"type":"Point"},"properties":{"a":"41.884341","cty":"PROVIDENCE","id":20261076100,"mun":"PAWTUCKET","nc":1,"o":"-71.372818"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.502827,41.445671],"type":"Point"},"properties":{"a":"41.445671","cty":"WASHINGTON","id":20261076106,"mun":"SOUTH KINGSTOWN","nc":19,"o":"-71.502827"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.499519,41.723335],"type":"Point"},"properties":{"a":"41.723335","cty":"KENT","id":20261076110,"mun":"WEST WARWICK","nc":1,"o":"-71.499519"},"type":"Feature"}
 ]}
