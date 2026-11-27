@@ -8,6 +8,5 @@
 {"geometry":{"coordinates":[-71.301872,41.493739],"type":"Point"},"properties":{"a":"41.493739","cty":"NEWPORT","id":20261076054,"mun":"NEWPORT","nc":1,"o":"-71.301872"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.450659,41.515325],"type":"Point"},"properties":{"a":"41.515325","cty":"WASHINGTON","id":20261076056,"mun":"NORTH KINGSTOWN","nc":1,"o":"-71.450659"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.41439,41.896185],"type":"Point"},"properties":{"a":"41.896185","cty":"PROVIDENCE","id":20261076080,"mun":"LINCOLN","nc":5,"o":"-71.41439"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.22499,41.623088],"type":"Point"},"properties":{"a":"41.623088","cty":"NEWPORT","id":20261076081,"mun":"PORTSMOUTH","nc":1,"o":"-71.22499"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.419852,41.661611],"type":"Point"},"properties":{"a":"41.661611","cty":"KENT","id":20261076091,"mun":"WARWICK","nc":1,"o":"-71.419852"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.22499,41.623088],"type":"Point"},"properties":{"a":"41.623088","cty":"NEWPORT","id":20261076081,"mun":"PORTSMOUTH","nc":1,"o":"-71.22499"},"type":"Feature"}
 ]}
