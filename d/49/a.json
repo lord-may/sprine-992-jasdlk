@@ -1,3 +1,6 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-76.13201,38.839558],"type":"Point"},"properties":{"dateReceived":"2026-11-27T11:27:00.000Z","id":877225,"latitude":38.8395576,"longitude":-76.13201,"neighborhood":"Todds Corner","problemName":"No Electric","serviceName":"Electric"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.13661,38.832264],"type":"Point"},"properties":{"dateReceived":"2026-11-27T11:28:00.000Z","id":877226,"latitude":38.8322639,"longitude":-76.13661,"neighborhood":"Todds Corner","problemName":"No Electric","serviceName":"Electric"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.14345,38.831352],"type":"Point"},"properties":{"dateReceived":"2026-11-27T11:29:00.000Z","id":877227,"latitude":38.8313522,"longitude":-76.14345,"neighborhood":"Bruffs Island","problemName":"No Electric","serviceName":"Electric"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.12392,38.84306],"type":"Point"},"properties":{"dateReceived":"2026-11-27T11:30:00.000Z","id":877228,"latitude":38.84306,"longitude":-76.12392,"neighborhood":"Kintore","problemName":"No Electric","serviceName":"Electric"},"type":"Feature"}
 ]}
