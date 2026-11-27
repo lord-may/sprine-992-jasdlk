@@ -1,10 +1,10 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-78.252748,42.392402],"type":"Point"},"properties":{"EstRest":"11/27/2026 1:45:00 AM","Outages":711,"county":"ALLEGANY","customers":11032,"incidents":14,"level":"county","opco":"RGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.643071,43.26199],"type":"Point"},"properties":{"EstRest":"11/26/2026 11:30:00 PM","Outages":66,"county":"CAYUGA","customers":6006,"incidents":5,"level":"county","opco":"RGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-77.983611,42.523308],"type":"Point"},"properties":{"EstRest":"11/27/2026 1:45:00 AM","Outages":505,"county":"LIVINGSTON","customers":6498,"incidents":6,"level":"county","opco":"RGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-78.012592,42.484381],"type":"Point"},"properties":{"EstRest":"11/27/2026 2:00:00 AM","Outages":735,"county":"ALLEGANY","customers":11032,"incidents":18,"level":"county","opco":"RGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-76.643071,43.26199],"type":"Point"},"properties":{"EstRest":"11/26/2026 11:30:00 PM","Outages":56,"county":"CAYUGA","customers":6006,"incidents":4,"level":"county","opco":"RGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-78.000453,42.520599],"type":"Point"},"properties":{"EstRest":"11/27/2026 1:45:00 AM","Outages":505,"county":"LIVINGSTON","customers":6498,"incidents":6,"level":"county","opco":"RGE"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.630523,43.102647],"type":"Point"},"properties":{"EstRest":"11/27/2026 12:45:00 AM","Outages":125,"county":"MONROE","customers":304665,"incidents":3,"level":"county","opco":"RGE"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.400503,42.69128],"type":"Point"},"properties":{"EstRest":"11/27/2026 1:45:00 AM","Outages":39,"county":"ONTARIO","customers":35980,"incidents":3,"level":"county","opco":"RGE"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.482216,43.172433],"type":"Point"},"properties":{"EstRest":"11/26/2026 11:30:00 PM","Outages":1,"cause":"","county":"WAYNE","crewstatus":"DISP ","customers":1,"hamlet":"CATO","incidentnumber":"011IXE","incidents":1,"level":"street","opco":"RGE","street":"WHITE RD","town":"CATO"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.482216,43.172433],"type":"Point"},"properties":{"EstRest":"11/26/2026 11:30:00 PM","Outages":1,"county":"WAYNE","customers":26815,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-78.133404,42.57552],"type":"Point"},"properties":{"EstRest":"11/27/2026 12:00:15 AM","Outages":1154,"county":"WYOMING","customers":1197,"incidents":13,"level":"county","opco":"RGE"},"type":"Feature"}
+{"geometry":{"coordinates":[-78.206168,42.576515],"type":"Point"},"properties":{"EstRest":"11/27/2026 1:30:00 AM","Outages":1154,"county":"WYOMING","customers":1197,"incidents":13,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
