@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.508,41.64989],"type":"Point"},"properties":{"a":"41.64989","cty":"KENT","hp":true,"id":20261075442,"mun":"EAST GREENWICH","nc":86,"ne":{"a":"41.65435","o":"-71.49933"},"o":"-71.508","sw":{"a":"41.64543","o":"-71.51666"}},"type":"Feature"},
-{"geometry":{"coordinates":[-71.7774,41.42769],"type":"Point"},"properties":{"a":"41.42769","cty":"WASHINGTON","hp":true,"id":20261075450,"mun":"HOPKINTON","nc":12,"ne":{"a":"41.42946","o":"-71.77495"},"o":"-71.7774","sw":{"a":"41.42592","o":"-71.77985"}},"type":"Feature"}
+{"geometry":{"coordinates":[-71.7774,41.42769],"type":"Point"},"properties":{"a":"41.42769","cty":"WASHINGTON","hp":true,"id":20261075450,"mun":"HOPKINTON","nc":12,"ne":{"a":"41.42946","o":"-71.77495"},"o":"-71.7774","sw":{"a":"41.42592","o":"-71.77985"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.56388,41.37442],"type":"Point"},"properties":{"a":"41.37442","cty":"WASHINGTON","hp":true,"id":20261075563,"mun":"SOUTH KINGSTOWN","nc":10,"ne":{"a":"41.37663","o":"-71.56266"},"o":"-71.56388","sw":{"a":"41.37221","o":"-71.56511"}},"type":"Feature"},
+{"geometry":{"coordinates":[-71.73452,41.50111],"type":"Point"},"properties":{"a":"41.50111","cty":"WASHINGTON","hp":true,"id":20261075573,"mun":"HOPKINTON","nc":63,"ne":{"a":"41.50708","o":"-71.72653"},"o":"-71.73452","sw":{"a":"41.49515","o":"-71.74251"}},"type":"Feature"}
 ]}
