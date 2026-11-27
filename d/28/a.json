@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-76.697575,39.870214],"type":"Point"},"properties":{"comment":"Adams Electric is currently experiencing an outage due to unknown cause at this time. Crews have been dispatched and we appreciate your cooperation while this issue is resolved. Thank you.","crewAssigned":true,"id":"476015","lifeCycleStatus":"On-Site","nbrOut":22,"planned":false,"timeOff":1795713936369},"type":"Feature"},
 {"geometry":{"coordinates":[-76.924714,40.08898],"type":"Point"},"properties":{"comment":"Adams Electric is currently experiencing an outage due to unknown cause at this time. Crews have been dispatched and we appreciate your cooperation while this issue is resolved. Thank you.","crewAssigned":true,"id":"476026","lifeCycleStatus":"On-Site","nbrOut":1,"planned":false,"timeOff":1795717095040},"type":"Feature"},
-{"geometry":{"coordinates":[-77.345189,39.967992],"type":"Point"},"properties":{"cause":"Tree Failure Without Ice/Snow","crewAssigned":true,"id":"476108","lifeCycleStatus":"Assigned","nbrOut":23,"planned":false,"timeOff":1795735314050},"type":"Feature"},
 {"geometry":{"coordinates":[-76.437737,39.782204],"type":"Point"},"properties":{"crewAssigned":true,"id":"476111","lifeCycleStatus":"Assigned","nbrOut":1,"planned":false,"timeOff":1795742077761},"type":"Feature"}
 ]}

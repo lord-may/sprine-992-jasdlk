@@ -18,5 +18,7 @@
 {"geometry":{"coordinates":[-71.415345,41.896065],"type":"Point"},"properties":{"a":"41.896065","cty":"PROVIDENCE","id":20261075750,"mun":"LINCOLN","nc":1,"o":"-71.415345"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.387966,41.925412],"type":"Point"},"properties":{"a":"41.925412","cty":"PROVIDENCE","id":20261075755,"mun":"CUMBERLAND","nc":2,"o":"-71.387966"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.458616,42.014385],"type":"Point"},"properties":{"a":"42.014385","cty":"PROVIDENCE","id":20261075760,"mun":"WOONSOCKET","nc":1,"o":"-71.458616"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.439524,41.834779],"type":"Point"},"properties":{"a":"41.834779","cty":"PROVIDENCE","id":20261075765,"mun":"PROVIDENCE","nc":1,"o":"-71.439524"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.446366,41.756222],"type":"Point"},"properties":{"a":"41.756222","cty":"PROVIDENCE","id":20261075767,"mun":"CRANSTON","nc":1,"o":"-71.446366"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.398731,41.787397],"type":"Point"},"properties":{"a":"41.787397","cty":"PROVIDENCE","id":20261075769,"mun":"PROVIDENCE","nc":1,"o":"-71.398731"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.445036,41.471064],"type":"Point"},"properties":{"a":"41.471064","cty":"WASHINGTON","id":20261075772,"mun":"NARRAGANSETT","nc":1,"o":"-71.445036"},"type":"Feature"}
 ]}
