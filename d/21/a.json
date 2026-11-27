@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-69.964817,44.458445],"type":"Point"},"properties":{"EstRest":"11/27/2026 3:45:00 AM","Outages":1,"cause":"","county":"KENNEBEC","crewstatus":"DISP ","customers":6,"hamlet":"MOUNT VERNON","incidentnumber":"004893","incidents":1,"level":"street","opco":"CMP","street":"DILL RD","town":"MOUNT VERNON"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.964817,44.458445],"type":"Point"},"properties":{"EstRest":"11/27/2026 3:45:00 AM","Outages":1,"cause":"","county":"KENNEBEC","crewstatus":"ENRT ","customers":6,"hamlet":"MOUNT VERNON","incidentnumber":"004893","incidents":1,"level":"street","opco":"CMP","street":"DILL RD","town":"MOUNT VERNON"},"type":"Feature"},
 {"geometry":{"coordinates":[-69.964817,44.458445],"type":"Point"},"properties":{"EstRest":"11/27/2026 3:45:00 AM","Outages":1,"county":"KENNEBEC","customers":75925,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.646344,43.120014],"type":"Point"},"properties":{"EstRest":"11/27/2026 3:30:00 AM","Outages":752,"county":"YORK","customers":132723,"incidents":5,"level":"county","opco":"CMP"},"type":"Feature"}
+{"geometry":{"coordinates":[-70.641293,43.120074],"type":"Point"},"properties":{"EstRest":"11/27/2026 3:45:00 AM","Outages":788,"county":"YORK","customers":132723,"incidents":6,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}
