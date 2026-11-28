@@ -401,7 +401,6 @@
 {"geometry":{"coordinates":[-75.31412,40.294034],"type":"Point"},"properties":{"a":"40.294034","cty":"MONTGOMERY","id":8845756,"mun":"FRANCONIA TWP","nc":2,"o":"-75.31412"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.309926,40.495581],"type":"Point"},"properties":{"a":"40.495581","cty":"BUCKS","id":8845768,"mun":"SPRINGFIELD TWP","nc":3,"o":"-75.309926"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.10679,40.88639],"type":"Point"},"properties":{"a":"40.88639","cty":"SCHUYLKILL","hp":true,"id":8845788,"mun":"EAST UNION TWP","nc":398,"ne":{"a":"40.90278","o":"-76.08046"},"o":"-76.10679","sw":{"a":"40.87","o":"-76.13312"}},"type":"Feature"},
-{"geometry":{"coordinates":[-76.167152,40.857646],"type":"Point"},"properties":{"a":"40.857646","cty":"SCHUYLKILL","id":8845789,"mun":"EAST UNION TWP","nc":3,"o":"-76.167152"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.311747,41.464059],"type":"Point"},"properties":{"a":"41.464059","cty":"WAYNE","id":8845793,"mun":"LAKE TWP","nc":2,"o":"-75.311747"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.144224,40.8324],"type":"Point"},"properties":{"a":"40.8324","cty":"SCHUYLKILL","id":8845800,"mun":"MAHANOY TWP","nc":5,"o":"-76.144224"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.475022,41.308552],"type":"Point"},"properties":{"a":"41.308552","cty":"LACKAWANNA","id":8845810,"mun":"COVINGTON TWP","nc":2,"o":"-75.475022"},"type":"Feature"},
@@ -1332,13 +1331,11 @@
 {"geometry":{"coordinates":[-75.305194,40.569488],"type":"Point"},"properties":{"a":"40.569488","cty":"NORTHAMPTON","id":8857316,"mun":"LOWER SAUCON TWP","nc":2,"o":"-75.305194"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.555286,41.157959],"type":"Point"},"properties":{"a":"41.157959","cty":"MONROE","id":8857320,"mun":"COOLBAUGH TWP","nc":18,"o":"-75.555286"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.26551,40.56506],"type":"Point"},"properties":{"a":"40.56506","cty":"BUCKS","hp":true,"id":8857321,"mun":"SPRINGFIELD TWP","nc":16,"ne":{"a":"40.56839","o":"-75.25834"},"o":"-75.26551","sw":{"a":"40.56173","o":"-75.27268"}},"type":"Feature"},
-{"geometry":{"coordinates":[-75.470257,40.863789],"type":"Point"},"properties":{"a":"40.863789","cty":"MONROE","id":8857327,"mun":"ELDRED TWP","nc":3,"o":"-75.470257"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.589821,41.017507],"type":"Point"},"properties":{"a":"41.017507","cty":"CARBON","id":8857329,"mun":"KIDDER TWP","nc":1,"o":"-75.589821"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.897994,41.015075],"type":"Point"},"properties":{"a":"41.015075","cty":"LUZERNE","id":8857332,"mun":"FOSTER TWP","nc":1,"o":"-75.897994"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.326231,40.211316],"type":"Point"},"properties":{"a":"40.211316","cty":"LANCASTER","id":8857333,"mun":"ELIZABETH TWP","nc":2,"o":"-76.326231"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.330633,39.836019],"type":"Point"},"properties":{"a":"39.836019","cty":"LANCASTER","id":8857334,"mun":"MARTIC TWP","nc":2,"o":"-76.330633"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.227293,40.536465],"type":"Point"},"properties":{"a":"40.536465","cty":"BUCKS","id":8857336,"mun":"SPRINGFIELD TWP","nc":1,"o":"-75.227293"},"type":"Feature"},
-{"geometry":{"coordinates":[-75.901154,41.017925],"type":"Point"},"properties":{"a":"41.017925","cty":"LUZERNE","id":8857337,"mun":"FOSTER TWP","nc":13,"o":"-75.901154"},"type":"Feature"},
 {"geometry":{"coordinates":[-75.230459,40.620407],"type":"Point"},"properties":{"a":"40.620407","cty":"NORTHAMPTON","id":8857338,"mun":"WILLIAMS TWP","nc":2,"o":"-75.230459"},"type":"Feature"},
 {"geometry":{"coordinates":[-76.360349,40.027818],"type":"Point"},"properties":{"a":"40.027818","cty":"LANCASTER","id":8857340,"mun":"MANOR TWP","nc":8,"o":"-76.360349"},"type":"Feature"}
 ]}
