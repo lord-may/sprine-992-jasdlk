@@ -1,8 +1,9 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-78.134581,42.025245],"type":"Point"},"properties":{"EstRest":"11/28/2026 5:00:00 PM","Outages":487,"county":"ALLEGANY","customers":11032,"incidents":37,"level":"county","opco":"RGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-78.134581,42.025245],"type":"Point"},"properties":{"EstRest":"11/28/2026 5:30:00 PM","Outages":487,"county":"ALLEGANY","customers":11032,"incidents":37,"level":"county","opco":"RGE"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.906536,42.581705],"type":"Point"},"properties":{"EstRest":"11/28/2026 5:30:00 PM","Outages":19,"county":"LIVINGSTON","customers":6498,"incidents":6,"level":"county","opco":"RGE"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.558111,43.087864],"type":"Point"},"properties":{"EstRest":"11/27/2026 9:40:00 PM","Outages":1,"cause":"Tree","county":"MONROE","crewstatus":"ONST ","customers":34,"hamlet":"PITTSFORD","incidentnumber":"011LOZ","incidents":1,"level":"street","opco":"RGE","street":"JEFFERSON RD","town":"HENRIETTA"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.558111,43.087864],"type":"Point"},"properties":{"EstRest":"11/27/2026 9:40:00 PM","Outages":1,"county":"MONROE","customers":304665,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-76.964892,43.212127],"type":"Point"},"properties":{"EstRest":"11/28/2026 5:00:00 PM","Outages":18,"county":"WAYNE","customers":26815,"incidents":2,"level":"county","opco":"RGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-78.189166,42.260259],"type":"Point"},"properties":{"EstRest":"11/28/2026 5:00:00 PM","Outages":1,"cause":"","county":"WAYNE","crewstatus":"DISP ","customers":1,"hamlet":"NORTH ROSE","incidentnumber":"011JKS","incidents":1,"level":"street","opco":"RGE","street":"CRESCENT BEACH","town":"BELFAST"},"type":"Feature"},
+{"geometry":{"coordinates":[-78.189166,42.260259],"type":"Point"},"properties":{"EstRest":"11/28/2026 5:00:00 PM","Outages":1,"county":"WAYNE","customers":26815,"incidents":1,"level":"county","opco":"RGE"},"type":"Feature"},
 {"geometry":{"coordinates":[-78.061316,42.560878],"type":"Point"},"properties":{"EstRest":"11/28/2026 5:30:00 PM","Outages":55,"county":"WYOMING","customers":1197,"incidents":8,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
