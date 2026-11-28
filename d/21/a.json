@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.208577,44.671177],"type":"Point"},"properties":{"EstRest":"11/28/2026 3:45:00 PM","Outages":1,"cause":"","county":"FRANKLIN","crewstatus":"ONST ","customers":91,"hamlet":"WILTON","incidentnumber":"0048F7","incidents":1,"level":"street","opco":"CMP","street":"TEMPLE RD","town":"WILTON"},"type":"Feature"},
+{"geometry":{"coordinates":[-70.208577,44.671177],"type":"Point"},"properties":{"EstRest":"11/28/2026 3:45:00 PM","Outages":1,"cause":"Tree","county":"FRANKLIN","crewstatus":"CMPL ","customers":91,"hamlet":"WILTON","incidentnumber":"0048F7","incidents":1,"level":"street","opco":"CMP","street":"TEMPLE RD","town":"WILTON"},"type":"Feature"},
 {"geometry":{"coordinates":[-70.208577,44.671177],"type":"Point"},"properties":{"EstRest":"11/28/2026 3:45:00 PM","Outages":1,"county":"FRANKLIN","customers":24700,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
 ]}

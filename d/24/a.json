@@ -1,5 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.544229,41.946332],"type":"Point"},"properties":{"a":"41.946332","cty":"PROVIDENCE","id":20261076578,"mun":"NORTH SMITHFIELD","nc":2,"o":"-71.544229"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.474501,41.790238],"type":"Point"},"properties":{"a":"41.790238","cty":"PROVIDENCE","id":20261076583,"mun":"CRANSTON","nc":1,"o":"-71.474501"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.490512,41.85923],"type":"Point"},"properties":{"a":"41.85923","cty":"PROVIDENCE","id":20261076591,"mun":"JOHNSTON","nc":1,"o":"-71.490512"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.490512,41.85923],"type":"Point"},"properties":{"a":"41.85923","cty":"PROVIDENCE","id":20261076591,"mun":"JOHNSTON","nc":1,"o":"-71.490512"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.521879,41.687956],"type":"Point"},"properties":{"a":"41.687956","cty":"KENT","id":20261076600,"mun":"WEST WARWICK","nc":1,"o":"-71.521879"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.283435,41.489482],"type":"Point"},"properties":{"a":"41.489482","cty":"NEWPORT","id":20261076601,"mun":"MIDDLETOWN","nc":1,"o":"-71.283435"},"type":"Feature"}
 ]}
