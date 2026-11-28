@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.434278,41.692114],"type":"Point"},"properties":{"a":"41.692114","cty":"KENT","id":20261076464,"mun":"WARWICK","nc":1,"o":"-71.434278"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.539314,42.007047],"type":"Point"},"properties":{"a":"42.007047","cty":"PROVIDENCE","id":20261076465,"mun":"NORTH SMITHFIELD","nc":1,"o":"-71.539314"},"type":"Feature"}
 ]}
