@@ -1,3 +1,6 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-69.283201,44.099191],"type":"Point"},"properties":{"EstRest":"11/28/2026 11:45:00 AM","Outages":13,"cause":"","county":"KNOX","crewstatus":"DISP ","customers":14,"hamlet":"WARREN","incidentnumber":"0048EJ","incidents":1,"level":"street","opco":"CMP","street":"S SHORE DR","town":"WARREN"},"type":"Feature"},
+{"geometry":{"coordinates":[-69.283201,44.099191],"type":"Point"},"properties":{"EstRest":"11/28/2026 11:45:00 AM","Outages":13,"county":"KNOX","customers":27251,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-68.967295,44.360945],"type":"Point"},"properties":{"EstRest":"11/28/2026 11:45:00 AM","Outages":15,"county":"WALDO","customers":26703,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
+{"geometry":{"coordinates":[-68.968793,44.362815],"type":"Point"},"properties":{"EstRest":"11/28/2026 11:45:00 AM","Outages":2,"cause":"","county":"WALDO","crewstatus":"DISP ","customers":3,"hamlet":"NORTHPORT","incidentnumber":"0048EI","incidents":1,"level":"street","opco":"CMP","street":"MOUNTAIN RD","town":"NORTHPORT"},"type":"Feature"}
 ]}
