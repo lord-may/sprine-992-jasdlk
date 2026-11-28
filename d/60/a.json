@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-79.99395,40.61529],"type":"Point"},"properties":{"additionalProperties":[{"property":"jobNumber","value":"Job.26.11.28.00002"},{"property":"zips","value":["15044"]},{"property":"counties","value":["ALLEGHENY"]},{"property":"municipalities","value":["GIBSONIA"]}],"cause":"Under Investigation","etrTime":1795856400000,"id":2258992,"identifier":"Job.26.11.28.00002_6b0a63021dd8c73cfe746064","lastUpdatedTime":1795843214000,"latitude":40.61529,"longitude":-79.99395,"numPeople":541,"startTime":1795842814000,"status":"Crew Assigned","title":"Outage"},"type":"Feature"}
 ]}
