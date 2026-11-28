@@ -6,9 +6,8 @@
 {"geometry":{"coordinates":[-71.369103,41.538208],"type":"Point"},"properties":{"a":"41.538208","cty":"NEWPORT","id":20261076560,"mun":"JAMESTOWN","nc":1,"o":"-71.369103"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.529002,41.71224],"type":"Point"},"properties":{"a":"41.71224","cty":"KENT","id":20261076563,"mun":"WEST WARWICK","nc":1,"o":"-71.529002"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.442064,41.850738],"type":"Point"},"properties":{"a":"41.850738","cty":"PROVIDENCE","id":20261076564,"mun":"PROVIDENCE","nc":1,"o":"-71.442064"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.823348,41.345786],"type":"Point"},"properties":{"a":"41.345786","cty":"WASHINGTON","id":20261076566,"mun":"WESTERLY","nc":1,"o":"-71.823348"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.307938,41.492307],"type":"Point"},"properties":{"a":"41.492307","cty":"NEWPORT","id":20261076572,"mun":"NEWPORT","nc":16,"o":"-71.307938"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.544229,41.946332],"type":"Point"},"properties":{"a":"41.946332","cty":"PROVIDENCE","id":20261076578,"mun":"NORTH SMITHFIELD","nc":2,"o":"-71.544229"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.474501,41.790238],"type":"Point"},"properties":{"a":"41.790238","cty":"PROVIDENCE","id":20261076583,"mun":"CRANSTON","nc":1,"o":"-71.474501"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.453687,41.826723],"type":"Point"},"properties":{"a":"41.826723","cty":"PROVIDENCE","id":20261076584,"mun":"PROVIDENCE","nc":1,"o":"-71.453687"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.783759,41.619985],"type":"Point"},"properties":{"a":"41.619985","cty":"KENT","id":20261076587,"mun":"WEST GREENWICH","nc":1,"o":"-71.783759"},"type":"Feature"}
 ]}
