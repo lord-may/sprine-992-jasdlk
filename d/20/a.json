@@ -2,5 +2,5 @@
 {"geometry":{"coordinates":[-78.134581,42.025245],"type":"Point"},"properties":{"EstRest":"11/28/2026 5:00:00 PM","Outages":123,"county":"ALLEGANY","customers":11032,"incidents":18,"level":"county","opco":"RGE"},"type":"Feature"},
 {"geometry":{"coordinates":[-78.002219,42.545622],"type":"Point"},"properties":{"EstRest":"11/28/2026 5:30:00 PM","Outages":6,"county":"LIVINGSTON","customers":6498,"incidents":3,"level":"county","opco":"RGE"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.462749,42.744112],"type":"Point"},"properties":{"EstRest":"11/28/2026 1:15:00 PM","Outages":2,"county":"ONTARIO","customers":35980,"incidents":2,"level":"county","opco":"RGE"},"type":"Feature"},
-{"geometry":{"coordinates":[-78.249794,42.567859],"type":"Point"},"properties":{"EstRest":"11/28/2026 5:00:00 PM","Outages":25,"county":"WYOMING","customers":1197,"incidents":6,"level":"county","opco":"RGE"},"type":"Feature"}
+{"geometry":{"coordinates":[-78.249794,42.567859],"type":"Point"},"properties":{"EstRest":"11/28/2026 5:00:00 PM","Outages":26,"county":"WYOMING","customers":1197,"incidents":7,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
