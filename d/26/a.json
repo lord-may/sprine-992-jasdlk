@@ -6,7 +6,6 @@
 {"geometry":{"coordinates":[-72.17895,43.225805],"type":"Point"},"properties":{"id":"595980","nbrOut":1,"timeOff":1795802160000},"type":"Feature"},
 {"geometry":{"coordinates":[-72.258802,43.316767],"type":"Point"},"properties":{"id":"595996","nbrOut":1,"timeOff":1795809942153},"type":"Feature"},
 {"geometry":{"coordinates":[-71.292888,43.626149],"type":"Point"},"properties":{"comment":"There is a crew enroute to the outage affecting your area. Estimated time of restoration is not yet available.","id":"596007","nbrOut":1,"timeOff":1795814520000},"type":"Feature"},
-{"geometry":{"coordinates":[-71.681059,43.730151],"type":"Point"},"properties":{"comment":"There is a crew enroute to the outage affecting your area. Estimated time of restoration is not yet available.","id":"596026","nbrOut":1,"timeOff":1795822889195},"type":"Feature"},
 {"geometry":{"coordinates":[-72.236335,43.221275],"type":"Point"},"properties":{"id":"596027","nbrOut":1,"timeOff":1795822680000},"type":"Feature"},
 {"geometry":{"coordinates":[-72.35917,43.238463],"type":"Point"},"properties":{"id":"596028","nbrOut":1,"timeOff":1795825116101},"type":"Feature"}
 ]}
