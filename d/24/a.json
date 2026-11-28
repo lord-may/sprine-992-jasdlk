@@ -1,6 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-71.740641,41.806678],"type":"Point"},"properties":{"a":"41.806678","cty":"PROVIDENCE","id":20261076468,"mun":"FOSTER","nc":1,"o":"-71.740641"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.201849,41.599627],"type":"Point"},"properties":{"a":"41.599627","cty":"NEWPORT","id":20261076471,"mun":"TIVERTON","nc":3,"o":"-71.201849"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.499162,41.868032],"type":"Point"},"properties":{"a":"41.868032","cty":"PROVIDENCE","id":20261076473,"mun":"JOHNSTON","nc":1,"o":"-71.499162"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.456634,41.799321],"type":"Point"},"properties":{"a":"41.799321","cty":"PROVIDENCE","id":20261076474,"mun":"CRANSTON","nc":1,"o":"-71.456634"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.201849,41.599627],"type":"Point"},"properties":{"a":"41.599627","cty":"NEWPORT","id":20261076471,"mun":"TIVERTON","nc":3,"o":"-71.201849"},"type":"Feature"}
 ]}
