@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.036556,44.906717],"type":"Point"},"properties":{"EstRest":"11/28/2026 10:15:00 AM","Outages":3,"cause":"","county":"SOMERSET","crewstatus":"ONST ","customers":73,"hamlet":"NEW PORTLAND","incidentnumber":"0048E7","incidents":1,"level":"street","opco":"CMP","street":"MIDDLE RD","town":"NEW PORTLAND"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.036556,44.906717],"type":"Point"},"properties":{"EstRest":"11/28/2026 10:15:00 AM","Outages":3,"county":"SOMERSET","customers":31730,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"}
+
 ]}
