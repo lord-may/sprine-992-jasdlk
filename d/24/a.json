@@ -8,5 +8,7 @@
 {"geometry":{"coordinates":[-71.486607,41.832122],"type":"Point"},"properties":{"a":"41.832122","cty":"PROVIDENCE","id":20261076501,"mun":"JOHNSTON","nc":1,"o":"-71.486607"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.521205,42.005906],"type":"Point"},"properties":{"a":"42.005906","cty":"PROVIDENCE","id":20261076506,"mun":"WOONSOCKET","nc":14,"o":"-71.521205"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.413043,41.882715],"type":"Point"},"properties":{"a":"41.882715","cty":"PROVIDENCE","id":20261076507,"mun":"LINCOLN","nc":1,"o":"-71.413043"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.4668,41.701409],"type":"Point"},"properties":{"a":"41.701409","cty":"KENT","id":20261076510,"mun":"WARWICK","nc":1,"o":"-71.4668"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.4668,41.701409],"type":"Point"},"properties":{"a":"41.701409","cty":"KENT","id":20261076510,"mun":"WARWICK","nc":1,"o":"-71.4668"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.485569,41.597954],"type":"Point"},"properties":{"a":"41.597954","cty":"WASHINGTON","id":20261076511,"mun":"NORTH KINGSTOWN","nc":12,"o":"-71.485569"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.487377,41.599958],"type":"Point"},"properties":{"a":"41.599958","cty":"WASHINGTON","id":20261076512,"mun":"NORTH KINGSTOWN","nc":18,"o":"-71.487377"},"type":"Feature"}
 ]}
