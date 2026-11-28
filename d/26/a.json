@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"geometries":[{"coordinates":[[[-71.121948,44.065454],[-71.119118,44.06781],[-71.119558,44.068656],[-71.120007,44.069011],[-71.126691,44.067694],[-71.126107,44.067146],[-71.121948,44.065454]]],"type":"Polygon"},{"coordinates":[-71.12246,44.067371],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"The outage affecting your area is due to multiple broken poles. Our crews are on scene making repairs. Estimated time of restoration is 4 pm","estimateTime":1795899600000,"id":"596043","nbrOut":21,"timeOff":1795866047000},"type":"Feature"},
-{"geometry":{"coordinates":[-71.390131,43.753275],"type":"Point"},"properties":{"id":"596052","nbrOut":1,"timeOff":1795885377452},"type":"Feature"}
+{"geometry":{"coordinates":[-71.390131,43.753275],"type":"Point"},"properties":{"comment":"There is a crew enroute to the outage affecting your area. Estimated time of restoration is not yet available.","id":"596052","nbrOut":1,"timeOff":1795885377452},"type":"Feature"},
+{"geometry":{"coordinates":[-71.155769,44.157171],"type":"Point"},"properties":{"id":"596053","nbrOut":1,"timeOff":1795886356025},"type":"Feature"}
 ]}
