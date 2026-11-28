@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-78.134581,42.025245],"type":"Point"},"properties":{"EstRest":"11/28/2026 5:30:00 PM","Outages":292,"county":"ALLEGANY","customers":11032,"incidents":30,"level":"county","opco":"RGE"},"type":"Feature"},
+{"geometry":{"coordinates":[-78.134581,42.025245],"type":"Point"},"properties":{"EstRest":"11/28/2026 5:30:00 PM","Outages":281,"county":"ALLEGANY","customers":11032,"incidents":30,"level":"county","opco":"RGE"},"type":"Feature"},
 {"geometry":{"coordinates":[-77.906536,42.581705],"type":"Point"},"properties":{"EstRest":"11/28/2026 5:30:00 PM","Outages":8,"county":"LIVINGSTON","customers":6498,"incidents":5,"level":"county","opco":"RGE"},"type":"Feature"},
 {"geometry":{"coordinates":[-78.061316,42.560878],"type":"Point"},"properties":{"EstRest":"11/28/2026 5:30:00 PM","Outages":56,"county":"WYOMING","customers":1197,"incidents":9,"level":"county","opco":"RGE"},"type":"Feature"}
 ]}
