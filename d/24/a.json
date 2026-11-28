@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-71.201849,41.599627],"type":"Point"},"properties":{"a":"41.599627","cty":"NEWPORT","id":20261076471,"mun":"TIVERTON","nc":3,"o":"-71.201849"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.346007,41.759333],"type":"Point"},"properties":{"a":"41.759333","cty":"PROVIDENCE","id":20261076475,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.346007"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.346007,41.759333],"type":"Point"},"properties":{"a":"41.759333","cty":"PROVIDENCE","id":20261076475,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.346007"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.47973,41.945474],"type":"Point"},"properties":{"a":"41.945474","cty":"PROVIDENCE","id":20261076478,"mun":"LINCOLN","nc":1,"o":"-71.47973"},"type":"Feature"}
 ]}
