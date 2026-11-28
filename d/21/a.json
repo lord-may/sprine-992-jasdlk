@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-70.631437,44.186913],"type":"Point"},"properties":{"EstRest":"11/28/2026 12:45:00 AM","Outages":8,"county":"OXFORD","customers":44086,"incidents":1,"level":"county","opco":"CMP"},"type":"Feature"},
-{"geometry":{"coordinates":[-70.635187,44.189729],"type":"Point"},"properties":{"EstRest":"11/28/2026 12:45:00 AM","Outages":1,"cause":"","county":"OXFORD","crewstatus":"ONST ","customers":1,"hamlet":"NORWAY","incidentnumber":"0048DA","incidents":1,"level":"street","opco":"CMP","street":"OLD PULP MILL LN","town":"NORWAY"},"type":"Feature"}
+
 ]}
