@@ -9,8 +9,9 @@
 {"geometry":{"coordinates":[-71.529002,41.71224],"type":"Point"},"properties":{"a":"41.71224","cty":"KENT","id":20261076563,"mun":"WEST WARWICK","nc":1,"o":"-71.529002"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.442064,41.850738],"type":"Point"},"properties":{"a":"41.850738","cty":"PROVIDENCE","id":20261076564,"mun":"PROVIDENCE","nc":1,"o":"-71.442064"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.823348,41.345786],"type":"Point"},"properties":{"a":"41.345786","cty":"WASHINGTON","id":20261076566,"mun":"WESTERLY","nc":1,"o":"-71.823348"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.358287,41.771084],"type":"Point"},"properties":{"a":"41.771084","cty":"PROVIDENCE","id":20261076569,"mun":"EAST PROVIDENCE","nc":1,"o":"-71.358287"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.457934,41.808677],"type":"Point"},"properties":{"a":"41.808677","cty":"PROVIDENCE","id":20261076571,"mun":"PROVIDENCE","nc":1,"o":"-71.457934"},"type":"Feature"},
 {"geometry":{"coordinates":[-71.307938,41.492307],"type":"Point"},"properties":{"a":"41.492307","cty":"NEWPORT","id":20261076572,"mun":"NEWPORT","nc":16,"o":"-71.307938"},"type":"Feature"},
-{"geometry":{"coordinates":[-71.438787,41.543572],"type":"Point"},"properties":{"a":"41.543572","cty":"WASHINGTON","id":20261076573,"mun":"NORTH KINGSTOWN","nc":2,"o":"-71.438787"},"type":"Feature"}
+{"geometry":{"coordinates":[-71.485804,41.8616],"type":"Point"},"properties":{"a":"41.8616","cty":"PROVIDENCE","id":20261076574,"mun":"NORTH PROVIDENCE","nc":1,"o":"-71.485804"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.436407,41.814964],"type":"Point"},"properties":{"a":"41.814964","cty":"PROVIDENCE","id":20261076575,"mun":"PROVIDENCE","nc":1,"o":"-71.436407"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.457934,41.808677],"type":"Point"},"properties":{"a":"41.808677","cty":"PROVIDENCE","id":20261076577,"mun":"PROVIDENCE","nc":1,"o":"-71.457934"},"type":"Feature"},
+{"geometry":{"coordinates":[-71.544229,41.946332],"type":"Point"},"properties":{"a":"41.946332","cty":"PROVIDENCE","id":20261076578,"mun":"NORTH SMITHFIELD","nc":2,"o":"-71.544229"},"type":"Feature"}
 ]}
